@@ -1,4 +1,5 @@
 
+#%%
 from random import randint as rand
 # making dice rolls more concise
 def d6():
@@ -41,7 +42,7 @@ def deathSaveComparisson (n):
             elif fails >= 3:
                 in_progress = False
                 break
-#The following are the Brutes death saving throws.  THey roll a d6 to go with the d20, if they and up to 20 it counts as a Nat 20
+#The following are the Brutes death saving throws.  They roll a d6 to go with the d20, if they and up to 20 it counts as a Nat 20
     for i in range(n):
         saves = 0
         fails = 0
@@ -93,16 +94,19 @@ def deathSaveComparisson (n):
                 in_progress = False
                 break
 #The following will print the results as a percentage of times rolled
-    print("Each unit was brought to 0 HP #" + str(n) + " times")
-    print("The Monk survived " + str(100*(monk/n)) + "% of the time and bounced right back " + str(100*(Monk/n)) + "% of the time.")
-    print("The Brute survived " + str(100*(brute/n)) + "% of the time and bounced right back " + str(100*(Brute/n)) + "% of the time.")
+    print("Each unit was brought to 0 HP " + str(n) + " times")
+    print("The 20th level Monk survived " + str(100*(monk/n)) + "% of the time and bounced right back " + str(100*(Monk/n)) + "% of the time.")
+    print("The 6th+ level Brute survived " + str(100*(brute/n)) + "% of the time and bounced right back " + str(100*(Brute/n)) + "% of the time.")
     print("The regular feller survived " + str(100*(regular/n)) + "% of the time and would bounce back " + str(100*(Regular/n)) + "% of the time.")
 
-no_times = int(input("How many iterations should we simulate?"))
+num_times = int(input("How many iterations should we simulate?"))
 
-deathSaveComparisson(no_times)
+deathSaveComparisson(num_times)
         
 
             
 
 
+
+
+# %%
