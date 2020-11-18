@@ -1,7 +1,7 @@
 
 #%%
 from random import randint as rand
-# making dice rolls more concise
+# making dice rolls more concise, will need six-sided and 20 sided dice
 def d6():
     roll = rand(1,6)
     return roll
@@ -9,7 +9,8 @@ def d20():
     roll = rand(1,20)
     return roll
 def deathSaveComparisson (n):
-# These are counters, the lowercase represents passing the series of death saves and the capital represents bouncing back with 1HP
+# These are counters representing both possible positive outcomes from a series of Death Saving Throws. 
+# The lowercase represents passing the series of death saves and the capital represents bouncing back with 1HP
     monk = 0
     Monk = 0
     brute = 0
@@ -95,9 +96,9 @@ def deathSaveComparisson (n):
                 break
 #The following will print the results as a percentage of times rolled
     print("Each unit was brought to 0 HP " + str(n) + " times")
-    print("The 20th level Monk survived " + str(100*(monk/n)) + "% of the time and bounced right back " + str(100*(Monk/n)) + "% of the time.")
-    print("The 6th+ level Brute survived " + str(100*(brute/n)) + "% of the time and bounced right back " + str(100*(Brute/n)) + "% of the time.")
-    print("The regular feller survived " + str(100*(regular/n)) + "% of the time and would bounce back " + str(100*(Regular/n)) + "% of the time.")
+    print("The 18th+ level Monk survived " + str(round(100*(monk/n),2)) + "% of the time and bounced right back " + str(round(100*(Monk/n),2)) + "% of the time.")
+    print("The 6th+ level Brute survived " + str(round(100*(brute/n),2)) + "% of the time and bounced right back " + str(round(100*(Brute/n),2)) + "% of the time.")
+    print("The regular feller survived " + str(round(100*(regular/n),2)) + "% of the time and would bounce back " + str(round(100*(Regular/n),2)) + "% of the time.")
 
 num_times = int(input("How many iterations should we simulate?"))
 
