@@ -33,7 +33,7 @@ Calculating the exact odds of any given outcome for each type of 'Death Saving T
 
 ### **Background:**
 
-If you're unfamiliar, Dungeons and Dragons (D&D) is a tabletop role-playing game.  Players make choices and roll dice to simulate the inherent randomness of the universe. They then add their characters bonuses to the roll, representing the effect a characters skill and ability plays in the scenario.
+If you're unfamiliar, Dungeons and Dragons (D&D) is a tabletop role-playing game.  Players make choices and roll dice to simulate the inherent randomness of the universe. They then add their characters bonuses to the roll, representing the effect a characters skill and ability plays in the scenario. This total is compared to a DC (Difficulty Class), and if the total matches or beats it, the endeavor succeeds.
 
 Every now and then the creators release iterations of an article called 'Unearthed Arcana' (UA) which proposes changes to the game, which people can playtest and give feedback on.  It is difficult to determine the overall balance of a proposed change through playtesting, however, as some games of D&D go on for months or years.  Significant imbalances might be noticible right away but there simply is not enough time to playtest enough times to get a good answer in a reasonable amount of time. This is why mathematical/statistical analysis is so prevalent in the community.  Dice randomness is easy to tackle mathematically and you can often get a quick and exact mathematical answer as to the change in probability of significant events.
 
