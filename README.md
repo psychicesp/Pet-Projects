@@ -2,11 +2,11 @@
 This repository was created when I first began learning Python and was intended to contain my little pet projects to mess around for fun or solve problems related to my hobbies.  Data Analysis with Python dominated more of my free time than I expected once the ball got rolling so right now there is but one project.
 
 ## **Brute Death Saving Throws:**
-I created this little program to answer a difficult statistical question related to Dungeons and Dragons.  When you run it you are prompted with a query asking:
+I created this little program to answer a difficult statistical question related to Dungeons and Dragons.  You can run it simply by running  Brute_Death_Saves_empirical.py. You will be prompted with a query asking:
 
 ![Query](Images/Query.PNG)
 <br>
-(100,000 iterations gives results consistently within about 0.5 percent and only takes a couple seconds to run)
+(100,000 iterations gives results consistently within about 0.5 percent and only takes a few seconds to run)
 
 It then prints these strings to the console:
 
