@@ -6,14 +6,15 @@ import time
 import pandas as pd
 file_name = 'death_saves_log.csv'
 df_output = {}
-df_output['simulator_type']= ["Single Thread"]
-df_output['computer_name'] = [platform.node()]
-df_output['processor'] = [platform.processor()]
 if 'Linux' in platform.system():
     distribution = platform.linux_distribution()
     df_output['operating_system'] = [f"{platform.system()} {platform.release()}({distribution}) version #{platform.version()}"]
 else:
     df_output['operating_system'] = [f"{platform.system()} {platform.release()} version {platform.version()}"]
+df_output['simulator_type']= ["Single Thread"]
+df_output['computer_name'] = [platform.node()]
+df_output['processor'] = [platform.processor()]
+
 # making dice rolls more concise, will need six-sided and 20 sided dice
 def d6():
     roll = rand(1,6)
@@ -110,6 +111,7 @@ def deathSaveComparisson (n):
                 break
     run_time = time.time()-start_time
     print(f'The program ran in {round(run_time, 2)} seconds')
+    
     df_output['run_time_seconds'] = [run_time]
     df_output['Monk_Survived']= [monk]
     df_output['Monk_Bounced']= [Monk]
@@ -117,23 +119,26 @@ def deathSaveComparisson (n):
     df_output['Feller_Bounced']= [Regular]
     df_output['Brute_Survived']= [brute]
     df_output['Brute_Bounced']= [Brute]
+    df_output['date_run']= [start_time]
+    df_output['score']=[(num_times/run_time)/10000]
+    df = pd.read_csv(file_name)
+    df_output['run_id'] = df['run_id'].max()+1
+    new_line = pd.DataFrame(df_output)
+    df = pd.concat([df, new_line])
 #The following will print the results as a percentage of times rolled
     print("Each unit was brought to 0 HP " + str(n) + " times")
     print("The 18th+ level Monk survived " + str(round(100*(monk/n),2)) + "% of the time and bounced right back " + str(round(100*(Monk/n),2)) + "% of the time.")
     print("The regular feller survived " + str(round(100*(regular/n),2)) + "% of the time and would bounce back " + str(round(100*(Regular/n),2)) + "% of the time.")
     print("The 6th+ level Brute survived " + str(round(100*(brute/n),2)) + "% of the time and bounced right back " + str(round(100*(Brute/n),2)) + "% of the time.")
-
+    if num_times >= 100000:
+        df.set_index('run_id').to_csv(file_name)
+    print("")
+    print("In general, the 18th+ level Monk survives " + str(round(100*((df['Monk_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounces right back " + str(round(100*((df['Monk_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")
+    print("The regular feller survives " + str(round(100*((df['Feller_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounces back " + str(round(100*((df['Feller_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")
+    print("The 6th+ level Brute survives " + str(round(100*((df['Brute_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounced right back " + str(round(100*((df['Brute_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")
 num_times = int(input("How many iterations should we simulate?"))
-df_output['Number_of_Runs'] = [num_times]
+
 deathSaveComparisson(num_times)
-df = pd.read_csv(file_name)
-df_output['run_id'] = df['run_id'].max()+1
-new_line = pd.DataFrame(df_output)
-df = pd.concat([df, new_line])
-if num_times >= 100000:
-    df.set_index('run_id').to_csv(file_name)
-print("""
-""")
-print("In general, the 18th+ level Monk survives " + str(round(100*((df['Monk_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounces right back " + str(round(100*((df['Monk_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")
-print("The regular feller survives " + str(round(100*((df['Feller_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounces back " + str(round(100*((df['Feller_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")
-print("The 6th+ level Brute survives " + str(round(100*((df['Brute_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounced right back " + str(round(100*((df['Brute_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")
+
+#%%
+

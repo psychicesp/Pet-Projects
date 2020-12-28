@@ -1,5 +1,5 @@
 #%%
-print("Ran the whole file")
+#print("Ran the whole file")
 import multiprocessing
 def test():
     print('yup')

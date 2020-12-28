@@ -155,6 +155,7 @@ def throw_saves(num):
         print(f'The program ran in {round(run_time, 2)} seconds')
         file_name = 'death_saves_log.csv'
         df_output = {}
+        df_output['date_run']= [start_time]
         with open("pickle_jar/monk.pickle", "rb") as sweet_butter:
             monk = pickle.load(sweet_butter)
         with open("pickle_jar/brute.pickle", "rb") as spicy:
@@ -168,9 +169,10 @@ def throw_saves(num):
         df_output['Brute_Survived']= [brute['survive']]
         df_output['Brute_Bounced']= [brute['bounce']]
         df_output['simulator_type']= ["Multi Thread"]
-        df_output['run_time_seconds'] = run_time
+        df_output['run_time_seconds'] = [run_time]
         df_output['computer_name'] = [platform.node()]
         df_output['processor'] = [platform.processor()]
+        df_output['score']=[(num/run_time)/10000]
         if 'Linux' in platform.system():
             distribution = platform.linux_distribution()
             df_output['operating_system'] = [f"{platform.system()} {platform.release()}({distribution}) version #{platform.version()}"]
@@ -181,7 +183,9 @@ def throw_saves(num):
         df_output['run_id'] = df['run_id'].max()+1
         new_line = pd.DataFrame(df_output)
         df = pd.concat([df, new_line])
-        if (num_times >= 100000):
+        print(df_output)
+        print(len(df_output.keys()))
+        if (num >= 100000):
             df.set_index('run_id').to_csv(file_name)
         print("""
         """)
