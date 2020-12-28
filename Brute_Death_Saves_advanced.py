@@ -6,6 +6,7 @@ import platform
 import time
 import pandas as pd
 #%%
+simulator_type= "Multiprocessing"
 computer_name = platform.node()
 processor = platform.processor()
 if platform.system() == 'Linux':

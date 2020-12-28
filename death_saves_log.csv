@@ -1,0 +1,6 @@
+run_id,simulator_type,computer_name,processor,operating_system,Number_of_Runs,run_time_seconds,Monk_Survived,Monk_Bounced,Feller_Survived,Feller_Bounced,Brute_Survived,Brute_Bounced
+0,Single Thread,USSLO-DCJ1M53,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",Windows 10 version 10.0.18362,1000000,11.862674,932579,159312,595462,181321,875674,608873
+1,Single Thread,USSLO-DCJ1M53,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",Windows 10 version 10.0.18362,1000000,12.33456898,932818,159235,594781,181627,875566,609198
+2,Single Thread,USSLO-DCJ1M53,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",Windows 10 version 10.0.18362,10000000,122.7105172,9326310,1597844,5954009,1815290,8755851,6093424
+3,Single Thread,USSLO-DCJ1M53,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",Windows 10 version 10.0.18362,1000000,12.150335550308228,932112,159988,595595,180665,874980,609499
+4,Single Thread,USSLO-DCJ1M53,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",Windows 10 version 10.0.18362,10000000,121.2069399356842,9325933,1595804,5950870,1814472,8754968,6093515
