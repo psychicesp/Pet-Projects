@@ -6,11 +6,7 @@ import time
 import pandas as pd
 file_name = 'death_saves_log.csv'
 df_output = {}
-if 'Linux' in platform.system():
-    distribution = platform.linux_distribution()
-    df_output['operating_system'] = [f"{platform.system()} {platform.release()}({distribution}) version #{platform.version()}"]
-else:
-    df_output['operating_system'] = [f"{platform.system()} {platform.release()} version {platform.version()}"]
+df_output['operating_system'] = [f"{platform.system()} {platform.release()} version {platform.version()}"]
 df_output['simulator_type']= ["Single Thread"]
 df_output['computer_name'] = [platform.node()]
 df_output['processor'] = [platform.processor()]
@@ -111,7 +107,7 @@ def deathSaveComparisson (n):
                 break
     run_time = time.time()-start_time
     print(f'The program ran in {round(run_time, 2)} seconds')
-    
+    df_output['Number_of_Runs']= num_times
     df_output['run_time_seconds'] = [run_time]
     df_output['Monk_Survived']= [monk]
     df_output['Monk_Bounced']= [Monk]

@@ -173,11 +173,7 @@ def throw_saves(num):
         df_output['computer_name'] = [platform.node()]
         df_output['processor'] = [platform.processor()]
         df_output['score']=[(num/run_time)/10000]
-        if 'Linux' in platform.system():
-            distribution = platform.linux_distribution()
-            df_output['operating_system'] = [f"{platform.system()} {platform.release()}({distribution}) version #{platform.version()}"]
-        else:
-            df_output['operating_system'] = [f"{platform.system()} {platform.release()} version {platform.version()}"]
+        df_output['operating_system'] = [f"{platform.system()} {platform.release()} version {platform.version()}"]
         df_output['Number_of_Runs'] = [num]
         df = pd.read_csv(file_name)
         df_output['run_id'] = df['run_id'].max()+1
