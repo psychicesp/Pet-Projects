@@ -1,6 +1,9 @@
 
 #%%
 from random import randint as rand
+import platform
+import time
+import pandas as pd
 # making dice rolls more concise, will need six-sided and 20 sided dice
 def d6():
     roll = rand(1,6)
@@ -9,6 +12,7 @@ def d20():
     roll = rand(1,20)
     return roll
 def deathSaveComparisson (n):
+    start_time = time.time() 
 # These are counters representing both possible positive outcomes from a series of Death Saving Throws. 
 # The lowercase represents passing the series of death saves and the capital represents bouncing back with 1HP
     monk = 0
@@ -18,7 +22,7 @@ def deathSaveComparisson (n):
     regular = 0
     Regular = 0
 # The following are the Monks death saving throws.  It bounces back when rolling a 20 and adds proficiency to the total 
-# but the proficiency does not count towards a "Nat 20"
+# but the proficiency does not count towards a "Nat 20
     for i in range(n):
         saves = 0
         fails = 0
@@ -94,6 +98,8 @@ def deathSaveComparisson (n):
             elif fails >= 3:
                 in_progress = False
                 break
+    run_time = time.time()-start_time
+    print(f'The program ran in {round(run_time, 2)} seconds')
 #The following will print the results as a percentage of times rolled
     print("Each unit was brought to 0 HP " + str(n) + " times")
     print("The 18th+ level Monk survived " + str(round(100*(monk/n),2)) + "% of the time and bounced right back " + str(round(100*(Monk/n),2)) + "% of the time.")
@@ -103,7 +109,7 @@ def deathSaveComparisson (n):
 num_times = int(input("How many iterations should we simulate?"))
 
 deathSaveComparisson(num_times)
-        
+
 
             
 

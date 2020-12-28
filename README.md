@@ -62,3 +62,16 @@ A Monk at 18th level adds their proficiency to their death saves (always +6 by t
 The Brute rolls a six-sided die (d6) in addition to the d20, adding 6 new possible roll totals and changing the odds of every other roll total.  In addition, they have an addendum by which, if the d20 plus the d6 adds up to 20 or more, you apply the benefits of a natural 20, also affecting the odds of bouncing back.
 
 Hopefully by now you see with crystal clarity why simulation is, at the very least, a highly-competitive approach compared to calculation.
+
+## **Brute Death Saving Throws (Advanced):**
+
+**-----UNDER CONSTRUCTION-----**
+
+ - **~~Currently Resolving Scoping Issue~~ RESOLVED**
+
+ - **Adding DataFrame functionality**
+
+The goal is to use multiprocessing to speed up execution of the three large processes.  It will also save the results to a 'Results' which allows the estimate to get even better over time as well as function as a (not great) benchmarking tool, saving the system information and allowing analysis of execution times.  Will probably refactor each units rolls to look at a dicrionary of variables rather than a handful of unique variables.  Probably not necessary for performance, and doesn't really help modularize much, but I like it better.
+
+
+I might later refactor them into three classes, with the Death Saves being a method if it seems like this would make the code more elegant.
