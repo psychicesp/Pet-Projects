@@ -132,6 +132,8 @@ new_line = pd.DataFrame(df_output)
 df = pd.concat([df, new_line])
 if num_times >= 100000:
     df.set_index('run_id').to_csv(file_name)
+print("""
+""")
 print("In general, the 18th+ level Monk survives " + str(round(100*((df['Monk_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounces right back " + str(round(100*((df['Monk_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")
 print("The regular feller survives " + str(round(100*((df['Feller_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounces back " + str(round(100*((df['Feller_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")
-print("The 6th+ level Brute survives " + str(round(100*((df['Brute_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounces right back " + str(round(100*((df['Brute_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")
+print("The 6th+ level Brute survives " + str(round(100*((df['Brute_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounced right back " + str(round(100*((df['Brute_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")

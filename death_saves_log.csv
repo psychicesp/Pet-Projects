@@ -5,3 +5,4 @@ run_id,simulator_type,computer_name,processor,operating_system,Number_of_Runs,ru
 3,Single Thread,USSLO-DCJ1M53,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",Windows 10 version 10.0.18362,1000000,12.15033555,932112,159988,595595,180665,874980,609499
 4,Single Thread,USSLO-DCJ1M53,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",Windows 10 version 10.0.18362,10000000,121.2069399,9325933,1595804,5950870,1814472,8754968,6093515
 5,Multi Thread,USSLO-DCJ1M53,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",Windows 10 version 10.0.18362,100000,2.5095982551574707,93259,16026,59731,18176,87765,61046
+6,Multi Thread,USSLO-DCJ1M53,"Intel64 Family 6 Model 142 Stepping 12, GenuineIntel",Windows 10 version 10.0.18362,10000000,81.47287964820862,9327643,1593848,5951902,1813980,8756159,6097167
