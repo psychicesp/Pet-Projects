@@ -1,17 +1,15 @@
 #%%
+print("Ran the whole file")
 import multiprocessing
-
-def popo():
+def test():
     print('yup')
     pass
 
-    # p1 = p(target = monk_throws, args=(num,))
-    # p2 = p(target = brute_throws, args=(num,))
-    # p3 = p(target = feller_throws, args=(num,))
+
 if __name__ == '__main__':
-    p1 = multiprocessing.Process(target=popo)
-    p2 = multiprocessing.Process(target=popo)
-    p3 = multiprocessing.Process(target=popo)
+    p1 = multiprocessing.Process(target=test)
+    p2 = multiprocessing.Process(target=test)
+    p3 = multiprocessing.Process(target=test)
 
     p1.start()
     p2.start()
