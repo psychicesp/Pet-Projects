@@ -69,7 +69,9 @@ Hopefully by now you see with crystal clarity why simulation is, at the very lea
 
  - **~~Currently Resolving Scoping Issue~~ RESOLVED**
 
- - **Adding DataFrame functionality**
+ - **~~Adding DataFrame functionality~~ ADDED**
+ 
+ - **Commenting and cleaning code. Will need to rework README.md**
 
 The goal is to use multiprocessing to speed up execution of the three large processes.  It will also save the results to a 'Results' which allows the estimate to get even better over time as well as function as a (not great) benchmarking tool, saving the system information and allowing analysis of execution times.  Will probably refactor each units rolls to look at a dicrionary of variables rather than a handful of unique variables.  Probably not necessary for performance, and doesn't really help modularize much, but I like it better.
 
