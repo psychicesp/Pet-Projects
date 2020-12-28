@@ -179,7 +179,6 @@ def throw_saves(num):
         df_output['run_id'] = df['run_id'].max()+1
         new_line = pd.DataFrame(df_output)
         df = pd.concat([df, new_line])
-        print(len(df_output.keys()))
         if (num >= 100000):
             df.set_index('run_id').to_csv(file_name)
         print("""
