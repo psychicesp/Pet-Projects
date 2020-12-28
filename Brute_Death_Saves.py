@@ -103,8 +103,8 @@ def deathSaveComparisson (n):
 #The following will print the results as a percentage of times rolled
     print("Each unit was brought to 0 HP " + str(n) + " times")
     print("The 18th+ level Monk survived " + str(round(100*(monk/n),2)) + "% of the time and bounced right back " + str(round(100*(Monk/n),2)) + "% of the time.")
-    print("The 6th+ level Brute survived " + str(round(100*(brute/n),2)) + "% of the time and bounced right back " + str(round(100*(Brute/n),2)) + "% of the time.")
     print("The regular feller survived " + str(round(100*(regular/n),2)) + "% of the time and would bounce back " + str(round(100*(Regular/n),2)) + "% of the time.")
+        print("The 6th+ level Brute survived " + str(round(100*(brute/n),2)) + "% of the time and bounced right back " + str(round(100*(Brute/n),2)) + "% of the time.")
 
 num_times = int(input("How many iterations should we simulate?"))
 
