@@ -5,35 +5,27 @@ from random import randint as rand
 import platform
 import time
 import pandas as pd
+num_times=10000000
+file_name = 'death_saves_log.csv'
 #%%
-simulator_type= "Multiprocessing"
-computer_name = platform.node()
-processor = platform.processor()
-if platform.system() == 'Linux':
-    distribution = platform.linux_distribution()
-    operating_system = f"{platform.system} {platform.release}({distribution}) version #{platform.version}"
-else:
-    operating_system = f"{platform.system} {platform.release} version #{platform.version}"
-# making dice rolls more concise, will need six-sided and 20 sided dice
+
+# making dice rolls more concise, will need six-sided and 20-sided dice
 def d6():
     roll = rand(1,6)
     return roll
 def d20():
     roll = rand(1,20)
     return roll
-# These dictionaries hold stats for each unit.  Code was refactored this way 
-# because I cannot reuse variable names when using multiprocessing and 
-# I prefered it to making a dozen unique variables
-
-monk= {
+if "monk" not in globals():
+    monk = {
     'saves':0,
     'fails':0,
     'd20':0,
     'in_progress':True,
     'survive': 0,
     'bounce': 0
-}
-brute= {
+    }
+    brute = {
     'saves':0,
     'fails':0,
     'd20':0,
@@ -41,15 +33,15 @@ brute= {
     'in_progress':True,
     'survive': 0,
     'bounce': 0
-}
-feller= {
+    }
+    feller= {
     'saves':0,
     'fails':0,
     'd20':0,
     'in_progress':True,
     'survive': 0,
     'bounce': 0
-}
+    }
 # The following are the Monks death saving throws.  It bounces back when rolling a 20 and adds proficiency to the total 
 # but the proficiency does not count towards a "Nat 20"
 def monk_throws(n):
@@ -77,9 +69,14 @@ def monk_throws(n):
             elif monk['fails'] >= 3:
                 monk['in_progress'] = False
                 break
+    global monk_s
+    global monk_b
+    monk_s = monk['survive']
+    monk_b = monk['bounce']
     print("The 18th+ level Monk survived " + str(round(100*(monk['survive']/n),2)) + "% of the time and bounced right back " + str(round(100*(monk['bounce']/n),2)) + "% of the time.")
 #The following are the Brutes death saving throws.  They roll a d6 to go with the d20, if they and up to 20 it counts as a Nat 20
 def brute_throws(n):
+
     for i in range(n):
         brute['saves'] = 0
         brute['fails'] = 0
@@ -105,9 +102,14 @@ def brute_throws(n):
             elif brute['fails'] >= 3:
                 brute['in_progress'] = False
                 break
+    global brute_s
+    global brute_b
+    brute_s = brute['survive']
+    brute_b = brute['bounce']
     print("The 6th+ level Brute survived " + str(round(100*(brute['survive']/n),2)) + "% of the time and bounced right back " + str(round(100*(brute['bounce']/n),2)) + "% of the time.")
 #The following are the fellers series of death saving throws
 def feller_throws(n):
+
     for i in range(n):
         feller['saves'] = 0
         feller['fails'] = 0
@@ -132,6 +134,10 @@ def feller_throws(n):
             elif feller['fails'] >= 3:
                 feller['in_progress'] = False
                 break
+    global feller_s
+    global feller_b
+    feller_s = feller['survive']
+    feller_b = feller['bounce']
     print("The regular feller survived " + str(round(100*(feller['survive']/n),2)) + "% of the time and would bounce back " + str(round(100*(feller['bounce']/n),2)) + "% of the time.")
 def thing():
     print('yup')
@@ -153,10 +159,38 @@ def throw_saves(num):
         run_time = time.time()-start_time
         print(f'The program ran in {round(run_time, 2)} seconds')
     
-throw_saves(10000000)
+throw_saves(num_times)
 
-
-        
+file_name = 'death_saves_log.csv'
+df_output = {}
+try:
+    df_output['Monk_Survived']= [monk_s]
+    df_output['Monk_Bounced']= [monk_b]
+    df_output['Feller_Survived']= [feller_s]
+    df_output['Feller_Bounced']= [feller_b]
+    df_output['Brute_Survived']= [brute_s]
+    df_output['Brute_Bounced']= [brute_b]
+except:
+    pass
+df_output['simulator_type']= ["Multi Thread"]
+df_output['computer_name'] = [platform.node()]
+df_output['processor'] = [platform.processor()]
+if 'Linux' in platform.system():
+    distribution = platform.linux_distribution()
+    df_output['operating_system'] = [f"{platform.system()} {platform.release()}({distribution}) version #{platform.version()}"]
+else:
+    df_output['operating_system'] = [f"{platform.system()} {platform.release()} version {platform.version()}"]
+df_output['Number_of_Runs'] = [num_times]
+df = pd.read_csv(file_name)
+df_output['run_id'] = df['run_id'].max()+1
+new_line = pd.DataFrame(df_output)
+df = pd.concat([df, new_line])
+try:
+    print(monk_s)
+    if (num_times >= 100000) and (monk_s>1000):
+        df.set_index('run_id').to_csv(file_name)
+except:
+    pass      
 
             
 
