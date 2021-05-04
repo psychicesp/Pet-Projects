@@ -187,4 +187,5 @@ def throw_saves(num):
         print("The regular feller survives " + str(round(100*((df['Feller_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounces back " + str(round(100*((df['Feller_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")
         print("The 6th+ level Brute survives " + str(round(100*((df['Brute_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounced right back " + str(round(100*((df['Brute_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")
 
-throw_saves(10000000)
+for i in range(10):
+    throw_saves(10000000)
