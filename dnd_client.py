@@ -1,8 +1,15 @@
 #%%
 import pandas as pd
 
-url = "https://donjon.bin.sh/5e/monsters/"
+mon = pd.read_csv('monsters.csv')
+mon.to_csv('monsters.csv')
 
-monsters = pd.read_html(url)
+def challenge_cleaner(x):
+    if '/' in x:
+        x = 1/int(x.split('/')[1])
+    else:
+        x = float(x)
+    return x
 
-monsters.to_csv("monster_list.csv")
+mon['Challenge'] = mon['Challenge'].apply(challenge_cleaner)
+# %%

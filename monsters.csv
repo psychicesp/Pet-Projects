@@ -1,0 +1,696 @@
+,Unnamed: 0,Name,Size,Type,Tags,Alignment,Challenge,XP,Source
+0,0,Frog,Tiny,Beast,,Unaligned,0.0,0,mm 322
+1,1,Sea Horse,Tiny,Beast,,Unaligned,0.0,0,mm 337
+2,2,Awakened Shrub,Small,Plant,,Unaligned,0.0,10,mm 317
+3,3,Baboon,Small,Beast,,Unaligned,0.0,10,mm 318
+4,4,Badger,Tiny,Beast,,Unaligned,0.0,10,mm 318
+5,5,Bat,Tiny,Beast,,Unaligned,0.0,10,mm 318
+6,6,Cat,Tiny,Beast,,Unaligned,0.0,10,mm 320
+7,7,Commoner,Medium,Humanoid,,Any,0.0,10,mm 344
+8,8,Crab,Tiny,Beast,,Unaligned,0.0,10,mm 320
+9,9,Cranium Rat,Tiny,Beast,,LE,0.0,10,vgm 133
+10,10,Crawling Claw,Tiny,Undead,,NE,0.0,10,mm 44
+11,11,Deer,Medium,Beast,,Unaligned,0.0,10,mm 321
+12,12,Eagle,Small,Beast,,Unaligned,0.0,10,mm 322
+13,13,Giant Fire Beetle,Small,Beast,,Unaligned,0.0,10,mm 325
+14,14,Goat,Medium,Beast,,Unaligned,0.0,10,mm 330
+15,15,Hawk,Tiny,Beast,,Unaligned,0.0,10,mm 330
+16,16,Homunculus,Tiny,Construct,,N,0.0,10,mm 188
+17,17,Hyena,Medium,Beast,,Unaligned,0.0,10,mm 331
+18,18,Jackal,Small,Beast,,Unaligned,0.0,10,mm 331
+19,19,Lemure,Medium,Fiend,devil,LE,0.0,10,mm 76
+20,20,Lizard,Tiny,Beast,,Unaligned,0.0,10,mm 332
+21,21,Myconid Sprout,Small,Plant,,LN,0.0,10,mm 230
+22,22,Octopus,Small,Beast,,Unaligned,0.0,10,mm 333
+23,23,Owl,Tiny,Beast,,Unaligned,0.0,10,mm 333
+24,24,Quipper,Tiny,Beast,,Unaligned,0.0,10,mm 335
+25,25,Rat,Tiny,Beast,,Unaligned,0.0,10,mm 335
+26,26,Raven,Tiny,Beast,,Unaligned,0.0,10,mm 335
+27,27,Scorpion,Tiny,Beast,,Unaligned,0.0,10,mm 337
+28,28,Shrieker,Medium,Plant,,Unaligned,0.0,10,mm 138
+29,29,Spider,Tiny,Beast,,Unaligned,0.0,10,mm 337
+30,30,Vulture,Medium,Beast,,Unaligned,0.0,10,mm 339
+31,31,Weasel,Tiny,Beast,,Unaligned,0.0,10,mm 340
+32,32,Bandit,Medium,Humanoid,,Any non-lawful,0.125,25,mm 343
+33,33,Blood Hawk,Small,Beast,,Unaligned,0.125,25,mm 319
+34,34,Boggle,Small,Fey,,CN,0.125,25,vgm 128
+35,35,Camel,Large,Beast,,Unaligned,0.125,25,mm 320
+36,36,Cultist,Medium,Humanoid,,Any non-good,0.125,25,mm 345
+37,37,Dolphin,Medium,Beast,,Unaligned,0.125,25,vgm 208
+38,38,Flumph,Small,Aberration,,LG,0.125,25,mm 135
+39,39,Flying Snake,Tiny,Beast,,Unaligned,0.125,25,mm 322
+40,40,Giant Crab,Medium,Beast,,Unaligned,0.125,25,mm 324
+41,41,Giant Rat,Small,Beast,,Unaligned,0.125,25,mm 327
+42,42,Giant Weasel,Medium,Beast,,Unaligned,0.125,25,mm 329
+43,43,Guard,Medium,Humanoid,,,0.125,25,mm 347
+44,44,Kobold,Small,Humanoid,kobold,LE,0.125,25,mm 195
+45,45,Manes,Small,Fiend,demon,CE,0.125,25,mm 60
+46,46,Mastiff,Medium,Beast,,Unaligned,0.125,25,mm 332
+47,47,Merfolk,Medium,Humanoid,merfolk,N,0.125,25,mm 218
+48,48,Monodrone,Medium,Construct,,LN,0.125,25,mm 224
+49,49,Mule,Medium,Beast,,Unaligned,0.125,25,mm 333
+50,50,Neogi Hatchling,Tiny,Aberration,,LE,0.125,25,vgm 179
+51,51,Noble,Medium,Humanoid,,,0.125,25,mm 348
+52,52,Poisonous Snake,Tiny,Beast,,Unaligned,0.125,25,mm 334
+53,53,Pony,Medium,Beast,,Unaligned,0.125,25,mm 335
+54,54,Slaad Tadpole,Tiny,Aberration,,CN,0.125,25,mm 276
+55,55,Stirge,Tiny,Beast,,Unaligned,0.125,25,mm 284
+56,56,Tribal Warrior,Medium,Humanoid,,,0.125,25,mm 350
+57,57,Twig Blight,Small,Plant,,NE,0.125,25,mm 32
+58,58,Xvart,Small,Humanoid,xvart,CE,0.125,25,vgm 200
+59,59,Young Kruthik,Small,Monstrosity,,Unaligned,0.125,25,mtf 211
+60,60,Aarakocra,Medium,Humanoid,aarakocra,NG,0.25,50,mm 12
+61,61,Abyssal Wretch,Medium,Fiend,demon,CE,0.25,50,mtf 136
+62,62,Acolyte,Medium,Humanoid,,Any,0.25,50,mm 342
+63,63,Apprentice Wizard,Medium,Humanoid,,Any,0.25,50,vgm 209
+64,64,Axe Beak,Large,Beast,,Unaligned,0.25,50,mm 317
+65,65,Blink Dog,Medium,Fey,,LG,0.25,50,mm 318
+66,66,Boar,Medium,Beast,,Unaligned,0.25,50,mm 319
+67,67,Bullywug,Medium,Humanoid,bullywug,NE,0.25,50,mm 35
+68,68,Constrictor Snake,Large,Beast,,Unaligned,0.25,50,mm 320
+69,69,Cow,Large,Beast,,Unaligned,0.25,50,vgm 207
+70,70,Deep Rothe,Medium,Beast,,Unaligned,0.25,50,vgm 207
+71,71,Derro,Small,Humanoid,derro,CE,0.25,50,mtf 158
+72,72,Dimetrodon,Medium,Beast,,Unaligned,0.25,50,vgm 139
+73,73,Draft Horse,Large,Beast,,Unaligned,0.25,50,mm 321
+74,74,Dretch,Small,Fiend,demon,CE,0.25,50,mm 57
+75,75,Drow,Medium,Humanoid,elf,NE,0.25,50,mm 128
+76,76,Duodrone,Medium,Construct,,LN,0.25,50,mm 225
+77,77,Elk,Large,Beast,,Unaligned,0.25,50,mm 322
+78,78,Flying Sword,Small,Construct,,Unaligned,0.25,50,mm 20
+79,79,Giant Badger,Medium,Beast,,Unaligned,0.25,50,mm 323
+80,80,Giant Bat,Large,Beast,,Unaligned,0.25,50,mm 323
+81,81,Giant Centipede,Small,Beast,,Unaligned,0.25,50,mm 323
+82,82,Giant Frog,Medium,Beast,,Unaligned,0.25,50,mm 325
+83,83,Giant Lizard,Large,Beast,,Unaligned,0.25,50,mm 326
+84,84,Giant Owl,Large,Beast,,N,0.25,50,mm 327
+85,85,Giant Poisonous Snake,Medium,Beast,,Unaligned,0.25,50,mm 327
+86,86,Giant Wolf Spider,Medium,Beast,,Unaligned,0.25,50,mm 330
+87,87,Gnoll Witherling,Medium,Undead,,CE,0.25,50,vgm 155
+88,88,Goblin,Small,Humanoid,goblinoid,NE,0.25,50,mm 166
+89,89,Grimlock,Medium,Humanoid,grimlock,NE,0.25,50,mm 175
+90,90,Grung,Small,Humanoid,grung,LE,0.25,50,vgm 156
+91,91,Hadrosaurus,Large,Beast,,Unaligned,0.25,50,vgm 140
+92,92,Kenku,Medium,Humanoid,kenku,CN,0.25,50,mm 194
+93,93,Kobold Inventor,Small,Humanoid,kobold,LE,0.25,50,vgm 166
+94,94,Kuo-toa,Medium,Humanoid,kuo-toa,NE,0.25,50,mm 199
+95,95,Male Steeder,Medium,Monstrosity,,Unaligned,0.25,50,mtf 238
+96,96,Mud Mephit,Small,Elemental,,NE,0.25,50,mm 216
+97,97,Needle Blight,Medium,Plant,,NE,0.25,50,mm 32
+98,98,Oblex Spawn,Tiny,Ooze,,LE,0.25,50,mtf 217
+99,99,Ox,Large,Beast,,Unaligned,0.25,50,vgm 207
+100,100,Panther,Medium,Beast,,Unaligned,0.25,50,mm 333
+101,101,Pixie,Tiny,Fey,,NG,0.25,50,mm 253
+102,102,Pseudodragon,Tiny,Dragon,,NG,0.25,50,mm 254
+103,103,Pteranodon,Medium,Beast,,Unaligned,0.25,50,mm 80
+104,104,Riding Horse,Large,Beast,,Unaligned,0.25,50,mm 336
+105,105,Rothe,Large,Beast,,Unaligned,0.25,50,vgm 207
+106,106,Skeleton,Medium,Undead,,LE,0.25,50,mm 272
+107,107,Smoke Mephit,Small,Elemental,,NE,0.25,50,mm 217
+108,108,Sprite,Tiny,Fey,,NG,0.25,50,mm 283
+109,109,Star Spawn Grue,Small,Aberration,,NE,0.25,50,mtf 234
+110,110,Steam Mephit,Small,Elemental,,NE,0.25,50,mm 217
+111,111,Stench Kow,Large,Beast,,Unaligned,0.25,50,vgm 207
+112,112,Swarm of Bats,Medium,Beast,,Unaligned,0.25,50,mm 337
+113,113,Swarm of Rats,Medium,Beast,,Unaligned,0.25,50,mm 339
+114,114,Swarm of Ravens,Medium,Beast,,Unaligned,0.25,50,mm 339
+115,115,Tortle,Medium,Humanoid,tortle,LG,0.25,50,mtf 242
+116,116,Troglodyte,Medium,Humanoid,troglodyte,CE,0.25,50,mm 290
+117,117,Vegepygmy,Small,Plant,,N,0.25,50,vgm 196
+118,118,Velociraptor,Tiny,Beast,,Unaligned,0.25,50,vgm 140
+119,119,Violet Fungus,Medium,Plant,,Unaligned,0.25,50,mm 138
+120,120,Winged Kobold,Small,Humanoid,kobold,LE,0.25,50,mm 195
+121,121,Wolf,Medium,Beast,,Unaligned,0.25,50,mm 341
+122,122,Wretched Sorrowsworn,Small,Monstrosity,,NE,0.25,50,mtf 233
+123,123,Zombie,Medium,Undead,,NE,0.25,50,mm 316
+124,124,Ape,Medium,Beast,,Unaligned,0.5,100,mm 317
+125,125,Black Bear,Medium,Beast,,Unaligned,0.5,100,mm 318
+126,126,Chitine,Small,Monstrosity,,CE,0.5,100,vgm 131
+127,127,Cockatrice,Small,Monstrosity,,Unaligned,0.5,100,mm 42
+128,128,Crocodile,Large,Beast,,Unaligned,0.5,100,mm 320
+129,129,Darkling,Small,Fey,,CN,0.5,100,vgm 134
+130,130,Darkmantle,Small,Monstrosity,,Unaligned,0.5,100,mm 46
+131,131,Dust Mephit,Small,Elemental,,NE,0.5,100,mm 215
+132,132,Firenewt Warrior,Medium,Humanoid,firenewt,NE,0.5,100,vgm 142
+133,133,Gas Spore,Large,Plant,,Unaligned,0.5,100,mm 138
+134,134,Gazer,Tiny,Aberration,,NE,0.5,100,vgm 126
+135,135,Giant Goat,Large,Beast,,Unaligned,0.5,100,mm 326
+136,136,Giant Sea Horse,Large,Beast,,Unaligned,0.5,100,mm 328
+137,137,Giant Wasp,Medium,Beast,,Unaligned,0.5,100,mm 329
+138,138,Gnoll,Medium,Humanoid,gnoll,CE,0.5,100,mm 163
+139,139,Gnoll Hunter,Medium,Humanoid,gnoll,CE,0.5,100,vgm 154
+140,140,Gray Ooze,Medium,Ooze,,Unaligned,0.5,100,mm 243
+141,141,Hobgoblin,Medium,Humanoid,goblinoid,LE,0.5,100,mm 186
+142,142,Ice Mephit,Small,Elemental,,NE,0.5,100,mm 215
+143,143,Jackalwere,Medium,Humanoid,shapechanger,CE,0.5,100,mm 193
+144,144,Lizardfolk,Medium,Humanoid,lizardfolk,N,0.5,100,mm 204
+145,145,Magma Mephit,Small,Elemental,,NE,0.5,100,mm 216
+146,146,Magmin,Small,Elemental,,CN,0.5,100,mm 212
+147,147,Myconid Adult,Medium,Plant,,LN,0.5,100,mm 232
+148,148,Nupperibo,Medium,Fiend,devil,LE,0.5,100,mtf 168
+149,149,Orc,Medium,Humanoid,orc,CE,0.5,100,mm 246
+150,150,Orc Nurtured One of Yurtrus,Medium,Humanoid,orc,CE,0.5,100,vgm 184
+151,151,Piercer,Medium,Monstrosity,,Unaligned,0.5,100,mm 252
+152,152,Reef Shark,Medium,Beast,,Unaligned,0.5,100,mm 336
+153,153,Rust Monster,Medium,Monstrosity,,Unaligned,0.5,100,mm 262
+154,154,Sahuagin,Medium,Humanoid,sahuagin,LE,0.5,100,mm 263
+155,155,Satyr,Medium,Fey,,CN,0.5,100,mm 267
+156,156,Scout,Medium,Humanoid,,,0.5,100,mm 349
+157,157,Shadow,Medium,Undead,,CE,0.5,100,mm 269
+158,158,Skulk,Medium,Humanoid,,CN,0.5,100,mtf 227
+159,159,Svirfneblin,Small,Humanoid,gnome,NG,0.5,100,mm 164
+160,160,Swarm of Insects,Medium,Beast,,Unaligned,0.5,100,mm 338
+161,161,Swarm of Rot Grubs,Medium,Beast,,Unaligned,0.5,100,vgm 208
+162,162,Thug,Medium,Humanoid,,,0.5,100,mm 350
+163,163,Tridrone,Medium,Construct,,LN,0.5,100,mm 225
+164,164,Vine Blight,Medium,Plant,,NE,0.5,100,mm 32
+165,165,Warhorse,Large,Beast,,Unaligned,0.5,100,mm 340
+166,166,Warhorse Skeleton,Large,Undead,,LE,0.5,100,mm 273
+167,167,Worg,Large,Monstrosity,,NE,0.5,100,mm 341
+168,168,Animated Armor,Medium,Construct,,Unaligned,1.0,200,mm 19
+169,169,Brass Dragon Wyrmling,Medium,Dragon,,CG,1.0,200,mm 106
+170,170,Bronze Scout,Medium,Construct,,Unaligned,1.0,200,mtf 125
+171,171,Brown Bear,Large,Beast,,Unaligned,1.0,200,mm 319
+172,172,Bugbear,Medium,Humanoid,goblinoid,CE,1.0,200,mm 33
+173,173,Choker,Small,Aberration,,CE,1.0,200,mtf 123
+174,174,Copper Dragon Wyrmling,Medium,Dragon,,CG,1.0,200,mm 112
+175,175,Death Dog,Medium,Monstrosity,,NE,1.0,200,mm 321
+176,176,Deinonychus,Medium,Beast,,Unaligned,1.0,200,vgm 139
+177,177,Dire Wolf,Large,Beast,,Unaligned,1.0,200,mm 321
+178,178,Dryad,Medium,Fey,,N,1.0,200,mm 121
+179,179,Duergar,Medium,Humanoid,dwarf,LE,1.0,200,mm 122
+180,180,Duergar Soulblade,Medium,Humanoid,dwarf,LE,1.0,200,mtf 190
+181,181,Female Steeder,Large,Monstrosity,,Unaligned,1.0,200,mtf 238
+182,182,Fire Snake,Medium,Elemental,,NE,1.0,200,mm 265
+183,183,Firenewt Warlock of Imix,Medium,Humanoid,firenewt,NE,1.0,200,vgm 143
+184,184,Ghoul,Medium,Undead,,CE,1.0,200,mm 148
+185,185,Giant Eagle,Large,Beast,,NG,1.0,200,mm 324
+186,186,Giant Hyena,Large,Beast,,Unaligned,1.0,200,mm 326
+187,187,Giant Octopus,Large,Beast,,Unaligned,1.0,200,mm 326
+188,188,Giant Spider,Large,Beast,,Unaligned,1.0,200,mm 328
+189,189,Giant Strider,Large,Monstrosity,,NE,1.0,200,vgm 143
+190,190,Giant Toad,Large,Beast,,Unaligned,1.0,200,mm 329
+191,191,Giant Vulture,Large,Beast,,NE,1.0,200,mm 329
+192,192,Gnoll Flesh Gnawer,Medium,Humanoid,gnoll,CE,1.0,200,vgm 154
+193,193,Goblin Boss,Small,Humanoid,goblinoid,NE,1.0,200,mm 166
+194,194,Grung Wildling,Small,Humanoid,grung,LE,1.0,200,vgm 157
+195,195,Half-ogre,Large,Giant,,Any chaotic,1.0,200,mm 238
+196,196,Harpy,Medium,Monstrosity,,CE,1.0,200,mm 181
+197,197,Hippogriff,Large,Monstrosity,,Unaligned,1.0,200,mm 184
+198,198,Imp,Tiny,Fiend,"devil, shapechanger",LE,1.0,200,mm 76
+199,199,Kobold Dragonshield,Small,Humanoid,kobold,LE,1.0,200,vgm 165
+200,200,Kobold Scale Sorcerer,Small,Humanoid,kobold,LE,1.0,200,vgm 167
+201,201,Kuo-toa Whip,Medium,Humanoid,kuo-toa,NE,1.0,200,mm 200
+202,202,Lion,Large,Beast,,Unaligned,1.0,200,mm 331
+203,203,Maw Demon,Medium,Fiend,demon,CE,1.0,200,vgm 137
+204,204,Meazel,Medium,Humanoid,meazel,NE,1.0,200,mtf 214
+205,205,Nilbog,Small,Humanoid,goblinoid,CE,1.0,200,vgm 182
+206,206,Quadrone,Medium,Construct,,LN,1.0,200,mm 226
+207,207,Quaggoth Spore Servant,Medium,Plant,,Unaligned,1.0,200,mm 230
+208,208,Quasit,Tiny,Fiend,"demon, shapechanger",CE,1.0,200,mm 63
+209,209,Quickling,Tiny,Fey,,CE,1.0,200,vgm 187
+210,210,Scarecrow,Medium,Construct,,CE,1.0,200,mm 268
+211,211,Sea Spawn,Medium,Humanoid,,NE,1.0,200,vgm 189
+212,212,Specter,Medium,Undead,,CE,1.0,200,mm 279
+213,213,Spy,Medium,Humanoid,,,1.0,200,mm 349
+214,214,Stone Cursed,Medium,Construct,,LE,1.0,200,mtf 240
+215,215,Swarm of Quippers,Medium,Beast,,Unaligned,1.0,200,mm 338
+216,216,Thorny,Medium,Plant,,N,1.0,200,vgm 197
+217,217,Thri-kreen,Medium,Humanoid,thri-kreen,CN,1.0,200,mm 288
+218,218,Tiger,Large,Beast,,Unaligned,1.0,200,mm 339
+219,219,Vargouille,Tiny,Fiend,,CE,1.0,200,vgm 195
+220,220,Xvart Warlock of Raxivort,Small,Humanoid,xvart,CE,1.0,200,vgm 200
+221,221,Young Faerie Dragon,Tiny,Dragon,,CG,1.0,200,mm 133
+222,222,Yuan-ti Pureblood,Medium,Humanoid,yuan-ti,NE,1.0,200,mm 310
+223,223,Adult Faerie Dragon,Tiny,Dragon,,CG,2.0,450,mm 133
+224,224,Adult Kruthik,Medium,Monstrosity,,Unaligned,2.0,450,mtf 212
+225,225,Allosaurus,Large,Beast,,Unaligned,2.0,450,mm 79
+226,226,Ankheg,Large,Monstrosity,,Unaligned,2.0,450,mm 21
+227,227,Aurochs,Large,Beast,,Unaligned,2.0,450,vgm 207
+228,228,Awakened Tree,Huge,Plant,,Unaligned,2.0,450,mm 317
+229,229,Azer,Medium,Elemental,,LN,2.0,450,mm 22
+230,230,Bandit Captain,Medium,Humanoid,,Any non-lawful,2.0,450,mm 344
+231,231,Bard,Medium,Humanoid,,Any,2.0,450,vgm 211
+232,232,Berbalang,Medium,Aberration,,NE,2.0,450,mtf 120
+233,233,Berserker,Medium,Humanoid,,Any chaotic,2.0,450,mm 344
+234,234,Black Dragon Wyrmling,Medium,Dragon,,CE,2.0,450,mm 88
+235,235,Bronze Dragon Wyrmling,Medium,Dragon,,LG,2.0,450,mm 109
+236,236,Carrion Crawler,Large,Monstrosity,,Unaligned,2.0,450,mm 37
+237,237,Cave Bear,Large,Beast,,Unaligned,2.0,450,mm 334
+238,238,Centaur,Large,Monstrosity,,NG,2.0,450,mm 38
+239,239,Cult Fanatic,Medium,Humanoid,,Any non-good,2.0,450,mm 345
+240,240,Darkling Elder,Medium,Fey,,CN,2.0,450,vgm 134
+241,241,Druid,Medium,Humanoid,,Any,2.0,450,mm 346
+242,242,Duergar Hammerer,Medium,Construct,,LE,2.0,450,mtf 188
+243,243,Duergar Kavalrachni,Medium,Humanoid,dwarf,LE,2.0,450,mtf 189
+244,244,Duergar Mind Master,Medium,Humanoid,dwarf,LE,2.0,450,mtf 189
+245,245,Duergar Stone Guard,Medium,Humanoid,dwarf,LE,2.0,450,mtf 191
+246,246,Duergar Xarrorn,Medium,Humanoid,dwarf,LE,2.0,450,mtf 193
+247,247,Ettercap,Medium,Monstrosity,,NE,2.0,450,mm 131
+248,248,Gargoyle,Medium,Elemental,,CE,2.0,450,mm 140
+249,249,Gelatinous Cube,Large,Ooze,,Unaligned,2.0,450,mm 242
+250,250,Ghast,Medium,Undead,,CE,2.0,450,mm 148
+251,251,Giant Boar,Large,Beast,,Unaligned,2.0,450,mm 323
+252,252,Giant Constrictor Snake,Huge,Beast,,Unaligned,2.0,450,mm 324
+253,253,Giant Elk,Huge,Beast,,Unaligned,2.0,450,mm 325
+254,254,Gibbering Mouther,Medium,Aberration,,N,2.0,450,mm 157
+255,255,Githzerai Monk,Medium,Humanoid,gith,LN,2.0,450,mm 161
+256,256,Gnoll Pack Lord,Medium,Humanoid,gnoll,CE,2.0,450,mm 163
+257,257,Green Dragon Wyrmling,Medium,Dragon,,LE,2.0,450,mm 95
+258,258,Grick,Medium,Monstrosity,,N,2.0,450,mm 173
+259,259,Griffon,Large,Monstrosity,,Unaligned,2.0,450,mm 174
+260,260,Grung Elite Warrior,Small,Humanoid,grung,LE,2.0,450,vgm 157
+261,261,Guard Drake,Medium,Dragon,,Unaligned,2.0,450,vgm 158
+262,262,Hobgoblin Iron Shadow,Medium,Humanoid,goblinoid,LE,2.0,450,vgm 162
+263,263,Hunter Shark,Large,Beast,,Unaligned,2.0,450,mm 330
+264,264,Intellect Devourer,Tiny,Aberration,,LE,2.0,450,mm 191
+265,265,Lizardfolk Shaman,Medium,Humanoid,lizardfolk,N,2.0,450,mm 205
+266,266,Meenlock,Small,Fey,,NE,2.0,450,vgm 170
+267,267,Merrow,Large,Monstrosity,,CE,2.0,450,mm 219
+268,268,Mimic,Medium,Monstrosity,shapechanger,N,2.0,450,mm 220
+269,269,Minotaur Skeleton,Large,Undead,,LE,2.0,450,mm 273
+270,270,Myconid Sovereign,Large,Plant,,LN,2.0,450,mm 232
+271,271,Nothic,Medium,Aberration,,NE,2.0,450,mm 236
+272,272,Ochre Jelly,Large,Ooze,,Unaligned,2.0,450,mm 243
+273,273,Ogre,Large,Giant,,CE,2.0,450,mm 237
+274,274,Ogre Bolt Launcher,Large,Giant,,CE,2.0,450,mtf 220
+275,275,Ogre Howdah,Large,Giant,,CE,2.0,450,mtf 221
+276,276,Ogre Zombie,Large,Undead,,NE,2.0,450,mm 316
+277,277,Orc Claw of Luthic,Medium,Humanoid,orc,CE,2.0,450,vgm 183
+278,278,Orc Eye of Gruumsh,Medium,Humanoid,orc,CE,2.0,450,mm 247
+279,279,Orc Hand of Yurtrus,Medium,Humanoid,orc,CE,2.0,450,vgm 184
+280,280,Orog,Medium,Humanoid,orc,CE,2.0,450,mm 247
+281,281,Pegasus,Large,Celestial,,CG,2.0,450,mm 250
+282,282,Pentadrone,Large,Construct,,LN,2.0,450,mm 226
+283,283,Peryton,Medium,Monstrosity,,CE,2.0,450,mm 251
+284,284,Plesiosaurus,Large,Beast,,Unaligned,2.0,450,mm 80
+285,285,Polar Bear,Large,Beast,,Unaligned,2.0,450,mm 334
+286,286,Priest,Medium,Humanoid,,,2.0,450,mm 348
+287,287,Quaggoth,Medium,Humanoid,quaggoth,CN,2.0,450,mm 256
+288,288,Quetzalcoatlus,Huge,Beast,,Unaligned,2.0,450,vgm 140
+289,289,Rhinoceros,Large,Beast,,Unaligned,2.0,450,mm 336
+290,290,Rug of Smothering,Large,Construct,,Unaligned,2.0,450,mm 20
+291,291,Rutterkin,Medium,Fiend,demon,CE,2.0,450,mtf 136
+292,292,Saber-toothed Tiger,Large,Beast,,Unaligned,2.0,450,mm 336
+293,293,Sahuagin Priestess,Medium,Humanoid,sahuagin,LE,2.0,450,mm 264
+294,294,Sea Hag,Medium,Fey,,CE,2.0,450,mm 179
+295,295,Shadow Mastiff,Medium,Monstrosity,,NE,2.0,450,vgm 190
+296,296,Silver Dragon Wyrmling,Medium,Dragon,,LG,2.0,450,mm 118
+297,297,Specter (poltergeist),Medium,Undead,,CE,2.0,450,mm 279
+298,298,Spined Devil,Small,Fiend,devil,LE,2.0,450,mm 78
+299,299,Swarm of Poisonous Snakes,Medium,Beast,,Unaligned,2.0,450,mm 338
+300,300,Tortle Druid,Medium,Humanoid,tortle,LN,2.0,450,mtf 242
+301,301,Vegepygmy Chief,Small,Plant,,N,2.0,450,vgm 197
+302,302,Wererat,Medium,Humanoid,"human, shapechanger",LE,2.0,450,mm 209
+303,303,White Dragon Wyrmling,Medium,Dragon,,CE,2.0,450,mm 102
+304,304,Will-o-wisp,Tiny,Undead,,CE,2.0,450,mm 301
+305,305,Yuan-ti Broodguard,Medium,Humanoid,yuan-ti,NE,2.0,450,vgm 203
+306,306,Ankylosaurus,Huge,Beast,,Unaligned,3.0,700,mm 79
+307,307,Archer,Medium,Humanoid,,Any,3.0,700,vgm 210
+308,308,Basilisk,Medium,Monstrosity,,Unaligned,3.0,700,mm 24
+309,309,Bearded Devil,Medium,Fiend,devil,LE,3.0,700,mm 70
+310,310,Blue Dragon Wyrmling,Medium,Dragon,,LE,3.0,700,mm 91
+311,311,Bugbear Chief,Medium,Humanoid,goblinoid,CE,3.0,700,mm 33
+312,312,Bulezau,Medium,Fiend,demon,CE,3.0,700,mtf 131
+313,313,Cave Fisher,Medium,Monstrosity,,Unaligned,3.0,700,vgm 130
+314,314,Choldrith,Medium,Monstrosity,,CE,3.0,700,vgm 132
+315,315,Deathlock Wight,Medium,Undead,,NE,3.0,700,mtf 129
+316,316,Deep Scion,Medium,Humanoid,shapechanger,NE,3.0,700,vgm 135
+317,317,Derro Savant,Small,Humanoid,derro,CE,3.0,700,mtf 159
+318,318,Displacer Beast,Large,Monstrosity,,LE,3.0,700,mm 81
+319,319,Doppelganger,Medium,Monstrosity,shapechanger,N,3.0,700,mm 82
+320,320,Duergar Screamer,Medium,Construct,,LE,3.0,700,mtf 190
+321,321,Flail Snail,Large,Elemental,,Unaligned,3.0,700,vgm 144
+322,322,Giant Scorpion,Large,Beast,,Unaligned,3.0,700,mm 327
+323,323,Giff,Medium,Humanoid,,LN,3.0,700,mtf 204
+324,324,Githyanki Warrior,Medium,Humanoid,gith,LE,3.0,700,mm 160
+325,325,Gold Dragon Wyrmling,Medium,Dragon,,LG,3.0,700,mm 115
+326,326,Green Hag,Medium,Fey,,NE,3.0,700,mm 177
+327,327,Grell,Medium,Aberration,,NE,3.0,700,mm 172
+328,328,Hell Hound,Medium,Fiend,,LE,3.0,700,mm 182
+329,329,Hobgoblin Captain,Medium,Humanoid,goblinoid,LE,3.0,700,mm 186
+330,330,Hook Horror,Large,Monstrosity,,N,3.0,700,mm 189
+331,331,Illusionist,Medium,Humanoid,,Any,3.0,700,vgm 214
+332,332,Killer Whale,Huge,Beast,,Unaligned,3.0,700,mm 331
+333,333,Knight,Medium,Humanoid,,,3.0,700,mm 347
+334,334,Leucrotta,Large,Monstrosity,,CE,3.0,700,vgm 169
+335,335,Manticore,Large,Monstrosity,,LE,3.0,700,mm 213
+336,336,Martial Arts Adept,Medium,Humanoid,,Any,3.0,700,vgm 216
+337,337,Merrenoloth,Medium,Fiend,yugoloth,NE,3.0,700,mtf 250
+338,338,Minotaur,Large,Monstrosity,,CE,3.0,700,mm 223
+339,339,Mummy,Medium,Undead,,LE,3.0,700,mm 228
+340,340,Neogi,Small,Aberration,,LE,3.0,700,vgm 180
+341,341,Nightmare,Large,Fiend,,NE,3.0,700,mm 235
+342,342,Ogre Chain Brute,Large,Giant,,CE,3.0,700,mtf 221
+343,343,Orc Red Fang of Shargaas,Medium,Humanoid,orc,CE,3.0,700,vgm 185
+344,344,Owlbear,Large,Monstrosity,,Unaligned,3.0,700,mm 249
+345,345,Phase Spider,Large,Monstrosity,,Unaligned,3.0,700,mm 334
+346,346,Quaggoth Thonot,Medium,Humanoid,quaggoth,CN,3.0,700,mm 256
+347,347,Redcap,Small,Fey,,CE,3.0,700,vgm 188
+348,348,Slithering Tracker,Medium,Ooze,,CE,3.0,700,vgm 191
+349,349,Spectator,Medium,Aberration,,LN,3.0,700,mm 30
+350,350,Swashbuckler,Medium,Humanoid,,Any non-lawful,3.0,700,vgm 217
+351,351,Sword Wraith Warrior,Medium,Undead,,LE,3.0,700,mtf 241
+352,352,Trapper,Large,Monstrosity,,Unaligned,3.0,700,vgm 194
+353,353,Vampiric Mist,Medium,Undead,,CE,3.0,700,mtf 246
+354,354,Veteran,Medium,Humanoid,,,3.0,700,mm 350
+355,355,Water Weird,Large,Elemental,,N,3.0,700,mm 299
+356,356,Werewolf,Medium,Humanoid,"human, shapechanger",CE,3.0,700,mm 211
+357,357,Wight,Medium,Undead,,NE,3.0,700,mm 300
+358,358,Winter Wolf,Large,Monstrosity,,NE,3.0,700,mm 340
+359,359,Yeti,Large,Monstrosity,,CE,3.0,700,mm 305
+360,360,Yuan-ti Malison,Medium,Monstrosity,"shapechanger, yuan-ti",NE,3.0,700,mm 309
+361,361,Babau,Medium,Fiend,demon,CE,4.0,1100,vgm 136
+362,362,Banshee,Medium,Undead,,CE,4.0,1100,mm 23
+363,363,Barghest,Large,Fiend,shapechanger,NE,4.0,1100,vgm 123
+364,364,Black Pudding,Large,Ooze,,Unaligned,4.0,1100,mm 241
+365,365,Bone Naga,Large,Undead,,LE,4.0,1100,mm 233
+366,366,Chuul,Large,Aberration,,CE,4.0,1100,mm 40
+367,367,Couatl,Medium,Celestial,,LG,4.0,1100,mm 43
+368,368,Deathlock,Medium,Undead,,NE,4.0,1100,mtf 128
+369,369,Dybbuk,Medium,Fiend,demon,CE,4.0,1100,mtf 132
+370,370,Elephant,Huge,Beast,,Unaligned,4.0,1100,mm 322
+371,371,Ettin,Large,Giant,,CE,4.0,1100,mm 132
+372,372,Flameskull,Tiny,Undead,,NE,4.0,1100,mm 134
+373,373,Ghost,Medium,Undead,,Any,4.0,1100,mm 147
+374,374,Girallon,Large,Monstrosity,,Unaligned,4.0,1100,vgm 152
+375,375,Gnoll Fang of Yeenoghu,Medium,Fiend,gnoll,CE,4.0,1100,mm 163
+376,376,Helmed Horror,Medium,Construct,,N,4.0,1100,mm 183
+377,377,Hobgoblin Devastator,Medium,Humanoid,goblinoid,LE,4.0,1100,vgm 161
+378,378,Incubus,Medium,Fiend,shapechanger,NE,4.0,1100,mm 285
+379,379,Iron Cobra,Medium,Construct,,Unaligned,4.0,1100,mtf 125
+380,380,Lamia,Large,Monstrosity,,CE,4.0,1100,mm 201
+381,381,Lizard King/Queen,Medium,Humanoid,lizardfolk,CE,4.0,1100,mm 205
+382,382,Merregon,Medium,Fiend,devil,LE,4.0,1100,mtf 166
+383,383,Neogi Master,Medium,Aberration,,LE,4.0,1100,vgm 180
+384,384,Ogre Battering Ram,Large,Giant,,CE,4.0,1100,mtf 220
+385,385,Orc Blade of Ilneval,Medium,Humanoid,orc,CE,4.0,1100,vgm 183
+386,386,Orc War Chief,Medium,Humanoid,orc,CE,4.0,1100,mm 246
+387,387,Red Dragon Wyrmling,Medium,Dragon,,CE,4.0,1100,mm 98
+388,388,Shadow Demon,Medium,Fiend,demon,CE,4.0,1100,mm 64
+389,389,Stegosaurus,Huge,Beast,,Unaligned,4.0,1100,vgm 140
+390,390,Stone Defender,Medium,Construct,,Unaligned,4.0,1100,mtf 126
+391,391,Succubus,Medium,Fiend,shapechanger,NE,4.0,1100,mm 285
+392,392,Warlock of the Archfey,Medium,Humanoid,,Any,4.0,1100,vgm 219
+393,393,Wereboar,Medium,Humanoid,"human, shapechanger",NE,4.0,1100,mm 209
+394,394,Weretiger,Medium,Humanoid,"human, shapechanger",N,4.0,1100,mm 210
+395,395,Yeth Hound,Large,Fey,,NE,4.0,1100,vgm 201
+396,396,Yuan-ti Mind Whisperer,Medium,Monstrosity,"shapechanger, yuan-ti",NE,4.0,1100,vgm 204
+397,397,Yuan-ti Nightmare Speaker,Medium,Monstrosity,"shapechanger, yuan-ti",NE,4.0,1100,vgm 205
+398,398,Adult Oblex,Medium,Ooze,,LE,5.0,1800,mtf 218
+399,399,Air Elemental,Large,Elemental,,N,5.0,1800,mm 124
+400,400,Allip,Medium,Undead,,NE,5.0,1800,mtf 116
+401,401,Banderhobb,Large,Monstrosity,,NE,5.0,1800,vgm 122
+402,402,Barbed Devil,Medium,Fiend,devil,LE,5.0,1800,mm 70
+403,403,Barlgura,Large,Fiend,demon,CE,5.0,1800,mm 56
+404,404,Beholder Zombie,Large,Undead,,NE,5.0,1800,mm 316
+405,405,Brontosaurus,Gargantuan,Beast,,Unaligned,5.0,1800,vgm 139
+406,406,Bulette,Large,Monstrosity,,Unaligned,5.0,1800,mm 34
+407,407,Cambion,Medium,Fiend,,Any evil,5.0,1800,mm 36
+408,408,Catoblepas,Large,Monstrosity,,Unaligned,5.0,1800,vgm 129
+409,409,Drow Elite Warrior,Medium,Humanoid,elf,NE,5.0,1800,mm 128
+410,410,Earth Elemental,Large,Elemental,,N,5.0,1800,mm 124
+411,411,Enchanter,Medium,Humanoid,,Any,5.0,1800,vgm 213
+412,412,Fire Elemental,Large,Elemental,,N,5.0,1800,mm 125
+413,413,Flesh Golem,Medium,Construct,,N,5.0,1800,mm 169
+414,414,Giant Crocodile,Huge,Beast,,Unaligned,5.0,1800,mm 324
+415,415,Giant Shark,Huge,Beast,,Unaligned,5.0,1800,mm 328
+416,416,Gladiator,Medium,Humanoid,,Any,5.0,1800,mm 346
+417,417,Gorgon,Large,Monstrosity,,Unaligned,5.0,1800,mm 171
+418,418,Half-Red Dragon Veteran,Medium,Humanoid,human,Any,5.0,1800,mm 180
+419,419,Hill Giant,Huge,Giant,,CE,5.0,1800,mm 155
+420,420,Kraken Priest,Medium,Humanoid,,Any,5.0,1800,vgm 215
+421,421,Kruthik Hive Lord,Large,Monstrosity,,Unaligned,5.0,1800,mtf 212
+422,422,Master Thief,Medium,Humanoid,,Any,5.0,1800,vgm 216
+423,423,Mezzoloth,Medium,Fiend,yugoloth,NE,5.0,1800,mm 313
+424,424,Mindwitness,Large,Aberration,,LE,5.0,1800,vgm 176
+425,425,Night Hag,Medium,Fiend,,NE,5.0,1800,mm 178
+426,426,Oaken Bolter,Medium,Construct,,Unaligned,5.0,1800,mtf 126
+427,427,Otyugh,Large,Aberration,,N,5.0,1800,mm 248
+428,428,Red Slaad,Large,Aberration,,CN,5.0,1800,mm 276
+429,429,Revenant,Medium,Undead,,N,5.0,1800,mm 259
+430,430,Roper,Large,Monstrosity,,NE,5.0,1800,mm 261
+431,431,Sahuagin Baron,Large,Humanoid,sahuagin,LE,5.0,1800,mm 264
+432,432,Salamander,Large,Elemental,,NE,5.0,1800,mm 266
+433,433,Shambling Mound,Large,Plant,,Unaligned,5.0,1800,mm 270
+434,434,Spawn of Kyuss,Medium,Undead,,CE,5.0,1800,vgm 192
+435,435,Star Spawn Mangler,Medium,Aberration,,CE,5.0,1800,mtf 236
+436,436,Swarm of Cranium Rats,Medium,Beast,,LE,5.0,1800,vgm 133
+437,437,Tanarukk,Medium,Fiend,"demon, orc",CE,5.0,1800,vgm 186
+438,438,Tlincalli,Large,Monstrosity,,NE,5.0,1800,vgm 193
+439,439,Transmuter,Medium,Humanoid,,Any,5.0,1800,vgm 218
+440,440,Triceratops,Huge,Beast,,Unaligned,5.0,1800,mm 80
+441,441,Troll,Large,Giant,,CE,5.0,1800,mm 291
+442,442,Umber Hulk,Large,Monstrosity,,CE,5.0,1800,mm 292
+443,443,Unicorn,Large,Celestial,,LG,5.0,1800,mm 294
+444,444,Vampire Spawn,Medium,Undead,,NE,5.0,1800,mm 298
+445,445,Water Elemental,Large,Elemental,,N,5.0,1800,mm 125
+446,446,Werebear,Medium,Humanoid,"human, shapechanger",NG,5.0,1800,mm 208
+447,447,Wood Woad,Medium,Plant,,LN,5.0,1800,vgm 198
+448,448,Wraith,Medium,Undead,,NE,5.0,1800,mm 302
+449,449,Xorn,Medium,Elemental,,N,5.0,1800,mm 304
+450,450,Young Remorhaz,Large,Monstrosity,,Unaligned,5.0,1800,mm 258
+451,451,Yuan-ti Pit Master,Medium,Monstrosity,"shapechanger, yuan-ti",NE,5.0,1800,vgm 206
+452,452,Annis Hag,Large,Fey,,CE,6.0,2300,vgm 159
+453,453,Bodak,Medium,Undead,,CE,6.0,2300,vgm 127
+454,454,Chasme,Large,Fiend,demon,CE,6.0,2300,mm 57
+455,455,Chimera,Large,Monstrosity,,CE,6.0,2300,mm 39
+456,456,Conjurer,Medium,Humanoid,,Any,6.0,2300,vgm 212
+457,457,Cyclops,Huge,Giant,,CN,6.0,2300,mm 45
+458,458,Drider,Large,Monstrosity,,CE,6.0,2300,mm 120
+459,459,Duergar Warlord,Medium,Humanoid,dwarf,LE,6.0,2300,mtf 192
+460,460,Galeb Duhr,Medium,Elemental,,N,6.0,2300,mm 139
+461,461,Gauth,Medium,Aberration,,LE,6.0,2300,vgm 125
+462,462,Githzerai Zerth,Medium,Humanoid,gith,LN,6.0,2300,mm 161
+463,463,Hobgoblin Warlord,Medium,Humanoid,goblinoid,LE,6.0,2300,mm 187
+464,464,Invisible Stalker,Medium,Elemental,,N,6.0,2300,mm 192
+465,465,Kuo-toa Archpriest,Medium,Humanoid,kuo-toa,NE,6.0,2300,mm 200
+466,466,Mage,Medium,Humanoid,,,6.0,2300,mm 347
+467,467,Mammoth,Huge,Beast,,Unaligned,6.0,2300,mm 332
+468,468,Medusa,Medium,Monstrosity,,LE,6.0,2300,mm 214
+469,469,Mouth of Grolantor,Huge,Giant,hill giant,CE,6.0,2300,vgm 149
+470,470,Vrock,Large,Fiend,demon,CE,6.0,2300,mm 64
+471,471,Warlock of the Great Old One,Medium,Humanoid,,Any,6.0,2300,vgm 220
+472,472,White Abishai,Medium,Fiend,devil,LE,6.0,2300,mtf 163
+473,473,Wyvern,Large,Dragon,,Unaligned,6.0,2300,mm 303
+474,474,Young Brass Dragon,Large,Dragon,,CG,6.0,2300,mm 105
+475,475,Young White Dragon,Large,Dragon,,CE,6.0,2300,mm 101
+476,476,Air Elemental Myrmidon,Medium,Elemental,,N,7.0,2900,mtf 202
+477,477,Armanite,Large,Fiend,demon,CE,7.0,2900,mtf 131
+478,478,Bheur Hag,Medium,Fey,,CE,7.0,2900,vgm 160
+479,479,Black Abishai,Medium,Fiend,devil,LE,7.0,2900,mtf 160
+480,480,Blue Slaad,Large,Aberration,,CN,7.0,2900,mm 276
+481,481,Dhergoloth,Medium,Fiend,yugoloth,NE,7.0,2900,mtf 248
+482,482,Draegloth,Large,Fiend,demon,CE,7.0,2900,vgm 141
+483,483,Drow Mage,Medium,Humanoid,elf,NE,7.0,2900,mm 129
+484,484,Earth Elemental Myrmidon,Medium,Elemental,,N,7.0,2900,mtf 202
+485,485,Fire Elemental Myrmidon,Medium,Elemental,,N,7.0,2900,mtf 203
+486,486,Giant Ape,Huge,Beast,,Unaligned,7.0,2900,mm 323
+487,487,Grick Alpha,Large,Monstrosity,,N,7.0,2900,mm 173
+488,488,Korred,Small,Fey,,CN,7.0,2900,vgm 168
+489,489,Lost Sorrowsworn,Medium,Monstrosity,,NE,7.0,2900,mtf 233
+490,490,Maurezhi,Medium,Fiend,demon,CE,7.0,2900,mtf 133
+491,491,Mind Flayer,Medium,Aberration,,LE,7.0,2900,mm 222
+492,492,Oni,Large,Giant,,LE,7.0,2900,mm 239
+493,493,Shadow Dancer,Medium,Humanoid,elf,N,7.0,2900,mtf 225
+494,494,Shield Guardian,Large,Construct,,Unaligned,7.0,2900,mm 271
+495,495,Stone Giant,Huge,Giant,,N,7.0,2900,mm 156
+496,496,Venom Troll,Large,Giant,,CE,7.0,2900,mtf 245
+497,497,Warlock of the Fiend,Medium,Humanoid,,Any,7.0,2900,vgm 219
+498,498,Water Elemental Myrmidon,Medium,Elemental,,N,7.0,2900,mtf 203
+499,499,Young Black Dragon,Large,Dragon,,CE,7.0,2900,mm 88
+500,500,Young Copper Dragon,Large,Dragon,,CG,7.0,2900,mm 111
+501,501,Yuan-ti Abomination,Large,Monstrosity,"shapechanger, yuan-ti",NE,7.0,2900,mm 308
+502,502,Assassin,Medium,Humanoid,,Any non-good,8.0,3900,mm 343
+503,503,Blackguard,Medium,Humanoid,,Any non-good,8.0,3900,vgm 211
+504,504,Canoloth,Medium,Fiend,yugoloth,NE,8.0,3900,mtf 247
+505,505,Chain Devil,Medium,Fiend,devil,LE,8.0,3900,mm 72
+506,506,Cloaker,Large,Aberration,,CN,8.0,3900,mm 41
+507,507,Corpse Flower,Large,Plant,,CE,8.0,3900,mtf 127
+508,508,Deathlock Mastermind,Medium,Undead,,NE,8.0,3900,mtf 129
+509,509,Diviner,Medium,Humanoid,,Any,8.0,3900,vgm 213
+510,510,Drow Priestess of Lolth,Medium,Humanoid,elf,NE,8.0,3900,mm 129
+511,511,Fomorian,Huge,Giant,,CE,8.0,3900,mm 136
+512,512,Frost Giant,Huge,Giant,,NE,8.0,3900,mm 155
+513,513,Githyanki Knight,Medium,Humanoid,gith,LE,8.0,3900,mm 160
+514,514,Green Slaad,Large,Aberration,shapechanger,CN,8.0,3900,mm 277
+515,515,Hezrou,Large,Fiend,demon,CE,8.0,3900,mm 60
+516,516,Howler,Large,Fiend,,CE,8.0,3900,mtf 210
+517,517,Hydra,Huge,Monstrosity,,Unaligned,8.0,3900,mm 190
+518,518,Mind Flayer Arcanist,Medium,Aberration,,LE,8.0,3900,mm 222
+519,519,Shoosuva,Large,Fiend,demon,CE,8.0,3900,vgm 137
+520,520,Spirit Naga,Large,Monstrosity,,CE,8.0,3900,mm 234
+521,521,Sword Wraith Commander,Medium,Undead,,LE,8.0,3900,mtf 241
+522,522,Tyrannosaurus Rex,Huge,Beast,,Unaligned,8.0,3900,mm 80
+523,523,Young Bronze Dragon,Large,Dragon,,LG,8.0,3900,mm 108
+524,524,Young Green Dragon,Large,Dragon,,LE,8.0,3900,mm 94
+525,525,Abjurer,Medium,Humanoid,,Any,9.0,5000,vgm 209
+526,526,Abominable Yeti,Huge,Monstrosity,,CE,9.0,5000,mm 306
+527,527,Bone Devil,Large,Fiend,devil,LE,9.0,5000,mm 71
+528,528,Champion,Medium,Humanoid,,Any,9.0,5000,vgm 212
+529,529,Clay Golem,Large,Construct,,Unaligned,9.0,5000,mm 168
+530,530,Cloud Giant,Huge,Giant,,NG or NE,9.0,5000,mm 154
+531,531,Drow House Captain,Medium,Humanoid,elf,NE,9.0,5000,mtf 184
+532,532,Evoker,Medium,Humanoid,,Any,9.0,5000,vgm 214
+533,533,Fire Giant,Huge,Giant,,LE,9.0,5000,mm 154
+534,534,Flind,Medium,Humanoid,gnoll,CE,9.0,5000,vgm 153
+535,535,Frost Salamander,Huge,Elemental,,Unaligned,9.0,5000,mtf 223
+536,536,Glabrezu,Large,Fiend,demon,CE,9.0,5000,mm 58
+537,537,Gloom Weaver,Medium,Humanoid,elf,N,9.0,5000,mtf 224
+538,538,Gray Slaad,Medium,Aberration,shapechanger,CN,9.0,5000,mm 277
+539,539,Hydroloth,Medium,Fiend,yugoloth,NE,9.0,5000,mtf 249
+540,540,Lonely Sorrowsworn,Medium,Monstrosity,,NE,9.0,5000,mtf 232
+541,541,Necromancer,Medium,Humanoid,,Any,9.0,5000,vgm 217
+542,542,Nycaloth,Large,Fiend,yugoloth,NE,9.0,5000,mm 314
+543,543,Rot Troll,Large,Giant,,CE,9.0,5000,mtf 244
+544,544,Treant,Huge,Plant,,CG,9.0,5000,mm 289
+545,545,Ulitharid,Large,Aberration,,LE,9.0,5000,vgm 175
+546,546,War Priest,Medium,Humanoid,,Any,9.0,5000,vgm 218
+547,547,Young Blue Dragon,Large,Dragon,,LE,9.0,5000,mm 91
+548,548,Young Silver Dragon,Large,Dragon,,LG,9.0,5000,mm 118
+549,549,Aboleth,Large,Aberration,,LE,10.0,5900,mm 13
+550,550,Alhoon,Medium,Undead,,Any evil,10.0,5900,vgm 172
+551,551,Autumn Eladrin,Medium,Fey,elf,CN,10.0,5900,mtf 195
+552,552,Death Kiss,Large,Aberration,,NE,10.0,5900,vgm 124
+553,553,Death Slaad,Medium,Aberration,shapechanger,CE,10.0,5900,mm 278
+554,554,Deva,Medium,Celestial,,LG,10.0,5900,mm 16
+555,555,Elder Oblex,Huge,Ooze,,LE,10.0,5900,mtf 219
+556,556,Froghemoth,Huge,Monstrosity,,Unaligned,10.0,5900,vgm 145
+557,557,Githyanki Gish,Medium,Humanoid,gith,LE,10.0,5900,mtf 205
+558,558,Githzerai Enlightened,Medium,Humanoid,gith,LN,10.0,5900,mtf 208
+559,559,Guardian Naga,Large,Monstrosity,,LG,10.0,5900,mm 234
+560,560,Orthon,Large,Fiend,devil,LE,10.0,5900,mtf 169
+561,561,Spring Eladrin,Medium,Fey,elf,CN,10.0,5900,mtf 196
+562,562,Star Spawn Hulk,Large,Aberration,,CE,10.0,5900,mtf 234
+563,563,Stone Giant Dreamwalker,Huge,Giant,stone giant,CN,10.0,5900,vgm 150
+564,564,Stone Golem,Large,Construct,,Unaligned,10.0,5900,mm 170
+565,565,Summer Eladrin,Medium,Fey,elf,CN,10.0,5900,mtf 196
+566,566,Winter Eladrin,Medium,Fey,elf,CN,10.0,5900,mtf 197
+567,567,Yochlol,Medium,Fiend,"demon, shapechanger",CE,10.0,5900,mm 65
+568,568,Young Gold Dragon,Large,Dragon,,LG,10.0,5900,mm 115
+569,569,Young Red Dragon,Large,Dragon,,CE,10.0,5900,mm 98
+570,570,Alkilith,Medium,Fiend,demon,CE,11.0,7200,mtf 130
+571,571,Balhannoth,Large,Aberration,,CE,11.0,7200,mtf 118
+572,572,Behir,Huge,Monstrosity,,NE,11.0,7200,mm 25
+573,573,Cloud Giant Smiling One,Huge,Giant,cloud giant,CN,11.0,7200,vgm 146
+574,574,Dao,Large,Elemental,,NE,11.0,7200,mm 143
+575,575,Djinni,Large,Elemental,,CG,11.0,7200,mm 144
+576,576,Drow Shadowblade,Medium,Humanoid,elf,NE,11.0,7200,mtf 187
+577,577,Efreeti,Large,Elemental,,LE,11.0,7200,mm 145
+578,578,Gynosphinx,Large,Monstrosity,,LN,11.0,7200,mm 282
+579,579,Horned Devil,Large,Fiend,devil,LE,11.0,7200,mm 74
+580,580,Hungry Sorrowsworn,Medium,Monstrosity,,NE,11.0,7200,mtf 232
+581,581,Marid,Large,Elemental,,CN,11.0,7200,mm 146
+582,582,Morkoth,Medium,Aberration,,CE,11.0,7200,vgm 178
+583,583,Remorhaz,Huge,Monstrosity,,Unaligned,11.0,7200,mm 258
+584,584,Roc,Gargantuan,Monstrosity,,Unaligned,11.0,7200,mm 260
+585,585,Soul Monger,Medium,Humanoid,elf,N,11.0,7200,mtf 226
+586,586,Spirit Troll,Large,Giant,,CE,11.0,7200,mtf 244
+587,587,Yagnoloth,Large,Fiend,yugoloth,NE,11.0,7200,mtf 252
+588,588,Arcanaloth,Medium,Fiend,yugoloth,NE,12.0,8400,mm 313
+589,589,Archdruid,Medium,Humanoid,,Any,12.0,8400,vgm 210
+590,590,Archmage,Medium,Humanoid,,Any,12.0,8400,mm 342
+591,591,Boneclaw,Large,Undead,,CE,12.0,8400,mtf 121
+592,592,Duergar Despot,Medium,Humanoid,dwarf,LE,12.0,8400,mtf 188
+593,593,Eidolon,Medium,Undead,,Any,12.0,8400,mtf 194
+594,594,Erinyes,Medium,Fiend,devil,LE,12.0,8400,mm 73
+595,595,Frost Giant Everlasting One,Huge,Giant,frost giant,CE,12.0,8400,vgm 148
+596,596,Githyanki Kith'rak,Medium,Humanoid,gith,LE,12.0,8400,mtf 205
+597,597,Gray Render,Large,Monstrosity,,CN,12.0,8400,mtf 209
+598,598,Ki-rin,Huge,Celestial,,LG,12.0,8400,vgm 163
+599,599,Morkoth (in lair),Medium,Aberration,,CE,12.0,8400,vgm 178
+600,600,Oinoloth,Medium,Fiend,yugoloth,NE,12.0,8400,mtf 251
+601,601,Warlord,Medium,Humanoid,,Any,12.0,8400,vgm 220
+602,602,Yuan-ti Anathema,Huge,Monstrosity,"shapechanger, yuan-ti",NE,12.0,8400,vgm 202
+603,603,Adult Brass Dragon,Huge,Dragon,,CG,13.0,10000,mm 105
+604,604,Adult White Dragon,Huge,Dragon,,CE,13.0,10000,mm 101
+605,605,Angry Sorrowsworn,Medium,Monstrosity,,NE,13.0,10000,mtf 231
+606,606,Beholder,Large,Aberration,,LE,13.0,10000,mm 28
+607,607,Devourer,Large,Fiend,,CE,13.0,10000,vgm 138
+608,608,Dire Troll,Huge,Giant,,CE,13.0,10000,mtf 243
+609,609,Drow Arachnomancer,Medium,Humanoid,elf,CE,13.0,10000,mtf 182
+610,610,Nalfeshnee,Large,Fiend,demon,CE,13.0,10000,mm 62
+611,611,Narzugon,Medium,Fiend,devil,LE,13.0,10000,mtf 167
+612,612,Neothelid,Gargantuan,Aberration,,CE,13.0,10000,vgm 181
+613,613,Rakshasa,Medium,Fiend,,LE,13.0,10000,mm 257
+614,614,Star Spawn Seer,Medium,Aberration,,NE,13.0,10000,mtf 236
+615,615,Storm Giant,Huge,Giant,,CG,13.0,10000,mm 156
+616,616,Ultroloth,Medium,Fiend,yugoloth,NE,13.0,10000,mm 314
+617,617,Vampire,Medium,Undead,shapechanger,LE,13.0,10000,mm 297
+618,618,Wastrilith,Large,Fiend,demon,CE,13.0,10000,mtf 139
+619,619,Young Red Shadow Dragon,Large,Dragon,,CE,13.0,10000,mm 85
+620,620,Adult Black Dragon,Huge,Dragon,,CE,14.0,11500,mm 88
+621,621,Adult Copper Dragon,Huge,Dragon,,CG,14.0,11500,mm 111
+622,622,Beholder (in lair),Large,Aberration,,LE,14.0,11500,mm 28
+623,623,Cadaver Collector,Large,Construct,,LE,14.0,11500,mtf 122
+624,624,Death Tyrant,Large,Undead,,LE,14.0,11500,mm 29
+625,625,Drow Inquisitor,Medium,Humanoid,elf,NE,14.0,11500,mtf 184
+626,626,Elder Brain,Large,Aberration,,LE,14.0,11500,vgm 174
+627,627,Fire Giant Dreadnought,Huge,Giant,fire giant,LE,14.0,11500,vgm 147
+628,628,Githyanki Supreme Commander,Medium,Humanoid,gith,LE,14.0,11500,mtf 206
+629,629,Ice Devil,Large,Fiend,devil,LE,14.0,11500,mm 75
+630,630,Retriever,Large,Construct,,LE,14.0,11500,mtf 222
+631,631,Adult Bronze Dragon,Huge,Dragon,,LG,15.0,13000,mm 108
+632,632,Adult Green Dragon,Huge,Dragon,,LE,15.0,13000,mm 94
+633,633,Death Tyrant (in lair),Large,Undead,,LE,15.0,13000,mm 29
+634,634,Green Abishai,Medium,Fiend,devil,LE,15.0,13000,mtf 162
+635,635,Mummy Lord,Medium,Undead,,LE,15.0,13000,mm 229
+636,636,Nabassu,Medium,Fiend,demon,CE,15.0,13000,mtf 135
+637,637,Purple Worm,Gargantuan,Monstrosity,,Unaligned,15.0,13000,mm 255
+638,638,Skull Lord,Medium,Undead,,LE,15.0,13000,mtf 230
+639,639,Vampire (spellcaster),Medium,Undead,shapechanger,LE,15.0,13000,mm 297
+640,640,Vampire (warrior),Medium,Undead,shapechanger,LE,15.0,13000,mm 297
+641,641,Adult Blue Dragon,Huge,Dragon,,LE,16.0,15000,mm 91
+642,642,Adult Silver Dragon,Huge,Dragon,,LG,16.0,15000,mm 117
+643,643,Githzerai Anarch,Medium,Humanoid,gith,LN,16.0,15000,mtf 207
+644,644,Hellfire Engine,Huge,Construct,,LE,16.0,15000,mtf 165
+645,645,Iron Golem,Large,Construct,,Unaligned,16.0,15000,mm 170
+646,646,Marilith,Large,Fiend,demon,CE,16.0,15000,mm 61
+647,647,Mummy Lord (in lair),Medium,Undead,,LE,16.0,15000,mm 229
+648,648,Phoenix,Gargantuan,Elemental,,N,16.0,15000,mtf 199
+649,649,Planetar,Large,Celestial,,LG,16.0,15000,mm 17
+650,650,Star Spawn Larva Mage,Medium,Aberration,,CE,16.0,15000,mtf 235
+651,651,Steel Predator,Large,Construct,,LE,16.0,15000,mtf 239
+652,652,Storm Giant Quintessent,Huge,Giant,storm giant,CG,16.0,15000,vgm 151
+653,653,Adult Blue Dracolich,Huge,Undead,,LE,17.0,18000,mm 84
+654,654,Adult Gold Dragon,Huge,Dragon,,LG,17.0,18000,mm 114
+655,655,Adult Red Dragon,Huge,Dragon,,CE,17.0,18000,mm 98
+656,656,Androsphinx,Large,Monstrosity,,LN,17.0,18000,mm 281
+657,657,Blue Abishai,Medium,Fiend,devil,LE,17.0,18000,mtf 161
+658,658,Death Knight,Medium,Undead,,CE,17.0,18000,mm 47
+659,659,Dragon Turtle,Gargantuan,Dragon,,N,17.0,18000,mm 119
+660,660,Goristro,Huge,Fiend,demon,CE,17.0,18000,mm 59
+661,661,Nagpa,Medium,Humanoid,nagpa,NE,17.0,18000,mtf 215
+662,662,Amnizu,Medium,Fiend,devil,LE,18.0,20000,mtf 164
+663,663,Demilich,Tiny,Undead,,NE,18.0,20000,mm 48
+664,664,Drow Favored Consort,Medium,Humanoid,elf,NE,18.0,20000,mtf 183
+665,665,Sibriex,Huge,Fiend,demon,CE,18.0,20000,mtf 137
+666,666,Balor,Huge,Fiend,demon,CE,19.0,22000,mm 55
+667,667,Red Abishai,Medium,Fiend,devil,LE,19.0,22000,mtf 162
+668,668,Demilich (in lair),Tiny,Undead,,NE,20.0,24500,mm 48
+669,669,Ancient Brass Dragon,Gargantuan,Dragon,,CG,20.0,25000,mm 104
+670,670,Ancient White Dragon,Gargantuan,Dragon,,CE,20.0,25000,mm 100
+671,671,Drow Matron Mother,Medium,Humanoid,elf,NE,20.0,25000,mtf 186
+672,672,Leviathan,Gargantuan,Elemental,,N,20.0,25000,mtf 198
+673,673,Nightwalker,Huge,Undead,,CE,20.0,25000,mtf 216
+674,674,Pit Fiend,Large,Fiend,devil,LE,20.0,25000,mm 77
+675,675,Ancient Black Dragon,Gargantuan,Dragon,,CE,21.0,33000,mm 87
+676,676,Ancient Copper Dragon,Gargantuan,Dragon,,CG,21.0,33000,mm 110
+677,677,Astral Dreadnought,Gargantuan,Monstrosity,titan,Unaligned,21.0,33000,mtf 117
+678,678,Lich,Medium,Undead,,Any evil,21.0,33000,mm 202
+679,679,Molydeus,Huge,Fiend,demon,CE,21.0,33000,mtf 134
+680,680,Solar,Large,Celestial,,LG,21.0,33000,mm 18
+681,681,Ancient Bronze Dragon,Gargantuan,Dragon,,LG,22.0,41000,mm 107
+682,682,Ancient Green Dragon,Gargantuan,Dragon,,LE,22.0,41000,mm 93
+683,683,Lich (in lair),Medium,Undead,,Any evil,22.0,41000,mm 202
+684,684,Mind Flayer Lich,Medium,Undead,,Any evil,22.0,41000,vgm 172
+685,685,Zaratan,Gargantuan,Elemental,,N,22.0,41000,mtf 201
+686,686,Ancient Blue Dragon,Gargantuan,Dragon,,LE,23.0,50000,mm 90
+687,687,Ancient Silver Dragon,Gargantuan,Dragon,,LG,23.0,50000,mm 116
+688,688,Elder Tempest,Gargantuan,Elemental,,N,23.0,50000,mtf 200
+689,689,Empyrean,Huge,Celestial,titan,CG or NE,23.0,50000,mm 130
+690,690,Kraken,Gargantuan,Monstrosity,titan,CE,23.0,50000,mm 197
+691,691,Ancient Gold Dragon,Gargantuan,Dragon,,LG,24.0,62000,mm 113
+692,692,Ancient Red Dragon,Gargantuan,Dragon,,CE,24.0,62000,mm 97
+693,693,Marut,Large,Construct,inevitable,LN,25.0,75000,mtf 213
+694,694,Tarrasque,Gargantuan,Monstrosity,titan,Unaligned,30.0,155000,mm 286
