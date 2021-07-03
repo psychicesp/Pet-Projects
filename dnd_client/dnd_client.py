@@ -29,27 +29,25 @@ df = pd.read_csv('monsters.csv')
 # df['URL']=df['Name'].apply(url_finder)
 
 def html_writer(x):
-    try:
-        nameo=x.lower()
-        nameo = nameo.split(' ')
-        if len(nameo)>1:
-            nameo = '-'.join(nameo)
-        else:
-            nameo=nameo[0]
-        url = f"https://www.aidedd.org/dnd/monstres.php?vo={nameo}"
-        nameo=x.replace('/', ' OR ')
-        print(f"Getting {x}")
-        file_name = f"html_pages/{nameo}.html"
-        response = req.get(url)
-        rest = random.random() 
-        rest = rest * random.randint(2,3)
-        rest += 1
-        print(f"    Resting for {round(rest,2)} seconds")
-        time.sleep(rest)
-        with open(file_name, 'w') as stuff:
-            stuff.write(response.text)
-    except:
-        print(f"Failed to write {x}")
+    nameo=x.lower()
+    nameo = nameo.split(' ')
+    if len(nameo)>1:
+        nameo = '-'.join(nameo)
+    else:
+        nameo=nameo[0]
+    url = f"https://www.aidedd.org/dnd/monstres.php?vo={nameo}"
+    nameo=x.replace('/', ' OR ')
+    print(f"Getting {x}")
+    file_name = f"html_pages/{nameo}.html"
+    response = req.get(url)
+    rest = random.random() 
+    rest = rest * random.randint(2,3)
+    rest += 1
+    print(f"    Resting for {round(rest,2)} seconds")
+    time.sleep(rest)
+    with open(file_name, 'w', encoding='utf-8') as stuff:
+        stuff.write(response.text)
+    print(f"Failed to write {x}")
 
 names = df['Name'].to_list()
 
