@@ -1,0 +1,133 @@
+<!doctype html>
+<html amp lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<script async src="https://cdn.ampproject.org/v0.js"></script>
+	<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+	<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+
+	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+	<style amp-custom>
+		*				{margin:0; padding:0; box-sizing:border-box; -moz-box-sizing: border-box;}
+		html 			{font-size:62.5%;}
+		body			{background:white url("https://www.aidedd.org/themes/simple/images/fond-ph.jpg") repeat;}
+
+		.titre1			{font-size:2.4rem; text-align:center; padding:20px 10px 10px 10px; font-weight:bold;}
+		.titre2			{font-size:1.4rem; text-align:center; padding: 0px 10px 20px 10px;}
+		.warning		{font-size:1.2rem; text-align:center; padding:10px;}
+
+		a 				{color: #B80000; text-decoration: none;}
+		a:hover 		{color: #D80000; border-bottom-style: dashed; border-bottom-width: 1px;}
+
+		.bloc			{width:490px; padding:10px 20px 0px 20px; display:inline-block;
+						 font-family: Georgia, "Times New Roman", serif; font-size:1.2rem; line-height:1.5; text-align:left;}
+		.entete			{break-inside:avoid-column; break-inside:avoid;}
+		.nobloc			{width:100%; display:block}
+		.bloc h1		{padding:0; text-transform:uppercase; letter-spacing:1px; color:#6D0000; font-size:1.4rem; line-height:1; font-weight:bold; break-after:avoid;}
+		.bloc h1:first-letter {font-size:1.8rem;}
+		.trad			{padding:2px 0 0   0; font-family: arial, sans-serif; font-size:1.2rem;}
+
+		.ecole			{padding:2px 0 4px 0; text-align:left;}
+		.description	{padding:4px 0 6px 0; text-align:justify;}
+		.source			{padding-bottom:15px; text-align:left; font-family: arial, sans-serif; font-size:1.1rem;}
+
+		.bloc table		{margin-top:6px; border-spacing:0; font-family: arial, sans-serif; font-size:1.1rem;}
+		.bloc table tr:nth-child(even) {background-color: #e0e0ff;}
+		.bloc table th	{font-weight:bold; vertical-align:bottom}
+		.bloc table td	{vertical-align:top}
+		.bloc table th, .bloc table td	{min-width:40px; padding:2px 6px 2px 4px; text-align:left}
+		.bloc table th.center, .bloc table td.center {text-align:center;}
+		.bloc table td.center {text-align:center;}
+
+		p				{padding:0; margin:9px 0 9px 0;}
+		.center			{text-align:center;}
+		.petit			{font-size:1.1rem; line-height:1.4;}
+		.trespetit 		{font-size:1.0rem; line-height:1.2;}
+
+		.niveau			{width:92%; font-size:1.8rem; font-weight:bold; text-align:center; background-color:#444; color:white;
+						 border:2px solid #444; padding:6px; margin:10px auto 0 auto;}
+		hr 				{visibility:hidden}
+
+		.blocCarte		{display:inline-block; position:relative; width:6.3cm; height:8.8cm; margin:1px 0 0 1px; padding:3px; vertical-align:top; border:5px solid black;
+						 background:white url("https://www.aidedd.org/themes/simple/images/fond-ph.jpg") repeat; overflow:hidden;
+						 font-family: Georgia, "Times New Roman", serif; font-size:1.05rem; line-height:1.2; text-align:left;} 
+		.blocCarteP		{font-size:0.95rem; color:black}
+		.blocCarteTP	{font-size:0.85rem; color:black}
+		.blocCarte h1	{font-size:1.2rem; background-color:#6D0000; color:white; padding:4px 4px 3px 4px;}
+		.blocCarte a	{text-decoration:none; color:black;}
+		.blocCarte .trad 	{display:none}
+		.blocCarte .ecole		{padding:2px 0 4px 0;}
+		.blocCarte .description	{padding:4px 0 0 0;}
+		.blocCarte .source	{position:absolute; bottom:-1px; left:0px; background:black; color:white; width:100%; font-size:.9rem; letter-spacing:0px; padding:5px 0 1px 0}
+
+		.cols2			{column-count:2; width:990px; margin-left:auto; margin-right:auto;}
+		.ads			{display:inline-block; padding:60px 10px 10px 20%; text-align:center; vertical-align:top;}
+		.adsCel			{display:none}
+
+		@media print {
+			html 	{font-size:62.5%;}
+			body	{background-image:none}
+			.cols2	{width:100%}
+			.titre1	{padding-top:0}
+			.bloc	{width:100%; min-width:200px; padding:10px 10px 0 10px; font-size:1.1rem; line-height:1.3;}
+			.bloc a:link, .bloc a:visited, .bloc a:hover {color:#000; text-decoration: none;}
+			.bloc h1				{font-size:1.2rem;}
+			.bloc h1:first-letter 	{font-size:1.6rem;}
+			.ads, .adsCel {display:none}
+			.niveau	{break-before:column; font-size:1.4rem;}
+			hr 		{break-after:column;}
+		}
+
+		@media only screen and (max-device-width:980px) { 
+			html 	{font-size:75%;}
+			.bloc	{width:100%; min-width:auto; padding:3%; line-height:1.5; margin:0;}
+			.ads	{display:none}
+			.adsCel {display:inline-block; width:100%; padding:0;}
+		}
+	</style>
+
+<title>Transmute Rock - Spell &raquo; Dungeons &amp; Dragons - DnD 5e</title><link rel="alternate" href="https://www.aidedd.org/dnd/sorts.php?vf=transmutation-de-la-pierre" hreflang="fr" /><link rel="alternate" href="https://www.aidedd.org/dnd/sorts.php?vo=transmute-rock" hreflang="en" /><link rel="canonical" href="https://www.aidedd.org/dnd/sorts.php?vo=transmute-rock" /></head><body><div class="bloc"><div class='entete'><h1>Transmute Rock</h1><div class="trad">[ <a href="sorts.php?vf=transmutation-de-la-pierre">Transmutation de la pierre</a> ]</div><div class="ecole"><em>level 5 - transmutation</em></div><div><strong>Casting Time</strong>: 1 action</div><div><strong>Range</strong>: 120 feet</div><div><strong>Components</strong>: V, S, M (clay and water)</div><div><strong>Duration</strong>: Until dispelled</div></div><div class="description ">You choose an area of stone or mud that you can see that fits within a 40-foot cube and is within range, and choose one of the following effects.
+<br /><strong>Transmute Rock to Mud</strong>. Nonmagical rock of any sort in the area becomes an equal volume of thick, flowing mud that remains for the spell's duration.
+<br />The ground in the spell's area becomes muddy enough that creatures can sink into it. Each foot that a creature moves through the mud costs 4 feet of movement, and any creature on the ground when you cast the spell must make a Strength saving throw. A creature must also make the saving throw when it moves into the area for the first time on a turn or ends its turn there. On a failed save, a creature sinks into the mud and is restrained, though it can use an action to end the restrained condition on itself by pulling itself free of the mud.
+<br />If you cast the spell on a ceiling, the mud falls. Any creature under the mud when it falls must make a Dexterity saving throw. A creature takes 4d8 bludgeoning damage on a failed save, or half as much damage on a successful one.
+<br /><strong>Transmute Mud to Rock</strong>. Nonmagical mud or quicksand in the area no more than 10 feet deep transforms into soft stone for the spell's duration. Any creature in the mud when it transforms must make a Dexterity saving throw. On a successful save, a creature is shunted safely to the surface to an unoccupied space. On a failed save, a creature becomes restrained by the rock. A restrained creature, or another creature within reach, can use an action to try to break the rock by succeeding on a DC 20 Strength check or by dealing damage to it. The rock has AC 15 and 25 hit points, and it is immune to poison and psychic damage.
+<br /></div><div class="source"><a href="https://www.aidedd.org/dnd-filters/spells.php">DnD 5e Spells</a> &rsaquo; Xanathar´s Guide to Everything&nbsp;; Druid&nbsp;; Wizard</div></div>	<amp-analytics type="gtag" data-credentials="include">
+	<script type="application/json">
+	{
+		"vars" : {
+			"gtag_id": "UA-346920-5",
+			"config" : {
+				"UA-346920-5": { "groups": "default" }
+			}
+		}
+	}
+	</script>
+	</amp-analytics>
+
+	<div class="ads">
+		<amp-ad 
+			layout="fixed"
+			width=336
+			height=280
+			type="adsense"
+			data-ad-client="ca-pub-5355421917378265"
+			data-ad-slot="8650354676">
+		</amp-ad>
+	</div>
+	<div class="adsCel">
+		<amp-ad 
+			width="100vw"
+			height=320
+			type="adsense"
+			data-ad-client="ca-pub-5355421917378265"
+			data-ad-slot="8650354676"
+			data-auto-format="rspv"
+			data-full-width>
+		</amp-ad>
+	</div>
+</body>
+</html>
