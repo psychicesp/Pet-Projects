@@ -8,7 +8,7 @@ from pprint import pprint
 import random
 import shutil
 import os
-folder = 'html_pages/Monsters'
+folder = 'html_pages/monsters'
 files = os.listdir(folder)
 #%%
 url = 'https://www.aidedd.org/dnd-filters/spells.php'
