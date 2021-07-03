@@ -27,7 +27,7 @@ url = 'https://www.aidedd.org/dnd-filters/spells.php'
 # df['URL']=df['Name'].apply(url_finder)
 
 # df = pd.read_csv('spells.csv')
-# def html_writer(x):
+# def html_writer(x, url):
 #     nameo=x.lower().replace("'",'-').replace(' ','-')
 #     url = f"https://www.aidedd.org/dnd/sorts.php?vo={nameo}"
 #     nameo=x.replace('/', ' OR ')
@@ -44,23 +44,27 @@ url = 'https://www.aidedd.org/dnd-filters/spells.php'
 
 # %%
 for file in files:
-    new_file_name = file.split('.')[0].split('/')[-1]
-    print(f'Working on {new_file_name}')
-    new_file_name = f"images/{new_file_name}.jpg"
+    print(f'Working on {file}')
     location = f"{folder}/{file}"
-    with open(location, 'r') as thingy:
-        stuff = thingy.read()
-    soup = BS(stuff,'html.parser')
-    soup = str(soup.html)
+    file_name = f"html_pages/French/monsters/{file}"
     try:
-        soup = soup.split('https://www.aidedd.org/dnd/images/')[1]
-        soup = soup.split('.jpg')[0]
-        url = f'https://www.aidedd.org/dnd/images/{soup}.jpg'
-        r = req.get(url)
-        print(f"    Writing {new_file_name}")
-        with open(new_file_name, "wb") as f:
-            f.write(r.content)
-        print("     Success!!!")
+        with open(location, 'r') as thingy:
+            stuff = thingy.read()
+    except:
+        with open(location, 'r', encoding='utf-8') as thingy:
+            stuff = thingy.read()
+    soup = BS(stuff,'html.parser')
+    try:
+        url = soup.find_all('link', {'rel':'alternate'})[0]['href']
+        response = req.get(url)
+        print(f"    Writing French {file}")
+        try:
+            with open(file_name, 'w') as stuff:
+                stuff.write(response.text)
+        except:
+            with open(file_name, 'w', encoding='utf-8') as stuff:
+                stuff.write(response.text)
+        print(f"         -----{file} Was A Success!!!-----")
     except:
         pass
     rest = random.random() 
@@ -70,4 +74,4 @@ for file in files:
     time.sleep(rest)
  
 
-# %%
+    # %%
