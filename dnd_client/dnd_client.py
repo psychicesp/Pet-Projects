@@ -59,16 +59,16 @@ for file in files:
         response = req.get(url)
         print(f"    Writing French {file}")
         try:
-            with open(file_name, 'w') as stuff:
+            with open(file_name, 'w', encoding='utf-8') as stuff:
                 stuff.write(response.text)
         except:
-            with open(file_name, 'w', encoding='utf-8') as stuff:
+            with open(file_name, 'w') as stuff:
                 stuff.write(response.text)
         print(f"         -----{file} Was A Success!!!-----")
     except:
         pass
     rest = random.random() 
-    rest = rest * random.randint(2,3)
+    rest = rest * random.randint(1,2)
     rest += 1
     print(f"            Resting for {round(rest,2)} seconds")
     time.sleep(rest)
