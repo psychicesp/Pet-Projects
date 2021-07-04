@@ -79,70 +79,70 @@ files = os.listdir(folder)
  
 
     # %%
-attrs = {
-    'STR':{},
-    'DEX':{},
-    'CON':{},
-    'INT':{},
-    'WIS':{},
-    'CHA':{}
-}
-for file in files:
-    location = f"{folder}/{file}"
-    creature = file.split('.')[0]
-    file_name = f"html_pages/French/monsters/{file}"
-    try:
-        with open(location, 'r') as thingy:
-            stuff = thingy.read()
-    except:
-        with open(location, 'r', encoding='utf-8') as thingy:
-            stuff = thingy.read()
-    soup = BS(stuff,'html.parser')
-    scores = soup.find_all('div', {'class':'carac'})
-    for score in scores:
-        score = score.text.split(' ')[0]
-        att = score[:3]
-        sco = int(score[3:])
-        attrs[att][creature] = sco
+# attrs = {
+#     'STR':{},
+#     'DEX':{},
+#     'CON':{},
+#     'INT':{},
+#     'WIS':{},
+#     'CHA':{}
+# }
+# for file in files:
+#     location = f"{folder}/{file}"
+#     creature = file.split('.')[0]
+#     file_name = f"html_pages/French/monsters/{file}"
+#     try:
+#         with open(location, 'r') as thingy:
+#             stuff = thingy.read()
+#     except:
+#         with open(location, 'r', encoding='utf-8') as thingy:
+#             stuff = thingy.read()
+#     soup = BS(stuff,'html.parser')
+#     scores = soup.find_all('div', {'class':'carac'})
+#     for score in scores:
+#         score = score.text.split(' ')[0]
+#         att = score[:3]
+#         sco = int(score[3:])
+#         attrs[att][creature] = sco
 
-# %%
-df = pd.read_csv('monsters.csv')
+# # %%
+# df = pd.read_csv('monsters.csv')
 
-def strengthener(x):
-    if x.Name in attrs['STR'].keys():
-        return attrs['STR'][x.Name]
-    else:
-        return 0
-def dexerciser(x):
-    if x.Name in attrs['DEX'].keys():
-        return attrs['DEX'][x.Name]
-    else:
-        return 0
-def congratulater(x):
-    if x.Name in attrs['CON'].keys():
-        return attrs['CON'][x.Name]
-    else:
-        return 0
-def teacher(x):
-    if x.Name in attrs['INT'].keys():
-        return attrs['INT'][x.Name]
-    else:
-        return 0
-def guru(x):
-    if x.Name in attrs['WIS'].keys():
-        return attrs['WIS'][x.Name]
-    else:
-        return 0
-def coach(x):
-    if x.Name in attrs['CHA'].keys():
-        return attrs['CHA'][x.Name]
-    else:
-        return 0
+# def strengthener(x):
+#     if x.Name in attrs['STR'].keys():
+#         return attrs['STR'][x.Name]
+#     else:
+#         return 0
+# def dexerciser(x):
+#     if x.Name in attrs['DEX'].keys():
+#         return attrs['DEX'][x.Name]
+#     else:
+#         return 0
+# def congratulater(x):
+#     if x.Name in attrs['CON'].keys():
+#         return attrs['CON'][x.Name]
+#     else:
+#         return 0
+# def teacher(x):
+#     if x.Name in attrs['INT'].keys():
+#         return attrs['INT'][x.Name]
+#     else:
+#         return 0
+# def guru(x):
+#     if x.Name in attrs['WIS'].keys():
+#         return attrs['WIS'][x.Name]
+#     else:
+#         return 0
+# def coach(x):
+#     if x.Name in attrs['CHA'].keys():
+#         return attrs['CHA'][x.Name]
+#     else:
+#         return 0
 
-df['Str'] = df.apply(strengthener, axis = 1)
-df['Dex'] = df.apply(dexerciser, axis = 1)
-df['Con'] = df.apply(congratulater, axis = 1)
-df['Int'] = df.apply(teacher, axis = 1)
-df['Wis'] = df.apply(guru, axis = 1)
-df['Cha'] = df.apply(coach, axis = 1)
+# df['Str'] = df.apply(strengthener, axis = 1)
+# df['Dex'] = df.apply(dexerciser, axis = 1)
+# df['Con'] = df.apply(congratulater, axis = 1)
+# df['Int'] = df.apply(teacher, axis = 1)
+# df['Wis'] = df.apply(guru, axis = 1)
+# df['Cha'] = df.apply(coach, axis = 1)
 # %%
