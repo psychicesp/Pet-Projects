@@ -85,12 +85,14 @@ attrs = {
     'ac_source':{},
     'walk_speed':{},
     'fly_speed':{},
+    'hover':{},
+    'swim_speed':{},
     'climb_speed':{},
     'hit_dice_type':{},
     'hit_dice_number':{}
 
 }
-for file in files[0:15]:
+for file in files[:15]:
     location = f"{folder}/{file}"
     creature = file.split('.')[0]
     file_name = f"html_pages/monsters/{file}"
@@ -107,10 +109,13 @@ for file in files[0:15]:
         score = str(score).split('<svg><polyline points=')[0]
         score = score.replace('<br>','').replace('<br/>','').replace('<','').replace('>','').replace('/','')
         score = score.split('strong')
-        print(score)
+        print(score[6])
         if '(' in score[2]:
             ac = score[2].split('(')[0].replace(' ','')
             ac_source = score[2].split('(')[1].replace(')','').strip(' ')
+            if 'mage armor' in ac_source and ac_source.split(' ')[0].strip(' ').isnumeric():
+                ac = int(ac_source.split(' ')[0].strip(' '))
+                ac_source = "mage armor"
         else:
             ac = score[2].replace(' ','')
             try:
@@ -118,7 +123,16 @@ for file in files[0:15]:
             except:
                 ac = pd.NA
             ac_source = pd.NA
-        print(ac,'\n' ,ac_source)
+        hit_dice = score[4].split('(')[1].split('d')[0]
+        hit_dice_type = score[4].split('(')[1].split('d')[1].split(' ')[0]
+        hit_dice_type = 'd'+ hit_dice_type.strip('(').strip(')')
+        speeds = score[6].split(',')
+        for speed in speeds:
+            
+        print(f"""    ac = {ac}
+    ac_source = {ac_source}
+    hit_dice = {hit_dice}
+    hit_dice_type = {hit_dice_type}""")
     except:
         score = 'error'
         print(f"Could not parse {creature}")
