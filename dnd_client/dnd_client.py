@@ -83,16 +83,12 @@ files = os.listdir(folder)
 attrs = {
     'ac':{},
     'ac_source':{},
-    'walk_speed':{},
-    'fly_speed':{},
-    'hover':{},
-    'swim_speed':{},
-    'climb_speed':{},
+    'speed':{},
     'hit_dice_type':{},
-    'hit_dice_number':{}
+    'hit_dice':{}
 
 }
-for file in files[:15]:
+for file in files:
     location = f"{folder}/{file}"
     creature = file.split('.')[0]
     file_name = f"html_pages/monsters/{file}"
@@ -126,56 +122,58 @@ for file in files[:15]:
         hit_dice = score[4].split('(')[1].split('d')[0]
         hit_dice_type = score[4].split('(')[1].split('d')[1].split(' ')[0]
         hit_dice_type = 'd'+ hit_dice_type.strip('(').strip(')')
-        speeds = score[6].split(',')
-        for speed in speeds:
-            
+        speed = score[6].replace('div','').replace('.','')
         print(f"""    ac = {ac}
     ac_source = {ac_source}
     hit_dice = {hit_dice}
-    hit_dice_type = {hit_dice_type}""")
+    hit_dice_type = {hit_dice_type}
+    speed = {speed}""")
     except:
         score = 'error'
+        ac = pd.NA
+        ac_source = pd.NA
+        hit_dice = pd.NA
+        hit_dice_type = pd.NA
+        speed = pd.NA
         print(f"Could not parse {creature}")
+    attrs['ac'][creature] = ac
+    attrs['ac_source'][creature] = ac_source
+    attrs['speed'][creature] = speed
+    attrs['hit_dice'][creature] = hit_dice
+    attrs['hit_dice_type'][creature] = hit_dice_type
 #%%
-
 df = pd.read_csv('monsters.csv')
 
-def strengthener(x):
-    if x.Name in attrs['STR'].keys():
-        return attrs['STR'][x.Name]
+def armorer(x):
+    if x.Name in attrs['ac'].keys():
+        return attrs['ac'][x.Name]
     else:
-        return 0
-def dexerciser(x):
-    if x.Name in attrs['DEX'].keys():
-        return attrs['DEX'][x.Name]
+        return pd.NA
+def armoring(x):
+    if x.Name in attrs['ac_source'].keys():
+        return attrs['ac_source'][x.Name]
     else:
-        return 0
-def congratulater(x):
-    if x.Name in attrs['CON'].keys():
-        return attrs['CON'][x.Name]
+        return pd.NA
+def speeder(x):
+    if x.Name in attrs['speed'].keys():
+        return attrs['speed'][x.Name]
     else:
-        return 0
-def teacher(x):
-    if x.Name in attrs['INT'].keys():
-        return attrs['INT'][x.Name]
+        return pd.NA
+def hitter(x):
+    if x.Name in attrs['hit_dice'].keys():
+        return attrs['hit_dice'][x.Name]
     else:
-        return 0
-def guru(x):
-    if x.Name in attrs['WIS'].keys():
-        return attrs['WIS'][x.Name]
+        return pd.NA
+def hitting(x):
+    if x.Name in attrs['hit_dice_type'].keys():
+        return attrs['hit_dice_type'][x.Name]
     else:
-        return 0
-def coach(x):
-    if x.Name in attrs['CHA'].keys():
-        return attrs['CHA'][x.Name]
-    else:
-        return 0
+        return pd.NA
 
-df['Str'] = df.apply(strengthener, axis = 1)
-df['Dex'] = df.apply(dexerciser, axis = 1)
-df['Con'] = df.apply(congratulater, axis = 1)
-df['Int'] = df.apply(teacher, axis = 1)
-df['Wis'] = df.apply(guru, axis = 1)
-df['Cha'] = df.apply(coach, axis = 1)
+df['AC'] = df.apply(armorer, axis = 1)
+df['Armor'] = df.apply(armoring, axis = 1)
+df['HitDice#'] = df.apply(hitter, axis = 1)
+df['HitDice'] = df.apply(hitting, axis = 1)
+df['Speed'] = df.apply(speeder, axis = 1)
 # %%
 
