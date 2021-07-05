@@ -1,4 +1,5 @@
 #%%
+from numpy import nan
 from splinter import Browser
 from bs4 import BeautifulSoup as BS
 import requests as req
@@ -79,70 +80,88 @@ files = os.listdir(folder)
  
 
     # %%
-# attrs = {
-#     'STR':{},
-#     'DEX':{},
-#     'CON':{},
-#     'INT':{},
-#     'WIS':{},
-#     'CHA':{}
-# }
-# for file in files:
-#     location = f"{folder}/{file}"
-#     creature = file.split('.')[0]
-#     file_name = f"html_pages/French/monsters/{file}"
-#     try:
-#         with open(location, 'r') as thingy:
-#             stuff = thingy.read()
-#     except:
-#         with open(location, 'r', encoding='utf-8') as thingy:
-#             stuff = thingy.read()
-#     soup = BS(stuff,'html.parser')
-#     scores = soup.find_all('div', {'class':'carac'})
-#     for score in scores:
-#         score = score.text.split(' ')[0]
-#         att = score[:3]
-#         sco = int(score[3:])
-#         attrs[att][creature] = sco
+attrs = {
+    'ac':{},
+    'ac_source':{},
+    'walk_speed':{},
+    'fly_speed':{},
+    'climb_speed':{},
+    'hit_dice_type':{},
+    'hit_dice_number':{}
 
-# # %%
-# df = pd.read_csv('monsters.csv')
+}
+for file in files[0:15]:
+    location = f"{folder}/{file}"
+    creature = file.split('.')[0]
+    file_name = f"html_pages/monsters/{file}"
+    try:
+        with open(location, 'r') as thingy:
+            stuff = thingy.read()
+    except:
+        with open(location, 'r', encoding='utf-8') as thingy:
+            stuff = thingy.read()
+    soup = BS(stuff,'html.parser')
+    print(creature)
+    try:
+        score = soup.find_all('div', {'class':'red'})[0]
+        score = str(score).split('<svg><polyline points=')[0]
+        score = score.replace('<br>','').replace('<br/>','').replace('<','').replace('>','').replace('/','')
+        score = score.split('strong')
+        print(score)
+        if '(' in score[2]:
+            ac = score[2].split('(')[0].replace(' ','')
+            ac_source = score[2].split('(')[1].replace(')','').strip(' ')
+        else:
+            ac = score[2].replace(' ','')
+            try:
+                ac = int(ac)
+            except:
+                ac = pd.NA
+            ac_source = pd.NA
+        print(ac,'\n' ,ac_source)
+    except:
+        score = 'error'
+        print(f"Could not parse {creature}")
+#%%
 
-# def strengthener(x):
-#     if x.Name in attrs['STR'].keys():
-#         return attrs['STR'][x.Name]
-#     else:
-#         return 0
-# def dexerciser(x):
-#     if x.Name in attrs['DEX'].keys():
-#         return attrs['DEX'][x.Name]
-#     else:
-#         return 0
-# def congratulater(x):
-#     if x.Name in attrs['CON'].keys():
-#         return attrs['CON'][x.Name]
-#     else:
-#         return 0
-# def teacher(x):
-#     if x.Name in attrs['INT'].keys():
-#         return attrs['INT'][x.Name]
-#     else:
-#         return 0
-# def guru(x):
-#     if x.Name in attrs['WIS'].keys():
-#         return attrs['WIS'][x.Name]
-#     else:
-#         return 0
-# def coach(x):
-#     if x.Name in attrs['CHA'].keys():
-#         return attrs['CHA'][x.Name]
-#     else:
-#         return 0
+df = pd.read_csv('monsters.csv')
 
-# df['Str'] = df.apply(strengthener, axis = 1)
-# df['Dex'] = df.apply(dexerciser, axis = 1)
-# df['Con'] = df.apply(congratulater, axis = 1)
-# df['Int'] = df.apply(teacher, axis = 1)
-# df['Wis'] = df.apply(guru, axis = 1)
-# df['Cha'] = df.apply(coach, axis = 1)
+def strengthener(x):
+    if x.Name in attrs['STR'].keys():
+        return attrs['STR'][x.Name]
+    else:
+        return 0
+def dexerciser(x):
+    if x.Name in attrs['DEX'].keys():
+        return attrs['DEX'][x.Name]
+    else:
+        return 0
+def congratulater(x):
+    if x.Name in attrs['CON'].keys():
+        return attrs['CON'][x.Name]
+    else:
+        return 0
+def teacher(x):
+    if x.Name in attrs['INT'].keys():
+        return attrs['INT'][x.Name]
+    else:
+        return 0
+def guru(x):
+    if x.Name in attrs['WIS'].keys():
+        return attrs['WIS'][x.Name]
+    else:
+        return 0
+def coach(x):
+    if x.Name in attrs['CHA'].keys():
+        return attrs['CHA'][x.Name]
+    else:
+        return 0
+
+df['Str'] = df.apply(strengthener, axis = 1)
+df['Dex'] = df.apply(dexerciser, axis = 1)
+df['Con'] = df.apply(congratulater, axis = 1)
+df['Int'] = df.apply(teacher, axis = 1)
+df['Wis'] = df.apply(guru, axis = 1)
+df['Cha'] = df.apply(coach, axis = 1)
 # %%
+
