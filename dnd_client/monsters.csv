@@ -1,696 +1,696 @@
 Name,Size,Type,Tags,Alignment,Challenge,XP,Source,Str,Dex,Con,Int,Wis,Cha,AC,Armor,HitDice#,HitDice,Speed
-Frog,Tiny,Beast,,Unaligned,0.0,0,mm 322,1,13,8,1,8,3,11,,1,d4," 20 ft, swim 20 ft"
-Sea Horse,Tiny,Beast,,Unaligned,0.0,0,mm 337,1,12,8,1,10,2,11,,1,d4," 0 ft, swim 20 ft"
-Awakened Shrub,Small,Plant,,Unaligned,0.0,10,mm 317,3,8,11,10,10,6,9,,3,d6, 20 ft
-Baboon,Small,Beast,,Unaligned,0.0,10,mm 318,8,14,11,4,12,6,12,,1,d6," 30 ft, climb 30 ft"
-Badger,Tiny,Beast,,Unaligned,0.0,10,mm 318,4,11,12,2,12,5,10,,1,d4," 20 ft, burrow 5 ft"
-Bat,Tiny,Beast,,Unaligned,0.0,10,mm 318,2,15,8,2,12,4,12,,1,d4," 5 ft, fly 30 ft"
-Cat,Tiny,Beast,,Unaligned,0.0,10,mm 320,3,15,10,3,12,7,12,,1,d4," 40 ft, climb 30 ft"
-Commoner,Medium,Humanoid,,Any,0.0,10,mm 344,10,10,10,10,10,10,10,,1,d8, 30 ft
-Crab,Tiny,Beast,,Unaligned,0.0,10,mm 320,2,11,10,1,8,2,11,natural armor,1,d4," 20 ft, swim 20 ft"
-Cranium Rat,Tiny,Beast,,LE,0.0,10,vgm 133,2,14,10,4,11,8,12,,1,d4, 30 ft
-Crawling Claw,Tiny,Undead,,NE,0.0,10,mm 44,13,14,11,5,10,4,12,,1,d4," 20 ft, climb 20 ft"
-Deer,Medium,Beast,,Unaligned,0.0,10,mm 321,11,16,11,2,14,5,13,,1,d8, 50 ft
-Eagle,Small,Beast,,Unaligned,0.0,10,mm 322,6,15,10,2,14,7,12,,1,d6," 10 ft, fly 60 ft"
-Giant Fire Beetle,Small,Beast,,Unaligned,0.0,10,mm 325,8,10,12,1,7,3,13,natural armor,1,d6, 30 ft
-Goat,Medium,Beast,,Unaligned,0.0,10,mm 330,12,10,11,2,10,5,10,,1,d8, 40 ft
-Hawk,Tiny,Beast,,Unaligned,0.0,10,mm 330,5,16,8,2,14,6,13,,1,d4," 10 ft, fly 60 ft"
-Homunculus,Tiny,Construct,,N,0.0,10,mm 188,4,15,11,10,10,7,13,natural armor,2,d4," 20 ft, fly 40 ft"
-Hyena,Medium,Beast,,Unaligned,0.0,10,mm 331,11,13,12,2,12,5,11,,1,d8, 50 ft
-Jackal,Small,Beast,,Unaligned,0.0,10,mm 331,8,15,11,3,12,6,12,,1,d6, 40 ft
-Lemure,Medium,Fiend,devil,LE,0.0,10,mm 76,10,5,11,1,11,3,7,,3,d8, 15 ft
-Lizard,Tiny,Beast,,Unaligned,0.0,10,mm 332,2,11,10,1,8,3,10,,1,d4," 20 ft, climb 20 ft"
-Myconid Sprout,Small,Plant,,LN,0.0,10,mm 230,8,10,10,8,11,5,10,,2,d6, 10 ft
-Octopus,Small,Beast,,Unaligned,0.0,10,mm 333,4,15,11,3,10,4,12,,1,d6," 5 ft, swim 30 ft"
-Owl,Tiny,Beast,,Unaligned,0.0,10,mm 333,3,13,8,2,12,7,11,,1,d4," 5 ft, fly 60 ft"
-Quipper,Tiny,Beast,,Unaligned,0.0,10,mm 335,2,16,9,1,7,2,13,,1,d4," 0 ft, swim 40 ft"
-Rat,Tiny,Beast,,Unaligned,0.0,10,mm 335,2,11,9,2,10,4,10,,1,d4, 20 ft
-Raven,Tiny,Beast,,Unaligned,0.0,10,mm 335,2,14,8,2,12,6,12,,1,d4," 10 ft, fly 50 ft"
-Scorpion,Tiny,Beast,,Unaligned,0.0,10,mm 337,2,11,8,1,8,2,11,natural armor,1,d4, 10 ft
-Shrieker,Medium,Plant,,Unaligned,0.0,10,mm 138,1,1,10,1,3,1,5,,3,d8, 0 ft
-Spider,Tiny,Beast,,Unaligned,0.0,10,mm 337,2,14,8,1,10,2,12,,1,d4," 20 ft, climb 20 ft"
-Vulture,Medium,Beast,,Unaligned,0.0,10,mm 339,7,10,13,2,12,4,10,,1,d8," 10 ft, fly 50 ft"
-Weasel,Tiny,Beast,,Unaligned,0.0,10,mm 340,3,16,8,2,12,3,13,,1,d4, 30 ft
-Bandit,Medium,Humanoid,,Any non-lawful,0.125,25,mm 343,11,12,12,10,10,10,12,leather armor,2,d8, 30 ft
-Blood Hawk,Small,Beast,,Unaligned,0.125,25,mm 319,6,14,10,3,14,5,12,,2,d6," 10 ft, fly 60 ft"
-Boggle,Small,Fey,,CN,0.125,25,vgm 128,8,18,13,6,12,7,14,,4,d6," 30 ft, climb 30 ft"
-Camel,Large,Beast,,Unaligned,0.125,25,mm 320,16,8,14,2,8,5,9,,2,d10, 50 ft
-Cultist,Medium,Humanoid,,Any non-good,0.125,25,mm 345,11,12,10,10,11,10,12,leather armor,2,d8, 30 ft
-Dolphin,Medium,Beast,,Unaligned,0.125,25,vgm 208,14,13,13,6,12,7,12,natural armor,2,d8," 0 ft, swim 60 ft"
-Flumph,Small,Aberration,,LG,0.125,25,mm 135,6,15,10,14,14,11,12,,2,d6," 5 ft, fly 30 ft"
-Flying Snake,Tiny,Beast,,Unaligned,0.125,25,mm 322,4,18,11,2,12,5,14,,2,d4," 30 ft, fly 60 ft, swim 30 ft"
-Giant Crab,Medium,Beast,,Unaligned,0.125,25,mm 324,13,15,11,1,9,3,15,natural armor,3,d8," 30 ft, swim 30 ft"
-Giant Rat,Small,Beast,,Unaligned,0.125,25,mm 327,7,15,11,2,10,4,12,,2,d6, 30 ft
-Giant Weasel,Medium,Beast,,Unaligned,0.125,25,mm 329,11,16,10,4,12,5,13,,2,d8, 40 ft
-Guard,Medium,Humanoid,,,0.125,25,mm 347,13,12,12,10,11,10,16,"chain shirt, shield",2,d8, 30 ft
-Kobold,Small,Humanoid,kobold,LE,0.125,25,mm 195,7,15,9,8,7,8,12,,2,d6, 30 ft
-Manes,Small,Fiend,demon,CE,0.125,25,mm 60,10,9,13,3,8,4,9,,2,d6, 20 ft
-Mastiff,Medium,Beast,,Unaligned,0.125,25,mm 332,13,14,12,3,12,7,12,,1,d8, 40 ft
-Merfolk,Medium,Humanoid,merfolk,N,0.125,25,mm 218,10,13,12,11,11,12,11,,2,d8," 10 ft, swim 40 ft"
-Monodrone,Medium,Construct,,LN,0.125,25,mm 224,10,13,12,4,10,5,15,natural armor,1,d8," 30 ft, fly 30 ft"
-Mule,Medium,Beast,,Unaligned,0.125,25,mm 333,14,10,13,2,10,5,10,,2,d8, 40 ft
-Neogi Hatchling,Tiny,Aberration,,LE,0.125,25,vgm 179,3,13,10,6,10,9,11,,3,d4," 20 ft, climb 20 ft"
-Noble,Medium,Humanoid,,,0.125,25,mm 348,11,12,11,12,14,16,15,breastplate,2,d8, 30 ft
-Poisonous Snake,Tiny,Beast,,Unaligned,0.125,25,mm 334,2,16,11,1,10,3,13,,1,d4," 30 ft, swim 30 ft"
-Pony,Medium,Beast,,Unaligned,0.125,25,mm 335,15,10,13,2,11,7,10,,2,d8, 40 ft
-Slaad Tadpole,Tiny,Aberration,,CN,0.125,25,mm 276,7,15,10,3,5,3,12,,4,d4, 30 ft
-Stirge,Tiny,Beast,,Unaligned,0.125,25,mm 284,4,16,11,2,8,6,14,natural armor,1,d4," 10 ft, fly 40 ft"
-Tribal Warrior,Medium,Humanoid,,,0.125,25,mm 350,13,11,12,8,11,8,12,hide armor,2,d8, 30 ft
-Twig Blight,Small,Plant,,NE,0.125,25,mm 32,6,13,12,4,8,3,13,natural armor,1,d6, 20 ft
-Xvart,Small,Humanoid,xvart,CE,0.125,25,vgm 200,8,14,10,8,7,7,13,leather armor,2,d6, 30 ft
-Young Kruthik,Small,Monstrosity,,Unaligned,0.125,25,mtf 211,13,16,13,4,10,6,16,natural armor,2,d6," 30 ft, burrow 10 ft, climb 30 ft"
-Aarakocra,Medium,Humanoid,aarakocra,NG,0.25,50,mm 12,10,14,10,11,12,11,12,,3,d8," 20 ft, fly 50 ft"
+Frog,Tiny,Beast,,Unaligned,0.0,0,mm 322,1,13,8,1,8,3,11,,1.0,d4,"20 ft, swim 20 ft"
+Sea Horse,Tiny,Beast,,Unaligned,0.0,0,mm 337,1,12,8,1,10,2,11,,1.0,d4,"0 ft, swim 20 ft"
+Awakened Shrub,Small,Plant,,Unaligned,0.0,10,mm 317,3,8,11,10,10,6,9,,3.0,d6,20 ft
+Baboon,Small,Beast,,Unaligned,0.0,10,mm 318,8,14,11,4,12,6,12,,1.0,d6,"30 ft, climb 30 ft"
+Badger,Tiny,Beast,,Unaligned,0.0,10,mm 318,4,11,12,2,12,5,10,,1.0,d4,"20 ft, burrow 5 ft"
+Bat,Tiny,Beast,,Unaligned,0.0,10,mm 318,2,15,8,2,12,4,12,,1.0,d4,"5 ft, fly 30 ft"
+Cat,Tiny,Beast,,Unaligned,0.0,10,mm 320,3,15,10,3,12,7,12,,1.0,d4,"40 ft, climb 30 ft"
+Commoner,Medium,Humanoid,,Any,0.0,10,mm 344,10,10,10,10,10,10,10,,1.0,d8,30 ft
+Crab,Tiny,Beast,,Unaligned,0.0,10,mm 320,2,11,10,1,8,2,11,natural armor,1.0,d4,"20 ft, swim 20 ft"
+Cranium Rat,Tiny,Beast,,LE,0.0,10,vgm 133,2,14,10,4,11,8,12,,1.0,d4,30 ft
+Crawling Claw,Tiny,Undead,,NE,0.0,10,mm 44,13,14,11,5,10,4,12,,1.0,d4,"20 ft, climb 20 ft"
+Deer,Medium,Beast,,Unaligned,0.0,10,mm 321,11,16,11,2,14,5,13,,1.0,d8,50 ft
+Eagle,Small,Beast,,Unaligned,0.0,10,mm 322,6,15,10,2,14,7,12,,1.0,d6,"10 ft, fly 60 ft"
+Giant Fire Beetle,Small,Beast,,Unaligned,0.0,10,mm 325,8,10,12,1,7,3,13,natural armor,1.0,d6,30 ft
+Goat,Medium,Beast,,Unaligned,0.0,10,mm 330,12,10,11,2,10,5,10,,1.0,d8,40 ft
+Hawk,Tiny,Beast,,Unaligned,0.0,10,mm 330,5,16,8,2,14,6,13,,1.0,d4,"10 ft, fly 60 ft"
+Homunculus,Tiny,Construct,,N,0.0,10,mm 188,4,15,11,10,10,7,13,natural armor,2.0,d4,"20 ft, fly 40 ft"
+Hyena,Medium,Beast,,Unaligned,0.0,10,mm 331,11,13,12,2,12,5,11,,1.0,d8,50 ft
+Jackal,Small,Beast,,Unaligned,0.0,10,mm 331,8,15,11,3,12,6,12,,1.0,d6,40 ft
+Lemure,Medium,Fiend,devil,LE,0.0,10,mm 76,10,5,11,1,11,3,7,,3.0,d8,15 ft
+Lizard,Tiny,Beast,,Unaligned,0.0,10,mm 332,2,11,10,1,8,3,10,,1.0,d4,"20 ft, climb 20 ft"
+Myconid Sprout,Small,Plant,,LN,0.0,10,mm 230,8,10,10,8,11,5,10,,2.0,d6,10 ft
+Octopus,Small,Beast,,Unaligned,0.0,10,mm 333,4,15,11,3,10,4,12,,1.0,d6,"5 ft, swim 30 ft"
+Owl,Tiny,Beast,,Unaligned,0.0,10,mm 333,3,13,8,2,12,7,11,,1.0,d4,"5 ft, fly 60 ft"
+Quipper,Tiny,Beast,,Unaligned,0.0,10,mm 335,2,16,9,1,7,2,13,,1.0,d4,"0 ft, swim 40 ft"
+Rat,Tiny,Beast,,Unaligned,0.0,10,mm 335,2,11,9,2,10,4,10,,1.0,d4,20 ft
+Raven,Tiny,Beast,,Unaligned,0.0,10,mm 335,2,14,8,2,12,6,12,,1.0,d4,"10 ft, fly 50 ft"
+Scorpion,Tiny,Beast,,Unaligned,0.0,10,mm 337,2,11,8,1,8,2,11,natural armor,1.0,d4,10 ft
+Shrieker,Medium,Plant,,Unaligned,0.0,10,mm 138,1,1,10,1,3,1,5,,3.0,d8,0 ft
+Spider,Tiny,Beast,,Unaligned,0.0,10,mm 337,2,14,8,1,10,2,12,,1.0,d4,"20 ft, climb 20 ft"
+Vulture,Medium,Beast,,Unaligned,0.0,10,mm 339,7,10,13,2,12,4,10,,1.0,d8,"10 ft, fly 50 ft"
+Weasel,Tiny,Beast,,Unaligned,0.0,10,mm 340,3,16,8,2,12,3,13,,1.0,d4,30 ft
+Bandit,Medium,Humanoid,,Any non-lawful,0.125,25,mm 343,11,12,12,10,10,10,12,leather armor,2.0,d8,30 ft
+Blood Hawk,Small,Beast,,Unaligned,0.125,25,mm 319,6,14,10,3,14,5,12,,2.0,d6,"10 ft, fly 60 ft"
+Boggle,Small,Fey,,CN,0.125,25,vgm 128,8,18,13,6,12,7,14,,4.0,d6,"30 ft, climb 30 ft"
+Camel,Large,Beast,,Unaligned,0.125,25,mm 320,16,8,14,2,8,5,9,,2.0,d10,50 ft
+Cultist,Medium,Humanoid,,Any non-good,0.125,25,mm 345,11,12,10,10,11,10,12,leather armor,2.0,d8,30 ft
+Dolphin,Medium,Beast,,Unaligned,0.125,25,vgm 208,14,13,13,6,12,7,12,natural armor,2.0,d8,"0 ft, swim 60 ft"
+Flumph,Small,Aberration,,LG,0.125,25,mm 135,6,15,10,14,14,11,12,,2.0,d6,"5 ft, fly 30 ft"
+Flying Snake,Tiny,Beast,,Unaligned,0.125,25,mm 322,4,18,11,2,12,5,14,,2.0,d4,"30 ft, fly 60 ft, swim 30 ft"
+Giant Crab,Medium,Beast,,Unaligned,0.125,25,mm 324,13,15,11,1,9,3,15,natural armor,3.0,d8,"30 ft, swim 30 ft"
+Giant Rat,Small,Beast,,Unaligned,0.125,25,mm 327,7,15,11,2,10,4,12,,2.0,d6,30 ft
+Giant Weasel,Medium,Beast,,Unaligned,0.125,25,mm 329,11,16,10,4,12,5,13,,2.0,d8,40 ft
+Guard,Medium,Humanoid,,,0.125,25,mm 347,13,12,12,10,11,10,16,"chain shirt, shield",2.0,d8,30 ft
+Kobold,Small,Humanoid,kobold,LE,0.125,25,mm 195,7,15,9,8,7,8,12,,2.0,d6,30 ft
+Manes,Small,Fiend,demon,CE,0.125,25,mm 60,10,9,13,3,8,4,9,,2.0,d6,20 ft
+Mastiff,Medium,Beast,,Unaligned,0.125,25,mm 332,13,14,12,3,12,7,12,,1.0,d8,40 ft
+Merfolk,Medium,Humanoid,merfolk,N,0.125,25,mm 218,10,13,12,11,11,12,11,,2.0,d8,"10 ft, swim 40 ft"
+Monodrone,Medium,Construct,,LN,0.125,25,mm 224,10,13,12,4,10,5,15,natural armor,1.0,d8,"30 ft, fly 30 ft"
+Mule,Medium,Beast,,Unaligned,0.125,25,mm 333,14,10,13,2,10,5,10,,2.0,d8,40 ft
+Neogi Hatchling,Tiny,Aberration,,LE,0.125,25,vgm 179,3,13,10,6,10,9,11,,3.0,d4,"20 ft, climb 20 ft"
+Noble,Medium,Humanoid,,,0.125,25,mm 348,11,12,11,12,14,16,15,breastplate,2.0,d8,30 ft
+Poisonous Snake,Tiny,Beast,,Unaligned,0.125,25,mm 334,2,16,11,1,10,3,13,,1.0,d4,"30 ft, swim 30 ft"
+Pony,Medium,Beast,,Unaligned,0.125,25,mm 335,15,10,13,2,11,7,10,,2.0,d8,40 ft
+Slaad Tadpole,Tiny,Aberration,,CN,0.125,25,mm 276,7,15,10,3,5,3,12,,4.0,d4,30 ft
+Stirge,Tiny,Beast,,Unaligned,0.125,25,mm 284,4,16,11,2,8,6,14,natural armor,1.0,d4,"10 ft, fly 40 ft"
+Tribal Warrior,Medium,Humanoid,,,0.125,25,mm 350,13,11,12,8,11,8,12,hide armor,2.0,d8,30 ft
+Twig Blight,Small,Plant,,NE,0.125,25,mm 32,6,13,12,4,8,3,13,natural armor,1.0,d6,20 ft
+Xvart,Small,Humanoid,xvart,CE,0.125,25,vgm 200,8,14,10,8,7,7,13,leather armor,2.0,d6,30 ft
+Young Kruthik,Small,Monstrosity,,Unaligned,0.125,25,mtf 211,13,16,13,4,10,6,16,natural armor,2.0,d6,"30 ft, burrow 10 ft, climb 30 ft"
+Aarakocra,Medium,Humanoid,aarakocra,NG,0.25,50,mm 12,10,14,10,11,12,11,12,,3.0,d8,"20 ft, fly 50 ft"
 Abyssal Wretch,Medium,Fiend,demon,CE,0.25,50,mtf 136,0,0,0,0,0,0,,,,,
-Acolyte,Medium,Humanoid,,Any,0.25,50,mm 342,10,10,10,10,14,11,10,,2,d8, 30 ft
-Apprentice Wizard,Medium,Humanoid,,Any,0.25,50,vgm 209,10,10,10,14,10,11,10,,2,d8, 30 ft
-Axe Beak,Large,Beast,,Unaligned,0.25,50,mm 317,14,12,12,2,10,5,11,,3,d10, 50 ft
-Blink Dog,Medium,Fey,,LG,0.25,50,mm 318,12,17,12,10,13,11,13,,4,d8, 40 ft
-Boar,Medium,Beast,,Unaligned,0.25,50,mm 319,13,11,12,2,9,5,11,natural armor,2,d8, 40 ft
-Bullywug,Medium,Humanoid,bullywug,NE,0.25,50,mm 35,12,12,13,7,10,7,15,"hide armor, shield",2,d8," 20 ft, swim 40 ft"
-Constrictor Snake,Large,Beast,,Unaligned,0.25,50,mm 320,15,14,12,1,10,3,12,,2,d10," 30 ft, swim 30 ft"
-Cow,Large,Beast,,Unaligned,0.25,50,vgm 207,18,10,14,2,10,4,10,,2,d10, 30 ft
+Acolyte,Medium,Humanoid,,Any,0.25,50,mm 342,10,10,10,10,14,11,10,,2.0,d8,30 ft
+Apprentice Wizard,Medium,Humanoid,,Any,0.25,50,vgm 209,10,10,10,14,10,11,10,,2.0,d8,30 ft
+Axe Beak,Large,Beast,,Unaligned,0.25,50,mm 317,14,12,12,2,10,5,11,,3.0,d10,50 ft
+Blink Dog,Medium,Fey,,LG,0.25,50,mm 318,12,17,12,10,13,11,13,,4.0,d8,40 ft
+Boar,Medium,Beast,,Unaligned,0.25,50,mm 319,13,11,12,2,9,5,11,natural armor,2.0,d8,40 ft
+Bullywug,Medium,Humanoid,bullywug,NE,0.25,50,mm 35,12,12,13,7,10,7,15,"hide armor, shield",2.0,d8,"20 ft, swim 40 ft"
+Constrictor Snake,Large,Beast,,Unaligned,0.25,50,mm 320,15,14,12,1,10,3,12,,2.0,d10,"30 ft, swim 30 ft"
+Cow,Large,Beast,,Unaligned,0.25,50,vgm 207,18,10,14,2,10,4,10,,2.0,d10,30 ft
 Deep Rothe,Medium,Beast,,Unaligned,0.25,50,vgm 207,0,0,0,0,0,0,,,,,
-Derro,Small,Humanoid,derro,CE,0.25,50,mtf 158,10,14,12,11,5,9,13,leather armor,3,d6, 30 ft
-Dimetrodon,Medium,Beast,,Unaligned,0.25,50,vgm 139,14,10,15,2,10,5,12,natural armor,3,d8," 30 ft, swim 20 ft"
-Draft Horse,Large,Beast,,Unaligned,0.25,50,mm 321,18,10,12,2,11,7,10,,3,d10, 40 ft
-Dretch,Small,Fiend,demon,CE,0.25,50,mm 57,11,11,12,5,8,3,11,natural armor,4,d6, 20 ft
-Drow,Medium,Humanoid,elf,NE,0.25,50,mm 128,10,14,10,11,11,12,15,chain shirt,3,d8, 30 ft
-Duodrone,Medium,Construct,,LN,0.25,50,mm 225,11,13,12,6,10,7,15,natural armor,2,d8, 30 ft
-Elk,Large,Beast,,Unaligned,0.25,50,mm 322,16,10,12,2,10,6,10,,2,d10, 50 ft
-Flying Sword,Small,Construct,,Unaligned,0.25,50,mm 20,12,15,11,1,5,1,17,natural armor,5,d6," 0 ft, fly 50 ft (hover)"
-Giant Badger,Medium,Beast,,Unaligned,0.25,50,mm 323,13,10,15,2,12,5,10,,2,d8," 30 ft, burrow 10 ft"
-Giant Bat,Large,Beast,,Unaligned,0.25,50,mm 323,15,16,11,2,12,6,13,,4,d10," 10 ft, fly 60 ft"
-Giant Centipede,Small,Beast,,Unaligned,0.25,50,mm 323,5,14,12,1,7,3,13,natural armor,1,d6," 30 ft, climb 30 ft"
-Giant Frog,Medium,Beast,,Unaligned,0.25,50,mm 325,12,13,11,2,10,3,11,,4,d8," 30 ft, swim 30 ft"
-Giant Lizard,Large,Beast,,Unaligned,0.25,50,mm 326,15,12,13,2,10,5,12,natural armor,3,d10," 30 ft, climb 30 ft"
-Giant Owl,Large,Beast,,N,0.25,50,mm 327,13,15,12,8,13,10,12,,3,d10," 5 ft, fly 60 ft"
-Giant Poisonous Snake,Medium,Beast,,Unaligned,0.25,50,mm 327,10,18,13,2,10,3,14,,2,d8," 30 ft, swim 30 ft"
-Giant Wolf Spider,Medium,Beast,,Unaligned,0.25,50,mm 330,12,16,13,3,12,4,13,,2,d8," 40 ft, climb 40 ft"
-Gnoll Witherling,Medium,Undead,,CE,0.25,50,vgm 155,14,8,12,5,5,5,12,natural armor,2,d8, 30 ft
-Goblin,Small,Humanoid,goblinoid,NE,0.25,50,mm 166,8,14,10,10,8,8,15,"leather armor, shield",2,d6, 30 ft
-Grimlock,Medium,Humanoid,grimlock,NE,0.25,50,mm 175,16,12,12,9,8,6,11,,2,d8, 30 ft
-Grung,Small,Humanoid,grung,LE,0.25,50,vgm 156,7,14,15,10,11,10,12,,2,d6," 25 ft, climb 25 ft"
+Derro,Small,Humanoid,derro,CE,0.25,50,mtf 158,10,14,12,11,5,9,13,leather armor,3.0,d6,30 ft
+Dimetrodon,Medium,Beast,,Unaligned,0.25,50,vgm 139,14,10,15,2,10,5,12,natural armor,3.0,d8,"30 ft, swim 20 ft"
+Draft Horse,Large,Beast,,Unaligned,0.25,50,mm 321,18,10,12,2,11,7,10,,3.0,d10,40 ft
+Dretch,Small,Fiend,demon,CE,0.25,50,mm 57,11,11,12,5,8,3,11,natural armor,4.0,d6,20 ft
+Drow,Medium,Humanoid,elf,NE,0.25,50,mm 128,10,14,10,11,11,12,15,chain shirt,3.0,d8,30 ft
+Duodrone,Medium,Construct,,LN,0.25,50,mm 225,11,13,12,6,10,7,15,natural armor,2.0,d8,30 ft
+Elk,Large,Beast,,Unaligned,0.25,50,mm 322,16,10,12,2,10,6,10,,2.0,d10,50 ft
+Flying Sword,Small,Construct,,Unaligned,0.25,50,mm 20,12,15,11,1,5,1,17,natural armor,5.0,d6,"0 ft, fly 50 ft (hover)"
+Giant Badger,Medium,Beast,,Unaligned,0.25,50,mm 323,13,10,15,2,12,5,10,,2.0,d8,"30 ft, burrow 10 ft"
+Giant Bat,Large,Beast,,Unaligned,0.25,50,mm 323,15,16,11,2,12,6,13,,4.0,d10,"10 ft, fly 60 ft"
+Giant Centipede,Small,Beast,,Unaligned,0.25,50,mm 323,5,14,12,1,7,3,13,natural armor,1.0,d6,"30 ft, climb 30 ft"
+Giant Frog,Medium,Beast,,Unaligned,0.25,50,mm 325,12,13,11,2,10,3,11,,4.0,d8,"30 ft, swim 30 ft"
+Giant Lizard,Large,Beast,,Unaligned,0.25,50,mm 326,15,12,13,2,10,5,12,natural armor,3.0,d10,"30 ft, climb 30 ft"
+Giant Owl,Large,Beast,,N,0.25,50,mm 327,13,15,12,8,13,10,12,,3.0,d10,"5 ft, fly 60 ft"
+Giant Poisonous Snake,Medium,Beast,,Unaligned,0.25,50,mm 327,10,18,13,2,10,3,14,,2.0,d8,"30 ft, swim 30 ft"
+Giant Wolf Spider,Medium,Beast,,Unaligned,0.25,50,mm 330,12,16,13,3,12,4,13,,2.0,d8,"40 ft, climb 40 ft"
+Gnoll Witherling,Medium,Undead,,CE,0.25,50,vgm 155,14,8,12,5,5,5,12,natural armor,2.0,d8,30 ft
+Goblin,Small,Humanoid,goblinoid,NE,0.25,50,mm 166,8,14,10,10,8,8,15,"leather armor, shield",2.0,d6,30 ft
+Grimlock,Medium,Humanoid,grimlock,NE,0.25,50,mm 175,16,12,12,9,8,6,11,,2.0,d8,30 ft
+Grung,Small,Humanoid,grung,LE,0.25,50,vgm 156,7,14,15,10,11,10,12,,2.0,d6,"25 ft, climb 25 ft"
 Hadrosaurus,Large,Beast,,Unaligned,0.25,50,vgm 140,0,0,0,0,0,0,,,,,
-Kenku,Medium,Humanoid,kenku,CN,0.25,50,mm 194,10,16,10,11,10,10,13,,3,d8, 30 ft
-Kobold Inventor,Small,Humanoid,kobold,LE,0.25,50,vgm 166,7,15,12,8,7,8,12,,3,d6, 30 ft
-Kuo-toa,Medium,Humanoid,kuo-toa,NE,0.25,50,mm 199,13,10,11,11,10,8,13,"natural armor, shield",4,d8," 30 ft, swim 30 ft"
-Male Steeder,Medium,Monstrosity,,Unaligned,0.25,50,mtf 238,15,12,14,2,10,3,12,natural armor,2,d8," 30 ft, climb 30 ft"
-Mud Mephit,Small,Elemental,,NE,0.25,50,mm 216,8,12,12,9,11,7,11,,6,d6," 20 ft, fly 20 ft, swim 20 ft"
-Needle Blight,Medium,Plant,,NE,0.25,50,mm 32,12,12,13,4,8,3,12,natural armor,2,d8, 30 ft
-Oblex Spawn,Tiny,Ooze,,LE,0.25,50,mtf 217,8,16,15,14,11,10,13,,4,d4, 20 ft
+Kenku,Medium,Humanoid,kenku,CN,0.25,50,mm 194,10,16,10,11,10,10,13,,3.0,d8,30 ft
+Kobold Inventor,Small,Humanoid,kobold,LE,0.25,50,vgm 166,7,15,12,8,7,8,12,,3.0,d6,30 ft
+Kuo-toa,Medium,Humanoid,kuo-toa,NE,0.25,50,mm 199,13,10,11,11,10,8,13,"natural armor, shield",4.0,d8,"30 ft, swim 30 ft"
+Male Steeder,Medium,Monstrosity,,Unaligned,0.25,50,mtf 238,15,12,14,2,10,3,12,natural armor,2.0,d8,"30 ft, climb 30 ft"
+Mud Mephit,Small,Elemental,,NE,0.25,50,mm 216,8,12,12,9,11,7,11,,6.0,d6,"20 ft, fly 20 ft, swim 20 ft"
+Needle Blight,Medium,Plant,,NE,0.25,50,mm 32,12,12,13,4,8,3,12,natural armor,2.0,d8,30 ft
+Oblex Spawn,Tiny,Ooze,,LE,0.25,50,mtf 217,8,16,15,14,11,10,13,,4.0,d4,20 ft
 Ox,Large,Beast,,Unaligned,0.25,50,vgm 207,0,0,0,0,0,0,,,,,
-Panther,Medium,Beast,,Unaligned,0.25,50,mm 333,14,15,10,3,14,7,12,,3,d8," 50 ft, climb 40 ft"
-Pixie,Tiny,Fey,,NG,0.25,50,mm 253,2,20,8,10,14,15,15,,1,d4," 10 ft, fly 30 ft"
-Pseudodragon,Tiny,Dragon,,NG,0.25,50,mm 254,6,15,13,10,12,10,13,natural armor,2,d4," 15 ft, fly 60 ft"
-Pteranodon,Medium,Beast,,Unaligned,0.25,50,mm 80,12,15,10,2,9,5,13,natural armor,3,d8," 10 ft, fly 60 ft"
-Riding Horse,Large,Beast,,Unaligned,0.25,50,mm 336,16,10,12,2,11,7,10,,2,d10, 60 ft
+Panther,Medium,Beast,,Unaligned,0.25,50,mm 333,14,15,10,3,14,7,12,,3.0,d8,"50 ft, climb 40 ft"
+Pixie,Tiny,Fey,,NG,0.25,50,mm 253,2,20,8,10,14,15,15,,1.0,d4,"10 ft, fly 30 ft"
+Pseudodragon,Tiny,Dragon,,NG,0.25,50,mm 254,6,15,13,10,12,10,13,natural armor,2.0,d4,"15 ft, fly 60 ft"
+Pteranodon,Medium,Beast,,Unaligned,0.25,50,mm 80,12,15,10,2,9,5,13,natural armor,3.0,d8,"10 ft, fly 60 ft"
+Riding Horse,Large,Beast,,Unaligned,0.25,50,mm 336,16,10,12,2,11,7,10,,2.0,d10,60 ft
 Rothe,Large,Beast,,Unaligned,0.25,50,vgm 207,0,0,0,0,0,0,,,,,
-Skeleton,Medium,Undead,,LE,0.25,50,mm 272,10,14,15,6,8,5,13,armor scraps,2,d8, 30 ft
-Smoke Mephit,Small,Elemental,,NE,0.25,50,mm 217,6,14,12,10,10,11,12,,5,d6," 30 ft, fly 30 ft"
-Sprite,Tiny,Fey,,NG,0.25,50,mm 283,3,18,10,14,13,11,15,leather armor,1,d4," 10 ft, fly 40 ft"
-Star Spawn Grue,Small,Aberration,,NE,0.25,50,mtf 234,6,13,10,9,11,6,11,,5,d6, 30 ft
-Steam Mephit,Small,Elemental,,NE,0.25,50,mm 217,5,11,10,11,10,12,10,,6,d6," 30 ft, fly 30 ft"
+Skeleton,Medium,Undead,,LE,0.25,50,mm 272,10,14,15,6,8,5,13,armor scraps,2.0,d8,30 ft
+Smoke Mephit,Small,Elemental,,NE,0.25,50,mm 217,6,14,12,10,10,11,12,,5.0,d6,"30 ft, fly 30 ft"
+Sprite,Tiny,Fey,,NG,0.25,50,mm 283,3,18,10,14,13,11,15,leather armor,1.0,d4,"10 ft, fly 40 ft"
+Star Spawn Grue,Small,Aberration,,NE,0.25,50,mtf 234,6,13,10,9,11,6,11,,5.0,d6,30 ft
+Steam Mephit,Small,Elemental,,NE,0.25,50,mm 217,5,11,10,11,10,12,10,,6.0,d6,"30 ft, fly 30 ft"
 Stench Kow,Large,Beast,,Unaligned,0.25,50,vgm 207,0,0,0,0,0,0,,,,,
-Swarm of Bats,Medium,Beast,,Unaligned,0.25,50,mm 337,5,15,10,2,12,4,12,,5,d8," 0 ft, fly 30 ft"
-Swarm of Rats,Medium,Beast,,Unaligned,0.25,50,mm 339,9,11,9,2,10,3,10,,7,d8, 30 ft
-Swarm of Ravens,Medium,Beast,,Unaligned,0.25,50,mm 339,6,14,8,3,12,6,12,,7,d8," 10 ft, fly 50 ft"
-Tortle,Medium,Humanoid,tortle,LG,0.25,50,mtf 242,15,10,12,11,13,12,17,natural armor,4,d8, 30 ft
-Troglodyte,Medium,Humanoid,troglodyte,CE,0.25,50,mm 290,14,10,14,6,10,6,11,natural armor,2,d8, 30 ft
-Vegepygmy,Small,Plant,,N,0.25,50,vgm 196,7,14,13,6,11,7,13,natural armor,2,d6, 30 ft
-Velociraptor,Tiny,Beast,,Unaligned,0.25,50,vgm 140,6,14,13,4,12,6,13,natural armor,3,d4, 30 ft
-Violet Fungus,Medium,Plant,,Unaligned,0.25,50,mm 138,3,1,10,1,3,1,5,,4,d8, 5 ft
-Winged Kobold,Small,Humanoid,kobold,LE,0.25,50,mm 195,7,16,9,8,7,8,13,,3,d6," 30 ft, fly 30 ft"
-Wolf,Medium,Beast,,Unaligned,0.25,50,mm 341,12,15,12,3,12,6,13,natural armor,2,d8, 40 ft
+Swarm of Bats,Medium,Beast,,Unaligned,0.25,50,mm 337,5,15,10,2,12,4,12,,5.0,d8,"0 ft, fly 30 ft"
+Swarm of Rats,Medium,Beast,,Unaligned,0.25,50,mm 339,9,11,9,2,10,3,10,,7.0,d8,30 ft
+Swarm of Ravens,Medium,Beast,,Unaligned,0.25,50,mm 339,6,14,8,3,12,6,12,,7.0,d8,"10 ft, fly 50 ft"
+Tortle,Medium,Humanoid,tortle,LG,0.25,50,mtf 242,15,10,12,11,13,12,17,natural armor,4.0,d8,30 ft
+Troglodyte,Medium,Humanoid,troglodyte,CE,0.25,50,mm 290,14,10,14,6,10,6,11,natural armor,2.0,d8,30 ft
+Vegepygmy,Small,Plant,,N,0.25,50,vgm 196,7,14,13,6,11,7,13,natural armor,2.0,d6,30 ft
+Velociraptor,Tiny,Beast,,Unaligned,0.25,50,vgm 140,6,14,13,4,12,6,13,natural armor,3.0,d4,30 ft
+Violet Fungus,Medium,Plant,,Unaligned,0.25,50,mm 138,3,1,10,1,3,1,5,,4.0,d8,5 ft
+Winged Kobold,Small,Humanoid,kobold,LE,0.25,50,mm 195,7,16,9,8,7,8,13,,3.0,d6,"30 ft, fly 30 ft"
+Wolf,Medium,Beast,,Unaligned,0.25,50,mm 341,12,15,12,3,12,6,13,natural armor,2.0,d8,40 ft
 Wretched Sorrowsworn,Small,Monstrosity,,NE,0.25,50,mtf 233,0,0,0,0,0,0,,,,,
-Zombie,Medium,Undead,,NE,0.25,50,mm 316,13,6,16,3,6,5,8,,3,d8, 20 ft
-Ape,Medium,Beast,,Unaligned,0.5,100,mm 317,16,14,14,6,12,7,12,,3,d8," 30 ft, climb 30 ft"
-Black Bear,Medium,Beast,,Unaligned,0.5,100,mm 318,15,10,14,2,12,7,11,natural armor,3,d8," 40 ft, climb 30 ft"
-Chitine,Small,Monstrosity,,CE,0.5,100,vgm 131,10,14,12,10,10,7,14,hide armor,4,d6," 30 ft, climb 30 ft"
-Cockatrice,Small,Monstrosity,,Unaligned,0.5,100,mm 42,6,12,12,2,13,5,11,,6,d6," 20 ft, fly 40 ft"
-Crocodile,Large,Beast,,Unaligned,0.5,100,mm 320,15,10,13,2,10,5,12,natural armor,3,d10," 20 ft, swim 30 ft"
-Darkling,Small,Fey,,CN,0.5,100,vgm 134,9,16,12,10,12,10,14,leather armor,3,d6, 30 ft
-Darkmantle,Small,Monstrosity,,Unaligned,0.5,100,mm 46,16,12,13,2,10,5,11,,5,d6," 10 ft, fly 30 ft"
-Dust Mephit,Small,Elemental,,NE,0.5,100,mm 215,5,14,10,9,11,10,12,,5,d6," 30 ft, fly 30 ft"
-Firenewt Warrior,Medium,Humanoid,firenewt,NE,0.5,100,vgm 142,10,13,12,7,11,8,16,"chain shirt, shield",4,d8, 30 ft
-Gas Spore,Large,Plant,,Unaligned,0.5,100,mm 138,5,1,3,1,1,1,5,,1,d10," 0 ft, fly 10 ft (hover)"
-Gazer,Tiny,Aberration,,NE,0.5,100,vgm 126,3,17,14,3,10,7,13,,3,d4," 0 ft, fly 30 ft (hover)"
-Giant Goat,Large,Beast,,Unaligned,0.5,100,mm 326,17,11,12,3,12,6,11,natural armor,3,d10, 40 ft
-Giant Sea Horse,Large,Beast,,Unaligned,0.5,100,mm 328,12,15,11,2,12,5,13,natural armor,3,d10," 0 ft, swim 40 ft"
-Giant Wasp,Medium,Beast,,Unaligned,0.5,100,mm 329,10,14,10,1,10,3,12,,3,d8," 10 ft, fly 50 ft"
-Gnoll,Medium,Humanoid,gnoll,CE,0.5,100,mm 163,14,12,11,6,10,7,15,"hide armor, shield",5,d8, 30 ft
-Gnoll Hunter,Medium,Humanoid,gnoll,CE,0.5,100,vgm 154,14,14,12,8,12,8,13,leather armor,4,d8, 30 ft
-Gray Ooze,Medium,Ooze,,Unaligned,0.5,100,mm 243,12,6,16,1,6,2,8,,3,d8," 10 ft, climb 10 ft"
-Hobgoblin,Medium,Humanoid,goblinoid,LE,0.5,100,mm 186,13,12,12,10,10,9,18,"chain mail, shield",2,d8, 30 ft
-Ice Mephit,Small,Elemental,,NE,0.5,100,mm 215,7,13,10,9,11,12,11,,6,d6," 30 ft, fly 30 ft"
-Jackalwere,Medium,Humanoid,shapechanger,CE,0.5,100,mm 193,11,15,11,13,11,10,12,,4,d8, 40 ft
-Lizardfolk,Medium,Humanoid,lizardfolk,N,0.5,100,mm 204,15,10,13,7,12,7,15,"natural armor, shield",4,d8," 30 ft, swim 30 ft"
-Magma Mephit,Small,Elemental,,NE,0.5,100,mm 216,8,12,12,7,10,10,11,,5,d6," 30 ft, fly 30 ft"
-Magmin,Small,Elemental,,CN,0.5,100,mm 212,7,15,12,8,11,10,14,natural armor,2,d6, 30 ft
-Myconid Adult,Medium,Plant,,LN,0.5,100,mm 232,10,10,12,10,13,7,12,natural armor,4,d8, 20 ft
-Nupperibo,Medium,Fiend,devil,LE,0.5,100,mtf 168,16,11,13,3,8,1,13,natural armor,2,d8, 20 ft
-Orc,Medium,Humanoid,orc,CE,0.5,100,mm 246,16,12,16,7,11,10,13,hide armor,2,d8, 30 ft
+Zombie,Medium,Undead,,NE,0.25,50,mm 316,13,6,16,3,6,5,8,,3.0,d8,20 ft
+Ape,Medium,Beast,,Unaligned,0.5,100,mm 317,16,14,14,6,12,7,12,,3.0,d8,"30 ft, climb 30 ft"
+Black Bear,Medium,Beast,,Unaligned,0.5,100,mm 318,15,10,14,2,12,7,11,natural armor,3.0,d8,"40 ft, climb 30 ft"
+Chitine,Small,Monstrosity,,CE,0.5,100,vgm 131,10,14,12,10,10,7,14,hide armor,4.0,d6,"30 ft, climb 30 ft"
+Cockatrice,Small,Monstrosity,,Unaligned,0.5,100,mm 42,6,12,12,2,13,5,11,,6.0,d6,"20 ft, fly 40 ft"
+Crocodile,Large,Beast,,Unaligned,0.5,100,mm 320,15,10,13,2,10,5,12,natural armor,3.0,d10,"20 ft, swim 30 ft"
+Darkling,Small,Fey,,CN,0.5,100,vgm 134,9,16,12,10,12,10,14,leather armor,3.0,d6,30 ft
+Darkmantle,Small,Monstrosity,,Unaligned,0.5,100,mm 46,16,12,13,2,10,5,11,,5.0,d6,"10 ft, fly 30 ft"
+Dust Mephit,Small,Elemental,,NE,0.5,100,mm 215,5,14,10,9,11,10,12,,5.0,d6,"30 ft, fly 30 ft"
+Firenewt Warrior,Medium,Humanoid,firenewt,NE,0.5,100,vgm 142,10,13,12,7,11,8,16,"chain shirt, shield",4.0,d8,30 ft
+Gas Spore,Large,Plant,,Unaligned,0.5,100,mm 138,5,1,3,1,1,1,5,,1.0,d10,"0 ft, fly 10 ft (hover)"
+Gazer,Tiny,Aberration,,NE,0.5,100,vgm 126,3,17,14,3,10,7,13,,3.0,d4,"0 ft, fly 30 ft (hover)"
+Giant Goat,Large,Beast,,Unaligned,0.5,100,mm 326,17,11,12,3,12,6,11,natural armor,3.0,d10,40 ft
+Giant Sea Horse,Large,Beast,,Unaligned,0.5,100,mm 328,12,15,11,2,12,5,13,natural armor,3.0,d10,"0 ft, swim 40 ft"
+Giant Wasp,Medium,Beast,,Unaligned,0.5,100,mm 329,10,14,10,1,10,3,12,,3.0,d8,"10 ft, fly 50 ft"
+Gnoll,Medium,Humanoid,gnoll,CE,0.5,100,mm 163,14,12,11,6,10,7,15,"hide armor, shield",5.0,d8,30 ft
+Gnoll Hunter,Medium,Humanoid,gnoll,CE,0.5,100,vgm 154,14,14,12,8,12,8,13,leather armor,4.0,d8,30 ft
+Gray Ooze,Medium,Ooze,,Unaligned,0.5,100,mm 243,12,6,16,1,6,2,8,,3.0,d8,"10 ft, climb 10 ft"
+Hobgoblin,Medium,Humanoid,goblinoid,LE,0.5,100,mm 186,13,12,12,10,10,9,18,"chain mail, shield",2.0,d8,30 ft
+Ice Mephit,Small,Elemental,,NE,0.5,100,mm 215,7,13,10,9,11,12,11,,6.0,d6,"30 ft, fly 30 ft"
+Jackalwere,Medium,Humanoid,shapechanger,CE,0.5,100,mm 193,11,15,11,13,11,10,12,,4.0,d8,40 ft
+Lizardfolk,Medium,Humanoid,lizardfolk,N,0.5,100,mm 204,15,10,13,7,12,7,15,"natural armor, shield",4.0,d8,"30 ft, swim 30 ft"
+Magma Mephit,Small,Elemental,,NE,0.5,100,mm 216,8,12,12,7,10,10,11,,5.0,d6,"30 ft, fly 30 ft"
+Magmin,Small,Elemental,,CN,0.5,100,mm 212,7,15,12,8,11,10,14,natural armor,2.0,d6,30 ft
+Myconid Adult,Medium,Plant,,LN,0.5,100,mm 232,10,10,12,10,13,7,12,natural armor,4.0,d8,20 ft
+Nupperibo,Medium,Fiend,devil,LE,0.5,100,mtf 168,16,11,13,3,8,1,13,natural armor,2.0,d8,20 ft
+Orc,Medium,Humanoid,orc,CE,0.5,100,mm 246,16,12,16,7,11,10,13,hide armor,2.0,d8,30 ft
 Orc Nurtured One of Yurtrus,Medium,Humanoid,orc,CE,0.5,100,vgm 184,0,0,0,0,0,0,,,,,
-Piercer,Medium,Monstrosity,,Unaligned,0.5,100,mm 252,10,13,16,1,7,3,15,natural armor,3,d8," 5 ft, climb 5 ft"
-Reef Shark,Medium,Beast,,Unaligned,0.5,100,mm 336,14,13,13,1,10,4,12,natural armor,4,d8," 0 ft, swim 40 ft"
-Rust Monster,Medium,Monstrosity,,Unaligned,0.5,100,mm 262,13,12,13,2,13,6,14,natural armor,5,d8, 40 ft
-Sahuagin,Medium,Humanoid,sahuagin,LE,0.5,100,mm 263,13,11,12,12,13,9,12,natural armor,4,d8," 30 ft, swim 40 ft"
-Satyr,Medium,Fey,,CN,0.5,100,mm 267,12,16,11,12,10,14,14,leather armor,7,d8, 40 ft
-Scout,Medium,Humanoid,,,0.5,100,mm 349,11,14,12,11,13,11,13,leather armor,3,d8, 30 ft
-Shadow,Medium,Undead,,CE,0.5,100,mm 269,6,14,13,6,10,8,12,,3,d8, 40 ft
-Skulk,Medium,Humanoid,,CN,0.5,100,mtf 227,6,19,10,10,7,1,14,,4,d8, 30 ft
+Piercer,Medium,Monstrosity,,Unaligned,0.5,100,mm 252,10,13,16,1,7,3,15,natural armor,3.0,d8,"5 ft, climb 5 ft"
+Reef Shark,Medium,Beast,,Unaligned,0.5,100,mm 336,14,13,13,1,10,4,12,natural armor,4.0,d8,"0 ft, swim 40 ft"
+Rust Monster,Medium,Monstrosity,,Unaligned,0.5,100,mm 262,13,12,13,2,13,6,14,natural armor,5.0,d8,40 ft
+Sahuagin,Medium,Humanoid,sahuagin,LE,0.5,100,mm 263,13,11,12,12,13,9,12,natural armor,4.0,d8,"30 ft, swim 40 ft"
+Satyr,Medium,Fey,,CN,0.5,100,mm 267,12,16,11,12,10,14,14,leather armor,7.0,d8,40 ft
+Scout,Medium,Humanoid,,,0.5,100,mm 349,11,14,12,11,13,11,13,leather armor,3.0,d8,30 ft
+Shadow,Medium,Undead,,CE,0.5,100,mm 269,6,14,13,6,10,8,12,,3.0,d8,40 ft
+Skulk,Medium,Humanoid,,CN,0.5,100,mtf 227,6,19,10,10,7,1,14,,4.0,d8,30 ft
 Svirfneblin,Small,Humanoid,gnome,NG,0.5,100,mm 164,0,0,0,0,0,0,,,,,
-Swarm of Insects,Medium,Beast,,Unaligned,0.5,100,mm 338,3,13,10,1,7,1,12,natural armor,5,d8," 20 ft, climb 20 ft"
-Swarm of Rot Grubs,Medium,Beast,,Unaligned,0.5,100,vgm 208,2,7,10,1,2,1,8,,5,d8," 5 ft, climb 5 ft"
-Thug,Medium,Humanoid,,,0.5,100,mm 350,15,11,14,10,10,11,11,leather armor,5,d8, 30 ft
-Tridrone,Medium,Construct,,LN,0.5,100,mm 225,12,13,12,9,10,9,15,natural armor,3,d8, 30 ft
-Vine Blight,Medium,Plant,,NE,0.5,100,mm 32,15,8,14,5,10,3,12,natural armor,4,d8, 10 ft
-Warhorse,Large,Beast,,Unaligned,0.5,100,mm 340,18,12,13,2,12,7,11,,3,d10, 60 ft
-Warhorse Skeleton,Large,Undead,,LE,0.5,100,mm 273,18,12,15,2,8,5,13,barding scraps,3,d10, 60 ft
-Worg,Large,Monstrosity,,NE,0.5,100,mm 341,16,13,13,7,11,8,13,natural armor,4,d10, 50 ft
-Animated Armor,Medium,Construct,,Unaligned,1.0,200,mm 19,14,11,13,1,3,1,18,natural armor,6,d8, 25 ft
-Brass Dragon Wyrmling,Medium,Dragon,,CG,1.0,200,mm 106,15,10,13,10,11,13,16,natural armor,3,d8," 30 ft, burrow 15 ft, fly 60 ft"
+Swarm of Insects,Medium,Beast,,Unaligned,0.5,100,mm 338,3,13,10,1,7,1,12,natural armor,5.0,d8,"20 ft, climb 20 ft"
+Swarm of Rot Grubs,Medium,Beast,,Unaligned,0.5,100,vgm 208,2,7,10,1,2,1,8,,5.0,d8,"5 ft, climb 5 ft"
+Thug,Medium,Humanoid,,,0.5,100,mm 350,15,11,14,10,10,11,11,leather armor,5.0,d8,30 ft
+Tridrone,Medium,Construct,,LN,0.5,100,mm 225,12,13,12,9,10,9,15,natural armor,3.0,d8,30 ft
+Vine Blight,Medium,Plant,,NE,0.5,100,mm 32,15,8,14,5,10,3,12,natural armor,4.0,d8,10 ft
+Warhorse,Large,Beast,,Unaligned,0.5,100,mm 340,18,12,13,2,12,7,11,,3.0,d10,60 ft
+Warhorse Skeleton,Large,Undead,,LE,0.5,100,mm 273,18,12,15,2,8,5,13,barding scraps,3.0,d10,60 ft
+Worg,Large,Monstrosity,,NE,0.5,100,mm 341,16,13,13,7,11,8,13,natural armor,4.0,d10,50 ft
+Animated Armor,Medium,Construct,,Unaligned,1.0,200,mm 19,14,11,13,1,3,1,18,natural armor,6.0,d8,25 ft
+Brass Dragon Wyrmling,Medium,Dragon,,CG,1.0,200,mm 106,15,10,13,10,11,13,16,natural armor,3.0,d8,"30 ft, burrow 15 ft, fly 60 ft"
 Bronze Scout,Medium,Construct,,Unaligned,1.0,200,mtf 125,0,0,0,0,0,0,,,,,
-Brown Bear,Large,Beast,,Unaligned,1.0,200,mm 319,19,10,16,2,13,7,11,natural armor,4,d10," 40 ft, climb 30 ft"
-Bugbear,Medium,Humanoid,goblinoid,CE,1.0,200,mm 33,15,14,13,8,11,9,16,"hide armor, shield",5,d8, 30 ft
-Choker,Small,Aberration,,CE,1.0,200,mtf 123,16,14,13,4,12,7,16,natural armor,3,d6, 30 ft
-Copper Dragon Wyrmling,Medium,Dragon,,CG,1.0,200,mm 112,15,12,13,14,11,13,16,natural armor,4,d8," 30 ft, climb 30 ft, fly 60 ft"
-Death Dog,Medium,Monstrosity,,NE,1.0,200,mm 321,15,14,14,3,13,6,12,,6,d8, 40 ft
-Deinonychus,Medium,Beast,,Unaligned,1.0,200,vgm 139,15,15,14,4,12,6,13,natural armor,4,d8, 40 ft
-Dire Wolf,Large,Beast,,Unaligned,1.0,200,mm 321,17,15,15,3,12,7,14,natural armor,5,d10, 50 ft
-Dryad,Medium,Fey,,N,1.0,200,mm 121,10,12,11,14,15,18,11,16 with embarkskinem,5,d8, 30 ft
-Duergar,Medium,Humanoid,dwarf,LE,1.0,200,mm 122,14,11,14,11,10,9,16,"scale mail, shield",4,d8, 25 ft
-Duergar Soulblade,Medium,Humanoid,dwarf,LE,1.0,200,mtf 190,11,16,10,11,10,12,14,leather armor,4,d8, 25 ft
-Female Steeder,Large,Monstrosity,,Unaligned,1.0,200,mtf 238,15,16,14,2,10,3,14,natural armor,4,d10," 30 ft, climb 30 ft"
-Fire Snake,Medium,Elemental,,NE,1.0,200,mm 265,12,14,11,7,10,8,14,natural armor,5,d8, 30 ft
-Firenewt Warlock of Imix,Medium,Humanoid,firenewt,NE,1.0,200,vgm 143,13,11,12,9,11,14,13,mage armor,6,d8, 30 ft
-Ghoul,Medium,Undead,,CE,1.0,200,mm 148,13,15,10,7,10,6,12,,5,d8, 30 ft
-Giant Eagle,Large,Beast,,NG,1.0,200,mm 324,16,17,13,8,14,10,13,,4,d10," 10 ft, fly 80 ft"
-Giant Hyena,Large,Beast,,Unaligned,1.0,200,mm 326,16,14,14,2,12,7,12,,6,d10, 50 ft
-Giant Octopus,Large,Beast,,Unaligned,1.0,200,mm 326,17,13,13,4,10,4,11,,8,d10," 10 ft, swim 60 ft"
-Giant Spider,Large,Beast,,Unaligned,1.0,200,mm 328,14,16,12,2,11,4,14,natural armor,4,d10," 30 ft, climb 30 ft"
-Giant Strider,Large,Monstrosity,,NE,1.0,200,vgm 143,18,13,14,4,12,6,14,natural armor,3,d10, 50 ft
-Giant Toad,Large,Beast,,Unaligned,1.0,200,mm 329,15,13,13,2,10,3,11,,6,d10," 20 ft, swim 40 ft"
-Giant Vulture,Large,Beast,,NE,1.0,200,mm 329,15,10,15,6,12,7,10,,3,d10," 10 ft, fly 60 ft"
-Gnoll Flesh Gnawer,Medium,Humanoid,gnoll,CE,1.0,200,vgm 154,12,14,12,8,10,8,14,studded leather,4,d8, 30 ft
-Goblin Boss,Small,Humanoid,goblinoid,NE,1.0,200,mm 166,10,14,10,10,8,10,17,"chain shirt, shield",6,d6, 30 ft
-Grung Wildling,Small,Humanoid,grung,LE,1.0,200,vgm 157,7,16,15,10,15,11,13,16 with embarkskinem,5,d6," 25 ft, climb 25 ft"
-Half-ogre,Large,Giant,,Any chaotic,1.0,200,mm 238,17,10,14,7,9,10,12,hide armor,4,d10, 30 ft
-Harpy,Medium,Monstrosity,,CE,1.0,200,mm 181,12,13,12,7,10,13,11,,7,d8," 20 ft, fly 40 ft"
-Hippogriff,Large,Monstrosity,,Unaligned,1.0,200,mm 184,17,13,13,2,12,8,11,,3,d10," 40 ft, fly 60 ft"
-Imp,Tiny,Fiend,"devil, shapechanger",LE,1.0,200,mm 76,6,17,13,11,12,14,13,,3,d4," 20 ft, fly 40 ft"
-Kobold Dragonshield,Small,Humanoid,kobold,LE,1.0,200,vgm 165,12,15,14,8,9,10,15,"leather armor, shield",8,d6, 20 ft
-Kobold Scale Sorcerer,Small,Humanoid,kobold,LE,1.0,200,vgm 167,7,15,14,10,9,14,15,natural armor,5,d6, 30 ft
-Kuo-toa Whip,Medium,Humanoid,kuo-toa,NE,1.0,200,mm 200,14,10,14,12,14,11,11,natural armor,10,d8," 30 ft, swim 30 ft"
-Lion,Large,Beast,,Unaligned,1.0,200,mm 331,17,15,13,3,12,8,12,,4,d10, 50 ft
-Maw Demon,Medium,Fiend,demon,CE,1.0,200,vgm 137,14,8,13,5,8,5,13,natural armor,6,d8, 30 ft
-Meazel,Medium,Humanoid,meazel,NE,1.0,200,mtf 214,8,17,9,14,13,10,13,,10,d8, 30 ft
-Nilbog,Small,Humanoid,goblinoid,CE,1.0,200,vgm 182,8,14,10,10,8,15,13,leather armor,2,d6, 30 ft
-Quadrone,Medium,Construct,,LN,1.0,200,mm 226,12,14,12,10,10,11,16,natural armor,4,d8," 30 ft, fly 30 ft"
-Quaggoth Spore Servant,Medium,Plant,,Unaligned,1.0,200,mm 230,17,12,16,2,6,1,13,natural armor,6,d8," 20 ft, climb 20 ft"
-Quasit,Tiny,Fiend,"demon, shapechanger",CE,1.0,200,mm 63,5,17,10,7,10,10,13,,3,d4, 40 ft
-Quickling,Tiny,Fey,,CE,1.0,200,vgm 187,4,23,13,10,12,7,16,,3,d4, 120 ft
-Scarecrow,Medium,Construct,,CE,1.0,200,mm 268,11,13,11,10,10,13,11,,8,d8, 30 ft
-Sea Spawn,Medium,Humanoid,,NE,1.0,200,vgm 189,15,8,15,6,10,8,11,natural armor,5,d8," 20 ft, swim 30 ft"
-Specter,Medium,Undead,,CE,1.0,200,mm 279,1,14,11,10,10,11,12,,5,d8," 0 ft, fly 50 ft (hover)"
-Spy,Medium,Humanoid,,,1.0,200,mm 349,10,15,10,12,14,16,12,,6,d8, 30 ft
-Stone Cursed,Medium,Construct,,LE,1.0,200,mtf 240,16,5,14,5,8,7,17,natural armor,3,d8, 10 ft
-Swarm of Quippers,Medium,Beast,,Unaligned,1.0,200,mm 338,13,16,9,1,7,2,13,,8,d8," 0 ft, swim 40 ft"
-Thorny,Medium,Plant,,N,1.0,200,vgm 197,13,12,13,2,10,6,14,natural armor,5,d8, 30 ft
-Thri-kreen,Medium,Humanoid,thri-kreen,CN,1.0,200,mm 288,12,15,13,8,12,7,15,natural armor,6,d8, 40 ft
-Tiger,Large,Beast,,Unaligned,1.0,200,mm 339,17,15,14,3,12,8,12,,5,d10, 40 ft
-Vargouille,Tiny,Fiend,,CE,1.0,200,vgm 195,6,14,14,4,7,2,12,,3,d4," 5 ft, fly 40 ft"
-Xvart Warlock of Raxivort,Small,Humanoid,xvart,CE,1.0,200,vgm 200,8,14,12,8,11,12,15,mage armor,5,d6, 30 ft
+Brown Bear,Large,Beast,,Unaligned,1.0,200,mm 319,19,10,16,2,13,7,11,natural armor,4.0,d10,"40 ft, climb 30 ft"
+Bugbear,Medium,Humanoid,goblinoid,CE,1.0,200,mm 33,15,14,13,8,11,9,16,"hide armor, shield",5.0,d8,30 ft
+Choker,Small,Aberration,,CE,1.0,200,mtf 123,16,14,13,4,12,7,16,natural armor,3.0,d6,30 ft
+Copper Dragon Wyrmling,Medium,Dragon,,CG,1.0,200,mm 112,15,12,13,14,11,13,16,natural armor,4.0,d8,"30 ft, climb 30 ft, fly 60 ft"
+Death Dog,Medium,Monstrosity,,NE,1.0,200,mm 321,15,14,14,3,13,6,12,,6.0,d8,40 ft
+Deinonychus,Medium,Beast,,Unaligned,1.0,200,vgm 139,15,15,14,4,12,6,13,natural armor,4.0,d8,40 ft
+Dire Wolf,Large,Beast,,Unaligned,1.0,200,mm 321,17,15,15,3,12,7,14,natural armor,5.0,d10,50 ft
+Dryad,Medium,Fey,,N,1.0,200,mm 121,10,12,11,14,15,18,11,16 with embarkskinem,5.0,d8,30 ft
+Duergar,Medium,Humanoid,dwarf,LE,1.0,200,mm 122,14,11,14,11,10,9,16,"scale mail, shield",4.0,d8,25 ft
+Duergar Soulblade,Medium,Humanoid,dwarf,LE,1.0,200,mtf 190,11,16,10,11,10,12,14,leather armor,4.0,d8,25 ft
+Female Steeder,Large,Monstrosity,,Unaligned,1.0,200,mtf 238,15,16,14,2,10,3,14,natural armor,4.0,d10,"30 ft, climb 30 ft"
+Fire Snake,Medium,Elemental,,NE,1.0,200,mm 265,12,14,11,7,10,8,14,natural armor,5.0,d8,30 ft
+Firenewt Warlock of Imix,Medium,Humanoid,firenewt,NE,1.0,200,vgm 143,13,11,12,9,11,14,13,mage armor,6.0,d8,30 ft
+Ghoul,Medium,Undead,,CE,1.0,200,mm 148,13,15,10,7,10,6,12,,5.0,d8,30 ft
+Giant Eagle,Large,Beast,,NG,1.0,200,mm 324,16,17,13,8,14,10,13,,4.0,d10,"10 ft, fly 80 ft"
+Giant Hyena,Large,Beast,,Unaligned,1.0,200,mm 326,16,14,14,2,12,7,12,,6.0,d10,50 ft
+Giant Octopus,Large,Beast,,Unaligned,1.0,200,mm 326,17,13,13,4,10,4,11,,8.0,d10,"10 ft, swim 60 ft"
+Giant Spider,Large,Beast,,Unaligned,1.0,200,mm 328,14,16,12,2,11,4,14,natural armor,4.0,d10,"30 ft, climb 30 ft"
+Giant Strider,Large,Monstrosity,,NE,1.0,200,vgm 143,18,13,14,4,12,6,14,natural armor,3.0,d10,50 ft
+Giant Toad,Large,Beast,,Unaligned,1.0,200,mm 329,15,13,13,2,10,3,11,,6.0,d10,"20 ft, swim 40 ft"
+Giant Vulture,Large,Beast,,NE,1.0,200,mm 329,15,10,15,6,12,7,10,,3.0,d10,"10 ft, fly 60 ft"
+Gnoll Flesh Gnawer,Medium,Humanoid,gnoll,CE,1.0,200,vgm 154,12,14,12,8,10,8,14,studded leather,4.0,d8,30 ft
+Goblin Boss,Small,Humanoid,goblinoid,NE,1.0,200,mm 166,10,14,10,10,8,10,17,"chain shirt, shield",6.0,d6,30 ft
+Grung Wildling,Small,Humanoid,grung,LE,1.0,200,vgm 157,7,16,15,10,15,11,13,16 with embarkskinem,5.0,d6,"25 ft, climb 25 ft"
+Half-ogre,Large,Giant,,Any chaotic,1.0,200,mm 238,17,10,14,7,9,10,12,hide armor,4.0,d10,30 ft
+Harpy,Medium,Monstrosity,,CE,1.0,200,mm 181,12,13,12,7,10,13,11,,7.0,d8,"20 ft, fly 40 ft"
+Hippogriff,Large,Monstrosity,,Unaligned,1.0,200,mm 184,17,13,13,2,12,8,11,,3.0,d10,"40 ft, fly 60 ft"
+Imp,Tiny,Fiend,"devil, shapechanger",LE,1.0,200,mm 76,6,17,13,11,12,14,13,,3.0,d4,"20 ft, fly 40 ft"
+Kobold Dragonshield,Small,Humanoid,kobold,LE,1.0,200,vgm 165,12,15,14,8,9,10,15,"leather armor, shield",8.0,d6,20 ft
+Kobold Scale Sorcerer,Small,Humanoid,kobold,LE,1.0,200,vgm 167,7,15,14,10,9,14,15,natural armor,5.0,d6,30 ft
+Kuo-toa Whip,Medium,Humanoid,kuo-toa,NE,1.0,200,mm 200,14,10,14,12,14,11,11,natural armor,10.0,d8,"30 ft, swim 30 ft"
+Lion,Large,Beast,,Unaligned,1.0,200,mm 331,17,15,13,3,12,8,12,,4.0,d10,50 ft
+Maw Demon,Medium,Fiend,demon,CE,1.0,200,vgm 137,14,8,13,5,8,5,13,natural armor,6.0,d8,30 ft
+Meazel,Medium,Humanoid,meazel,NE,1.0,200,mtf 214,8,17,9,14,13,10,13,,10.0,d8,30 ft
+Nilbog,Small,Humanoid,goblinoid,CE,1.0,200,vgm 182,8,14,10,10,8,15,13,leather armor,2.0,d6,30 ft
+Quadrone,Medium,Construct,,LN,1.0,200,mm 226,12,14,12,10,10,11,16,natural armor,4.0,d8,"30 ft, fly 30 ft"
+Quaggoth Spore Servant,Medium,Plant,,Unaligned,1.0,200,mm 230,17,12,16,2,6,1,13,natural armor,6.0,d8,"20 ft, climb 20 ft"
+Quasit,Tiny,Fiend,"demon, shapechanger",CE,1.0,200,mm 63,5,17,10,7,10,10,13,,3.0,d4,40 ft
+Quickling,Tiny,Fey,,CE,1.0,200,vgm 187,4,23,13,10,12,7,16,,3.0,d4,120 ft
+Scarecrow,Medium,Construct,,CE,1.0,200,mm 268,11,13,11,10,10,13,11,,8.0,d8,30 ft
+Sea Spawn,Medium,Humanoid,,NE,1.0,200,vgm 189,15,8,15,6,10,8,11,natural armor,5.0,d8,"20 ft, swim 30 ft"
+Specter,Medium,Undead,,CE,1.0,200,mm 279,1,14,11,10,10,11,12,,5.0,d8,"0 ft, fly 50 ft (hover)"
+Spy,Medium,Humanoid,,,1.0,200,mm 349,10,15,10,12,14,16,12,,6.0,d8,30 ft
+Stone Cursed,Medium,Construct,,LE,1.0,200,mtf 240,16,5,14,5,8,7,17,natural armor,3.0,d8,10 ft
+Swarm of Quippers,Medium,Beast,,Unaligned,1.0,200,mm 338,13,16,9,1,7,2,13,,8.0,d8,"0 ft, swim 40 ft"
+Thorny,Medium,Plant,,N,1.0,200,vgm 197,13,12,13,2,10,6,14,natural armor,5.0,d8,30 ft
+Thri-kreen,Medium,Humanoid,thri-kreen,CN,1.0,200,mm 288,12,15,13,8,12,7,15,natural armor,6.0,d8,40 ft
+Tiger,Large,Beast,,Unaligned,1.0,200,mm 339,17,15,14,3,12,8,12,,5.0,d10,40 ft
+Vargouille,Tiny,Fiend,,CE,1.0,200,vgm 195,6,14,14,4,7,2,12,,3.0,d4,"5 ft, fly 40 ft"
+Xvart Warlock of Raxivort,Small,Humanoid,xvart,CE,1.0,200,vgm 200,8,14,12,8,11,12,15,mage armor,5.0,d6,30 ft
 Young Faerie Dragon,Tiny,Dragon,,CG,1.0,200,mm 133,0,0,0,0,0,0,,,,,
-Yuan-ti Pureblood,Medium,Humanoid,yuan-ti,NE,1.0,200,mm 310,11,12,11,13,12,14,11,,9,d8, 30 ft
+Yuan-ti Pureblood,Medium,Humanoid,yuan-ti,NE,1.0,200,mm 310,11,12,11,13,12,14,11,,9.0,d8,30 ft
 Adult Faerie Dragon,Tiny,Dragon,,CG,2.0,450,mm 133,0,0,0,0,0,0,,,,,
-Adult Kruthik,Medium,Monstrosity,,Unaligned,2.0,450,mtf 212,15,16,15,7,12,8,18,natural armor,6,d8," 40 ft, burrow 20 ft, climb 40 ft"
-Allosaurus,Large,Beast,,Unaligned,2.0,450,mm 79,19,13,17,2,12,5,13,natural armor,6,d10, 60 ft
-Ankheg,Large,Monstrosity,,Unaligned,2.0,450,mm 21,17,11,13,1,13,6,14,"natural armor, 11 while prone",6,d10," 30 ft, burrow 10 ft"
-Aurochs,Large,Beast,,Unaligned,2.0,450,vgm 207,20,10,19,2,12,5,11,natural armor,4,d10, 50 ft
-Awakened Tree,Huge,Plant,,Unaligned,2.0,450,mm 317,19,6,15,10,10,7,13,natural armor,7,d12, 20 ft
-Azer,Medium,Elemental,,LN,2.0,450,mm 22,17,12,15,12,13,10,17,"natural armor, shield",6,d8, 30 ft
-Bandit Captain,Medium,Humanoid,,Any non-lawful,2.0,450,mm 344,15,16,14,14,11,14,15,studded leather,10,d8, 30 ft
-Bard,Medium,Humanoid,,Any,2.0,450,vgm 211,11,14,12,10,13,14,15,chain shirt,8,d8, 30 ft
-Berbalang,Medium,Aberration,,NE,2.0,450,mtf 120,9,16,9,17,11,10,14,natural armor,11,d8," 30 ft, fly 40 ft"
-Berserker,Medium,Humanoid,,Any chaotic,2.0,450,mm 344,16,12,17,9,11,9,13,hide armor,9,d8, 30 ft
-Black Dragon Wyrmling,Medium,Dragon,,CE,2.0,450,mm 88,15,14,13,10,11,13,17,natural armor,6,d8," 30 ft, fly 60 ft, swim 30 ft"
-Bronze Dragon Wyrmling,Medium,Dragon,,LG,2.0,450,mm 109,17,10,15,12,11,15,17,natural armor,5,d8," 30 ft, fly 60 ft, swim 30 ft"
-Carrion Crawler,Large,Monstrosity,,Unaligned,2.0,450,mm 37,14,13,16,1,12,5,13,natural armor,6,d10," 30 ft, climb 30 ft"
+Adult Kruthik,Medium,Monstrosity,,Unaligned,2.0,450,mtf 212,15,16,15,7,12,8,18,natural armor,6.0,d8,"40 ft, burrow 20 ft, climb 40 ft"
+Allosaurus,Large,Beast,,Unaligned,2.0,450,mm 79,19,13,17,2,12,5,13,natural armor,6.0,d10,60 ft
+Ankheg,Large,Monstrosity,,Unaligned,2.0,450,mm 21,17,11,13,1,13,6,14,"natural armor, 11 while prone",6.0,d10,"30 ft, burrow 10 ft"
+Aurochs,Large,Beast,,Unaligned,2.0,450,vgm 207,20,10,19,2,12,5,11,natural armor,4.0,d10,50 ft
+Awakened Tree,Huge,Plant,,Unaligned,2.0,450,mm 317,19,6,15,10,10,7,13,natural armor,7.0,d12,20 ft
+Azer,Medium,Elemental,,LN,2.0,450,mm 22,17,12,15,12,13,10,17,"natural armor, shield",6.0,d8,30 ft
+Bandit Captain,Medium,Humanoid,,Any non-lawful,2.0,450,mm 344,15,16,14,14,11,14,15,studded leather,10.0,d8,30 ft
+Bard,Medium,Humanoid,,Any,2.0,450,vgm 211,11,14,12,10,13,14,15,chain shirt,8.0,d8,30 ft
+Berbalang,Medium,Aberration,,NE,2.0,450,mtf 120,9,16,9,17,11,10,14,natural armor,11.0,d8,"30 ft, fly 40 ft"
+Berserker,Medium,Humanoid,,Any chaotic,2.0,450,mm 344,16,12,17,9,11,9,13,hide armor,9.0,d8,30 ft
+Black Dragon Wyrmling,Medium,Dragon,,CE,2.0,450,mm 88,15,14,13,10,11,13,17,natural armor,6.0,d8,"30 ft, fly 60 ft, swim 30 ft"
+Bronze Dragon Wyrmling,Medium,Dragon,,LG,2.0,450,mm 109,17,10,15,12,11,15,17,natural armor,5.0,d8,"30 ft, fly 60 ft, swim 30 ft"
+Carrion Crawler,Large,Monstrosity,,Unaligned,2.0,450,mm 37,14,13,16,1,12,5,13,natural armor,6.0,d10,"30 ft, climb 30 ft"
 Cave Bear,Large,Beast,,Unaligned,2.0,450,mm 334,0,0,0,0,0,0,,,,,
-Centaur,Large,Monstrosity,,NG,2.0,450,mm 38,18,14,14,9,13,11,12,,6,d10, 50 ft
-Cult Fanatic,Medium,Humanoid,,Any non-good,2.0,450,mm 345,11,14,12,10,13,14,13,leather armor,6,d8, 30 ft
-Darkling Elder,Medium,Fey,,CN,2.0,450,vgm 134,13,17,12,10,14,13,15,studded leather,5,d8, 30 ft
-Druid,Medium,Humanoid,,Any,2.0,450,mm 346,10,12,13,12,15,11,11,16 with embarkskinem,5,d8, 30 ft
-Duergar Hammerer,Medium,Construct,,LE,2.0,450,mtf 188,17,7,12,5,5,5,17,natural armor,6,d8, 20 ft
-Duergar Kavalrachni,Medium,Humanoid,dwarf,LE,2.0,450,mtf 189,14,11,14,11,10,9,16,"scale mail, shield",4,d8, 25 ft
-Duergar Mind Master,Medium,Humanoid,dwarf,LE,2.0,450,mtf 189,11,17,14,15,10,12,14,leather armor,6,d8, 25 ft
-Duergar Stone Guard,Medium,Humanoid,dwarf,LE,2.0,450,mtf 191,18,11,14,11,10,9,18,"chain mail, shield",6,d8, 25 ft
-Duergar Xarrorn,Medium,Humanoid,dwarf,LE,2.0,450,mtf 193,16,11,14,11,10,9,18,plate,4,d8, 25 ft
-Ettercap,Medium,Monstrosity,,NE,2.0,450,mm 131,14,15,13,7,12,8,13,natural armor,8,d8," 30 ft, climb 30 ft"
-Gargoyle,Medium,Elemental,,CE,2.0,450,mm 140,15,11,16,6,11,7,15,natural armor,7,d8," 30 ft, fly 60 ft"
-Gelatinous Cube,Large,Ooze,,Unaligned,2.0,450,mm 242,14,3,20,1,6,1,6,,8,d10, 15 ft
-Ghast,Medium,Undead,,CE,2.0,450,mm 148,16,17,10,11,10,8,13,,8,d8, 30 ft
-Giant Boar,Large,Beast,,Unaligned,2.0,450,mm 323,17,10,16,2,7,5,12,natural armor,5,d10, 40 ft
-Giant Constrictor Snake,Huge,Beast,,Unaligned,2.0,450,mm 324,19,14,12,1,10,3,12,,8,d12," 30 ft, swim 30 ft"
-Giant Elk,Huge,Beast,,Unaligned,2.0,450,mm 325,19,16,14,7,14,10,14,natural armor,5,d12, 60 ft
-Gibbering Mouther,Medium,Aberration,,N,2.0,450,mm 157,10,8,16,3,10,6,9,,9,d8," 10 ft, swim 10 ft"
-Githzerai Monk,Medium,Humanoid,gith,LN,2.0,450,mm 161,12,15,12,13,14,10,14,,7,d8, 30 ft
-Gnoll Pack Lord,Medium,Humanoid,gnoll,CE,2.0,450,mm 163,16,14,13,8,11,9,15,chain shirt,9,d8, 30 ft
-Green Dragon Wyrmling,Medium,Dragon,,LE,2.0,450,mm 95,15,12,13,14,11,13,17,natural armor,7,d8," 30 ft, fly 60 ft, swim 30 ft"
-Grick,Medium,Monstrosity,,N,2.0,450,mm 173,14,14,11,3,14,5,14,natural armor,6,d8," 30 ft, climb 30 ft"
-Griffon,Large,Monstrosity,,Unaligned,2.0,450,mm 174,18,15,16,2,13,8,12,,7,d10," 30 ft, fly 80 ft"
-Grung Elite Warrior,Small,Humanoid,grung,LE,2.0,450,vgm 157,7,16,15,10,11,12,13,,9,d6," 25 ft, climb 25 ft"
-Guard Drake,Medium,Dragon,,Unaligned,2.0,450,vgm 158,16,11,16,4,10,7,14,natural armor,7,d8, 30 ft
-Hobgoblin Iron Shadow,Medium,Humanoid,goblinoid,LE,2.0,450,vgm 162,14,16,15,14,15,11,15,,5,d8, 40 ft
-Hunter Shark,Large,Beast,,Unaligned,2.0,450,mm 330,18,13,15,1,10,4,12,natural armor,6,d10," 0 ft, swim 40 ft"
-Intellect Devourer,Tiny,Aberration,,LE,2.0,450,mm 191,6,14,13,12,11,10,12,,6,d4, 40 ft
-Lizardfolk Shaman,Medium,Humanoid,lizardfolk,N,2.0,450,mm 205,15,10,13,10,15,8,13,natural armor,5,d8," 30 ft, swim 30 ft"
-Meenlock,Small,Fey,,NE,2.0,450,vgm 170,7,15,12,11,10,8,15,natural armor,7,d6, 30 ft
-Merrow,Large,Monstrosity,,CE,2.0,450,mm 219,18,10,15,8,10,9,13,natural armor,6,d10," 10 ft, swim 40 ft"
-Mimic,Medium,Monstrosity,shapechanger,N,2.0,450,mm 220,17,12,15,5,13,8,12,natural armor,9,d8, 15 ft
-Minotaur Skeleton,Large,Undead,,LE,2.0,450,mm 273,18,11,15,6,8,5,12,natural armor,9,d10, 40 ft
-Myconid Sovereign,Large,Plant,,LN,2.0,450,mm 232,12,10,14,13,15,10,13,natural armor,8,d10, 30 ft
-Nothic,Medium,Aberration,,NE,2.0,450,mm 236,14,16,16,13,10,8,15,natural armor,6,d8, 30 ft
-Ochre Jelly,Large,Ooze,,Unaligned,2.0,450,mm 243,15,6,14,2,6,1,8,,6,d10," 10 ft, climb 10 ft"
-Ogre,Large,Giant,,CE,2.0,450,mm 237,19,8,16,5,7,7,11,hide armor,7,d10, 40 ft
-Ogre Bolt Launcher,Large,Giant,,CE,2.0,450,mtf 220,19,12,16,5,7,7,13,hide armor,7,d10, 40 ft
-Ogre Howdah,Large,Giant,,CE,2.0,450,mtf 221,19,8,16,5,7,7,13,breastplate,7,d10, 40 ft
-Ogre Zombie,Large,Undead,,NE,2.0,450,mm 316,19,6,18,3,6,5,8,,9,d10, 30 ft
-Orc Claw of Luthic,Medium,Humanoid,orc,CE,2.0,450,vgm 183,14,15,16,10,15,11,14,hide armor,6,d8, 30 ft
-Orc Eye of Gruumsh,Medium,Humanoid,orc,CE,2.0,450,mm 247,16,12,16,9,13,12,16,"ring mail, shield",6,d8, 30 ft
-Orc Hand of Yurtrus,Medium,Humanoid,orc,CE,2.0,450,vgm 184,12,11,16,11,14,9,12,hide armor,4,d8, 30 ft
-Orog,Medium,Humanoid,orc,CE,2.0,450,mm 247,18,12,18,12,11,12,18,plate,5,d8, 30 ft
-Pegasus,Large,Celestial,,CG,2.0,450,mm 250,18,15,16,10,15,13,12,,7,d10," 60 ft, fly 90 ft"
-Pentadrone,Large,Construct,,LN,2.0,450,mm 226,15,14,12,10,10,13,16,natural armor,5,d10, 40 ft
-Peryton,Medium,Monstrosity,,CE,2.0,450,mm 251,16,12,13,9,12,10,13,natural armor,6,d8," 20 ft, fly 60 ft"
-Plesiosaurus,Large,Beast,,Unaligned,2.0,450,mm 80,18,15,16,2,12,5,13,natural armor,8,d10," 20 ft, swim 40 ft"
-Polar Bear,Large,Beast,,Unaligned,2.0,450,mm 334,20,10,16,2,13,7,12,natural armor,5,d10," 40 ft, swim 30 ft"
-Priest,Medium,Humanoid,,,2.0,450,mm 348,10,10,12,13,16,13,13,chain shirt,5,d8, 30 ft
-Quaggoth,Medium,Humanoid,quaggoth,CN,2.0,450,mm 256,17,12,16,6,12,7,13,natural armor,6,d8," 30 ft, climb 30 ft"
-Quetzalcoatlus,Huge,Beast,,Unaligned,2.0,450,vgm 140,15,13,13,2,10,5,13,natural armor,4,d12," 10 ft, fly 80 ft"
-Rhinoceros,Large,Beast,,Unaligned,2.0,450,mm 336,21,8,15,2,12,6,11,natural armor,6,d10, 40 ft
-Rug of Smothering,Large,Construct,,Unaligned,2.0,450,mm 20,17,14,10,1,3,1,12,,6,d10, 10 ft
-Rutterkin,Medium,Fiend,demon,CE,2.0,450,mtf 136,14,15,17,5,12,6,12,,5,d8, 20 ft
-Saber-toothed Tiger,Large,Beast,,Unaligned,2.0,450,mm 336,18,14,15,3,12,8,12,,7,d10, 40 ft
-Sahuagin Priestess,Medium,Humanoid,sahuagin,LE,2.0,450,mm 264,13,11,12,12,14,13,12,natural armor,6,d8," 30 ft, swim 40 ft"
-Sea Hag,Medium,Fey,,CE,2.0,450,mm 179,16,13,16,12,12,13,14,natural armor,7,d8," 30 ft, swim 40 ft"
-Shadow Mastiff,Medium,Monstrosity,,NE,2.0,450,vgm 190,16,14,13,5,12,5,12,,6,d8, 40 ft
-Silver Dragon Wyrmling,Medium,Dragon,,LG,2.0,450,mm 118,19,10,17,12,11,15,17,natural armor,6,d8," 30 ft, fly 60 ft"
+Centaur,Large,Monstrosity,,NG,2.0,450,mm 38,18,14,14,9,13,11,12,,6.0,d10,50 ft
+Cult Fanatic,Medium,Humanoid,,Any non-good,2.0,450,mm 345,11,14,12,10,13,14,13,leather armor,6.0,d8,30 ft
+Darkling Elder,Medium,Fey,,CN,2.0,450,vgm 134,13,17,12,10,14,13,15,studded leather,5.0,d8,30 ft
+Druid,Medium,Humanoid,,Any,2.0,450,mm 346,10,12,13,12,15,11,11,16 with embarkskinem,5.0,d8,30 ft
+Duergar Hammerer,Medium,Construct,,LE,2.0,450,mtf 188,17,7,12,5,5,5,17,natural armor,6.0,d8,20 ft
+Duergar Kavalrachni,Medium,Humanoid,dwarf,LE,2.0,450,mtf 189,14,11,14,11,10,9,16,"scale mail, shield",4.0,d8,25 ft
+Duergar Mind Master,Medium,Humanoid,dwarf,LE,2.0,450,mtf 189,11,17,14,15,10,12,14,leather armor,6.0,d8,25 ft
+Duergar Stone Guard,Medium,Humanoid,dwarf,LE,2.0,450,mtf 191,18,11,14,11,10,9,18,"chain mail, shield",6.0,d8,25 ft
+Duergar Xarrorn,Medium,Humanoid,dwarf,LE,2.0,450,mtf 193,16,11,14,11,10,9,18,plate,4.0,d8,25 ft
+Ettercap,Medium,Monstrosity,,NE,2.0,450,mm 131,14,15,13,7,12,8,13,natural armor,8.0,d8,"30 ft, climb 30 ft"
+Gargoyle,Medium,Elemental,,CE,2.0,450,mm 140,15,11,16,6,11,7,15,natural armor,7.0,d8,"30 ft, fly 60 ft"
+Gelatinous Cube,Large,Ooze,,Unaligned,2.0,450,mm 242,14,3,20,1,6,1,6,,8.0,d10,15 ft
+Ghast,Medium,Undead,,CE,2.0,450,mm 148,16,17,10,11,10,8,13,,8.0,d8,30 ft
+Giant Boar,Large,Beast,,Unaligned,2.0,450,mm 323,17,10,16,2,7,5,12,natural armor,5.0,d10,40 ft
+Giant Constrictor Snake,Huge,Beast,,Unaligned,2.0,450,mm 324,19,14,12,1,10,3,12,,8.0,d12,"30 ft, swim 30 ft"
+Giant Elk,Huge,Beast,,Unaligned,2.0,450,mm 325,19,16,14,7,14,10,14,natural armor,5.0,d12,60 ft
+Gibbering Mouther,Medium,Aberration,,N,2.0,450,mm 157,10,8,16,3,10,6,9,,9.0,d8,"10 ft, swim 10 ft"
+Githzerai Monk,Medium,Humanoid,gith,LN,2.0,450,mm 161,12,15,12,13,14,10,14,,7.0,d8,30 ft
+Gnoll Pack Lord,Medium,Humanoid,gnoll,CE,2.0,450,mm 163,16,14,13,8,11,9,15,chain shirt,9.0,d8,30 ft
+Green Dragon Wyrmling,Medium,Dragon,,LE,2.0,450,mm 95,15,12,13,14,11,13,17,natural armor,7.0,d8,"30 ft, fly 60 ft, swim 30 ft"
+Grick,Medium,Monstrosity,,N,2.0,450,mm 173,14,14,11,3,14,5,14,natural armor,6.0,d8,"30 ft, climb 30 ft"
+Griffon,Large,Monstrosity,,Unaligned,2.0,450,mm 174,18,15,16,2,13,8,12,,7.0,d10,"30 ft, fly 80 ft"
+Grung Elite Warrior,Small,Humanoid,grung,LE,2.0,450,vgm 157,7,16,15,10,11,12,13,,9.0,d6,"25 ft, climb 25 ft"
+Guard Drake,Medium,Dragon,,Unaligned,2.0,450,vgm 158,16,11,16,4,10,7,14,natural armor,7.0,d8,30 ft
+Hobgoblin Iron Shadow,Medium,Humanoid,goblinoid,LE,2.0,450,vgm 162,14,16,15,14,15,11,15,,5.0,d8,40 ft
+Hunter Shark,Large,Beast,,Unaligned,2.0,450,mm 330,18,13,15,1,10,4,12,natural armor,6.0,d10,"0 ft, swim 40 ft"
+Intellect Devourer,Tiny,Aberration,,LE,2.0,450,mm 191,6,14,13,12,11,10,12,,6.0,d4,40 ft
+Lizardfolk Shaman,Medium,Humanoid,lizardfolk,N,2.0,450,mm 205,15,10,13,10,15,8,13,natural armor,5.0,d8,"30 ft, swim 30 ft"
+Meenlock,Small,Fey,,NE,2.0,450,vgm 170,7,15,12,11,10,8,15,natural armor,7.0,d6,30 ft
+Merrow,Large,Monstrosity,,CE,2.0,450,mm 219,18,10,15,8,10,9,13,natural armor,6.0,d10,"10 ft, swim 40 ft"
+Mimic,Medium,Monstrosity,shapechanger,N,2.0,450,mm 220,17,12,15,5,13,8,12,natural armor,9.0,d8,15 ft
+Minotaur Skeleton,Large,Undead,,LE,2.0,450,mm 273,18,11,15,6,8,5,12,natural armor,9.0,d10,40 ft
+Myconid Sovereign,Large,Plant,,LN,2.0,450,mm 232,12,10,14,13,15,10,13,natural armor,8.0,d10,30 ft
+Nothic,Medium,Aberration,,NE,2.0,450,mm 236,14,16,16,13,10,8,15,natural armor,6.0,d8,30 ft
+Ochre Jelly,Large,Ooze,,Unaligned,2.0,450,mm 243,15,6,14,2,6,1,8,,6.0,d10,"10 ft, climb 10 ft"
+Ogre,Large,Giant,,CE,2.0,450,mm 237,19,8,16,5,7,7,11,hide armor,7.0,d10,40 ft
+Ogre Bolt Launcher,Large,Giant,,CE,2.0,450,mtf 220,19,12,16,5,7,7,13,hide armor,7.0,d10,40 ft
+Ogre Howdah,Large,Giant,,CE,2.0,450,mtf 221,19,8,16,5,7,7,13,breastplate,7.0,d10,40 ft
+Ogre Zombie,Large,Undead,,NE,2.0,450,mm 316,19,6,18,3,6,5,8,,9.0,d10,30 ft
+Orc Claw of Luthic,Medium,Humanoid,orc,CE,2.0,450,vgm 183,14,15,16,10,15,11,14,hide armor,6.0,d8,30 ft
+Orc Eye of Gruumsh,Medium,Humanoid,orc,CE,2.0,450,mm 247,16,12,16,9,13,12,16,"ring mail, shield",6.0,d8,30 ft
+Orc Hand of Yurtrus,Medium,Humanoid,orc,CE,2.0,450,vgm 184,12,11,16,11,14,9,12,hide armor,4.0,d8,30 ft
+Orog,Medium,Humanoid,orc,CE,2.0,450,mm 247,18,12,18,12,11,12,18,plate,5.0,d8,30 ft
+Pegasus,Large,Celestial,,CG,2.0,450,mm 250,18,15,16,10,15,13,12,,7.0,d10,"60 ft, fly 90 ft"
+Pentadrone,Large,Construct,,LN,2.0,450,mm 226,15,14,12,10,10,13,16,natural armor,5.0,d10,40 ft
+Peryton,Medium,Monstrosity,,CE,2.0,450,mm 251,16,12,13,9,12,10,13,natural armor,6.0,d8,"20 ft, fly 60 ft"
+Plesiosaurus,Large,Beast,,Unaligned,2.0,450,mm 80,18,15,16,2,12,5,13,natural armor,8.0,d10,"20 ft, swim 40 ft"
+Polar Bear,Large,Beast,,Unaligned,2.0,450,mm 334,20,10,16,2,13,7,12,natural armor,5.0,d10,"40 ft, swim 30 ft"
+Priest,Medium,Humanoid,,,2.0,450,mm 348,10,10,12,13,16,13,13,chain shirt,5.0,d8,30 ft
+Quaggoth,Medium,Humanoid,quaggoth,CN,2.0,450,mm 256,17,12,16,6,12,7,13,natural armor,6.0,d8,"30 ft, climb 30 ft"
+Quetzalcoatlus,Huge,Beast,,Unaligned,2.0,450,vgm 140,15,13,13,2,10,5,13,natural armor,4.0,d12,"10 ft, fly 80 ft"
+Rhinoceros,Large,Beast,,Unaligned,2.0,450,mm 336,21,8,15,2,12,6,11,natural armor,6.0,d10,40 ft
+Rug of Smothering,Large,Construct,,Unaligned,2.0,450,mm 20,17,14,10,1,3,1,12,,6.0,d10,10 ft
+Rutterkin,Medium,Fiend,demon,CE,2.0,450,mtf 136,14,15,17,5,12,6,12,,5.0,d8,20 ft
+Saber-toothed Tiger,Large,Beast,,Unaligned,2.0,450,mm 336,18,14,15,3,12,8,12,,7.0,d10,40 ft
+Sahuagin Priestess,Medium,Humanoid,sahuagin,LE,2.0,450,mm 264,13,11,12,12,14,13,12,natural armor,6.0,d8,"30 ft, swim 40 ft"
+Sea Hag,Medium,Fey,,CE,2.0,450,mm 179,16,13,16,12,12,13,14,natural armor,7.0,d8,"30 ft, swim 40 ft"
+Shadow Mastiff,Medium,Monstrosity,,NE,2.0,450,vgm 190,16,14,13,5,12,5,12,,6.0,d8,40 ft
+Silver Dragon Wyrmling,Medium,Dragon,,LG,2.0,450,mm 118,19,10,17,12,11,15,17,natural armor,6.0,d8,"30 ft, fly 60 ft"
 Specter (poltergeist),Medium,Undead,,CE,2.0,450,mm 279,0,0,0,0,0,0,,,,,
-Spined Devil,Small,Fiend,devil,LE,2.0,450,mm 78,10,15,12,11,14,8,13,natural armor,5,d6," 20 ft, fly 40 ft"
-Swarm of Poisonous Snakes,Medium,Beast,,Unaligned,2.0,450,mm 338,8,18,11,1,10,3,14,,8,d8," 30 ft, swim 30 ft"
-Tortle Druid,Medium,Humanoid,tortle,LN,2.0,450,mtf 242,14,10,12,11,15,12,17,natural armor,6,d8, 30 ft
-Vegepygmy Chief,Small,Plant,,N,2.0,450,vgm 197,14,14,14,7,12,9,14,natural armor,6,d6, 30 ft
-Wererat,Medium,Humanoid,"human, shapechanger",LE,2.0,450,mm 209,10,15,12,11,10,8,12,,6,d8, 30 ft
-White Dragon Wyrmling,Medium,Dragon,,CE,2.0,450,mm 102,14,10,14,5,10,11,16,natural armor,5,d8," 30 ft, burrow 15 ft, fly 60 ft, swim 30 ft"
+Spined Devil,Small,Fiend,devil,LE,2.0,450,mm 78,10,15,12,11,14,8,13,natural armor,5.0,d6,"20 ft, fly 40 ft"
+Swarm of Poisonous Snakes,Medium,Beast,,Unaligned,2.0,450,mm 338,8,18,11,1,10,3,14,,8.0,d8,"30 ft, swim 30 ft"
+Tortle Druid,Medium,Humanoid,tortle,LN,2.0,450,mtf 242,14,10,12,11,15,12,17,natural armor,6.0,d8,30 ft
+Vegepygmy Chief,Small,Plant,,N,2.0,450,vgm 197,14,14,14,7,12,9,14,natural armor,6.0,d6,30 ft
+Wererat,Medium,Humanoid,"human, shapechanger",LE,2.0,450,mm 209,10,15,12,11,10,8,12,,6.0,d8,30 ft
+White Dragon Wyrmling,Medium,Dragon,,CE,2.0,450,mm 102,14,10,14,5,10,11,16,natural armor,5.0,d8,"30 ft, burrow 15 ft, fly 60 ft, swim 30 ft"
 Will-o-wisp,Tiny,Undead,,CE,2.0,450,mm 301,0,0,0,0,0,0,,,,,
-Yuan-ti Broodguard,Medium,Humanoid,yuan-ti,NE,2.0,450,vgm 203,15,14,14,6,11,4,14,natural armor,7,d8, 30 ft
-Ankylosaurus,Huge,Beast,,Unaligned,3.0,700,mm 79,19,11,15,2,12,5,15,natural armor,8,d12, 30 ft
-Archer,Medium,Humanoid,,Any,3.0,700,vgm 210,11,18,16,11,13,10,16,studded leather,10,d8, 30 ft
-Basilisk,Medium,Monstrosity,,Unaligned,3.0,700,mm 24,16,8,15,2,8,7,15,natural armor,8,d8, 20 ft
-Bearded Devil,Medium,Fiend,devil,LE,3.0,700,mm 70,16,15,15,9,11,11,13,natural armor,8,d8, 30 ft
-Blue Dragon Wyrmling,Medium,Dragon,,LE,3.0,700,mm 91,17,10,15,12,11,15,17,natural armor,8,d8," 30 ft, burrow 15 ft, fly 60 ft"
-Bugbear Chief,Medium,Humanoid,goblinoid,CE,3.0,700,mm 33,17,14,14,11,12,11,17,"chain shirt, shield",10,d8, 30 ft
-Bulezau,Medium,Fiend,demon,CE,3.0,700,mtf 131,15,14,17,8,9,6,14,natural armor,7,d8, 40 ft
-Cave Fisher,Medium,Monstrosity,,Unaligned,3.0,700,vgm 130,16,13,14,3,10,3,16,natural armor,9,d8," 20 ft, climb 20 ft"
-Choldrith,Medium,Monstrosity,,CE,3.0,700,vgm 132,12,16,12,11,14,10,15,studded leather,12,d8," 30 ft, climb 30 ft"
-Deathlock Wight,Medium,Undead,,NE,3.0,700,mtf 129,11,14,16,12,14,16,15,mage armor,5,d8, 30 ft
-Deep Scion,Medium,Humanoid,shapechanger,NE,3.0,700,vgm 135,18,13,16,10,12,14,11,,9,d8, 30 ft (20 ft and swim 40 ft in hybrid form)
-Derro Savant,Small,Humanoid,derro,CE,3.0,700,mtf 159,9,14,12,11,5,14,13,leather armor,8,d6, 30 ft
-Displacer Beast,Large,Monstrosity,,LE,3.0,700,mm 81,18,15,16,6,12,8,13,natural armor,10,d10, 40 ft
-Doppelganger,Medium,Monstrosity,shapechanger,N,3.0,700,mm 82,11,18,14,11,12,14,14,,8,d8, 30 ft
+Yuan-ti Broodguard,Medium,Humanoid,yuan-ti,NE,2.0,450,vgm 203,15,14,14,6,11,4,14,natural armor,7.0,d8,30 ft
+Ankylosaurus,Huge,Beast,,Unaligned,3.0,700,mm 79,19,11,15,2,12,5,15,natural armor,8.0,d12,30 ft
+Archer,Medium,Humanoid,,Any,3.0,700,vgm 210,11,18,16,11,13,10,16,studded leather,10.0,d8,30 ft
+Basilisk,Medium,Monstrosity,,Unaligned,3.0,700,mm 24,16,8,15,2,8,7,15,natural armor,8.0,d8,20 ft
+Bearded Devil,Medium,Fiend,devil,LE,3.0,700,mm 70,16,15,15,9,11,11,13,natural armor,8.0,d8,30 ft
+Blue Dragon Wyrmling,Medium,Dragon,,LE,3.0,700,mm 91,17,10,15,12,11,15,17,natural armor,8.0,d8,"30 ft, burrow 15 ft, fly 60 ft"
+Bugbear Chief,Medium,Humanoid,goblinoid,CE,3.0,700,mm 33,17,14,14,11,12,11,17,"chain shirt, shield",10.0,d8,30 ft
+Bulezau,Medium,Fiend,demon,CE,3.0,700,mtf 131,15,14,17,8,9,6,14,natural armor,7.0,d8,40 ft
+Cave Fisher,Medium,Monstrosity,,Unaligned,3.0,700,vgm 130,16,13,14,3,10,3,16,natural armor,9.0,d8,"20 ft, climb 20 ft"
+Choldrith,Medium,Monstrosity,,CE,3.0,700,vgm 132,12,16,12,11,14,10,15,studded leather,12.0,d8,"30 ft, climb 30 ft"
+Deathlock Wight,Medium,Undead,,NE,3.0,700,mtf 129,11,14,16,12,14,16,15,mage armor,5.0,d8,30 ft
+Deep Scion,Medium,Humanoid,shapechanger,NE,3.0,700,vgm 135,18,13,16,10,12,14,11,,9.0,d8,30 ft (20 ft and swim 40 ft in hybrid form)
+Derro Savant,Small,Humanoid,derro,CE,3.0,700,mtf 159,9,14,12,11,5,14,13,leather armor,8.0,d6,30 ft
+Displacer Beast,Large,Monstrosity,,LE,3.0,700,mm 81,18,15,16,6,12,8,13,natural armor,10.0,d10,40 ft
+Doppelganger,Medium,Monstrosity,shapechanger,N,3.0,700,mm 82,11,18,14,11,12,14,14,,8.0,d8,30 ft
 Duergar Screamer,Medium,Construct,,LE,3.0,700,mtf 190,0,0,0,0,0,0,,,,,
-Flail Snail,Large,Elemental,,Unaligned,3.0,700,vgm 144,17,5,20,3,10,5,16,natural armor,5,d10, 10 ft
-Giant Scorpion,Large,Beast,,Unaligned,3.0,700,mm 327,15,13,15,1,9,3,15,natural armor,7,d10, 40 ft
-Giff,Medium,Humanoid,,LN,3.0,700,mtf 204,18,14,17,11,12,12,16,breastplate,8,d8, 30 ft
-Githyanki Warrior,Medium,Humanoid,gith,LE,3.0,700,mm 160,15,14,12,13,13,10,17,half plate,9,d8, 30 ft
-Gold Dragon Wyrmling,Medium,Dragon,,LG,3.0,700,mm 115,19,14,17,14,11,16,17,natural armor,8,d8," 30 ft, fly 60 ft, swim 30 ft"
-Green Hag,Medium,Fey,,NE,3.0,700,mm 177,18,12,16,13,14,14,17,natural armor,11,d8, 30 ft
-Grell,Medium,Aberration,,NE,3.0,700,mm 172,15,14,13,12,11,9,12,,10,d8," 10 ft, fly 30 ft (hover)"
-Hell Hound,Medium,Fiend,,LE,3.0,700,mm 182,17,12,14,6,13,6,15,natural armor,7,d8, 50 ft
-Hobgoblin Captain,Medium,Humanoid,goblinoid,LE,3.0,700,mm 186,15,14,14,12,10,13,17,half plate,6,d8, 30 ft
-Hook Horror,Large,Monstrosity,,N,3.0,700,mm 189,18,10,15,6,12,7,15,natural armor,10,d10," 30 ft, climb 30 ft"
-Illusionist,Medium,Humanoid,,Any,3.0,700,vgm 214,9,14,13,16,11,12,15,mage armor,7,d8, 30 ft
-Killer Whale,Huge,Beast,,Unaligned,3.0,700,mm 331,19,10,13,3,12,7,12,natural armor,12,d12," 0 ft, swim 60 ft"
-Knight,Medium,Humanoid,,,3.0,700,mm 347,16,11,14,11,11,15,18,plate,8,d8, 30 ft
-Leucrotta,Large,Monstrosity,,CE,3.0,700,vgm 169,18,14,15,9,12,6,14,natural armor,9,d10, 50 ft
-Manticore,Large,Monstrosity,,LE,3.0,700,mm 213,17,16,17,7,12,8,14,natural armor,8,d10," 30 ft, fly 50 ft"
-Martial Arts Adept,Medium,Humanoid,,Any,3.0,700,vgm 216,11,17,13,11,16,10,16,,11,d8, 40 ft
-Merrenoloth,Medium,Fiend,yugoloth,NE,3.0,700,mtf 250,8,17,10,17,14,11,13,,9,d8," 30 ft, swim 40 ft"
-Minotaur,Large,Monstrosity,,CE,3.0,700,mm 223,18,11,16,6,16,9,14,natural armor,9,d10, 40 ft
-Mummy,Medium,Undead,,LE,3.0,700,mm 228,16,8,15,6,10,12,11,natural armor,9,d8, 20 ft
-Neogi,Small,Aberration,,LE,3.0,700,vgm 180,6,16,14,13,12,15,15,natural armor,6,d6," 30 ft, climb 30 ft"
-Nightmare,Large,Fiend,,NE,3.0,700,mm 235,18,15,16,10,13,15,13,natural armor,8,d10," 60 ft, fly 90 ft"
-Ogre Chain Brute,Large,Giant,,CE,3.0,700,mtf 221,19,8,16,5,7,7,11,hide armor,7,d10, 40 ft
-Orc Red Fang of Shargaas,Medium,Humanoid,orc,CE,3.0,700,vgm 185,11,16,15,9,11,9,15,studded leather,8,d8, 30 ft
-Owlbear,Large,Monstrosity,,Unaligned,3.0,700,mm 249,20,12,17,3,12,7,13,natural armor,7,d10, 40 ft
-Phase Spider,Large,Monstrosity,,Unaligned,3.0,700,mm 334,15,15,12,6,10,6,13,natural armor,5,d10," 30 ft, climb 30 ft"
+Flail Snail,Large,Elemental,,Unaligned,3.0,700,vgm 144,17,5,20,3,10,5,16,natural armor,5.0,d10,10 ft
+Giant Scorpion,Large,Beast,,Unaligned,3.0,700,mm 327,15,13,15,1,9,3,15,natural armor,7.0,d10,40 ft
+Giff,Medium,Humanoid,,LN,3.0,700,mtf 204,18,14,17,11,12,12,16,breastplate,8.0,d8,30 ft
+Githyanki Warrior,Medium,Humanoid,gith,LE,3.0,700,mm 160,15,14,12,13,13,10,17,half plate,9.0,d8,30 ft
+Gold Dragon Wyrmling,Medium,Dragon,,LG,3.0,700,mm 115,19,14,17,14,11,16,17,natural armor,8.0,d8,"30 ft, fly 60 ft, swim 30 ft"
+Green Hag,Medium,Fey,,NE,3.0,700,mm 177,18,12,16,13,14,14,17,natural armor,11.0,d8,30 ft
+Grell,Medium,Aberration,,NE,3.0,700,mm 172,15,14,13,12,11,9,12,,10.0,d8,"10 ft, fly 30 ft (hover)"
+Hell Hound,Medium,Fiend,,LE,3.0,700,mm 182,17,12,14,6,13,6,15,natural armor,7.0,d8,50 ft
+Hobgoblin Captain,Medium,Humanoid,goblinoid,LE,3.0,700,mm 186,15,14,14,12,10,13,17,half plate,6.0,d8,30 ft
+Hook Horror,Large,Monstrosity,,N,3.0,700,mm 189,18,10,15,6,12,7,15,natural armor,10.0,d10,"30 ft, climb 30 ft"
+Illusionist,Medium,Humanoid,,Any,3.0,700,vgm 214,9,14,13,16,11,12,15,mage armor,7.0,d8,30 ft
+Killer Whale,Huge,Beast,,Unaligned,3.0,700,mm 331,19,10,13,3,12,7,12,natural armor,12.0,d12,"0 ft, swim 60 ft"
+Knight,Medium,Humanoid,,,3.0,700,mm 347,16,11,14,11,11,15,18,plate,8.0,d8,30 ft
+Leucrotta,Large,Monstrosity,,CE,3.0,700,vgm 169,18,14,15,9,12,6,14,natural armor,9.0,d10,50 ft
+Manticore,Large,Monstrosity,,LE,3.0,700,mm 213,17,16,17,7,12,8,14,natural armor,8.0,d10,"30 ft, fly 50 ft"
+Martial Arts Adept,Medium,Humanoid,,Any,3.0,700,vgm 216,11,17,13,11,16,10,16,,11.0,d8,40 ft
+Merrenoloth,Medium,Fiend,yugoloth,NE,3.0,700,mtf 250,8,17,10,17,14,11,13,,9.0,d8,"30 ft, swim 40 ft"
+Minotaur,Large,Monstrosity,,CE,3.0,700,mm 223,18,11,16,6,16,9,14,natural armor,9.0,d10,40 ft
+Mummy,Medium,Undead,,LE,3.0,700,mm 228,16,8,15,6,10,12,11,natural armor,9.0,d8,20 ft
+Neogi,Small,Aberration,,LE,3.0,700,vgm 180,6,16,14,13,12,15,15,natural armor,6.0,d6,"30 ft, climb 30 ft"
+Nightmare,Large,Fiend,,NE,3.0,700,mm 235,18,15,16,10,13,15,13,natural armor,8.0,d10,"60 ft, fly 90 ft"
+Ogre Chain Brute,Large,Giant,,CE,3.0,700,mtf 221,19,8,16,5,7,7,11,hide armor,7.0,d10,40 ft
+Orc Red Fang of Shargaas,Medium,Humanoid,orc,CE,3.0,700,vgm 185,11,16,15,9,11,9,15,studded leather,8.0,d8,30 ft
+Owlbear,Large,Monstrosity,,Unaligned,3.0,700,mm 249,20,12,17,3,12,7,13,natural armor,7.0,d10,40 ft
+Phase Spider,Large,Monstrosity,,Unaligned,3.0,700,mm 334,15,15,12,6,10,6,13,natural armor,5.0,d10,"30 ft, climb 30 ft"
 Quaggoth Thonot,Medium,Humanoid,quaggoth,CN,3.0,700,mm 256,0,0,0,0,0,0,,,,,
-Redcap,Small,Fey,,CE,3.0,700,vgm 188,18,13,18,10,12,9,13,natural armor,6,d6, 25 ft
-Slithering Tracker,Medium,Ooze,,CE,3.0,700,vgm 191,16,19,15,10,14,11,14,,5,d8," 30 ft, climb 30 ft, swim 30 ft"
-Spectator,Medium,Aberration,,LN,3.0,700,mm 30,8,14,14,13,14,11,14,natural armor,6,d8," 0 ft, fly 30 ft (hover)"
-Swashbuckler,Medium,Humanoid,,Any non-lawful,3.0,700,vgm 217,12,18,12,14,11,15,17,leather armor,12,d8, 30 ft
-Sword Wraith Warrior,Medium,Undead,,LE,3.0,700,mtf 241,18,12,17,6,9,10,16,"chain shirt, shield",6,d8, 30 ft
-Trapper,Large,Monstrosity,,Unaligned,3.0,700,vgm 194,17,10,17,2,13,4,13,natural armor,10,d10," 10 ft, climb 10 ft"
-Vampiric Mist,Medium,Undead,,CE,3.0,700,mtf 246,6,16,16,6,12,7,13,,4,d8," 0 ft, fly 30 ft (hover)"
-Veteran,Medium,Humanoid,,,3.0,700,mm 350,16,13,14,10,11,10,17,splint,9,d8, 30 ft
-Water Weird,Large,Elemental,,N,3.0,700,mm 299,17,16,13,11,10,10,13,,9,d10," 0 ft, swim 60 ft"
-Werewolf,Medium,Humanoid,"human, shapechanger",CE,3.0,700,mm 211,15,13,14,10,11,10,"11inhumanoidform,12",natural armor in wolf or hybrid form,9,d8, 30 ft (40 ft in wolf form)
-Wight,Medium,Undead,,NE,3.0,700,mm 300,15,14,16,10,13,15,14,studded leather,6,d8, 30 ft
-Winter Wolf,Large,Monstrosity,,NE,3.0,700,mm 340,18,13,14,7,12,8,13,natural armor,10,d10, 50 ft
-Yeti,Large,Monstrosity,,CE,3.0,700,mm 305,18,13,16,8,12,7,12,natural armor,6,d10," 40 ft, climb 40 ft"
-Yuan-ti Malison,Medium,Monstrosity,"shapechanger, yuan-ti",NE,3.0,700,mm 309,16,14,13,14,12,16,12,,12,d8, 30 ft
-Babau,Medium,Fiend,demon,CE,4.0,1100,vgm 136,19,16,16,11,12,13,16,natural armor,11,d8, 40 ft
-Banshee,Medium,Undead,,CE,4.0,1100,mm 23,1,14,10,12,11,17,12,,13,d8," 0 ft, fly 40 ft (hover)"
-Barghest,Large,Fiend,shapechanger,NE,4.0,1100,vgm 123,19,15,14,13,12,14,17,natural armor,12,d10, 60 ft (30 ft in goblin form)
-Black Pudding,Large,Ooze,,Unaligned,4.0,1100,mm 241,16,5,16,1,6,1,7,,10,d10," 20 ft, climb 20 ft"
-Bone Naga,Large,Undead,,LE,4.0,1100,mm 233,15,16,12,15,15,16,15,natural armor,9,d10, 30 ft
-Chuul,Large,Aberration,,CE,4.0,1100,mm 40,19,10,16,5,11,5,16,natural armor,11,d10," 30 ft, swim 30 ft"
-Couatl,Medium,Celestial,,LG,4.0,1100,mm 43,16,20,17,18,20,18,19,natural armor,13,d8," 30 ft, fly 90 ft"
-Deathlock,Medium,Undead,,NE,4.0,1100,mtf 128,11,15,10,14,12,16,15,mage armor,8,d8, 30 ft
-Dybbuk,Medium,Fiend,demon,CE,4.0,1100,mtf 132,6,19,16,16,15,14,14,,5,d8," 0 ft, fly 40 ft (hover)"
-Elephant,Huge,Beast,,Unaligned,4.0,1100,mm 322,22,9,17,3,11,6,12,natural armor,8,d12, 40 ft
-Ettin,Large,Giant,,CE,4.0,1100,mm 132,21,8,17,6,10,8,12,natural armor,10,d10, 40 ft
-Flameskull,Tiny,Undead,,NE,4.0,1100,mm 134,1,17,14,16,10,11,13,,9,d4," 0 ft, fly 40 ft (hover)"
-Ghost,Medium,Undead,,Any,4.0,1100,mm 147,7,13,10,10,12,17,11,,10,d8," 0 ft, fly 40 ft (hover)"
-Girallon,Large,Monstrosity,,Unaligned,4.0,1100,vgm 152,18,16,16,5,12,7,13,,7,d10," 40 ft, climb 40 ft"
-Gnoll Fang of Yeenoghu,Medium,Fiend,gnoll,CE,4.0,1100,mm 163,17,15,15,10,11,13,14,hide armor,10,d8, 30 ft
-Helmed Horror,Medium,Construct,,N,4.0,1100,mm 183,18,13,16,10,10,10,20,"plate, shield",8,d8," 30 ft, fly 30 ft"
-Hobgoblin Devastator,Medium,Humanoid,goblinoid,LE,4.0,1100,vgm 161,13,12,14,16,13,11,13,studded leather,7,d8, 30 ft
+Redcap,Small,Fey,,CE,3.0,700,vgm 188,18,13,18,10,12,9,13,natural armor,6.0,d6,25 ft
+Slithering Tracker,Medium,Ooze,,CE,3.0,700,vgm 191,16,19,15,10,14,11,14,,5.0,d8,"30 ft, climb 30 ft, swim 30 ft"
+Spectator,Medium,Aberration,,LN,3.0,700,mm 30,8,14,14,13,14,11,14,natural armor,6.0,d8,"0 ft, fly 30 ft (hover)"
+Swashbuckler,Medium,Humanoid,,Any non-lawful,3.0,700,vgm 217,12,18,12,14,11,15,17,leather armor,12.0,d8,30 ft
+Sword Wraith Warrior,Medium,Undead,,LE,3.0,700,mtf 241,18,12,17,6,9,10,16,"chain shirt, shield",6.0,d8,30 ft
+Trapper,Large,Monstrosity,,Unaligned,3.0,700,vgm 194,17,10,17,2,13,4,13,natural armor,10.0,d10,"10 ft, climb 10 ft"
+Vampiric Mist,Medium,Undead,,CE,3.0,700,mtf 246,6,16,16,6,12,7,13,,4.0,d8,"0 ft, fly 30 ft (hover)"
+Veteran,Medium,Humanoid,,,3.0,700,mm 350,16,13,14,10,11,10,17,splint,9.0,d8,30 ft
+Water Weird,Large,Elemental,,N,3.0,700,mm 299,17,16,13,11,10,10,13,,9.0,d10,"0 ft, swim 60 ft"
+Werewolf,Medium,Humanoid,"human, shapechanger",CE,3.0,700,mm 211,15,13,14,10,11,10,"11inhumanoidform,12",natural armor in wolf or hybrid form,9.0,d8,30 ft (40 ft in wolf form)
+Wight,Medium,Undead,,NE,3.0,700,mm 300,15,14,16,10,13,15,14,studded leather,6.0,d8,30 ft
+Winter Wolf,Large,Monstrosity,,NE,3.0,700,mm 340,18,13,14,7,12,8,13,natural armor,10.0,d10,50 ft
+Yeti,Large,Monstrosity,,CE,3.0,700,mm 305,18,13,16,8,12,7,12,natural armor,6.0,d10,"40 ft, climb 40 ft"
+Yuan-ti Malison,Medium,Monstrosity,"shapechanger, yuan-ti",NE,3.0,700,mm 309,16,14,13,14,12,16,12,,12.0,d8,30 ft
+Babau,Medium,Fiend,demon,CE,4.0,1100,vgm 136,19,16,16,11,12,13,16,natural armor,11.0,d8,40 ft
+Banshee,Medium,Undead,,CE,4.0,1100,mm 23,1,14,10,12,11,17,12,,13.0,d8,"0 ft, fly 40 ft (hover)"
+Barghest,Large,Fiend,shapechanger,NE,4.0,1100,vgm 123,19,15,14,13,12,14,17,natural armor,12.0,d10,60 ft (30 ft in goblin form)
+Black Pudding,Large,Ooze,,Unaligned,4.0,1100,mm 241,16,5,16,1,6,1,7,,10.0,d10,"20 ft, climb 20 ft"
+Bone Naga,Large,Undead,,LE,4.0,1100,mm 233,15,16,12,15,15,16,15,natural armor,9.0,d10,30 ft
+Chuul,Large,Aberration,,CE,4.0,1100,mm 40,19,10,16,5,11,5,16,natural armor,11.0,d10,"30 ft, swim 30 ft"
+Couatl,Medium,Celestial,,LG,4.0,1100,mm 43,16,20,17,18,20,18,19,natural armor,13.0,d8,"30 ft, fly 90 ft"
+Deathlock,Medium,Undead,,NE,4.0,1100,mtf 128,11,15,10,14,12,16,15,mage armor,8.0,d8,30 ft
+Dybbuk,Medium,Fiend,demon,CE,4.0,1100,mtf 132,6,19,16,16,15,14,14,,5.0,d8,"0 ft, fly 40 ft (hover)"
+Elephant,Huge,Beast,,Unaligned,4.0,1100,mm 322,22,9,17,3,11,6,12,natural armor,8.0,d12,40 ft
+Ettin,Large,Giant,,CE,4.0,1100,mm 132,21,8,17,6,10,8,12,natural armor,10.0,d10,40 ft
+Flameskull,Tiny,Undead,,NE,4.0,1100,mm 134,1,17,14,16,10,11,13,,9.0,d4,"0 ft, fly 40 ft (hover)"
+Ghost,Medium,Undead,,Any,4.0,1100,mm 147,7,13,10,10,12,17,11,,10.0,d8,"0 ft, fly 40 ft (hover)"
+Girallon,Large,Monstrosity,,Unaligned,4.0,1100,vgm 152,18,16,16,5,12,7,13,,7.0,d10,"40 ft, climb 40 ft"
+Gnoll Fang of Yeenoghu,Medium,Fiend,gnoll,CE,4.0,1100,mm 163,17,15,15,10,11,13,14,hide armor,10.0,d8,30 ft
+Helmed Horror,Medium,Construct,,N,4.0,1100,mm 183,18,13,16,10,10,10,20,"plate, shield",8.0,d8,"30 ft, fly 30 ft"
+Hobgoblin Devastator,Medium,Humanoid,goblinoid,LE,4.0,1100,vgm 161,13,12,14,16,13,11,13,studded leather,7.0,d8,30 ft
 Incubus,Medium,Fiend,shapechanger,NE,4.0,1100,mm 285,0,0,0,0,0,0,,,,,
-Iron Cobra,Medium,Construct,,Unaligned,4.0,1100,mtf 125,12,16,14,3,10,1,13,,7,d8, 30 ft
-Lamia,Large,Monstrosity,,CE,4.0,1100,mm 201,16,13,15,14,15,16,13,natural armor,13,d10, 30 ft
+Iron Cobra,Medium,Construct,,Unaligned,4.0,1100,mtf 125,12,16,14,3,10,1,13,,7.0,d8,30 ft
+Lamia,Large,Monstrosity,,CE,4.0,1100,mm 201,16,13,15,14,15,16,13,natural armor,13.0,d10,30 ft
 Lizard King/Queen,Medium,Humanoid,lizardfolk,CE,4.0,1100,mm 205,0,0,0,0,0,0,,,,,
-Merregon,Medium,Fiend,devil,LE,4.0,1100,mtf 166,18,14,17,6,12,8,16,natural armor,6,d8, 30 ft
-Neogi Master,Medium,Aberration,,LE,4.0,1100,vgm 180,6,16,14,16,12,18,15,natural armor,11,d8," 30 ft, climb 30 ft"
-Ogre Battering Ram,Large,Giant,,CE,4.0,1100,mtf 220,19,8,16,5,7,7,14,ring mail,7,d10, 40 ft
-Orc Blade of Ilneval,Medium,Humanoid,orc,CE,4.0,1100,vgm 183,17,11,17,10,12,14,18,"chain mail, shield",8,d8, 30 ft
-Orc War Chief,Medium,Humanoid,orc,CE,4.0,1100,mm 246,18,12,18,11,11,16,16,chain mail,11,d8, 30 ft
-Red Dragon Wyrmling,Medium,Dragon,,CE,4.0,1100,mm 98,19,10,17,12,11,15,17,natural armor,10,d8," 30 ft, climb 30 ft, fly 60 ft"
-Shadow Demon,Medium,Fiend,demon,CE,4.0,1100,mm 64,1,17,12,14,13,14,13,,12,d8," 30 ft, fly 30 ft"
-Stegosaurus,Huge,Beast,,Unaligned,4.0,1100,vgm 140,20,9,17,2,11,5,13,natural armor,8,d12, 40 ft
+Merregon,Medium,Fiend,devil,LE,4.0,1100,mtf 166,18,14,17,6,12,8,16,natural armor,6.0,d8,30 ft
+Neogi Master,Medium,Aberration,,LE,4.0,1100,vgm 180,6,16,14,16,12,18,15,natural armor,11.0,d8,"30 ft, climb 30 ft"
+Ogre Battering Ram,Large,Giant,,CE,4.0,1100,mtf 220,19,8,16,5,7,7,14,ring mail,7.0,d10,40 ft
+Orc Blade of Ilneval,Medium,Humanoid,orc,CE,4.0,1100,vgm 183,17,11,17,10,12,14,18,"chain mail, shield",8.0,d8,30 ft
+Orc War Chief,Medium,Humanoid,orc,CE,4.0,1100,mm 246,18,12,18,11,11,16,16,chain mail,11.0,d8,30 ft
+Red Dragon Wyrmling,Medium,Dragon,,CE,4.0,1100,mm 98,19,10,17,12,11,15,17,natural armor,10.0,d8,"30 ft, climb 30 ft, fly 60 ft"
+Shadow Demon,Medium,Fiend,demon,CE,4.0,1100,mm 64,1,17,12,14,13,14,13,,12.0,d8,"30 ft, fly 30 ft"
+Stegosaurus,Huge,Beast,,Unaligned,4.0,1100,vgm 140,20,9,17,2,11,5,13,natural armor,8.0,d12,40 ft
 Stone Defender,Medium,Construct,,Unaligned,4.0,1100,mtf 126,0,0,0,0,0,0,,,,,
-Succubus,Medium,Fiend,shapechanger,NE,4.0,1100,mm 285,8,17,13,15,12,20,15,natural armor,12,d8," 30 ft, fly 60 ft"
-Warlock of the Archfey,Medium,Humanoid,,Any,4.0,1100,vgm 219,9,13,11,11,12,18,14,mage armor,11,d8, 30 ft
-Wereboar,Medium,Humanoid,"human, shapechanger",NE,4.0,1100,mm 209,17,10,15,10,11,8,"10inhumanoidform,11",natural armor in boar or hybrid form,12,d8, 30 ft (40 ft in boar form)
-Weretiger,Medium,Humanoid,"human, shapechanger",N,4.0,1100,mm 210,17,15,16,10,13,11,12,,16,d8, 30 ft (40 ft in tiger form)
-Yeth Hound,Large,Fey,,NE,4.0,1100,vgm 201,18,17,16,5,12,7,14,natural armor,6,d10," 40 ft, fly 40 ft (hover)"
-Yuan-ti Mind Whisperer,Medium,Monstrosity,"shapechanger, yuan-ti",NE,4.0,1100,vgm 204,16,14,13,14,14,16,14,natural armor,13,d8, 30 ft
-Yuan-ti Nightmare Speaker,Medium,Monstrosity,"shapechanger, yuan-ti",NE,4.0,1100,vgm 205,16,14,13,14,12,16,14,natural armor,13,d8, 30 ft
-Adult Oblex,Medium,Ooze,,LE,5.0,1800,mtf 218,8,19,16,19,12,15,14,,10,d8, 20 ft
-Air Elemental,Large,Elemental,,N,5.0,1800,mm 124,14,20,14,6,10,6,15,,12,d10," 0 ft, fly 90 ft (hover)"
-Allip,Medium,Undead,,NE,5.0,1800,mtf 116,6,17,10,17,15,16,13,,9,d8," 0 ft, fly 40 ft (hover)"
-Banderhobb,Large,Monstrosity,,NE,5.0,1800,vgm 122,20,12,20,11,14,8,15,natural armor,8,d10, 30 ft
-Barbed Devil,Medium,Fiend,devil,LE,5.0,1800,mm 70,16,17,18,12,14,14,15,natural armor,13,d8, 30 ft
-Barlgura,Large,Fiend,demon,CE,5.0,1800,mm 56,18,15,16,7,14,9,15,natural armor,8,d10," 40 ft, climb 40 ft"
-Beholder Zombie,Large,Undead,,NE,5.0,1800,mm 316,10,8,16,3,8,5,15,natural armor,11,d10," 0 ft, fly 20 ft (hover)"
-Brontosaurus,Gargantuan,Beast,,Unaligned,5.0,1800,vgm 139,21,9,17,2,10,7,15,natural armor,9,d20, 30 ft
-Bulette,Large,Monstrosity,,Unaligned,5.0,1800,mm 34,19,11,21,2,10,5,17,natural armor,9,d10," 40 ft, burrow 40 ft"
-Cambion,Medium,Fiend,,Any evil,5.0,1800,mm 36,18,18,16,14,12,16,19,scale mail,11,d8," 30 ft, fly 60 ft"
-Catoblepas,Large,Monstrosity,,Unaligned,5.0,1800,vgm 129,19,12,21,3,14,8,14,natural armor,8,d10, 30 ft
-Drow Elite Warrior,Medium,Humanoid,elf,NE,5.0,1800,mm 128,13,18,14,11,13,12,18,"studded leather, shield",11,d8, 30 ft
-Earth Elemental,Large,Elemental,,N,5.0,1800,mm 124,20,8,20,5,10,5,17,natural armor,12,d10," 30 ft, burrow 30 ft"
-Enchanter,Medium,Humanoid,,Any,5.0,1800,vgm 213,9,14,11,17,12,11,15,mage armor,9,d8, 30 ft
-Fire Elemental,Large,Elemental,,N,5.0,1800,mm 125,10,17,16,6,10,7,13,,12,d10, 50 ft
-Flesh Golem,Medium,Construct,,N,5.0,1800,mm 169,19,9,18,6,10,5,9,,11,d8, 30 ft
-Giant Crocodile,Huge,Beast,,Unaligned,5.0,1800,mm 324,21,9,17,2,10,7,14,natural armor,9,d12," 30 ft, swim 50 ft"
-Giant Shark,Huge,Beast,,Unaligned,5.0,1800,mm 328,23,11,21,1,10,5,13,natural armor,11,d12," 0 ft, swim 50 ft"
-Gladiator,Medium,Humanoid,,Any,5.0,1800,mm 346,18,15,16,10,12,15,16,"studded leather, shield",15,d8, 30 ft
-Gorgon,Large,Monstrosity,,Unaligned,5.0,1800,mm 171,20,11,18,2,12,7,19,natural armor,12,d10, 40 ft
-Half-Red Dragon Veteran,Medium,Humanoid,human,Any,5.0,1800,mm 180,16,13,14,10,11,10,18,plate,10,d8, 30 ft
-Hill Giant,Huge,Giant,,CE,5.0,1800,mm 155,21,8,19,5,9,6,13,natural armor,10,d12, 40 ft
-Kraken Priest,Medium,Humanoid,,Any,5.0,1800,vgm 215,12,10,16,10,15,14,10,,10,d8," 30 ft, swim 30 ft"
-Kruthik Hive Lord,Large,Monstrosity,,Unaligned,5.0,1800,mtf 212,19,16,17,10,14,10,20,natural armor,12,d10," 40 ft, burrow 20 ft, climb 40 ft"
-Master Thief,Medium,Humanoid,,Any,5.0,1800,vgm 216,11,18,14,11,11,12,16,studded leather,13,d8, 30 ft
-Mezzoloth,Medium,Fiend,yugoloth,NE,5.0,1800,mm 313,18,11,16,7,10,11,18,natural armor,10,d8, 40 ft
-Mindwitness,Large,Aberration,,LE,5.0,1800,vgm 176,10,14,14,15,15,10,15,natural armor,10,d10," 0 ft, fly 20 ft (hover)"
-Night Hag,Medium,Fiend,,NE,5.0,1800,mm 178,18,15,16,16,14,16,17,natural armor,15,d8, 30 ft
+Succubus,Medium,Fiend,shapechanger,NE,4.0,1100,mm 285,8,17,13,15,12,20,15,natural armor,12.0,d8,"30 ft, fly 60 ft"
+Warlock of the Archfey,Medium,Humanoid,,Any,4.0,1100,vgm 219,9,13,11,11,12,18,14,mage armor,11.0,d8,30 ft
+Wereboar,Medium,Humanoid,"human, shapechanger",NE,4.0,1100,mm 209,17,10,15,10,11,8,"10inhumanoidform,11",natural armor in boar or hybrid form,12.0,d8,30 ft (40 ft in boar form)
+Weretiger,Medium,Humanoid,"human, shapechanger",N,4.0,1100,mm 210,17,15,16,10,13,11,12,,16.0,d8,30 ft (40 ft in tiger form)
+Yeth Hound,Large,Fey,,NE,4.0,1100,vgm 201,18,17,16,5,12,7,14,natural armor,6.0,d10,"40 ft, fly 40 ft (hover)"
+Yuan-ti Mind Whisperer,Medium,Monstrosity,"shapechanger, yuan-ti",NE,4.0,1100,vgm 204,16,14,13,14,14,16,14,natural armor,13.0,d8,30 ft
+Yuan-ti Nightmare Speaker,Medium,Monstrosity,"shapechanger, yuan-ti",NE,4.0,1100,vgm 205,16,14,13,14,12,16,14,natural armor,13.0,d8,30 ft
+Adult Oblex,Medium,Ooze,,LE,5.0,1800,mtf 218,8,19,16,19,12,15,14,,10.0,d8,20 ft
+Air Elemental,Large,Elemental,,N,5.0,1800,mm 124,14,20,14,6,10,6,15,,12.0,d10,"0 ft, fly 90 ft (hover)"
+Allip,Medium,Undead,,NE,5.0,1800,mtf 116,6,17,10,17,15,16,13,,9.0,d8,"0 ft, fly 40 ft (hover)"
+Banderhobb,Large,Monstrosity,,NE,5.0,1800,vgm 122,20,12,20,11,14,8,15,natural armor,8.0,d10,30 ft
+Barbed Devil,Medium,Fiend,devil,LE,5.0,1800,mm 70,16,17,18,12,14,14,15,natural armor,13.0,d8,30 ft
+Barlgura,Large,Fiend,demon,CE,5.0,1800,mm 56,18,15,16,7,14,9,15,natural armor,8.0,d10,"40 ft, climb 40 ft"
+Beholder Zombie,Large,Undead,,NE,5.0,1800,mm 316,10,8,16,3,8,5,15,natural armor,11.0,d10,"0 ft, fly 20 ft (hover)"
+Brontosaurus,Gargantuan,Beast,,Unaligned,5.0,1800,vgm 139,21,9,17,2,10,7,15,natural armor,9.0,d20,30 ft
+Bulette,Large,Monstrosity,,Unaligned,5.0,1800,mm 34,19,11,21,2,10,5,17,natural armor,9.0,d10,"40 ft, burrow 40 ft"
+Cambion,Medium,Fiend,,Any evil,5.0,1800,mm 36,18,18,16,14,12,16,19,scale mail,11.0,d8,"30 ft, fly 60 ft"
+Catoblepas,Large,Monstrosity,,Unaligned,5.0,1800,vgm 129,19,12,21,3,14,8,14,natural armor,8.0,d10,30 ft
+Drow Elite Warrior,Medium,Humanoid,elf,NE,5.0,1800,mm 128,13,18,14,11,13,12,18,"studded leather, shield",11.0,d8,30 ft
+Earth Elemental,Large,Elemental,,N,5.0,1800,mm 124,20,8,20,5,10,5,17,natural armor,12.0,d10,"30 ft, burrow 30 ft"
+Enchanter,Medium,Humanoid,,Any,5.0,1800,vgm 213,9,14,11,17,12,11,15,mage armor,9.0,d8,30 ft
+Fire Elemental,Large,Elemental,,N,5.0,1800,mm 125,10,17,16,6,10,7,13,,12.0,d10,50 ft
+Flesh Golem,Medium,Construct,,N,5.0,1800,mm 169,19,9,18,6,10,5,9,,11.0,d8,30 ft
+Giant Crocodile,Huge,Beast,,Unaligned,5.0,1800,mm 324,21,9,17,2,10,7,14,natural armor,9.0,d12,"30 ft, swim 50 ft"
+Giant Shark,Huge,Beast,,Unaligned,5.0,1800,mm 328,23,11,21,1,10,5,13,natural armor,11.0,d12,"0 ft, swim 50 ft"
+Gladiator,Medium,Humanoid,,Any,5.0,1800,mm 346,18,15,16,10,12,15,16,"studded leather, shield",15.0,d8,30 ft
+Gorgon,Large,Monstrosity,,Unaligned,5.0,1800,mm 171,20,11,18,2,12,7,19,natural armor,12.0,d10,40 ft
+Half-Red Dragon Veteran,Medium,Humanoid,human,Any,5.0,1800,mm 180,16,13,14,10,11,10,18,plate,10.0,d8,30 ft
+Hill Giant,Huge,Giant,,CE,5.0,1800,mm 155,21,8,19,5,9,6,13,natural armor,10.0,d12,40 ft
+Kraken Priest,Medium,Humanoid,,Any,5.0,1800,vgm 215,12,10,16,10,15,14,10,,10.0,d8,"30 ft, swim 30 ft"
+Kruthik Hive Lord,Large,Monstrosity,,Unaligned,5.0,1800,mtf 212,19,16,17,10,14,10,20,natural armor,12.0,d10,"40 ft, burrow 20 ft, climb 40 ft"
+Master Thief,Medium,Humanoid,,Any,5.0,1800,vgm 216,11,18,14,11,11,12,16,studded leather,13.0,d8,30 ft
+Mezzoloth,Medium,Fiend,yugoloth,NE,5.0,1800,mm 313,18,11,16,7,10,11,18,natural armor,10.0,d8,40 ft
+Mindwitness,Large,Aberration,,LE,5.0,1800,vgm 176,10,14,14,15,15,10,15,natural armor,10.0,d10,"0 ft, fly 20 ft (hover)"
+Night Hag,Medium,Fiend,,NE,5.0,1800,mm 178,18,15,16,16,14,16,17,natural armor,15.0,d8,30 ft
 Oaken Bolter,Medium,Construct,,Unaligned,5.0,1800,mtf 126,0,0,0,0,0,0,,,,,
-Otyugh,Large,Aberration,,N,5.0,1800,mm 248,16,11,19,6,13,6,14,natural armor,12,d10, 30 ft
-Red Slaad,Large,Aberration,,CN,5.0,1800,mm 276,16,12,16,6,6,7,14,natural armor,11,d10, 30 ft
-Revenant,Medium,Undead,,N,5.0,1800,mm 259,18,14,18,13,16,18,13,leather armor,16,d8, 30 ft
-Roper,Large,Monstrosity,,NE,5.0,1800,mm 261,18,8,17,7,16,6,20,natural armor,11,d10," 10 ft, climb 10 ft"
-Sahuagin Baron,Large,Humanoid,sahuagin,LE,5.0,1800,mm 264,19,15,16,14,13,17,16,breastplate,9,d10," 30 ft, swim 50 ft"
-Salamander,Large,Elemental,,NE,5.0,1800,mm 266,18,14,15,11,10,12,15,natural armor,12,d10, 30 ft
-Shambling Mound,Large,Plant,,Unaligned,5.0,1800,mm 270,18,8,16,5,10,5,15,natural armor,16,d10," 20 ft, swim 20 ft"
-Spawn of Kyuss,Medium,Undead,,CE,5.0,1800,vgm 192,16,11,18,5,7,3,10,,9,d8, 30 ft
-Star Spawn Mangler,Medium,Aberration,,CE,5.0,1800,mtf 236,8,18,12,11,12,7,14,,13,d8," 40 ft, climb 40 ft"
-Swarm of Cranium Rats,Medium,Beast,,LE,5.0,1800,vgm 133,9,14,10,15,11,14,12,,8,d8, 30 ft
-Tanarukk,Medium,Fiend,"demon, orc",CE,5.0,1800,vgm 186,18,13,20,9,9,9,14,natural armor,10,d8, 30 ft
-Tlincalli,Large,Monstrosity,,NE,5.0,1800,vgm 193,16,13,16,8,12,8,15,natural armor,10,d10, 40 ft
-Transmuter,Medium,Humanoid,,Any,5.0,1800,vgm 218,9,14,11,17,12,11,15,mage armor,9,d8, 30 ft
-Triceratops,Huge,Beast,,Unaligned,5.0,1800,mm 80,22,9,17,2,11,5,13,natural armor,10,d12, 50 ft
-Troll,Large,Giant,,CE,5.0,1800,mm 291,18,13,20,7,9,7,15,natural armor,8,d10, 30 ft
-Umber Hulk,Large,Monstrosity,,CE,5.0,1800,mm 292,20,13,16,9,10,10,18,natural armor,11,d10," 30 ft, burrow 20 ft"
-Unicorn,Large,Celestial,,LG,5.0,1800,mm 294,18,14,15,11,17,16,12,,9,d10, 50 ft
-Vampire Spawn,Medium,Undead,,NE,5.0,1800,mm 298,16,16,16,11,10,12,15,natural armor,11,d8, 30 ft
-Water Elemental,Large,Elemental,,N,5.0,1800,mm 125,18,14,18,5,10,8,14,natural armor,12,d10," 30 ft, swim 90 ft"
-Werebear,Medium,Humanoid,"human, shapechanger",NG,5.0,1800,mm 208,19,10,17,11,12,12,"10inhumanoidform,11",natural armor in bear and hybrid form,18,d8," 30 ft (40 ft, climb 30 ft in bear or hybrid form)"
-Wood Woad,Medium,Plant,,LN,5.0,1800,vgm 198,18,12,16,10,13,8,18,"natural armor, shield",10,d8," 30 ft, climb 30 ft"
-Wraith,Medium,Undead,,NE,5.0,1800,mm 302,6,16,16,12,14,15,13,,9,d8," 0 ft, fly 60 ft (hover)"
-Xorn,Medium,Elemental,,N,5.0,1800,mm 304,17,10,22,11,10,11,19,natural armor,7,d8," 20 ft, burrow 20 ft"
-Young Remorhaz,Large,Monstrosity,,Unaligned,5.0,1800,mm 258,18,13,17,3,10,4,14,natural armor,11,d10," 30 ft, burrow 20 ft"
-Yuan-ti Pit Master,Medium,Monstrosity,"shapechanger, yuan-ti",NE,5.0,1800,vgm 206,16,14,13,14,12,16,14,natural armor,16,d8, 30 ft
-Annis Hag,Large,Fey,,CE,6.0,2300,vgm 159,21,12,14,13,14,15,17,natural armor,10,d10, 40 ft
-Bodak,Medium,Undead,,CE,6.0,2300,vgm 127,15,16,15,7,12,12,15,natural armor,9,d8, 30 ft
-Chasme,Large,Fiend,demon,CE,6.0,2300,mm 57,15,15,12,11,14,10,15,natural armor,13,d10," 20 ft, fly 60 ft"
-Chimera,Large,Monstrosity,,CE,6.0,2300,mm 39,19,11,19,3,14,10,14,natural armor,12,d10," 30 ft, fly 60 ft"
-Conjurer,Medium,Humanoid,,Any,6.0,2300,vgm 212,9,14,11,17,12,11,15,mage armor,9,d8, 30 ft
-Cyclops,Huge,Giant,,CN,6.0,2300,mm 45,22,11,20,8,6,10,14,natural armor,12,d12, 30 ft
-Drider,Large,Monstrosity,,CE,6.0,2300,mm 120,16,16,18,13,14,12,19,natural armor,13,d10," 30 ft, climb 30 ft"
-Duergar Warlord,Medium,Humanoid,dwarf,LE,6.0,2300,mtf 192,18,11,17,12,12,14,20,"plate, shield",10,d8, 25 ft
-Galeb Duhr,Medium,Elemental,,N,6.0,2300,mm 139,20,14,20,11,12,11,16,natural armor,9,d8," 15 ft (30 ft when rolling, 60 ft rolling downhill)"
-Gauth,Medium,Aberration,,LE,6.0,2300,vgm 125,10,14,16,15,15,13,15,natural armor,9,d8," 0 ft, fly 20 ft (hover)"
-Githzerai Zerth,Medium,Humanoid,gith,LN,6.0,2300,mm 161,13,18,15,16,17,12,17,,13,d8, 30 ft
-Hobgoblin Warlord,Medium,Humanoid,goblinoid,LE,6.0,2300,mm 187,16,14,16,14,11,15,20,"plate, shield",13,d8, 30 ft
-Invisible Stalker,Medium,Elemental,,N,6.0,2300,mm 192,16,19,14,10,15,11,14,,16,d8," 50 ft, fly 50 ft (hover)"
-Kuo-toa Archpriest,Medium,Humanoid,kuo-toa,NE,6.0,2300,mm 200,16,14,16,13,16,14,13,natural armor,13,d8," 30 ft, swim 30 ft"
-Mage,Medium,Humanoid,,,6.0,2300,mm 347,9,14,11,17,12,11,15,mage armor,9,d8, 30 ft
-Mammoth,Huge,Beast,,Unaligned,6.0,2300,mm 332,24,9,21,3,11,6,13,natural armor,11,d12, 40 ft
-Medusa,Medium,Monstrosity,,LE,6.0,2300,mm 214,10,15,16,12,13,15,15,natural armor,17,d8, 30 ft
-Mouth of Grolantor,Huge,Giant,hill giant,CE,6.0,2300,vgm 149,21,10,18,5,7,5,14,natural armor,10,d12, 50 ft
-Vrock,Large,Fiend,demon,CE,6.0,2300,mm 64,17,15,18,8,13,8,15,natural armor,11,d10," 40 ft, fly 60 ft"
-Warlock of the Great Old One,Medium,Humanoid,,Any,6.0,2300,vgm 220,9,14,15,12,12,18,15,mage armor,14,d8, 30 ft
-White Abishai,Medium,Fiend,devil,LE,6.0,2300,mtf 163,16,11,18,11,12,13,15,natural armor,8,d8," 30 ft, fly 40 ft"
-Wyvern,Large,Dragon,,Unaligned,6.0,2300,mm 303,19,10,16,5,12,6,13,natural armor,13,d10," 20 ft, fly 80 ft"
-Young Brass Dragon,Large,Dragon,,CG,6.0,2300,mm 105,19,10,17,12,11,15,17,natural armor,13,d10," 40 ft, burrow 20 ft, fly 80 ft"
-Young White Dragon,Large,Dragon,,CE,6.0,2300,mm 101,18,10,18,6,11,12,17,natural armor,14,d10," 40 ft, burrow 20 ft, fly 80 ft, swim 40 ft"
-Air Elemental Myrmidon,Medium,Elemental,,N,7.0,2900,mtf 202,18,14,14,9,10,10,18,plate,18,d8," 30 ft, fly 30 ft (hover)"
-Armanite,Large,Fiend,demon,CE,7.0,2900,mtf 131,21,18,21,8,12,13,16,natural armor,8,d10, 60 ft
-Bheur Hag,Medium,Fey,,CE,7.0,2900,vgm 160,13,16,14,12,13,16,17,natural armor,14,d8, 30 ft
-Black Abishai,Medium,Fiend,devil,LE,7.0,2900,mtf 160,14,17,14,13,16,11,15,natural armor,9,d8," 30 ft, fly 40 ft"
-Blue Slaad,Large,Aberration,,CN,7.0,2900,mm 276,20,15,18,7,7,9,15,natural armor,13,d10, 30 ft
-Dhergoloth,Medium,Fiend,yugoloth,NE,7.0,2900,mtf 248,17,10,19,7,10,9,15,natural armor,14,d8, 30 ft
-Draegloth,Large,Fiend,demon,CE,7.0,2900,vgm 141,20,15,18,13,11,11,15,natural armor,13,d10, 30 ft
-Drow Mage,Medium,Humanoid,elf,NE,7.0,2900,mm 129,9,14,10,17,13,12,15,mage armor,10,d8, 30 ft
-Earth Elemental Myrmidon,Medium,Elemental,,N,7.0,2900,mtf 202,18,10,17,8,10,10,18,plate,17,d8, 30 ft
-Fire Elemental Myrmidon,Medium,Elemental,,N,7.0,2900,mtf 203,13,18,15,9,10,10,18,plate,19,d8, 40 ft
-Giant Ape,Huge,Beast,,Unaligned,7.0,2900,mm 323,23,14,18,7,12,7,12,,15,d12," 40 ft, climb 40 ft"
-Grick Alpha,Large,Monstrosity,,N,7.0,2900,mm 173,18,16,15,4,14,9,18,natural armor,10,d10," 30 ft, climb 30 ft"
-Korred,Small,Fey,,CN,7.0,2900,vgm 168,23,14,20,10,15,9,17,natural armor,12,d6," 30 ft, burrow 30 ft"
+Otyugh,Large,Aberration,,N,5.0,1800,mm 248,16,11,19,6,13,6,14,natural armor,12.0,d10,30 ft
+Red Slaad,Large,Aberration,,CN,5.0,1800,mm 276,16,12,16,6,6,7,14,natural armor,11.0,d10,30 ft
+Revenant,Medium,Undead,,N,5.0,1800,mm 259,18,14,18,13,16,18,13,leather armor,16.0,d8,30 ft
+Roper,Large,Monstrosity,,NE,5.0,1800,mm 261,18,8,17,7,16,6,20,natural armor,11.0,d10,"10 ft, climb 10 ft"
+Sahuagin Baron,Large,Humanoid,sahuagin,LE,5.0,1800,mm 264,19,15,16,14,13,17,16,breastplate,9.0,d10,"30 ft, swim 50 ft"
+Salamander,Large,Elemental,,NE,5.0,1800,mm 266,18,14,15,11,10,12,15,natural armor,12.0,d10,30 ft
+Shambling Mound,Large,Plant,,Unaligned,5.0,1800,mm 270,18,8,16,5,10,5,15,natural armor,16.0,d10,"20 ft, swim 20 ft"
+Spawn of Kyuss,Medium,Undead,,CE,5.0,1800,vgm 192,16,11,18,5,7,3,10,,9.0,d8,30 ft
+Star Spawn Mangler,Medium,Aberration,,CE,5.0,1800,mtf 236,8,18,12,11,12,7,14,,13.0,d8,"40 ft, climb 40 ft"
+Swarm of Cranium Rats,Medium,Beast,,LE,5.0,1800,vgm 133,9,14,10,15,11,14,12,,8.0,d8,30 ft
+Tanarukk,Medium,Fiend,"demon, orc",CE,5.0,1800,vgm 186,18,13,20,9,9,9,14,natural armor,10.0,d8,30 ft
+Tlincalli,Large,Monstrosity,,NE,5.0,1800,vgm 193,16,13,16,8,12,8,15,natural armor,10.0,d10,40 ft
+Transmuter,Medium,Humanoid,,Any,5.0,1800,vgm 218,9,14,11,17,12,11,15,mage armor,9.0,d8,30 ft
+Triceratops,Huge,Beast,,Unaligned,5.0,1800,mm 80,22,9,17,2,11,5,13,natural armor,10.0,d12,50 ft
+Troll,Large,Giant,,CE,5.0,1800,mm 291,18,13,20,7,9,7,15,natural armor,8.0,d10,30 ft
+Umber Hulk,Large,Monstrosity,,CE,5.0,1800,mm 292,20,13,16,9,10,10,18,natural armor,11.0,d10,"30 ft, burrow 20 ft"
+Unicorn,Large,Celestial,,LG,5.0,1800,mm 294,18,14,15,11,17,16,12,,9.0,d10,50 ft
+Vampire Spawn,Medium,Undead,,NE,5.0,1800,mm 298,16,16,16,11,10,12,15,natural armor,11.0,d8,30 ft
+Water Elemental,Large,Elemental,,N,5.0,1800,mm 125,18,14,18,5,10,8,14,natural armor,12.0,d10,"30 ft, swim 90 ft"
+Werebear,Medium,Humanoid,"human, shapechanger",NG,5.0,1800,mm 208,19,10,17,11,12,12,"10inhumanoidform,11",natural armor in bear and hybrid form,18.0,d8,"30 ft (40 ft, climb 30 ft in bear or hybrid form)"
+Wood Woad,Medium,Plant,,LN,5.0,1800,vgm 198,18,12,16,10,13,8,18,"natural armor, shield",10.0,d8,"30 ft, climb 30 ft"
+Wraith,Medium,Undead,,NE,5.0,1800,mm 302,6,16,16,12,14,15,13,,9.0,d8,"0 ft, fly 60 ft (hover)"
+Xorn,Medium,Elemental,,N,5.0,1800,mm 304,17,10,22,11,10,11,19,natural armor,7.0,d8,"20 ft, burrow 20 ft"
+Young Remorhaz,Large,Monstrosity,,Unaligned,5.0,1800,mm 258,18,13,17,3,10,4,14,natural armor,11.0,d10,"30 ft, burrow 20 ft"
+Yuan-ti Pit Master,Medium,Monstrosity,"shapechanger, yuan-ti",NE,5.0,1800,vgm 206,16,14,13,14,12,16,14,natural armor,16.0,d8,30 ft
+Annis Hag,Large,Fey,,CE,6.0,2300,vgm 159,21,12,14,13,14,15,17,natural armor,10.0,d10,40 ft
+Bodak,Medium,Undead,,CE,6.0,2300,vgm 127,15,16,15,7,12,12,15,natural armor,9.0,d8,30 ft
+Chasme,Large,Fiend,demon,CE,6.0,2300,mm 57,15,15,12,11,14,10,15,natural armor,13.0,d10,"20 ft, fly 60 ft"
+Chimera,Large,Monstrosity,,CE,6.0,2300,mm 39,19,11,19,3,14,10,14,natural armor,12.0,d10,"30 ft, fly 60 ft"
+Conjurer,Medium,Humanoid,,Any,6.0,2300,vgm 212,9,14,11,17,12,11,15,mage armor,9.0,d8,30 ft
+Cyclops,Huge,Giant,,CN,6.0,2300,mm 45,22,11,20,8,6,10,14,natural armor,12.0,d12,30 ft
+Drider,Large,Monstrosity,,CE,6.0,2300,mm 120,16,16,18,13,14,12,19,natural armor,13.0,d10,"30 ft, climb 30 ft"
+Duergar Warlord,Medium,Humanoid,dwarf,LE,6.0,2300,mtf 192,18,11,17,12,12,14,20,"plate, shield",10.0,d8,25 ft
+Galeb Duhr,Medium,Elemental,,N,6.0,2300,mm 139,20,14,20,11,12,11,16,natural armor,9.0,d8,"15 ft (30 ft when rolling, 60 ft rolling downhill)"
+Gauth,Medium,Aberration,,LE,6.0,2300,vgm 125,10,14,16,15,15,13,15,natural armor,9.0,d8,"0 ft, fly 20 ft (hover)"
+Githzerai Zerth,Medium,Humanoid,gith,LN,6.0,2300,mm 161,13,18,15,16,17,12,17,,13.0,d8,30 ft
+Hobgoblin Warlord,Medium,Humanoid,goblinoid,LE,6.0,2300,mm 187,16,14,16,14,11,15,20,"plate, shield",13.0,d8,30 ft
+Invisible Stalker,Medium,Elemental,,N,6.0,2300,mm 192,16,19,14,10,15,11,14,,16.0,d8,"50 ft, fly 50 ft (hover)"
+Kuo-toa Archpriest,Medium,Humanoid,kuo-toa,NE,6.0,2300,mm 200,16,14,16,13,16,14,13,natural armor,13.0,d8,"30 ft, swim 30 ft"
+Mage,Medium,Humanoid,,,6.0,2300,mm 347,9,14,11,17,12,11,15,mage armor,9.0,d8,30 ft
+Mammoth,Huge,Beast,,Unaligned,6.0,2300,mm 332,24,9,21,3,11,6,13,natural armor,11.0,d12,40 ft
+Medusa,Medium,Monstrosity,,LE,6.0,2300,mm 214,10,15,16,12,13,15,15,natural armor,17.0,d8,30 ft
+Mouth of Grolantor,Huge,Giant,hill giant,CE,6.0,2300,vgm 149,21,10,18,5,7,5,14,natural armor,10.0,d12,50 ft
+Vrock,Large,Fiend,demon,CE,6.0,2300,mm 64,17,15,18,8,13,8,15,natural armor,11.0,d10,"40 ft, fly 60 ft"
+Warlock of the Great Old One,Medium,Humanoid,,Any,6.0,2300,vgm 220,9,14,15,12,12,18,15,mage armor,14.0,d8,30 ft
+White Abishai,Medium,Fiend,devil,LE,6.0,2300,mtf 163,16,11,18,11,12,13,15,natural armor,8.0,d8,"30 ft, fly 40 ft"
+Wyvern,Large,Dragon,,Unaligned,6.0,2300,mm 303,19,10,16,5,12,6,13,natural armor,13.0,d10,"20 ft, fly 80 ft"
+Young Brass Dragon,Large,Dragon,,CG,6.0,2300,mm 105,19,10,17,12,11,15,17,natural armor,13.0,d10,"40 ft, burrow 20 ft, fly 80 ft"
+Young White Dragon,Large,Dragon,,CE,6.0,2300,mm 101,18,10,18,6,11,12,17,natural armor,14.0,d10,"40 ft, burrow 20 ft, fly 80 ft, swim 40 ft"
+Air Elemental Myrmidon,Medium,Elemental,,N,7.0,2900,mtf 202,18,14,14,9,10,10,18,plate,18.0,d8,"30 ft, fly 30 ft (hover)"
+Armanite,Large,Fiend,demon,CE,7.0,2900,mtf 131,21,18,21,8,12,13,16,natural armor,8.0,d10,60 ft
+Bheur Hag,Medium,Fey,,CE,7.0,2900,vgm 160,13,16,14,12,13,16,17,natural armor,14.0,d8,30 ft
+Black Abishai,Medium,Fiend,devil,LE,7.0,2900,mtf 160,14,17,14,13,16,11,15,natural armor,9.0,d8,"30 ft, fly 40 ft"
+Blue Slaad,Large,Aberration,,CN,7.0,2900,mm 276,20,15,18,7,7,9,15,natural armor,13.0,d10,30 ft
+Dhergoloth,Medium,Fiend,yugoloth,NE,7.0,2900,mtf 248,17,10,19,7,10,9,15,natural armor,14.0,d8,30 ft
+Draegloth,Large,Fiend,demon,CE,7.0,2900,vgm 141,20,15,18,13,11,11,15,natural armor,13.0,d10,30 ft
+Drow Mage,Medium,Humanoid,elf,NE,7.0,2900,mm 129,9,14,10,17,13,12,15,mage armor,10.0,d8,30 ft
+Earth Elemental Myrmidon,Medium,Elemental,,N,7.0,2900,mtf 202,18,10,17,8,10,10,18,plate,17.0,d8,30 ft
+Fire Elemental Myrmidon,Medium,Elemental,,N,7.0,2900,mtf 203,13,18,15,9,10,10,18,plate,19.0,d8,40 ft
+Giant Ape,Huge,Beast,,Unaligned,7.0,2900,mm 323,23,14,18,7,12,7,12,,15.0,d12,"40 ft, climb 40 ft"
+Grick Alpha,Large,Monstrosity,,N,7.0,2900,mm 173,18,16,15,4,14,9,18,natural armor,10.0,d10,"30 ft, climb 30 ft"
+Korred,Small,Fey,,CN,7.0,2900,vgm 168,23,14,20,10,15,9,17,natural armor,12.0,d6,"30 ft, burrow 30 ft"
 Lost Sorrowsworn,Medium,Monstrosity,,NE,7.0,2900,mtf 233,0,0,0,0,0,0,,,,,
-Maurezhi,Medium,Fiend,demon,CE,7.0,2900,mtf 133,14,17,12,11,12,15,15,natural armor,16,d8, 30 ft
-Mind Flayer,Medium,Aberration,,LE,7.0,2900,mm 222,11,12,12,19,17,17,15,breastplate,13,d8, 30 ft
-Oni,Large,Giant,,LE,7.0,2900,mm 239,19,11,16,14,12,15,16,chain mail,13,d10," 30 ft, fly 30 ft"
-Shadow Dancer,Medium,Humanoid,elf,N,7.0,2900,mtf 225,12,16,13,11,12,12,15,studded leather,13,d8, 30 ft
-Shield Guardian,Large,Construct,,Unaligned,7.0,2900,mm 271,18,8,18,7,10,3,17,natural armor,15,d10, 30 ft
-Stone Giant,Huge,Giant,,N,7.0,2900,mm 156,23,15,20,10,12,9,17,natural armor,11,d12, 40 ft
-Venom Troll,Large,Giant,,CE,7.0,2900,mtf 245,18,13,20,7,9,7,15,natural armor,9,d10, 30 ft
-Warlock of the Fiend,Medium,Humanoid,,Any,7.0,2900,vgm 219,10,14,15,12,12,18,15,mage armor,12,d8, 30 ft
-Water Elemental Myrmidon,Medium,Elemental,,N,7.0,2900,mtf 203,18,14,15,8,10,10,18,plate,17,d8," 40 ft, swim 40 ft"
-Young Black Dragon,Large,Dragon,,CE,7.0,2900,mm 88,19,14,17,12,11,15,18,natural armor,15,d10," 40 ft, fly 80 ft, swim 40 ft"
-Young Copper Dragon,Large,Dragon,,CG,7.0,2900,mm 111,19,12,17,16,13,15,17,natural armor,14,d10," 40 ft, climb 40 ft, fly 80 ft"
-Yuan-ti Abomination,Large,Monstrosity,"shapechanger, yuan-ti",NE,7.0,2900,mm 308,19,16,17,17,15,18,15,natural armor,15,d10, 40 ft
-Assassin,Medium,Humanoid,,Any non-good,8.0,3900,mm 343,11,16,14,13,11,10,15,studded leather,12,d8, 30 ft
-Blackguard,Medium,Humanoid,,Any non-good,8.0,3900,vgm 211,18,11,18,11,14,15,18,plate,18,d8, 30 ft
-Canoloth,Medium,Fiend,yugoloth,NE,8.0,3900,mtf 247,18,10,17,5,17,12,16,natural armor,16,d8, 50 ft
-Chain Devil,Medium,Fiend,devil,LE,8.0,3900,mm 72,18,15,18,11,12,14,16,natural armor,10,d8, 30 ft
-Cloaker,Large,Aberration,,CN,8.0,3900,mm 41,17,15,12,13,12,14,14,natural armor,12,d10," 10 ft, fly 40 ft"
-Corpse Flower,Large,Plant,,CE,8.0,3900,mtf 127,14,14,16,7,15,3,12,,15,d10," 20 ft, climb 20 ft"
-Deathlock Mastermind,Medium,Undead,,NE,8.0,3900,mtf 129,11,16,12,15,12,17,16,mage armor,20,d8, 30 ft
-Diviner,Medium,Humanoid,,Any,8.0,3900,vgm 213,9,14,11,18,12,11,15,mage armor,15,d8, 30 ft
+Maurezhi,Medium,Fiend,demon,CE,7.0,2900,mtf 133,14,17,12,11,12,15,15,natural armor,16.0,d8,30 ft
+Mind Flayer,Medium,Aberration,,LE,7.0,2900,mm 222,11,12,12,19,17,17,15,breastplate,13.0,d8,30 ft
+Oni,Large,Giant,,LE,7.0,2900,mm 239,19,11,16,14,12,15,16,chain mail,13.0,d10,"30 ft, fly 30 ft"
+Shadow Dancer,Medium,Humanoid,elf,N,7.0,2900,mtf 225,12,16,13,11,12,12,15,studded leather,13.0,d8,30 ft
+Shield Guardian,Large,Construct,,Unaligned,7.0,2900,mm 271,18,8,18,7,10,3,17,natural armor,15.0,d10,30 ft
+Stone Giant,Huge,Giant,,N,7.0,2900,mm 156,23,15,20,10,12,9,17,natural armor,11.0,d12,40 ft
+Venom Troll,Large,Giant,,CE,7.0,2900,mtf 245,18,13,20,7,9,7,15,natural armor,9.0,d10,30 ft
+Warlock of the Fiend,Medium,Humanoid,,Any,7.0,2900,vgm 219,10,14,15,12,12,18,15,mage armor,12.0,d8,30 ft
+Water Elemental Myrmidon,Medium,Elemental,,N,7.0,2900,mtf 203,18,14,15,8,10,10,18,plate,17.0,d8,"40 ft, swim 40 ft"
+Young Black Dragon,Large,Dragon,,CE,7.0,2900,mm 88,19,14,17,12,11,15,18,natural armor,15.0,d10,"40 ft, fly 80 ft, swim 40 ft"
+Young Copper Dragon,Large,Dragon,,CG,7.0,2900,mm 111,19,12,17,16,13,15,17,natural armor,14.0,d10,"40 ft, climb 40 ft, fly 80 ft"
+Yuan-ti Abomination,Large,Monstrosity,"shapechanger, yuan-ti",NE,7.0,2900,mm 308,19,16,17,17,15,18,15,natural armor,15.0,d10,40 ft
+Assassin,Medium,Humanoid,,Any non-good,8.0,3900,mm 343,11,16,14,13,11,10,15,studded leather,12.0,d8,30 ft
+Blackguard,Medium,Humanoid,,Any non-good,8.0,3900,vgm 211,18,11,18,11,14,15,18,plate,18.0,d8,30 ft
+Canoloth,Medium,Fiend,yugoloth,NE,8.0,3900,mtf 247,18,10,17,5,17,12,16,natural armor,16.0,d8,50 ft
+Chain Devil,Medium,Fiend,devil,LE,8.0,3900,mm 72,18,15,18,11,12,14,16,natural armor,10.0,d8,30 ft
+Cloaker,Large,Aberration,,CN,8.0,3900,mm 41,17,15,12,13,12,14,14,natural armor,12.0,d10,"10 ft, fly 40 ft"
+Corpse Flower,Large,Plant,,CE,8.0,3900,mtf 127,14,14,16,7,15,3,12,,15.0,d10,"20 ft, climb 20 ft"
+Deathlock Mastermind,Medium,Undead,,NE,8.0,3900,mtf 129,11,16,12,15,12,17,16,mage armor,20.0,d8,30 ft
+Diviner,Medium,Humanoid,,Any,8.0,3900,vgm 213,9,14,11,18,12,11,15,mage armor,15.0,d8,30 ft
 Drow Priestess of Lolth,Medium,Humanoid,elf,NE,8.0,3900,mm 129,0,0,0,0,0,0,,,,,
-Fomorian,Huge,Giant,,CE,8.0,3900,mm 136,23,10,20,9,14,6,14,natural armor,13,d12, 30 ft
-Frost Giant,Huge,Giant,,NE,8.0,3900,mm 155,23,9,21,9,10,12,15,patchwork armor,12,d12, 40 ft
-Githyanki Knight,Medium,Humanoid,gith,LE,8.0,3900,mm 160,16,14,15,14,14,15,18,plate,14,d8, 30 ft
-Green Slaad,Large,Aberration,shapechanger,CN,8.0,3900,mm 277,18,15,16,11,8,12,16,natural armor,15,d10, 30 ft
-Hezrou,Large,Fiend,demon,CE,8.0,3900,mm 60,19,17,20,5,12,13,16,natural armor,13,d10, 30 ft
-Howler,Large,Fiend,,CE,8.0,3900,mtf 210,17,16,15,5,20,6,16,natural armor,12,d10, 40 ft
-Hydra,Huge,Monstrosity,,Unaligned,8.0,3900,mm 190,20,12,20,2,10,7,15,natural armor,15,d12," 30 ft, swim 30 ft"
+Fomorian,Huge,Giant,,CE,8.0,3900,mm 136,23,10,20,9,14,6,14,natural armor,13.0,d12,30 ft
+Frost Giant,Huge,Giant,,NE,8.0,3900,mm 155,23,9,21,9,10,12,15,patchwork armor,12.0,d12,40 ft
+Githyanki Knight,Medium,Humanoid,gith,LE,8.0,3900,mm 160,16,14,15,14,14,15,18,plate,14.0,d8,30 ft
+Green Slaad,Large,Aberration,shapechanger,CN,8.0,3900,mm 277,18,15,16,11,8,12,16,natural armor,15.0,d10,30 ft
+Hezrou,Large,Fiend,demon,CE,8.0,3900,mm 60,19,17,20,5,12,13,16,natural armor,13.0,d10,30 ft
+Howler,Large,Fiend,,CE,8.0,3900,mtf 210,17,16,15,5,20,6,16,natural armor,12.0,d10,40 ft
+Hydra,Huge,Monstrosity,,Unaligned,8.0,3900,mm 190,20,12,20,2,10,7,15,natural armor,15.0,d12,"30 ft, swim 30 ft"
 Mind Flayer Arcanist,Medium,Aberration,,LE,8.0,3900,mm 222,0,0,0,0,0,0,,,,,
-Shoosuva,Large,Fiend,demon,CE,8.0,3900,vgm 137,18,13,17,7,14,9,14,natural armor,13,d10, 40 ft
-Spirit Naga,Large,Monstrosity,,CE,8.0,3900,mm 234,18,17,14,16,15,16,15,natural armor,10,d10, 40 ft
-Sword Wraith Commander,Medium,Undead,,LE,8.0,3900,mtf 241,18,14,18,11,12,14,18,"breastplate, shield",15,d8, 30 ft
-Tyrannosaurus Rex,Huge,Beast,,Unaligned,8.0,3900,mm 80,25,10,19,2,12,9,13,natural armor,13,d12, 50 ft
-Young Bronze Dragon,Large,Dragon,,LG,8.0,3900,mm 108,21,10,19,14,13,17,18,natural armor,15,d10," 40 ft, fly 80 ft, swim 40 ft"
-Young Green Dragon,Large,Dragon,,LE,8.0,3900,mm 94,19,12,17,16,13,15,18,natural armor,16,d10," 40 ft, fly 80 ft, swim 40 ft"
-Abjurer,Medium,Humanoid,,Any,9.0,5000,vgm 209,9,14,14,18,12,11,,,13,d8, 30 ft
-Abominable Yeti,Huge,Monstrosity,,CE,9.0,5000,mm 306,24,10,22,9,13,9,15,natural armor,11,d12," 40 ft, climb 40 ft"
-Bone Devil,Large,Fiend,devil,LE,9.0,5000,mm 71,18,16,18,13,14,16,19,natural armor,15,d10," 40 ft, fly 40 ft"
-Champion,Medium,Humanoid,,Any,9.0,5000,vgm 212,20,15,14,10,14,12,18,plate,22,d8, 30 ft
-Clay Golem,Large,Construct,,Unaligned,9.0,5000,mm 168,20,9,18,3,8,1,14,natural armor,14,d10, 20 ft
-Cloud Giant,Huge,Giant,,NG or NE,9.0,5000,mm 154,27,10,22,12,16,16,14,natural armor,16,d12, 40 ft
-Drow House Captain,Medium,Humanoid,elf,NE,9.0,5000,mtf 184,14,19,15,12,14,13,16,chain mail,25,d8, 30 ft
-Evoker,Medium,Humanoid,,Any,9.0,5000,vgm 214,9,14,12,17,12,11,15,mage armor,12,d8, 30 ft
-Fire Giant,Huge,Giant,,LE,9.0,5000,mm 154,25,9,23,10,14,13,18,plate,13,d12, 30 ft
-Flind,Medium,Humanoid,gnoll,CE,9.0,5000,vgm 153,20,10,19,11,13,12,16,chain mail,15,d8, 30 ft
-Frost Salamander,Huge,Elemental,,Unaligned,9.0,5000,mtf 223,20,12,18,7,11,7,17,natural armor,16,d12," 60 ft, burrow 40 ft, climb 40 ft"
-Glabrezu,Large,Fiend,demon,CE,9.0,5000,mm 58,20,15,21,19,17,16,17,natural armor,15,d10, 40 ft
-Gloom Weaver,Medium,Humanoid,elf,N,9.0,5000,mtf 224,11,18,14,15,12,18,17,mage armor,16,d8, 30 ft
-Gray Slaad,Medium,Aberration,shapechanger,CN,9.0,5000,mm 277,17,17,16,13,8,14,18,natural armor,17,d8, 30 ft
-Hydroloth,Medium,Fiend,yugoloth,NE,9.0,5000,mtf 249,12,21,16,19,10,14,15,,18,d8," 20 ft, swim 40 ft"
+Shoosuva,Large,Fiend,demon,CE,8.0,3900,vgm 137,18,13,17,7,14,9,14,natural armor,13.0,d10,40 ft
+Spirit Naga,Large,Monstrosity,,CE,8.0,3900,mm 234,18,17,14,16,15,16,15,natural armor,10.0,d10,40 ft
+Sword Wraith Commander,Medium,Undead,,LE,8.0,3900,mtf 241,18,14,18,11,12,14,18,"breastplate, shield",15.0,d8,30 ft
+Tyrannosaurus Rex,Huge,Beast,,Unaligned,8.0,3900,mm 80,25,10,19,2,12,9,13,natural armor,13.0,d12,50 ft
+Young Bronze Dragon,Large,Dragon,,LG,8.0,3900,mm 108,21,10,19,14,13,17,18,natural armor,15.0,d10,"40 ft, fly 80 ft, swim 40 ft"
+Young Green Dragon,Large,Dragon,,LE,8.0,3900,mm 94,19,12,17,16,13,15,18,natural armor,16.0,d10,"40 ft, fly 80 ft, swim 40 ft"
+Abjurer,Medium,Humanoid,,Any,9.0,5000,vgm 209,9,14,14,18,12,11,,,13.0,d8,30 ft
+Abominable Yeti,Huge,Monstrosity,,CE,9.0,5000,mm 306,24,10,22,9,13,9,15,natural armor,11.0,d12,"40 ft, climb 40 ft"
+Bone Devil,Large,Fiend,devil,LE,9.0,5000,mm 71,18,16,18,13,14,16,19,natural armor,15.0,d10,"40 ft, fly 40 ft"
+Champion,Medium,Humanoid,,Any,9.0,5000,vgm 212,20,15,14,10,14,12,18,plate,22.0,d8,30 ft
+Clay Golem,Large,Construct,,Unaligned,9.0,5000,mm 168,20,9,18,3,8,1,14,natural armor,14.0,d10,20 ft
+Cloud Giant,Huge,Giant,,NG or NE,9.0,5000,mm 154,27,10,22,12,16,16,14,natural armor,16.0,d12,40 ft
+Drow House Captain,Medium,Humanoid,elf,NE,9.0,5000,mtf 184,14,19,15,12,14,13,16,chain mail,25.0,d8,30 ft
+Evoker,Medium,Humanoid,,Any,9.0,5000,vgm 214,9,14,12,17,12,11,15,mage armor,12.0,d8,30 ft
+Fire Giant,Huge,Giant,,LE,9.0,5000,mm 154,25,9,23,10,14,13,18,plate,13.0,d12,30 ft
+Flind,Medium,Humanoid,gnoll,CE,9.0,5000,vgm 153,20,10,19,11,13,12,16,chain mail,15.0,d8,30 ft
+Frost Salamander,Huge,Elemental,,Unaligned,9.0,5000,mtf 223,20,12,18,7,11,7,17,natural armor,16.0,d12,"60 ft, burrow 40 ft, climb 40 ft"
+Glabrezu,Large,Fiend,demon,CE,9.0,5000,mm 58,20,15,21,19,17,16,17,natural armor,15.0,d10,40 ft
+Gloom Weaver,Medium,Humanoid,elf,N,9.0,5000,mtf 224,11,18,14,15,12,18,17,mage armor,16.0,d8,30 ft
+Gray Slaad,Medium,Aberration,shapechanger,CN,9.0,5000,mm 277,17,17,16,13,8,14,18,natural armor,17.0,d8,30 ft
+Hydroloth,Medium,Fiend,yugoloth,NE,9.0,5000,mtf 249,12,21,16,19,10,14,15,,18.0,d8,"20 ft, swim 40 ft"
 Lonely Sorrowsworn,Medium,Monstrosity,,NE,9.0,5000,mtf 232,0,0,0,0,0,0,,,,,
-Necromancer,Medium,Humanoid,,Any,9.0,5000,vgm 217,9,14,12,17,12,11,15,mage armor,12,d8, 30 ft
-Nycaloth,Large,Fiend,yugoloth,NE,9.0,5000,mm 314,20,11,19,12,10,15,18,natural armor,13,d10," 40 ft, fly 60 ft"
-Rot Troll,Large,Giant,,CE,9.0,5000,mtf 244,18,13,22,5,8,4,16,natural armor,12,d10, 30 ft
-Treant,Huge,Plant,,CG,9.0,5000,mm 289,23,8,21,12,16,12,16,natural armor,12,d12, 30 ft
-Ulitharid,Large,Aberration,,LE,9.0,5000,vgm 175,15,12,15,21,19,21,15,breastplate,17,d10, 30 ft
-War Priest,Medium,Humanoid,,Any,9.0,5000,vgm 218,16,10,14,11,17,13,18,plate,18,d8, 30 ft
-Young Blue Dragon,Large,Dragon,,LE,9.0,5000,mm 91,21,10,19,14,13,17,18,natural armor,16,d10," 40 ft, burrow 20 ft, fly 80 ft"
-Young Silver Dragon,Large,Dragon,,LG,9.0,5000,mm 118,23,10,21,14,11,19,18,natural armor,16,d10," 40 ft, fly 80 ft"
-Aboleth,Large,Aberration,,LE,10.0,5900,mm 13,21,9,15,18,15,18,17,natural armor,18,d10," 10 ft, swim 40 ft"
-Alhoon,Medium,Undead,,Any evil,10.0,5900,vgm 172,11,12,16,19,17,17,15,natural armor,16,d8, 30 ft
-Autumn Eladrin,Medium,Fey,elf,CN,10.0,5900,mtf 195,12,16,16,14,17,18,19,natural armor,17,d8, 30 ft
-Death Kiss,Large,Aberration,,NE,10.0,5900,vgm 124,18,14,18,10,12,10,16,natural armor,17,d10," 0 ft, fly 30 ft (hover)"
-Death Slaad,Medium,Aberration,shapechanger,CE,10.0,5900,mm 278,20,15,19,15,10,16,18,natural armor,20,d8, 30 ft
-Deva,Medium,Celestial,,LG,10.0,5900,mm 16,18,18,18,17,20,20,17,natural armor,16,d8," 30 ft, fly 90 ft"
-Elder Oblex,Huge,Ooze,,LE,10.0,5900,mtf 219,15,16,21,22,13,18,16,,10,d12, 20 ft
-Froghemoth,Huge,Monstrosity,,Unaligned,10.0,5900,vgm 145,23,13,20,2,12,5,14,natural armor,16,d12," 30 ft, swim 30 ft"
-Githyanki Gish,Medium,Humanoid,gith,LE,10.0,5900,mtf 205,17,15,14,16,15,16,17,half plate,19,d8, 30 ft
+Necromancer,Medium,Humanoid,,Any,9.0,5000,vgm 217,9,14,12,17,12,11,15,mage armor,12.0,d8,30 ft
+Nycaloth,Large,Fiend,yugoloth,NE,9.0,5000,mm 314,20,11,19,12,10,15,18,natural armor,13.0,d10,"40 ft, fly 60 ft"
+Rot Troll,Large,Giant,,CE,9.0,5000,mtf 244,18,13,22,5,8,4,16,natural armor,12.0,d10,30 ft
+Treant,Huge,Plant,,CG,9.0,5000,mm 289,23,8,21,12,16,12,16,natural armor,12.0,d12,30 ft
+Ulitharid,Large,Aberration,,LE,9.0,5000,vgm 175,15,12,15,21,19,21,15,breastplate,17.0,d10,30 ft
+War Priest,Medium,Humanoid,,Any,9.0,5000,vgm 218,16,10,14,11,17,13,18,plate,18.0,d8,30 ft
+Young Blue Dragon,Large,Dragon,,LE,9.0,5000,mm 91,21,10,19,14,13,17,18,natural armor,16.0,d10,"40 ft, burrow 20 ft, fly 80 ft"
+Young Silver Dragon,Large,Dragon,,LG,9.0,5000,mm 118,23,10,21,14,11,19,18,natural armor,16.0,d10,"40 ft, fly 80 ft"
+Aboleth,Large,Aberration,,LE,10.0,5900,mm 13,21,9,15,18,15,18,17,natural armor,18.0,d10,"10 ft, swim 40 ft"
+Alhoon,Medium,Undead,,Any evil,10.0,5900,vgm 172,11,12,16,19,17,17,15,natural armor,16.0,d8,30 ft
+Autumn Eladrin,Medium,Fey,elf,CN,10.0,5900,mtf 195,12,16,16,14,17,18,19,natural armor,17.0,d8,30 ft
+Death Kiss,Large,Aberration,,NE,10.0,5900,vgm 124,18,14,18,10,12,10,16,natural armor,17.0,d10,"0 ft, fly 30 ft (hover)"
+Death Slaad,Medium,Aberration,shapechanger,CE,10.0,5900,mm 278,20,15,19,15,10,16,18,natural armor,20.0,d8,30 ft
+Deva,Medium,Celestial,,LG,10.0,5900,mm 16,18,18,18,17,20,20,17,natural armor,16.0,d8,"30 ft, fly 90 ft"
+Elder Oblex,Huge,Ooze,,LE,10.0,5900,mtf 219,15,16,21,22,13,18,16,,10.0,d12,20 ft
+Froghemoth,Huge,Monstrosity,,Unaligned,10.0,5900,vgm 145,23,13,20,2,12,5,14,natural armor,16.0,d12,"30 ft, swim 30 ft"
+Githyanki Gish,Medium,Humanoid,gith,LE,10.0,5900,mtf 205,17,15,14,16,15,16,17,half plate,19.0,d8,30 ft
 Githzerai Enlightened,Medium,Humanoid,gith,LN,10.0,5900,mtf 208,0,0,0,0,0,0,,,,,
-Guardian Naga,Large,Monstrosity,,LG,10.0,5900,mm 234,19,18,16,16,19,18,18,natural armor,15,d10, 40 ft
-Orthon,Large,Fiend,devil,LE,10.0,5900,mtf 169,22,16,21,15,15,16,17,half plate,10,d10," 30 ft, climb 30 ft"
-Spring Eladrin,Medium,Fey,elf,CN,10.0,5900,mtf 196,14,16,16,18,11,18,19,natural armor,17,d8, 30 ft
-Star Spawn Hulk,Large,Aberration,,CE,10.0,5900,mtf 234,20,8,21,7,12,9,16,natural armor,13,d10, 30 ft
-Stone Giant Dreamwalker,Huge,Giant,stone giant,CN,10.0,5900,vgm 150,23,14,21,10,8,12,18,natural armor,14,d12, 40 ft
-Stone Golem,Large,Construct,,Unaligned,10.0,5900,mm 170,22,9,20,3,11,1,17,natural armor,17,d10, 30 ft
-Summer Eladrin,Medium,Fey,elf,CN,10.0,5900,mtf 196,19,21,16,14,12,18,19,natural armor,17,d8, 50 ft
-Winter Eladrin,Medium,Fey,elf,CN,10.0,5900,mtf 197,11,10,16,18,17,13,19,natural armor,17,d8, 30 ft
-Yochlol,Medium,Fiend,"demon, shapechanger",CE,10.0,5900,mm 65,15,14,18,13,15,15,15,natural armor,16,d8," 30 ft, climb 30 ft"
-Young Gold Dragon,Large,Dragon,,LG,10.0,5900,mm 115,23,14,21,16,13,20,18,natural armor,17,d10," 40 ft, fly 80 ft, swim 40 ft"
-Young Red Dragon,Large,Dragon,,CE,10.0,5900,mm 98,23,10,21,14,11,19,18,natural armor,17,d10," 40 ft, climb 40 ft, fly 80 ft"
-Alkilith,Medium,Fiend,demon,CE,11.0,7200,mtf 130,12,19,22,6,11,7,17,natural armor,15,d8, 40 ft
-Balhannoth,Large,Aberration,,CE,11.0,7200,mtf 118,17,8,18,6,15,8,17,natural armor,12,d10," 25 ft, climb 25 ft"
-Behir,Huge,Monstrosity,,NE,11.0,7200,mm 25,23,16,18,7,14,12,17,natural armor,16,d12," 50 ft, climb 40 ft"
-Cloud Giant Smiling One,Huge,Giant,cloud giant,CN,11.0,7200,vgm 146,26,12,22,15,16,17,15,natural armor,21,d12, 40 ft
-Dao,Large,Elemental,,NE,11.0,7200,mm 143,23,12,24,12,13,14,18,natural armor,15,d10," 30 ft, burrow 30 ft, fly 30 ft"
-Djinni,Large,Elemental,,CG,11.0,7200,mm 144,21,15,22,15,16,20,17,natural armor,14,d10," 30 ft, fly 90 ft"
-Drow Shadowblade,Medium,Humanoid,elf,NE,11.0,7200,mtf 187,14,21,16,12,14,13,17,studded leather,20,d8, 30 ft
-Efreeti,Large,Elemental,,LE,11.0,7200,mm 145,22,12,24,16,15,16,17,natural armor,16,d10," 40 ft, fly 60 ft"
-Gynosphinx,Large,Monstrosity,,LN,11.0,7200,mm 282,18,15,16,18,18,18,17,natural armor,16,d10," 40 ft, fly 60 ft"
-Horned Devil,Large,Fiend,devil,LE,11.0,7200,mm 74,22,17,21,12,16,17,18,natural armor,17,d10," 20 ft, fly 60 ft"
+Guardian Naga,Large,Monstrosity,,LG,10.0,5900,mm 234,19,18,16,16,19,18,18,natural armor,15.0,d10,40 ft
+Orthon,Large,Fiend,devil,LE,10.0,5900,mtf 169,22,16,21,15,15,16,17,half plate,10.0,d10,"30 ft, climb 30 ft"
+Spring Eladrin,Medium,Fey,elf,CN,10.0,5900,mtf 196,14,16,16,18,11,18,19,natural armor,17.0,d8,30 ft
+Star Spawn Hulk,Large,Aberration,,CE,10.0,5900,mtf 234,20,8,21,7,12,9,16,natural armor,13.0,d10,30 ft
+Stone Giant Dreamwalker,Huge,Giant,stone giant,CN,10.0,5900,vgm 150,23,14,21,10,8,12,18,natural armor,14.0,d12,40 ft
+Stone Golem,Large,Construct,,Unaligned,10.0,5900,mm 170,22,9,20,3,11,1,17,natural armor,17.0,d10,30 ft
+Summer Eladrin,Medium,Fey,elf,CN,10.0,5900,mtf 196,19,21,16,14,12,18,19,natural armor,17.0,d8,50 ft
+Winter Eladrin,Medium,Fey,elf,CN,10.0,5900,mtf 197,11,10,16,18,17,13,19,natural armor,17.0,d8,30 ft
+Yochlol,Medium,Fiend,"demon, shapechanger",CE,10.0,5900,mm 65,15,14,18,13,15,15,15,natural armor,16.0,d8,"30 ft, climb 30 ft"
+Young Gold Dragon,Large,Dragon,,LG,10.0,5900,mm 115,23,14,21,16,13,20,18,natural armor,17.0,d10,"40 ft, fly 80 ft, swim 40 ft"
+Young Red Dragon,Large,Dragon,,CE,10.0,5900,mm 98,23,10,21,14,11,19,18,natural armor,17.0,d10,"40 ft, climb 40 ft, fly 80 ft"
+Alkilith,Medium,Fiend,demon,CE,11.0,7200,mtf 130,12,19,22,6,11,7,17,natural armor,15.0,d8,40 ft
+Balhannoth,Large,Aberration,,CE,11.0,7200,mtf 118,17,8,18,6,15,8,17,natural armor,12.0,d10,"25 ft, climb 25 ft"
+Behir,Huge,Monstrosity,,NE,11.0,7200,mm 25,23,16,18,7,14,12,17,natural armor,16.0,d12,"50 ft, climb 40 ft"
+Cloud Giant Smiling One,Huge,Giant,cloud giant,CN,11.0,7200,vgm 146,26,12,22,15,16,17,15,natural armor,21.0,d12,40 ft
+Dao,Large,Elemental,,NE,11.0,7200,mm 143,23,12,24,12,13,14,18,natural armor,15.0,d10,"30 ft, burrow 30 ft, fly 30 ft"
+Djinni,Large,Elemental,,CG,11.0,7200,mm 144,21,15,22,15,16,20,17,natural armor,14.0,d10,"30 ft, fly 90 ft"
+Drow Shadowblade,Medium,Humanoid,elf,NE,11.0,7200,mtf 187,14,21,16,12,14,13,17,studded leather,20.0,d8,30 ft
+Efreeti,Large,Elemental,,LE,11.0,7200,mm 145,22,12,24,16,15,16,17,natural armor,16.0,d10,"40 ft, fly 60 ft"
+Gynosphinx,Large,Monstrosity,,LN,11.0,7200,mm 282,18,15,16,18,18,18,17,natural armor,16.0,d10,"40 ft, fly 60 ft"
+Horned Devil,Large,Fiend,devil,LE,11.0,7200,mm 74,22,17,21,12,16,17,18,natural armor,17.0,d10,"20 ft, fly 60 ft"
 Hungry Sorrowsworn,Medium,Monstrosity,,NE,11.0,7200,mtf 232,0,0,0,0,0,0,,,,,
-Marid,Large,Elemental,,CN,11.0,7200,mm 146,22,12,26,18,17,18,17,natural armor,17,d10," 30 ft, fly 60 ft, swim 90 ft"
-Morkoth,Medium,Aberration,,CE,11.0,7200,vgm 178,14,14,14,20,15,13,17,natural armor,20,d8," 25 ft, swim 50 ft"
-Remorhaz,Huge,Monstrosity,,Unaligned,11.0,7200,mm 258,24,13,21,4,10,5,17,natural armor,17,d12," 30 ft, burrow 20 ft"
-Roc,Gargantuan,Monstrosity,,Unaligned,11.0,7200,mm 260,28,10,20,3,10,9,15,natural armor,16,d20," 20 ft, fly 120 ft"
-Soul Monger,Medium,Humanoid,elf,N,11.0,7200,mtf 226,8,17,14,19,15,13,15,studded leather,19,d8, 30 ft
-Spirit Troll,Large,Giant,,CE,11.0,7200,mtf 244,1,17,13,8,9,16,17,natural armor,15,d10, 30 ft
-Yagnoloth,Large,Fiend,yugoloth,NE,11.0,7200,mtf 252,19,14,21,16,15,18,17,natural armor,14,d10, 40 ft
-Arcanaloth,Medium,Fiend,yugoloth,NE,12.0,8400,mm 313,17,12,14,20,16,17,17,natural armor,16,d8," 30 ft, fly 30 ft"
-Archdruid,Medium,Humanoid,,Any,12.0,8400,vgm 210,10,14,12,12,20,11,16,"hide armor, shield",24,d8, 30 ft
-Archmage,Medium,Humanoid,,Any,12.0,8400,mm 342,10,14,12,20,15,16,15,mage armor,18,d8, 30 ft
-Boneclaw,Large,Undead,,CE,12.0,8400,mtf 121,19,16,15,13,15,9,16,natural armor,17,d10, 40 ft
-Duergar Despot,Medium,Humanoid,dwarf,LE,12.0,8400,mtf 188,20,5,19,15,14,13,21,natural armor,14,d8, 25 ft
-Eidolon,Medium,Undead,,Any,12.0,8400,mtf 194,7,8,9,14,19,16,9,,18,d8," 0 ft, fly 40 ft (hover)"
-Erinyes,Medium,Fiend,devil,LE,12.0,8400,mm 73,18,16,18,14,14,18,18,plate,18,d8," 30 ft, fly 60 ft"
-Frost Giant Everlasting One,Huge,Giant,frost giant,CE,12.0,8400,vgm 148,25,9,24,9,10,12,15,patchwork armor,14,d12, 40 ft
+Marid,Large,Elemental,,CN,11.0,7200,mm 146,22,12,26,18,17,18,17,natural armor,17.0,d10,"30 ft, fly 60 ft, swim 90 ft"
+Morkoth,Medium,Aberration,,CE,11.0,7200,vgm 178,14,14,14,20,15,13,17,natural armor,20.0,d8,"25 ft, swim 50 ft"
+Remorhaz,Huge,Monstrosity,,Unaligned,11.0,7200,mm 258,24,13,21,4,10,5,17,natural armor,17.0,d12,"30 ft, burrow 20 ft"
+Roc,Gargantuan,Monstrosity,,Unaligned,11.0,7200,mm 260,28,10,20,3,10,9,15,natural armor,16.0,d20,"20 ft, fly 120 ft"
+Soul Monger,Medium,Humanoid,elf,N,11.0,7200,mtf 226,8,17,14,19,15,13,15,studded leather,19.0,d8,30 ft
+Spirit Troll,Large,Giant,,CE,11.0,7200,mtf 244,1,17,13,8,9,16,17,natural armor,15.0,d10,30 ft
+Yagnoloth,Large,Fiend,yugoloth,NE,11.0,7200,mtf 252,19,14,21,16,15,18,17,natural armor,14.0,d10,40 ft
+Arcanaloth,Medium,Fiend,yugoloth,NE,12.0,8400,mm 313,17,12,14,20,16,17,17,natural armor,16.0,d8,"30 ft, fly 30 ft"
+Archdruid,Medium,Humanoid,,Any,12.0,8400,vgm 210,10,14,12,12,20,11,16,"hide armor, shield",24.0,d8,30 ft
+Archmage,Medium,Humanoid,,Any,12.0,8400,mm 342,10,14,12,20,15,16,15,mage armor,18.0,d8,30 ft
+Boneclaw,Large,Undead,,CE,12.0,8400,mtf 121,19,16,15,13,15,9,16,natural armor,17.0,d10,40 ft
+Duergar Despot,Medium,Humanoid,dwarf,LE,12.0,8400,mtf 188,20,5,19,15,14,13,21,natural armor,14.0,d8,25 ft
+Eidolon,Medium,Undead,,Any,12.0,8400,mtf 194,7,8,9,14,19,16,9,,18.0,d8,"0 ft, fly 40 ft (hover)"
+Erinyes,Medium,Fiend,devil,LE,12.0,8400,mm 73,18,16,18,14,14,18,18,plate,18.0,d8,"30 ft, fly 60 ft"
+Frost Giant Everlasting One,Huge,Giant,frost giant,CE,12.0,8400,vgm 148,25,9,24,9,10,12,15,patchwork armor,14.0,d12,40 ft
 Githyanki Kith'rak,Medium,Humanoid,gith,LE,12.0,8400,mtf 205,0,0,0,0,0,0,,,,,
-Gray Render,Large,Monstrosity,,CN,12.0,8400,mtf 209,19,13,20,3,6,8,19,natural armor,18,d10, 30 ft
-Ki-rin,Huge,Celestial,,LG,12.0,8400,vgm 163,21,16,16,19,20,20,20,natural armor,16,d12," 60 ft, fly 120 ft (hover)"
+Gray Render,Large,Monstrosity,,CN,12.0,8400,mtf 209,19,13,20,3,6,8,19,natural armor,18.0,d10,30 ft
+Ki-rin,Huge,Celestial,,LG,12.0,8400,vgm 163,21,16,16,19,20,20,20,natural armor,16.0,d12,"60 ft, fly 120 ft (hover)"
 Morkoth (in lair),Medium,Aberration,,CE,12.0,8400,vgm 178,0,0,0,0,0,0,,,,,
-Oinoloth,Medium,Fiend,yugoloth,NE,12.0,8400,mtf 251,19,17,18,17,16,19,17,natural armor,12,d10, 40 ft
-Warlord,Medium,Humanoid,,Any,12.0,8400,vgm 220,20,16,18,12,12,18,18,plate,27,d8, 30 ft
-Yuan-ti Anathema,Huge,Monstrosity,"shapechanger, yuan-ti",NE,12.0,8400,vgm 202,23,13,19,19,17,20,16,natural armor,18,d12," 40 ft, climb 30 ft, swim 30 ft"
-Adult Brass Dragon,Huge,Dragon,,CG,13.0,10000,mm 105,23,10,21,14,13,17,18,natural armor,15,d12," 40 ft, burrow 30 ft, fly 80 ft"
-Adult White Dragon,Huge,Dragon,,CE,13.0,10000,mm 101,22,10,22,8,12,12,18,natural armor,16,d12," 40 ft, burrow 30 ft, fly 80 ft, swim 40 ft"
+Oinoloth,Medium,Fiend,yugoloth,NE,12.0,8400,mtf 251,19,17,18,17,16,19,17,natural armor,12.0,d10,40 ft
+Warlord,Medium,Humanoid,,Any,12.0,8400,vgm 220,20,16,18,12,12,18,18,plate,27.0,d8,30 ft
+Yuan-ti Anathema,Huge,Monstrosity,"shapechanger, yuan-ti",NE,12.0,8400,vgm 202,23,13,19,19,17,20,16,natural armor,18.0,d12,"40 ft, climb 30 ft, swim 30 ft"
+Adult Brass Dragon,Huge,Dragon,,CG,13.0,10000,mm 105,23,10,21,14,13,17,18,natural armor,15.0,d12,"40 ft, burrow 30 ft, fly 80 ft"
+Adult White Dragon,Huge,Dragon,,CE,13.0,10000,mm 101,22,10,22,8,12,12,18,natural armor,16.0,d12,"40 ft, burrow 30 ft, fly 80 ft, swim 40 ft"
 Angry Sorrowsworn,Medium,Monstrosity,,NE,13.0,10000,mtf 231,0,0,0,0,0,0,,,,,
-Beholder,Large,Aberration,,LE,13.0,10000,mm 28,10,14,18,17,15,17,18,natural armor,19,d10," 0 ft, fly 20 ft (hover)"
-Devourer,Large,Fiend,,CE,13.0,10000,vgm 138,20,12,20,13,10,16,16,natural armor,17,d10, 30 ft
-Dire Troll,Huge,Giant,,CE,13.0,10000,mtf 243,22,15,21,9,11,5,15,natural armor,15,d12, 40 ft
-Drow Arachnomancer,Medium,Humanoid,elf,CE,13.0,10000,mtf 182,11,17,14,19,14,16,15,studded leather,25,d8," 30 ft, climb 30 ft"
-Nalfeshnee,Large,Fiend,demon,CE,13.0,10000,mm 62,21,10,22,19,12,15,18,natural armor,16,d10," 20 ft, fly 30 ft"
-Narzugon,Medium,Fiend,devil,LE,13.0,10000,mtf 167,20,10,17,16,14,19,20,"plate, shield",15,d8, 30 ft
-Neothelid,Gargantuan,Aberration,,CE,13.0,10000,vgm 181,27,7,21,3,16,12,16,natural armor,21,d20, 30 ft
-Rakshasa,Medium,Fiend,,LE,13.0,10000,mm 257,14,17,18,13,16,20,16,natural armor,13,d8, 40 ft
-Star Spawn Seer,Medium,Aberration,,NE,13.0,10000,mtf 236,14,12,18,22,19,16,17,natural armor,18,d8, 30 ft
-Storm Giant,Huge,Giant,,CG,13.0,10000,mm 156,29,14,20,16,18,18,16,scale mail,20,d12," 50 ft, swim 50 ft"
-Ultroloth,Medium,Fiend,yugoloth,NE,13.0,10000,mm 314,16,16,18,18,15,19,19,natural armor,18,d8," 30 ft, fly 60 ft"
-Vampire,Medium,Undead,shapechanger,LE,13.0,10000,mm 297,18,18,18,17,15,18,16,natural armor,17,d8, 30 ft
-Wastrilith,Large,Fiend,demon,CE,13.0,10000,mtf 139,19,18,21,19,12,14,18,natural armor,15,d10," 30 ft, swim 80 ft"
-Young Red Shadow Dragon,Large,Dragon,,CE,13.0,10000,mm 85,23,10,21,14,11,19,18,natural armor,17,d10," 40 ft, climb 40 ft, fly 80 ft"
-Adult Black Dragon,Huge,Dragon,,CE,14.0,11500,mm 88,23,14,21,14,13,17,19,natural armor,17,d12," 40 ft, fly 80 ft, swim 40 ft"
-Adult Copper Dragon,Huge,Dragon,,CG,14.0,11500,mm 111,23,12,21,18,15,17,18,natural armor,16,d12," 40 ft, climb 40 ft, fly 80 ft"
+Beholder,Large,Aberration,,LE,13.0,10000,mm 28,10,14,18,17,15,17,18,natural armor,19.0,d10,"0 ft, fly 20 ft (hover)"
+Devourer,Large,Fiend,,CE,13.0,10000,vgm 138,20,12,20,13,10,16,16,natural armor,17.0,d10,30 ft
+Dire Troll,Huge,Giant,,CE,13.0,10000,mtf 243,22,15,21,9,11,5,15,natural armor,15.0,d12,40 ft
+Drow Arachnomancer,Medium,Humanoid,elf,CE,13.0,10000,mtf 182,11,17,14,19,14,16,15,studded leather,25.0,d8,"30 ft, climb 30 ft"
+Nalfeshnee,Large,Fiend,demon,CE,13.0,10000,mm 62,21,10,22,19,12,15,18,natural armor,16.0,d10,"20 ft, fly 30 ft"
+Narzugon,Medium,Fiend,devil,LE,13.0,10000,mtf 167,20,10,17,16,14,19,20,"plate, shield",15.0,d8,30 ft
+Neothelid,Gargantuan,Aberration,,CE,13.0,10000,vgm 181,27,7,21,3,16,12,16,natural armor,21.0,d20,30 ft
+Rakshasa,Medium,Fiend,,LE,13.0,10000,mm 257,14,17,18,13,16,20,16,natural armor,13.0,d8,40 ft
+Star Spawn Seer,Medium,Aberration,,NE,13.0,10000,mtf 236,14,12,18,22,19,16,17,natural armor,18.0,d8,30 ft
+Storm Giant,Huge,Giant,,CG,13.0,10000,mm 156,29,14,20,16,18,18,16,scale mail,20.0,d12,"50 ft, swim 50 ft"
+Ultroloth,Medium,Fiend,yugoloth,NE,13.0,10000,mm 314,16,16,18,18,15,19,19,natural armor,18.0,d8,"30 ft, fly 60 ft"
+Vampire,Medium,Undead,shapechanger,LE,13.0,10000,mm 297,18,18,18,17,15,18,16,natural armor,17.0,d8,30 ft
+Wastrilith,Large,Fiend,demon,CE,13.0,10000,mtf 139,19,18,21,19,12,14,18,natural armor,15.0,d10,"30 ft, swim 80 ft"
+Young Red Shadow Dragon,Large,Dragon,,CE,13.0,10000,mm 85,23,10,21,14,11,19,18,natural armor,17.0,d10,"40 ft, climb 40 ft, fly 80 ft"
+Adult Black Dragon,Huge,Dragon,,CE,14.0,11500,mm 88,23,14,21,14,13,17,19,natural armor,17.0,d12,"40 ft, fly 80 ft, swim 40 ft"
+Adult Copper Dragon,Huge,Dragon,,CG,14.0,11500,mm 111,23,12,21,18,15,17,18,natural armor,16.0,d12,"40 ft, climb 40 ft, fly 80 ft"
 Beholder (in lair),Large,Aberration,,LE,14.0,11500,mm 28,0,0,0,0,0,0,,,,,
-Cadaver Collector,Large,Construct,,LE,14.0,11500,mtf 122,21,14,20,5,11,8,17,natural armor,18,d10, 30 ft
-Death Tyrant,Large,Undead,,LE,14.0,11500,mm 29,10,14,14,19,15,19,19,natural armor,25,d10," 0 ft, fly 20 ft (hover)"
-Drow Inquisitor,Medium,Humanoid,elf,NE,14.0,11500,mtf 184,11,15,14,16,21,20,16,breastplate,22,d8, 30 ft
-Elder Brain,Large,Aberration,,LE,14.0,11500,vgm 174,15,10,20,21,19,24,10,,20,d10," 5 ft, swim 10 ft"
-Fire Giant Dreadnought,Huge,Giant,fire giant,LE,14.0,11500,vgm 147,27,9,23,8,10,11,21,"plate, shields",15,d12, 30 ft
-Githyanki Supreme Commander,Medium,Humanoid,gith,LE,14.0,11500,mtf 206,19,17,18,16,16,18,18,plate,22,d8, 30 ft
-Ice Devil,Large,Fiend,devil,LE,14.0,11500,mm 75,21,14,18,18,15,18,18,natural armor,19,d10, 40 ft
-Retriever,Large,Construct,,LE,14.0,11500,mtf 222,22,16,20,3,11,4,19,natural armor,20,d10," 40 ft, climb 40 ft"
-Adult Bronze Dragon,Huge,Dragon,,LG,15.0,13000,mm 108,25,10,23,16,15,19,19,natural armor,17,d12," 40 ft, fly 80 ft, swim 40 ft"
-Adult Green Dragon,Huge,Dragon,,LE,15.0,13000,mm 94,23,12,21,18,15,17,19,natural armor,18,d12," 40 ft, fly 80 ft, swim 40 ft"
+Cadaver Collector,Large,Construct,,LE,14.0,11500,mtf 122,21,14,20,5,11,8,17,natural armor,18.0,d10,30 ft
+Death Tyrant,Large,Undead,,LE,14.0,11500,mm 29,10,14,14,19,15,19,19,natural armor,25.0,d10,"0 ft, fly 20 ft (hover)"
+Drow Inquisitor,Medium,Humanoid,elf,NE,14.0,11500,mtf 184,11,15,14,16,21,20,16,breastplate,22.0,d8,30 ft
+Elder Brain,Large,Aberration,,LE,14.0,11500,vgm 174,15,10,20,21,19,24,10,,20.0,d10,"5 ft, swim 10 ft"
+Fire Giant Dreadnought,Huge,Giant,fire giant,LE,14.0,11500,vgm 147,27,9,23,8,10,11,21,"plate, shields",15.0,d12,30 ft
+Githyanki Supreme Commander,Medium,Humanoid,gith,LE,14.0,11500,mtf 206,19,17,18,16,16,18,18,plate,22.0,d8,30 ft
+Ice Devil,Large,Fiend,devil,LE,14.0,11500,mm 75,21,14,18,18,15,18,18,natural armor,19.0,d10,40 ft
+Retriever,Large,Construct,,LE,14.0,11500,mtf 222,22,16,20,3,11,4,19,natural armor,20.0,d10,"40 ft, climb 40 ft"
+Adult Bronze Dragon,Huge,Dragon,,LG,15.0,13000,mm 108,25,10,23,16,15,19,19,natural armor,17.0,d12,"40 ft, fly 80 ft, swim 40 ft"
+Adult Green Dragon,Huge,Dragon,,LE,15.0,13000,mm 94,23,12,21,18,15,17,19,natural armor,18.0,d12,"40 ft, fly 80 ft, swim 40 ft"
 Death Tyrant (in lair),Large,Undead,,LE,15.0,13000,mm 29,0,0,0,0,0,0,,,,,
-Green Abishai,Medium,Fiend,devil,LE,15.0,13000,mtf 162,12,17,16,17,12,19,18,natural armor,25,d8," 30 ft, fly 40 ft"
-Mummy Lord,Medium,Undead,,LE,15.0,13000,mm 229,18,10,17,11,18,16,17,natural armor,13,d8, 20 ft
-Nabassu,Medium,Fiend,demon,CE,15.0,13000,mtf 135,22,14,21,14,15,17,18,natural armor,20,d8," 40 ft, fly 60 ft"
-Purple Worm,Gargantuan,Monstrosity,,Unaligned,15.0,13000,mm 255,28,7,22,1,8,4,18,natural armor,15,d20," 50 ft, burrow 30 ft"
-Skull Lord,Medium,Undead,,LE,15.0,13000,mtf 230,14,16,17,16,15,21,18,plate,14,d8, 30 ft
+Green Abishai,Medium,Fiend,devil,LE,15.0,13000,mtf 162,12,17,16,17,12,19,18,natural armor,25.0,d8,"30 ft, fly 40 ft"
+Mummy Lord,Medium,Undead,,LE,15.0,13000,mm 229,18,10,17,11,18,16,17,natural armor,13.0,d8,20 ft
+Nabassu,Medium,Fiend,demon,CE,15.0,13000,mtf 135,22,14,21,14,15,17,18,natural armor,20.0,d8,"40 ft, fly 60 ft"
+Purple Worm,Gargantuan,Monstrosity,,Unaligned,15.0,13000,mm 255,28,7,22,1,8,4,18,natural armor,15.0,d20,"50 ft, burrow 30 ft"
+Skull Lord,Medium,Undead,,LE,15.0,13000,mtf 230,14,16,17,16,15,21,18,plate,14.0,d8,30 ft
 Vampire (spellcaster),Medium,Undead,shapechanger,LE,15.0,13000,mm 297,0,0,0,0,0,0,,,,,
 Vampire (warrior),Medium,Undead,shapechanger,LE,15.0,13000,mm 297,0,0,0,0,0,0,,,,,
-Adult Blue Dragon,Huge,Dragon,,LE,16.0,15000,mm 91,25,10,23,16,15,19,19,natural armor,18,d12," 40 ft, burrow 30 ft, fly 80 ft"
-Adult Silver Dragon,Huge,Dragon,,LG,16.0,15000,mm 117,27,10,25,16,13,21,19,natural armor,18,d12," 40 ft, fly 80 ft"
-Githzerai Anarch,Medium,Humanoid,gith,LN,16.0,15000,mtf 207,16,21,18,18,20,14,20,,17,d8," 30 ft, fly 40 ft (hover)"
-Hellfire Engine,Huge,Construct,,LE,16.0,15000,mtf 165,20,16,24,2,10,1,18,natural armor,16,d12, 40 ft
-Iron Golem,Large,Construct,,Unaligned,16.0,15000,mm 170,24,9,20,3,11,1,20,natural armor,20,d10, 30 ft
-Marilith,Large,Fiend,demon,CE,16.0,15000,mm 61,18,20,20,18,16,20,18,natural armor,18,d10, 40 ft
+Adult Blue Dragon,Huge,Dragon,,LE,16.0,15000,mm 91,25,10,23,16,15,19,19,natural armor,18.0,d12,"40 ft, burrow 30 ft, fly 80 ft"
+Adult Silver Dragon,Huge,Dragon,,LG,16.0,15000,mm 117,27,10,25,16,13,21,19,natural armor,18.0,d12,"40 ft, fly 80 ft"
+Githzerai Anarch,Medium,Humanoid,gith,LN,16.0,15000,mtf 207,16,21,18,18,20,14,20,,17.0,d8,"30 ft, fly 40 ft (hover)"
+Hellfire Engine,Huge,Construct,,LE,16.0,15000,mtf 165,20,16,24,2,10,1,18,natural armor,16.0,d12,40 ft
+Iron Golem,Large,Construct,,Unaligned,16.0,15000,mm 170,24,9,20,3,11,1,20,natural armor,20.0,d10,30 ft
+Marilith,Large,Fiend,demon,CE,16.0,15000,mm 61,18,20,20,18,16,20,18,natural armor,18.0,d10,40 ft
 Mummy Lord (in lair),Medium,Undead,,LE,16.0,15000,mm 229,0,0,0,0,0,0,,,,,
-Phoenix,Gargantuan,Elemental,,N,16.0,15000,mtf 199,19,26,25,2,21,18,18,,10,d20," 20 ft, fly 120 ft"
-Planetar,Large,Celestial,,LG,16.0,15000,mm 17,24,20,24,19,22,25,19,natural armor,16,d10," 40 ft, fly 120 ft"
-Star Spawn Larva Mage,Medium,Aberration,,CE,16.0,15000,mtf 235,17,12,23,18,12,16,16,natural armor,16,d8, 30 ft
-Steel Predator,Large,Construct,,LE,16.0,15000,mtf 239,24,17,22,4,14,6,20,natural armor,18,d10, 40 ft
-Storm Giant Quintessent,Huge,Giant,storm giant,CG,16.0,15000,vgm 151,29,14,20,17,20,19,12,,20,d12," 50 ft, fly 50 ft (hover), swim 50 ft"
-Adult Blue Dracolich,Huge,Undead,,LE,17.0,18000,mm 84,25,10,23,16,15,19,19,natural armor,18,d12," 40 ft, burrow 30 ft, fly 80 ft"
-Adult Gold Dragon,Huge,Dragon,,LG,17.0,18000,mm 114,27,14,25,16,15,24,19,natural armor,19,d12," 40 ft, fly 80 ft, swim 40 ft"
-Adult Red Dragon,Huge,Dragon,,CE,17.0,18000,mm 98,27,10,25,16,13,21,19,natural armor,19,d12," 40 ft, climb 40 ft, fly 80 ft"
-Androsphinx,Large,Monstrosity,,LN,17.0,18000,mm 281,22,10,20,16,18,23,17,natural armor,19,d10," 40 ft, fly 60 ft"
-Blue Abishai,Medium,Fiend,devil,LE,17.0,18000,mtf 161,15,14,17,22,23,18,19,natural armor,26,d8," 30 ft, fly 50 ft"
-Death Knight,Medium,Undead,,CE,17.0,18000,mm 47,20,11,20,12,16,18,20,"plate, shield",19,d8, 30 ft
-Dragon Turtle,Gargantuan,Dragon,,N,17.0,18000,mm 119,25,10,20,10,12,12,20,natural armor,22,d20," 20 ft, swim 40 ft"
-Goristro,Huge,Fiend,demon,CE,17.0,18000,mm 59,25,11,25,6,13,14,19,natural armor,23,d12, 40 ft
-Nagpa,Medium,Humanoid,nagpa,NE,17.0,18000,mtf 215,9,15,12,23,18,21,19,natural armor,34,d8, 30 ft
-Amnizu,Medium,Fiend,devil,LE,18.0,20000,mtf 164,11,13,16,20,12,18,21,natural armor,27,d8," 30 ft, fly 40 ft"
-Demilich,Tiny,Undead,,NE,18.0,20000,mm 48,1,20,10,20,17,20,20,natural armor,32,d4," 0 ft, fly 30 ft (hover)"
-Drow Favored Consort,Medium,Humanoid,elf,NE,18.0,20000,mtf 183,15,20,16,18,15,18,18,mage armor,30,d8, 30 ft
-Sibriex,Huge,Fiend,demon,CE,18.0,20000,mtf 137,10,3,23,25,24,25,19,natural armor,12,d12," 0 ft, fly 20 ft (hover)"
-Balor,Huge,Fiend,demon,CE,19.0,22000,mm 55,26,15,22,20,16,22,19,natural armor,21,d12," 40 ft, fly 80 ft"
-Red Abishai,Medium,Fiend,devil,LE,19.0,22000,mtf 162,23,16,19,14,15,19,22,natural armor,30,d8," 30 ft, fly 50 ft"
+Phoenix,Gargantuan,Elemental,,N,16.0,15000,mtf 199,19,26,25,2,21,18,18,,10.0,d20,"20 ft, fly 120 ft"
+Planetar,Large,Celestial,,LG,16.0,15000,mm 17,24,20,24,19,22,25,19,natural armor,16.0,d10,"40 ft, fly 120 ft"
+Star Spawn Larva Mage,Medium,Aberration,,CE,16.0,15000,mtf 235,17,12,23,18,12,16,16,natural armor,16.0,d8,30 ft
+Steel Predator,Large,Construct,,LE,16.0,15000,mtf 239,24,17,22,4,14,6,20,natural armor,18.0,d10,40 ft
+Storm Giant Quintessent,Huge,Giant,storm giant,CG,16.0,15000,vgm 151,29,14,20,17,20,19,12,,20.0,d12,"50 ft, fly 50 ft (hover), swim 50 ft"
+Adult Blue Dracolich,Huge,Undead,,LE,17.0,18000,mm 84,25,10,23,16,15,19,19,natural armor,18.0,d12,"40 ft, burrow 30 ft, fly 80 ft"
+Adult Gold Dragon,Huge,Dragon,,LG,17.0,18000,mm 114,27,14,25,16,15,24,19,natural armor,19.0,d12,"40 ft, fly 80 ft, swim 40 ft"
+Adult Red Dragon,Huge,Dragon,,CE,17.0,18000,mm 98,27,10,25,16,13,21,19,natural armor,19.0,d12,"40 ft, climb 40 ft, fly 80 ft"
+Androsphinx,Large,Monstrosity,,LN,17.0,18000,mm 281,22,10,20,16,18,23,17,natural armor,19.0,d10,"40 ft, fly 60 ft"
+Blue Abishai,Medium,Fiend,devil,LE,17.0,18000,mtf 161,15,14,17,22,23,18,19,natural armor,26.0,d8,"30 ft, fly 50 ft"
+Death Knight,Medium,Undead,,CE,17.0,18000,mm 47,20,11,20,12,16,18,20,"plate, shield",19.0,d8,30 ft
+Dragon Turtle,Gargantuan,Dragon,,N,17.0,18000,mm 119,25,10,20,10,12,12,20,natural armor,22.0,d20,"20 ft, swim 40 ft"
+Goristro,Huge,Fiend,demon,CE,17.0,18000,mm 59,25,11,25,6,13,14,19,natural armor,23.0,d12,40 ft
+Nagpa,Medium,Humanoid,nagpa,NE,17.0,18000,mtf 215,9,15,12,23,18,21,19,natural armor,34.0,d8,30 ft
+Amnizu,Medium,Fiend,devil,LE,18.0,20000,mtf 164,11,13,16,20,12,18,21,natural armor,27.0,d8,"30 ft, fly 40 ft"
+Demilich,Tiny,Undead,,NE,18.0,20000,mm 48,1,20,10,20,17,20,20,natural armor,32.0,d4,"0 ft, fly 30 ft (hover)"
+Drow Favored Consort,Medium,Humanoid,elf,NE,18.0,20000,mtf 183,15,20,16,18,15,18,18,mage armor,30.0,d8,30 ft
+Sibriex,Huge,Fiend,demon,CE,18.0,20000,mtf 137,10,3,23,25,24,25,19,natural armor,12.0,d12,"0 ft, fly 20 ft (hover)"
+Balor,Huge,Fiend,demon,CE,19.0,22000,mm 55,26,15,22,20,16,22,19,natural armor,21.0,d12,"40 ft, fly 80 ft"
+Red Abishai,Medium,Fiend,devil,LE,19.0,22000,mtf 162,23,16,19,14,15,19,22,natural armor,30.0,d8,"30 ft, fly 50 ft"
 Demilich (in lair),Tiny,Undead,,NE,20.0,24500,mm 48,0,0,0,0,0,0,,,,,
-Ancient Brass Dragon,Gargantuan,Dragon,,CG,20.0,25000,mm 104,27,10,25,16,15,19,20,natural armor,17,d20," 40 ft, burrow 40 ft, fly 80 ft"
-Ancient White Dragon,Gargantuan,Dragon,,CE,20.0,25000,mm 100,26,10,26,10,13,14,20,natural armor,18,d20," 40 ft, burrow 40 ft, fly 80 ft, swim 40 ft"
-Drow Matron Mother,Medium,Humanoid,elf,NE,20.0,25000,mtf 186,12,18,16,17,21,22,17,half plate,35,d8, 30 ft
-Leviathan,Gargantuan,Elemental,,N,20.0,25000,mtf 198,30,24,30,2,18,17,17,,16,d20," 40 ft, swim 120 ft"
-Nightwalker,Huge,Undead,,CE,20.0,25000,mtf 216,22,19,24,6,9,8,14,,22,d12," 40 ft, fly 40 ft"
-Pit Fiend,Large,Fiend,devil,LE,20.0,25000,mm 77,26,14,24,22,18,24,19,natural armor,24,d10," 30 ft, fly 60 ft"
-Ancient Black Dragon,Gargantuan,Dragon,,CE,21.0,33000,mm 87,27,14,25,16,15,19,22,natural armor,21,d20," 40 ft, fly 80 ft, swim 40 ft"
-Ancient Copper Dragon,Gargantuan,Dragon,,CG,21.0,33000,mm 110,27,12,25,20,17,19,21,natural armor,20,d20," 40 ft, climb 40 ft, fly 80 ft"
-Astral Dreadnought,Gargantuan,Monstrosity,titan,Unaligned,21.0,33000,mtf 117,28,7,25,5,14,18,20,natural armor,17,d20," 15 ft, fly 80 ft (hover)"
-Lich,Medium,Undead,,Any evil,21.0,33000,mm 202,11,16,16,20,14,16,17,natural armor,18,d8, 30 ft
-Molydeus,Huge,Fiend,demon,CE,21.0,33000,mtf 134,28,22,25,21,24,24,19,natural armor,16,d12, 40 ft
-Solar,Large,Celestial,,LG,21.0,33000,mm 18,26,22,26,25,25,30,21,natural armor,18,d10," 50 ft, fly 150 ft"
-Ancient Bronze Dragon,Gargantuan,Dragon,,LG,22.0,41000,mm 107,29,10,27,18,17,21,22,natural armor,24,d20," 40 ft, fly 80 ft, swim 40 ft"
-Ancient Green Dragon,Gargantuan,Dragon,,LE,22.0,41000,mm 93,27,12,25,20,17,19,21,natural armor,22,d20," 40 ft, fly 80 ft, swim 40 ft"
+Ancient Brass Dragon,Gargantuan,Dragon,,CG,20.0,25000,mm 104,27,10,25,16,15,19,20,natural armor,17.0,d20,"40 ft, burrow 40 ft, fly 80 ft"
+Ancient White Dragon,Gargantuan,Dragon,,CE,20.0,25000,mm 100,26,10,26,10,13,14,20,natural armor,18.0,d20,"40 ft, burrow 40 ft, fly 80 ft, swim 40 ft"
+Drow Matron Mother,Medium,Humanoid,elf,NE,20.0,25000,mtf 186,12,18,16,17,21,22,17,half plate,35.0,d8,30 ft
+Leviathan,Gargantuan,Elemental,,N,20.0,25000,mtf 198,30,24,30,2,18,17,17,,16.0,d20,"40 ft, swim 120 ft"
+Nightwalker,Huge,Undead,,CE,20.0,25000,mtf 216,22,19,24,6,9,8,14,,22.0,d12,"40 ft, fly 40 ft"
+Pit Fiend,Large,Fiend,devil,LE,20.0,25000,mm 77,26,14,24,22,18,24,19,natural armor,24.0,d10,"30 ft, fly 60 ft"
+Ancient Black Dragon,Gargantuan,Dragon,,CE,21.0,33000,mm 87,27,14,25,16,15,19,22,natural armor,21.0,d20,"40 ft, fly 80 ft, swim 40 ft"
+Ancient Copper Dragon,Gargantuan,Dragon,,CG,21.0,33000,mm 110,27,12,25,20,17,19,21,natural armor,20.0,d20,"40 ft, climb 40 ft, fly 80 ft"
+Astral Dreadnought,Gargantuan,Monstrosity,titan,Unaligned,21.0,33000,mtf 117,28,7,25,5,14,18,20,natural armor,17.0,d20,"15 ft, fly 80 ft (hover)"
+Lich,Medium,Undead,,Any evil,21.0,33000,mm 202,11,16,16,20,14,16,17,natural armor,18.0,d8,30 ft
+Molydeus,Huge,Fiend,demon,CE,21.0,33000,mtf 134,28,22,25,21,24,24,19,natural armor,16.0,d12,40 ft
+Solar,Large,Celestial,,LG,21.0,33000,mm 18,26,22,26,25,25,30,21,natural armor,18.0,d10,"50 ft, fly 150 ft"
+Ancient Bronze Dragon,Gargantuan,Dragon,,LG,22.0,41000,mm 107,29,10,27,18,17,21,22,natural armor,24.0,d20,"40 ft, fly 80 ft, swim 40 ft"
+Ancient Green Dragon,Gargantuan,Dragon,,LE,22.0,41000,mm 93,27,12,25,20,17,19,21,natural armor,22.0,d20,"40 ft, fly 80 ft, swim 40 ft"
 Lich (in lair),Medium,Undead,,Any evil,22.0,41000,mm 202,0,0,0,0,0,0,,,,,
 Mind Flayer Lich,Medium,Undead,,Any evil,22.0,41000,vgm 172,0,0,0,0,0,0,,,,,
-Zaratan,Gargantuan,Elemental,,N,22.0,41000,mtf 201,30,10,30,2,21,18,21,natural armor,15,d20," 40 ft, swim 40 ft"
-Ancient Blue Dragon,Gargantuan,Dragon,,LE,23.0,50000,mm 90,29,10,27,18,17,21,22,natural armor,26,d20," 40 ft, burrow 40 ft, fly 80 ft"
-Ancient Silver Dragon,Gargantuan,Dragon,,LG,23.0,50000,mm 116,30,10,29,18,15,23,22,natural armor,25,d20," 40 ft, fly 80 ft"
-Elder Tempest,Gargantuan,Elemental,,N,23.0,50000,mtf 200,23,28,23,2,21,18,19,,16,d20," 0 ft, fly 120 ft (hover)"
-Empyrean,Huge,Celestial,titan,CG or NE,23.0,50000,mm 130,30,21,30,21,22,27,22,natural armor,19,d12," 50 ft, fly 50 ft, swim 50 ft"
-Kraken,Gargantuan,Monstrosity,titan,CE,23.0,50000,mm 197,30,11,25,22,18,20,18,natural armor,27,d20," 20 ft, swim 60 ft"
-Ancient Gold Dragon,Gargantuan,Dragon,,LG,24.0,62000,mm 113,30,14,29,18,17,28,22,natural armor,28,d20," 40 ft, fly 80 ft, swim 40 ft"
-Ancient Red Dragon,Gargantuan,Dragon,,CE,24.0,62000,mm 97,30,10,29,18,15,23,22,natural armor,28,d20," 40 ft, climb 40 ft, fly 80 ft"
-Marut,Large,Construct,inevitable,LN,25.0,75000,mtf 213,28,12,26,19,15,18,22,natural armor,32,d10," 40 ft, fly 30 ft (hover)"
-Tarrasque,Gargantuan,Monstrosity,titan,Unaligned,30.0,155000,mm 286,30,11,30,3,11,11,25,natural armor,33,d20, 40 ft
+Zaratan,Gargantuan,Elemental,,N,22.0,41000,mtf 201,30,10,30,2,21,18,21,natural armor,15.0,d20,"40 ft, swim 40 ft"
+Ancient Blue Dragon,Gargantuan,Dragon,,LE,23.0,50000,mm 90,29,10,27,18,17,21,22,natural armor,26.0,d20,"40 ft, burrow 40 ft, fly 80 ft"
+Ancient Silver Dragon,Gargantuan,Dragon,,LG,23.0,50000,mm 116,30,10,29,18,15,23,22,natural armor,25.0,d20,"40 ft, fly 80 ft"
+Elder Tempest,Gargantuan,Elemental,,N,23.0,50000,mtf 200,23,28,23,2,21,18,19,,16.0,d20,"0 ft, fly 120 ft (hover)"
+Empyrean,Huge,Celestial,titan,CG or NE,23.0,50000,mm 130,30,21,30,21,22,27,22,natural armor,19.0,d12,"50 ft, fly 50 ft, swim 50 ft"
+Kraken,Gargantuan,Monstrosity,titan,CE,23.0,50000,mm 197,30,11,25,22,18,20,18,natural armor,27.0,d20,"20 ft, swim 60 ft"
+Ancient Gold Dragon,Gargantuan,Dragon,,LG,24.0,62000,mm 113,30,14,29,18,17,28,22,natural armor,28.0,d20,"40 ft, fly 80 ft, swim 40 ft"
+Ancient Red Dragon,Gargantuan,Dragon,,CE,24.0,62000,mm 97,30,10,29,18,15,23,22,natural armor,28.0,d20,"40 ft, climb 40 ft, fly 80 ft"
+Marut,Large,Construct,inevitable,LN,25.0,75000,mtf 213,28,12,26,19,15,18,22,natural armor,32.0,d10,"40 ft, fly 30 ft (hover)"
+Tarrasque,Gargantuan,Monstrosity,titan,Unaligned,30.0,155000,mm 286,30,11,30,3,11,11,25,natural armor,33.0,d20,40 ft

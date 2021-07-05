@@ -12,7 +12,7 @@ import os
 folder = 'html_pages/monsters'
 files = os.listdir(folder)
 
-
+#%%
 # url = 'https://www.aidedd.org/dnd-filters/spells.php'
 
 
@@ -99,19 +99,22 @@ for file in files:
         with open(location, 'r', encoding='utf-8') as thingy:
             stuff = thingy.read()
     soup = BS(stuff,'html.parser')
-    print(creature)
+    # print(creature)
     try:
         score = soup.find_all('div', {'class':'red'})[0]
         score = str(score).split('<svg><polyline points=')[0]
         score = score.replace('<br>','').replace('<br/>','').replace('<','').replace('>','').replace('/','')
         score = score.split('strong')
-        print(score[6])
+        # print(score[6])
         if '(' in score[2]:
             ac = score[2].split('(')[0].replace(' ','')
             ac_source = score[2].split('(')[1].replace(')','').strip(' ')
             if 'mage armor' in ac_source and ac_source.split(' ')[0].strip(' ').isnumeric():
                 ac = int(ac_source.split(' ')[0].strip(' '))
                 ac_source = "mage armor"
+            elif 'eembarkskinem' in ac_source and ac <= 16:
+                ac = 16
+                ac_source = "barkskin"
         else:
             ac = score[2].replace(' ','')
             try:
@@ -123,11 +126,11 @@ for file in files:
         hit_dice_type = score[4].split('(')[1].split('d')[1].split(' ')[0]
         hit_dice_type = 'd'+ hit_dice_type.strip('(').strip(')')
         speed = score[6].replace('div','').replace('.','')
-        print(f"""    ac = {ac}
-    ac_source = {ac_source}
-    hit_dice = {hit_dice}
-    hit_dice_type = {hit_dice_type}
-    speed = {speed}""")
+    #     print(f"""    ac = {ac}
+    # ac_source = {ac_source}
+    # hit_dice = {hit_dice}
+    # hit_dice_type = {hit_dice_type}
+    # speed = {speed}""")
     except:
         score = 'error'
         ac = pd.NA
@@ -177,3 +180,10 @@ df['HitDice'] = df.apply(hitting, axis = 1)
 df['Speed'] = df.apply(speeder, axis = 1)
 # %%
 
+def stripper(x):
+    try:
+        return x.strip(' ')
+    except:
+        return pd.NA
+
+# %%
