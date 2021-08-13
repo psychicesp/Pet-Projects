@@ -1,128 +1,96 @@
-<!doctype html>
-<html amp lang="en">
-
-<head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<script async src="https://cdn.ampproject.org/v0.js"></script>
-	<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-	<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
-
-	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-
-	<style amp-custom>
-		*				{margin:0; padding:0; box-sizing:border-box; -moz-box-sizing: border-box;}
-		html 			{font-size:62.5%;}
-		body			{background:white url("https://www.aidedd.org/themes/simple/images/fond-ph.jpg") repeat;}
-
-		.titre1			{font-size:2.4rem; text-align:center; padding:20px 10px 10px 10px; font-weight:bold;}
-		.titre2			{font-size:1.4rem; text-align:center; padding: 0px 10px 20px 10px;}
-		.warning		{font-size:1.2rem; text-align:center; padding:10px;}
-
-		a 				{color: #B80000; text-decoration: none;}
-		a:hover 		{color: #D80000; border-bottom-style: dashed; border-bottom-width: 1px;}
-
-		.bloc			{width:490px; padding:10px 20px 0px 20px; display:inline-block;
-						 font-family: Georgia, "Times New Roman", serif; font-size:1.2rem; line-height:1.5; text-align:left;}
-		.entete			{break-inside:avoid-column; break-inside:avoid;}
-		.nobloc			{width:100%; display:block}
-		.bloc h1		{padding:0; text-transform:uppercase; letter-spacing:1px; color:#6D0000; font-size:1.4rem; line-height:1; font-weight:bold; break-after:avoid;}
-		.bloc h1:first-letter {font-size:1.8rem;}
-		.trad			{padding:2px 0 0   0; font-family: arial, sans-serif; font-size:1.2rem;}
-
-		.ecole			{padding:2px 0 4px 0; text-align:left;}
-		.description	{padding:4px 0 6px 0; text-align:justify;}
-		.source			{padding-bottom:15px; text-align:left; font-family: arial, sans-serif; font-size:1.1rem;}
-
-		.bloc table		{margin-top:6px; border-spacing:0; font-family: arial, sans-serif; font-size:1.1rem;}
-		.bloc table tr:nth-child(even) {background-color: #e0e0ff;}
-		.bloc table th	{font-weight:bold; vertical-align:bottom}
-		.bloc table td	{vertical-align:top}
-		.bloc table th, .bloc table td	{min-width:40px; padding:2px 6px 2px 4px; text-align:left}
-		.bloc table th.center, .bloc table td.center {text-align:center;}
-		.bloc table td.center {text-align:center;}
-
-		p				{padding:0; margin:9px 0 9px 0;}
-		.center			{text-align:center;}
-		.petit			{font-size:1.1rem; line-height:1.4;}
-		.trespetit 		{font-size:1.0rem; line-height:1.2;}
-
-		.niveau			{width:92%; font-size:1.8rem; font-weight:bold; text-align:center; background-color:#444; color:white;
-						 border:2px solid #444; padding:6px; margin:10px auto 0 auto;}
-		hr 				{visibility:hidden}
-
-		.blocCarte		{display:inline-block; position:relative; width:6.3cm; height:8.8cm; margin:1px 0 0 1px; padding:3px; vertical-align:top; border:5px solid black;
-						 background:white url("https://www.aidedd.org/themes/simple/images/fond-ph.jpg") repeat; overflow:hidden;
-						 font-family: Georgia, "Times New Roman", serif; font-size:1.05rem; line-height:1.2; text-align:left;} 
-		.blocCarteP		{font-size:0.95rem; color:black}
-		.blocCarteTP	{font-size:0.85rem; color:black}
-		.blocCarte h1	{font-size:1.2rem; background-color:#6D0000; color:white; padding:4px 4px 3px 4px;}
-		.blocCarte a	{text-decoration:none; color:black;}
-		.blocCarte .trad 	{display:none}
-		.blocCarte .ecole		{padding:2px 0 4px 0;}
-		.blocCarte .description	{padding:4px 0 0 0;}
-		.blocCarte .source	{position:absolute; bottom:-1px; left:0px; background:black; color:white; width:100%; font-size:.9rem; letter-spacing:0px; padding:5px 0 1px 0}
-
-		.cols2			{column-count:2; width:990px; margin-left:auto; margin-right:auto;}
-		.ads			{display:inline-block; padding:60px 10px 10px 20%; text-align:center; vertical-align:top;}
-		.adsCel			{display:none}
-
-		@media print {
-			html 	{font-size:62.5%;}
-			body	{background-image:none}
-			.cols2	{width:100%}
-			.titre1	{padding-top:0}
-			.bloc	{width:100%; min-width:200px; padding:10px 10px 0 10px; font-size:1.1rem; line-height:1.3;}
-			.bloc a:link, .bloc a:visited, .bloc a:hover {color:#000; text-decoration: none;}
-			.bloc h1				{font-size:1.2rem;}
-			.bloc h1:first-letter 	{font-size:1.6rem;}
-			.ads, .adsCel {display:none}
-			.niveau	{break-before:column; font-size:1.4rem;}
-			hr 		{break-after:column;}
-		}
-
-		@media only screen and (max-device-width:980px) { 
-			html 	{font-size:75%;}
-			.bloc	{width:100%; min-width:auto; padding:3%; line-height:1.5; margin:0;}
-			.ads	{display:none}
-			.adsCel {display:inline-block; width:100%; padding:0;}
-		}
-	</style>
-
-<title>Ceremony - Spell &raquo; Dungeons &amp; Dragons - DnD 5e</title><link rel="alternate" href="https://www.aidedd.org/dnd/sorts.php?vf=ceremonie" hreflang="fr" /><link rel="alternate" href="https://www.aidedd.org/dnd/sorts.php?vo=ceremony" hreflang="en" /><link rel="canonical" href="https://www.aidedd.org/dnd/sorts.php?vo=ceremony" /></head><body><div class="bloc"><div class='entete'><h1>Ceremony</h1><div class="trad">[ <a href="sorts.php?vf=ceremonie">Cérémonie</a> ]</div><div class="ecole"><em>level 1 - abjuration (ritual)</em></div><div><strong>Casting Time</strong>: 1 hour</div><div><strong>Range</strong>: Touch</div><div><strong>Components</strong>: V, S, M (25 gp worth of powdered silver, which the spell consumes)</div><div><strong>Duration</strong>: Instantaneous</div></div><p class="warning">This spell's description is not available.</p><div class="source"><a href="https://www.aidedd.org/dnd-filters/spells.php">DnD 5e Spells</a> &rsaquo; Xanathar´s Guide to Everything&nbsp;; Cleric&nbsp;; Paladin</div></div>	<amp-analytics type="gtag" data-credentials="include">
-	<script type="application/json">
-	{
-		"vars" : {
-			"gtag_id": "UA-346920-5",
-			"config" : {
-				"UA-346920-5": { "groups": "default" }
-			}
-		}
-	}
-	</script>
-	</amp-analytics>
-
-	<div class="ads">
-		<amp-ad 
-			layout="fixed"
-			width=336
-			height=280
-			type="adsense"
-			data-ad-client="ca-pub-5355421917378265"
-			data-ad-slot="8650354676">
-		</amp-ad>
-	</div>
-	<div class="adsCel">
-		<amp-ad 
-			width="100vw"
-			height=320
-			type="adsense"
-			data-ad-client="ca-pub-5355421917378265"
-			data-ad-slot="8650354676"
-			data-auto-format="rspv"
-			data-full-width>
-		</amp-ad>
-	</div>
-</body>
-</html>
+(b'<table class="stats" id="pagecontent"><tr><th class="border" colspan="6"></t'
+ b'h></tr>\n<tr>\n<th \'="" class="rnd-name" colspan="6" data-hash="ceremony_x'
+ b'ge" data-page="spells.html" data-source="XGE">\n<div class="name-inner">\n'
+ b'<div class="flex-v-center">\n<h1 class="stats-name copyable m-0" onclick='
+ b'"Renderer.utils._pHandleNameClick(this)" onmousedown="event.preventDefault()'
+ b'">Ceremony</h1>\n</div>\n<div class="stats-source flex-v-baseline">\n<a cla'
+ b'ss="help-subtle sourceXGE" href="book.html#xge,page:151" title="Xanathar'
+ b'\xe2\x80\x99s Guide to Everything">XGE</a>\n<a class="rd__stats-name-page '
+ b'ml-1" href="book.html#xge,page:151" title="Page 151">p151</a>\n</div>\n</d'
+ b'iv>\n</th>\n</tr>\n<tr><td class="rd-spell__level-school-ritual" colspan="6'
+ b'"><span>1st-level abjuration (ritual)</span></td></tr>\n<tr><td colspan="'
+ b'6"><span class="bold">Casting Time: </span>1 hour</td></tr>\n<tr><td cols'
+ b'pan="6"><span class="bold">Range: </span>Touch</td></tr>\n<tr><td colspan'
+ b'="6"><span class="bold">Components: </span>V, S, M (25 gp worth of powdered '
+ b'silver, which the spell consumes)</td></tr>\n<tr><td colspan="6"><span cl'
+ b'ass="bold">Duration: </span>Instantaneous</td></tr>\n<tr><td class="divid'
+ b'er" colspan="6"><div></div></td></tr>\n<tr class="text"><td class="text" '
+ b'colspan="6"><div class="rd__b rd__b--2"><p>You perform a special religious c'
+ b'eremony that is infused with magic. When you cast the spell, choose one of t'
+ b'he following rites, the target of which must be within 10 feet of you throug'
+ b'hout the casting.</p><div class="rd__b rd__b--3"><span class="rd__h rd__h--3'
+ b'" data-title-index="41"> <span class="entry-title-inner help-subtle">Atoneme'
+ b'nt.</span></span> <p>You touch one willing creature whose alignment has chan'
+ b'ged, and you make a DC 20 Wisdom (<span class="help help--hover" onmouseleav'
+ b'e="Renderer.hover.handlePredefinedMouseLeave(event, this)" onmousemove="Rend'
+ b'erer.hover.handlePredefinedMouseMove(event, this)" onmouseover="Renderer.hov'
+ b'er.handlePredefinedMouseOver(event, this, 4, {})" ontouchstart="Renderer.hov'
+ b'er.handleTouchStart(event, this)">Insight</span>) check. On a successful che'
+ b'ck, you restore the target to its original alignment.</p><div class="rd__spc'
+ b'-inline-post"></div></div><div class="rd__b rd__b--3"><span class="rd__h rd_'
+ b'_h--3" data-title-index="42"> <span class="entry-title-inner help-subtle">Bl'
+ b'ess Water.</span></span> <p>You touch one <a data-vet-hash="vial_phb" data-v'
+ b'et-page="items.html" data-vet-source="phb" href="items.html#vial_phb" onmous'
+ b'eleave="Renderer.hover.handleLinkMouseLeave(event, this)" onmousemove="Rende'
+ b'rer.hover.handleLinkMouseMove(event, this)" onmouseover="Renderer.hover.pHan'
+ b'dleLinkMouseOver(event, this)" ontouchstart="Renderer.hover.handleTouchStart'
+ b'(event, this)">vial</a> of water and cause it to become <a data-vet-hash="ho'
+ b'ly%20water%20(flask)_phb" data-vet-page="items.html" data-vet-source="phb" h'
+ b'ref="items.html#holy%20water%20(flask)_phb" onmouseleave="Renderer.hover.han'
+ b'dleLinkMouseLeave(event, this)" onmousemove="Renderer.hover.handleLinkMouseM'
+ b'ove(event, this)" onmouseover="Renderer.hover.pHandleLinkMouseOver(event, th'
+ b'is)" ontouchstart="Renderer.hover.handleTouchStart(event, this)">holy water<'
+ b'/a>.</p><div class="rd__spc-inline-post"></div></div><div class="rd__b rd__b'
+ b'--3"><span class="rd__h rd__h--3" data-title-index="43"> <span class="entry-'
+ b'title-inner help-subtle">Coming of Age.</span></span> <p>You touch one human'
+ b'oid who is a young adult. For the next 24 hours, whenever the target makes a'
+ b'n ability check, it can roll a <span class="roller render-roller" data-packe'
+ b'd-dice=\'{"type":"dice","rollable":true,"toRoll":"d4"}\' onmousedown="even'
+ b't.preventDefault()" title="Click to roll. SHIFT/CTRL to roll twice.">d4</spa'
+ b'n> and add the number rolled to the ability check. A creature can benefit fr'
+ b'om this rite only once.</p><div class="rd__spc-inline-post"></div></div><div'
+ b' class="rd__b rd__b--3"><span class="rd__h rd__h--3" data-title-index="44"> '
+ b'<span class="entry-title-inner help-subtle">Dedication.</span></span> <p>You'
+ b" touch one humanoid who wishes to be dedicated to your god's service. For th"
+ b'e next 24 hours, whenever the target makes a saving throw, it can roll a <sp'
+ b'an class="roller render-roller" data-packed-dice=\'{"type":"dice","rollab'
+ b'le":true,"toRoll":"d4"}\' onmousedown="event.preventDefault()" title="Cli'
+ b'ck to roll. SHIFT/CTRL to roll twice.">d4</span> and add the number rolled t'
+ b'o the save. A creature can benefit from this rite only once.</p><div class="'
+ b'rd__spc-inline-post"></div></div><div class="rd__b rd__b--3"><span class="rd'
+ b'__h rd__h--3" data-title-index="45"> <span class="entry-title-inner help-sub'
+ b'tle">Funeral Rite.</span></span> <p>You touch one corpse, and for the next 7'
+ b" days, the target can't become undead by any means short of a <a data-vet-ha"
+ b'sh="wish_phb" data-vet-page="spells.html" data-vet-source="PHB" href="spells'
+ b'.html#wish_phb" onmouseleave="Renderer.hover.handleLinkMouseLeave(event, thi'
+ b's)" onmousemove="Renderer.hover.handleLinkMouseMove(event, this)" onmouseove'
+ b'r="Renderer.hover.pHandleLinkMouseOver(event, this)" ontouchstart="Renderer.'
+ b'hover.handleTouchStart(event, this)">wish</a> spell.</p><div class="rd__spc-'
+ b'inline-post"></div></div><div class="rd__b rd__b--3"><span class="rd__h rd__'
+ b'h--3" data-title-index="46"> <span class="entry-title-inner help-subtle">Wed'
+ b'ding.</span></span> <p>You touch adult humanoids willing to be bonded togeth'
+ b'er in marriage. For the next 7 days, each target gains a +2 bonus to AC whil'
+ b'e they are within 30 feet of each other. A creature can benefit from this ri'
+ b'te again only if widowed.</p><div class="rd__spc-inline-post"></div></div></'
+ b'div></td></tr><tr class="text"><td colspan="6"><div><span class="bold">Class'
+ b'es: </span><a href="classes.html#cleric_phb" title="Source: Player\xe2\x80'
+ b'\x99s Handbook">Cleric</a>, <a href="classes.html#paladin_phb" title="Sourc'
+ b'e: Player\xe2\x80\x99s Handbook">Paladin</a></div><div><span class="bold"'
+ b'>Subclasses: </span><a class="italic" href="classes.html#sorcerer_phb,state:'
+ b'sub-divine-soul-xge=b1" title="Source: Xanathar\xe2\x80\x99s Guide to Eve'
+ b'rything">Divine Soul</a> <a href="classes.html#sorcerer_phb" title="Source: '
+ b'Player\xe2\x80\x99s Handbook">Sorcerer</a></div><div class="text-muted"><'
+ b'span class="bold">Subclasses (legacy): </span><a class="italic" href="classe'
+ b's.html#sorcerer_phb,state:sub-favored-soul-v2-ua-uas=b1" title="Source: Unea'
+ b'rthed Arcana: Sorcerer">Favored Soul v2 (UA)</a> <a href="classes.html#sorce'
+ b'rer_phb" title="Source: Player\xe2\x80\x99s Handbook">Sorcerer</a>, <a cl'
+ b'ass="italic" href="classes.html#sorcerer_phb,state:sub-favored-soul-v3-ua-ua'
+ b'rsc=b1" title="Source: Unearthed Arcana: Revised Subclasses">Favored Soul v3'
+ b' (UA)</a> <a href="classes.html#sorcerer_phb" title="Source: Player\xe2'
+ b'\x80\x99s Handbook">Sorcerer</a></div><div class="text-muted"><span class='
+ b'"bold">Optional/Variant Classes (legacy): </span><a href="classes.html#druid'
+ b'_phb" title="Class source: Player\xe2\x80\x99s Handbook. Spell list defin'
+ b'ed in: Unearthed Arcana: Class Feature Variants.">Druid</a></div></td></'
+ b'tr>\n<tr><td colspan="6"><b>Source:</b> <i title="Xanathar\xe2\x80\x99s Gu'
+ b'ide to Everything">XGE</i>, page 151</td></tr>\n<tr><th class="border" co'
+ b'lspan="6"></th></tr></table>')

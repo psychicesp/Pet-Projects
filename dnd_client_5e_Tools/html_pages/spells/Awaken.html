@@ -1,130 +1,77 @@
-<!doctype html>
-<html amp lang="en">
-
-<head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<script async src="https://cdn.ampproject.org/v0.js"></script>
-	<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-	<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
-
-	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-
-	<style amp-custom>
-		*				{margin:0; padding:0; box-sizing:border-box; -moz-box-sizing: border-box;}
-		html 			{font-size:62.5%;}
-		body			{background:white url("https://www.aidedd.org/themes/simple/images/fond-ph.jpg") repeat;}
-
-		.titre1			{font-size:2.4rem; text-align:center; padding:20px 10px 10px 10px; font-weight:bold;}
-		.titre2			{font-size:1.4rem; text-align:center; padding: 0px 10px 20px 10px;}
-		.warning		{font-size:1.2rem; text-align:center; padding:10px;}
-
-		a 				{color: #B80000; text-decoration: none;}
-		a:hover 		{color: #D80000; border-bottom-style: dashed; border-bottom-width: 1px;}
-
-		.bloc			{width:490px; padding:10px 20px 0px 20px; display:inline-block;
-						 font-family: Georgia, "Times New Roman", serif; font-size:1.2rem; line-height:1.5; text-align:left;}
-		.entete			{break-inside:avoid-column; break-inside:avoid;}
-		.nobloc			{width:100%; display:block}
-		.bloc h1		{padding:0; text-transform:uppercase; letter-spacing:1px; color:#6D0000; font-size:1.4rem; line-height:1; font-weight:bold; break-after:avoid;}
-		.bloc h1:first-letter {font-size:1.8rem;}
-		.trad			{padding:2px 0 0   0; font-family: arial, sans-serif; font-size:1.2rem;}
-
-		.ecole			{padding:2px 0 4px 0; text-align:left;}
-		.description	{padding:4px 0 6px 0; text-align:justify;}
-		.source			{padding-bottom:15px; text-align:left; font-family: arial, sans-serif; font-size:1.1rem;}
-
-		.bloc table		{margin-top:6px; border-spacing:0; font-family: arial, sans-serif; font-size:1.1rem;}
-		.bloc table tr:nth-child(even) {background-color: #e0e0ff;}
-		.bloc table th	{font-weight:bold; vertical-align:bottom}
-		.bloc table td	{vertical-align:top}
-		.bloc table th, .bloc table td	{min-width:40px; padding:2px 6px 2px 4px; text-align:left}
-		.bloc table th.center, .bloc table td.center {text-align:center;}
-		.bloc table td.center {text-align:center;}
-
-		p				{padding:0; margin:9px 0 9px 0;}
-		.center			{text-align:center;}
-		.petit			{font-size:1.1rem; line-height:1.4;}
-		.trespetit 		{font-size:1.0rem; line-height:1.2;}
-
-		.niveau			{width:92%; font-size:1.8rem; font-weight:bold; text-align:center; background-color:#444; color:white;
-						 border:2px solid #444; padding:6px; margin:10px auto 0 auto;}
-		hr 				{visibility:hidden}
-
-		.blocCarte		{display:inline-block; position:relative; width:6.3cm; height:8.8cm; margin:1px 0 0 1px; padding:3px; vertical-align:top; border:5px solid black;
-						 background:white url("https://www.aidedd.org/themes/simple/images/fond-ph.jpg") repeat; overflow:hidden;
-						 font-family: Georgia, "Times New Roman", serif; font-size:1.05rem; line-height:1.2; text-align:left;} 
-		.blocCarteP		{font-size:0.95rem; color:black}
-		.blocCarteTP	{font-size:0.85rem; color:black}
-		.blocCarte h1	{font-size:1.2rem; background-color:#6D0000; color:white; padding:4px 4px 3px 4px;}
-		.blocCarte a	{text-decoration:none; color:black;}
-		.blocCarte .trad 	{display:none}
-		.blocCarte .ecole		{padding:2px 0 4px 0;}
-		.blocCarte .description	{padding:4px 0 0 0;}
-		.blocCarte .source	{position:absolute; bottom:-1px; left:0px; background:black; color:white; width:100%; font-size:.9rem; letter-spacing:0px; padding:5px 0 1px 0}
-
-		.cols2			{column-count:2; width:990px; margin-left:auto; margin-right:auto;}
-		.ads			{display:inline-block; padding:60px 10px 10px 20%; text-align:center; vertical-align:top;}
-		.adsCel			{display:none}
-
-		@media print {
-			html 	{font-size:62.5%;}
-			body	{background-image:none}
-			.cols2	{width:100%}
-			.titre1	{padding-top:0}
-			.bloc	{width:100%; min-width:200px; padding:10px 10px 0 10px; font-size:1.1rem; line-height:1.3;}
-			.bloc a:link, .bloc a:visited, .bloc a:hover {color:#000; text-decoration: none;}
-			.bloc h1				{font-size:1.2rem;}
-			.bloc h1:first-letter 	{font-size:1.6rem;}
-			.ads, .adsCel {display:none}
-			.niveau	{break-before:column; font-size:1.4rem;}
-			hr 		{break-after:column;}
-		}
-
-		@media only screen and (max-device-width:980px) { 
-			html 	{font-size:75%;}
-			.bloc	{width:100%; min-width:auto; padding:3%; line-height:1.5; margin:0;}
-			.ads	{display:none}
-			.adsCel {display:inline-block; width:100%; padding:0;}
-		}
-	</style>
-
-<title>Awaken - Spell &raquo; Dungeons &amp; Dragons - DnD 5e</title><link rel="alternate" href="https://www.aidedd.org/dnd/sorts.php?vf=eveil" hreflang="fr" /><link rel="alternate" href="https://www.aidedd.org/dnd/sorts.php?vo=awaken" hreflang="en" /><link rel="canonical" href="https://www.aidedd.org/dnd/sorts.php?vo=awaken" /></head><body><div class="bloc"><div class='entete'><h1>Awaken</h1><div class="trad">[ <a href="sorts.php?vf=eveil">Éveil</a> ]</div><div class="ecole"><em>level 5 - transmutation</em></div><div><strong>Casting Time</strong>: 8 hours</div><div><strong>Range</strong>: Touch</div><div><strong>Components</strong>: V, S, M (an agate worth at least 1,000 gp, which the spell consumes)</div><div><strong>Duration</strong>: Instantaneous</div></div><div class="description ">After spending the casting time tracing magical pathways within a precious gemstone, you touch a Huge or smaller beast or plant. The target must have either no Intelligence score or an Intelligence of 3 or less. The target gains an Intelligence of 10. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human's. Your DM chooses statistics appropriate for the awakened plant, such as the statistics for the <a href="https://www.aidedd.org/dnd/monstres.php?vo=awakened-shrub">awakened shrub</a> or the <a href="https://www.aidedd.org/dnd/monstres.php?vo=awakened-tree">awakened tree</a>.
-<br />The awakened beast or plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
-<br /></div><div class="source"><a href="https://www.aidedd.org/dnd-filters/spells.php">DnD 5e Spells</a> &rsaquo; Player´s Handbook (SRD)&nbsp;; Bard&nbsp;; Druid</div></div>	<amp-analytics type="gtag" data-credentials="include">
-	<script type="application/json">
-	{
-		"vars" : {
-			"gtag_id": "UA-346920-5",
-			"config" : {
-				"UA-346920-5": { "groups": "default" }
-			}
-		}
-	}
-	</script>
-	</amp-analytics>
-
-	<div class="ads">
-		<amp-ad 
-			layout="fixed"
-			width=336
-			height=280
-			type="adsense"
-			data-ad-client="ca-pub-5355421917378265"
-			data-ad-slot="8650354676">
-		</amp-ad>
-	</div>
-	<div class="adsCel">
-		<amp-ad 
-			width="100vw"
-			height=320
-			type="adsense"
-			data-ad-client="ca-pub-5355421917378265"
-			data-ad-slot="8650354676"
-			data-auto-format="rspv"
-			data-full-width>
-		</amp-ad>
-	</div>
-</body>
-</html>
+(b'<table class="stats" id="pagecontent"><tr><th class="border" colspan="6"></t'
+ b'h></tr>\n<tr>\n<th \'="" class="rnd-name" colspan="6" data-hash="awaken_phb'
+ b'" data-page="spells.html" data-source="PHB">\n<div class="name-inner">\n<d'
+ b'iv class="flex-v-center">\n<h1 class="stats-name copyable m-0" onclick="R'
+ b'enderer.utils._pHandleNameClick(this)" onmousedown="event.preventDefault()">'
+ b'Awaken</h1>\n</div>\n<div class="stats-source flex-v-baseline">\n<a class="'
+ b'help-subtle sourcePHB" href="book.html#phb,page:216" title="Player\xe2\x80'
+ b'\x99s Handbook">PHB</a>\n<a class="rd__stats-name-page ml-1" href="book.html'
+ b'#phb,page:216" title="Page 216">p216</a>\n</div>\n</div>\n</th>\n</tr>\n<'
+ b'tr><td class="rd-spell__level-school-ritual" colspan="6"><span>5th-level tra'
+ b'nsmutation</span></td></tr>\n<tr><td colspan="6"><span class="bold">Casti'
+ b'ng Time: </span>8 hours</td></tr>\n<tr><td colspan="6"><span class="bold"'
+ b'>Range: </span>Touch</td></tr>\n<tr><td colspan="6"><span class="bold">Co'
+ b'mponents: </span>V, S, M (an agate worth at least 1,000 gp, which the spell '
+ b'consumes)</td></tr>\n<tr><td colspan="6"><span class="bold">Duration: </s'
+ b'pan>Instantaneous</td></tr>\n<tr><td class="divider" colspan="6"><div></d'
+ b'iv></td></tr>\n<tr class="text"><td class="text" colspan="6"><div class="'
+ b'rd__b rd__b--2"><p>After spending the casting time tracing magical pathways '
+ b'within a precious gemstone, you touch a Huge or smaller beast or plant. The '
+ b'target must have either no Intelligence score or an Intelligence of 3 or les'
+ b's. The target gains an Intelligence of 10. The target also gains the ability'
+ b' to speak one language you know. If the target is a plant, it gains the abil'
+ b'ity to move its limbs, roots, vines, creepers, and so forth, and it gains se'
+ b"nses similar to a human's. Your DM chooses statistics appropriate for the aw"
+ b'akened plant, such as the statistics for the <a data-vet-hash="awakened%20sh'
+ b'rub_mm" data-vet-page="bestiary.html" data-vet-source="MM" href="bestiary.ht'
+ b'ml#awakened%20shrub_mm" onmouseleave="Renderer.hover.handleLinkMouseLeave(ev'
+ b'ent, this)" onmousemove="Renderer.hover.handleLinkMouseMove(event, this)" on'
+ b'mouseover="Renderer.hover.pHandleLinkMouseOver(event, this)" ontouchstart="R'
+ b'enderer.hover.handleTouchStart(event, this)">awakened shrub</a> or the <a da'
+ b'ta-vet-hash="awakened%20tree_mm" data-vet-page="bestiary.html" data-vet-sour'
+ b'ce="MM" href="bestiary.html#awakened%20tree_mm" onmouseleave="Renderer.hover'
+ b'.handleLinkMouseLeave(event, this)" onmousemove="Renderer.hover.handleLinkMo'
+ b'useMove(event, this)" onmouseover="Renderer.hover.pHandleLinkMouseOver(event'
+ b', this)" ontouchstart="Renderer.hover.handleTouchStart(event, this)">awakene'
+ b'd tree</a>.</p><p>The awakened beast or plant is <a data-vet-hash="charmed_p'
+ b'hb" data-vet-page="conditionsdiseases.html" data-vet-source="PHB" href="cond'
+ b'itionsdiseases.html#charmed_phb" onmouseleave="Renderer.hover.handleLinkMous'
+ b'eLeave(event, this)" onmousemove="Renderer.hover.handleLinkMouseMove(event, '
+ b'this)" onmouseover="Renderer.hover.pHandleLinkMouseOver(event, this)" ontouc'
+ b'hstart="Renderer.hover.handleTouchStart(event, this)">charmed</a> by you for'
+ b' 30 days or until you or your companions do anything harmful to it. When the'
+ b' <a data-vet-hash="charmed_phb" data-vet-page="conditionsdiseases.html" data'
+ b'-vet-source="PHB" href="conditionsdiseases.html#charmed_phb" onmouseleave="R'
+ b'enderer.hover.handleLinkMouseLeave(event, this)" onmousemove="Renderer.hover'
+ b'.handleLinkMouseMove(event, this)" onmouseover="Renderer.hover.pHandleLinkMo'
+ b'useOver(event, this)" ontouchstart="Renderer.hover.handleTouchStart(event, t'
+ b'his)">charmed</a> condition ends, the awakened creature chooses whether to r'
+ b'emain friendly to you, based on how you treated it while it was <a data-vet-'
+ b'hash="charmed_phb" data-vet-page="conditionsdiseases.html" data-vet-source="'
+ b'PHB" href="conditionsdiseases.html#charmed_phb" onmouseleave="Renderer.hover'
+ b'.handleLinkMouseLeave(event, this)" onmousemove="Renderer.hover.handleLinkMo'
+ b'useMove(event, this)" onmouseover="Renderer.hover.pHandleLinkMouseOver(event'
+ b', this)" ontouchstart="Renderer.hover.handleTouchStart(event, this)">charmed'
+ b'</a>.</p></div></td></tr><tr class="text"><td colspan="6"><div><span class="'
+ b'bold">Classes: </span><a href="classes.html#bard_phb" title="Source: Pla'
+ b'yer\xe2\x80\x99s Handbook">Bard</a>, <a href="classes.html#druid_phb" tit'
+ b'le="Source: Player\xe2\x80\x99s Handbook">Druid</a></div><div class="text'
+ b'-muted"><span class="bold">Optional/Variant Classes (legacy): </span><a href'
+ b'="classes.html#ranger_phb" title="Class source: Player\xe2\x80\x99s Handb'
+ b'ook. Spell list defined in: Unearthed Arcana: Class Feature Variants.">Range'
+ b'r</a></div><div><span class="bold">Races: </span><a data-vet-hash="human%20('
+ b'mark%20of%20handling)_erlw" data-vet-page="races.html" data-vet-source="ERLW'
+ b'" href="races.html#human%20(mark%20of%20handling)_erlw" onmouseleave="Render'
+ b'er.hover.handleLinkMouseLeave(event, this)" onmousemove="Renderer.hover.hand'
+ b'leLinkMouseMove(event, this)" onmouseover="Renderer.hover.pHandleLinkMouseOv'
+ b'er(event, this)" ontouchstart="Renderer.hover.handleTouchStart(event, this)"'
+ b'>Human (Mark of Handling)</a></div><div><span class="bold">Backgrounds: </sp'
+ b'an><a data-vet-hash="selesnya%20initiate_ggr" data-vet-page="backgrounds.htm'
+ b'l" data-vet-source="GGR" href="backgrounds.html#selesnya%20initiate_ggr" onm'
+ b'ouseleave="Renderer.hover.handleLinkMouseLeave(event, this)" onmousemove="Re'
+ b'nderer.hover.handleLinkMouseMove(event, this)" onmouseover="Renderer.hover.p'
+ b'HandleLinkMouseOver(event, this)" ontouchstart="Renderer.hover.handleTouchSt'
+ b'art(event, this)">Selesnya Initiate</a></div></td></tr>\n<tr><td colspan='
+ b'"6"><b>Source:</b> <i title="Player\xe2\x80\x99s Handbook">PHB</i>, page '
+ b'216. Available in the <span title="Systems Reference Document">SRD</span>.</'
+ b'td></tr>\n<tr><th class="border" colspan="6"></th></tr></table>')

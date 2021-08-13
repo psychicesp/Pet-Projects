@@ -1,135 +1,76 @@
-<!doctype html>
-<html amp lang="en">
-
-<head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<script async src="https://cdn.ampproject.org/v0.js"></script>
-	<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-	<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
-
-	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-
-	<style amp-custom>
-		*				{margin:0; padding:0; box-sizing:border-box; -moz-box-sizing: border-box;}
-		html 			{font-size:62.5%;}
-		body			{background:white url("https://www.aidedd.org/themes/simple/images/fond-ph.jpg") repeat;}
-
-		.titre1			{font-size:2.4rem; text-align:center; padding:20px 10px 10px 10px; font-weight:bold;}
-		.titre2			{font-size:1.4rem; text-align:center; padding: 0px 10px 20px 10px;}
-		.warning		{font-size:1.2rem; text-align:center; padding:10px;}
-
-		a 				{color: #B80000; text-decoration: none;}
-		a:hover 		{color: #D80000; border-bottom-style: dashed; border-bottom-width: 1px;}
-
-		.bloc			{width:490px; padding:10px 20px 0px 20px; display:inline-block;
-						 font-family: Georgia, "Times New Roman", serif; font-size:1.2rem; line-height:1.5; text-align:left;}
-		.entete			{break-inside:avoid-column; break-inside:avoid;}
-		.nobloc			{width:100%; display:block}
-		.bloc h1		{padding:0; text-transform:uppercase; letter-spacing:1px; color:#6D0000; font-size:1.4rem; line-height:1; font-weight:bold; break-after:avoid;}
-		.bloc h1:first-letter {font-size:1.8rem;}
-		.trad			{padding:2px 0 0   0; font-family: arial, sans-serif; font-size:1.2rem;}
-
-		.ecole			{padding:2px 0 4px 0; text-align:left;}
-		.description	{padding:4px 0 6px 0; text-align:justify;}
-		.source			{padding-bottom:15px; text-align:left; font-family: arial, sans-serif; font-size:1.1rem;}
-
-		.bloc table		{margin-top:6px; border-spacing:0; font-family: arial, sans-serif; font-size:1.1rem;}
-		.bloc table tr:nth-child(even) {background-color: #e0e0ff;}
-		.bloc table th	{font-weight:bold; vertical-align:bottom}
-		.bloc table td	{vertical-align:top}
-		.bloc table th, .bloc table td	{min-width:40px; padding:2px 6px 2px 4px; text-align:left}
-		.bloc table th.center, .bloc table td.center {text-align:center;}
-		.bloc table td.center {text-align:center;}
-
-		p				{padding:0; margin:9px 0 9px 0;}
-		.center			{text-align:center;}
-		.petit			{font-size:1.1rem; line-height:1.4;}
-		.trespetit 		{font-size:1.0rem; line-height:1.2;}
-
-		.niveau			{width:92%; font-size:1.8rem; font-weight:bold; text-align:center; background-color:#444; color:white;
-						 border:2px solid #444; padding:6px; margin:10px auto 0 auto;}
-		hr 				{visibility:hidden}
-
-		.blocCarte		{display:inline-block; position:relative; width:6.3cm; height:8.8cm; margin:1px 0 0 1px; padding:3px; vertical-align:top; border:5px solid black;
-						 background:white url("https://www.aidedd.org/themes/simple/images/fond-ph.jpg") repeat; overflow:hidden;
-						 font-family: Georgia, "Times New Roman", serif; font-size:1.05rem; line-height:1.2; text-align:left;} 
-		.blocCarteP		{font-size:0.95rem; color:black}
-		.blocCarteTP	{font-size:0.85rem; color:black}
-		.blocCarte h1	{font-size:1.2rem; background-color:#6D0000; color:white; padding:4px 4px 3px 4px;}
-		.blocCarte a	{text-decoration:none; color:black;}
-		.blocCarte .trad 	{display:none}
-		.blocCarte .ecole		{padding:2px 0 4px 0;}
-		.blocCarte .description	{padding:4px 0 0 0;}
-		.blocCarte .source	{position:absolute; bottom:-1px; left:0px; background:black; color:white; width:100%; font-size:.9rem; letter-spacing:0px; padding:5px 0 1px 0}
-
-		.cols2			{column-count:2; width:990px; margin-left:auto; margin-right:auto;}
-		.ads			{display:inline-block; padding:60px 10px 10px 20%; text-align:center; vertical-align:top;}
-		.adsCel			{display:none}
-
-		@media print {
-			html 	{font-size:62.5%;}
-			body	{background-image:none}
-			.cols2	{width:100%}
-			.titre1	{padding-top:0}
-			.bloc	{width:100%; min-width:200px; padding:10px 10px 0 10px; font-size:1.1rem; line-height:1.3;}
-			.bloc a:link, .bloc a:visited, .bloc a:hover {color:#000; text-decoration: none;}
-			.bloc h1				{font-size:1.2rem;}
-			.bloc h1:first-letter 	{font-size:1.6rem;}
-			.ads, .adsCel {display:none}
-			.niveau	{break-before:column; font-size:1.4rem;}
-			hr 		{break-after:column;}
-		}
-
-		@media only screen and (max-device-width:980px) { 
-			html 	{font-size:75%;}
-			.bloc	{width:100%; min-width:auto; padding:3%; line-height:1.5; margin:0;}
-			.ads	{display:none}
-			.adsCel {display:inline-block; width:100%; padding:0;}
-		}
-	</style>
-
-<title>Augury - Spell &raquo; Dungeons &amp; Dragons - DnD 5e</title><link rel="alternate" href="https://www.aidedd.org/dnd/sorts.php?vf=augure" hreflang="fr" /><link rel="alternate" href="https://www.aidedd.org/dnd/sorts.php?vo=augury" hreflang="en" /><link rel="canonical" href="https://www.aidedd.org/dnd/sorts.php?vo=augury" /></head><body><div class="bloc"><div class='entete'><h1>Augury</h1><div class="trad">[ <a href="sorts.php?vf=augure">Augure</a> ]</div><div class="ecole"><em>level 2 - divination (ritual)</em></div><div><strong>Casting Time</strong>: 1 minute</div><div><strong>Range</strong>: Self</div><div><strong>Components</strong>: V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)</div><div><strong>Duration</strong>: Instantaneous</div></div><div class="description ">By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens:
-<br />• Weal, for good results
-<br />• Woe, for bad results
-<br />• Weal and woe, for both good and bad results
-<br />• Nothing, for results that aren't especially good or bad
-<br />The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
-<br />If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
-<br /></div><div class="source"><a href="https://www.aidedd.org/dnd-filters/spells.php">DnD 5e Spells</a> &rsaquo; Player´s Handbook (SRD)&nbsp;; Cleric</div></div>	<amp-analytics type="gtag" data-credentials="include">
-	<script type="application/json">
-	{
-		"vars" : {
-			"gtag_id": "UA-346920-5",
-			"config" : {
-				"UA-346920-5": { "groups": "default" }
-			}
-		}
-	}
-	</script>
-	</amp-analytics>
-
-	<div class="ads">
-		<amp-ad 
-			layout="fixed"
-			width=336
-			height=280
-			type="adsense"
-			data-ad-client="ca-pub-5355421917378265"
-			data-ad-slot="8650354676">
-		</amp-ad>
-	</div>
-	<div class="adsCel">
-		<amp-ad 
-			width="100vw"
-			height=320
-			type="adsense"
-			data-ad-client="ca-pub-5355421917378265"
-			data-ad-slot="8650354676"
-			data-auto-format="rspv"
-			data-full-width>
-		</amp-ad>
-	</div>
-</body>
-</html>
+(b'<table class="stats" id="pagecontent"><tr><th class="border" colspan="6"></t'
+ b'h></tr>\n<tr>\n<th \'="" class="rnd-name" colspan="6" data-hash="augury_phb'
+ b'" data-page="spells.html" data-source="PHB">\n<div class="name-inner">\n<d'
+ b'iv class="flex-v-center">\n<h1 class="stats-name copyable m-0" onclick="R'
+ b'enderer.utils._pHandleNameClick(this)" onmousedown="event.preventDefault()">'
+ b'Augury</h1>\n</div>\n<div class="stats-source flex-v-baseline">\n<a class="'
+ b'help-subtle sourcePHB" href="book.html#phb,page:215" title="Player\xe2\x80'
+ b'\x99s Handbook">PHB</a>\n<a class="rd__stats-name-page ml-1" href="book.html'
+ b'#phb,page:215" title="Page 215">p215</a>\n</div>\n</div>\n</th>\n</tr>\n<'
+ b'tr><td class="rd-spell__level-school-ritual" colspan="6"><span>2nd-level div'
+ b'ination (ritual)</span></td></tr>\n<tr><td colspan="6"><span class="bold"'
+ b'>Casting Time: </span>1 minute</td></tr>\n<tr><td colspan="6"><span class'
+ b'="bold">Range: </span>Self</td></tr>\n<tr><td colspan="6"><span class="bo'
+ b'ld">Components: </span>V, S, M (specially marked sticks, bones, or similar t'
+ b'okens worth at least 25 gp)</td></tr>\n<tr><td colspan="6"><span class="b'
+ b'old">Duration: </span>Instantaneous</td></tr>\n<tr><td class="divider" co'
+ b'lspan="6"><div></div></td></tr>\n<tr class="text"><td class="text" colspa'
+ b'n="6"><div class="rd__b rd__b--2"><p>By casting gem-inlaid sticks, rolling d'
+ b'ragon bones, laying out ornate cards, or employing some other divining tool,'
+ b' you receive an omen from an otherworldly entity about the results of a spec'
+ b'ific course of action that you plan to take within the next 30 minutes. The '
+ b'DM chooses from the following possible omens:</p><ul class="rd__list"><li cl'
+ b'ass="rd__li">Weal, for good results</li><li class="rd__li">Woe, for bad resu'
+ b'lts</li><li class="rd__li">Weal and woe, for both good and bad results</li><'
+ b'li class="rd__li">Nothing, for results that aren\'t especially good or ba'
+ b"d</li></ul><p>The spell doesn't take into account any possible circumstances"
+ b' that might change the outcome, such as the casting of additional spells or '
+ b'the loss or gain of a companion.</p><p>If you cast the spell two or more tim'
+ b'es before completing your next long rest, there is a cumulative <span class='
+ b'"roller render-roller" data-packed-dice=\'{"type":"dice","rollable":true,'
+ b'"displayText":"25 percent","toRoll":"1d100","successThresh":25}\' onmouse'
+ b'down="event.preventDefault()" title="Click to roll. SHIFT/CTRL to roll twice'
+ b'.">25 percent</span> chance for each casting after the first that you get a '
+ b'random reading. The DM makes this roll in secret.</p></div></td></tr><tr cla'
+ b'ss="text"><td colspan="6"><div><span class="bold">Classes: </span><a href="c'
+ b'lasses.html#cleric_phb" title="Source: Player\xe2\x80\x99s Handbook">Cler'
+ b'ic</a></div><div><span class="bold">Subclasses: </span><a class="italic" hre'
+ b'f="classes.html#barbarian_phb,state:sub-ancestral-guardian-xge=b1" title="So'
+ b'urce: Xanathar\xe2\x80\x99s Guide to Everything">Ancestral Guardian</a> <'
+ b'a href="classes.html#barbarian_phb" title="Source: Player\xe2\x80\x99s Ha'
+ b'ndbook">Barbarian</a>, <a class="italic" href="classes.html#sorcerer_phb,sta'
+ b'te:sub-divine-soul-xge=b1" title="Source: Xanathar\xe2\x80\x99s Guide to '
+ b'Everything">Divine Soul</a> <a href="classes.html#sorcerer_phb" title="Sourc'
+ b'e: Player\xe2\x80\x99s Handbook">Sorcerer</a>, <a class="italic" href="cl'
+ b'asses.html#cleric_phb,state:sub-knowledge-phb=b1" title="Source: Player\xe2'
+ b'\x80\x99s Handbook">Knowledge</a> <a href="classes.html#cleric_phb" title='
+ b'"Source: Player\xe2\x80\x99s Handbook">Cleric</a></div><div class="text-m'
+ b'uted"><span class="bold">Subclasses (legacy): </span><a class="italic" href='
+ b'"classes.html#sorcerer_phb,state:sub-favored-soul-v2-ua-uas=b1" title="Sourc'
+ b'e: Unearthed Arcana: Sorcerer">Favored Soul v2 (UA)</a> <a href="classes.htm'
+ b'l#sorcerer_phb" title="Source: Player\xe2\x80\x99s Handbook">Sorcerer</a>'
+ b', <a class="italic" href="classes.html#sorcerer_phb,state:sub-favored-soul-v'
+ b'3-ua-uarsc=b1" title="Source: Unearthed Arcana: Revised Subclasses">Favored '
+ b'Soul v3 (UA)</a> <a href="classes.html#sorcerer_phb" title="Source: Play'
+ b'er\xe2\x80\x99s Handbook">Sorcerer</a>, <a class="italic" href="classes.h'
+ b'tml#cleric_phb,state:sub-knowledge-psa-psa=b1" title="Source: Plane Shift: A'
+ b'monkhet">Knowledge (PSA)</a> <a href="classes.html#cleric_phb" title="Source'
+ b': Player\xe2\x80\x99s Handbook">Cleric</a>, <a class="italic" href="class'
+ b'es.html#paladin_phb,state:sub-watchers-ua-ua20s1=b1" title="Source: Unearthe'
+ b'd Arcana: 2020 Subclasses, Part 1">Watchers (UA)</a> <a href="classes.html#p'
+ b'aladin_phb" title="Source: Player\xe2\x80\x99s Handbook">Paladin</a></div'
+ b'><div><span class="bold">Optional/Variant Classes: </span><a href="classes.h'
+ b'tml#druid_phb" title="Class source: Player\xe2\x80\x99s Handbook. Spell l'
+ b'ist defined in: Tasha\xe2\x80\x99s Cauldron of Everything.">Druid</a>, <a'
+ b' href="classes.html#wizard_phb" title="Class source: Player\xe2\x80\x99s '
+ b'Handbook. Spell list defined in: Tasha\xe2\x80\x99s Cauldron of Everythin'
+ b'g.">Wizard</a></div><div class="text-muted"><span class="bold">Optional/Vari'
+ b'ant Classes (legacy): </span><a href="classes.html#druid_phb" title="Class s'
+ b'ource: Player\xe2\x80\x99s Handbook. Spell list defined in: Unearthed Arc'
+ b'ana: Class Feature Variants.">Druid</a>, <a href="classes.html#wizard_phb" t'
+ b'itle="Class source: Player\xe2\x80\x99s Handbook. Spell list defined in: '
+ b'Unearthed Arcana: Class Feature Variants.">Wizard</a></div></td></tr>\n<t'
+ b'r><td colspan="6"><b>Source:</b> <i title="Player\xe2\x80\x99s Handbook">'
+ b'PHB</i>, page 215. Available in the <span title="Systems Reference Document"'
+ b'>SRD</span>.</td></tr>\n<tr><th class="border" colspan="6"></th></tr></ta'
+ b'ble>')

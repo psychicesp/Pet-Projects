@@ -1,131 +1,76 @@
-<!doctype html>
-<html amp lang="en">
-
-<head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<script async src="https://cdn.ampproject.org/v0.js"></script>
-	<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
-	<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
-
-	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-
-	<style amp-custom>
-		*				{margin:0; padding:0; box-sizing:border-box; -moz-box-sizing: border-box;}
-		html 			{font-size:62.5%;}
-		body			{background:white url("https://www.aidedd.org/themes/simple/images/fond-ph.jpg") repeat;}
-
-		.titre1			{font-size:2.4rem; text-align:center; padding:20px 10px 10px 10px; font-weight:bold;}
-		.titre2			{font-size:1.4rem; text-align:center; padding: 0px 10px 20px 10px;}
-		.warning		{font-size:1.2rem; text-align:center; padding:10px;}
-
-		a 				{color: #B80000; text-decoration: none;}
-		a:hover 		{color: #D80000; border-bottom-style: dashed; border-bottom-width: 1px;}
-
-		.bloc			{width:490px; padding:10px 20px 0px 20px; display:inline-block;
-						 font-family: Georgia, "Times New Roman", serif; font-size:1.2rem; line-height:1.5; text-align:left;}
-		.entete			{break-inside:avoid-column; break-inside:avoid;}
-		.nobloc			{width:100%; display:block}
-		.bloc h1		{padding:0; text-transform:uppercase; letter-spacing:1px; color:#6D0000; font-size:1.4rem; line-height:1; font-weight:bold; break-after:avoid;}
-		.bloc h1:first-letter {font-size:1.8rem;}
-		.trad			{padding:2px 0 0   0; font-family: arial, sans-serif; font-size:1.2rem;}
-
-		.ecole			{padding:2px 0 4px 0; text-align:left;}
-		.description	{padding:4px 0 6px 0; text-align:justify;}
-		.source			{padding-bottom:15px; text-align:left; font-family: arial, sans-serif; font-size:1.1rem;}
-
-		.bloc table		{margin-top:6px; border-spacing:0; font-family: arial, sans-serif; font-size:1.1rem;}
-		.bloc table tr:nth-child(even) {background-color: #e0e0ff;}
-		.bloc table th	{font-weight:bold; vertical-align:bottom}
-		.bloc table td	{vertical-align:top}
-		.bloc table th, .bloc table td	{min-width:40px; padding:2px 6px 2px 4px; text-align:left}
-		.bloc table th.center, .bloc table td.center {text-align:center;}
-		.bloc table td.center {text-align:center;}
-
-		p				{padding:0; margin:9px 0 9px 0;}
-		.center			{text-align:center;}
-		.petit			{font-size:1.1rem; line-height:1.4;}
-		.trespetit 		{font-size:1.0rem; line-height:1.2;}
-
-		.niveau			{width:92%; font-size:1.8rem; font-weight:bold; text-align:center; background-color:#444; color:white;
-						 border:2px solid #444; padding:6px; margin:10px auto 0 auto;}
-		hr 				{visibility:hidden}
-
-		.blocCarte		{display:inline-block; position:relative; width:6.3cm; height:8.8cm; margin:1px 0 0 1px; padding:3px; vertical-align:top; border:5px solid black;
-						 background:white url("https://www.aidedd.org/themes/simple/images/fond-ph.jpg") repeat; overflow:hidden;
-						 font-family: Georgia, "Times New Roman", serif; font-size:1.05rem; line-height:1.2; text-align:left;} 
-		.blocCarteP		{font-size:0.95rem; color:black}
-		.blocCarteTP	{font-size:0.85rem; color:black}
-		.blocCarte h1	{font-size:1.2rem; background-color:#6D0000; color:white; padding:4px 4px 3px 4px;}
-		.blocCarte a	{text-decoration:none; color:black;}
-		.blocCarte .trad 	{display:none}
-		.blocCarte .ecole		{padding:2px 0 4px 0;}
-		.blocCarte .description	{padding:4px 0 0 0;}
-		.blocCarte .source	{position:absolute; bottom:-1px; left:0px; background:black; color:white; width:100%; font-size:.9rem; letter-spacing:0px; padding:5px 0 1px 0}
-
-		.cols2			{column-count:2; width:990px; margin-left:auto; margin-right:auto;}
-		.ads			{display:inline-block; padding:60px 10px 10px 20%; text-align:center; vertical-align:top;}
-		.adsCel			{display:none}
-
-		@media print {
-			html 	{font-size:62.5%;}
-			body	{background-image:none}
-			.cols2	{width:100%}
-			.titre1	{padding-top:0}
-			.bloc	{width:100%; min-width:200px; padding:10px 10px 0 10px; font-size:1.1rem; line-height:1.3;}
-			.bloc a:link, .bloc a:visited, .bloc a:hover {color:#000; text-decoration: none;}
-			.bloc h1				{font-size:1.2rem;}
-			.bloc h1:first-letter 	{font-size:1.6rem;}
-			.ads, .adsCel {display:none}
-			.niveau	{break-before:column; font-size:1.4rem;}
-			hr 		{break-after:column;}
-		}
-
-		@media only screen and (max-device-width:980px) { 
-			html 	{font-size:75%;}
-			.bloc	{width:100%; min-width:auto; padding:3%; line-height:1.5; margin:0;}
-			.ads	{display:none}
-			.adsCel {display:inline-block; width:100%; padding:0;}
-		}
-	</style>
-
-<title>Contingency - Spell &raquo; Dungeons &amp; Dragons - DnD 5e</title><link rel="alternate" href="https://www.aidedd.org/dnd/sorts.php?vf=prevoyance" hreflang="fr" /><link rel="alternate" href="https://www.aidedd.org/dnd/sorts.php?vo=contingency" hreflang="en" /><link rel="canonical" href="https://www.aidedd.org/dnd/sorts.php?vo=contingency" /></head><body><div class="bloc"><div class='entete'><h1>Contingency</h1><div class="trad">[ <a href="sorts.php?vf=prevoyance">Prévoyance</a> ]</div><div class="ecole"><em>level 6 - evocation</em></div><div><strong>Casting Time</strong>: 10 minutes</div><div><strong>Range</strong>: Self</div><div><strong>Components</strong>: V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)</div><div><strong>Duration</strong>: 10 days</div></div><div class="description ">Choose a spell of 5th level or lower that you can cast, that has a casting time of 1 action, and that can target you. You cast that spell—called the contingent spell—as part of casting <em>contingency</em>, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a <em>contingency</em> cast with <em><a href="https://www.aidedd.org/dnd/sorts.php?vo=water-breathing">water breathing</a></em> might stipulate that <em>water breathing</em> comes into effect when you are engulfed in water or a similar liquid.
-<br />The contingent spell takes effect immediately after the circumstance is met for the first time, whether or not you want it to, and then <em>contingency</em> ends.
-<br />The contingent spell takes effect only on you, even if it can normally target others. You can use only one <em>contingency</em> spell at a time. If you cast this spell again, the effect of another <em>contingency</em> spell on you ends. Also, <em>contingency</em> ends on you if its material component is ever not on your person.
-<br /></div><div class="source"><a href="https://www.aidedd.org/dnd-filters/spells.php">DnD 5e Spells</a> &rsaquo; Player´s Handbook (SRD)&nbsp;; Wizard</div></div>	<amp-analytics type="gtag" data-credentials="include">
-	<script type="application/json">
-	{
-		"vars" : {
-			"gtag_id": "UA-346920-5",
-			"config" : {
-				"UA-346920-5": { "groups": "default" }
-			}
-		}
-	}
-	</script>
-	</amp-analytics>
-
-	<div class="ads">
-		<amp-ad 
-			layout="fixed"
-			width=336
-			height=280
-			type="adsense"
-			data-ad-client="ca-pub-5355421917378265"
-			data-ad-slot="8650354676">
-		</amp-ad>
-	</div>
-	<div class="adsCel">
-		<amp-ad 
-			width="100vw"
-			height=320
-			type="adsense"
-			data-ad-client="ca-pub-5355421917378265"
-			data-ad-slot="8650354676"
-			data-auto-format="rspv"
-			data-full-width>
-		</amp-ad>
-	</div>
-</body>
-</html>
+(b'<table class="stats" id="pagecontent"><tr><th class="border" colspan="6"></t'
+ b'h></tr>\n<tr>\n<th \'="" class="rnd-name" colspan="6" data-hash="contingenc'
+ b'y_phb" data-page="spells.html" data-source="PHB">\n<div class="name-inner'
+ b'">\n<div class="flex-v-center">\n<h1 class="stats-name copyable m-0" oncli'
+ b'ck="Renderer.utils._pHandleNameClick(this)" onmousedown="event.preventDefaul'
+ b't()">Contingency</h1>\n</div>\n<div class="stats-source flex-v-baseline">\n'
+ b'<a class="help-subtle sourcePHB" href="book.html#phb,page:227" title="Player'
+ b'\xe2\x80\x99s Handbook">PHB</a>\n<a class="rd__stats-name-page ml-1" href='
+ b'"book.html#phb,page:227" title="Page 227">p227</a>\n</div>\n</div>\n</th>\n<'
+ b'/tr>\n<tr><td class="rd-spell__level-school-ritual" colspan="6"><span>6th'
+ b'-level evocation</span></td></tr>\n<tr><td colspan="6"><span class="bold"'
+ b'>Casting Time: </span>10 minutes</td></tr>\n<tr><td colspan="6"><span cla'
+ b'ss="bold">Range: </span>Self</td></tr>\n<tr><td colspan="6"><span class="'
+ b'bold">Components: </span>V, S, M (a statuette of yourself carved from ivory '
+ b'and decorated with gems worth at least 1,500 gp)</td></tr>\n<tr><td colsp'
+ b'an="6"><span class="bold">Duration: </span>10 days</td></tr>\n<tr><td cla'
+ b'ss="divider" colspan="6"><div></div></td></tr>\n<tr class="text"><td clas'
+ b's="text" colspan="6"><div class="rd__b rd__b--2"><p>Choose a spell of 5th le'
+ b'vel or lower that you can cast, that has a casting time of 1 action, and tha'
+ b't can target you. You cast that spell\xe2\x80\x94called the contingent sp'
+ b'ell\xe2\x80\x94as part of casting contingency, expending spell slots for '
+ b"both, but the contingent spell doesn't come into effect. Instead, it takes e"
+ b'ffect when a certain circumstance occurs. You describe that circumstance whe'
+ b'n you cast the two spells. For example, a contingency cast with <a data-vet-'
+ b'hash="water%20breathing_phb" data-vet-page="spells.html" data-vet-source="PH'
+ b'B" href="spells.html#water%20breathing_phb" onmouseleave="Renderer.hover.han'
+ b'dleLinkMouseLeave(event, this)" onmousemove="Renderer.hover.handleLinkMouseM'
+ b'ove(event, this)" onmouseover="Renderer.hover.pHandleLinkMouseOver(event, th'
+ b'is)" ontouchstart="Renderer.hover.handleTouchStart(event, this)">water breat'
+ b'hing</a> might stipulate that <a data-vet-hash="water%20breathing_phb" data-'
+ b'vet-page="spells.html" data-vet-source="PHB" href="spells.html#water%20breat'
+ b'hing_phb" onmouseleave="Renderer.hover.handleLinkMouseLeave(event, this)" on'
+ b'mousemove="Renderer.hover.handleLinkMouseMove(event, this)" onmouseover="Ren'
+ b'derer.hover.pHandleLinkMouseOver(event, this)" ontouchstart="Renderer.hover.'
+ b'handleTouchStart(event, this)">water breathing</a> comes into effect when yo'
+ b'u are engulfed in water or a similar liquid.</p><p>The contingent spell take'
+ b's effect immediately after the circumstance is met for the first time, wheth'
+ b'er or not you want it to, and then contingency ends.</p><p>The contingent sp'
+ b'ell takes effect only on you, even if it can normally target others. You can'
+ b' use only one contingency spell at a time. If you cast this spell again, the'
+ b' effect of another contingency spell on you ends. Also, contingency ends on '
+ b'you if its material component is ever not on your person.</p></div></td></tr'
+ b'><tr class="text"><td colspan="6"><div><span class="bold">Classes: </span><a'
+ b' href="classes.html#wizard_phb" title="Source: Player\xe2\x80\x99s Handbo'
+ b'ok">Wizard</a></div><div><span class="bold">Subclasses: </span><a class="ita'
+ b'lic" href="classes.html#cleric_phb,state:sub-arcana-scag=b1" title="Source: '
+ b'Sword Coast Adventurer\xe2\x80\x99s Guide">Arcana</a> <a href="classes.ht'
+ b'ml#cleric_phb" title="Source: Player\xe2\x80\x99s Handbook">Cleric</a>, <'
+ b'a class="italic" href="classes.html#rogue_phb,state:sub-arcane-trickster-phb'
+ b'=b1" title="Source: Player\xe2\x80\x99s Handbook">Arcane Trickster</a> <a'
+ b' href="classes.html#rogue_phb" title="Source: Player\xe2\x80\x99s Handboo'
+ b'k">Rogue</a>, <a class="italic" href="classes.html#fighter_phb,state:sub-eld'
+ b'ritch-knight-phb=b1" title="Source: Player\xe2\x80\x99s Handbook">Eldritc'
+ b'h Knight</a> <a href="classes.html#fighter_phb" title="Source: Playe'
+ b'r\xe2\x80\x99s Handbook">Fighter</a></div></td></tr><tr class="text"><td '
+ b'colspan="6"><section class="text-muted"><i>Note: Both the <a data-vet-hash="'
+ b'fighter_phb" data-vet-page="classes.html" data-vet-source="PHB" href="classe'
+ b's.html#fighter_phb" onmouseleave="Renderer.hover.handleLinkMouseLeave(event,'
+ b' this)" onmousemove="Renderer.hover.handleLinkMouseMove(event, this)" onmous'
+ b'eover="Renderer.hover.pHandleLinkMouseOver(event, this)" ontouchstart="Rende'
+ b'rer.hover.handleTouchStart(event, this)">Fighter (Eldritch Knight)</a> and t'
+ b'he <a data-vet-hash="rogue_phb" data-vet-page="classes.html" data-vet-source'
+ b'="PHB" href="classes.html#rogue_phb" onmouseleave="Renderer.hover.handleLink'
+ b'MouseLeave(event, this)" onmousemove="Renderer.hover.handleLinkMouseMove(eve'
+ b'nt, this)" onmouseover="Renderer.hover.pHandleLinkMouseOver(event, this)" on'
+ b'touchstart="Renderer.hover.handleTouchStart(event, this)">Rogue (Arcane Tric'
+ b'kster)</a> spell lists include all <a data-vet-hash="wizard_phb" data-vet-pa'
+ b'ge="classes.html" data-vet-source="PHB" href="classes.html#wizard_phb" onmou'
+ b'seleave="Renderer.hover.handleLinkMouseLeave(event, this)" onmousemove="Rend'
+ b'erer.hover.handleLinkMouseMove(event, this)" onmouseover="Renderer.hover.pHa'
+ b'ndleLinkMouseOver(event, this)" ontouchstart="Renderer.hover.handleTouchStar'
+ b't(event, this)">Wizard</a> spells. Spells of 5th level or higher may be cast'
+ b' with the aid of a spell scroll or similar.</i></section></td></tr>\n<tr>'
+ b'<td colspan="6"><b>Source:</b> <i title="Player\xe2\x80\x99s Handbook">PH'
+ b'B</i>, page 227. Available in the <span title="Systems Reference Document">S'
+ b'RD</span>.</td></tr>\n<tr><th class="border" colspan="6"></th></tr></table>')
