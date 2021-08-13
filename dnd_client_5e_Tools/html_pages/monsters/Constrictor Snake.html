@@ -1,0 +1,155 @@
+<!doctype html>
+<html amp lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<script async src="https://cdn.ampproject.org/v0.js"></script>
+	<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+	<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+
+	<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+	<style amp-custom>
+		*				{margin:0; padding:0; box-sizing:border-box; -moz-box-sizing: border-box;}
+		html 			{font-size:62.5%;}
+		body			{background:white url("https://www.aidedd.org/themes/simple/images/fond-dmg.jpg") repeat;}
+
+		.titre1			{font-size:2.4rem; text-align:center; padding:20px 10px 10px 10px; font-weight:bold;}
+		.titre2			{font-size:1.4rem; text-align:center; padding: 0px 10px 10px 10px;}
+		.warning		{font-size:1.2rem; text-align:center; padding:10px;}
+
+		a 				{color: #B80000; text-decoration: none;}
+		a:hover 		{color: #D80000; border-bottom-style: dashed; border-bottom-width: 1px;}
+
+		.bloc			{width:490px; padding:15px 15px 0px 15px; display:inline-block;
+						 font-family: Georgia, "Times New Roman", serif; font-size:1.2rem; line-height:1.4; text-align:left;
+						 break-inside:avoid-column; break-inside:avoid;}
+		.nobloc			{width:100%; display:block}
+		.bloc h1		{padding:0; text-transform:uppercase; letter-spacing:1px; color:#6D0000; font-size:1.7rem; line-height:1; font-weight:bold;}
+		.bloc h1:first-letter {font-size:2.2rem;}
+		.trad			{padding:2px 0 0   0; font-family: arial, sans-serif; font-size:1.2rem;}
+
+		.type			{padding:2px 0 0px 0; text-align:left;}
+		.description	{padding:6px 0 6px 0; text-align:justify;}
+		.source			{padding-bottom:15px; text-align:left; font-family: arial, sans-serif; font-size:1.1rem;}
+
+		p				{padding:0; margin:5px 0 5px 0;}
+		.center			{text-align:center;}
+
+		.niveau			{width:90%; font-size:1.8rem; font-weight:bold; text-align:center; background-color:white; color:black;
+						 border:3px solid black; padding:5px; margin:10px auto 0 auto; }
+
+		.picture		{max-width:100%; border:4px solid #888; text-align:center; margin-bottom:20px;
+						 break-inside:avoid-column; break-inside:avoid;}
+		.orange			{border:1px black solid; background-color:#e69a28; width:100%; height:6px;}
+		.jaune			{background-color: #fdf1dc; padding:10px 8px 5px 8px; margin:0 2px 0 2px; box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.5);
+						 background-image: url("https://www.aidedd.org/themes/simple/images/fond-mm-effet.png"), url("https://www.aidedd.org/themes/simple/images/fond-ph.jpg");
+						 background-repeat: no-repeat, repeat;}
+		div svg			{width:100%; height:5px;}
+		.sansSerif		{font-family: arial, sans-serif;}
+		.red			{color:#6D0000;}
+		.carac			{display:inline-block; padding-left:16px; text-align:center}
+		.rub			{color:#6D0000; margin:10px 0 5px 0; border-bottom:1px solid #B30303; font-size:1.2rem; text-transform:uppercase; font-weight:bold;}
+		.rub:first-letter{font-size:1.5rem;}
+		div .variant	{background-color:#DBE2C2;
+						 border-top:4px solid #404040; border-bottom:4px solid #404040;
+						 padding:5px 10px 5px 10px; margin:10px 0 0 0;}
+
+		.petit			{font-size:1.1rem;}
+		.trespetit 		{font-size:1.1rem;}
+		.petit .rub		{font-size:1.1rem;}
+		.petit .rub:first-letter{font-size:1.3rem;}
+		.trespetit .rub	{font-size:1.1rem;}
+		.trespetit .rub:first-letter {font-size:1.3rem;}
+
+		.blocCarte		{display:inline-block; position:relative; width:6.3cm; height:8.8cm; margin:1px 0 0 1px; padding:3px; vertical-align:top; border:5px solid black;
+						 background:white url("https://www.aidedd.org/themes/simple/images/fond-dmg.jpg") repeat; overflow:hidden;
+						 font-family: Georgia, "Times New Roman", serif; font-size:1.0rem; line-height:1; text-align:left;} 
+		.blocCarteP	 	{font-size:0.95rem; color:black}
+		.blocCarteTP	{font-size:0.85rem; color:black}
+		.blocCarte .orange	{border:0px black solid; height:0px}
+		.blocCarte div svg	{height:3px;}
+		.blocCarte h1	{font-size:1.2rem; background-color:#e69a28; color:white; padding:4px 4px 3px 4px;}
+		.blocCarte a	 {text-decoration:none; color:black; }
+		.blocCarte .trad 	{display:none}
+		.blocCarte .carac	{padding-left:1px;}
+		.blocCarte .type		{padding:2px 0 0px 0;}
+		.blocCarte .description	{padding:4px 0 0 0;}
+		.blocCarte .warning		{display:none}
+		.blocCarte .source	{position:absolute; bottom:-1px; left:0px; background:black; color:white; width:100%; font-size:.9rem; letter-spacing:0px; padding:5px 0 1px 0}
+
+		.cols1			{column-span:all; width:990px; margin-left:auto; margin-right:auto;}
+		.cols2			{column-count:2;  width:990px; margin-left:auto; margin-right:auto;}
+		.cols1 .cols2	{width:100%}	
+		.ads			{display:inline-block; padding:60px 10px 10px 20%; text-align:center; vertical-align:top;}
+		.adsCel			{display:none}
+
+		@media print {
+			html 	{font-size:62.5%;}
+			body	{background-image:none}
+			.cols1	{width:100%; page-break-after:always;}
+			.cols2	{width:100%}
+			.titre1	{padding-top:0}
+			.bloc	{width:100%; min-width:200px; padding:10px 5px 0 5px; font-size:1.1rem; line-height:1.2;}
+			.bloc a:link, .bloc a:visited, .bloc a:hover {color:#000; text-decoration: none;}
+			.bloc h1				{font-size:1.2rem;}
+			.bloc h1:first-letter 	{font-size:1.7rem;}
+
+			.petit			{font-size:1.0rem;}
+			.trespetit 		{font-size:1.0rem;}
+			.petit .rub		{font-size:1.0rem;}
+			.pettt .rub:first-letter{font-size:1.2rem;}
+			.trespetit .rub	{font-size:1.0rem;}
+			.trespetit .rub:first-letter {font-size:1.2rem;}
+			.ads, .adsCel	{display:none}
+		}
+
+		@media only screen and (max-device-width:980px) { 
+			html 	{font-size:75%;}
+			.cols1	{width:100%}
+			.cols2	{column-count:1; width:100%;} /* pour bestiaire des scenars */
+			.bloc	{width:100%; min-width:auto; padding:3%; line-height:1.4; margin:0;}
+			.carac	{min-width:16.6%; padding:0; margin:0; vertical-align:top}
+			.ads	{display:none}
+			.adsCel {display:inline-block; width:100%; padding:0;}
+		}
+	</style>
+
+<title>Constrictor Snake - Monster &raquo; Dungeons &amp; Dragons - DnD 5e</title><link rel="alternate" href="https://www.aidedd.org/dnd/monstres.php?vf=serpent-constricteur" hreflang="fr" /><link rel="alternate" href="https://www.aidedd.org/dnd/monstres.php?vo=constrictor-snake" hreflang="en" /><link rel="canonical" href="https://www.aidedd.org/dnd/monstres.php?vo=constrictor-snake" /></head><body><div class="bloc"><div class="orange"></div><div class="jaune "><h1>Constrictor Snake</h1><div class="trad">[ <a href="monstres.php?vf=serpent-constricteur">Serpent constricteur</a> ]</div><div class="sansSerif"><div class="type"><em>Large beast, unaligned</em></div><div><svg><polyline points="0,0 360,2.5 0,5" style="fill:#922610;stroke:#922610;"></polyline></svg></div><div class="red"><strong>Armor Class</strong> 12<br /><strong>Hit Points</strong> 13 (2d10 + 2)<br /><strong>Speed</strong> 30 ft., swim 30 ft.<div><svg><polyline points="0,0 360,2.5 0,5" style="fill:#922610;stroke:#922610;"></polyline></svg></div><div class="carac"><strong>STR</strong><br />15 (+2)</div><div class="carac"><strong>DEX</strong><br />14 (+2)</div><div class="carac"><strong>CON</strong><br />12 (+1)</div><div class="carac"><strong>INT</strong><br />1 (-5)</div><div class="carac"><strong>WIS</strong><br />10 (+0)</div><div class="carac"><strong>CHA</strong><br />3 (-4)</div><div><svg><polyline points="0,0 360,2.5 0,5" style="fill:#922610;stroke:#922610;"></polyline></svg></div><strong>Senses</strong> blindsight 10 ft., passive Perception 10<br /><strong>Languages</strong> -<br /><strong>Challenge</strong> 1/4 (50 XP)</div><div><svg><polyline points="0,0 360,2.5 0,5" style="fill:#922610;stroke:#922610;"></polyline></svg></div><div class="rub">ACTIONS</div><p><strong><em>Bite</em></strong>. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. <em>Hit</em>: 5 (1d6 + 2) piercing damage.</p><p><strong><em>Constrict</em></strong>. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. <em>Hit</em>: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.</p></div></div><div class="orange"></div><div class="description"></div><div class="source"><a href="https://www.aidedd.org/dnd-filters/monsters.php">DnD 5e Monsters</a> &rsaquo; Monster Manual (SRD)</div></div>	<amp-analytics type="gtag" data-credentials="include">
+	<script type="application/json">
+	{
+		"vars" : {
+			"gtag_id": "UA-346920-5",
+			"config" : {
+				"UA-346920-5": { "groups": "default" }
+			}
+		}
+	}
+	</script>
+	</amp-analytics>
+
+	<div class="ads">
+		<amp-ad 
+			layout="fixed"
+			width=336
+			height=280
+			type="adsense"
+			data-ad-client="ca-pub-5355421917378265"
+			data-ad-slot="8650354676">
+		</amp-ad>
+	</div>
+	<div class="adsCel">
+		<amp-ad 
+			width="100vw"
+			height=320
+			type="adsense"
+			data-ad-client="ca-pub-5355421917378265"
+			data-ad-slot="8650354676"
+			data-auto-format="rspv"
+			data-full-width>
+		</amp-ad>
+	</div>
+</body>
+</html>
