@@ -11,7 +11,7 @@ import shutil
 import os
 
 # %%
-url = "https://5e.tools/bestiary.html#aarakocra_mm"
+url = "https://5e.tools/items.html#abacus_phb"
 
 executable_path = {'executable_path': 'chromedriver.exe'}
 browser = Browser('chrome', **executable_path, headless=False)
@@ -23,11 +23,11 @@ dnd_table = dnd_soup.find_all("a", {"class":"lst--border lst__row-inner"})
 hrefs = [x['href'] for x in dnd_table]
 print(type(hrefs[0]))
 #%%
-url = "https://5e.tools/bestiary.html"
+url = "https://5e.tools/items.html"
 c = 0
-for href in hrefs[160:]:
+for href in hrefs[365:]:
     c += 1
-    name = href.split("#")[1].split("_")[0].replace('%20','_')
+    name = href.split("#")[1].split("_")[0].replace('%20','_').replace('*','x')
     new_url = url+href
     print(name)
     browser.visit(new_url)
@@ -36,36 +36,9 @@ for href in hrefs[160:]:
     else:
         time.sleep(2)
     dnd_soup = BS(browser.html, 'html.parser')
-    dnd_soup = dnd_soup.find("table", {"class": "stats monster"})
-    with open(f"html_pages/monsters/{name}.html", "w") as temp:
+    dnd_soup = dnd_soup.find("table", {"class": "stats"})
+    with open(f"html_pages/items/{name}.html", "w") as temp:
         pprint(dnd_soup.encode('utf8'), stream = temp)
-    try:
-        browser.find_by_value('Info').click()
-        time.sleep(2)
-        info_soup = BS(browser.html, 'html.parser')
-        info_soup = info_soup.find("td", {"colspan":"6", "class":"text"})
-        with open(f"html_pages/info/{name}.html", "w") as temp:
-            pprint(info_soup.encode('utf8'), stream = temp)
-    except:
-        pass
-    try:
-        browser.find_by_value('Images').click()
-        time.sleep(2)
-        image_soup = BS(browser.html, 'html.parser')
-        image_soup = image_soup.find("div", {"class":"rd__wrp-image relative"})
-        image_soup = image_soup.find("a", {'target':'_blank',"rel":"noopener noreferrer"})
-        image_soup = image_soup.find('img')
-        pprint(image_soup)
-        img_src = image_soup['src']
-        image_url = "https://5e.tools/"+img_src
-        with open(f"images/{name}.jpg","wb") as f:
-            f.write(req.get(image_url).content)
-    except:
-        pass
-    try:
-        browser.find_by_value('Statblock').click()
-    except:
-        pass
     print("     ", "finished")
 browser.quit()
 #%%
