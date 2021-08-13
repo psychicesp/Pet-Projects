@@ -10,7 +10,6 @@ import random
 import shutil
 import os
 
-
 # %%
 url = "https://5e.tools/bestiary.html#aarakocra_mm"
 
@@ -25,7 +24,7 @@ hrefs = [x['href'] for x in dnd_table]
 print(type(hrefs[0]))
 #%%
 url = "https://5e.tools/bestiary.html"
-for href in hrefs:
+for href in hrefs[:1]:
     name = href.split("#")[1].split("_")[0].replace('%20','_')
     new_url = url+href
     print(name)
@@ -35,7 +34,16 @@ for href in hrefs:
     dnd_soup = dnd_soup.find("table", {"class": "stats monster"})
     with open(f"html_pages/monsters/{name}.html", "w") as temp:
         pprint(dnd_soup, stream = temp)
-    print("     ", "finished")
+    # try:
+    browser.find_by_value('Info').click()
+    time.sleep(2)
+    info_soup = BS(browser.html, 'html.parser')
+    info_soup = info_soup.find("td", {"colspan":"6", "class":"text"})
+    pprint(info_soup)
+    with open(f"html_pages/info/{name}.html", "w") as temp:
+        pprint(info_soup, stream = temp)
+    # except:
+    #     pass
     try:
         browser.find_by_value('Images').click()
         time.sleep(2)
@@ -50,6 +58,7 @@ for href in hrefs:
             f.write(req.get(image_url).content)
     except:
         pass
+    print("     ", "finished")
 browser.quit()
 #%%
 name_links = {}
