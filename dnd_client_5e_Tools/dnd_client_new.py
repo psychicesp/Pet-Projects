@@ -51,7 +51,39 @@ with open('html_pages/monsters/aarakocra.html', 'r') as mon:
     mon_soup = BS(mon, 'html.parser')
 
 ability_soup = mon_soup.find_all('span', {'class':'roller render-roller'})
-pprint(ability_soup)
+meal = {'tags':[]}
+for ability in ability_soup:
+    pre_json = (ability['data-packed-dice'].replace('\\','')+"\"").strip('\'{').split(',')
+    bite = {}
+    for element in pre_json:
+        try:
+            element = element.split(':')
+            bite[element[0].strip('"')] = element[1].strip('"').lower()
+        except:
+            pass
+    try:
+        meal[bite['name']] = bite['displayText']
+    except:
+        pass
+meal['name'] = mon_soup.find('h1').text
+meal['book'] = mon_soup.find('a',{"class":"help-subtle sourceMM"})['title']
+meal['page'] = int(mon_soup.find('a',{"class":"rd__stats-name-page ml-1"})['title'].split(' ')[1])
+sta = mon_soup.find('div',{"class":"mon__wrp-size-type-align--token"}).text
+sta = sta.split(',')
+meal['alignment'] = ''.join([x.upper()[:1] for x in sta[1].split(' ')])
+sta = sta[0].split(' ')
+meal['size'] = sta[0]
+meal['type'] = sta[1]
+if len(sta)>2:
+    meal['tags'].append(sta[2].strip().strip(')').strip('('))
+meal['hit_dice_type'] = 'd'+meal['hit'].split('d')[1]
+meal['num_hit_dice'] = int(meal['hit'].split('d')[0])
+meal.pop('hit')
+meal['AC'] =  int(mon_soup.find('div',{"class":"mon__wrp-avoid-token"}).text.split(' ')[-1])
+speed = [x.text for x in mon_soup.find_all('td', {'colspan':"6"}) if "Speed" in x.text][0].replace('Speed', '')
+speed = [x.strip().strip('.').strip() for x in speed.split(',')]
+meal['speed'] = speed
+pprint(meal)
 # %%
 def html_cleaner(in_folder):
     files = os.listdir(in_folder)
@@ -61,12 +93,14 @@ def html_cleaner(in_folder):
 b'""", '').replace("""'
  b'""", '').replace("""\"
 b'""", '').replace("""'
- b\"""", '').replace("""'
+ b\"""", '').replace("""\"
  b'""", '').replace("""'
 b\"""", '').replace('''"
-b"''', '').replace("(b'", "")
+b"''', '').replace('''" 
+b"''', '').replace('''"
+b "''', '').replace('''"
+ b"''', '').replace("(b'", "")
         with open(f"{in_folder}/{file}", 'w') as new:
             new.write(clean)
 
-html_cleaner('html_pages/monsters')
 # %%
