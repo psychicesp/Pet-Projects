@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "9",
+    "dexterity": "16",
+    "constitution": "9",
+    "intelligence": "17",
+    "wisdom": "11",
+    "charisma": "10",
+    "arcana": "+5",
+    "history": "+5",
+    "insight": "+2",
+    "perception": "+2",
+    "religion": "+5",
+    "name": "Berbalang",
+    "page": 120,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "aberration",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "insight": "proficient",
+        "perception": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "all but rarely speaks"
+    ],
+    "CR": "2 (450 XP)"
+}

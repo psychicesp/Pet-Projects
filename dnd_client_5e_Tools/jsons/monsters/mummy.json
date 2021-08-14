@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "8",
+    "constitution": "15",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "12",
+    "name": "Mummy",
+    "page": 228,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 11,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "3 (700 XP)"
+}

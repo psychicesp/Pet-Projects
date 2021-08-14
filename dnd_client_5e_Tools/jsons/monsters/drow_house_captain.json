@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "14",
+    "dexterity": "19",
+    "constitution": "15",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "13",
+    "perception": "+6",
+    "stealth": "+8",
+    "name": "Drow House Captain",
+    "page": 184,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "9 (5,000 XP)"
+}

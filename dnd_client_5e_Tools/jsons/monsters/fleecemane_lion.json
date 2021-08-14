@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "16",
+    "constitution": "14",
+    "intelligence": "6",
+    "wisdom": "14",
+    "charisma": "10",
+    "perception": "+4",
+    "stealth": "+5",
+    "name": "Fleecemane Lion",
+    "page": 223,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 15,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "3 (700 XP)"
+}

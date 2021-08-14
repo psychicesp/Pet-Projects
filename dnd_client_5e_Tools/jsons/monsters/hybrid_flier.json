@@ -1,0 +1,34 @@
+{
+    "tags": [
+        "Simic"
+    ],
+    "strength": "12",
+    "dexterity": "16",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "11",
+    "name": "Hybrid Flier",
+    "page": 217,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NG",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "acid"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "2 (450 XP)"
+}

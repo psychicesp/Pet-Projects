@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "13",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "18",
+    "wisdom": "11",
+    "charisma": "14",
+    "arcana": "+6",
+    "perception": "+2",
+    "name": "Counterflux Blastseeker",
+    "page": 242,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "2 (450 XP)"
+}

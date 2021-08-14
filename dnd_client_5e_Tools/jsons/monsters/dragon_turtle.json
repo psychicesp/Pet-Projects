@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "25",
+    "dexterity": "10",
+    "constitution": "20",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "12",
+    "name": "Dragon Turtle",
+    "page": 119,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Gargantuan",
+    "type": "dragon",
+    "AC": 20,
+    "speed": [
+        "20 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {},
+    "resistances": [
+        "fire"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Aquan",
+        "Draconic"
+    ],
+    "CR": "17 (18,000 XP)"
+}

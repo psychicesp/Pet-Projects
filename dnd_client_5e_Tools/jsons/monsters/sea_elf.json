@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "10",
+    "dexterity": "13",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "11",
+    "charisma": "12",
+    "perception": "+2",
+    "name": "Sea Elf",
+    "page": 70,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "CG",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 11,
+    "speed": [
+        "10 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Elvish"
+    ],
+    "CR": "1/8 (25 XP)"
+}

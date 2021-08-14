@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "11",
+    "constitution": "19",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "3",
+    "name": "Chardalyn Dragon",
+    "page": 281,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "construct",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "fly 90 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "cold, poison"
+    ],
+    "resistances": [
+        "radiant",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "the languages known by its creator"
+    ],
+    "CR": "11 (7,200 XP)"
+}

@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "13",
+    "charisma": "18",
+    "acrobatics": "+4",
+    "athletics": "+4",
+    "performance": "+6",
+    "name": "Oread",
+    "page": 237,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fey",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient",
+        "athletics": "proficient",
+        "performance": "proficient"
+    },
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common",
+        "Sylvan"
+    ],
+    "CR": "4 (1,100 XP)"
+}

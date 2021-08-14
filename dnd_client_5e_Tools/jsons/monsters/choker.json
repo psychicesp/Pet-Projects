@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "13",
+    "intelligence": "4",
+    "wisdom": "12",
+    "charisma": "7",
+    "stealth": "+6",
+    "name": "Choker",
+    "page": 123,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "aberration",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Deep Speech"
+    ],
+    "CR": "1 (200 XP)"
+}

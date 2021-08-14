@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "11",
+    "constitution": "15",
+    "intelligence": "14",
+    "wisdom": "18",
+    "charisma": "14",
+    "deception": "+4",
+    "medicine": "+6",
+    "survival": "+6",
+    "name": "Yakfolk Priest",
+    "page": 245,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "medicine": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common",
+        "Yikaria"
+    ],
+    "CR": "4 (1,100 XP)"
+}

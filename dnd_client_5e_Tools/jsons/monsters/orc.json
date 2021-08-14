@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "orc"
+    ],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "16",
+    "intelligence": "7",
+    "wisdom": "11",
+    "charisma": "10",
+    "intimidation": "+2",
+    "name": "Orc",
+    "page": 246,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Orc"
+    ],
+    "CR": "1/2 (100 XP)"
+}

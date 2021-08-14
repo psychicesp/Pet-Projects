@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "12",
+    "constitution": "18",
+    "intelligence": "22",
+    "wisdom": "19",
+    "charisma": "16",
+    "perception": "+9",
+    "name": "Core Spawn Seer",
+    "page": 286,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "aberration",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "psychic"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "Common",
+        "Deep Speech",
+        "telepathy 120 ft.",
+        "Undercommon"
+    ],
+    "CR": "13 (10,000 XP)"
+}

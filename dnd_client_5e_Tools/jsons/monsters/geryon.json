@@ -1,0 +1,54 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "29",
+    "dexterity": "17",
+    "constitution": "22",
+    "intelligence": "19",
+    "wisdom": "16",
+    "charisma": "23",
+    "deception": "+13",
+    "intimidation": "+13",
+    "perception": "+10",
+    "name": "Geryon",
+    "page": 173,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "fiend",
+    "AC": 19,
+    "speed": [
+        "30 ft",
+        "fly 50 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "cold, fire, poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "22 (41,000 XP)"
+}

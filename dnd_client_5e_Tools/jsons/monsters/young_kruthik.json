@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "16",
+    "constitution": "13",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "6",
+    "name": "Young Kruthik",
+    "page": 211,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "U",
+    "size": "Small",
+    "type": "monstrosity",
+    "AC": 16,
+    "speed": [
+        "30 ft",
+        "burrow 10 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 30 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Kruthik"
+    ],
+    "CR": "1/8 (25 XP)"
+}

@@ -1,0 +1,55 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "16",
+    "constitution": "20",
+    "intelligence": "27",
+    "wisdom": "21",
+    "charisma": "24",
+    "arcana": "+15",
+    "history": "+15",
+    "insight": "+12",
+    "perception": "+12",
+    "name": "Lady Illmarrow",
+    "page": 296,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 19,
+    "speed": [
+        "30 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic, poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "resistances": [
+        "cold, lightning"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, stunned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 22"
+    ],
+    "languages": [
+        "Common",
+        "Draconic",
+        "Elvish"
+    ],
+    "CR": "22 (41,000 XP)"
+}

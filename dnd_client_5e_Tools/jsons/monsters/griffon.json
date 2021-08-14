@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "2",
+    "wisdom": "13",
+    "charisma": "8",
+    "perception": "+5",
+    "name": "Griffon",
+    "page": 174,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)"
+}

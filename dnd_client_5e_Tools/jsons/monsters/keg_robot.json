@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "6",
+    "wisdom": "8",
+    "charisma": "5",
+    "perception": "+1",
+    "name": "Keg Robot",
+    "page": 212,
+    "book": "Acquisitions Incorporated",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "understands Common but can\\'t speak"
+    ],
+    "CR": "2 (450 XP)"
+}

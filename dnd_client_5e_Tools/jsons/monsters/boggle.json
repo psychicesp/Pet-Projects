@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "8",
+    "dexterity": "18",
+    "constitution": "13",
+    "intelligence": "6",
+    "wisdom": "12",
+    "charisma": "7",
+    "perception": "+3",
+    "stealth": "+6",
+    "name": "Boggle",
+    "page": 128,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CN",
+    "size": "Small",
+    "type": "fey",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "sleight of hand": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "fire"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Sylvan"
+    ],
+    "CR": "1/8 (25 XP)"
+}

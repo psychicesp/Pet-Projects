@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "15",
+    "constitution": "18",
+    "intelligence": "7",
+    "wisdom": "7",
+    "charisma": "9",
+    "perception": "+1",
+    "name": "Blue Slaad",
+    "page": 276,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Large",
+    "type": "aberration",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "resistances": [
+        "acid, cold, fire, lightning, thunder"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Slaad",
+        "telepathy 60 ft."
+    ],
+    "CR": "7 (2,900 XP)"
+}

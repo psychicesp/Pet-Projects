@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "2",
+    "wisdom": "13",
+    "charisma": "5",
+    "name": "Bristled Moorbounder",
+    "page": 295,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast",
+    "AC": 15,
+    "speed": [
+        "70 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "3 (700 XP)"
+}

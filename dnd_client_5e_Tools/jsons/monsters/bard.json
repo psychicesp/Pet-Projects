@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "11",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "13",
+    "charisma": "14",
+    "acrobatics": "+4",
+    "perception": "+5",
+    "performance": "+6",
+    "name": "Bard",
+    "page": 211,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "acrobatics": "proficient",
+        "perception": "expert",
+        "performance": "expert"
+    },
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "any two languages"
+    ],
+    "CR": "2 (450 XP)"
+}

@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "13",
+    "charisma": "14",
+    "athletics": "+5",
+    "history": "+4",
+    "perception": "+3",
+    "religion": "+4",
+    "name": "Undying Soldier",
+    "page": 311,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "NG",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "history": "expert",
+        "perception": "proficient",
+        "religion": "expert"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "radiant",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Elvish"
+    ],
+    "CR": "2 (450 XP)"
+}

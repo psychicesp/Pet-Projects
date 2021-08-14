@@ -1,0 +1,30 @@
+{
+    "tags": [
+        "Simic"
+    ],
+    "strength": "18",
+    "dexterity": "11",
+    "constitution": "15",
+    "intelligence": "8",
+    "wisdom": "11",
+    "charisma": "9",
+    "name": "Hybrid Brute",
+    "page": 217,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NG",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "2 (450 XP)"
+}

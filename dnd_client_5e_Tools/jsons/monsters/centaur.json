@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "9",
+    "wisdom": "13",
+    "charisma": "11",
+    "athletics": "+6",
+    "perception": "+3",
+    "survival": "+3",
+    "name": "Centaur",
+    "page": 38,
+    "book": "Monster Manual",
+    "alignment": "NG",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 12,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Elvish",
+        "Sylvan"
+    ],
+    "CR": "2 (450 XP)"
+}

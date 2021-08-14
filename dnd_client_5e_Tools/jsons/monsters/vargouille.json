@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "4",
+    "wisdom": "7",
+    "charisma": "2",
+    "name": "Vargouille",
+    "page": 195,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Tiny",
+    "type": "fiend",
+    "AC": 12,
+    "speed": [
+        "5 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "understands Abyssal",
+        "Infernal",
+        "and any languages it knew before becoming a vargouille but can\\'t speak"
+    ],
+    "CR": "1 (200 XP)"
+}

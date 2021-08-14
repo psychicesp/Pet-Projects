@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "13",
+    "constitution": "18",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "9",
+    "athletics": "+6",
+    "perception": "+3",
+    "name": "Redcap",
+    "page": 188,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "fey",
+    "AC": 13,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Sylvan"
+    ],
+    "CR": "3 (700 XP)"
+}

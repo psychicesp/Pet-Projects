@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "16",
+    "constitution": "21",
+    "intelligence": "22",
+    "wisdom": "13",
+    "charisma": "18",
+    "arcana": "+10",
+    "deception": "+8",
+    "history": "+10",
+    "nature": "+10",
+    "perception": "+5",
+    "religion": "+10",
+    "name": "Elder Oblex",
+    "page": 219,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "ooze",
+    "AC": 16,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "history": "proficient",
+        "nature": "proficient",
+        "perception": "proficient",
+        "religion": "proficient"
+    },
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, prone"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this distance)",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Common plus six more"
+    ],
+    "CR": "10 (5,900 XP)"
+}

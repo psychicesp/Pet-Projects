@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "16",
+    "dexterity": "10",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "17",
+    "charisma": "13",
+    "intimidation": "+4",
+    "religion": "+3",
+    "name": "Firefist",
+    "page": 231,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "7 (2,900 XP)"
+}

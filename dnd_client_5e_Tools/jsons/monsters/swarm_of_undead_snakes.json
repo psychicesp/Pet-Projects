@@ -1,0 +1,42 @@
+{
+    "tags": [
+        "of"
+    ],
+    "hit": "8d8",
+    "strength": "8",
+    "dexterity": "18",
+    "constitution": "11",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "3",
+    "name": "Swarm of Undead Snakes",
+    "page": 247,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "swarm",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, slashing"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)"
+}

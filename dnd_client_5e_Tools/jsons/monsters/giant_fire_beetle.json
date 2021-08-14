@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "8",
+    "dexterity": "10",
+    "constitution": "12",
+    "intelligence": "1",
+    "wisdom": "7",
+    "charisma": "3",
+    "name": "Giant Fire Beetle",
+    "page": 325,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Small",
+    "type": "beast",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

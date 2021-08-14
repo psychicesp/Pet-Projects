@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "14",
+    "constitution": "13",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "8",
+    "stealth": "+4",
+    "name": "Shadow",
+    "page": 269,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "resistances": [
+        "acid, cold, fire, lightning, thunder",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/2 (100 XP)"
+}

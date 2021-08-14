@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "11",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "13",
+    "charisma": "14",
+    "deception": "+4",
+    "persuasion": "+4",
+    "religion": "+2",
+    "name": "Cult Fanatic",
+    "page": 345,
+    "book": "Monster Manual",
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "persuasion": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "2 (450 XP)"
+}

@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "9",
+    "dexterity": "16",
+    "constitution": "13",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "12",
+    "deception": "+3",
+    "stealth": "+5",
+    "name": "Dragonclaw",
+    "page": 89,
+    "book": "Hoard of the Dragon Queen",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "1 (200 XP)"
+}

@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "4",
+    "dexterity": "23",
+    "constitution": "13",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "7",
+    "acrobatics": "+8",
+    "perception": "+5",
+    "stealth": "+8",
+    "name": "Quickling",
+    "page": 187,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Tiny",
+    "type": "fey",
+    "AC": 16,
+    "speed": [
+        "120 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient",
+        "perception": "expert",
+        "sleight of hand": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Common",
+        "Sylvan"
+    ],
+    "CR": "1 (200 XP)"
+}

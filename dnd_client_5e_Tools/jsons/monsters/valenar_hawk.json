@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "hit": "4d4",
+    "strength": "8",
+    "dexterity": "18",
+    "constitution": "10",
+    "intelligence": "9",
+    "wisdom": "16",
+    "charisma": "11",
+    "perception": "+5",
+    "name": "Valenar Hawk",
+    "page": 312,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "N",
+    "size": "Tiny",
+    "type": "fey",
+    "AC": 14,
+    "speed": [
+        "10 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "understands Common",
+        "Elvish",
+        "and Sylvan but can\\'t speak"
+    ],
+    "CR": "1/8 (25 XP)"
+}

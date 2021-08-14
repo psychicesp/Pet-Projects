@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "aarakocra"
+    ],
+    "hit": "3d4",
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "11",
+    "wisdom": "12",
+    "charisma": "11",
+    "perception": "+5",
+    "name": "Aarakocra Simulacra",
+    "page": 188,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "NG",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "20 ft",
+        "fly 50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Auran",
+        "Aarakocra"
+    ],
+    "CR": "1/8 (25 XP)"
+}

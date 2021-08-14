@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "12",
+    "wisdom": "13",
+    "charisma": "11",
+    "athletics": "+7",
+    "perception": "+4",
+    "name": "Zakya Rakshasa",
+    "page": 309,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common",
+        "Infernal"
+    ],
+    "CR": "5 (1,800 XP)"
+}

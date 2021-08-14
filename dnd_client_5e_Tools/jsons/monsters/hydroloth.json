@@ -1,0 +1,50 @@
+{
+    "tags": [
+        "yugoloth"
+    ],
+    "strength": "12",
+    "dexterity": "21",
+    "constitution": "16",
+    "intelligence": "19",
+    "wisdom": "10",
+    "charisma": "14",
+    "insight": "+4",
+    "perception": "+4",
+    "name": "Hydroloth",
+    "page": 249,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 15,
+    "speed": [
+        "20 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "acid, poison"
+    ],
+    "resistances": [
+        "cold, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Abyssal",
+        "Infernal",
+        "telepathy 60 ft."
+    ],
+    "CR": "9 (5,000 XP)"
+}

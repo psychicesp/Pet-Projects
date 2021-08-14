@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "16",
+    "dexterity": "13",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "10",
+    "athletics": "+6",
+    "perception": "+3",
+    "name": "Half-Red Dragon Veteran",
+    "page": 180,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "fire"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "5 (1,800 XP)"
+}

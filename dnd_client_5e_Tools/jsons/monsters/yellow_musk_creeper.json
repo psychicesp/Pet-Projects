@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "3",
+    "constitution": "12",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "3",
+    "name": "Yellow Musk Creeper",
+    "page": 237,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "plant",
+    "AC": 6,
+    "speed": [
+        "5 ft",
+        "climb 5 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "condition_immunities": [
+        "blinded, deafened, exhaustion, prone"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)"
+}

@@ -1,0 +1,54 @@
+{
+    "tags": [],
+    "strength": "29",
+    "dexterity": "19",
+    "constitution": "27",
+    "intelligence": "21",
+    "wisdom": "22",
+    "charisma": "26",
+    "athletics": "+17",
+    "intimidation": "+16",
+    "perception": "+14",
+    "name": "Rak Tulkhesh",
+    "page": 303,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "NE",
+    "size": "Huge",
+    "type": "fiend",
+    "AC": 23,
+    "speed": [
+        "40 ft",
+        "climb 40 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 24"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "28 (120,000 XP)"
+}

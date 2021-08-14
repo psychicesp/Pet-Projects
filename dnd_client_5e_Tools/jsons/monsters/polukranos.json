@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "25",
+    "dexterity": "15",
+    "constitution": "21",
+    "intelligence": "4",
+    "wisdom": "14",
+    "charisma": "10",
+    "perception": "+14",
+    "name": "Polukranos",
+    "page": 231,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "monstrosity",
+    "AC": 17,
+    "speed": [
+        "50 ft",
+        "swim 50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "acid"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 24"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "19 (22,000 XP)"
+}

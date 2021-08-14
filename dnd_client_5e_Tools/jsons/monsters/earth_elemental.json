@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "8",
+    "constitution": "20",
+    "intelligence": "5",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Earth Elemental",
+    "page": 124,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Large",
+    "type": "elemental",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "burrow 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, paralyzed, petrified, poisoned, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Terran"
+    ],
+    "CR": "5 (1,800 XP)"
+}

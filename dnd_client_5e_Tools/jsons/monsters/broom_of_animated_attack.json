@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "hit": "5d6",
+    "strength": "10",
+    "dexterity": "17",
+    "constitution": "10",
+    "intelligence": "1",
+    "wisdom": "5",
+    "charisma": "1",
+    "name": "Broom of Animated Attack",
+    "page": 226,
+    "book": "Curse of Strahd",
+    "alignment": "U",
+    "size": "Small",
+    "type": "construct",
+    "AC": 15,
+    "speed": [
+        "0 ft",
+        "fly 50 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone"
+    ],
+    "senses": [
+        "blindsight 30 ft. (blind beyond this radius)",
+        "passive Perception 7"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)"
+}

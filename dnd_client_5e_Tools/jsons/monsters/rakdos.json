@@ -1,0 +1,55 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "26",
+    "dexterity": "15",
+    "constitution": "22",
+    "intelligence": "14",
+    "wisdom": "18",
+    "charisma": "30",
+    "intimidation": "+17",
+    "performance": "+17",
+    "persuasion": "+17",
+    "name": "Rakdos",
+    "page": 247,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend",
+    "AC": 20,
+    "speed": [
+        "40 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient",
+        "performance": "proficient",
+        "persuasion": "proficient"
+    },
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common"
+    ],
+    "CR": "24 (62,000 XP)"
+}

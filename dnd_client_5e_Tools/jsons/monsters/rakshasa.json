@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "17",
+    "constitution": "18",
+    "intelligence": "13",
+    "wisdom": "16",
+    "charisma": "20",
+    "deception": "+10",
+    "insight": "+8",
+    "name": "Rakshasa",
+    "page": 257,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 16,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "insight": "proficient"
+    },
+    "damage_immunities": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Infernal"
+    ],
+    "CR": "13 (10,000 XP)"
+}

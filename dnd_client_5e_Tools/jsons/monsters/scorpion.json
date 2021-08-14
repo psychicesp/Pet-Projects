@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "2",
+    "dexterity": "11",
+    "constitution": "8",
+    "intelligence": "1",
+    "wisdom": "8",
+    "charisma": "2",
+    "name": "Scorpion",
+    "page": 337,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast",
+    "AC": 11,
+    "speed": [
+        "10 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "blindsight 10 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

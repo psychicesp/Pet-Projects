@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "nagpa"
+    ],
+    "strength": "9",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "23",
+    "wisdom": "18",
+    "charisma": "21",
+    "arcana": "+12",
+    "deception": "+11",
+    "history": "+12",
+    "insight": "+10",
+    "perception": "+10",
+    "name": "Nagpa",
+    "page": 215,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 19,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "history": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "Common plus up to five other languages"
+    ],
+    "CR": "17 (18,000 XP)"
+}

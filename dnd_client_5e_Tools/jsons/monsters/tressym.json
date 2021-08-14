@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "hit": "2d4",
+    "strength": "3",
+    "dexterity": "15",
+    "constitution": "10",
+    "intelligence": "11",
+    "wisdom": "12",
+    "charisma": "12",
+    "perception": "+5",
+    "stealth": "+4",
+    "name": "Tressym",
+    "page": 242,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "CN",
+    "size": "Tiny",
+    "type": "beast",
+    "AC": 12,
+    "speed": [
+        "40 ft",
+        "climb 30 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "understands Common but can\\'t speak"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

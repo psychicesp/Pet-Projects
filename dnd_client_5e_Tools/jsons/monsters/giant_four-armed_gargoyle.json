@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "11",
+    "constitution": "20",
+    "intelligence": "6",
+    "wisdom": "11",
+    "charisma": "9",
+    "perception": "+4",
+    "name": "Giant Four-Armed Gargoyle",
+    "page": 221,
+    "book": "Tomb of Annihilation",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "elemental",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons"
+    ],
+    "condition_immunities": [
+        "exhaustion, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Terran"
+    ],
+    "CR": "10 (5,900 XP)"
+}

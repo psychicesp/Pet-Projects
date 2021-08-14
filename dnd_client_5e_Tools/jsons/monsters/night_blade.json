@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "11",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "14",
+    "intimidation": "+4",
+    "stealth": "+6",
+    "name": "Night Blade",
+    "page": 233,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1/4 (50 XP)"
+}

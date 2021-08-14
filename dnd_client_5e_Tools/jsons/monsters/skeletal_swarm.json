@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "of"
+    ],
+    "strength": "12",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "6",
+    "wisdom": "8",
+    "charisma": "5",
+    "name": "Skeletal Swarm",
+    "page": 254,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "swarm",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "slashing, piercing"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, restrained, stunned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)"
+}

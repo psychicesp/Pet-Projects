@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "8",
+    "constitution": "16",
+    "intelligence": "3",
+    "wisdom": "10",
+    "charisma": "6",
+    "name": "Gibbering Mouther",
+    "page": 157,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "aberration",
+    "AC": 9,
+    "speed": [
+        "10 ft",
+        "swim 10 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "condition_immunities": [
+        "prone"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)"
+}

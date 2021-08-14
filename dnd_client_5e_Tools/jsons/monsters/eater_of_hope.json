@@ -1,0 +1,51 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "17",
+    "constitution": "14",
+    "intelligence": "12",
+    "wisdom": "11",
+    "charisma": "16",
+    "deception": "+6",
+    "intimidation": "+6",
+    "persuasion": "+6",
+    "name": "Eater of Hope",
+    "page": 220,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "intimidation": "proficient",
+        "persuasion": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, necrotic"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Infernal"
+    ],
+    "CR": "6 (2,300 XP)"
+}

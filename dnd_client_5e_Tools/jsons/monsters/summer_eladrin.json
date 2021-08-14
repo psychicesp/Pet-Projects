@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "19",
+    "dexterity": "21",
+    "constitution": "16",
+    "intelligence": "14",
+    "wisdom": "12",
+    "charisma": "18",
+    "athletics": "+8",
+    "intimidation": "+8",
+    "name": "Summer Eladrin",
+    "page": 196,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "fey",
+    "AC": 19,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "intimidation": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "Common",
+        "Elvish",
+        "Sylvan"
+    ],
+    "CR": "10 (5,900 XP)"
+}

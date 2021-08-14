@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "hit": "5d8",
+    "strength": "10",
+    "dexterity": "12",
+    "constitution": "11",
+    "intelligence": "14",
+    "wisdom": "15",
+    "charisma": "18",
+    "perception": "+4",
+    "stealth": "+5",
+    "name": "Dryad",
+    "page": 121,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "fey",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Elvish",
+        "Sylvan"
+    ],
+    "CR": "1 (200 XP)"
+}

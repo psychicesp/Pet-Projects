@@ -1,0 +1,28 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "11",
+    "constitution": "12",
+    "intelligence": "2",
+    "wisdom": "9",
+    "charisma": "5",
+    "name": "Boar",
+    "page": 319,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)"
+}

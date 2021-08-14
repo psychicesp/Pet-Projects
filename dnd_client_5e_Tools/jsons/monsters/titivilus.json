@@ -1,0 +1,57 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "19",
+    "dexterity": "22",
+    "constitution": "17",
+    "intelligence": "24",
+    "wisdom": "22",
+    "charisma": "26",
+    "deception": "+13",
+    "insight": "+11",
+    "intimidation": "+13",
+    "persuasion": "+13",
+    "name": "Titivilus",
+    "page": 179,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 20,
+    "speed": [
+        "40 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "insight": "proficient",
+        "intimidation": "proficient",
+        "persuasion": "proficient"
+    },
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "16 (15,000 XP)"
+}

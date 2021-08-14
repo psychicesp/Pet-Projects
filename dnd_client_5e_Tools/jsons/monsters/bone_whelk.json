@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "hit": "5d10",
+    "strength": "10",
+    "dexterity": "5",
+    "constitution": "11",
+    "intelligence": "6",
+    "wisdom": "9",
+    "charisma": "3",
+    "name": "Bone Whelk",
+    "page": 119,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 12,
+    "speed": [
+        "15 ft",
+        "climb 15 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)"
+}

@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "hit": "5d8",
+    "strength": "12",
+    "dexterity": "14",
+    "constitution": "11",
+    "intelligence": "7",
+    "wisdom": "10",
+    "charisma": "8",
+    "name": "Fire Snake",
+    "page": 265,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "elemental",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Ignan but can\\'t speak"
+    ],
+    "CR": "1 (200 XP)"
+}

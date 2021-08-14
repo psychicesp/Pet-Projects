@@ -1,0 +1,33 @@
+{
+    "tags": [
+        "gnoll"
+    ],
+    "strength": "12",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "8",
+    "wisdom": "10",
+    "charisma": "8",
+    "name": "Gnoll Flesh Gnawer",
+    "page": 154,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Gnoll"
+    ],
+    "CR": "1 (200 XP)"
+}

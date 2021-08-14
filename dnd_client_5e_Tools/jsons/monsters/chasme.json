@@ -1,0 +1,49 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "15",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "14",
+    "charisma": "10",
+    "perception": "+5",
+    "name": "Chasme",
+    "page": 57,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 15,
+    "speed": [
+        "20 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Abyssal",
+        "telepathy 120 ft."
+    ],
+    "CR": "6 (2,300 XP)"
+}

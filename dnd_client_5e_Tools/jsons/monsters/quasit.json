@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "hit": "3d4",
+    "strength": "5",
+    "dexterity": "17",
+    "constitution": "10",
+    "intelligence": "7",
+    "wisdom": "10",
+    "charisma": "10",
+    "stealth": "+5",
+    "name": "Quasit",
+    "page": 63,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Tiny",
+    "type": "fiend",
+    "AC": 13,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common"
+    ],
+    "CR": "1 (200 XP)"
+}

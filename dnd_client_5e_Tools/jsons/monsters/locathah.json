@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "locathah"
+    ],
+    "strength": "13",
+    "dexterity": "12",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "11",
+    "athletics": "+3",
+    "perception": "+2",
+    "name": "Locathah",
+    "page": 243,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Aquan",
+        "Common"
+    ],
+    "CR": "1/2 (100 XP)"
+}

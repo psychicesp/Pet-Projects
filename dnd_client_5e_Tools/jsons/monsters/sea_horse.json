@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "1",
+    "dexterity": "12",
+    "constitution": "8",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "2",
+    "name": "Sea Horse",
+    "page": 337,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast",
+    "AC": 11,
+    "speed": [
+        "0 ft",
+        "swim 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

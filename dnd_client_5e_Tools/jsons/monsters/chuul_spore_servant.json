@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "10",
+    "constitution": "16",
+    "intelligence": "2",
+    "wisdom": "6",
+    "charisma": "1",
+    "name": "Chuul Spore Servant",
+    "page": 228,
+    "book": "Out of the Abyss",
+    "alignment": "U",
+    "size": "Large",
+    "type": "plant",
+    "AC": 16,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "blindsight 30 ft. (blind beyond this radius)",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "4 (1,100 XP)"
+}

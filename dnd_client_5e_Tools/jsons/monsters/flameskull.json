@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "1",
+    "dexterity": "17",
+    "constitution": "14",
+    "intelligence": "16",
+    "wisdom": "10",
+    "charisma": "11",
+    "arcana": "+5",
+    "perception": "+2",
+    "name": "Flameskull",
+    "page": 134,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Tiny",
+    "type": "undead",
+    "AC": 13,
+    "speed": [
+        "0 ft",
+        "fly 40 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "cold, fire, poison"
+    ],
+    "resistances": [
+        "lightning, necrotic, piercing"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, paralyzed, poisoned, prone"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "4 (1,100 XP)"
+}

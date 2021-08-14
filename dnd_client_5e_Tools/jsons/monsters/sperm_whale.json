@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "strength": "26",
+    "dexterity": "8",
+    "constitution": "17",
+    "intelligence": "3",
+    "wisdom": "12",
+    "charisma": "5",
+    "name": "Sperm Whale",
+    "page": 309,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "beast",
+    "AC": 13,
+    "speed": [
+        "0 ft",
+        "swim 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "blindsight 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "8 (3,900 XP)"
+}

@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "goliath"
+    ],
+    "strength": "18",
+    "dexterity": "11",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "15",
+    "charisma": "10",
+    "athletics": "+6",
+    "perception": "+4",
+    "survival": "+4",
+    "name": "Goliath Warrior",
+    "page": 292,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "resistances": [
+        "cold"
+    ],
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common",
+        "Giant"
+    ],
+    "CR": "3 (700 XP)"
+}

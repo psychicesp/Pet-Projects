@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "halfling"
+    ],
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "8",
+    "perception": "+2",
+    "stealth": "+4",
+    "name": "Shard Shunner",
+    "page": 42,
+    "book": "Waterdeep: Dragon Heist",
+    "alignment": "S",
+    "size": "Small",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "senses": [
+        "darkvision 60 ft. (rat form only)",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Halfling",
+        "Thieves\\' cant"
+    ],
+    "CR": "2 (450 XP)"
+}

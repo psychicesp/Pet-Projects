@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "11",
+    "constitution": "15",
+    "intelligence": "14",
+    "wisdom": "15",
+    "charisma": "14",
+    "deception": "+4",
+    "survival": "+4",
+    "name": "Yakfolk Warrior",
+    "page": 244,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Yikaria"
+    ],
+    "CR": "3 (700 XP)"
+}

@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "16",
+    "constitution": "18",
+    "intelligence": "15",
+    "wisdom": "17",
+    "charisma": "20",
+    "athletics": "+10",
+    "insight": "+8",
+    "perception": "+8",
+    "persuasion": "+10",
+    "name": "Mordakhesh",
+    "page": 301,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 18,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "insight": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Common",
+        "Infernal"
+    ],
+    "CR": "15 (13,000 XP)"
+}

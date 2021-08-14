@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "11",
+    "wisdom": "16",
+    "charisma": "9",
+    "name": "Merrow Shallowpriest",
+    "page": 294,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 15,
+    "speed": [
+        "10 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Abyssal",
+        "Aquan"
+    ],
+    "CR": "4 (1,100 XP)"
+}

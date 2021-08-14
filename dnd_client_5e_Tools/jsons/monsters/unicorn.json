@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "11",
+    "wisdom": "17",
+    "charisma": "16",
+    "name": "Unicorn",
+    "page": 294,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Large",
+    "type": "celestial",
+    "AC": 12,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, paralyzed, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Celestial",
+        "Elvish",
+        "Sylvan",
+        "telepathy 60 ft."
+    ],
+    "CR": "5 (1,800 XP)"
+}

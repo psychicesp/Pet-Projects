@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "15",
+    "dexterity": "14",
+    "constitution": "13",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "8",
+    "athletics": "+4",
+    "stealth": "+4",
+    "name": "Crushing Wave Reaver",
+    "page": 205,
+    "book": "Princes of the Apocalypse",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1/2 (100 XP)"
+}

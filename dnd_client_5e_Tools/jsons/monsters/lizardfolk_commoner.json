@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "lizardfolk"
+    ],
+    "strength": "15",
+    "dexterity": "10",
+    "constitution": "12",
+    "intelligence": "7",
+    "wisdom": "12",
+    "charisma": "7",
+    "perception": "+3",
+    "stealth": "+2",
+    "survival": "+3",
+    "name": "Lizardfolk Commoner",
+    "page": 241,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Draconic"
+    ],
+    "CR": "1/4 (50 XP)"
+}

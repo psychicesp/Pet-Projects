@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "22",
+    "dexterity": "15",
+    "constitution": "21",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "5",
+    "perception": "+5",
+    "name": "Dire Troll",
+    "page": 243,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "giant",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "13 (10,000 XP)"
+}

@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "hit": "2d4",
+    "strength": "4",
+    "dexterity": "15",
+    "constitution": "11",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "7",
+    "name": "Homunculus",
+    "page": 188,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Tiny",
+    "type": "construct",
+    "AC": 13,
+    "speed": [
+        "20 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands the languages of its creator but can't speak"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

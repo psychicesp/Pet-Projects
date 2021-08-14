@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "19",
+    "wisdom": "15",
+    "charisma": "19",
+    "perception": "+12",
+    "name": "Death Tyrant",
+    "page": 29,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "undead",
+    "AC": 19,
+    "speed": [
+        "0 ft",
+        "fly 20 ft. (hover)"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, paralyzed, petrified, poisoned, prone"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 22"
+    ],
+    "languages": [
+        "Deep Speech",
+        "Undercommon"
+    ],
+    "CR": "14 (11,500 XP) or 15 (13,000 XP) when encountered in lair"
+}

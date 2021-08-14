@@ -1,0 +1,48 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "11",
+    "dexterity": "16",
+    "constitution": "14",
+    "intelligence": "13",
+    "wisdom": "11",
+    "charisma": "10",
+    "acrobatics": "+6",
+    "deception": "+3",
+    "perception": "+3",
+    "stealth": "+9",
+    "name": "Half-Green Dragon Assassin",
+    "page": 56,
+    "book": "The Rise of Tiamat",
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient"
+    },
+    "skills": {
+        "acrobatics": "proficient",
+        "deception": "proficient",
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "resistances": [
+        "poison"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Thieves\\' cant plus any two languages",
+        "Draconic"
+    ],
+    "CR": "8 (3,900 XP)"
+}

@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "of"
+    ],
+    "strength": "9",
+    "dexterity": "11",
+    "constitution": "9",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "3",
+    "name": "Skeletal Rats",
+    "page": 23,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "swarm",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "bludgeoning, piercing, slashing"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+    ],
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)"
+}

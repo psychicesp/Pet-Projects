@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "27",
+    "dexterity": "7",
+    "constitution": "21",
+    "intelligence": "3",
+    "wisdom": "16",
+    "charisma": "12",
+    "name": "Neothelid",
+    "page": 181,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Gargantuan",
+    "type": "aberration",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "senses": [
+        "blindsight 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "13 (10,000 XP)"
+}

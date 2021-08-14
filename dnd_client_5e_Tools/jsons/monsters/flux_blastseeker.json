@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "20",
+    "wisdom": "9",
+    "charisma": "14",
+    "arcana": "+8",
+    "perception": "+2",
+    "name": "Flux Blastseeker",
+    "page": 242,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "5 (1,800 XP)"
+}

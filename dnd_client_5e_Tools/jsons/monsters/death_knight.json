@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "11",
+    "constitution": "20",
+    "intelligence": "12",
+    "wisdom": "16",
+    "charisma": "18",
+    "name": "Death Knight",
+    "page": 47,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 20,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common"
+    ],
+    "CR": "17 (18,000 XP)"
+}

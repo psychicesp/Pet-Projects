@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "12",
+    "dexterity": "18",
+    "constitution": "12",
+    "intelligence": "14",
+    "wisdom": "11",
+    "charisma": "15",
+    "acrobatics": "+8",
+    "athletics": "+5",
+    "persuasion": "+6",
+    "name": "Swashbuckler",
+    "page": 217,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "expert",
+        "athletics": "expert",
+        "persuasion": "expert"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "3 (700 XP)"
+}

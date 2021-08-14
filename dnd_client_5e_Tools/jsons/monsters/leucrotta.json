@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "9",
+    "wisdom": "12",
+    "charisma": "6",
+    "deception": "+2",
+    "perception": "+3",
+    "name": "Leucrotta",
+    "page": 169,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 14,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Abyssal",
+        "Gnoll"
+    ],
+    "CR": "3 (700 XP)"
+}

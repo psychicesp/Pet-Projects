@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "sahuagin"
+    ],
+    "strength": "13",
+    "dexterity": "11",
+    "constitution": "12",
+    "intelligence": "12",
+    "wisdom": "13",
+    "charisma": "9",
+    "perception": "+5",
+    "name": "Sahuagin",
+    "page": 263,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Sahuagin"
+    ],
+    "CR": "1/2 (100 XP)"
+}

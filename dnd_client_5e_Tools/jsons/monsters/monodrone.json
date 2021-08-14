@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "13",
+    "constitution": "12",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Monodrone",
+    "page": 224,
+    "book": "Monster Manual",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "construct",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Modron"
+    ],
+    "CR": "1/8 (25 XP)"
+}

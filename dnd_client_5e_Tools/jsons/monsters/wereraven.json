@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "human"
+    ],
+    "hit": "7d8",
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "11",
+    "intelligence": "13",
+    "wisdom": "15",
+    "charisma": "14",
+    "insight": "+4",
+    "perception": "+6",
+    "name": "Wereraven",
+    "page": 242,
+    "book": "Curse of Strahd",
+    "alignment": "S",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft. (fly 50 ft. in raven and hybrid forms)"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "insight": "proficient",
+        "perception": "expert"
+    },
+    "senses": [
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Common (can\\'t speak in raven form)"
+    ],
+    "CR": "2 (450 XP)"
+}

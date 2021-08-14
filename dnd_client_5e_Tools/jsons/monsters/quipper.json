@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "strength": "2",
+    "dexterity": "16",
+    "constitution": "9",
+    "intelligence": "1",
+    "wisdom": "7",
+    "charisma": "2",
+    "name": "Quipper",
+    "page": 335,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast",
+    "AC": 13,
+    "speed": [
+        "0 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

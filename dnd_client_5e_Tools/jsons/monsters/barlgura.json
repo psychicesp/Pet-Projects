@@ -1,0 +1,51 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "7",
+    "wisdom": "14",
+    "charisma": "9",
+    "perception": "+5",
+    "stealth": "+5",
+    "name": "Barlgura",
+    "page": 56,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 15,
+    "speed": [
+        "40 ft",
+        "climb 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Abyssal",
+        "telepathy 120 ft."
+    ],
+    "CR": "5 (1,800 XP)"
+}

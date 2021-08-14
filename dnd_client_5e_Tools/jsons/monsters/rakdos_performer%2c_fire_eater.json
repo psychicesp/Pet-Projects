@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "13",
+    "dexterity": "17",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "8",
+    "charisma": "15",
+    "acrobatics": "+7",
+    "performance": "+4",
+    "name": "Rakdos Performer, Fire Eater",
+    "page": 249,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "40 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "acrobatics": "expert",
+        "performance": "proficient"
+    },
+    "senses": [
+        "passive Perception 9"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1 (200 XP)"
+}

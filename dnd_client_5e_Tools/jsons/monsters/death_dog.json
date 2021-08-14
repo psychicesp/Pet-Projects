@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "3",
+    "wisdom": "13",
+    "charisma": "6",
+    "perception": "+5",
+    "stealth": "+4",
+    "name": "Death Dog",
+    "page": 321,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "monstrosity",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)"
+}

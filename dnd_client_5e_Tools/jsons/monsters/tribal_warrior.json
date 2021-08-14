@@ -1,0 +1,30 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "13",
+    "dexterity": "11",
+    "constitution": "12",
+    "intelligence": "8",
+    "wisdom": "11",
+    "charisma": "8",
+    "name": "Tribal Warrior",
+    "page": 350,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language"
+    ],
+    "CR": "1/8 (25 XP)"
+}

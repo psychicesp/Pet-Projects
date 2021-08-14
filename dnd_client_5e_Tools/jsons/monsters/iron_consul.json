@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "17",
+    "dexterity": "11",
+    "constitution": "16",
+    "intelligence": "12",
+    "wisdom": "15",
+    "charisma": "16",
+    "intimidation": "+5",
+    "perception": "+4",
+    "name": "Iron Consul",
+    "page": 232,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "condition_immunities": [
+        "frightened"
+    ],
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "2 (450 XP)"
+}

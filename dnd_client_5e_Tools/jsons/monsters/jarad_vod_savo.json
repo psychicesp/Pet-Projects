@@ -1,0 +1,52 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "16",
+    "constitution": "16",
+    "intelligence": "20",
+    "wisdom": "16",
+    "charisma": "15",
+    "arcana": "+12",
+    "insight": "+10",
+    "perception": "+10",
+    "name": "Jarad Vod Savo",
+    "page": 235,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "Common",
+        "Elvish",
+        "Kraul"
+    ],
+    "CR": "22 (41,000 XP)"
+}

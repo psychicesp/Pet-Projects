@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "12",
+    "dexterity": "15",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "16",
+    "deception": "+5",
+    "intimidation": "+5",
+    "religion": "+2",
+    "name": "Eternal Flame Priest",
+    "page": 200,
+    "book": "Princes of the Apocalypse",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "intimidation": "proficient",
+        "religion": "proficient"
+    },
+    "resistances": [
+        "fire"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Ignan"
+    ],
+    "CR": "3 (700 XP)"
+}

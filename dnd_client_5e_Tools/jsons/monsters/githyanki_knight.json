@@ -1,0 +1,34 @@
+{
+    "tags": [
+        "gith"
+    ],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "14",
+    "wisdom": "14",
+    "charisma": "15",
+    "name": "Githyanki Knight",
+    "page": 160,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {},
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Gith"
+    ],
+    "CR": "8 (3,900 XP)"
+}

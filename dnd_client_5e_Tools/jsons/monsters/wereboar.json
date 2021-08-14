@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "17",
+    "dexterity": "10",
+    "constitution": "15",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "8",
+    "perception": "+2",
+    "name": "Wereboar",
+    "page": 209,
+    "book": "Monster Manual",
+    "alignment": "S",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 10,
+    "speed": [
+        "30 ft. (40 ft. in boar form)"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common (can\\'t speak in boar form)"
+    ],
+    "CR": "4 (1,100 XP)"
+}

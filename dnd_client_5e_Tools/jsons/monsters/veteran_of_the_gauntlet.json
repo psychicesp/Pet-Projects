@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "16",
+    "dexterity": "13",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "10",
+    "athletics": "+5",
+    "perception": "+2",
+    "name": "Veteran of the Gauntlet",
+    "page": 130,
+    "book": "Out of the Abyss",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Dwarvish"
+    ],
+    "CR": "3 (700 XP)"
+}

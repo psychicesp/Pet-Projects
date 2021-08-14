@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "14",
+    "constitution": "16",
+    "intelligence": "9",
+    "wisdom": "14",
+    "charisma": "10",
+    "perception": "+6",
+    "name": "Monstrous Peryton",
+    "page": 245,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 14,
+    "speed": [
+        "20 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "understands Common and Elvish but can\\'t speak"
+    ],
+    "CR": "11 (7,200 XP)"
+}

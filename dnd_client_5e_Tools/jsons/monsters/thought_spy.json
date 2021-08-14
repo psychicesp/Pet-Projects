@@ -1,0 +1,44 @@
+{
+    "tags": [
+        "any"
+    ],
+    "hit": "6d8",
+    "strength": "11",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "16",
+    "wisdom": "13",
+    "charisma": "14",
+    "deception": "+6",
+    "insight": "+3",
+    "investigation": "+5",
+    "perception": "+3",
+    "stealth": "+4",
+    "name": "Thought Spy",
+    "page": 233,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "insight": "proficient",
+        "investigation": "proficient",
+        "perception": "proficient",
+        "sleight of hand": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "1 (200 XP)"
+}

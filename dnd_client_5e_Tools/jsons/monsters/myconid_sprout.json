@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "hit": "2d6",
+    "strength": "8",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "8",
+    "wisdom": "11",
+    "charisma": "5",
+    "name": "Myconid Sprout",
+    "page": 230,
+    "book": "Monster Manual",
+    "alignment": "LN",
+    "size": "Small",
+    "type": "plant",
+    "AC": 10,
+    "speed": [
+        "10 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "17",
+    "constitution": "16",
+    "intelligence": "4",
+    "wisdom": "14",
+    "charisma": "8",
+    "perception": "+4",
+    "stealth": "+7",
+    "name": "Crag Cat",
+    "page": 240,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 13,
+    "speed": [
+        "40 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)"
+}

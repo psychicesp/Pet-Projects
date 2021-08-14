@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "10",
+    "constitution": "22",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "11",
+    "perception": "+6",
+    "stealth": "+3",
+    "name": "Big Xorn",
+    "page": 51,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "N",
+    "size": "Large",
+    "type": "elemental",
+    "AC": 19,
+    "speed": [
+        "20 ft",
+        "burrow 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "piercing and slashing from nonmagical attacks that aren't adamantine"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Terran"
+    ],
+    "CR": "8 (3,900 XP)"
+}

@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "hit": "8d8",
+    "strength": "16",
+    "dexterity": "17",
+    "constitution": "10",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "8",
+    "name": "Ghast",
+    "page": 148,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "2 (450 XP)"
+}

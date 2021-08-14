@@ -1,0 +1,47 @@
+{
+    "tags": [
+        "merfolk"
+    ],
+    "strength": "11",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "20",
+    "wisdom": "18",
+    "charisma": "16",
+    "insight": "+9",
+    "nature": "+10",
+    "perception": "+9",
+    "name": "Zegana",
+    "page": 255,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 16,
+    "speed": [
+        "30 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "nature": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "cold, poison"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "Common",
+        "Elvish",
+        "Merfolk"
+    ],
+    "CR": "16 (15,000 XP)"
+}

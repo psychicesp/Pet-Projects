@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "12",
+    "wisdom": "12",
+    "charisma": "18",
+    "arcana": "+4",
+    "deception": "+7",
+    "persuasion": "+7",
+    "religion": "+4",
+    "name": "Warlock of the Fiend",
+    "page": 219,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "persuasion": "proficient",
+        "religion": "proficient"
+    },
+    "resistances": [
+        "slashing from nonmagical attacks not made with silvered weapons"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any two languages (usually Abyssal or Infernal)"
+    ],
+    "CR": "7 (2,900 XP)"
+}

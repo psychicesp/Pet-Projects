@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "13",
+    "constitution": "19",
+    "intelligence": "3",
+    "wisdom": "16",
+    "charisma": "10",
+    "perception": "+6",
+    "name": "Gold-Forged Sentinel",
+    "page": 211,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct",
+    "AC": 16,
+    "speed": [
+        "40 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "understands one language of its creator but can\\'t speak"
+    ],
+    "CR": "5 (1,800 XP)"
+}

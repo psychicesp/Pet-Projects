@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "12",
+    "constitution": "18",
+    "intelligence": "10",
+    "wisdom": "16",
+    "charisma": "9",
+    "athletics": "+7",
+    "perception": "+9",
+    "stealth": "+4",
+    "name": "Underworld Cerberus",
+    "page": 215,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 16,
+    "speed": [
+        "60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "fire, necrotic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, stunned"
+    ],
+    "senses": [
+        "truesight 30 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "understands all languages but can\\'t speak"
+    ],
+    "CR": "6 (2,300 XP)"
+}

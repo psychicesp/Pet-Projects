@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "derro"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "5",
+    "charisma": "9",
+    "stealth": "+4",
+    "name": "Derro",
+    "page": 158,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 7"
+    ],
+    "languages": [
+        "Dwarvish",
+        "Undercommon"
+    ],
+    "CR": "1/4 (50 XP)"
+}

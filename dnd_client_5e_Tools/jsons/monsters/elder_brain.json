@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "10",
+    "constitution": "20",
+    "intelligence": "21",
+    "wisdom": "19",
+    "charisma": "24",
+    "arcana": "+10",
+    "deception": "+12",
+    "insight": "+14",
+    "intimidation": "+12",
+    "persuasion": "+12",
+    "name": "Elder Brain",
+    "page": 173,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "aberration",
+    "AC": 10,
+    "speed": [
+        "5 ft",
+        "swim 10 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "insight": "expert",
+        "intimidation": "proficient",
+        "persuasion": "proficient"
+    },
+    "senses": [
+        "blindsight 120 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "understands Common",
+        "Deep Speech",
+        "and Undercommon but can't speak",
+        "telepathy 5 miles"
+    ],
+    "CR": "14 (11,500 XP)"
+}

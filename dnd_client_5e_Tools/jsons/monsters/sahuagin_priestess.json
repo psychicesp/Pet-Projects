@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "sahuagin"
+    ],
+    "strength": "13",
+    "dexterity": "11",
+    "constitution": "12",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "13",
+    "perception": "+6",
+    "religion": "+3",
+    "name": "Sahuagin Priestess",
+    "page": 264,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "religion": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Sahuagin"
+    ],
+    "CR": "2 (450 XP)"
+}

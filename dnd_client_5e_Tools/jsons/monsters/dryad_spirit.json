@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "hit": "13d8",
+    "strength": "1",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "12",
+    "wisdom": "11",
+    "charisma": "17",
+    "name": "Dryad Spirit",
+    "page": 108,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 12,
+    "speed": [
+        "0 ft",
+        "fly 40 ft. (hover)"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "cold, necrotic, poison"
+    ],
+    "resistances": [
+        "acid, fire, lightning, thunder",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Elvish"
+    ],
+    "CR": "4 (1,100 XP)"
+}

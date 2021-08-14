@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "11",
+    "dexterity": "20",
+    "constitution": "13",
+    "intelligence": "15",
+    "wisdom": "12",
+    "charisma": "16",
+    "intimidation": "+5",
+    "perception": "+3",
+    "persuasion": "+5",
+    "stealth": "+9",
+    "name": "Reaper of Bhaal",
+    "page": 233,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "2 (450 XP)"
+}

@@ -1,0 +1,50 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "23",
+    "dexterity": "13",
+    "constitution": "19",
+    "intelligence": "19",
+    "wisdom": "17",
+    "charisma": "20",
+    "perception": "+7",
+    "stealth": "+5",
+    "name": "Yuan-ti Anathema",
+    "page": 202,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "Y",
+    "size": "Huge",
+    "type": "monstrosity",
+    "AC": 16,
+    "speed": [
+        "40 ft",
+        "climb 30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "acid, fire, lightning"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "blindsight 30 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Draconic"
+    ],
+    "CR": "12 (8,400 XP)"
+}

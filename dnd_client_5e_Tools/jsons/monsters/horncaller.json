@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "13",
+    "dexterity": "12",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "14",
+    "charisma": "13",
+    "nature": "+2",
+    "perception": "+4",
+    "name": "Horncaller",
+    "page": 253,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "animal handling": "proficient",
+        "nature": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "1 (200 XP)"
+}

@@ -1,0 +1,30 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "17",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "9",
+    "name": "Berserker",
+    "page": 344,
+    "book": "Monster Manual",
+    "alignment": "ACA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "2 (450 XP)"
+}

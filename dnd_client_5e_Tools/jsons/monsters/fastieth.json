@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "hit": "2d8",
+    "strength": "12",
+    "dexterity": "18",
+    "constitution": "10",
+    "intelligence": "4",
+    "wisdom": "11",
+    "charisma": "4",
+    "name": "Fastieth",
+    "page": 289,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast",
+    "AC": 14,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)"
+}

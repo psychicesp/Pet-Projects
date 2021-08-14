@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "16",
+    "constitution": "16",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "15",
+    "name": "Wraith",
+    "page": 302,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 13,
+    "speed": [
+        "0 ft",
+        "fly 60 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "resistances": [
+        "acid, cold, fire, lightning, thunder",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "5 (1,800 XP)"
+}

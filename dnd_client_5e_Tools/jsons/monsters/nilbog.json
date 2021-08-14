@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "goblinoid"
+    ],
+    "hit": "2d6",
+    "strength": "8",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "8",
+    "charisma": "15",
+    "stealth": "+6",
+    "name": "Nilbog",
+    "page": 182,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "Common",
+        "Goblin"
+    ],
+    "CR": "1 (200 XP)"
+}

@@ -1,0 +1,47 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "20",
+    "dexterity": "15",
+    "constitution": "18",
+    "intelligence": "13",
+    "wisdom": "11",
+    "charisma": "11",
+    "perception": "+3",
+    "stealth": "+5",
+    "name": "Draegloth",
+    "page": 141,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Abyssal",
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "7 (2,900 XP)"
+}

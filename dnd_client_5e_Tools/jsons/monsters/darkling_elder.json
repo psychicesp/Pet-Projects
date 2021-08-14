@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "17",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "14",
+    "charisma": "13",
+    "acrobatics": "+5",
+    "deception": "+3",
+    "perception": "+6",
+    "stealth": "+7",
+    "name": "Darkling Elder",
+    "page": 134,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "fey",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient",
+        "deception": "proficient",
+        "perception": "expert",
+        "stealth": "expert"
+    },
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Elvish",
+        "Sylvan"
+    ],
+    "CR": "2 (450 XP)"
+}

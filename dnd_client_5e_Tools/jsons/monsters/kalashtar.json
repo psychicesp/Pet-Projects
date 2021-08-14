@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "kalashtar"
+    ],
+    "strength": "12",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "13",
+    "wisdom": "15",
+    "charisma": "15",
+    "acrobatics": "+4",
+    "insight": "+4",
+    "persuasion": "+6",
+    "name": "Kalashtar",
+    "page": 317,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient",
+        "insight": "proficient",
+        "persuasion": "expert"
+    },
+    "resistances": [
+        "psychic"
+    ],
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "telepathy 20 ft."
+    ],
+    "CR": "1/4 (50 XP)"
+}

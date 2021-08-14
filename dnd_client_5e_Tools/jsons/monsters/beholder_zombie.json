@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "8",
+    "constitution": "16",
+    "intelligence": "3",
+    "wisdom": "8",
+    "charisma": "5",
+    "name": "Beholder Zombie",
+    "page": 316,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "undead",
+    "AC": 15,
+    "speed": [
+        "0 ft",
+        "fly 20 ft. (hover)"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned, prone"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "understands Deep Speech and Undercommon but can\\'t speak"
+    ],
+    "CR": "5 (1,800 XP)"
+}

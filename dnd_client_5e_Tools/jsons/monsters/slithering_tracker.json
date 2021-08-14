@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "19",
+    "constitution": "15",
+    "intelligence": "10",
+    "wisdom": "14",
+    "charisma": "11",
+    "stealth": "+8",
+    "name": "Slithering Tracker",
+    "page": 191,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "ooze",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "climb 30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "expert"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "blinded, deafened, exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious"
+    ],
+    "senses": [
+        "blindsight 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands languages it knew in its previous form but can\\'t speak"
+    ],
+    "CR": "3 (700 XP)"
+}

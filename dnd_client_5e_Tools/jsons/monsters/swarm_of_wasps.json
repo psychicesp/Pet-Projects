@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "of"
+    ],
+    "hit": "5d8",
+    "strength": "3",
+    "dexterity": "13",
+    "constitution": "10",
+    "intelligence": "1",
+    "wisdom": "7",
+    "charisma": "1",
+    "name": "Swarm of Wasps",
+    "page": 338,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "swarm",
+    "AC": 12,
+    "speed": [
+        "5 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "bludgeoning, piercing, slashing"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/2 (100 XP)"
+}

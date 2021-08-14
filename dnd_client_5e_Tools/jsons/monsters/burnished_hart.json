@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "14",
+    "constitution": "16",
+    "intelligence": "3",
+    "wisdom": "15",
+    "charisma": "1",
+    "name": "Burnished Hart",
+    "page": 211,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct",
+    "AC": 14,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands one language of its creator but can't speak"
+    ],
+    "CR": "2 (450 XP)"
+}

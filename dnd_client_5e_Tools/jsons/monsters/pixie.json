@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "2",
+    "dexterity": "20",
+    "constitution": "8",
+    "intelligence": "10",
+    "wisdom": "14",
+    "charisma": "15",
+    "perception": "+4",
+    "stealth": "+7",
+    "name": "Pixie",
+    "page": 253,
+    "book": "Monster Manual",
+    "alignment": "NG",
+    "size": "Tiny",
+    "type": "fey",
+    "AC": 15,
+    "speed": [
+        "10 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Sylvan"
+    ],
+    "CR": "1/4 (50 XP)"
+}

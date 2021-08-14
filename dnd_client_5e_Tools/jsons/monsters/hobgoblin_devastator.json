@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "goblinoid"
+    ],
+    "strength": "13",
+    "dexterity": "12",
+    "constitution": "14",
+    "intelligence": "16",
+    "wisdom": "13",
+    "charisma": "11",
+    "arcana": "+5",
+    "name": "Hobgoblin Devastator",
+    "page": 161,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common",
+        "Goblin"
+    ],
+    "CR": "4 (1,100 XP)"
+}

@@ -1,0 +1,42 @@
+{
+    "tags": [
+        "human"
+    ],
+    "hit": "5d8",
+    "strength": "9",
+    "dexterity": "14",
+    "constitution": "11",
+    "intelligence": "17",
+    "wisdom": "12",
+    "charisma": "11",
+    "arcana": "+5",
+    "history": "+5",
+    "name": "Evil Mage",
+    "page": 57,
+    "book": "Lost Mine of Phandelver",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common",
+        "Draconic",
+        "Dwarvish",
+        "Elvish"
+    ],
+    "CR": "1 (200 XP)"
+}

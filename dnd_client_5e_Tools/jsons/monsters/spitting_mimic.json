@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "21",
+    "dexterity": "12",
+    "constitution": "17",
+    "intelligence": "9",
+    "wisdom": "15",
+    "charisma": "10",
+    "stealth": "+7",
+    "name": "Spitting Mimic",
+    "page": 302,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "N",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 14,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "expert"
+    },
+    "damage_immunities": [
+        "acid"
+    ],
+    "condition_immunities": [
+        "prone"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "5 (1,800 XP)"
+}

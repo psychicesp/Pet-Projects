@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "13",
+    "constitution": "12",
+    "intelligence": "7",
+    "wisdom": "10",
+    "charisma": "13",
+    "name": "Harpy",
+    "page": 181,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "monstrosity",
+    "AC": 11,
+    "speed": [
+        "20 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1 (200 XP)"
+}

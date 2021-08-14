@@ -1,0 +1,55 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "22",
+    "dexterity": "15",
+    "constitution": "21",
+    "intelligence": "23",
+    "wisdom": "21",
+    "charisma": "26",
+    "deception": "+15",
+    "insight": "+12",
+    "perception": "+12",
+    "persuasion": "+15",
+    "name": "Graz\\'zt",
+    "page": 149,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "S",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 20,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "insight": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient"
+    },
+    "damage_immunities": [
+        "poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 22"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "24 (62,000 XP)"
+}

@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "12",
+    "intelligence": "13",
+    "wisdom": "16",
+    "charisma": "13",
+    "medicine": "+7",
+    "perception": "+5",
+    "persuasion": "+3",
+    "religion": "+5",
+    "name": "Junior Drow Priestess of Lolth",
+    "page": 149,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "medicine": "expert",
+        "perception": "proficient",
+        "persuasion": "proficient",
+        "religion": "expert"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "any two languages",
+        "Elvish"
+    ],
+    "CR": "2 (450 XP)"
+}

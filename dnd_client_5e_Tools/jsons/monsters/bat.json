@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "strength": "2",
+    "dexterity": "15",
+    "constitution": "8",
+    "intelligence": "2",
+    "wisdom": "12",
+    "charisma": "4",
+    "name": "Bat",
+    "page": 318,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast",
+    "AC": 12,
+    "speed": [
+        "5 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "blindsight 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

@@ -1,0 +1,55 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "29",
+    "dexterity": "12",
+    "constitution": "25",
+    "intelligence": "26",
+    "wisdom": "24",
+    "charisma": "26",
+    "deception": "+15",
+    "perception": "+14",
+    "stealth": "+8",
+    "name": "Fraz-Urb\\'luu",
+    "page": 146,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 18,
+    "speed": [
+        "40 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 24"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "23 (50,000 XP) or 24 (62,000 XP) when encountered in lair"
+}

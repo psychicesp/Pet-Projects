@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "10",
+    "dexterity": "12",
+    "constitution": "13",
+    "intelligence": "12",
+    "wisdom": "15",
+    "charisma": "11",
+    "medicine": "+4",
+    "nature": "+3",
+    "perception": "+4",
+    "name": "Druid",
+    "page": 346,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "medicine": "proficient",
+        "nature": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Druidic plus any two languages"
+    ],
+    "CR": "2 (450 XP)"
+}

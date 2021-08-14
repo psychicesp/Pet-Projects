@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "18",
+    "constitution": "15",
+    "intelligence": "3",
+    "wisdom": "10",
+    "charisma": "1",
+    "name": "Oaken Bolter",
+    "page": 126,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands one language of its creator but can\\'t speak"
+    ],
+    "CR": "5 (1,800 XP)"
+}

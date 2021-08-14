@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "12",
+    "constitution": "18",
+    "intelligence": "22",
+    "wisdom": "19",
+    "charisma": "16",
+    "perception": "+9",
+    "name": "Star Spawn Seer",
+    "page": 236,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "aberration",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "psychic"
+    ],
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "Common",
+        "Deep Speech",
+        "Undercommon"
+    ],
+    "CR": "13 (10,000 XP)"
+}

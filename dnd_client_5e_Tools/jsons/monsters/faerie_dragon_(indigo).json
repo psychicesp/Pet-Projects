@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "3",
+    "dexterity": "20",
+    "constitution": "13",
+    "intelligence": "14",
+    "wisdom": "12",
+    "charisma": "16",
+    "arcana": "+4",
+    "perception": "+3",
+    "stealth": "+7",
+    "name": "Faerie Dragon (Indigo)",
+    "page": 133,
+    "book": "Monster Manual",
+    "alignment": "CG",
+    "size": "Tiny",
+    "type": "dragon",
+    "AC": 15,
+    "speed": [
+        "10 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Draconic",
+        "Sylvan"
+    ],
+    "CR": "2 (450 XP)"
+}

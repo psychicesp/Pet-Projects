@@ -1,0 +1,47 @@
+{
+    "tags": [
+        "triton"
+    ],
+    "strength": "16",
+    "dexterity": "11",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "19",
+    "athletics": "+6",
+    "nature": "+6",
+    "survival": "+4",
+    "name": "Triton Master of Waves",
+    "page": 245,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "nature": "expert",
+        "survival": "proficient"
+    },
+    "resistances": [
+        "cold, fire"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common",
+        "Primordial"
+    ],
+    "CR": "8 (3,900 XP)"
+}

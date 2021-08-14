@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "13",
+    "dexterity": "12",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "11",
+    "athletics": "+3",
+    "perception": "+2",
+    "name": "Soldier",
+    "page": 226,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1/2 (100 XP)"
+}

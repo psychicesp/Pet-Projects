@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "gith"
+    ],
+    "strength": "17",
+    "dexterity": "15",
+    "constitution": "14",
+    "intelligence": "16",
+    "wisdom": "15",
+    "charisma": "16",
+    "insight": "+6",
+    "perception": "+6",
+    "stealth": "+6",
+    "name": "Githyanki Gish",
+    "page": 205,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Gith"
+    ],
+    "CR": "10 (5,900 XP)"
+}

@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "16",
+    "constitution": "18",
+    "intelligence": "6",
+    "wisdom": "14",
+    "charisma": "5",
+    "name": "Winged Lion",
+    "page": 214,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Large",
+    "type": "celestial",
+    "AC": 13,
+    "speed": [
+        "60 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands Celestial but can\\'t speak"
+    ],
+    "CR": "4 (1,100 XP)"
+}

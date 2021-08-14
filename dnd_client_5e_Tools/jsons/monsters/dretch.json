@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "11",
+    "dexterity": "11",
+    "constitution": "12",
+    "intelligence": "5",
+    "wisdom": "8",
+    "charisma": "3",
+    "name": "Dretch",
+    "page": 57,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "fiend",
+    "AC": 11,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "Abyssal",
+        "telepathy 60 ft. (works only with creatures that understand Abyssal)"
+    ],
+    "CR": "1/4 (50 XP)"
+}

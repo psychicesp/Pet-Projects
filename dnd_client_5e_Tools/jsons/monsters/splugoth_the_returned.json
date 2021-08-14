@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "goblinoid"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "14",
+    "wisdom": "11",
+    "charisma": "10",
+    "stealth": "+6",
+    "name": "Splugoth the Returned",
+    "page": 213,
+    "book": "Acquisitions Incorporated",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Draconic",
+        "Elvish",
+        "Goblin"
+    ],
+    "CR": "2 (450 XP)"
+}

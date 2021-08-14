@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "hit": "2d8",
+    "strength": "12",
+    "dexterity": "13",
+    "constitution": "10",
+    "intelligence": "6",
+    "wisdom": "11",
+    "charisma": "13",
+    "intimidation": "+3",
+    "name": "Blood-Toll Harpy",
+    "page": 227,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "monstrosity",
+    "AC": 11,
+    "speed": [
+        "20 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1/8 (25 XP)"
+}

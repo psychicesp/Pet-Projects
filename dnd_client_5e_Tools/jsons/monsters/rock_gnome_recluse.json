@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "gnome"
+    ],
+    "hit": "2d6",
+    "strength": "6",
+    "dexterity": "11",
+    "constitution": "10",
+    "intelligence": "15",
+    "wisdom": "10",
+    "charisma": "13",
+    "arcana": "+4",
+    "history": "+4",
+    "name": "Rock Gnome Recluse",
+    "page": 62,
+    "book": "Dragon of Icespire Peak",
+    "alignment": "CN",
+    "size": "Small",
+    "type": "humanoid",
+    "AC": 10,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Gnomish"
+    ],
+    "CR": "1/4 (50 XP)"
+}

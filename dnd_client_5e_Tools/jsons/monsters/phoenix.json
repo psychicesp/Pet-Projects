@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "26",
+    "constitution": "25",
+    "intelligence": "2",
+    "wisdom": "21",
+    "charisma": "18",
+    "name": "Phoenix",
+    "page": 199,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "N",
+    "size": "Gargantuan",
+    "type": "elemental",
+    "AC": 18,
+    "speed": [
+        "20 ft",
+        "fly 120 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "16 (15,000 XP)"
+}

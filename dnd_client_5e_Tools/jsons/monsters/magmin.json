@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "7",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "8",
+    "wisdom": "11",
+    "charisma": "10",
+    "name": "Magmin",
+    "page": 212,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Small",
+    "type": "elemental",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Ignan"
+    ],
+    "CR": "1/2 (100 XP)"
+}

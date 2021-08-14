@@ -1,0 +1,45 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "15",
+    "dexterity": "20",
+    "constitution": "16",
+    "intelligence": "18",
+    "wisdom": "15",
+    "charisma": "18",
+    "acrobatics": "+11",
+    "athletics": "+8",
+    "perception": "+8",
+    "stealth": "+11",
+    "name": "Drow Favored Consort",
+    "page": 183,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "acrobatics": "proficient",
+        "athletics": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "18 (20,000 XP)"
+}

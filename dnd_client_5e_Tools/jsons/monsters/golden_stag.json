@@ -1,0 +1,28 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "10",
+    "constitution": "12",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "6",
+    "name": "Golden Stag",
+    "page": 35,
+    "book": "Hoard of the Dragon Queen",
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast",
+    "AC": 10,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)"
+}

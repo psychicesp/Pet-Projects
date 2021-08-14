@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "7",
+    "dexterity": "10",
+    "constitution": "13",
+    "intelligence": "2",
+    "wisdom": "12",
+    "charisma": "4",
+    "perception": "+3",
+    "name": "Vulture",
+    "page": 339,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast",
+    "AC": 10,
+    "speed": [
+        "10 ft",
+        "fly 50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "10",
+    "constitution": "18",
+    "intelligence": "6",
+    "wisdom": "11",
+    "charisma": "12",
+    "perception": "+6",
+    "stealth": "+3",
+    "name": "Young White Dragon",
+    "page": 101,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "dragon",
+    "AC": 17,
+    "speed": [
+        "40 ft",
+        "burrow 20 ft",
+        "fly 80 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "cold"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "6 (2,300 XP)"
+}

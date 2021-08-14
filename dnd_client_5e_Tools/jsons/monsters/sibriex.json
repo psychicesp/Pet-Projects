@@ -1,0 +1,53 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "10",
+    "dexterity": "3",
+    "constitution": "23",
+    "intelligence": "25",
+    "wisdom": "24",
+    "charisma": "25",
+    "arcana": "+13",
+    "history": "+13",
+    "perception": "+13",
+    "name": "Sibriex",
+    "page": 137,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend",
+    "AC": 19,
+    "speed": [
+        "0 ft",
+        "fly 20 ft. (hover)"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 23"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "18 (20,000 XP)"
+}

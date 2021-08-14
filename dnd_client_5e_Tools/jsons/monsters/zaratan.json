@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "30",
+    "dexterity": "10",
+    "constitution": "30",
+    "intelligence": "2",
+    "wisdom": "21",
+    "charisma": "18",
+    "name": "Zaratan",
+    "page": 201,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "N",
+    "size": "Gargantuan",
+    "type": "elemental",
+    "AC": 21,
+    "speed": [
+        "40 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, paralyzed, petrified, poisoned, stunned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "22 (41,000 XP)"
+}

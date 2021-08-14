@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "16",
+    "constitution": "16",
+    "intelligence": "9",
+    "wisdom": "9",
+    "charisma": "16",
+    "intimidation": "+5",
+    "stealth": "+5",
+    "name": "Drowned Assassin",
+    "page": 234,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "understands the languages it knew in life but can\\'t speak"
+    ],
+    "CR": "4 (1,100 XP)"
+}

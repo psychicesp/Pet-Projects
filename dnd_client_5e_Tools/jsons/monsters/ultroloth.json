@@ -1,0 +1,51 @@
+{
+    "tags": [
+        "yugoloth"
+    ],
+    "strength": "16",
+    "dexterity": "16",
+    "constitution": "18",
+    "intelligence": "18",
+    "wisdom": "15",
+    "charisma": "19",
+    "intimidation": "+9",
+    "perception": "+7",
+    "stealth": "+8",
+    "name": "Ultroloth",
+    "page": 314,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 19,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "acid, poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "Abyssal",
+        "Infernal",
+        "telepathy 120 ft."
+    ],
+    "CR": "13 (10,000 XP)"
+}

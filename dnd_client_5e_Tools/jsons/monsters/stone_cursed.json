@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "5",
+    "constitution": "14",
+    "intelligence": "5",
+    "wisdom": "8",
+    "charisma": "7",
+    "name": "Stone Cursed",
+    "page": 240,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "construct",
+    "AC": 17,
+    "speed": [
+        "10 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, petrified, poisoned"
+    ],
+    "senses": [
+        "passive Perception 9"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "1 (200 XP)"
+}

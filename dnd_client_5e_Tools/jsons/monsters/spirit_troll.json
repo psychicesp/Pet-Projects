@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "1",
+    "dexterity": "17",
+    "constitution": "13",
+    "intelligence": "8",
+    "wisdom": "9",
+    "charisma": "16",
+    "perception": "+3",
+    "name": "Spirit Troll",
+    "page": 244,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "resistances": [
+        "acid, cold, fire, lightning, thunder"
+    ],
+    "condition_immunities": [
+        "exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "11 (7,200 XP)"
+}

@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "sahuagin"
+    ],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "12",
+    "intelligence": "12",
+    "wisdom": "13",
+    "charisma": "9",
+    "perception": "+5",
+    "name": "Sahuagin Coral Smasher",
+    "page": 249,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Sahuagin"
+    ],
+    "CR": "1 (200 XP)"
+}

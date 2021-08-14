@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "10",
+    "constitution": "17",
+    "intelligence": "3",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Galvanice Weird",
+    "page": 209,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "elemental",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)"
+}

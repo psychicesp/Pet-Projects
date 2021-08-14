@@ -1,0 +1,28 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "10",
+    "constitution": "13",
+    "intelligence": "2",
+    "wisdom": "11",
+    "charisma": "7",
+    "name": "Pony",
+    "page": 335,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast",
+    "AC": 10,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/8 (25 XP)"
+}

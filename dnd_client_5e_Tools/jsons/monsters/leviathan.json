@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "30",
+    "dexterity": "24",
+    "constitution": "30",
+    "intelligence": "2",
+    "wisdom": "18",
+    "charisma": "17",
+    "name": "Leviathan",
+    "page": 198,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "N",
+    "size": "Gargantuan",
+    "type": "elemental",
+    "AC": 17,
+    "speed": [
+        "40 ft",
+        "swim 120 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "acid, poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "20 (25,000 XP)"
+}

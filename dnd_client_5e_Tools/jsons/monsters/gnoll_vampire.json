@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "20",
+    "dexterity": "18",
+    "constitution": "18",
+    "intelligence": "6",
+    "wisdom": "12",
+    "charisma": "9",
+    "name": "Gnoll Vampire",
+    "page": 290,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "Gnoll"
+    ],
+    "CR": "8 (3,900 XP)"
+}

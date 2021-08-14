@@ -1,0 +1,56 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "12",
+    "dexterity": "17",
+    "constitution": "16",
+    "intelligence": "17",
+    "wisdom": "12",
+    "charisma": "19",
+    "deception": "+9",
+    "insight": "+6",
+    "perception": "+6",
+    "persuasion": "+9",
+    "name": "Green Abishai",
+    "page": 162,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 18,
+    "speed": [
+        "30 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "insight": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient"
+    },
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Draconic",
+        "Infernal",
+        "telepathy 120 ft."
+    ],
+    "CR": "15 (13,000 XP)"
+}

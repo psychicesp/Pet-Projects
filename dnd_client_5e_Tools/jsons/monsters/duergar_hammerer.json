@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "7",
+    "constitution": "12",
+    "intelligence": "5",
+    "wisdom": "5",
+    "charisma": "5",
+    "name": "Duergar Hammerer",
+    "page": 188,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "construct",
+    "AC": 17,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 7"
+    ],
+    "languages": [
+        "understands Dwarvish but can\\'t speak"
+    ],
+    "CR": "2 (450 XP)"
+}

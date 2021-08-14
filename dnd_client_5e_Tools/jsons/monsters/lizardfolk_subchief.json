@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "lizardfolk"
+    ],
+    "strength": "14",
+    "dexterity": "12",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "16",
+    "charisma": "12",
+    "athletics": "+4",
+    "perception": "+5",
+    "survival": "+5",
+    "name": "Lizardfolk Subchief",
+    "page": 242,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Draconic"
+    ],
+    "CR": "3 (700 XP)"
+}

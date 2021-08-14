@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "15",
+    "dexterity": "13",
+    "constitution": "14",
+    "intelligence": "8",
+    "wisdom": "11",
+    "charisma": "13",
+    "intimidation": "+3",
+    "perception": "+2",
+    "name": "Eternal Flame Guardian",
+    "page": 200,
+    "book": "Princes of the Apocalypse",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "fire"
+    ],
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "2 (450 XP)"
+}

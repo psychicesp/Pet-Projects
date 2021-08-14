@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "hit": "1d4",
+    "strength": "3",
+    "dexterity": "18",
+    "constitution": "10",
+    "intelligence": "14",
+    "wisdom": "13",
+    "charisma": "11",
+    "perception": "+3",
+    "stealth": "+8",
+    "name": "Sprite",
+    "page": 283,
+    "book": "Monster Manual",
+    "alignment": "NG",
+    "size": "Tiny",
+    "type": "fey",
+    "AC": 15,
+    "speed": [
+        "10 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Elvish",
+        "Sylvan"
+    ],
+    "CR": "1/4 (50 XP)"
+}

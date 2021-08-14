@@ -1,0 +1,50 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "8",
+    "dexterity": "17",
+    "constitution": "13",
+    "intelligence": "15",
+    "wisdom": "12",
+    "charisma": "20",
+    "deception": "+9",
+    "insight": "+5",
+    "perception": "+5",
+    "persuasion": "+9",
+    "stealth": "+7",
+    "name": "Incubus",
+    "page": 285,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "insight": "expert",
+        "perception": "expert",
+        "persuasion": "expert",
+        "stealth": "expert"
+    },
+    "resistances": [
+        "cold, fire, lightning, poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Infernal",
+        "telepathy 60 ft."
+    ],
+    "CR": "4 (1,100 XP)"
+}

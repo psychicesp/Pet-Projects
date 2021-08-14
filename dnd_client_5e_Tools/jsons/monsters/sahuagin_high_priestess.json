@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "sahuagin"
+    ],
+    "strength": "14",
+    "dexterity": "12",
+    "constitution": "14",
+    "intelligence": "12",
+    "wisdom": "16",
+    "charisma": "10",
+    "insight": "+6",
+    "perception": "+6",
+    "name": "Sahuagin High Priestess",
+    "page": 251,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Sahuagin"
+    ],
+    "CR": "5 (1,800 XP)"
+}

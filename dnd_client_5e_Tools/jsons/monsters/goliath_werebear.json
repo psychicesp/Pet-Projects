@@ -1,0 +1,44 @@
+{
+    "tags": [
+        "goliath"
+    ],
+    "strength": "20",
+    "dexterity": "10",
+    "constitution": "18",
+    "intelligence": "10",
+    "wisdom": "15",
+    "charisma": "10",
+    "athletics": "+8",
+    "perception": "+8",
+    "survival": "+5",
+    "name": "Goliath Werebear",
+    "page": 293,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "S",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 10,
+    "speed": [
+        "30 ft. (40 ft. swim 30 ft. in bear or hybrid form)"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "expert",
+        "survival": "proficient"
+    },
+    "damage_immunities": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "resistances": [
+        "cold"
+    ],
+    "senses": [
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Common",
+        "Giant (can\\'t speak in bear form)"
+    ],
+    "CR": "8 (3,900 XP)"
+}

@@ -1,0 +1,53 @@
+{
+    "tags": [],
+    "strength": "29",
+    "dexterity": "14",
+    "constitution": "29",
+    "intelligence": "30",
+    "wisdom": "17",
+    "charisma": "25",
+    "arcana": "+18",
+    "insight": "+11",
+    "perception": "+11",
+    "name": "Niv-Mizzet",
+    "page": 241,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Gargantuan",
+    "type": "dragon",
+    "AC": 22,
+    "speed": [
+        "40 ft",
+        "climb 30 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "fire, lightning"
+    ],
+    "resistances": [
+        "cold, psychic, thunder"
+    ],
+    "condition_immunities": [
+        "charmed"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 21"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "26 (90,000 XP)"
+}

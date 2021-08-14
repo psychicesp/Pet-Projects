@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "9",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "17",
+    "wisdom": "12",
+    "charisma": "11",
+    "arcana": "+7",
+    "history": "+7",
+    "name": "Evoker",
+    "page": 214,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any four languages"
+    ],
+    "CR": "9 (5,000 XP)"
+}

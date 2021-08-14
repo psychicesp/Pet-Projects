@@ -1,0 +1,34 @@
+{
+    "tags": [
+        "troglodyte"
+    ],
+    "strength": "14",
+    "dexterity": "10",
+    "constitution": "14",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "6",
+    "stealth": "+2",
+    "name": "Old Troglodyte",
+    "page": 155,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Troglodyte"
+    ],
+    "CR": "1/8 (25 XP)"
+}

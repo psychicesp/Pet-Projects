@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "hit": "9d4",
+    "strength": "1",
+    "dexterity": "28",
+    "constitution": "10",
+    "intelligence": "13",
+    "wisdom": "14",
+    "charisma": "11",
+    "name": "Will-o\\'-Wisp",
+    "page": 301,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Tiny",
+    "type": "undead",
+    "AC": 19,
+    "speed": [
+        "0 ft",
+        "fly 50 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "lightning, poison"
+    ],
+    "resistances": [
+        "acid, cold, fire, necrotic, thunder",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "2 (450 XP)"
+}

@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "18",
+    "constitution": "16",
+    "intelligence": "16",
+    "wisdom": "19",
+    "charisma": "18",
+    "name": "Guardian Naga",
+    "page": 234,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 18,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Celestial",
+        "Common"
+    ],
+    "CR": "10 (5,900 XP)"
+}

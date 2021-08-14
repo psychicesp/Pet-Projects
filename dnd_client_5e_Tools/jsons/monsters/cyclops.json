@@ -1,0 +1,28 @@
+{
+    "tags": [],
+    "strength": "22",
+    "dexterity": "11",
+    "constitution": "20",
+    "intelligence": "8",
+    "wisdom": "6",
+    "charisma": "10",
+    "name": "Cyclops",
+    "page": 45,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Huge",
+    "type": "giant",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "6 (2,300 XP)"
+}

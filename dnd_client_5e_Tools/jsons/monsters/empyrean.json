@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "titan"
+    ],
+    "strength": "30",
+    "dexterity": "21",
+    "constitution": "30",
+    "intelligence": "21",
+    "wisdom": "22",
+    "charisma": "27",
+    "insight": "+13",
+    "persuasion": "+15",
+    "name": "Empyrean",
+    "page": 130,
+    "book": "Monster Manual",
+    "alignment": "CG(ONE(",
+    "size": "Huge",
+    "type": "celestial",
+    "AC": 22,
+    "speed": [
+        "50 ft",
+        "fly 50 ft",
+        "swim 50 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "persuasion": "proficient"
+    },
+    "damage_immunities": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "all"
+    ],
+    "CR": "23 (50,000 XP)"
+}

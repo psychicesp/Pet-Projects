@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "16",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "16",
+    "arcana": "+3",
+    "religion": "+3",
+    "name": "Flamewrath",
+    "page": 201,
+    "book": "Princes of the Apocalypse",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "religion": "proficient"
+    },
+    "damage_immunities": [
+        "fire"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Ignan"
+    ],
+    "CR": "6 (2,300 XP)"
+}

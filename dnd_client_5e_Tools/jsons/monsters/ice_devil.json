@@ -1,0 +1,47 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "21",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "18",
+    "wisdom": "15",
+    "charisma": "18",
+    "name": "Ice Devil",
+    "page": 75,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 18,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison, cold"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Infernal",
+        "telepathy 120 ft."
+    ],
+    "CR": "14 (11,500 XP)"
+}

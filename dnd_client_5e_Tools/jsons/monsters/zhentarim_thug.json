@@ -1,0 +1,33 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "15",
+    "dexterity": "11",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "11",
+    "intimidation": "+2",
+    "name": "Zhentarim Thug",
+    "page": 131,
+    "book": "Out of the Abyss",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1/2 (100 XP)"
+}

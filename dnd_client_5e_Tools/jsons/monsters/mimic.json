@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "17",
+    "dexterity": "12",
+    "constitution": "15",
+    "intelligence": "5",
+    "wisdom": "13",
+    "charisma": "8",
+    "stealth": "+5",
+    "name": "Mimic",
+    "page": 220,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "monstrosity",
+    "AC": 12,
+    "speed": [
+        "15 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "expert"
+    },
+    "damage_immunities": [
+        "acid"
+    ],
+    "condition_immunities": [
+        "prone"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)"
+}

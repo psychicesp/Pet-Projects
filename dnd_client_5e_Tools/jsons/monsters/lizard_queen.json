@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "lizardfolk"
+    ],
+    "strength": "17",
+    "dexterity": "12",
+    "constitution": "15",
+    "intelligence": "11",
+    "wisdom": "11",
+    "charisma": "15",
+    "perception": "+4",
+    "stealth": "+5",
+    "survival": "+4",
+    "name": "Lizard Queen",
+    "page": 205,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "expert",
+        "survival": "expert"
+    },
+    "condition_immunities": [
+        "frightened"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Abyssal",
+        "Draconic"
+    ],
+    "CR": "4 (1,100 XP)"
+}

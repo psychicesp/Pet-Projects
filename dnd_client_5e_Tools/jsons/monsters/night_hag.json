@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "16",
+    "wisdom": "14",
+    "charisma": "16",
+    "deception": "+7",
+    "insight": "+6",
+    "perception": "+6",
+    "stealth": "+6",
+    "name": "Night Hag",
+    "page": 178,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "insight": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "cold, fire",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "condition_immunities": [
+        "charmed"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Infernal",
+        "Primordial"
+    ],
+    "CR": "5 (1,800 XP) or 7 (2,900 XP) when part of a cove"
+}

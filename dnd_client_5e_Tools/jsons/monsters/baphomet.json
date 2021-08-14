@@ -1,0 +1,51 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "30",
+    "dexterity": "14",
+    "constitution": "26",
+    "intelligence": "18",
+    "wisdom": "24",
+    "charisma": "16",
+    "intimidation": "+17",
+    "perception": "+14",
+    "name": "Baphomet",
+    "page": 143,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend",
+    "AC": 22,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "intimidation": "expert",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 24"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "23 (50,000 XP)"
+}

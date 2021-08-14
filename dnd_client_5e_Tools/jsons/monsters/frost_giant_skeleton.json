@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "9",
+    "constitution": "15",
+    "intelligence": "6",
+    "wisdom": "8",
+    "charisma": "5",
+    "name": "Frost Giant Skeleton",
+    "page": 288,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "undead",
+    "AC": 14,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "cold, poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "understands Giant but can\\'t speak"
+    ],
+    "CR": "6 (2,300 XP)"
+}

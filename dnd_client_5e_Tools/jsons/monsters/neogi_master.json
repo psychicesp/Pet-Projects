@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "16",
+    "constitution": "14",
+    "intelligence": "16",
+    "wisdom": "12",
+    "charisma": "18",
+    "arcana": "+5",
+    "deception": "+6",
+    "intimidation": "+6",
+    "perception": "+3",
+    "persuasion": "+6",
+    "name": "Neogi Master",
+    "page": 180,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "aberration",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft. (penetrates magical darkness)",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Deep Speech",
+        "Undercommon",
+        "telepathy 30 ft."
+    ],
+    "CR": "4 (1,100 XP)"
+}

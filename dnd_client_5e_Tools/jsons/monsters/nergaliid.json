@@ -1,0 +1,49 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "18",
+    "dexterity": "12",
+    "constitution": "20",
+    "intelligence": "12",
+    "wisdom": "10",
+    "charisma": "12",
+    "deception": "+5",
+    "perception": "+2",
+    "stealth": "+5",
+    "name": "Nergaliid",
+    "page": 296,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Infernal"
+    ],
+    "CR": "3 (700 XP)"
+}

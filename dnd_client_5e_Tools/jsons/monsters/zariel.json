@@ -1,0 +1,52 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "27",
+    "dexterity": "24",
+    "constitution": "28",
+    "intelligence": "26",
+    "wisdom": "27",
+    "charisma": "30",
+    "intimidation": "+18",
+    "perception": "+16",
+    "name": "Zariel",
+    "page": 180,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 21,
+    "speed": [
+        "50 ft",
+        "fly 150 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "resistances": [
+        "cold, fire, radiant",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 26"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "26 (90,000 XP)"
+}

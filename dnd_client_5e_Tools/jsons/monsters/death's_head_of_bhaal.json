@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "20",
+    "dexterity": "20",
+    "constitution": "20",
+    "intelligence": "14",
+    "wisdom": "13",
+    "charisma": "16",
+    "intimidation": "+6",
+    "perception": "+4",
+    "persuasion": "+6",
+    "stealth": "+11",
+    "name": "Death\\'s Head of Bhaal",
+    "page": 233,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "5 (1,800 XP)"
+}

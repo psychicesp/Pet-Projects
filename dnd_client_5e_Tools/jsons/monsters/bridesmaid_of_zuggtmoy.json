@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "hit": "5d8",
+    "strength": "14",
+    "dexterity": "11",
+    "constitution": "11",
+    "intelligence": "14",
+    "wisdom": "8",
+    "charisma": "18",
+    "name": "Bridesmaid of Zuggtmoy",
+    "page": 230,
+    "book": "Out of the Abyss",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "plant",
+    "AC": 13,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "understands Abyssal but can\\'t speak"
+    ],
+    "CR": "1/8 (25 XP)"
+}

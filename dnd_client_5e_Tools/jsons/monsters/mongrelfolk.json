@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "mongrelfolk"
+    ],
+    "strength": "12",
+    "dexterity": "9",
+    "constitution": "15",
+    "intelligence": "9",
+    "wisdom": "10",
+    "charisma": "6",
+    "deception": "+2",
+    "perception": "+2",
+    "stealth": "+3",
+    "name": "Mongrelfolk",
+    "page": 234,
+    "book": "Curse of Strahd",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 11,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1/4 (50 XP)"
+}

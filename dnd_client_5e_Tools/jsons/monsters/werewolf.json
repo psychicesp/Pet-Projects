@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "15",
+    "dexterity": "13",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "10",
+    "perception": "+4",
+    "name": "Werewolf",
+    "page": 211,
+    "book": "Monster Manual",
+    "alignment": "S",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 11,
+    "speed": [
+        "30 ft. (40 ft. in wolf form)"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common (can\\'t speak in wolf form)"
+    ],
+    "CR": "3 (700 XP)"
+}

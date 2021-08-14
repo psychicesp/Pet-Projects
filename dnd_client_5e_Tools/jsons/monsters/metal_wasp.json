@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "hit": "3d8",
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "3",
+    "name": "Metal Wasp",
+    "page": 174,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct",
+    "AC": 16,
+    "speed": [
+        "10 ft",
+        "fly 50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/2 (100 XP)"
+}

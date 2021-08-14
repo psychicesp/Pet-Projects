@@ -1,0 +1,50 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "28",
+    "dexterity": "22",
+    "constitution": "25",
+    "intelligence": "21",
+    "wisdom": "24",
+    "charisma": "24",
+    "perception": "+21",
+    "name": "Molydeus",
+    "page": 134,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend",
+    "AC": 19,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, frightened, poisoned, stunned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 31"
+    ],
+    "languages": [
+        "Abyssal",
+        "telepathy 120 ft."
+    ],
+    "CR": "21 (33,000 XP)"
+}

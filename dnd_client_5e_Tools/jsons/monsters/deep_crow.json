@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "16",
+    "constitution": "18",
+    "intelligence": "8",
+    "wisdom": "15",
+    "charisma": "14",
+    "perception": "+6",
+    "stealth": "+11",
+    "name": "Deep Crow",
+    "page": 210,
+    "book": "Acquisitions Incorporated",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 17,
+    "speed": [
+        "20 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Deep Crow"
+    ],
+    "CR": "9 (5,000 XP)"
+}

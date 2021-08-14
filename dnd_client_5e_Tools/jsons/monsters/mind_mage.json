@@ -1,0 +1,43 @@
+{
+    "tags": [
+        "any"
+    ],
+    "hit": "11d8",
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "20",
+    "wisdom": "15",
+    "charisma": "16",
+    "arcana": "+8",
+    "deception": "+6",
+    "insight": "+5",
+    "persuasion": "+6",
+    "name": "Mind Mage",
+    "page": 233,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "insight": "proficient",
+        "persuasion": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common plus any four languages"
+    ],
+    "CR": "5 (1,800 XP)"
+}

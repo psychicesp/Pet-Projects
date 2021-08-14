@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "tortle"
+    ],
+    "strength": "14",
+    "dexterity": "10",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "15",
+    "charisma": "12",
+    "nature": "+2",
+    "survival": "+4",
+    "name": "Tortle Druid",
+    "page": 242,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "animal handling": "proficient",
+        "nature": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Aquan",
+        "Common"
+    ],
+    "CR": "2 (450 XP)"
+}

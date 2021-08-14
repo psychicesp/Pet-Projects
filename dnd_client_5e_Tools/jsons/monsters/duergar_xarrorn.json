@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "dwarf"
+    ],
+    "strength": "16",
+    "dexterity": "11",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "9",
+    "name": "Duergar Xarrorn",
+    "page": 193,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "poison"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Dwarvish",
+        "Undercommon"
+    ],
+    "CR": "2 (450 XP)"
+}

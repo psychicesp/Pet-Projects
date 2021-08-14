@@ -1,0 +1,28 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "9",
+    "constitution": "21",
+    "intelligence": "3",
+    "wisdom": "11",
+    "charisma": "6",
+    "name": "Mammoth",
+    "page": 332,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast",
+    "AC": 13,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "6 (2,300 XP)"
+}

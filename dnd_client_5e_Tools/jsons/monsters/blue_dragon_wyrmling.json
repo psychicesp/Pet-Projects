@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "10",
+    "constitution": "15",
+    "intelligence": "12",
+    "wisdom": "11",
+    "charisma": "15",
+    "perception": "+4",
+    "stealth": "+2",
+    "name": "Blue Dragon Wyrmling",
+    "page": 91,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "dragon",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "burrow 15 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "lightning"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Draconic"
+    ],
+    "CR": "3 (700 XP)"
+}

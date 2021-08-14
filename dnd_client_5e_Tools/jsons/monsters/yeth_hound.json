@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "17",
+    "constitution": "16",
+    "intelligence": "5",
+    "wisdom": "12",
+    "charisma": "7",
+    "name": "Yeth Hound",
+    "page": 201,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "fey",
+    "AC": 14,
+    "speed": [
+        "40 ft",
+        "fly 40 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "understands Common",
+        "Elvish",
+        "and Sylvan but can\\'t speak"
+    ],
+    "CR": "4 (1,100 XP)"
+}

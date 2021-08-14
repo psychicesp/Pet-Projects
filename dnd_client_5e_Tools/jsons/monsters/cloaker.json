@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "13",
+    "wisdom": "12",
+    "charisma": "14",
+    "stealth": "+5",
+    "name": "Cloaker",
+    "page": 41,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Large",
+    "type": "aberration",
+    "AC": 14,
+    "speed": [
+        "10 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Deep Speech",
+        "Undercommon"
+    ],
+    "CR": "8 (3,900 XP)"
+}

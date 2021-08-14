@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "16",
+    "constitution": "17",
+    "intelligence": "16",
+    "wisdom": "15",
+    "charisma": "21",
+    "athletics": "+7",
+    "history": "+8",
+    "perception": "+12",
+    "stealth": "+8",
+    "name": "Skull Lord",
+    "page": 230,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "history": "proficient",
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, poisoned, stunned, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 22"
+    ],
+    "languages": [
+        "all the languages it knew in life"
+    ],
+    "CR": "15 (13,000 XP)"
+}

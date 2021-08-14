@@ -1,0 +1,49 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "1",
+    "dexterity": "17",
+    "constitution": "12",
+    "intelligence": "14",
+    "wisdom": "13",
+    "charisma": "14",
+    "stealth": "+7",
+    "name": "Shadow Demon",
+    "page": 64,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "stealth": "expert"
+    },
+    "damage_immunities": [
+        "cold, lightning, poison"
+    ],
+    "resistances": [
+        "acid, fire, necrotic, thunder",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "telepathy 120 ft."
+    ],
+    "CR": "4 (1,100 XP)"
+}

@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "1",
+    "dexterity": "3",
+    "constitution": "15",
+    "intelligence": "19",
+    "wisdom": "10",
+    "charisma": "15",
+    "name": "Brain in a Jar",
+    "page": 278,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "AA",
+    "size": "Small",
+    "type": "undead",
+    "AC": 11,
+    "speed": [
+        "0 ft",
+        "fly 10 ft. (hover)"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, paralyzed, poisoned, prone"
+    ],
+    "senses": [
+        "blindsight 120 ft. (blind beyond this radius); see also \"detect sentience\" below",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "3 (700 XP)"
+}

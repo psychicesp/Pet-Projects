@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "11",
+    "dexterity": "13",
+    "constitution": "12",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "7",
+    "name": "Duodrone",
+    "page": 225,
+    "book": "Monster Manual",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "construct",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Modron"
+    ],
+    "CR": "1/4 (50 XP)"
+}

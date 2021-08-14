@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "16",
+    "intelligence": "12",
+    "wisdom": "13",
+    "charisma": "5",
+    "athletics": "+5",
+    "perception": "+3",
+    "name": "Karrnathi Undead Soldier",
+    "page": 295,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "cold, poison"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "3 (700 XP)"
+}

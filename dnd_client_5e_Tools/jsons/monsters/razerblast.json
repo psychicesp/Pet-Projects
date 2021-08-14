@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "16",
+    "dexterity": "11",
+    "constitution": "16",
+    "intelligence": "9",
+    "wisdom": "10",
+    "charisma": "13",
+    "intimidation": "+4",
+    "perception": "+3",
+    "name": "Razerblast",
+    "page": 201,
+    "book": "Princes of the Apocalypse",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "fire"
+    ],
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Ignan"
+    ],
+    "CR": "5 (1,800 XP)"
+}

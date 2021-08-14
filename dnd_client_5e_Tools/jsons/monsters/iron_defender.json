@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "16",
+    "intelligence": "8",
+    "wisdom": "11",
+    "charisma": "7",
+    "perception": "+4",
+    "stealth": "+4",
+    "name": "Iron Defender",
+    "page": 293,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "construct",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "understands the languages of its creator but can\\'t speak"
+    ],
+    "CR": "1 (200 XP)"
+}

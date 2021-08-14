@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "19",
+    "constitution": "14",
+    "intelligence": "19",
+    "wisdom": "20",
+    "charisma": "21",
+    "arcana": "+8",
+    "nature": "+8",
+    "perception": "+9",
+    "name": "Conclave Dryad",
+    "page": 194,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "fey",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "nature": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "Common",
+        "Elvish",
+        "Sylvan"
+    ],
+    "CR": "9 (5,000 XP)"
+}

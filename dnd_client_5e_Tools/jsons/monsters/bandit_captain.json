@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "15",
+    "dexterity": "16",
+    "constitution": "14",
+    "intelligence": "14",
+    "wisdom": "11",
+    "charisma": "14",
+    "athletics": "+4",
+    "deception": "+4",
+    "name": "Bandit Captain",
+    "page": 344,
+    "book": "Monster Manual",
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "deception": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any two languages"
+    ],
+    "CR": "2 (450 XP)"
+}

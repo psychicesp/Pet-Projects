@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "15",
+    "constitution": "21",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "9",
+    "athletics": "+10",
+    "perception": "+5",
+    "name": "Sunder Shaman",
+    "page": 202,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Huge",
+    "type": "giant",
+    "AC": 20,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "10 (5,900 XP)"
+}

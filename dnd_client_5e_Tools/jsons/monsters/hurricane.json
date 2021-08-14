@@ -1,0 +1,34 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "12",
+    "dexterity": "16",
+    "constitution": "13",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "10",
+    "acrobatics": "+5",
+    "name": "Hurricane",
+    "page": 191,
+    "book": "Princes of the Apocalypse",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 14,
+    "speed": [
+        "45 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Auran",
+        "Common"
+    ],
+    "CR": "2 (450 XP)"
+}

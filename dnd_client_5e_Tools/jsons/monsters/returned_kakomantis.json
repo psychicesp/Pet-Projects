@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "17",
+    "constitution": "14",
+    "intelligence": "13",
+    "wisdom": "12",
+    "charisma": "15",
+    "acrobatics": "+5",
+    "athletics": "+2",
+    "stealth": "+5",
+    "name": "Returned Kakomantis",
+    "page": 240,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient",
+        "athletics": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "4 (1,100 XP)"
+}

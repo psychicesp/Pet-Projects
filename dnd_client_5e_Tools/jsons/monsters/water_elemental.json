@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "5",
+    "wisdom": "10",
+    "charisma": "8",
+    "name": "Water Elemental",
+    "page": 125,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Large",
+    "type": "elemental",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 90 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "acid",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Aquan"
+    ],
+    "CR": "5 (1,800 XP)"
+}

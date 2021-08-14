@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "orc"
+    ],
+    "strength": "18",
+    "dexterity": "12",
+    "constitution": "18",
+    "intelligence": "11",
+    "wisdom": "11",
+    "charisma": "16",
+    "intimidation": "+5",
+    "name": "Orc War Chief",
+    "page": 246,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Orc"
+    ],
+    "CR": "4 (1,100 XP)"
+}

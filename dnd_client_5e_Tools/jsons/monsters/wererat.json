@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "8",
+    "perception": "+2",
+    "stealth": "+4",
+    "name": "Wererat",
+    "page": 209,
+    "book": "Monster Manual",
+    "alignment": "S",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "senses": [
+        "darkvision 60 ft. (rat form only)",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common (can\\'t speak in rat form)"
+    ],
+    "CR": "2 (450 XP)"
+}

@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "12",
+    "name": "Salamander",
+    "page": 266,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "elemental",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Ignan"
+    ],
+    "CR": "5 (1,800 XP)"
+}

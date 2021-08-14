@@ -1,0 +1,33 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "15",
+    "dexterity": "11",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "11",
+    "intimidation": "+2",
+    "name": "Vistana Thug",
+    "page": 28,
+    "book": "Curse of Strahd",
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1/2 (100 XP)"
+}

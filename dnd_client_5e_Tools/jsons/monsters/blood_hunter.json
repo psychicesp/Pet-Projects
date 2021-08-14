@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "18",
+    "dexterity": "12",
+    "constitution": "15",
+    "intelligence": "9",
+    "wisdom": "16",
+    "charisma": "11",
+    "acrobatics": "+4",
+    "insight": "+6",
+    "perception": "+6",
+    "name": "Blood Hunter",
+    "page": 284,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "acrobatics": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "5 (1,800 XP)"
+}

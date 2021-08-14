@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "14",
+    "dexterity": "11",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "11",
+    "charisma": "15",
+    "arcana": "+2",
+    "perception": "+4",
+    "stealth": "+4",
+    "name": "Fathomer",
+    "page": 207,
+    "book": "Princes of the Apocalypse",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "perception": "expert",
+        "stealth": "expert"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Aquan",
+        "Common"
+    ],
+    "CR": "2 (450 XP)"
+}

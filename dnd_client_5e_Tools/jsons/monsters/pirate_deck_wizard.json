@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "16",
+    "wisdom": "13",
+    "charisma": "11",
+    "arcana": "+5",
+    "perception": "+3",
+    "name": "Pirate Deck Wizard",
+    "page": 248,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1 (200 XP)"
+}

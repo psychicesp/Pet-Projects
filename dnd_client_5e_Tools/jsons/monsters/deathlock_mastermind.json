@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "11",
+    "dexterity": "16",
+    "constitution": "12",
+    "intelligence": "15",
+    "wisdom": "12",
+    "charisma": "17",
+    "arcana": "+5",
+    "history": "+5",
+    "perception": "+4",
+    "name": "Deathlock Mastermind",
+    "page": 129,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft. (including magical darkness)",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "8 (3,900 XP)"
+}

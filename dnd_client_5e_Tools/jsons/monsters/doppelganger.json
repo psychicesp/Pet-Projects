@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "11",
+    "dexterity": "18",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "12",
+    "charisma": "14",
+    "deception": "+6",
+    "insight": "+3",
+    "name": "Doppelganger",
+    "page": 82,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "monstrosity",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "insight": "proficient"
+    },
+    "condition_immunities": [
+        "charmed"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "3 (700 XP)"
+}

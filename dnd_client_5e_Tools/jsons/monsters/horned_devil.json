@@ -1,0 +1,48 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "22",
+    "dexterity": "17",
+    "constitution": "21",
+    "intelligence": "12",
+    "wisdom": "16",
+    "charisma": "17",
+    "name": "Horned Devil",
+    "page": 74,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 18,
+    "speed": [
+        "20 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Infernal",
+        "telepathy 120 ft."
+    ],
+    "CR": "11 (7,200 XP)"
+}

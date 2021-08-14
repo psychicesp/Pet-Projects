@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "17",
+    "intelligence": "19",
+    "wisdom": "14",
+    "charisma": "13",
+    "arcana": "+6",
+    "religion": "+6",
+    "name": "Master of Souls",
+    "page": 234,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Infernal"
+    ],
+    "CR": "4 (1,100 XP)"
+}

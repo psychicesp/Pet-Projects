@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "xvart"
+    ],
+    "hit": "2d6",
+    "strength": "8",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "8",
+    "wisdom": "7",
+    "charisma": "7",
+    "stealth": "+4",
+    "name": "Xvart",
+    "page": 200,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Abyssal"
+    ],
+    "CR": "1/8 (25 XP)"
+}

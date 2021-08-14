@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "yuan-ti"
+    ],
+    "strength": "15",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "6",
+    "wisdom": "11",
+    "charisma": "4",
+    "perception": "+2",
+    "name": "Yuan-ti Broodguard",
+    "page": 203,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Draconic"
+    ],
+    "CR": "2 (450 XP)"
+}

@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "8",
+    "constitution": "16",
+    "intelligence": "3",
+    "wisdom": "11",
+    "charisma": "3",
+    "stealth": "+2",
+    "name": "Hulking Crab",
+    "page": 240,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast",
+    "AC": 17,
+    "speed": [
+        "20 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "5 (1,800 XP)"
+}

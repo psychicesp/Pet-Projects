@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "hit": "1d4",
+    "strength": "4",
+    "dexterity": "16",
+    "constitution": "11",
+    "intelligence": "2",
+    "wisdom": "8",
+    "charisma": "6",
+    "name": "Stirge",
+    "page": 284,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast",
+    "AC": 14,
+    "speed": [
+        "10 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/8 (25 XP)"
+}

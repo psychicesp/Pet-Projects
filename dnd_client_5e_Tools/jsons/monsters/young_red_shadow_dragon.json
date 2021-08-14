@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "10",
+    "constitution": "21",
+    "intelligence": "14",
+    "wisdom": "11",
+    "charisma": "19",
+    "perception": "+10",
+    "stealth": "+10",
+    "name": "Young Red Shadow Dragon",
+    "page": 85,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "dragon",
+    "AC": 18,
+    "speed": [
+        "40 ft",
+        "climb 40 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "expert"
+    },
+    "damage_immunities": [
+        "fire"
+    ],
+    "resistances": [
+        "necrotic"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "13 (10,000 XP)"
+}

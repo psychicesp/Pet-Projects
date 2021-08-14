@@ -1,0 +1,47 @@
+{
+    "tags": [
+        "yuan-ti"
+    ],
+    "hit": "9d8",
+    "strength": "11",
+    "dexterity": "12",
+    "constitution": "11",
+    "intelligence": "13",
+    "wisdom": "12",
+    "charisma": "14",
+    "deception": "+6",
+    "perception": "+3",
+    "stealth": "+3",
+    "name": "Yuan-ti Pureblood",
+    "page": 310,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Draconic"
+    ],
+    "CR": "1 (200 XP)"
+}

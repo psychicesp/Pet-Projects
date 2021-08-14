@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "7",
+    "athletics": "+4",
+    "stealth": "+4",
+    "name": "Chitine",
+    "page": 131,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "monstrosity",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "expert",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Undercommon"
+    ],
+    "CR": "1/2 (100 XP)"
+}

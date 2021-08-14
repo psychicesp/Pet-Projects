@@ -1,0 +1,50 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "20",
+    "dexterity": "10",
+    "constitution": "17",
+    "intelligence": "16",
+    "wisdom": "14",
+    "charisma": "19",
+    "perception": "+7",
+    "name": "Narzugon",
+    "page": 167,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 20,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "acid, cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "Common",
+        "Infernal",
+        "telepathy 120 ft."
+    ],
+    "CR": "13 (10,000 XP)"
+}

@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "hit": "2d6",
+    "strength": "6",
+    "dexterity": "15",
+    "constitution": "10",
+    "intelligence": "14",
+    "wisdom": "14",
+    "charisma": "11",
+    "arcana": "+4",
+    "history": "+4",
+    "religion": "+4",
+    "name": "Flumph",
+    "page": 135,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Small",
+    "type": "aberration",
+    "AC": 12,
+    "speed": [
+        "5 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands Undercommon but can\\'t speak",
+        "telepathy 60 ft."
+    ],
+    "CR": "1/8 (25 XP)"
+}

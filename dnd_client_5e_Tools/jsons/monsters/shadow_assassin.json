@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "19",
+    "constitution": "14",
+    "intelligence": "13",
+    "wisdom": "12",
+    "charisma": "14",
+    "perception": "+9",
+    "stealth": "+12",
+    "name": "Shadow Assassin",
+    "page": 316,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 14,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "expert"
+    },
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "resistances": [
+        "acid, cold, fire, lightning, thunder",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "understands the languages it knew in life but can't speak"
+    ],
+    "CR": "9 (5,000 XP)"
+}

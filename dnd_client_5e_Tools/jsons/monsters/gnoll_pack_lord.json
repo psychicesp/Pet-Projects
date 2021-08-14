@@ -1,0 +1,31 @@
+{
+    "tags": [
+        "gnoll"
+    ],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "13",
+    "intelligence": "8",
+    "wisdom": "11",
+    "charisma": "9",
+    "name": "Gnoll Pack Lord",
+    "page": 163,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Gnoll"
+    ],
+    "CR": "2 (450 XP)"
+}

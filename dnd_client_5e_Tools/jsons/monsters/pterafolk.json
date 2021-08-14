@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "13",
+    "constitution": "12",
+    "intelligence": "9",
+    "wisdom": "10",
+    "charisma": "11",
+    "perception": "+2",
+    "survival": "+2",
+    "name": "Pterafolk",
+    "page": 229,
+    "book": "Tomb of Annihilation",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "fly 50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1 (200 XP)"
+}

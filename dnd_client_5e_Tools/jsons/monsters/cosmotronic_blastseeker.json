@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "14",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "18",
+    "wisdom": "9",
+    "charisma": "12",
+    "arcana": "+6",
+    "intimidation": "+3",
+    "perception": "+1",
+    "name": "Cosmotronic Blastseeker",
+    "page": 242,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "4 (1,100 XP)"
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "18",
+    "dexterity": "18",
+    "constitution": "18",
+    "intelligence": "17",
+    "wisdom": "15",
+    "charisma": "18",
+    "perception": "+7",
+    "stealth": "+9",
+    "name": "Vampire",
+    "page": 297,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "13 (10,000 XP)"
+}

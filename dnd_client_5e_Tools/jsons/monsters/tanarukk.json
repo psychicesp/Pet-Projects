@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "18",
+    "dexterity": "13",
+    "constitution": "20",
+    "intelligence": "9",
+    "wisdom": "9",
+    "charisma": "9",
+    "intimidation": "+2",
+    "perception": "+2",
+    "name": "Tanarukk",
+    "page": 186,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "O",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "fire, poison"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Orc"
+    ],
+    "CR": "5 (1,800 XP)"
+}

@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "20",
+    "constitution": "17",
+    "intelligence": "18",
+    "wisdom": "20",
+    "charisma": "18",
+    "name": "Couatl",
+    "page": 43,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "celestial",
+    "AC": 19,
+    "speed": [
+        "30 ft",
+        "fly 90 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "resistances": [
+        "radiant"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "4 (1,100 XP)"
+}

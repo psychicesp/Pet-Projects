@@ -1,0 +1,51 @@
+{
+    "tags": [
+        "storm"
+    ],
+    "strength": "29",
+    "dexterity": "14",
+    "constitution": "20",
+    "intelligence": "17",
+    "wisdom": "20",
+    "charisma": "19",
+    "arcana": "+8",
+    "history": "+8",
+    "name": "Storm Giant Quintessent",
+    "page": 151,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CG",
+    "size": "Huge",
+    "type": "giant",
+    "AC": 12,
+    "speed": [
+        "50 ft",
+        "fly 50 ft. (hover)",
+        "swim 50 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "damage_immunities": [
+        "lightning, thunder"
+    ],
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "truesight 60 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "Common",
+        "Giant"
+    ],
+    "CR": "16 (15,000 XP)"
+}

@@ -1,0 +1,57 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "18",
+    "dexterity": "17",
+    "constitution": "16",
+    "intelligence": "19",
+    "wisdom": "16",
+    "charisma": "21",
+    "deception": "+9",
+    "intimidation": "+9",
+    "performance": "+9",
+    "persuasion": "+9",
+    "name": "Master of Cruelties",
+    "page": 196,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "intimidation": "proficient",
+        "performance": "proficient",
+        "persuasion": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "telepathy 120 ft."
+    ],
+    "CR": "9 (5,000 XP)"
+}

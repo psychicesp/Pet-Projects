@@ -1,0 +1,42 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "hit": "10d8",
+    "strength": "9",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "17",
+    "wisdom": "13",
+    "charisma": "12",
+    "arcana": "+6",
+    "deception": "+5",
+    "perception": "+4",
+    "stealth": "+5",
+    "name": "Wood Elf Wizard",
+    "page": 187,
+    "book": "Candlekeep Mysteries",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "7 (2,900 XP)"
+}

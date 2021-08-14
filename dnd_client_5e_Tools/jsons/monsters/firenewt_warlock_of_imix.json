@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "firenewt"
+    ],
+    "strength": "13",
+    "dexterity": "11",
+    "constitution": "12",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "14",
+    "name": "Firenewt Warlock of Imix",
+    "page": 143,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire"
+    ],
+    "senses": [
+        "darkvision 120 ft. (penetrates magical darkness)",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Draconic",
+        "Ignan"
+    ],
+    "CR": "1 (200 XP)"
+}

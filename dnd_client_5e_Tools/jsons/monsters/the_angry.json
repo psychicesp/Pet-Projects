@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "10",
+    "constitution": "19",
+    "intelligence": "8",
+    "wisdom": "13",
+    "charisma": "6",
+    "perception": "+6",
+    "name": "The Angry",
+    "page": 231,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "monstrosity",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing while in dim light or darkness"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "13 (10,000 XP)"
+}

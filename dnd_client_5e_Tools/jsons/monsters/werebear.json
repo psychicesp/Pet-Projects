@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "19",
+    "dexterity": "10",
+    "constitution": "17",
+    "intelligence": "11",
+    "wisdom": "12",
+    "charisma": "12",
+    "perception": "+7",
+    "name": "Werebear",
+    "page": 208,
+    "book": "Monster Manual",
+    "alignment": "S",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 10,
+    "speed": [
+        "30 ft. (40 ft",
+        "climb 30 ft. in bear or hybrid form)"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "senses": [
+        "passive Perception 17"
+    ],
+    "languages": [
+        "Common (can\\'t speak in bear form)"
+    ],
+    "CR": "5 (1,800 XP)"
+}

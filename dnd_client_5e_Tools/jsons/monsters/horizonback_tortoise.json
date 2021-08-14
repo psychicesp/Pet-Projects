@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "28",
+    "dexterity": "3",
+    "constitution": "25",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Horizonback Tortoise",
+    "page": 292,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "monstrosity",
+    "AC": 17,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Goblin but can't speak"
+    ],
+    "CR": "7 (2,900 XP)"
+}

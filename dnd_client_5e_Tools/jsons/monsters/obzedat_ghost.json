@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "13",
+    "intelligence": "18",
+    "wisdom": "20",
+    "charisma": "17",
+    "insight": "+8",
+    "perception": "+8",
+    "name": "Obzedat Ghost",
+    "page": 245,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 14,
+    "speed": [
+        "0 ft",
+        "fly 30 ft. (hover)"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "resistances": [
+        "acid, cold, fire, lightning, thunder",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "8 (3,900 XP)"
+}

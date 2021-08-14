@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "30",
+    "dexterity": "8",
+    "constitution": "27",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "1",
+    "name": "Walking Statue of Waterdeep",
+    "page": 219,
+    "book": "Waterdeep: Dragon Heist",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "construct",
+    "AC": 17,
+    "speed": [
+        "60 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "cold, fire, poison, psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "18 (20,000 XP)"
+}

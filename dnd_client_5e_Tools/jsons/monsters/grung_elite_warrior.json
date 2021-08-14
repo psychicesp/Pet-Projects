@@ -1,0 +1,48 @@
+{
+    "tags": [
+        "grung"
+    ],
+    "strength": "7",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "12",
+    "athletics": "+2",
+    "perception": "+2",
+    "stealth": "+5",
+    "survival": "+2",
+    "name": "Grung Elite Warrior",
+    "page": 157,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "25 ft",
+        "climb 25 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {
+        "athletics": "expert",
+        "perception": "proficient",
+        "stealth": "proficient",
+        "survival": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Grung"
+    ],
+    "CR": "2 (450 XP)"
+}

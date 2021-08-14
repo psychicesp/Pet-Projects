@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "15",
+    "intelligence": "14",
+    "wisdom": "14",
+    "charisma": "16",
+    "name": "Stone Juggernaut",
+    "page": 231,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct",
+    "AC": 15,
+    "speed": [
+        "50 ft. (in one direction chosen at the start of its turn)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone"
+    ],
+    "senses": [
+        "blindsight 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "12 (8,400 XP)"
+}

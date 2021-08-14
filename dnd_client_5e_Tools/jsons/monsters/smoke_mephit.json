@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "11",
+    "perception": "+2",
+    "stealth": "+4",
+    "name": "Smoke Mephit",
+    "page": 217,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "elemental",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Auran",
+        "Ignan"
+    ],
+    "CR": "1/4 (50 XP)"
+}

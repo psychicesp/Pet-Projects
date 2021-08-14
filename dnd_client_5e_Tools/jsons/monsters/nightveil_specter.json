@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "19",
+    "constitution": "16",
+    "intelligence": "6",
+    "wisdom": "17",
+    "charisma": "11",
+    "insight": "+7",
+    "perception": "+7",
+    "stealth": "+8",
+    "name": "Nightveil Specter",
+    "page": 215,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "understands Common but can\\'t speak"
+    ],
+    "CR": "10 (5,900 XP)"
+}

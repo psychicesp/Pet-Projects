@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "25",
+    "dexterity": "6",
+    "constitution": "19",
+    "intelligence": "1",
+    "wisdom": "3",
+    "charisma": "5",
+    "name": "Tyrannosaurus Zombie",
+    "page": 241,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "undead",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 6"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "8 (3,900 XP)"
+}

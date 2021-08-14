@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "22",
+    "dexterity": "12",
+    "constitution": "26",
+    "intelligence": "18",
+    "wisdom": "17",
+    "charisma": "18",
+    "name": "Marid",
+    "page": 146,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Large",
+    "type": "elemental",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "fly 60 ft",
+        "swim 90 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "resistances": [
+        "acid, cold, lightning"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Aquan"
+    ],
+    "CR": "11 (7,200 XP)"
+}

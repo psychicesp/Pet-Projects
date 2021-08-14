@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "21",
+    "constitution": "18",
+    "intelligence": "23",
+    "wisdom": "24",
+    "charisma": "25",
+    "deception": "+13",
+    "perception": "+13",
+    "persuasion": "+13",
+    "name": "Kalaraq Quori",
+    "page": 306,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "aberration",
+    "AC": 18,
+    "speed": [
+        "30 ft",
+        "fly 60 ft. (hover)"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient"
+    },
+    "resistances": [
+        "cold, necrotic, poison, psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, exhaustion, frightened, grappled, paralyzed, petrified, prone, restrained"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 23"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "19 (22,000 XP)"
+}

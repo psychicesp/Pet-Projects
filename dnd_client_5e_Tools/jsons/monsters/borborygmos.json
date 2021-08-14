@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "11",
+    "constitution": "24",
+    "intelligence": "8",
+    "wisdom": "17",
+    "charisma": "16",
+    "athletics": "+13",
+    "insight": "+9",
+    "survival": "+9",
+    "name": "Borborygmos",
+    "page": 238,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Huge",
+    "type": "giant",
+    "AC": 14,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "insight": "proficient",
+        "survival": "proficient"
+    },
+    "resistances": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "tremorsense 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Giant"
+    ],
+    "CR": "18 (20,000 XP)"
+}

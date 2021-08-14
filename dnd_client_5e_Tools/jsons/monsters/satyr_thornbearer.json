@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "18",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "13",
+    "charisma": "14",
+    "perception": "+5",
+    "performance": "+6",
+    "stealth": "+6",
+    "name": "Satyr Thornbearer",
+    "page": 243,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "fey",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "performance": "expert",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Common",
+        "Sylvan"
+    ],
+    "CR": "2 (450 XP)"
+}

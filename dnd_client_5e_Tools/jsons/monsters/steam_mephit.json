@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "hit": "6d6",
+    "strength": "5",
+    "dexterity": "11",
+    "constitution": "10",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "12",
+    "name": "Steam Mephit",
+    "page": 217,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "elemental",
+    "AC": 10,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Aquan",
+        "Ignan"
+    ],
+    "CR": "1/4 (50 XP)"
+}

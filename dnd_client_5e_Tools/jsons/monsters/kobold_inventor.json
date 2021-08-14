@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "kobold"
+    ],
+    "strength": "7",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "8",
+    "wisdom": "7",
+    "charisma": "8",
+    "perception": "+0",
+    "name": "Kobold Inventor",
+    "page": 166,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "1/4 (50 XP)"
+}

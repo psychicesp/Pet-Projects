@@ -1,0 +1,55 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "21",
+    "constitution": "19",
+    "intelligence": "30",
+    "wisdom": "22",
+    "charisma": "25",
+    "arcana": "+18",
+    "history": "+18",
+    "insight": "+14",
+    "religion": "+18",
+    "name": "Sul Khatesh",
+    "page": 304,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 22,
+    "speed": [
+        "40 ft",
+        "fly 40 ft. (hover)"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "insight": "proficient",
+        "religion": "proficient"
+    },
+    "damage_immunities": [
+        "poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "all",
+        "telepathy 150 ft."
+    ],
+    "CR": "28 (120,000 XP)"
+}

@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "16",
+    "dexterity": "11",
+    "constitution": "18",
+    "intelligence": "11",
+    "wisdom": "12",
+    "charisma": "13",
+    "name": "White Abishai",
+    "page": 163,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "cold, fire, poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Draconic",
+        "Infernal",
+        "telepathy 120 ft."
+    ],
+    "CR": "6 (2,300 XP)"
+}

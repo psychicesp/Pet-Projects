@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "8",
+    "constitution": "17",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "8",
+    "perception": "+4",
+    "name": "Ettin",
+    "page": 132,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Giant",
+        "Orc"
+    ],
+    "CR": "4 (1,100 XP)"
+}

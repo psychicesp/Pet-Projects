@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "thri-kreen"
+    ],
+    "strength": "12",
+    "dexterity": "15",
+    "constitution": "13",
+    "intelligence": "8",
+    "wisdom": "12",
+    "charisma": "7",
+    "perception": "+3",
+    "stealth": "+4",
+    "survival": "+3",
+    "name": "Thri-kreen",
+    "page": 288,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Thri-kreen"
+    ],
+    "CR": "1 (200 XP)"
+}

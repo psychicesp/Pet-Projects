@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "15",
+    "charisma": "13",
+    "perception": "+6",
+    "name": "Pegasus",
+    "page": 250,
+    "book": "Monster Manual",
+    "alignment": "CG",
+    "size": "Large",
+    "type": "celestial",
+    "AC": 12,
+    "speed": [
+        "60 ft",
+        "fly 90 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert"
+    },
+    "senses": [
+        "passive Perception 16"
+    ],
+    "languages": [
+        "understands Celestial",
+        "Common",
+        "Elvish",
+        "and Sylvan but can't speak"
+    ],
+    "CR": "2 (450 XP)"
+}

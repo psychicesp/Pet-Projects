@@ -1,0 +1,44 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "16",
+    "dexterity": "11",
+    "constitution": "13",
+    "intelligence": "3",
+    "wisdom": "8",
+    "charisma": "1",
+    "perception": "+1",
+    "name": "Nupperibo",
+    "page": 168,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 13,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "acid, cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "blindsight 10 ft. (blind beyond this radius)",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "understands Infernal but can't speak"
+    ],
+    "CR": "1/2 (100 XP)"
+}

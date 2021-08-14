@@ -1,0 +1,44 @@
+{
+    "tags": [
+        "kraul"
+    ],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "14",
+    "intelligence": "12",
+    "wisdom": "15",
+    "charisma": "10",
+    "insight": "+4",
+    "nature": "+3",
+    "religion": "+3",
+    "name": "Kraul Death Priest",
+    "page": 214,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "30 ft",
+        "climb 30 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "nature": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Kraul"
+    ],
+    "CR": "4 (1,100 XP)"
+}

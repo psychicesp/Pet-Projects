@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "12",
+    "constitution": "23",
+    "intelligence": "18",
+    "wisdom": "12",
+    "charisma": "16",
+    "perception": "+6",
+    "name": "Star Spawn Larva Mage",
+    "page": 235,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "aberration",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "psychic"
+    ],
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, paralyzed, petrified, poisoned, restrained"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Deep Speech"
+    ],
+    "CR": "16 (15,000 XP)"
+}

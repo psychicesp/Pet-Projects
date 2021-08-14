@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "14",
+    "constitution": "20",
+    "intelligence": "10",
+    "wisdom": "15",
+    "charisma": "9",
+    "athletics": "+9",
+    "perception": "+5",
+    "stealth": "+5",
+    "name": "Korred",
+    "page": 168,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CN",
+    "size": "Small",
+    "type": "fey",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "burrow 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "tremorsense 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Dwarvish",
+        "Gnomish",
+        "Sylvan",
+        "Terran",
+        "Undercommon"
+    ],
+    "CR": "7 (2,900 XP)"
+}

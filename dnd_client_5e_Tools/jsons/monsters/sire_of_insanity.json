@@ -1,0 +1,53 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "23",
+    "dexterity": "6",
+    "constitution": "19",
+    "intelligence": "14",
+    "wisdom": "19",
+    "charisma": "22",
+    "deception": "+10",
+    "intimidation": "+10",
+    "name": "Sire of Insanity",
+    "page": 197,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "intimidation": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "telepathy 120 ft."
+    ],
+    "CR": "12 (8,400 XP)"
+}

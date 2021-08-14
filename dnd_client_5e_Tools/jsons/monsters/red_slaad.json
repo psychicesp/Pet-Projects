@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "16",
+    "intelligence": "6",
+    "wisdom": "6",
+    "charisma": "7",
+    "perception": "+1",
+    "name": "Red Slaad",
+    "page": 276,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Large",
+    "type": "aberration",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "resistances": [
+        "acid, cold, fire, lightning, thunder"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Slaad",
+        "telepathy 60 ft."
+    ],
+    "CR": "5 (1,800 XP)"
+}

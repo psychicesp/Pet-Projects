@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "hit": "3d8",
+    "strength": "10",
+    "dexterity": "5",
+    "constitution": "11",
+    "intelligence": "1",
+    "wisdom": "11",
+    "charisma": "3",
+    "name": "Lemure",
+    "page": 76,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 7,
+    "speed": [
+        "15 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Infernal but can\\'t speak"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

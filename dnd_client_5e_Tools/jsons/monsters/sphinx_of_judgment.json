@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "18",
+    "wisdom": "18",
+    "charisma": "18",
+    "arcana": "+12",
+    "history": "+12",
+    "perception": "+8",
+    "religion": "+8",
+    "name": "Sphinx of Judgment",
+    "page": 183,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LN",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 17,
+    "speed": [
+        "40 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "expert",
+        "history": "expert",
+        "perception": "proficient",
+        "religion": "proficient"
+    },
+    "damage_immunities": [
+        "psychic"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Common",
+        "Sphinx"
+    ],
+    "CR": "11 (7,200 XP)"
+}

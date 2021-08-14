@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "7",
+    "wisdom": "12",
+    "charisma": "12",
+    "perception": "+4",
+    "stealth": "+6",
+    "name": "Bodak",
+    "page": 127,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "lightning, poison"
+    ],
+    "resistances": [
+        "cold, fire, necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Abyssal",
+        "the languages it knew in life"
+    ],
+    "CR": "6 (2,300 XP)"
+}

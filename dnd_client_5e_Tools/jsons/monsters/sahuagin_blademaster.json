@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "sahuagin"
+    ],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "14",
+    "intelligence": "12",
+    "wisdom": "11",
+    "charisma": "12",
+    "athletics": "+6",
+    "intimidation": "+4",
+    "name": "Sahuagin Blademaster",
+    "page": 249,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 20,
+    "speed": [
+        "30 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Sahuagin"
+    ],
+    "CR": "6 (2,300 XP)"
+}

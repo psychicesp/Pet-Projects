@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "hit": "5d6",
+    "strength": "6",
+    "dexterity": "13",
+    "constitution": "10",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "6",
+    "name": "Star Spawn Grue",
+    "page": 234,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "aberration",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "psychic"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Deep Speech"
+    ],
+    "CR": "1/4 (50 XP)"
+}

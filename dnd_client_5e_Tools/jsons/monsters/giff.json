@@ -1,0 +1,28 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "17",
+    "intelligence": "11",
+    "wisdom": "12",
+    "charisma": "12",
+    "name": "Giff",
+    "page": 204,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "3 (700 XP)"
+}

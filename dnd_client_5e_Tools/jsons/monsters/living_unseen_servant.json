@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "hit": "1d8",
+    "strength": "2",
+    "dexterity": "10",
+    "constitution": "11",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "1",
+    "perception": "+2",
+    "stealth": "+4",
+    "name": "Living Unseen Servant",
+    "page": 313,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, paralyzed, petrified, poisoned, unconscious"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands one language (usually Common) but can\\'t speak"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

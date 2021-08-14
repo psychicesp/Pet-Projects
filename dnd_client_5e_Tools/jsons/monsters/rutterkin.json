@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "14",
+    "dexterity": "15",
+    "constitution": "17",
+    "intelligence": "5",
+    "wisdom": "12",
+    "charisma": "6",
+    "name": "Rutterkin",
+    "page": 136,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 12,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "understands Abyssal but can\\'t speak"
+    ],
+    "CR": "2 (450 XP)"
+}

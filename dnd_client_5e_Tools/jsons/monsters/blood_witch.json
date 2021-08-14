@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "13",
+    "wisdom": "9",
+    "charisma": "19",
+    "arcana": "+4",
+    "intimidation": "+7",
+    "perception": "+2",
+    "stealth": "+5",
+    "name": "Blood Witch",
+    "page": 248,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "psychic"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal plus any one language (usually Common)"
+    ],
+    "CR": "7 (2,900 XP)"
+}

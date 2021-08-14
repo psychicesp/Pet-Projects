@@ -1,0 +1,48 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "12",
+    "dexterity": "18",
+    "constitution": "16",
+    "intelligence": "17",
+    "wisdom": "21",
+    "charisma": "22",
+    "insight": "+11",
+    "perception": "+11",
+    "religion": "+9",
+    "stealth": "+10",
+    "name": "Drow Matron Mother",
+    "page": 186,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient",
+        "religion": "proficient",
+        "stealth": "proficient"
+    },
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 21"
+    ],
+    "languages": [
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "20 (25,000 XP)"
+}

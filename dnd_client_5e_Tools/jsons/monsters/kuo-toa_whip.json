@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "kuo-toa"
+    ],
+    "strength": "14",
+    "dexterity": "10",
+    "constitution": "14",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "11",
+    "perception": "+6",
+    "religion": "+5",
+    "name": "Kuo-toa Whip",
+    "page": 200,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 11,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "religion": "expert"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Undercommon"
+    ],
+    "CR": "1 (200 XP)"
+}

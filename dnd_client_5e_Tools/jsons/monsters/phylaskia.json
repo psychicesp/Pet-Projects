@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "15",
+    "constitution": "18",
+    "intelligence": "10",
+    "wisdom": "16",
+    "charisma": "14",
+    "insight": "+7",
+    "perception": "+7",
+    "name": "Phylaskia",
+    "page": 239,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LN",
+    "size": "Large",
+    "type": "undead",
+    "AC": 18,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "all"
+    ],
+    "CR": "9 (5,000 XP)"
+}

@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "13",
+    "constitution": "15",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "4",
+    "acrobatics": "+5",
+    "perception": "+4",
+    "name": "Chaos Quadrapod",
+    "page": 209,
+    "book": "Acquisitions Incorporated",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "aberration",
+    "AC": 14,
+    "speed": [
+        "40 ft",
+        "climb 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "expert",
+        "perception": "expert"
+    },
+    "senses": [
+        "blindsight 120 ft. (blind beyond this radius)",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "4 (1,100 XP)"
+}

@@ -1,0 +1,43 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "20",
+    "dexterity": "16",
+    "constitution": "18",
+    "intelligence": "12",
+    "wisdom": "12",
+    "charisma": "18",
+    "athletics": "+9",
+    "intimidation": "+8",
+    "perception": "+5",
+    "persuasion": "+8",
+    "name": "Warlord",
+    "page": 220,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient"
+    },
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "any two languages"
+    ],
+    "CR": "12 (8,400 XP)"
+}

@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "8",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "14",
+    "wisdom": "11",
+    "charisma": "10",
+    "name": "Oblex Spawn",
+    "page": 217,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Tiny",
+    "type": "ooze",
+    "AC": 13,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, prone"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this distance)",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)"
+}

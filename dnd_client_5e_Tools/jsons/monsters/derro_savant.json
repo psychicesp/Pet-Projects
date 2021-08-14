@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "derro"
+    ],
+    "strength": "9",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "5",
+    "charisma": "14",
+    "stealth": "+4",
+    "name": "Derro Savant",
+    "page": 159,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 7"
+    ],
+    "languages": [
+        "Dwarvish",
+        "Undercommon"
+    ],
+    "CR": "3 (700 XP)"
+}

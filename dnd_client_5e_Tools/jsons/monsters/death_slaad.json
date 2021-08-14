@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "20",
+    "dexterity": "15",
+    "constitution": "19",
+    "intelligence": "15",
+    "wisdom": "10",
+    "charisma": "16",
+    "arcana": "+6",
+    "perception": "+8",
+    "name": "Death Slaad",
+    "page": 278,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "aberration",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "perception": "expert"
+    },
+    "resistances": [
+        "acid, cold, fire, lightning, thunder"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Slaad",
+        "telepathy 60 ft."
+    ],
+    "CR": "10 (5,900 XP)"
+}

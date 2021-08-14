@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "kobold"
+    ],
+    "strength": "7",
+    "dexterity": "15",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "9",
+    "charisma": "14",
+    "arcana": "+2",
+    "medicine": "+1",
+    "name": "Kobold Scale Sorcerer",
+    "page": 167,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "medicine": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "1 (200 XP)"
+}

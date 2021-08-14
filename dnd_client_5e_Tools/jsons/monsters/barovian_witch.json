@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "7",
+    "dexterity": "11",
+    "constitution": "13",
+    "intelligence": "14",
+    "wisdom": "11",
+    "charisma": "12",
+    "arcana": "+4",
+    "perception": "+2",
+    "name": "Barovian Witch",
+    "page": 229,
+    "book": "Curse of Strahd",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1/2 (100 XP)"
+}

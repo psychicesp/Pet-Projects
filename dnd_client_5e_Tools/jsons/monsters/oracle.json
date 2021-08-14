@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "13",
+    "wisdom": "16",
+    "charisma": "15",
+    "insight": "+5",
+    "persuasion": "+4",
+    "religion": "+5",
+    "name": "Oracle",
+    "page": 238,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "persuasion": "proficient",
+        "religion": "expert"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Celestial",
+        "Common"
+    ],
+    "CR": "4 (1,100 XP)"
+}

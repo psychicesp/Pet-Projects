@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "14",
+    "constitution": "13",
+    "intelligence": "12",
+    "wisdom": "11",
+    "charisma": "10",
+    "perception": "+2",
+    "stealth": "+4",
+    "name": "Intellect Devourer",
+    "page": 191,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Tiny",
+    "type": "aberration",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "blinded"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands Deep Speech but can\\'t speak",
+        "telepathy 60 ft."
+    ],
+    "CR": "2 (450 XP)"
+}

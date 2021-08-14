@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "20",
+    "dexterity": "15",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "14",
+    "charisma": "12",
+    "athletics": "+9",
+    "intimidation": "+5",
+    "perception": "+6",
+    "name": "Champion",
+    "page": 212,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 16"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "9 (5,000 XP)"
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        "stone"
+    ],
+    "strength": "23",
+    "dexterity": "14",
+    "constitution": "21",
+    "intelligence": "10",
+    "wisdom": "8",
+    "charisma": "12",
+    "athletics": "+14",
+    "perception": "+3",
+    "name": "Stone Giant Dreamwalker",
+    "page": 150,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CN",
+    "size": "Huge",
+    "type": "giant",
+    "AC": 18,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "athletics": "expert",
+        "perception": "proficient"
+    },
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Giant"
+    ],
+    "CR": "10 (5,900 XP)"
+}

@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "6",
+    "constitution": "21",
+    "intelligence": "3",
+    "wisdom": "6",
+    "charisma": "5",
+    "name": "Frost Giant Zombie",
+    "page": 288,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "NE",
+    "size": "Huge",
+    "type": "undead",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "cold, poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "understands Giant but can\\'t speak"
+    ],
+    "CR": "9 (5,000 XP)"
+}

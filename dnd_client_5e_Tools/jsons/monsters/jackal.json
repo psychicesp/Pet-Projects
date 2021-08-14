@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "hit": "1d6",
+    "strength": "8",
+    "dexterity": "15",
+    "constitution": "11",
+    "intelligence": "3",
+    "wisdom": "12",
+    "charisma": "6",
+    "perception": "+3",
+    "name": "Jackal",
+    "page": 331,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Small",
+    "type": "beast",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

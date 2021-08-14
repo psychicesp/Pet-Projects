@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "18",
+    "constitution": "18",
+    "intelligence": "17",
+    "wisdom": "20",
+    "charisma": "20",
+    "insight": "+9",
+    "perception": "+9",
+    "name": "Deva",
+    "page": 16,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "celestial",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "fly 90 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "radiant",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "10 (5,900 XP)"
+}

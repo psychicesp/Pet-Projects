@@ -1,0 +1,43 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "9",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "12",
+    "wisdom": "12",
+    "charisma": "18",
+    "arcana": "+4",
+    "history": "+4",
+    "name": "Warlock of the Great Old One",
+    "page": 220,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "resistances": [
+        "psychic"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any two languages",
+        "telepathy 30 ft."
+    ],
+    "CR": "6 (2,300 XP)"
+}

@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "19",
+    "wisdom": "17",
+    "charisma": "17",
+    "arcana": "+7",
+    "deception": "+6",
+    "insight": "+6",
+    "perception": "+6",
+    "persuasion": "+6",
+    "stealth": "+5",
+    "name": "Gnome Ceremorph",
+    "page": 303,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "AA",
+    "size": "Small",
+    "type": "aberration",
+    "AC": 16,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "insight": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Deep Speech",
+        "Gnomish",
+        "telepathy 120 ft.",
+        "Undercommon"
+    ],
+    "CR": "5 (1,800 XP)"
+}

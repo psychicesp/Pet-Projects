@@ -1,0 +1,50 @@
+{
+    "tags": [],
+    "strength": "26",
+    "dexterity": "21",
+    "constitution": "22",
+    "intelligence": "26",
+    "wisdom": "23",
+    "charisma": "24",
+    "arcana": "+15",
+    "history": "+15",
+    "insight": "+13",
+    "perception": "+13",
+    "name": "Dyrrn",
+    "page": 288,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "aberration",
+    "AC": 21,
+    "speed": [
+        "40 ft",
+        "fly 40 ft. (hover)"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, exhaustion, frightened, poisoned, prone"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 23"
+    ],
+    "languages": [
+        "Deep Speech",
+        "telepathy 120 ft."
+    ],
+    "CR": "24 (62,000 XP)"
+}

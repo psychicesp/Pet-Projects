@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "13",
+    "constitution": "16",
+    "intelligence": "9",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Umber Hulk",
+    "page": 292,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 18,
+    "speed": [
+        "30 ft",
+        "burrow 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 120 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Umber Hulk"
+    ],
+    "CR": "5 (1,800 XP)"
+}

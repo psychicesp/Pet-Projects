@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "gith"
+    ],
+    "strength": "19",
+    "dexterity": "17",
+    "constitution": "18",
+    "intelligence": "16",
+    "wisdom": "16",
+    "charisma": "18",
+    "insight": "+8",
+    "intimidation": "+9",
+    "perception": "+8",
+    "name": "Githyanki Supreme Commander",
+    "page": 206,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Gith"
+    ],
+    "CR": "14 (11,500 XP)"
+}

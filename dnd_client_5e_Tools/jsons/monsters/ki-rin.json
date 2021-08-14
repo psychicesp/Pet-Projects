@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "16",
+    "constitution": "16",
+    "intelligence": "19",
+    "wisdom": "20",
+    "charisma": "20",
+    "insight": "+9",
+    "perception": "+9",
+    "religion": "+8",
+    "name": "Ki-rin",
+    "page": 163,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LG",
+    "size": "Huge",
+    "type": "celestial",
+    "AC": 20,
+    "speed": [
+        "60 ft",
+        "fly 120 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient",
+        "religion": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "12 (8,400 XP)"
+}

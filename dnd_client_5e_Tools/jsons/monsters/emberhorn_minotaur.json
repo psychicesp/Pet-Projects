@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "11",
+    "constitution": "16",
+    "intelligence": "6",
+    "wisdom": "16",
+    "charisma": "9",
+    "perception": "+7",
+    "name": "Emberhorn Minotaur",
+    "page": 120,
+    "book": "Princes of the Apocalypse",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 14,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "fire"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "Abyssal"
+    ],
+    "CR": "3 (700 XP)"
+}

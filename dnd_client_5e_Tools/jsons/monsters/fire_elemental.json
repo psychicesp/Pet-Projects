@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "17",
+    "constitution": "16",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "7",
+    "name": "Fire Elemental",
+    "page": 125,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Large",
+    "type": "elemental",
+    "AC": 13,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Ignan"
+    ],
+    "CR": "5 (1,800 XP)"
+}

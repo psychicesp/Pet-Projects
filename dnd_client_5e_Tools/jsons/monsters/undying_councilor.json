@@ -1,0 +1,51 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "10",
+    "constitution": "14",
+    "intelligence": "17",
+    "wisdom": "21",
+    "charisma": "16",
+    "arcana": "+7",
+    "history": "+11",
+    "insight": "+9",
+    "perception": "+9",
+    "religion": "+7",
+    "name": "Undying Councilor",
+    "page": 311,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "NG",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "expert",
+        "insight": "proficient",
+        "perception": "proficient",
+        "religion": "proficient"
+    },
+    "damage_immunities": [
+        "poison, radiant"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "Common",
+        "Elvish"
+    ],
+    "CR": "10 (5,900 XP)"
+}

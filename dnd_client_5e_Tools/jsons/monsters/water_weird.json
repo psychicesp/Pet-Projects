@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "16",
+    "constitution": "13",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Water Weird",
+    "page": 299,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Large",
+    "type": "elemental",
+    "AC": 13,
+    "speed": [
+        "0 ft",
+        "swim 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "fire",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Aquan but doesn\\'t speak"
+    ],
+    "CR": "3 (700 XP)"
+}

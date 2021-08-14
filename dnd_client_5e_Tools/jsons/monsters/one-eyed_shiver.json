@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "13",
+    "wisdom": "13",
+    "charisma": "17",
+    "arcana": "+3",
+    "intimidation": "+5",
+    "perception": "+3",
+    "name": "One-Eyed Shiver",
+    "page": 207,
+    "book": "Princes of the Apocalypse",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "cold"
+    ],
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "3 (700 XP)"
+}

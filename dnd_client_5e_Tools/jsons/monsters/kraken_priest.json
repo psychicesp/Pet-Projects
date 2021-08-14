@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "12",
+    "dexterity": "10",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "15",
+    "charisma": "14",
+    "perception": "+5",
+    "name": "Kraken Priest",
+    "page": 215,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AEA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 10,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "any two languages"
+    ],
+    "CR": "5 (1,800 XP)"
+}

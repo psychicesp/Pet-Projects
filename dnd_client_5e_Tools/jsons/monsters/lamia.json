@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "13",
+    "constitution": "15",
+    "intelligence": "14",
+    "wisdom": "15",
+    "charisma": "16",
+    "deception": "+7",
+    "insight": "+4",
+    "stealth": "+3",
+    "name": "Lamia",
+    "page": 201,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "insight": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common"
+    ],
+    "CR": "4 (1,100 XP)"
+}

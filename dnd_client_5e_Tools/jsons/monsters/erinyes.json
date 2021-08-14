@@ -1,0 +1,48 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "18",
+    "dexterity": "16",
+    "constitution": "18",
+    "intelligence": "14",
+    "wisdom": "14",
+    "charisma": "18",
+    "name": "Erinyes",
+    "page": 73,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 18,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Infernal",
+        "telepathy 120 ft."
+    ],
+    "CR": "12 (8,400 XP)"
+}

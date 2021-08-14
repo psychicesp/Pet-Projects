@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "17",
+    "wisdom": "15",
+    "charisma": "17",
+    "perception": "+12",
+    "name": "Beholder",
+    "page": 28,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "aberration",
+    "AC": 18,
+    "speed": [
+        "0 ft",
+        "fly 20 ft. (hover)"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert"
+    },
+    "condition_immunities": [
+        "prone"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 22"
+    ],
+    "languages": [
+        "Deep Speech",
+        "Undercommon"
+    ],
+    "CR": "13 (10,000 XP) or 14 (11,500 XP) when encountered in lair"
+}

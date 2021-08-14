@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "8",
+    "constitution": "21",
+    "intelligence": "12",
+    "wisdom": "16",
+    "charisma": "12",
+    "name": "Treant",
+    "page": 289,
+    "book": "Monster Manual",
+    "alignment": "CG",
+    "size": "Huge",
+    "type": "plant",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "bludgeoning, piercing"
+    ],
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Druidic",
+        "Elvish",
+        "Sylvan"
+    ],
+    "CR": "9 (5,000 XP)"
+}

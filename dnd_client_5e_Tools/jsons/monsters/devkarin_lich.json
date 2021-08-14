@@ -1,0 +1,52 @@
+{
+    "tags": [],
+    "strength": "11",
+    "dexterity": "16",
+    "constitution": "14",
+    "intelligence": "19",
+    "wisdom": "16",
+    "charisma": "15",
+    "arcana": "+14",
+    "insight": "+8",
+    "perception": "+8",
+    "name": "Devkarin Lich",
+    "page": 198,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "expert",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Common",
+        "Elvish",
+        "Kraul"
+    ],
+    "CR": "14 (11,500 XP)"
+}

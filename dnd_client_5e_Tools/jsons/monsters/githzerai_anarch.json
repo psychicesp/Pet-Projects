@@ -1,0 +1,43 @@
+{
+    "tags": [
+        "gith"
+    ],
+    "strength": "16",
+    "dexterity": "21",
+    "constitution": "18",
+    "intelligence": "18",
+    "wisdom": "20",
+    "charisma": "14",
+    "arcana": "+9",
+    "insight": "+10",
+    "perception": "+10",
+    "name": "Githzerai Anarch",
+    "page": 207,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 20,
+    "speed": [
+        "30 ft",
+        "fly 40 ft. (hover)"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 20"
+    ],
+    "languages": [
+        "Gith"
+    ],
+    "CR": "16 (15,000 XP)"
+}

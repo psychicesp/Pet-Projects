@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "13",
+    "charisma": "15",
+    "name": "Nightmare",
+    "page": 235,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 13,
+    "speed": [
+        "60 ft",
+        "fly 90 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire"
+    ],
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "understands Abyssal",
+        "Common",
+        "and Infernal but can't speak"
+    ],
+    "CR": "3 (700 XP)"
+}

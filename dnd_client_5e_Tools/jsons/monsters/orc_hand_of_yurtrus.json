@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "orc"
+    ],
+    "strength": "12",
+    "dexterity": "11",
+    "constitution": "16",
+    "intelligence": "11",
+    "wisdom": "14",
+    "charisma": "9",
+    "arcana": "+2",
+    "intimidation": "+1",
+    "medicine": "+4",
+    "religion": "+2",
+    "name": "Orc Hand of Yurtrus",
+    "page": 184,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "intimidation": "proficient",
+        "medicine": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands Common and Orc but can\\'t speak"
+    ],
+    "CR": "2 (450 XP)"
+}

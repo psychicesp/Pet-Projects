@@ -1,0 +1,42 @@
+{
+    "tags": [
+        "titan"
+    ],
+    "strength": "30",
+    "dexterity": "11",
+    "constitution": "30",
+    "intelligence": "3",
+    "wisdom": "11",
+    "charisma": "11",
+    "name": "Tarrasque",
+    "page": 286,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "monstrosity",
+    "AC": 25,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "blindsight 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "30 (155,000 XP)"
+}

@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "hill"
+    ],
+    "strength": "21",
+    "dexterity": "10",
+    "constitution": "18",
+    "intelligence": "5",
+    "wisdom": "7",
+    "charisma": "5",
+    "perception": "+1",
+    "name": "Mouth of Grolantor",
+    "page": 149,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "giant",
+    "AC": 14,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "condition_immunities": [
+        "frightened"
+    ],
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "6 (2,300 XP)"
+}

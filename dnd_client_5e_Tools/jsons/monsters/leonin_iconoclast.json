@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "leonin"
+    ],
+    "strength": "14",
+    "dexterity": "18",
+    "constitution": "16",
+    "intelligence": "13",
+    "wisdom": "17",
+    "charisma": "10",
+    "arcana": "+4",
+    "insight": "+6",
+    "intimidation": "+3",
+    "stealth": "+7",
+    "survival": "+6",
+    "name": "Leonin Iconoclast",
+    "page": 232,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "insight": "proficient",
+        "intimidation": "proficient",
+        "stealth": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Leonin"
+    ],
+    "CR": "5 (1,800 XP)"
+}

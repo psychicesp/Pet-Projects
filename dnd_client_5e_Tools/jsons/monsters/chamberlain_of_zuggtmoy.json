@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "7",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "8",
+    "charisma": "12",
+    "name": "Chamberlain of Zuggtmoy",
+    "page": 230,
+    "book": "Out of the Abyss",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "plant",
+    "AC": 13,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "bludgeoning, piercing"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "Abyssal",
+        "Undercommon"
+    ],
+    "CR": "2 (450 XP)"
+}

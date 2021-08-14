@@ -1,0 +1,47 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "13",
+    "intelligence": "14",
+    "wisdom": "12",
+    "charisma": "16",
+    "deception": "+5",
+    "stealth": "+4",
+    "name": "Yuan-ti Nightmare Speaker",
+    "page": 205,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "Y",
+    "size": "Medium",
+    "type": "monstrosity",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft. (penetrates magical darkness)",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Draconic"
+    ],
+    "CR": "4 (1,100 XP)"
+}

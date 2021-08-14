@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "20",
+    "intelligence": "3",
+    "wisdom": "11",
+    "charisma": "6",
+    "name": "Living Cloudkill",
+    "page": 299,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct",
+    "AC": 15,
+    "speed": [
+        "25 ft",
+        "fly 25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "7 (2,900 XP)"
+}

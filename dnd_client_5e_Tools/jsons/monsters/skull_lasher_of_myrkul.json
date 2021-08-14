@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "16",
+    "wisdom": "13",
+    "charisma": "10",
+    "arcana": "+5",
+    "religion": "+5",
+    "name": "Skull Lasher of Myrkul",
+    "page": 234,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Infernal"
+    ],
+    "CR": "1 (200 XP)"
+}

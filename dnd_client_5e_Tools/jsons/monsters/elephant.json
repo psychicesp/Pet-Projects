@@ -1,0 +1,28 @@
+{
+    "tags": [],
+    "strength": "22",
+    "dexterity": "9",
+    "constitution": "17",
+    "intelligence": "3",
+    "wisdom": "11",
+    "charisma": "6",
+    "name": "Elephant",
+    "page": 322,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "4 (1,100 XP)"
+}

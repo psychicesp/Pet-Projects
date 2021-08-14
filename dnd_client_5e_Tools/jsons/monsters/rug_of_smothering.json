@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "hit": "6d10",
+    "strength": "17",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "1",
+    "wisdom": "3",
+    "charisma": "1",
+    "name": "Rug of Smothering",
+    "page": 20,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct",
+    "AC": 12,
+    "speed": [
+        "10 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 6"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)"
+}

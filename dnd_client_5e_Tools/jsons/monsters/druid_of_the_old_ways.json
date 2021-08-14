@@ -1,0 +1,42 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "11",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "20",
+    "charisma": "14",
+    "nature": "+3",
+    "perception": "+8",
+    "survival": "+8",
+    "name": "Druid of the Old Ways",
+    "page": 239,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "nature": "proficient",
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Common",
+        "Druidic"
+    ],
+    "CR": "7 (2,900 XP)"
+}

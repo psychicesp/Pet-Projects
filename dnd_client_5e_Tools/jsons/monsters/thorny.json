@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "12",
+    "constitution": "13",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "6",
+    "perception": "+4",
+    "stealth": "+3",
+    "name": "Thorny",
+    "page": 197,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "plant",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "lightning, piercing"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)"
+}

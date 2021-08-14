@@ -1,0 +1,35 @@
+{
+    "tags": [
+        "dwarf"
+    ],
+    "strength": "14",
+    "dexterity": "11",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "9",
+    "name": "Duergar Alchemist",
+    "page": 76,
+    "book": "Out of the Abyss",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 16,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "poison"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Dwarvish",
+        "Undercommon"
+    ],
+    "CR": "1 (200 XP)"
+}

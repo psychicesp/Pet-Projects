@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "26",
+    "dexterity": "14",
+    "constitution": "22",
+    "intelligence": "3",
+    "wisdom": "11",
+    "charisma": "10",
+    "name": "Udaak",
+    "page": 301,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "NE",
+    "size": "Gargantuan",
+    "type": "fiend",
+    "AC": 18,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "frightened, grappled, poisoned, restrained"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "16 (15,000 XP)"
+}

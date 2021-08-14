@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "15",
+    "constitution": "22",
+    "intelligence": "15",
+    "wisdom": "16",
+    "charisma": "20",
+    "name": "Djinni",
+    "page": 144,
+    "book": "Monster Manual",
+    "alignment": "CG",
+    "size": "Large",
+    "type": "elemental",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "fly 90 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "lightning, thunder"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Auran"
+    ],
+    "CR": "11 (7,200 XP)"
+}

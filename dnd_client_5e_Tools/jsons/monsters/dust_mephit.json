@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "hit": "5d6",
+    "strength": "5",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "10",
+    "perception": "+2",
+    "stealth": "+4",
+    "name": "Dust Mephit",
+    "page": 215,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "elemental",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Auran",
+        "Terran"
+    ],
+    "CR": "1/2 (100 XP)"
+}

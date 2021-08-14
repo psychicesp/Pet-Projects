@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "16",
+    "constitution": "14",
+    "intelligence": "2",
+    "wisdom": "17",
+    "charisma": "18",
+    "perception": "+7",
+    "stealth": "+11",
+    "name": "Shadow Horror",
+    "page": 205,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "aberration",
+    "AC": 13,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "condition_immunities": [
+        "frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "9 (5,000 XP)"
+}

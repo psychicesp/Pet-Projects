@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "hit": "6d8",
+    "strength": "14",
+    "dexterity": "14",
+    "constitution": "11",
+    "intelligence": "3",
+    "wisdom": "14",
+    "charisma": "5",
+    "name": "Grick",
+    "page": 173,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "monstrosity",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)"
+}

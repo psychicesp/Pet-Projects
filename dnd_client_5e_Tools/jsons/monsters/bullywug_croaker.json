@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "bullywug"
+    ],
+    "strength": "14",
+    "dexterity": "12",
+    "constitution": "12",
+    "intelligence": "7",
+    "wisdom": "15",
+    "charisma": "10",
+    "perception": "+4",
+    "stealth": "+3",
+    "name": "Bullywug Croaker",
+    "page": 232,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "20 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Bullywug"
+    ],
+    "CR": "2 (450 XP)"
+}

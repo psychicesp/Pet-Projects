@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "7",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "8",
+    "perception": "+4",
+    "stealth": "+6",
+    "survival": "+2",
+    "name": "Meenlock",
+    "page": 170,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "fey",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "expert",
+        "survival": "proficient"
+    },
+    "condition_immunities": [
+        "frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "telepathy 120 ft."
+    ],
+    "CR": "2 (450 XP)"
+}

@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "14",
+    "constitution": "20",
+    "intelligence": "5",
+    "wisdom": "11",
+    "charisma": "8",
+    "name": "Cadaver Collector",
+    "page": 122,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "construct",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "necrotic, poison, psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t adamantine"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands all languages but can't speak"
+    ],
+    "CR": "14 (11,500 XP)"
+}

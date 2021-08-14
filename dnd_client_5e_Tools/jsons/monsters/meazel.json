@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "meazel"
+    ],
+    "strength": "8",
+    "dexterity": "17",
+    "constitution": "9",
+    "intelligence": "14",
+    "wisdom": "13",
+    "charisma": "10",
+    "perception": "+3",
+    "stealth": "+5",
+    "name": "Meazel",
+    "page": 214,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1 (200 XP)"
+}

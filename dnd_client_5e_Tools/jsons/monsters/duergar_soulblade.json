@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "dwarf"
+    ],
+    "hit": "4d8",
+    "strength": "11",
+    "dexterity": "16",
+    "constitution": "10",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "12",
+    "name": "Duergar Soulblade",
+    "page": 190,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 14,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "poison"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Dwarvish",
+        "Undercommon"
+    ],
+    "CR": "1 (200 XP)"
+}

@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "goblinoid"
+    ],
+    "strength": "17",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "12",
+    "charisma": "11",
+    "intimidation": "+2",
+    "stealth": "+6",
+    "survival": "+3",
+    "name": "Bugbear Chief",
+    "page": 33,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "stealth": "expert",
+        "survival": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common",
+        "Goblin"
+    ],
+    "CR": "3 (700 XP)"
+}

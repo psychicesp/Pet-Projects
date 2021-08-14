@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "12",
+    "intelligence": "13",
+    "wisdom": "16",
+    "charisma": "13",
+    "medicine": "+7",
+    "persuasion": "+3",
+    "religion": "+5",
+    "name": "Priest",
+    "page": 348,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "medicine": "expert",
+        "persuasion": "proficient",
+        "religion": "expert"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "any two languages"
+    ],
+    "CR": "2 (450 XP)"
+}

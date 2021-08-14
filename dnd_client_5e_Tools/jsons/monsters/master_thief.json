@@ -1,0 +1,43 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "11",
+    "dexterity": "18",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "11",
+    "charisma": "12",
+    "acrobatics": "+7",
+    "athletics": "+3",
+    "perception": "+3",
+    "stealth": "+7",
+    "name": "Master Thief",
+    "page": 216,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient"
+    },
+    "skills": {
+        "acrobatics": "proficient",
+        "athletics": "proficient",
+        "perception": "proficient",
+        "sleight of hand": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "any one language (usually Common) plus Thieves' cant"
+    ],
+    "CR": "5 (1,800 XP)"
+}

@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "10",
+    "constitution": "21",
+    "intelligence": "14",
+    "wisdom": "11",
+    "charisma": "19",
+    "arcana": "+6",
+    "history": "+6",
+    "perception": "+8",
+    "stealth": "+4",
+    "name": "Young Silver Dragon",
+    "page": 118,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Large",
+    "type": "dragon",
+    "AC": 18,
+    "speed": [
+        "40 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "cold"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "9 (5,000 XP)"
+}

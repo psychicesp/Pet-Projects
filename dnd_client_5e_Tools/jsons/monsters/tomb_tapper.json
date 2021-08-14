@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "22",
+    "dexterity": "10",
+    "constitution": "21",
+    "intelligence": "14",
+    "wisdom": "14",
+    "charisma": "11",
+    "perception": "+6",
+    "name": "Tomb Tapper",
+    "page": 310,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "LN",
+    "size": "Huge",
+    "type": "construct",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "burrow 10 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "cold, fire"
+    ],
+    "resistances": [
+        "lightning"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "blindsight 240 ft. (blind beyond this radius)",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "understands Common and Undercommon but doesn\\'t speak",
+        "telepathy 60 ft."
+    ],
+    "CR": "10 (5,900 XP)"
+}

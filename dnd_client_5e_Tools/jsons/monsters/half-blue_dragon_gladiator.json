@@ -1,0 +1,45 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "15",
+    "athletics": "+10",
+    "intimidation": "+5",
+    "name": "Half-Blue Dragon Gladiator",
+    "page": 55,
+    "book": "The Rise of Tiamat",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "athletics": "expert",
+        "intimidation": "proficient"
+    },
+    "resistances": [
+        "lightning"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any one language (usually Common)",
+        "Draconic"
+    ],
+    "CR": "5 (1,800 XP)"
+}

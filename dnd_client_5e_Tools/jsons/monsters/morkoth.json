@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "20",
+    "wisdom": "15",
+    "charisma": "13",
+    "arcana": "+9",
+    "history": "+9",
+    "perception": "+10",
+    "stealth": "+6",
+    "name": "Morkoth",
+    "page": 177,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "aberration",
+    "AC": 17,
+    "speed": [
+        "25 ft",
+        "swim 50 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "telepathy 120 ft."
+    ],
+    "CR": "11 (7,200 XP) or 12 (8,400 XP) when encountered in lair"
+}

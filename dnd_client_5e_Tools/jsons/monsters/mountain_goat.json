@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "12",
+    "constitution": "14",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Mountain Goat",
+    "page": 304,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast",
+    "AC": 11,
+    "speed": [
+        "40 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/8 (25 XP)"
+}

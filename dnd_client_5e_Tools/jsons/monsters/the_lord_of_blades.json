@@ -1,0 +1,53 @@
+{
+    "tags": [
+        "warforged"
+    ],
+    "strength": "20",
+    "dexterity": "15",
+    "constitution": "18",
+    "intelligence": "19",
+    "wisdom": "17",
+    "charisma": "18",
+    "arcana": "+10",
+    "athletics": "+11",
+    "history": "+10",
+    "perception": "+9",
+    "name": "The Lord of Blades",
+    "page": 300,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 19,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "athletics": "proficient",
+        "history": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "necrotic, poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "passive Perception 19"
+    ],
+    "languages": [
+        "Common",
+        "Draconic",
+        "Dwarvish",
+        "Elvish"
+    ],
+    "CR": "18 (20,000 XP)"
+}

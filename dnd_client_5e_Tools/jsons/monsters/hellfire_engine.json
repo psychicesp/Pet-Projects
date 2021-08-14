@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "16",
+    "constitution": "24",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "1",
+    "name": "Hellfire Engine",
+    "page": 165,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "construct",
+    "AC": 18,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold, psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "charmed, deafened, exhaustion, frightened, paralyzed, poisoned, unconscious"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Infernal but can\\'t speak"
+    ],
+    "CR": "16 (15,000 XP)"
+}

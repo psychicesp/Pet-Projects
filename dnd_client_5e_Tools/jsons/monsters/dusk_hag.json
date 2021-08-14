@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "11",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "17",
+    "wisdom": "16",
+    "charisma": "18",
+    "deception": "+7",
+    "insight": "+6",
+    "perception": "+6",
+    "name": "Dusk Hag",
+    "page": 292,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fey",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "condition_immunities": [
+        "blinded, charmed, frightened"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Common",
+        "Giant",
+        "Infernal"
+    ],
+    "CR": "6 (2,300 XP)"
+}

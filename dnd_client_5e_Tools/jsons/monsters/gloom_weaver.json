@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "11",
+    "dexterity": "18",
+    "constitution": "14",
+    "intelligence": "15",
+    "wisdom": "12",
+    "charisma": "18",
+    "name": "Gloom Weaver",
+    "page": 224,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "necrotic"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common",
+        "Elvish"
+    ],
+    "CR": "9 (5,000 XP)"
+}

@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "22",
+    "dexterity": "10",
+    "constitution": "22",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "7",
+    "perception": "+8",
+    "name": "Ironscale Hydra",
+    "page": 231,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "monstrosity",
+    "AC": 17,
+    "speed": [
+        "40 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "acid"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "12 (8,400 XP)"
+}

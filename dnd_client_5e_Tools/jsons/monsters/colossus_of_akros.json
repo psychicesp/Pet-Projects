@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "28",
+    "dexterity": "10",
+    "constitution": "25",
+    "intelligence": "3",
+    "wisdom": "11",
+    "charisma": "1",
+    "athletics": "+16",
+    "perception": "+7",
+    "name": "Colossus of Akros",
+    "page": 218,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "construct",
+    "AC": 21,
+    "speed": [
+        "60 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "fire, poison, psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned, unconscious"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "understands Common and Celestial but can\\'t speak"
+    ],
+    "CR": "23 (50,000 XP)"
+}

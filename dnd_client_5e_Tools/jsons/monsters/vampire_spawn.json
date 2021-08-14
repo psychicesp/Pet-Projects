@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "16",
+    "constitution": "16",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "12",
+    "perception": "+3",
+    "stealth": "+6",
+    "name": "Vampire Spawn",
+    "page": 298,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "5 (1,800 XP)"
+}

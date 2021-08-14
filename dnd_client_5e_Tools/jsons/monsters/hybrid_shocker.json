@@ -1,0 +1,33 @@
+{
+    "tags": [
+        "Simic"
+    ],
+    "strength": "13",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "9",
+    "name": "Hybrid Shocker",
+    "page": 218,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NG",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "lightning"
+    ],
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "1 (200 XP)"
+}

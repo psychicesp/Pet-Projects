@@ -1,0 +1,43 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "10",
+    "dexterity": "17",
+    "constitution": "14",
+    "intelligence": "19",
+    "wisdom": "10",
+    "charisma": "13",
+    "acrobatics": "+6",
+    "arcana": "+7",
+    "perception": "+3",
+    "name": "Galvanic Blastseeker",
+    "page": 243,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {
+        "acrobatics": "proficient",
+        "arcana": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "lightning, thunder"
+    ],
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common and Primordial",
+        "plus any one language"
+    ],
+    "CR": "5 (1,800 XP)"
+}

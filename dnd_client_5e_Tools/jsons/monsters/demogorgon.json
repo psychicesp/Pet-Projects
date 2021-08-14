@@ -1,0 +1,53 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "29",
+    "dexterity": "14",
+    "constitution": "26",
+    "intelligence": "20",
+    "wisdom": "17",
+    "charisma": "25",
+    "insight": "+11",
+    "perception": "+19",
+    "name": "Demogorgon",
+    "page": 144,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend",
+    "AC": 22,
+    "speed": [
+        "50 ft",
+        "swim 50 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 29"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "26 (90,000 XP)"
+}

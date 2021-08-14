@@ -1,0 +1,50 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "14",
+    "constitution": "20",
+    "intelligence": "16",
+    "wisdom": "30",
+    "charisma": "25",
+    "arcana": "+9",
+    "insight": "+16",
+    "nature": "+9",
+    "perception": "+16",
+    "persuasion": "+13",
+    "name": "Trostani",
+    "page": 252,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NG",
+    "size": "Large",
+    "type": "fey",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "insight": "proficient",
+        "nature": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient"
+    },
+    "condition_immunities": [
+        "charmed, grappled"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 26"
+    ],
+    "languages": [
+        "Common",
+        "Druidic",
+        "Elvish",
+        "Sylvan"
+    ],
+    "CR": "18 (20,000 XP)"
+}

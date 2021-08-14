@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "13",
+    "constitution": "16",
+    "intelligence": "12",
+    "wisdom": "12",
+    "charisma": "13",
+    "name": "Sea Hag",
+    "page": 179,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fey",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Aquan",
+        "Common",
+        "Giant"
+    ],
+    "CR": "2 (450 XP) or 4 (1,100 XP) when part of a cove"
+}

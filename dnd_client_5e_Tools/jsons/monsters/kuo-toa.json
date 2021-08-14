@@ -1,0 +1,36 @@
+{
+    "tags": [
+        "kuo-toa"
+    ],
+    "hit": "4d8",
+    "strength": "13",
+    "dexterity": "10",
+    "constitution": "11",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "8",
+    "perception": "+4",
+    "name": "Kuo-toa",
+    "page": 199,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Undercommon"
+    ],
+    "CR": "1/4 (50 XP)"
+}

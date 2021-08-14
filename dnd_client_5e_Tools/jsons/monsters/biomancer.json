@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "14",
+    "intelligence": "20",
+    "wisdom": "14",
+    "charisma": "15",
+    "arcana": "+9",
+    "nature": "+9",
+    "name": "Biomancer",
+    "page": 256,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NG",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "nature": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "10 (5,900 XP)"
+}

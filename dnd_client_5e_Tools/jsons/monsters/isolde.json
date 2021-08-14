@@ -1,0 +1,52 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "18",
+    "dexterity": "18",
+    "constitution": "16",
+    "intelligence": "14",
+    "wisdom": "12",
+    "charisma": "16",
+    "deception": "+6",
+    "intimidation": "+6",
+    "perception": "+4",
+    "stealth": "+7",
+    "name": "Isolde",
+    "page": 86,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "alignment": "AEA",
+    "size": "Medium",
+    "type": "fey",
+    "AC": 19,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "cold, fire, lightning, poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Infernal"
+    ],
+    "CR": "5 (1,800 XP)"
+}

@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "3",
+    "perception": "+2",
+    "name": "Enormous Tentacle",
+    "page": 94,
+    "book": "The Orrery of the Wanderer",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "blindsight 10 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)"
+}

@@ -1,0 +1,43 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "18",
+    "dexterity": "13",
+    "constitution": "14",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "16",
+    "athletics": "+7",
+    "deception": "+6",
+    "intimidation": "+6",
+    "name": "Bone Knight",
+    "page": 316,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 20,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "deception": "proficient",
+        "intimidation": "proficient"
+    },
+    "resistances": [
+        "necrotic, poison"
+    ],
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "5 (1,800 XP)"
+}

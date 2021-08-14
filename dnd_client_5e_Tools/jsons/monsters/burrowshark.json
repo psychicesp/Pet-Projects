@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "18",
+    "dexterity": "12",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "13",
+    "athletics": "+6",
+    "intimidation": "+3",
+    "perception": "+2",
+    "name": "Burrowshark",
+    "page": 196,
+    "book": "Princes of the Apocalypse",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "animal handling": "proficient",
+        "athletics": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "4 (1,100 XP)"
+}

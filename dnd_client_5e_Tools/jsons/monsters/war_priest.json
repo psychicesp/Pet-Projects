@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "16",
+    "dexterity": "10",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "17",
+    "charisma": "13",
+    "intimidation": "+5",
+    "religion": "+4",
+    "name": "War Priest",
+    "page": 218,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "any two languages"
+    ],
+    "CR": "9 (5,000 XP)"
+}

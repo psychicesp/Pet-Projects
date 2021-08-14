@@ -1,0 +1,28 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "9",
+    "constitution": "17",
+    "intelligence": "2",
+    "wisdom": "11",
+    "charisma": "5",
+    "name": "Stegosaurus",
+    "page": 140,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast",
+    "AC": 13,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "4 (1,100 XP)"
+}

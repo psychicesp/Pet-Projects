@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "7",
+    "dexterity": "12",
+    "constitution": "9",
+    "intelligence": "5",
+    "wisdom": "6",
+    "charisma": "5",
+    "name": "The Wretched",
+    "page": 233,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "monstrosity",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "bludgeoning, piercing, and slashing while in dim light or darkness"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)"
+}

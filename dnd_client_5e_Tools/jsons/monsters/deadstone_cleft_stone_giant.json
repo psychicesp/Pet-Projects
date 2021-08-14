@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "15",
+    "constitution": "20",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "9",
+    "athletics": "+12",
+    "perception": "+4",
+    "name": "Deadstone Cleft Stone Giant",
+    "page": 146,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "N",
+    "size": "Huge",
+    "type": "giant",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "athletics": "expert",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "tremorsense 30 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "7 (2,900 XP)"
+}

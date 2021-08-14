@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "6",
+    "wisdom": "12",
+    "charisma": "8",
+    "name": "Displacer Beast",
+    "page": 81,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 13,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "3 (700 XP)"
+}

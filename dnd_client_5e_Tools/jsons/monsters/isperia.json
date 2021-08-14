@@ -1,0 +1,52 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "23",
+    "wisdom": "26",
+    "charisma": "20",
+    "arcana": "+13",
+    "history": "+13",
+    "insight": "+15",
+    "perception": "+15",
+    "name": "Isperia",
+    "page": 227,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LN",
+    "size": "Gargantuan",
+    "type": "monstrosity",
+    "AC": 17,
+    "speed": [
+        "40 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 25"
+    ],
+    "languages": [
+        "Common",
+        "Sphinx"
+    ],
+    "CR": "21 (33,000 XP)"
+}

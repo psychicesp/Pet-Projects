@@ -1,0 +1,40 @@
+{
+    "tags": [
+        "gith"
+    ],
+    "strength": "12",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "13",
+    "wisdom": "14",
+    "charisma": "10",
+    "insight": "+4",
+    "perception": "+4",
+    "name": "Githzerai Monk",
+    "page": 161,
+    "book": "Monster Manual",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Gith"
+    ],
+    "CR": "2 (450 XP)"
+}

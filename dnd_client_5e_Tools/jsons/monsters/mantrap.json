@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "2",
+    "perception": "+4",
+    "stealth": "+6",
+    "name": "Mantrap",
+    "page": 227,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Large",
+    "type": "plant",
+    "AC": 12,
+    "speed": [
+        "5 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "expert"
+    },
+    "condition_immunities": [
+        "blinded, deafened, exhaustion, prone"
+    ],
+    "senses": [
+        "tremorsense 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)"
+}

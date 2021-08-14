@@ -1,0 +1,28 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "10",
+    "constitution": "16",
+    "intelligence": "2",
+    "wisdom": "7",
+    "charisma": "5",
+    "name": "Giant Boar",
+    "page": 323,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)"
+}

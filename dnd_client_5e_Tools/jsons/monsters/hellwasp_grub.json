@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "strength": "5",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "1",
+    "wisdom": "7",
+    "charisma": "3",
+    "name": "Hellwasp Grub",
+    "page": 95,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "U",
+    "size": "Small",
+    "type": "beast",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)"
+}

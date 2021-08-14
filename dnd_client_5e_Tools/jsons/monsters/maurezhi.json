@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "14",
+    "dexterity": "17",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "12",
+    "charisma": "15",
+    "deception": "+5",
+    "name": "Maurezhi",
+    "page": 133,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning, necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "Elvish",
+        "telepathy 120 ft."
+    ],
+    "CR": "7 (2,900 XP)"
+}

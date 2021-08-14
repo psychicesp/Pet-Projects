@@ -1,0 +1,54 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "15",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "13",
+    "wisdom": "15",
+    "charisma": "15",
+    "deception": "+10",
+    "insight": "+6",
+    "name": "Yochlol",
+    "page": 65,
+    "book": "Monster Manual",
+    "alignment": "S",
+    "size": "Medium",
+    "type": "fiend",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "expert",
+        "insight": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal",
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "10 (5,900 XP)"
+}

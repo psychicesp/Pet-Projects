@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "21",
+    "constitution": "20",
+    "intelligence": "25",
+    "wisdom": "22",
+    "charisma": "23",
+    "arcana": "+14",
+    "perception": "+13",
+    "name": "Belashyrra",
+    "page": 286,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "aberration",
+    "AC": 19,
+    "speed": [
+        "40 ft",
+        "fly 40 ft. (hover)"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, exhaustion, frightened, poisoned, prone"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 23"
+    ],
+    "languages": [
+        "Deep Speech",
+        "telepathy 120 ft."
+    ],
+    "CR": "22 (41,000 XP) or 23 (50,000 XP) when encountered in lair"
+}

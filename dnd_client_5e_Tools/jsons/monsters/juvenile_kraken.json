@@ -1,0 +1,51 @@
+{
+    "tags": [
+        "titan"
+    ],
+    "strength": "24",
+    "dexterity": "11",
+    "constitution": "20",
+    "intelligence": "19",
+    "wisdom": "15",
+    "charisma": "17",
+    "name": "Juvenile Kraken",
+    "page": 238,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "monstrosity",
+    "AC": 16,
+    "speed": [
+        "20 ft",
+        "swim 50 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "lightning"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "frightened, paralyzed"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal",
+        "Celestial",
+        "Infernal",
+        "Primordial",
+        "telepathy 60 ft. but can't speak"
+    ],
+    "CR": "14 (11,500 XP)"
+}

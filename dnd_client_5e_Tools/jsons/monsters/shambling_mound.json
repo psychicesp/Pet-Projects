@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "8",
+    "constitution": "16",
+    "intelligence": "5",
+    "wisdom": "10",
+    "charisma": "5",
+    "stealth": "+2",
+    "name": "Shambling Mound",
+    "page": 270,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "plant",
+    "AC": 15,
+    "speed": [
+        "20 ft",
+        "swim 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "lightning"
+    ],
+    "resistances": [
+        "cold, fire"
+    ],
+    "condition_immunities": [
+        "blinded, deafened, exhaustion"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "5 (1,800 XP)"
+}

@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "13",
+    "dexterity": "18",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "13",
+    "charisma": "14",
+    "perception": "+3",
+    "stealth": "+8",
+    "name": "Drow Gunslinger",
+    "page": 201,
+    "book": "Waterdeep: Dragon Heist",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "4 (1,100 XP)"
+}

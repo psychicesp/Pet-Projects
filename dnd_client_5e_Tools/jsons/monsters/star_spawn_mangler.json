@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "8",
+    "dexterity": "18",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "12",
+    "charisma": "7",
+    "stealth": "+7",
+    "name": "Star Spawn Mangler",
+    "page": 236,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "aberration",
+    "AC": 14,
+    "speed": [
+        "40 ft",
+        "climb 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "psychic"
+    ],
+    "resistances": [
+        "cold"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, prone"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Deep Speech"
+    ],
+    "CR": "5 (1,800 XP)"
+}

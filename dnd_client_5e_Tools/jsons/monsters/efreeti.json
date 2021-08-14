@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "22",
+    "dexterity": "12",
+    "constitution": "24",
+    "intelligence": "16",
+    "wisdom": "15",
+    "charisma": "16",
+    "name": "Efreeti",
+    "page": 145,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "elemental",
+    "AC": 17,
+    "speed": [
+        "40 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "fire"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Ignan"
+    ],
+    "CR": "11 (7,200 XP)"
+}

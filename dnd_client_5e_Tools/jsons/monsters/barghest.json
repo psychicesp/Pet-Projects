@@ -1,0 +1,55 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "19",
+    "dexterity": "15",
+    "constitution": "14",
+    "intelligence": "13",
+    "wisdom": "12",
+    "charisma": "14",
+    "deception": "+4",
+    "intimidation": "+4",
+    "perception": "+5",
+    "stealth": "+4",
+    "name": "Barghest",
+    "page": 123,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 17,
+    "speed": [
+        "60 ft. (30 ft. in goblin form)"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "intimidation": "proficient",
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "acid, poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Goblin",
+        "Infernal",
+        "telepathy 60 ft."
+    ],
+    "CR": "4 (1,100 XP)"
+}

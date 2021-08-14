@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "hit": "32d4",
+    "strength": "1",
+    "dexterity": "20",
+    "constitution": "10",
+    "intelligence": "20",
+    "wisdom": "17",
+    "charisma": "20",
+    "name": "Demilich",
+    "page": 48,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Tiny",
+    "type": "undead",
+    "AC": 20,
+    "speed": [
+        "0 ft",
+        "fly 30 ft. (hover)"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "necrotic, poison, psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from magic weapons"
+    ],
+    "condition_immunities": [
+        "charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "18 (20,000 XP) or 20 (25,000 XP) when encountered in lair"
+}

@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "12",
+    "constitution": "16",
+    "intelligence": "9",
+    "wisdom": "14",
+    "charisma": "12",
+    "perception": "+10",
+    "name": "Drowned Master",
+    "page": 235,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "understands the languages it knew in life but can\\'t speak"
+    ],
+    "CR": "9 (5,000 XP)"
+}

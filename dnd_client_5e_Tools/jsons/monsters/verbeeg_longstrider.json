@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "13",
+    "wisdom": "14",
+    "charisma": "10",
+    "athletics": "+7",
+    "stealth": "+5",
+    "name": "Verbeeg Longstrider",
+    "page": 311,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "N",
+    "size": "Large",
+    "type": "giant",
+    "AC": 14,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "animal handling": "proficient",
+        "athletics": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Giant"
+    ],
+    "CR": "5 (1,800 XP)"
+}

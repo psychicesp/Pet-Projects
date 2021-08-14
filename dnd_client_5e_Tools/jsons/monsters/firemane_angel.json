@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "22",
+    "dexterity": "15",
+    "constitution": "17",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "23",
+    "insight": "+6",
+    "perception": "+6",
+    "name": "Firemane Angel",
+    "page": 190,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CG",
+    "size": "Medium",
+    "type": "celestial",
+    "AC": 18,
+    "speed": [
+        "40 ft",
+        "fly 120 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "fire, radiant",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "all"
+    ],
+    "CR": "12 (8,400 XP)"
+}

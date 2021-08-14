@@ -1,0 +1,50 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "17",
+    "constitution": "19",
+    "intelligence": "14",
+    "wisdom": "16",
+    "charisma": "18",
+    "deception": "+10",
+    "insight": "+9",
+    "perception": "+9",
+    "stealth": "+9",
+    "name": "Hythonia",
+    "page": 252,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "monstrosity",
+    "AC": 17,
+    "speed": [
+        "40 ft",
+        "climb 40 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "insight": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "17 (18,000 XP, or 36,000 XP as a mythic encounter)"
+}

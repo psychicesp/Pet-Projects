@@ -1,0 +1,51 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "18",
+    "constitution": "16",
+    "intelligence": "15",
+    "wisdom": "14",
+    "charisma": "16",
+    "deception": "+7",
+    "intimidation": "+7",
+    "persuasion": "+7",
+    "name": "Abhorrent Overlord",
+    "page": 219,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend",
+    "AC": 16,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "intimidation": "proficient",
+        "persuasion": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, necrotic"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Infernal"
+    ],
+    "CR": "9 (5,000 XP)"
+}

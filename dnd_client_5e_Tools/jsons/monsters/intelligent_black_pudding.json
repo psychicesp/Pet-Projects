@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "5",
+    "constitution": "16",
+    "intelligence": "14",
+    "wisdom": "6",
+    "charisma": "1",
+    "name": "Intelligent Black Pudding",
+    "page": 244,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "U",
+    "size": "Large",
+    "type": "ooze",
+    "AC": 7,
+    "speed": [
+        "20 ft",
+        "climb 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "acid, cold, lightning, slashing"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, prone"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Elvish and Undercommon but can\\'t speak"
+    ],
+    "CR": "4 (1,100 XP)"
+}

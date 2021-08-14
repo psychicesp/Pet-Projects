@@ -1,0 +1,39 @@
+{
+    "tags": [
+        "human"
+    ],
+    "hit": "10d8",
+    "strength": "12",
+    "dexterity": "16",
+    "constitution": "10",
+    "intelligence": "14",
+    "wisdom": "10",
+    "charisma": "14",
+    "acrobatics": "+5",
+    "intimidation": "+4",
+    "religion": "+4",
+    "name": "Howling Hatred Priest",
+    "page": 190,
+    "book": "Princes of the Apocalypse",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient",
+        "intimidation": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Auran",
+        "Common"
+    ],
+    "CR": "2 (450 XP)"
+}

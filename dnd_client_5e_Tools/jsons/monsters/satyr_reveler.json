@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "16",
+    "constitution": "13",
+    "intelligence": "12",
+    "wisdom": "10",
+    "charisma": "16",
+    "acrobatics": "+5",
+    "performance": "+7",
+    "stealth": "+5",
+    "name": "Satyr Reveler",
+    "page": 242,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "fey",
+    "AC": 13,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient",
+        "performance": "expert",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Sylvan"
+    ],
+    "CR": "1 (200 XP)"
+}

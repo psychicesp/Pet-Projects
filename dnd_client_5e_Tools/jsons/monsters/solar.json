@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "26",
+    "dexterity": "22",
+    "constitution": "26",
+    "intelligence": "25",
+    "wisdom": "25",
+    "charisma": "30",
+    "perception": "+14",
+    "name": "Solar",
+    "page": 18,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Large",
+    "type": "celestial",
+    "AC": 21,
+    "speed": [
+        "50 ft",
+        "fly 150 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "resistances": [
+        "radiant",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 24"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "21 (33,000 XP)"
+}

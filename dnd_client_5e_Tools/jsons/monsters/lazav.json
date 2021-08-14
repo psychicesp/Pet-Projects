@@ -1,0 +1,55 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "16",
+    "dexterity": "24",
+    "constitution": "18",
+    "intelligence": "22",
+    "wisdom": "20",
+    "charisma": "22",
+    "deception": "+18",
+    "insight": "+11",
+    "perception": "+11",
+    "stealth": "+19",
+    "name": "Lazav",
+    "page": 232,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "monstrosity",
+    "AC": 18,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "expert",
+        "insight": "proficient",
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic, psychic"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 21"
+    ],
+    "languages": [
+        "Common",
+        "Thieves\\' cant"
+    ],
+    "CR": "17 (18,000 XP)"
+}

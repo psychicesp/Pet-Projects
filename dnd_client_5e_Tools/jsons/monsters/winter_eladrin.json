@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "11",
+    "dexterity": "10",
+    "constitution": "16",
+    "intelligence": "18",
+    "wisdom": "17",
+    "charisma": "13",
+    "name": "Winter Eladrin",
+    "page": 197,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "fey",
+    "AC": 19,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Elvish",
+        "Sylvan"
+    ],
+    "CR": "10 (5,900 XP)"
+}

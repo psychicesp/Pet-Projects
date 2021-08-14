@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "11",
+    "wisdom": "8",
+    "charisma": "12",
+    "arcana": "+3",
+    "perception": "+2",
+    "name": "Green Slaad",
+    "page": 277,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Large",
+    "type": "aberration",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "acid, cold, fire, lightning, thunder"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Slaad",
+        "telepathy 60 ft."
+    ],
+    "CR": "8 (3,900 XP)"
+}

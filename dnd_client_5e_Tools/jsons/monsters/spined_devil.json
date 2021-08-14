@@ -1,0 +1,43 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "14",
+    "charisma": "8",
+    "name": "Spined Devil",
+    "page": 78,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "fiend",
+    "AC": 13,
+    "speed": [
+        "20 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Infernal",
+        "telepathy 120 ft."
+    ],
+    "CR": "2 (450 XP)"
+}
