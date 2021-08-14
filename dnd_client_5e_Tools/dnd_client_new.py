@@ -47,7 +47,7 @@ def monster_unpacker(file):
     monster_json={}
 #%%
 
-with open('html_pages/monsters/aarakocra.html', 'r') as mon:
+with open('html_pages/monsters/lich.html', 'r') as mon:
     mon_soup = BS(mon, 'html.parser')
 
 ability_soup = mon_soup.find_all('span', {'class':'roller render-roller'})
@@ -66,8 +66,11 @@ for ability in ability_soup:
     except:
         pass
 meal['name'] = mon_soup.find('h1').text
-meal['book'] = mon_soup.find('a',{"class":"help-subtle sourceMM"})['title']
-meal['page'] = int(mon_soup.find('a',{"class":"rd__stats-name-page ml-1"})['title'].split(' ')[1])
+book_page = mon_soup.find('div',{"class":"stats-source flex-v-baseline"}).find_all('a')
+
+print(book_page[0].attrs['title'])
+meal['page'] = int(book_page[1].attrs['title'].split(" ")[1])
+meal['book'] = book_page[0].attrs['title']
 sta = mon_soup.find('div',{"class":"mon__wrp-size-type-align--token"}).text
 sta = sta.split(',')
 meal['alignment'] = ''.join([x.upper()[:1] for x in sta[1].split(' ')])
@@ -76,14 +79,36 @@ meal['size'] = sta[0]
 meal['type'] = sta[1]
 if len(sta)>2:
     meal['tags'].append(sta[2].strip().strip(')').strip('('))
-meal['hit_dice_type'] = 'd'+meal['hit'].split('d')[1]
-meal['num_hit_dice'] = int(meal['hit'].split('d')[0])
-meal.pop('hit')
-meal['AC'] =  int(mon_soup.find('div',{"class":"mon__wrp-avoid-token"}).text.split(' ')[-1])
+# meal['hit_dice_type'] = 'd'+meal['hit'].split('d')[1]
+# meal['num_hit_dice'] = int(meal['hit'].split('d')[0])
+# meal.pop('hit')
+meal['AC'] =  mon_soup.find('div',{"class":"mon__wrp-avoid-token"}).text
+for word in meal['AC'].split(' '):
+    if word.isnumeric():
+        meal['AC'] = int(word)
+        break
 speed = [x.text for x in mon_soup.find_all('td', {'colspan':"6"}) if "Speed" in x.text][0].replace('Speed', '')
 speed = [x.strip().strip('.').strip() for x in speed.split(',')]
 meal['speed'] = speed
-pprint(meal)
+meal['saving_throws'] = {}
+meal['skills'] = {}
+proficiency_dict = {
+    "1": "proficiency",
+    "2": "expertise"
+}
+soup_dict = {}
+piece_meal = mon_soup.find_all("td", {"colspan":"6"})+ mon_soup.find_all("td", {"colspan":"3"})
+sections = ["Saving Throws", "Skills", "Damage Resistances", "Damage Immunities","Condition Immunities", "Senses", "Languages", "Challenge", ""]
+for piece in piece_meal:
+    for section in sections:
+        if section in piece.text:
+            soup_dict[section] = piece
+            sections.remove(section)
+            print(section)
+            print(' ', piece.text)
+            break
+if "Saving Throws" in soup_dict.keys():
+    
 # %%
 def html_cleaner(in_folder):
     files = os.listdir(in_folder)
