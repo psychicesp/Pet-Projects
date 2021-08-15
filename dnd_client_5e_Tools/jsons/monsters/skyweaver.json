@@ -30,6 +30,26 @@
     "CR": "3 (700 XP)",
     "page": 191,
     "book": "Princes of the Apocalypse",
+    "traits": {
+        "spellcasting": {
+            "level": 6,
+            "type": "sorcerer",
+            "spells": [
+                "blade ward",
+                "light",
+                "message",
+                "ray of frost",
+                "shocking grasp",
+                "feather fall",
+                "mage armor",
+                "witch bolt",
+                "gust of wind",
+                "invisibility",
+                "fly",
+                "lightning bolt"
+            ]
+        }
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

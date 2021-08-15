@@ -29,6 +29,10 @@
     "CR": "1/8 (25 XP)",
     "page": 312,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Bonding": "The hawk can magically bond with one creature it can see, immediately after spending at least 1 hour observing that creature while within 30 feet of it. The bond lasts until the hawk bonds with a different creature or until the bonded creature dies. While bonded, the hawk and the bonded creature can communicate telepathically with each other at a distance of up to 100 feet.",
+        "Keen Sight": "The hawk has advantage on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "N",
     "size": "Tiny",
     "type": "fey"

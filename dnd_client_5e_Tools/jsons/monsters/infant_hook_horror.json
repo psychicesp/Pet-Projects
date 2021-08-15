@@ -28,6 +28,10 @@
     "CR": "0 (0 or 10 XP)",
     "page": 34,
     "book": "Out of the Abyss",
+    "traits": {
+        "Echolocation": "The hook horror can\\'t use its blindsight while deafened.",
+        "Keen Hearing": "The hook horror has advantage on Wisdom (Perception) checks that rely on hearing."
+    },
     "alignment": "N",
     "size": "Tiny",
     "type": "monstrosity"

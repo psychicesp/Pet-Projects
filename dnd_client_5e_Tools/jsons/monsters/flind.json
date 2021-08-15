@@ -34,6 +34,9 @@
     "CR": "9 (5,000 XP)",
     "page": 153,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Aura of Blood Thirst": "If the flind isn\\'t incapacitated, any creature with the Rampage trait can make a bite attack as a bonus action while within 10 feet of the flind."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

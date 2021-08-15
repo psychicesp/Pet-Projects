@@ -27,6 +27,9 @@
     "CR": "1/4 (50 XP)",
     "page": 138,
     "book": "Monster Manual",
+    "traits": {
+        "False Appearance": "While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "plant"

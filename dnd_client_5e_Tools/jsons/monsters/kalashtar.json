@@ -35,6 +35,9 @@
     "CR": "1/4 (50 XP)",
     "page": 317,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Dual Mind": "The kalashtar has advantage on Wisdom saving throws."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

@@ -23,6 +23,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 251,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Keen Smell": "the hamster has advantage on Wisdom (Perception) checks that rely on smell."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

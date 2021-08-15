@@ -30,6 +30,9 @@
     "CR": "6 (2,300 XP)",
     "page": 149,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Mouth of Madness": "The giant is immune to confusion spells and similar magic."
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "giant"

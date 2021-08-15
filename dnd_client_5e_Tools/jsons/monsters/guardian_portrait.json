@@ -31,6 +31,20 @@
     "CR": "1 (200 XP)",
     "page": 227,
     "book": "Curse of Strahd",
+    "traits": {
+        "Antimagic Susceptibility": "The portrait is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the portrait must succeed on a Constitution saving throw against the caster\\'s spell save DC or become unconscious for 1 minute.",
+        "Constructed Nature": "An animated object doesn't require air, food, drink, or sleep.",
+        "False Appearance": "While the figure in the portrait remains motionless, the portrait is indistinguishable from a normal painting.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "counterspell",
+                "crown of madness",
+                "hypnotic pattern",
+                "telekinesis"
+            ]
+        }
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

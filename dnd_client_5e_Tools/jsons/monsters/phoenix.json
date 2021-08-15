@@ -36,6 +36,14 @@
     "CR": "16 (15,000 XP)",
     "page": 199,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Fiery Death and Rebirth": "When the phoenix dies, it explodes. Each creature within 60-feet of it must make a DC 20+1d10 + 15 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren\\'t worn or carried.",
+        "Fire Form": "The phoenix can move through a space as narrow as 1 inch wide without squeezing. Any creature that touches the phoenix or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the phoenix can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage. With a touch, the phoenix can also ignite flammable objects that aren\\'t worn or carried (no action required).",
+        "Flyby": "The phoenix doesn't provoke opportunity attacks when it flies out of an enemy\\'s reach.",
+        "Illumination": "The phoenix sheds bright light in a 60-foot radius and dim light for an additional 30 feet.",
+        "Legendary Resistance (3/Day)": "If the phoenix fails a saving throw, it can choose to succeed instead.",
+        "Siege Monster": "The phoenix deals double damage to objects and structures."
+    },
     "alignment": "N",
     "size": "Gargantuan",
     "type": "elemental"

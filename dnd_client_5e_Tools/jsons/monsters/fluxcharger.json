@@ -34,6 +34,9 @@
     "CR": "7 (2,900 XP)",
     "page": 208,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Amplify Lightning": "Whenever a spell that deals lightning damage includes one or more fluxchargers in its area, the spell deals an extra 9 (2d8) lightning damage."
+    },
     "alignment": "CN",
     "size": "Large",
     "type": "elemental"

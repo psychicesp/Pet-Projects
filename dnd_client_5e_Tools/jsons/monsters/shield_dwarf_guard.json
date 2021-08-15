@@ -32,6 +32,9 @@
     "CR": "1/8 (25 XP)",
     "page": 78,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Dwarven Resilience": "The shield dwarf guard has advantage on saving throws against poison, and has resistance against poison damage."
+    },
     "alignment": "LG",
     "size": "Medium",
     "type": "humanoid"

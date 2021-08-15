@@ -38,6 +38,10 @@
     "CR": "1/2 (100 XP)",
     "page": 130,
     "book": "Out of the Abyss",
+    "traits": {
+        "Dwarven Resilience": "The scout has advantage on saving throws against poison.",
+        "Keen Hearing and Sight": "The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+    },
     "alignment": "LN",
     "size": "Medium",
     "type": "humanoid"

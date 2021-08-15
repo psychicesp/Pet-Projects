@@ -28,6 +28,12 @@
     "CR": "1/4 (50 XP)",
     "page": 35,
     "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The bullywug can breathe air and water.",
+        "Speak with Frogs and Toads": "The bullywug can communicate simple concepts to frogs and toads when it speaks in Bullywug.",
+        "Standing Leap": "The bullywug's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.",
+        "Swamp Camouflage": "The bullywug has advantage on Dexterity (Stealth) checks made to hide in swampy terrain."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

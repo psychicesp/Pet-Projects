@@ -32,6 +32,10 @@
     "CR": "3 (700 XP)",
     "page": 241,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Blood Frenzy": "The render has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+        "Hold Breath": "The render can hold its breath for 15 minutes."
+    },
     "alignment": "N",
     "size": "Large",
     "type": "humanoid"

@@ -46,6 +46,41 @@
     "CR": "14 (11,500 XP)",
     "page": 198,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Legendary Resistance (3/Day)": "If the lich fails a saving throw, it can choose to succeed instead.",
+        "Regeneration": "The lich regains 10 hit points at the start of its turn. If the lich takes fire or radiant damage, this trait doesn't function at the start of the lich's next turn. The lich dies only if it starts its turn with 0 hit points and doesn\\'t regenerate.",
+        "spellcasting": {
+            "level": 14,
+            "type": "wizard",
+            "spells": [
+                "acid splash",
+                "chill touch",
+                "mage hand",
+                "poison spray",
+                "prestidigitation",
+                "chromatic orb",
+                "magic missile",
+                "ray of sickness",
+                "Melf's acid arrow",
+                "ray of enfeeblement",
+                "spider climb",
+                "web",
+                "animate dead",
+                "bestow curse",
+                "fear",
+                "vampiric touch",
+                "blight",
+                "Evard's black tentacles",
+                "cloudkill",
+                "insect plague",
+                "circle of death",
+                "create undead",
+                "finger of death"
+            ]
+        },
+        "Turn Resistance": "The lich has advantage on saving throws against any effect that turns undead.",
+        "Undead Fortitude": "If damage reduces the lich to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the lich drops to 1 hit point instead."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "undead"

@@ -45,6 +45,9 @@
     "CR": "16 (15,000 XP)",
     "page": 151,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Amphibious": "The giant can breathe air and water."
+    },
     "alignment": "CG",
     "size": "Huge",
     "type": "giant"

@@ -37,6 +37,24 @@
     "CR": "5 (1,800 XP)",
     "page": 233,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Special Equipment": "The mage wears a spies\\' murmur (see chapter 5).",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "encode thoughts",
+                "friends",
+                "charm person",
+                "detect thoughts",
+                "mage armor",
+                "sleep",
+                "suggestion",
+                "dominate person",
+                "mass suggestion",
+                "modify memory"
+            ]
+        }
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

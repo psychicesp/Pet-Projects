@@ -30,5 +30,9 @@
     ],
     "CR": "9 (5,000 XP)",
     "page": 236,
-    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Jiangshi Weaknesses": "The jiangshi has the following flaws:",
+        "Unusual Nature": "The jiangshi doesn\\'t require air."
+    }
 }

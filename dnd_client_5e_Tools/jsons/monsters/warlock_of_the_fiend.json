@@ -40,6 +40,32 @@
     "CR": "7 (2,900 XP)",
     "page": 219,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Dark One\\'s Own Luck (Recharges after a Short or Long Rest)": "When the warlock makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll\\'s effects occur.",
+        "spellcasting": {
+            "level": 17,
+            "type": "warlock",
+            "spells": [
+                "eldritch blast",
+                "fire bolt",
+                "friends",
+                "mage hand",
+                "minor illusion",
+                "prestidigitation",
+                "shocking grasp",
+                "banishment",
+                "burning hands",
+                "flame strike",
+                "hellish rebuke",
+                "magic circle",
+                "scorching ray",
+                "scrying",
+                "stinking cloud",
+                "suggestion",
+                "wall of fire"
+            ]
+        }
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

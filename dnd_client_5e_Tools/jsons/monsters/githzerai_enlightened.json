@@ -36,6 +36,24 @@
     "CR": "10 (5,900 XP)",
     "page": 208,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage hand",
+                "blur",
+                "expeditious retreat",
+                "feather fall",
+                "jump",
+                "see invisibility",
+                "shield",
+                "haste",
+                "plane shift",
+                "teleport"
+            ]
+        },
+        "Psychic Defense": "While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+    },
     "alignment": "LN",
     "size": "Medium",
     "type": "humanoid"

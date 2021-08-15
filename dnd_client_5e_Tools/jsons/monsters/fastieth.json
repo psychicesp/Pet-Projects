@@ -23,6 +23,9 @@
     "CR": "1/4 (50 XP)",
     "page": 289,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Quickness (Recharge 5\\xe2\\x80\\x936)": "The fastieth can take the Dodge action as a bonus action."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

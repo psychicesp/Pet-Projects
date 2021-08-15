@@ -34,6 +34,25 @@
     "CR": "2 (450 XP)",
     "page": 184,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Aggressive": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+        "spellcasting": {
+            "level": 4,
+            "type": "cleric",
+            "spells": [
+                "guidance",
+                "mending",
+                "resistance",
+                "thaumaturgy",
+                "bane",
+                "detect magic",
+                "inflict wounds",
+                "protection from evil and good",
+                "blindness/deafness",
+                "silence"
+            ]
+        }
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

@@ -31,6 +31,9 @@
     "CR": "1 (200 XP)",
     "page": 241,
     "book": "Curse of Strahd",
+    "traits": {
+        "Loathsome Limbs": "Whenever the zombie takes at least 5 bludgeoning or slashing damage at one time, roll a d20 to determine what else happens to it:"
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "undead"

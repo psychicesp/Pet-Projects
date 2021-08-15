@@ -24,6 +24,9 @@
     "CR": "1/2 (100 XP)",
     "page": 291,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Dual Consciousness": "The dolgrim has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious."
+    },
     "alignment": "CE",
     "size": "Small",
     "type": "aberration"

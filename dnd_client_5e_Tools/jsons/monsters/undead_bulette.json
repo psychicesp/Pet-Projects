@@ -37,6 +37,9 @@
     "CR": "5 (1,800 XP)",
     "page": 90,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Standing Leap": "The bulette\\'s long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "undead"

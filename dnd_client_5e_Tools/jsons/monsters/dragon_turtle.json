@@ -32,6 +32,9 @@
     "CR": "17 (18,000 XP)",
     "page": 119,
     "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The dragon turtle can breathe air and water."
+    },
     "alignment": "N",
     "size": "Gargantuan",
     "type": "dragon"

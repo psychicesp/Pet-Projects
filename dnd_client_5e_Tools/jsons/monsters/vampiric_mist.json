@@ -36,6 +36,12 @@
     "CR": "3 (700 XP)",
     "page": 246,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Forbiddance": "The mist can't enter a residence without an invitation from one of the occupants.",
+        "Life Sense": "The mist can sense the location of any creature within 60 feet of it, unless that creature\\'s type is construct or undead.",
+        "Misty Form": "The mist can occupy another creature's space and vice versa. In addition, if air can pass through a space, the mist can pass through it without squeezing. Each foot of movement in water costs it 2 extra feet, rather than 1 extra foot. The mist can't manipulate objects in any way that requires fingers or manual dexterity.",
+        "Sunlight Hypersensitivity": "The mist takes 10 radiant damage whenever it starts its turn in sunlight. While in sunlight, the mist has disadvantage on attack rolls and ability checks."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

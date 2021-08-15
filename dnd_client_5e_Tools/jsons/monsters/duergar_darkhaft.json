@@ -29,6 +29,19 @@
     "CR": "2 (450 XP)",
     "page": 226,
     "book": "Out of the Abyss",
+    "traits": {
+        "Duergar Resilience": "The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "friends",
+                "mage hand",
+                "disguise self",
+                "sleep"
+            ]
+        },
+        "Sunlight Sensitivity": "While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

@@ -28,6 +28,9 @@
     "CR": "1/4 (50 XP)",
     "page": 318,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Hearing and Smell": "The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+    },
     "alignment": "LG",
     "size": "Medium",
     "type": "fey"

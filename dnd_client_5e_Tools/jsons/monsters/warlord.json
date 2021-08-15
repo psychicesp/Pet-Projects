@@ -37,6 +37,10 @@
     "CR": "12 (8,400 XP)",
     "page": 220,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Indomitable (3/Day)": "The warlord can reroll a saving throw it fails. It must use the new roll.",
+        "Survivor": "The warlord regains 10 hit points at the start of its turn if it has at least 1 hit point but fewer hit points than half its hit point maximum."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

@@ -25,6 +25,27 @@
     "CR": "4 (1,100 XP)",
     "page": 294,
     "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Amphibious": "The merrow can breathe air and water.",
+        "spellcasting": {
+            "level": 6,
+            "type": "druid",
+            "spells": [
+                "druidcraft",
+                "minor illusion",
+                "shocking grasp",
+                "cure wounds",
+                "fog cloud",
+                "thunderwave",
+                "hold person",
+                "mirror image",
+                "misty step",
+                "dispel magic",
+                "lightning bolt",
+                "sleet storm"
+            ]
+        }
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "monstrosity"

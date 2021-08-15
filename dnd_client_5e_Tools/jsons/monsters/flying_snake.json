@@ -26,6 +26,9 @@
     "CR": "1/8 (25 XP)",
     "page": 322,
     "book": "Monster Manual",
+    "traits": {
+        "Flyby": "The snake doesn't provoke opportunity attacks when it flies out of an enemy\\'s reach."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

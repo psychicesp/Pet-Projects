@@ -28,7 +28,7 @@
     },
     "damage_immunities": [
         "poison",
-        "bludgeoning, piercing, and slashing from nonmagical attacks"
+        "bludgeoning, piercing, and slashing from nonmagical\n            attacks"
     ],
     "resistances": [
         "cold, lightning, necrotic"
@@ -38,14 +38,51 @@
     ],
     "senses": [
         "truesight 120 ft.",
-        "passive Perception 19"
+        "passive Perception\n            19"
     ],
     "languages": [
         "Common plus up to five other languages"
     ],
-    "CR": "21 (33,000 XP) or 22 (41,000 XP) when encountered in lair",
+    "CR": "21 (33,000 XP) or 22 (41,000 XP) when encountered in\n                lair",
     "page": 202,
     "book": "Monster Manual",
+    "traits": {
+        "Legendary Resistance (3/Day)": "If the lich fails a saving throw, it can choose to succeed instead.",
+        "Rejuvenation": "If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points\n                    and becoming active again. The new body appears within 5 feet of the phylactery.",
+        "spellcasting": {
+            "level": 18,
+            "type": "wizard",
+            "spells": [
+                "mage hand",
+                "prestidigitation",
+                "ray of frost",
+                "detect magic",
+                "magic missile",
+                "shield",
+                "thunderwave",
+                "detect thoughts",
+                "invisibility",
+                "Melf's acid arrow",
+                "mirror image",
+                "animate dead",
+                "counterspell",
+                "dispel magic",
+                "fireball",
+                "blight",
+                "dimension door",
+                "cloudkill",
+                "scrying",
+                "disintegrate",
+                "globe of                                    invulnerability",
+                "finger of death",
+                "plane shift",
+                "dominate monster",
+                "power word stun",
+                "power word kill"
+            ]
+        },
+        "Turn Resistance": "The lich has advantage on saving throws against any effect that turns undead."
+    },
     "alignment": "AEA",
     "size": "Medium",
     "type": "undead"

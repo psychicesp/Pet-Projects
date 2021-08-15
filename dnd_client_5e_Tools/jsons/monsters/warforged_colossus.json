@@ -34,6 +34,13 @@
     "CR": "25 (75,000 XP)",
     "page": 314,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Immutable Form": "The colossus is immune to any spell or effect that would alter its form.",
+        "Legendary Resistance (3/Day)": "If the colossus fails a saving throw, it can choose to succeed instead.",
+        "Magic Resistance": "The colossus has advantage on saving throws against spells and other magical effects.",
+        "Siege Monster": "The colossus deals double damage to objects and structures.",
+        "Towering Terror": "Any enemy outside the colossus that starts its turn within 30 feet of it must succeed on a DC 26+1d16 + 18 Wisdom saving throw or be frightened until the start of the enemy\\'s next turn. If the enemy's saving throw is successful, it is immune to this colossus\\'s Towering Terror for the next 24 hours."
+    },
     "alignment": "U",
     "size": "Gargantuan",
     "type": "construct"

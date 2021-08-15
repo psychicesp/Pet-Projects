@@ -36,6 +36,10 @@
     "CR": "20 (25,000 XP)",
     "page": 216,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Annihilating Aura": "Any creature that starts its turn within 30 feet of the nightwalker must succeed on a DC 21+1d12 + 15 Constitution saving throw or take 14 (4d6) necrotic damage and grant the nightwalker advantage on attack rolls against it until the start of the creature's next turn. Undead are immune to this aura.",
+        "Life Eater": "A creature reduced to 0 hit points from damage dealt by the nightwalker dies and can't be revived by any means short of a wish spell."
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "undead"

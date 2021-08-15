@@ -29,6 +29,10 @@
     "CR": "1/4 (50 XP)",
     "page": 217,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Amorphous": "The oblex can move through a space as narrow as 1 inch wide without squeezing.",
+        "Aversion to Fire": "If the oblex takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn."
+    },
     "alignment": "LE",
     "size": "Tiny",
     "type": "ooze"

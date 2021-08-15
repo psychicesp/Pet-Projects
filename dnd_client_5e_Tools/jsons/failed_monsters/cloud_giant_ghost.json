@@ -40,5 +40,10 @@
     ],
     "CR": "9 (5,000 XP)",
     "page": 146,
-    "book": "Candlekeep Mysteries"
+    "book": "Candlekeep Mysteries",
+    "traits": {
+        "Ethereal Sight": "The ghost can see 120 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.",
+        "Incorporeal Movement": "The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+        "Regeneration": "The ghost regains 10 hit points at the start of its turn. If the ghost takes radiant damage or damage from a magic weapon, this trait doesn't function at the start of the ghost's next turn. The ghost dies only if it starts its turn with 0 hit points and doesn't regenerate."
+    }
 }

@@ -26,6 +26,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 330,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Sight": "The hawk has advantage on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

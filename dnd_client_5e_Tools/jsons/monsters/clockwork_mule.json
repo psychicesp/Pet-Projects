@@ -28,6 +28,11 @@
     "CR": "1/8 (25 XP)",
     "page": 162,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Beast of Burden": "The mule is considered to be a Large animal for the purpose of determining its carrying capacity.",
+        "Maintainable": "Repairing 1 hit point of damage to the clockwork mule takes 1 hour and requires replacement parts, which can be bought in a large city for 20 gp. If the mule drops to 0 hit points, it is destroyed and unrepairable.",
+        "Sure-Footed": "The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

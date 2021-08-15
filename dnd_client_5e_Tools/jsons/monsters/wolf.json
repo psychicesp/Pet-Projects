@@ -27,6 +27,10 @@
     "CR": "1/4 (50 XP)",
     "page": 341,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Hearing and Smell": "The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+        "Pack Tactics": "The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn\\'t incapacitated."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

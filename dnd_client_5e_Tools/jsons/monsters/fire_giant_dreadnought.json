@@ -36,6 +36,9 @@
     "CR": "14 (11,500 XP)",
     "page": 147,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Dual Shields": "The giant carries two shields, each of which is accounted for in the giant's AC. The giant must stow or drop one of its shields to hurl rocks."
+    },
     "alignment": "LE",
     "size": "Huge",
     "type": "giant"

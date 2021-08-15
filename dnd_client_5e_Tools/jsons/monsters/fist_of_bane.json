@@ -27,6 +27,9 @@
     "CR": "1/2 (100 XP)",
     "page": 232,
     "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "traits": {
+        "Tactical Discipline": "The fist of Bane has advantage on all ability checks and saving throws made during combat."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

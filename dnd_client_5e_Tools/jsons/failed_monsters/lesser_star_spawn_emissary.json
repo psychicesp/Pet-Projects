@@ -42,5 +42,10 @@
     ],
     "CR": "19 (22,000 XP)",
     "page": 245,
-    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Aberrant Rejuvenation": "When the emissary drops to 0 hit points, its body melts away. A greater star spawn emissary instantly appears in an unoccupied space within 60 feet of where the lesser emissary disappeared. The greater emissary uses the lesser emissary\\'s initiative count.",
+        "Legendary Resistance (3/Day)": "If the emissary fails a saving throw, it can choose to succeed instead.",
+        "Unusual Nature": "The emissary doesn't require air, food, drink, or sleep."
+    }
 }

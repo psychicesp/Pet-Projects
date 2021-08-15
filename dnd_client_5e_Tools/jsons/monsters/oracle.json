@@ -33,6 +33,23 @@
     "CR": "4 (1,100 XP)",
     "page": 238,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Blessings of the Gods": "While the oracle is wearing no armor and wielding no shield, its AC includes its Wisdom modifier. In addition, a creature that hits the oracle with a melee attack while within 5 feet of it takes 9 (2d8) force damage.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "guidance",
+                "light",
+                "thaumaturgy",
+                "bless",
+                "guiding bolt",
+                "healing word",
+                "hold person",
+                "augury",
+                "scrying"
+            ]
+        }
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

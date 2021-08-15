@@ -40,6 +40,18 @@
     "CR": "7 (2,900 XP)",
     "page": 248,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "darkness",
+                "fear",
+                "sleep"
+            ]
+        },
+        "Magic Resistance": "The dhergoloth has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The dhergoloth's weapon attacks are magical."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "fiend"

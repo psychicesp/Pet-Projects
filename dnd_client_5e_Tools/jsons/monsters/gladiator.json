@@ -33,6 +33,10 @@
     "CR": "5 (1,800 XP)",
     "page": 346,
     "book": "Monster Manual",
+    "traits": {
+        "Brave": "The gladiator has advantage on saving throws against being frightened.",
+        "Brute": "A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack)."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

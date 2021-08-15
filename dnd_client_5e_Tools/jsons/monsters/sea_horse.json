@@ -23,6 +23,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 337,
     "book": "Monster Manual",
+    "traits": {
+        "Water Breathing": "The sea horse can breathe only underwater."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

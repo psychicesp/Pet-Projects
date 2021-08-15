@@ -30,6 +30,11 @@
     "CR": "1/4 (50 XP)",
     "page": 254,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Senses": "The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.",
+        "Limited Telepathy": "The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.",
+        "Magic Resistance": "The pseudodragon has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "NG",
     "size": "Tiny",
     "type": "dragon"

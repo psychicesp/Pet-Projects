@@ -29,6 +29,10 @@
     "CR": "0 (0 or 10 XP)",
     "page": 322,
     "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The frog can breathe air and water.",
+        "Standing Leap": "The frog's long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

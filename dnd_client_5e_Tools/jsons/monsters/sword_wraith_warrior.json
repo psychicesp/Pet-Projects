@@ -33,6 +33,9 @@
     "CR": "3 (700 XP)",
     "page": 241,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Martial Fury": "As a bonus action, the sword wraith can make one weapon attack. If it does so, attack rolls against it have advantage until the start of its next turn."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "undead"

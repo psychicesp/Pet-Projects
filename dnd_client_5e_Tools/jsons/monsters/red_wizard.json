@@ -33,6 +33,30 @@
     "CR": "6 (2,300 XP)",
     "page": 76,
     "book": "The Rise of Tiamat",
+    "traits": {
+        "spellcasting": {
+            "level": 9,
+            "type": "wizard",
+            "spells": [
+                "fire bolt",
+                "light",
+                "mage hand",
+                "prestidigitation",
+                "detect magic",
+                "mage armor",
+                "magic missile",
+                "shield",
+                "misty step",
+                "suggestion",
+                "counterspell",
+                "fireball",
+                "fly",
+                "greater invisibility",
+                "ice storm",
+                "cone of cold"
+            ]
+        }
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

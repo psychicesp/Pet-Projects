@@ -44,6 +44,29 @@
     "CR": "18 (20,000 XP)",
     "page": 252,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dispel magic",
+                "druidcraft",
+                "bless",
+                "conjure animals",
+                "giant insect",
+                "moonbeam",
+                "plant growth",
+                "spike growth",
+                "suggestion",
+                "conjure fey",
+                "mass cure wounds"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Trostani fails a saving throw, she can choose to succeed instead.",
+        "Magic Resistance": "Trostani has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "Trostani's weapon attacks are magical.",
+        "Speak with Beasts and Plants": "Trostani can communicate with beasts and plants as if they shared a language.",
+        "Tree Stride": "Once on her turn, Trostani can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger."
+    },
     "alignment": "NG",
     "size": "Large",
     "type": "fey"

@@ -29,6 +29,9 @@
     "CR": "1 (200 XP)",
     "page": 248,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Sea Legs": "The first mate has advantage on ability checks and saving throws to resist being knocked prone."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

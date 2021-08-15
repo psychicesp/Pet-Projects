@@ -37,6 +37,12 @@
     "CR": "11 (7,200 XP)",
     "page": 281,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Immutable Form": "The dragon is immune to any spell or effect that would alter its form.",
+        "Magic Resistance": "The dragon has advantage on saving throws against spells and other magical effects.",
+        "Siege Monster": "The dragon deals double damage to objects and structures.",
+        "Unusual Nature": "The dragon doesn't require air, food, drink, or sleep, and it gains no benefit from finishing a short or long rest."
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "construct"

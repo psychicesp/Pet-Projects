@@ -35,6 +35,10 @@
     "CR": "11 (7,200 XP)",
     "page": 244,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Incorporeal Movement": "The troll can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+        "Regeneration": "The troll regains 10 hit points at the start of each of its turns. If the troll takes psychic or force damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "giant"

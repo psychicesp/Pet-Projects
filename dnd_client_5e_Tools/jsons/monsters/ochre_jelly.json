@@ -33,6 +33,10 @@
     "CR": "2 (450 XP)",
     "page": 243,
     "book": "Monster Manual",
+    "traits": {
+        "Amorphous": "The jelly can move through a space as narrow as 1 inch wide without squeezing.",
+        "Spider Climb": "The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "ooze"

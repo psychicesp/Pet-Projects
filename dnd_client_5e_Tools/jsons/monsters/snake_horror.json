@@ -36,6 +36,10 @@
     "CR": "4 (1,100 XP)",
     "page": 46,
     "book": "The Rise of Tiamat",
+    "traits": {
+        "Magic Resistance": "The snake horror has advantage on saving throws against spells and other magical effects.",
+        "Spell Immunity": "The snake horror is immune to three spells chosen by its creator. Typical immunities include fireball, heat metal, and lightning bolt."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

@@ -34,6 +34,28 @@
     "CR": "6 (2,300 XP)",
     "page": 235,
     "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "traits": {
+        "Aura of Terror": "When a hostile creature within 5 feet of the black gauntlet makes an attack roll or a saving throw, it has disadvantage on the roll. Creatures that are immune to the frightened condition are immune to this trait.",
+        "spellcasting": {
+            "level": 5,
+            "type": "cleric",
+            "spells": [
+                "guidance",
+                "sacred flame",
+                "thaumaturgy",
+                "bane",
+                "bless",
+                "cure wounds",
+                "guiding bolt",
+                "blindness/deafness",
+                "hold person",
+                "silence",
+                "sending",
+                "spirit guardians"
+            ]
+        },
+        "Tactical Discipline": "The black gauntlet has advantage on all ability checks and saving throws made during combat."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

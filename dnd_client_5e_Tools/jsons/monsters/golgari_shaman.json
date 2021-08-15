@@ -38,6 +38,29 @@
     "CR": "5 (1,800 XP)",
     "page": 236,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Fey Ancestry": "The shaman has advantage on saving throws against being charmed, and magic can\\'t put it to sleep.",
+        "spellcasting": {
+            "level": 8,
+            "type": "druid",
+            "spells": [
+                "poison spray",
+                "shillelagh",
+                "thorn whip",
+                "cure wounds",
+                "entangle",
+                "ray of sickness",
+                "pass without trace",
+                "ray of enfeeblement",
+                "spike growth",
+                "animate dead",
+                "dispel magic",
+                "plant growth",
+                "blight",
+                "giant insect"
+            ]
+        }
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

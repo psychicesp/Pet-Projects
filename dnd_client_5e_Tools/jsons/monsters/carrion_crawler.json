@@ -27,6 +27,10 @@
     "CR": "2 (450 XP)",
     "page": 37,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Smell": "The carrion crawler has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Spider Climb": "The carrion crawler can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

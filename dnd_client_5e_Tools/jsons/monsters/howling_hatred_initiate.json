@@ -32,6 +32,10 @@
     "CR": "1/8 (25 XP)",
     "page": 190,
     "book": "Princes of the Apocalypse",
+    "traits": {
+        "Guiding Wind (Recharges after a Short or Long Rest)": "As a bonus action, the initiate gains advantage on the next ranged attack roll it makes before the end of its next turn.",
+        "Hold Breath": "The initiate can hold its breath for 30 minutes."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

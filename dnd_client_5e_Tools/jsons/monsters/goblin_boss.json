@@ -30,6 +30,9 @@
     "CR": "1 (200 XP)",
     "page": 166,
     "book": "Monster Manual",
+    "traits": {
+        "Nimble Escape": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns."
+    },
     "alignment": "NE",
     "size": "Small",
     "type": "humanoid"

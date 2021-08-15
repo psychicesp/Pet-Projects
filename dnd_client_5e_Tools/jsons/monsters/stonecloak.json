@@ -37,6 +37,11 @@
     "CR": "10 (5,900 XP)",
     "page": 253,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Immutable Form": "The stonecloak is immune to any spell or effect that would alter its form.",
+        "Magic Resistance": "The stonecloak has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The stonecloak's weapon attacks are magical."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "construct"

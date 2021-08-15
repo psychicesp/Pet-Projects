@@ -26,6 +26,13 @@
     "CR": "5 (1,800 XP)",
     "page": 225,
     "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Alien Mind": "If a creature tries to read the Bagman's thoughts, that creature must succeed on a DC DC 8+1d6 + 5 Intelligence saving throw or be stunned for 1 minute. The stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+        "Amorphous": "The Bagman can move through a space as narrow as 1 inch wide without squeezing.",
+        "Grappler": "The Bagman has advantage on attack rolls against any creature grappled by it.",
+        "Keen Smell": "The Bagman has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Regeneration": "The Bagman regains 10 hit points at the start of its turn. If the Bagman takes acid or fire damage, this trait doesn't function at the start of the Bagman's next turn. The Bagman dies only if it starts its turn with 0 hit points and doesn't regenerate."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "giant"

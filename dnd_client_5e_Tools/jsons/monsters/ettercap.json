@@ -31,6 +31,11 @@
     "CR": "2 (450 XP)",
     "page": 131,
     "book": "Monster Manual",
+    "traits": {
+        "Spider Climb": "The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+        "Web Sense": "While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.",
+        "Web Walker": "The ettercap ignores movement restrictions caused by webbing."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "monstrosity"

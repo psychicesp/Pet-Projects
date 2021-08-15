@@ -42,6 +42,32 @@
     "CR": "8 (3,900 XP)",
     "page": 71,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "guidance",
+                "mage hand",
+                "vicious mockery",
+                "true strike",
+                "charm person",
+                "command",
+                "comprehend languages",
+                "sanctuary",
+                "crown of madness",
+                "phantasmal force",
+                "see invisibility",
+                "clairvoyance",
+                "fear",
+                "meld into stone",
+                "confusion",
+                "stone shape",
+                "scrying",
+                "telekinesis"
+            ]
+        },
+        "Magic Resistance": "The mind flayer has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "aberration"

@@ -26,6 +26,11 @@
     "CR": "1/8 (25 XP)",
     "page": 211,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Keen Smell": "The kruthik has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Pack Tactics": "The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+        "Tunneler": "The kruthik can burrow through solid rock at half its burrowing speed and leaves a 2 1/2-foot-diameter tunnel in its wake."
+    },
     "alignment": "U",
     "size": "Small",
     "type": "monstrosity"

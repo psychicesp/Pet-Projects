@@ -32,6 +32,11 @@
     "CR": "10 (5,900 XP)",
     "page": 290,
     "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Immutable Form": "The gearkeeper is immune to any spell or effect that would alter its form.",
+        "Rapid Shifting": "Opportunity attacks made against the gearkeeper have disadvantage.",
+        "Whirling Blades": "Any creature that starts its turn within 5 feet of the gearkeeper takes 4 (1d8) slashing damage."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "construct"

@@ -31,6 +31,9 @@
     "CR": "3 (700 XP)",
     "page": 216,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Unarmored Defense": "While the adept is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

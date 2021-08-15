@@ -31,6 +31,10 @@
     "CR": "1/2 (100 XP)",
     "page": 218,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Chameleon Skin": "The hybrid has advantage on Dexterity (Stealth) checks made to hide.",
+        "Spider Climb": "The hybrid can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
     "alignment": "NG",
     "size": "Medium",
     "type": "humanoid"

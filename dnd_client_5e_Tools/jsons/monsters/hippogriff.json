@@ -26,6 +26,9 @@
     "CR": "1 (200 XP)",
     "page": 184,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Sight": "The hippogriff has advantage on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

@@ -33,6 +33,11 @@
     "CR": "1 (200 XP)",
     "page": 210,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "False Appearance": "While the sable remains motionless, it is indistinguishable from a normal statue.",
+        "Pack Tactics": "The sable has advantage on an attack roll against a creature if at least one of the sable's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+        "Surprise Attack": "If the sable surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

@@ -41,6 +41,9 @@
     "CR": "6 (2,300 XP)",
     "page": 101,
     "book": "Monster Manual",
+    "traits": {
+        "Ice Walk": "The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn\\'t cost it extra movement."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "dragon"

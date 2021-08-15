@@ -35,6 +35,30 @@
     "CR": "10 (5,900 XP)",
     "page": 205,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "level": 8,
+            "type": "wizard",
+            "spells": [
+                "blade ward",
+                "light",
+                "message",
+                "true strike",
+                "expeditious retreat",
+                "magic missile",
+                "sleep",
+                "thunderwave",
+                "blur",
+                "invisibility",
+                "levitate",
+                "counterspell",
+                "fireball",
+                "haste",
+                "dimension door"
+            ]
+        },
+        "War Magic": "When the githyanki uses its action to cast a spell, it can make one weapon attack as a bonus action."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

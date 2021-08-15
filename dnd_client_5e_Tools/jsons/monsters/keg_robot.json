@@ -35,6 +35,9 @@
     "CR": "2 (450 XP)",
     "page": 212,
     "book": "Acquisitions Incorporated",
+    "traits": {
+        "Customizable Storage": "A keg robot can hold up to three types of liquid payload totaling 12 gallons within its hollow, barrel-shaped body. A full keg robot can make one liquid attack per gallon before the liquid must be refilled. Filling a keg robot takes 2 rounds per gallon. Differing payloads can alter the keg robot's attacks from those presented here."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

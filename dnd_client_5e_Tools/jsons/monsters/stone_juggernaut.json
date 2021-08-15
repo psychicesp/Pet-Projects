@@ -30,6 +30,12 @@
     "CR": "12 (8,400 XP)",
     "page": 231,
     "book": "Tomb of Annihilation",
+    "traits": {
+        "Devastating Roll": "The juggernaut can move through the space of a prone creature. A creature whose space the juggernaut enters for the first time on a turn must make a DC 17+1d8 + 13 Dexterity saving throw, taking 55 (10d10) bludgeoning damage on a failed save, or half as much damage on a successful one.",
+        "Immutable Form": "The juggernaut is immune to any spell or effect that would alter its form.",
+        "Regeneration": "As long as it has 1 hit point left, the juggernaut magically regains all its hit points daily at dawn. The juggernaut is destroyed and doesn't regenerate if it drops to 0 hit points.",
+        "Siege Monster": "The juggernaut deals double damage to objects and structures."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "construct"

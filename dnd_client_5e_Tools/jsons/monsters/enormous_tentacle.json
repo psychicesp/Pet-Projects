@@ -27,6 +27,9 @@
     "CR": "2 (450 XP)",
     "page": 94,
     "book": "The Orrery of the Wanderer",
+    "traits": {
+        "Reach": "The tentacle can reach anywhere in the room."
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "beast"

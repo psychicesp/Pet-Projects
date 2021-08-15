@@ -47,6 +47,36 @@
     "CR": "18 (20,000 XP)",
     "page": 300,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Adamantine Plating": "Any critical hit against the Lord of Blades becomes a normal hit.",
+        "Bladed Armor": "A creature that grapples the Lord of Blades or is grappled by him takes 13 (3d8) slashing damage. A creature takes 13 (3d8) slashing damage if it starts its turn grappling or being grappled by the Lord of Blades.",
+        "Charge": "If the Lord of Blades moves at least 10 feet straight toward a target and then hits it with his adamantine sixblade on the same turn, the target takes an extra 11 (2d10) slashing damage. If the target is a creature, it must succeed on a DC 19+1d12 + 13 Strength saving throw or be pushed up to 10 feet away and knocked prone.",
+        "spellcasting": {
+            "level": 20,
+            "type": "artificer",
+            "spells": [
+                "fire bolt",
+                "mage hand",
+                "mending",
+                "prestidigitation",
+                "expeditious retreat",
+                "sanctuary",
+                "thunderwave",
+                "blur",
+                "heat metal",
+                "scorching ray",
+                "see invisibility",
+                "dispel magic",
+                "fly",
+                "haste",
+                "freedom of movement",
+                "Mordenkainen's faithful hound",
+                "animate objects",
+                "wall of force"
+            ]
+        },
+        "Warforged Resilience": "The Lord of Blades has advantage on saving throws against being poisoned, is immune to disease, and magic can\\'t put him to sleep."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

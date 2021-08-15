@@ -26,6 +26,10 @@
     "CR": "0 (0 or 10 XP)",
     "page": 96,
     "book": "Tomb of Annihilation",
+    "traits": {
+        "Keen Hearing and Smell": "The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+        "Pack Tactics": "The dog has advantage on an attack roll against a creature if at least one of the dog's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
     "alignment": "U",
     "size": "Small",
     "type": "beast"

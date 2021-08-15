@@ -36,6 +36,19 @@
     "CR": "4 (1,100 XP)",
     "page": 237,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "fire bolt",
+                "burning hands",
+                "hellish rebuke",
+                "scorching ray"
+            ]
+        },
+        "Invisible in Fire": "The oread is invisible while fully immersed in fire.",
+        "Magic Resistance": "The oread has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "fey"

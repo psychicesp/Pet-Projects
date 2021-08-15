@@ -38,6 +38,12 @@
     "CR": "22 (41,000 XP)",
     "page": 201,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Earth-Shaking Movement": "As a bonus action after moving at least 10 feet on the ground, the zaratan can send a shock wave through the ground in a 120-foot-radius circle centered on itself. That area becomes difficult terrain for 1 minute. Each creature on the ground that is concentrating must succeed on a DC 25+1d14 + 18 Constitution saving throw or the creature's concentration is broken.",
+        "Legendary Resistance (3/Day)": "If the zaratan fails a saving throw, it can choose to succeed instead.",
+        "Magic Weapons": "The zaratan's weapon attacks are magical.",
+        "Siege Monster": "The elemental deals double damage to objects and structures (included in Earth-Shaking Movement)."
+    },
     "alignment": "N",
     "size": "Gargantuan",
     "type": "elemental"

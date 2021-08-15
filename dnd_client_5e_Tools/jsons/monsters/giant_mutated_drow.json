@@ -33,6 +33,19 @@
     "CR": "9 (5,000 XP)",
     "page": 143,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can\\'t put the drow to sleep.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights",
+                "darkness",
+                "faerie fire"
+            ]
+        },
+        "Keen Smell": "The drow has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "NE",
     "size": "Huge",
     "type": "giant"

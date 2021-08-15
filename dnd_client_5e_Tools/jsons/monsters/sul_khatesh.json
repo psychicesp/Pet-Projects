@@ -49,6 +49,34 @@
     "CR": "28 (120,000 XP)",
     "page": 304,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "counterspell",
+                "detect magic",
+                "detect thoughts",
+                "dispel magic",
+                "eyebite",
+                "fireball",
+                "lightning bolt",
+                "shield",
+                "chain lightning",
+                "create undead",
+                "dream",
+                "hold monster",
+                "mass suggestion",
+                "scrying",
+                "foresight",
+                "gate",
+                "power word kill",
+                "teleport"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Sul Khatesh fails a saving throw, she can choose to succeed instead.",
+        "Magic Resistance": "Sul Khatesh has advantage on saving throws against spells and other magical effects.",
+        "Master of Magic": "Sul Khatesh has advantage on Constitution saving throws to maintain concentration."
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

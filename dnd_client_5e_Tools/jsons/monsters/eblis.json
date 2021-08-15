@@ -27,6 +27,16 @@
     "CR": "1 (200 XP)",
     "page": 219,
     "book": "Tomb of Annihilation",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "blur",
+                "hypnotic pattern",
+                "minor illusion"
+            ]
+        }
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "monstrosity"

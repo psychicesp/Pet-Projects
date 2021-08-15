@@ -38,6 +38,20 @@
     "CR": "2 (450 XP)",
     "page": 236,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Amphibious": "The naiad can breathe air and water.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "minor illusion",
+                "phantasmal force",
+                "fly",
+                "hypnotic pattern"
+            ]
+        },
+        "Invisible in Water": "The naiad is invisible while fully immersed in water.",
+        "Magic Resistance": "The naiad has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "fey"

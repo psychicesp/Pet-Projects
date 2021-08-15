@@ -29,5 +29,8 @@
     ],
     "CR": "1/2 (100 XP)",
     "page": 136,
-    "book": "Candlekeep Mysteries"
+    "book": "Candlekeep Mysteries",
+    "traits": {
+        "Unusual Nature": "The kiddywidget doesn\\'t require air, food, drink, or sleep."
+    }
 }

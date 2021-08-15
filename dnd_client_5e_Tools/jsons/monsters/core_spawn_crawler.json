@@ -34,6 +34,9 @@
     "CR": "1 (200 XP)",
     "page": 286,
     "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Pack Tactics": "The crawler has advantage on an attack roll against a creature if at least one of the crawler's allies is within 5 feet of the creature and the ally isn\\'t incapacitated."
+    },
     "alignment": "CE",
     "size": "Small",
     "type": "aberration"

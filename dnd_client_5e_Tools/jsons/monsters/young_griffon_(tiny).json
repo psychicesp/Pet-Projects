@@ -27,6 +27,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 163,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Keen Sight": "The griffon has advantage on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "monstrosity"

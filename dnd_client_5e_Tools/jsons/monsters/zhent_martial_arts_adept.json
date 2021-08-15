@@ -32,6 +32,11 @@
     "CR": "3 (700 XP)",
     "page": 160,
     "book": "Waterdeep: Dragon Heist",
+    "traits": {
+        "Brave": "The adept has advantage on any saving throws against being frightened.",
+        "Halfling Nimbleness": "The adept can move through the space of a medium of larger creature.",
+        "Unarmored Defense": "While the adept is wearing no armor and wielding no shield, their AC includes their Wisdom modifier."
+    },
     "alignment": "LE",
     "size": "Small",
     "type": "humanoid"

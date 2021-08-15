@@ -40,6 +40,18 @@
     "CR": "10 (5,900 XP)",
     "page": 16,
     "book": "Monster Manual",
+    "traits": {
+        "Angelic Weapons": "The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect evil and good",
+                "commune",
+                "raise dead"
+            ]
+        },
+        "Magic Resistance": "The deva has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LG",
     "size": "Medium",
     "type": "celestial"

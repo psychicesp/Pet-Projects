@@ -32,6 +32,12 @@
     "CR": "5 (1,800 XP)",
     "page": 254,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Abolethic Vassal": "The skum is permanently charmed by its aboleth master.",
+        "Amphibious": "The skum can breathe air and water.",
+        "Psychic Conditioning": "The skum is immune to the frightened and charmed conditions unless they are from effects created by an aboleth.",
+        "Water Dependency": "The skum takes 6 (1d12) acid damage every 10 minutes it goes without exposure to water."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "aberration"

@@ -36,6 +36,9 @@
     "CR": "3 (700 XP)",
     "page": 313,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Metal Immunity": "The lava child can move through metal without hindrance, and it has advantage on attack rolls against any creature wearing metal armor or using a metal shield."
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "humanoid"

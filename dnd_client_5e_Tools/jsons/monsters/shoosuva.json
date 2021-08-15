@@ -41,6 +41,9 @@
     "CR": "8 (3,900 XP)",
     "page": 137,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Rampage": "When it reduces a creature to 0 hit points with a melee attack on its turn, the shoosuva can take a bonus action to move up to half its speed and make a bite attack."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

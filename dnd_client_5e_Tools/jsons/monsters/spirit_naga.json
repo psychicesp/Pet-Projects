@@ -35,6 +35,28 @@
     "CR": "8 (3,900 XP)",
     "page": 234,
     "book": "Monster Manual",
+    "traits": {
+        "Rejuvenation": "If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.",
+        "spellcasting": {
+            "level": 10,
+            "type": "wizard",
+            "spells": [
+                "mage hand",
+                "minor illusion",
+                "ray of frost",
+                "charm person",
+                "detect magic",
+                "sleep",
+                "detect thoughts",
+                "hold person",
+                "lightning bolt",
+                "water breathing",
+                "blight",
+                "dimension door",
+                "dominate person"
+            ]
+        }
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "monstrosity"

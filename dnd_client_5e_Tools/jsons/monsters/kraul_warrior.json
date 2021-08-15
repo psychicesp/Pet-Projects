@@ -27,6 +27,11 @@
     "CR": "1/2 (100 XP)",
     "page": 213,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Hive Mind": "The kraul is immune to the charmed and frightened conditions while within 30 feet of at least one other kraul.",
+        "Pack Tactics": "The kraul has advantage on an attack roll against a creature if at least one of the kraul's allies is within 5 feet of the creature and the ally isn\\'t incapacitated.",
+        "Spider Climb": "The kraul can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

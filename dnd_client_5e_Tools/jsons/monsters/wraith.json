@@ -34,6 +34,10 @@
     "CR": "5 (1,800 XP)",
     "page": 302,
     "book": "Monster Manual",
+    "traits": {
+        "Incorporeal Movement": "The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+        "Sunlight Sensitivity": "While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "undead"

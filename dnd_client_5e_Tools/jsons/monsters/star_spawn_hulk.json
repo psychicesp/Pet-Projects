@@ -35,6 +35,9 @@
     "CR": "10 (5,900 XP)",
     "page": 234,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Psychic Mirror": "If the hulk takes psychic damage, each creature within 10 feet of the hulk takes that damage instead; the hulk takes none of the damage. In addition, the hulk's thoughts and location can't be discerned by magic."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "aberration"

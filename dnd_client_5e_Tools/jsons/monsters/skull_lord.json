@@ -42,6 +42,36 @@
     "CR": "15 (13,000 XP)",
     "page": 230,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Evasion": "If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+        "Legendary Resistance (3/Day)": "If the skull lord fails a saving throw, it can choose to succeed instead.",
+        "Master of the Grave": "While within 30 feet of the skull lord, any undead ally of the skull lord makes saving throws with advantage, and that ally regains 1d6 hit points whenever it starts its turn there.",
+        "spellcasting": {
+            "level": 13,
+            "type": "sorcerer",
+            "spells": [
+                "chill touch",
+                "fire bolt",
+                "mage hand",
+                "poison spray",
+                "ray of frost",
+                "shocking grasp",
+                "magic missile",
+                "expeditious retreat",
+                "thunderwave",
+                "mirror image",
+                "scorching ray",
+                "fear",
+                "haste",
+                "dimension door",
+                "ice storm",
+                "cloudkill",
+                "cone of cold",
+                "eyebite",
+                "finger of death"
+            ]
+        }
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "undead"

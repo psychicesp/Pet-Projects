@@ -37,6 +37,20 @@
     "CR": "5 (1,800 XP)",
     "page": 243,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Galvanic Overcast (Recharge 5\\xe2\\x80\\x936)": "When the blastseeker casts lightning bolt or thunderwave, it can roll a die. On an odd number, the blastseeker takes 9 (2d8) force damage. On an even number, the spell also deals 9 (2d8) lightning damage to each target that fails its saving throw.",
+        "Gust-Propelled Leap": "The blastseeker can use a bonus action to fly up to 10 feet without provoking opportunity attacks.",
+        "Heart of the Storm": "When the blastseeker casts lightning bolt or thunderwave, all other creatures within 10 feet of the blastseeker each take 3 lightning damage.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "levitate",
+                "lightning bolt",
+                "thunderwave",
+                "stoneskin"
+            ]
+        }
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "humanoid"

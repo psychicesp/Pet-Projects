@@ -32,6 +32,12 @@
     "CR": "2 (450 XP)",
     "page": 232,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Amphibious": "The croaker can breathe air and water.",
+        "Speak with Frogs and Toads": "The croaker can communicate simple concepts to frogs and toads when it speaks in Bullywug.",
+        "Standing Leap": "The croaker's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.",
+        "Swamp Camouflage": "The croaker has advantage on Dexterity (Stealth) checks made to hide in swampy terrain."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

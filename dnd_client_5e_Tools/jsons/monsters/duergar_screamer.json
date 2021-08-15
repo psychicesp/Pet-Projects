@@ -29,6 +29,9 @@
     "CR": "3 (700 XP)",
     "page": 190,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Engine of Pain": "Once per turn, a creature that attacks the screamer can target the duergar trapped in it. The attacker has disadvantage on the attack roll. On a hit, the attack deals an extra 11 (2d10) damage to the screamer, and the screamer can respond by using its Multiattack with its reaction."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "construct"

@@ -41,6 +41,10 @@
     "CR": "13 (10,000 XP)",
     "page": 286,
     "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Earth Glide": "The seer can traverse through nonmagical, unworked earth and stone. While doing so, the seer doesn't disturb the material it moves through.",
+        "Magic Resistance": "The seer has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "aberration"

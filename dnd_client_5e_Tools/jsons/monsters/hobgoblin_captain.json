@@ -26,6 +26,9 @@
     "CR": "3 (700 XP)",
     "page": 186,
     "book": "Monster Manual",
+    "traits": {
+        "Martial Advantage": "Once per turn, the hobgoblin can deal an extra 10 (3d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn\\'t incapacitated."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

@@ -33,6 +33,18 @@
     "CR": "6 (2,300 XP)",
     "page": 222,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "expeditious retreat",
+                "fog cloud",
+                "misty step"
+            ]
+        },
+        "Magic Resistance": "The medusa has advantage on saving throws against spells and other magical effects.",
+        "Surprise Attack": "During the first round of combat, the medusa has advantage on attack rolls against any creature that is surprised, and it deals an extra 10 (3d6) damage each time it hits such a creature with an attack."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "monstrosity"

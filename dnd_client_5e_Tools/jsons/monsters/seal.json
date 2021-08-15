@@ -25,6 +25,10 @@
     "CR": "0 (0 or 10 XP)",
     "page": 308,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Hold Breath": "The seal can hold its breath for 15 minutes.",
+        "Keen Smell": "The seal has advantage on Wisdom (Perception) checks that rely on smell."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

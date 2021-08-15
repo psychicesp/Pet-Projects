@@ -31,6 +31,26 @@
     "CR": "11 (7,200 XP)",
     "page": 144,
     "book": "Monster Manual",
+    "traits": {
+        "Elemental Demise": "If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect evil and good",
+                "detect magic",
+                "thunderwave",
+                "create food and water",
+                "tongues",
+                "wind walk",
+                "conjure elemental",
+                "creation",
+                "gaseous form",
+                "invisibility",
+                "major image",
+                "plane shift"
+            ]
+        }
+    },
     "alignment": "CG",
     "size": "Large",
     "type": "elemental"

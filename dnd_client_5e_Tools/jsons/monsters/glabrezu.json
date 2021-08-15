@@ -41,6 +41,20 @@
     "CR": "9 (5,000 XP)",
     "page": 58,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "darkness",
+                "detect magic",
+                "dispel magic",
+                "confusion",
+                "fly",
+                "power word stun"
+            ]
+        },
+        "Magic Resistance": "The glabrezu has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

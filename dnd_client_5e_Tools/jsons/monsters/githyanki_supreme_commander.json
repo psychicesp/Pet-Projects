@@ -35,6 +35,22 @@
     "CR": "14 (11,500 XP)",
     "page": 206,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage hand",
+                "jump",
+                "levitate",
+                "misty step",
+                "nondetection",
+                "Bigby's hand",
+                "mass suggestion",
+                "plane shift",
+                "telekinesis"
+            ]
+        }
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

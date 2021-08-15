@@ -41,6 +41,9 @@
     "CR": "6 (2,300 XP)",
     "page": 64,
     "book": "Monster Manual",
+    "traits": {
+        "Magic Resistance": "The vrock has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

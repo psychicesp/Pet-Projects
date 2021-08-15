@@ -37,6 +37,24 @@
     "CR": "16 (15,000 XP)",
     "page": 207,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage hand",
+                "feather fall",
+                "jump",
+                "see invisibility",
+                "shield",
+                "telekinesis",
+                "globe of invulnerability",
+                "plane shift",
+                "teleportation circle",
+                "wall of force"
+            ]
+        },
+        "Psychic Defense": "While the anarch is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+    },
     "alignment": "LN",
     "size": "Medium",
     "type": "humanoid"

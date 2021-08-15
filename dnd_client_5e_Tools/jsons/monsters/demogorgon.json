@@ -47,6 +47,24 @@
     "CR": "26 (90,000 XP)",
     "page": 144,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect magic",
+                "major image",
+                "dispel magic",
+                "fear",
+                "telekinesis",
+                "feeblemind",
+                "project image"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Demogorgon fails a saving throw, he can choose to succeed instead.",
+        "Magic Resistance": "Demogorgon has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "Demogorgon\\'s weapon attacks are magical.",
+        "Two Heads": "Demogorgon has advantage on saving throws against being blinded, deafened, stunned, or knocked unconscious."
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "fiend"

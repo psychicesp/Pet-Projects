@@ -33,6 +33,10 @@
     "CR": "1/4 (50 XP)",
     "page": 106,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Antimagic Susceptibility": "The trident is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the trident must succeed on a Constitution saving throw against the caster\\'s spell save DC or fall unconscious for 1 minute.",
+        "False Appearance": "While the trident remains motionless and isn't flying, it is indistinguishable from a normal trident."
+    },
     "alignment": "U",
     "size": "Small",
     "type": "construct"

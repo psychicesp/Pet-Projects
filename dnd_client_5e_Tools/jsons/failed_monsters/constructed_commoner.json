@@ -27,5 +27,8 @@
     ],
     "CR": "0 (0 or 10 XP)",
     "page": 149,
-    "book": "Candlekeep Mysteries"
+    "book": "Candlekeep Mysteries",
+    "traits": {
+        "Unusual Nature": "The commoner doesn't require air, food, drink, or sleep, and it gains no benefit from finishing a short or long rest. When it drops to 0 hit points, it becomes a lifeless object."
+    }
 }

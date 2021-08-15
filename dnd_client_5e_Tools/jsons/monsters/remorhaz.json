@@ -28,6 +28,9 @@
     "CR": "11 (7,200 XP)",
     "page": 258,
     "book": "Monster Manual",
+    "traits": {
+        "Heated Body": "A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage."
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "monstrosity"

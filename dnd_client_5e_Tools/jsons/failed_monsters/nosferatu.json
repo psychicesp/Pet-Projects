@@ -37,5 +37,11 @@
     ],
     "CR": "8 (3,900 XP)",
     "page": 239,
-    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Regeneration": "The nosferatu regains 10 hit points at the start of each of its turns if it has at least 1 hit point and isn't in sunlight. If the nosferatu takes radiant damage, this trait doesn't function until the start of the nosferatu\\'s next turn.",
+        "Spider Climb": "The nosferatu can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+        "Sunlight Hypersensitivity": "The nosferatu takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
+        "Unusual Nature": "The nosferatu doesn\\'t require air."
+    }
 }

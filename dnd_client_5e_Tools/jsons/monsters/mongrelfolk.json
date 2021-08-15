@@ -31,6 +31,10 @@
     "CR": "1/4 (50 XP)",
     "page": 234,
     "book": "Curse of Strahd",
+    "traits": {
+        "Extraordinary Feature": "The mongrelfolk has one of the following extraordinary features, determined randomly by rolling a d20 or chosen by the DM:",
+        "Mimicry": "The mongrelfolk can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 12+1d4 + 10 Wisdom (Insight) check."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

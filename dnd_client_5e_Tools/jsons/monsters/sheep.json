@@ -23,6 +23,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 142,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Sure-Footed": "The sheep has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
+    },
     "alignment": "U",
     "size": "Small",
     "type": "beast"

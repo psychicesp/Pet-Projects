@@ -33,6 +33,9 @@
     "CR": "1 (200 XP)",
     "page": 244,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Amphibious": "The salvager can breathe air and water."
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "humanoid"

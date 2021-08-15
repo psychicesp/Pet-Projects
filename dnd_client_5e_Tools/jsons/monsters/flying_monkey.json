@@ -25,6 +25,10 @@
     "CR": "0 (0 or 10 XP)",
     "page": 220,
     "book": "Tomb of Annihilation",
+    "traits": {
+        "Familiar": "With the DM's permission, the find familiar spell can summon a flying monkey.",
+        "Pack Tactics": "The flying monkey has advantage on an attack roll against a creature if at least one of the monkey's allies is within 5 feet of the creature and the ally isn\\'t incapacitated."
+    },
     "alignment": "U",
     "size": "Small",
     "type": "beast"

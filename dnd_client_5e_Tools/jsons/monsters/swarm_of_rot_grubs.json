@@ -33,6 +33,9 @@
     "CR": "1/2 (100 XP)",
     "page": 208,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny maggot. The swarm can't regain hit points or gain temporary hit points."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "swarm"

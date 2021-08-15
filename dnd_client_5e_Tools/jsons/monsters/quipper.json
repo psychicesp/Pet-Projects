@@ -24,6 +24,10 @@
     "CR": "0 (0 or 10 XP)",
     "page": 335,
     "book": "Monster Manual",
+    "traits": {
+        "Blood Frenzy": "The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+        "Water Breathing": "The quipper can breathe only underwater."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

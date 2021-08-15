@@ -42,6 +42,21 @@
     "CR": "14 (11,500 XP)",
     "page": 173,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Creature Sense": "The elder brain is aware of the presence of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each one's intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell, a nondetection spell, or similar magic can't be perceived in this manner.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect thoughts",
+                "levitate",
+                "dominate monster",
+                "plane shift"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If the elder brain fails a saving throw, it can choose to succeed instead.",
+        "Magic Resistance": "The elder brain has advantage on saving throws against spells and other magical effects.",
+        "Telepathic Hub": "The elder brain can use its telepathy to initiate and maintain telepathic conversations with up to ten creatures at a time. The elder brain can let those creatures telepathically hear each other while connected in this way."
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "aberration"

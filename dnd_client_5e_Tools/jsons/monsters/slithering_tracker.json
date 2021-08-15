@@ -34,6 +34,15 @@
     "CR": "3 (700 XP)",
     "page": 191,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Ambusher": "In the first round of a combat, the slithering tracker has advantage on attack rolls against any creature it surprised.",
+        "Damage Transfer": "While grappling a creature, the slithering tracker takes only haIf the damage dealt to it, and the creature it is grappling takes the other half.",
+        "False Appearance": "While the slithering tracker remains motionless, it is indistinguishable from a puddle, unless an observer succeeds on a DC 18+1d4 + 16 Intelligence (Investigation) check.",
+        "Keen Tracker": "The slithering tracker has advantage on Wisdom checks to track prey.",
+        "Liquid Form": "The slithering tracker can enter an enemy's space and stop there. It can also move through a space as narrow as 1 inch wide without squeezing.",
+        "Spider Climb": "The slithering tracker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+        "Watery Stealth": "While underwater, the slithering tracker has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "ooze"

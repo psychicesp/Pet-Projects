@@ -26,6 +26,9 @@
     "CR": "1/2 (100 XP)",
     "page": 320,
     "book": "Monster Manual",
+    "traits": {
+        "Hold Breath": "The crocodile can hold its breath for 15 minutes."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

@@ -43,6 +43,16 @@
     "CR": "14 (11,500 XP)",
     "page": 222,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Faultless Tracker": "The retriever is given a quarry by its master. The quarry can be a specific creature or object the master is personally acquainted with, or it can be a general type of creature or object the master has seen before. The retriever knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The retriever can have only one such quarry at a time. The retriever also always knows the location of its master.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "plane shift",
+                "web"
+            ]
+        }
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "construct"

@@ -37,6 +37,17 @@
     "CR": "2 (450 XP)",
     "page": 244,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Amphibious": "The triton can breathe air and water.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "fog cloud",
+                "gust of wind"
+            ]
+        },
+        "Nimble Escape": "The triton can take the Disengage or Hide actions as a bonus action on each of its turns."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

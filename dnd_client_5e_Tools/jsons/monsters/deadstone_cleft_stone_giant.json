@@ -33,6 +33,19 @@
     "CR": "7 (2,900 XP)",
     "page": 146,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "meld into stone",
+                "stone shape",
+                "stoneskin",
+                "time stop"
+            ]
+        },
+        "Olach Morrah": "The giant meditates for 1 hour, during which time it can do nothing else. At the end of the hour, provided the giant's meditation has been uninterrupted, it becomes petrified for 8 hours. At the end of this time, the giant is no longer petrified and gains tremorsense out to a range of 30 feet, as well as a measure of innate spellcasting ability for the next 24 hours.",
+        "Stone Camouflage": "The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain."
+    },
     "alignment": "N",
     "size": "Huge",
     "type": "giant"

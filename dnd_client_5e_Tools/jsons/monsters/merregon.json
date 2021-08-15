@@ -36,6 +36,10 @@
     "CR": "4 (1,100 XP)",
     "page": 166,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Devil\\'s Sight": "Magical darkness doesn\\'t impede the merregon\\'s darkvision.",
+        "Magic Resistance": "The merregon has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "fiend"

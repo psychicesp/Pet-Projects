@@ -31,5 +31,9 @@
     ],
     "CR": "1 (200 XP)",
     "page": 228,
-    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Compression": "The boneless can move through any opening at least 1 inch wide without squeezing. It can also squeeze to fit into a space that a Tiny creature could fit in.",
+        "Unusual Nature": "The boneless doesn\\'t require sleep."
+    }
 }

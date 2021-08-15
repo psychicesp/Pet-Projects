@@ -38,6 +38,9 @@
     "CR": "10 (5,900 XP)",
     "page": 221,
     "book": "Tomb of Annihilation",
+    "traits": {
+        "False Appearance": "While the gargoyle remains motionless, it is indistinguishable from an inanimate statue."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "elemental"

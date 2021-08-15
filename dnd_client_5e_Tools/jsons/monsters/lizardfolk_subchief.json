@@ -34,6 +34,27 @@
     "CR": "3 (700 XP)",
     "page": 242,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Hold Breath": "The subchief can hold its breath for 15 minutes.",
+        "spellcasting": {
+            "level": 5,
+            "type": "cleric",
+            "spells": [
+                "light",
+                "sacred flame",
+                "spare the dying",
+                "thaumaturgy",
+                "command",
+                "guiding bolt",
+                "purify food and drink",
+                "hold person",
+                "lesser restoration",
+                "silence",
+                "bestow curse",
+                "dispel magic"
+            ]
+        }
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "humanoid"

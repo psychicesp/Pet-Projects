@@ -33,6 +33,9 @@
     "CR": "4 (1,100 XP)",
     "page": 125,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Magic Resistance": "The iron cobra has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

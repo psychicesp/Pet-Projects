@@ -29,6 +29,22 @@
     "CR": "4 (1,100 XP)",
     "page": 233,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "level": 5,
+            "type": "wizard",
+            "spells": [
+                "mage hand",
+                "minor illusion",
+                "ray of frost",
+                "charm person",
+                "sleep",
+                "detect thoughts",
+                "hold person",
+                "lightning bolt"
+            ]
+        }
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "undead"

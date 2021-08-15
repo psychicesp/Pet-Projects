@@ -42,6 +42,24 @@
     "CR": "4 (1,100 XP)",
     "page": 128,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "level": 5,
+            "type": "warlock",
+            "spells": [
+                "chill touch",
+                "eldritch blast",
+                "mage hand",
+                "arms of Hadar",
+                "dispel magic",
+                "hold person",
+                "hunger of Hadar",
+                "invisibility",
+                "spider climb"
+            ]
+        },
+        "Turn Resistance": "The deathlock has advantage on saving throws against any effect that turns undead."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "undead"

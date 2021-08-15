@@ -35,6 +35,10 @@
     "CR": "4 (1,100 XP)",
     "page": 183,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Aggressive": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+        "Foe Smiter of Ilneval": "The orc deals an extra die of damage when it hits with a longsword attack (included in the attack)."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

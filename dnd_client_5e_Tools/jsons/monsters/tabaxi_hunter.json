@@ -36,6 +36,9 @@
     "CR": "1 (200 XP)",
     "page": 232,
     "book": "Tomb of Annihilation",
+    "traits": {
+        "Feline Agility": "When the tabaxi moves on its turn in combat, it can double its speed until the end of the turn. Once it uses this ability, the tabaxi can't use it again until it moves 0 feet on one of its turns."
+    },
     "alignment": "CG",
     "size": "Medium",
     "type": "humanoid"

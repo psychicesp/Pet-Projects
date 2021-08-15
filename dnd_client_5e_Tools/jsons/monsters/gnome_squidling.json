@@ -25,6 +25,15 @@
     "CR": "1/2 (100 XP)",
     "page": 303,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "levitate"
+            ]
+        },
+        "Magic Resistance": "The squidling has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "U",
     "size": "Small",
     "type": "aberration"

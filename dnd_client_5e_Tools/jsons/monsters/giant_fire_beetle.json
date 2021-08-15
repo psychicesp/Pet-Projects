@@ -23,6 +23,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 325,
     "book": "Monster Manual",
+    "traits": {
+        "Illumination": "The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 ft.."
+    },
     "alignment": "U",
     "size": "Small",
     "type": "beast"

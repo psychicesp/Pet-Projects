@@ -25,6 +25,9 @@
     "CR": "2 (450 XP)",
     "page": 163,
     "book": "Monster Manual",
+    "traits": {
+        "Rampage": "When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

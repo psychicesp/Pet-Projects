@@ -39,6 +39,10 @@
     "CR": "5 (1,800 XP)",
     "page": 189,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Flyby": "The angel doesn\\'t provoke an opportunity attack when it flies out of an enemy\\'s reach.",
+        "Magic Resistance": "The angel has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LG",
     "size": "Medium",
     "type": "celestial"

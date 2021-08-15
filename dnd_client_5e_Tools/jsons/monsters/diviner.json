@@ -33,6 +33,39 @@
     "CR": "8 (3,900 XP)",
     "page": 213,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Portent (Recharges after the Diviner Casts a Divination Spell of 1st Level or Higher)": "When the diviner or a creature it can see makes an attack roll, a saving throw, or an ability check, the diviner can roll a d20 and choose to use this roll in place of the attack roll, saving throw, or ability check.",
+        "spellcasting": {
+            "level": 15,
+            "type": "wizard",
+            "spells": [
+                "fire bolt",
+                "light",
+                "mage hand",
+                "message",
+                "true strike",
+                "detect magic",
+                "feather fall",
+                "mage armor",
+                "detect thoughts",
+                "locate object",
+                "scorching ray",
+                "clairvoyance",
+                "fly",
+                "fireball",
+                "arcane eye",
+                "ice storm",
+                "stoneskin",
+                "Rary's telepathic bond",
+                "seeming",
+                "mass suggestion",
+                "true seeing",
+                "delayed blast fireball",
+                "teleport",
+                "maze"
+            ]
+        }
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

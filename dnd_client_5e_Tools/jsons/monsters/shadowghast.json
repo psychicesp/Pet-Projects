@@ -37,6 +37,10 @@
     "CR": "5 (1,800 XP)",
     "page": 299,
     "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Shadow Stealth": "While in dim light or darkness, the shadowghast can take the Hide action as a bonus action.",
+        "Stench": "Any creature that starts its turn within 5 feet of the shadowghast must succeed on a DC 12+1d6 + 9 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to this Stench for 24 hours."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

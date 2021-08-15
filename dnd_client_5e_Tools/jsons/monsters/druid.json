@@ -31,6 +31,23 @@
     "CR": "2 (450 XP)",
     "page": 346,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "level": 4,
+            "type": "druid",
+            "spells": [
+                "druidcraft",
+                "produce flame",
+                "shillelagh",
+                "entangle",
+                "longstrider",
+                "speak with animals",
+                "thunderwave",
+                "animal messenger",
+                "barkskin"
+            ]
+        }
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

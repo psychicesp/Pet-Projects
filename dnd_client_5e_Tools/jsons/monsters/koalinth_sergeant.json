@@ -35,6 +35,10 @@
     "CR": "2 (450 XP)",
     "page": 239,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Amphibious": "The koalinth can breathe air and water.",
+        "Martial Advantage": "Once per turn, the sergeant can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the sergeant that isn\\'t incapacitated."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

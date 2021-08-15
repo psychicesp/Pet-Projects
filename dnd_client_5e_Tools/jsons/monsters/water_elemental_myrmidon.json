@@ -35,6 +35,9 @@
     "CR": "7 (2,900 XP)",
     "page": 203,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Magic Weapons": "The myrmidon\\'s weapon attacks are magical."
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "elemental"

@@ -41,6 +41,10 @@
     "CR": "1 (200 XP)",
     "page": 217,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Assassinate": "During its first turn, the hybrid poisoner has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the hybrid scores against a surprised creature is a critical hit.",
+        "Poisonous Skin": "Any creature that touches the hybrid or hits it with a melee attack while within 5 feet of it takes 3 (1d6) poison damage."
+    },
     "alignment": "NG",
     "size": "Medium",
     "type": "humanoid"

@@ -34,6 +34,9 @@
     "CR": "1 (200 XP)",
     "page": 206,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Incorporeal Movement": "The spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "undead"

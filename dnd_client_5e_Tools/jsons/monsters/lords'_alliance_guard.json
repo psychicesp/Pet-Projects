@@ -28,6 +28,9 @@
     "CR": "1/4 (50 XP)",
     "page": 131,
     "book": "Out of the Abyss",
+    "traits": {
+        "Dwarven Resilience": "The guard has advantage on saving throws against poison."
+    },
     "alignment": "CG",
     "size": "Medium",
     "type": "humanoid"

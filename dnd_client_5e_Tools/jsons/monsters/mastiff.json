@@ -25,6 +25,9 @@
     "CR": "1/8 (25 XP)",
     "page": 332,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Hearing and Smell": "The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

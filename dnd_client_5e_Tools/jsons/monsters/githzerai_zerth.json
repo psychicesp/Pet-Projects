@@ -36,6 +36,21 @@
     "CR": "6 (2,300 XP)",
     "page": 161,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage hand",
+                "feather fall",
+                "jump",
+                "see invisibility",
+                "shield",
+                "phantasmal killer",
+                "plane shift"
+            ]
+        },
+        "Psychic Defense": "While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+    },
     "alignment": "LN",
     "size": "Medium",
     "type": "humanoid"

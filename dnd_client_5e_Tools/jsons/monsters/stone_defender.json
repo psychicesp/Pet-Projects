@@ -30,6 +30,10 @@
     "CR": "4 (1,100 XP)",
     "page": 126,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "False Appearance": "While the stone defender remains motionless against an uneven earthen or stone surface, it is indistinguishable from that surface.",
+        "Magic Resistance": "The stone defender has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

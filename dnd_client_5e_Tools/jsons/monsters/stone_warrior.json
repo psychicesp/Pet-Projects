@@ -30,6 +30,11 @@
     "CR": "4 (1,100 XP)",
     "page": 97,
     "book": "Princes of the Apocalypse",
+    "traits": {
+        "Immutable Form": "The golem is immune to any spell or effect that would alter its form.",
+        "Magic Resistance": "The golem has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The golem's weapon attacks are magical."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "construct"

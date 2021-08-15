@@ -27,6 +27,9 @@
     "CR": "1 (200 XP)",
     "page": 324,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Sight": "The eagle has advantage on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "NG",
     "size": "Large",
     "type": "beast"

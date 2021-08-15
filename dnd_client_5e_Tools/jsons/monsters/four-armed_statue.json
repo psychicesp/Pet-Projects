@@ -30,6 +30,11 @@
     "CR": "10 (5,900 XP)",
     "page": 206,
     "book": "Out of the Abyss",
+    "traits": {
+        "Immutable Form": "The statue is immune to any spell or effect that would alter its form.",
+        "Magic Resistance": "The statue has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The statue\\'s weapon attacks are magical."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "construct"

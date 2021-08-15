@@ -37,6 +37,11 @@
     "CR": "3 (700 XP)",
     "page": 235,
     "book": "Curse of Strahd",
+    "traits": {
+        "Ethereal Sight": "The phantom warrior can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.",
+        "Incorporeal Movement": "The phantom warrior can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+        "Spectral Armor and Shield": "The phantom warrior's AC accounts for its spectral armor and shield."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "undead"

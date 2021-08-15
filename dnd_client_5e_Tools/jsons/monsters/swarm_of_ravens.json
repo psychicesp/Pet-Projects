@@ -34,6 +34,9 @@
     "CR": "1/4 (50 XP)",
     "page": 339,
     "book": "Monster Manual",
+    "traits": {
+        "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can\\'t regain hit points or gain temporary hit points."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "swarm"

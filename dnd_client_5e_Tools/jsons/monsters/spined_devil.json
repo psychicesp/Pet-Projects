@@ -37,6 +37,12 @@
     "CR": "2 (450 XP)",
     "page": 78,
     "book": "Monster Manual",
+    "traits": {
+        "Devil's Sight": "Magical darkness doesn't impede the devil's darkvision.",
+        "Flyby": "The devil doesn\\'t provoke an opportunity attack when it flies out of an enemy's reach.",
+        "Limited Spines": "The devil has twelve tail spines. Used spines regrow by the time the devil finishes a long rest.",
+        "Magic Resistance": "The devil has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LE",
     "size": "Small",
     "type": "fiend"

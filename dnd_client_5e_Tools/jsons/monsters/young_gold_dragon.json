@@ -44,6 +44,9 @@
     "CR": "10 (5,900 XP)",
     "page": 115,
     "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The dragon can breathe air and water."
+    },
     "alignment": "LG",
     "size": "Large",
     "type": "dragon"

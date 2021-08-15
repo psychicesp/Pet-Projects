@@ -29,6 +29,10 @@
     "CR": "1/2 (100 XP)",
     "page": 247,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Cargo Hauler": "The bosun has advantage on Strength checks.",
+        "Sea Legs": "The bosun has advantage on ability checks and saving throws to resist being knocked prone."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

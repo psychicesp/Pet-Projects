@@ -34,6 +34,10 @@
     "CR": "2 (450 XP)",
     "page": 254,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Deafening Clatter": "Creatures are deafened while in the swarm\\'s space.",
+        "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small humanoid. The swarm can't regain hit points or gain temporary hit points."
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "swarm"

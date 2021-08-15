@@ -27,6 +27,9 @@
     "CR": "1/4 (50 XP)",
     "page": 80,
     "book": "Monster Manual",
+    "traits": {
+        "Flyby": "The pteranodon doesn't provoke opportunity attacks when it flies out of an enemy's reach."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

@@ -44,6 +44,22 @@
     "CR": "14 (11,500 XP)",
     "page": 192,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Exploitation of the Debtors": "As a bonus action, the angel targets a creature charmed by it that it can see within 30 feet of it. The angel deals 11 (2d10) necrotic damage to the target, and the angel gains temporary hit points equal to the damage dealt.",
+        "Flyby": "The angel doesn\\'t provoke an opportunity attack when it flies out of an enemy\\'s reach.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "command",
+                "detect evil and good",
+                "charm person",
+                "darkness",
+                "suggestion",
+                "raise dead"
+            ]
+        },
+        "Magic Resistance": "The angel has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "celestial"

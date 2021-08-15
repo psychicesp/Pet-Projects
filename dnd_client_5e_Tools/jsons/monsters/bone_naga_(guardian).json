@@ -29,6 +29,22 @@
     "CR": "4 (1,100 XP)",
     "page": 233,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "level": 5,
+            "type": "cleric",
+            "spells": [
+                "mending",
+                "sacred flame",
+                "thaumaturgy",
+                "command",
+                "shield of faith",
+                "calm emotions",
+                "hold person",
+                "bestow curse"
+            ]
+        }
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "undead"

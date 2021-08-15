@@ -28,6 +28,17 @@
     "CR": "3 (700 XP)",
     "page": 160,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage hand",
+                "jump",
+                "misty step",
+                "nondetection"
+            ]
+        }
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

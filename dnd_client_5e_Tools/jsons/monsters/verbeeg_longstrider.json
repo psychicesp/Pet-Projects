@@ -33,6 +33,20 @@
     "CR": "5 (1,800 XP)",
     "page": 311,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "animal messenger",
+                "fog cloud",
+                "freedom of movement",
+                "pass without trace",
+                "silence",
+                "water walk"
+            ]
+        },
+        "Simple Weapon Wielder": "A simple weapon deals one extra die of its damage when the verbeeg hits with it (included in the attack)."
+    },
     "alignment": "N",
     "size": "Large",
     "type": "giant"

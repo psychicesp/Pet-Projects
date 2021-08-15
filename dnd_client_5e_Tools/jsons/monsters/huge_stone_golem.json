@@ -30,6 +30,11 @@
     "CR": "10 (5,900 XP)",
     "page": 153,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Immutable Form": "The golem is immune to any spell or effect that would alter its form.",
+        "Magic Resistance": "The golem has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The golem\\'s weapon attacks are magical."
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "construct"

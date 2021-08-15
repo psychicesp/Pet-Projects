@@ -43,6 +43,31 @@
     "CR": "11 (7,200 XP)",
     "page": 282,
     "book": "Monster Manual",
+    "traits": {
+        "Inscrutable": "The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx\\'s intentions or sincerity have disadvantage.",
+        "Magic Weapons": "The sphinx's weapon attacks are magical.",
+        "spellcasting": {
+            "level": 9,
+            "type": "wizard",
+            "spells": [
+                "mage hand",
+                "minor illusion",
+                "prestidigitation",
+                "detect magic",
+                "identify",
+                "shield",
+                "darkness",
+                "locate object",
+                "suggestion",
+                "dispel magic",
+                "remove curse",
+                "tongues",
+                "banishment",
+                "greater invisibility",
+                "legend lore"
+            ]
+        }
+    },
     "alignment": "LN",
     "size": "Large",
     "type": "monstrosity"

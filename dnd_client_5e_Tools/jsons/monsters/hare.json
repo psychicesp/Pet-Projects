@@ -28,6 +28,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 294,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Escape": "The hare can take the Dash, Disengage, or Hide action as a bonus action on each of its turns."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

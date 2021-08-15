@@ -32,6 +32,25 @@
     "CR": "3 (700 XP)",
     "page": 195,
     "book": "Princes of the Apocalypse",
+    "traits": {
+        "spellcasting": {
+            "level": 5,
+            "type": "sorcerer",
+            "spells": [
+                "acid splash",
+                "blade ward",
+                "light",
+                "mending",
+                "mold earth",
+                "earth tremor",
+                "expeditious retreat",
+                "shield",
+                "shatter",
+                "spider climb",
+                "slow"
+            ]
+        }
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

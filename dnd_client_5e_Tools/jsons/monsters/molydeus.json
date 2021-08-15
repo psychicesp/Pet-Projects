@@ -44,6 +44,22 @@
     "CR": "21 (33,000 XP)",
     "page": 134,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dispel magic",
+                "polymorph",
+                "telekinesis",
+                "teleport",
+                "lightning bolt",
+                "imprisonment"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If the molydeus fails a saving throw, it can choose to succeed instead.",
+        "Magic Resistance": "The molydeus has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The molydeus\\'s weapon attacks are magical."
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "fiend"

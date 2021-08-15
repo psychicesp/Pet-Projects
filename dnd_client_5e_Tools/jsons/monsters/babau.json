@@ -40,6 +40,18 @@
     "CR": "4 (1,100 XP)",
     "page": 136,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "darkness",
+                "dispel magic",
+                "fear",
+                "heat metal",
+                "levitate"
+            ]
+        }
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "fiend"

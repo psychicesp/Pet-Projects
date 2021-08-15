@@ -36,6 +36,18 @@
     "CR": "1/8 (25 XP)",
     "page": 196,
     "book": "Out of the Abyss",
+    "traits": {
+        "Fey Ancestry": "The drow noble has advantage on saving throws against being charmed, and magic can't put the drow noble to sleep.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights",
+                "darkness",
+                "faerie fire"
+            ]
+        },
+        "Sunlight Sensitivity": "While in sunlight, the drow noble has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

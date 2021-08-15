@@ -35,6 +35,10 @@
     "CR": "3 (700 XP)",
     "page": 292,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Mountain Born": "The goliath is acclimated to high altitude, including elevations above 20,000 feet.",
+        "Powerful Build": "The goliath counts as one size larger when determining its carrying capacity and the weight it can push, drag, or lift."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

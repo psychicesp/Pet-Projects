@@ -45,6 +45,26 @@
     "CR": "23 (50,000 XP)",
     "page": 143,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Charge": "If Baphomet moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 16 (3d10) piercing damage. If the target is a creature, it must succeed on a DC 25+1d14 + 18 Strength saving throw or be pushed up to 10 feet away and knocked prone.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect magic",
+                "dispel magic",
+                "dominate beast",
+                "hunter's mark",
+                "maze",
+                "wall of stone",
+                "teleport"
+            ]
+        },
+        "Labyrinthine Recall": "Baphomet can perfectly recall any path he has traveled, and he is immune to the maze spell.",
+        "Legendary Resistance (3/Day)": "If Baphomet fails a saving throw, he can choose to succeed instead.",
+        "Magic Resistance": "Baphomet has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "Baphomet\\'s weapon attacks are magical.",
+        "Reckless": "At the start of his turn, Baphomet can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against him have advantage until the start of his next turn."
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "fiend"

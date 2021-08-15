@@ -44,6 +44,13 @@
     "CR": "24 (62,000 XP)",
     "page": 288,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Alien Mind": "If a creature tries to read Dyrrn\\'s thoughts or deals psychic damage to it, that creature must succeed on a DC 23+1d14 + 16 Intelligence saving throw or be stunned for 1 minute. The stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+        "Legendary Resistance (3/Day)": "If Dyrrn fails a saving throw, it can choose to succeed instead.",
+        "Magic Resistance": "Dyrrn has advantage on saving throws against spells and other magical effects.",
+        "Regeneration": "Dyrrn regains 20 hit points at the start of its turn. If Dyrrn takes radiant damage, this trait doesn't function at the start of its next turn. Dyrrn dies only if it starts its turn with 0 hit points and doesn\\'t regenerate.",
+        "Teleport": "As a bonus action, Dyrrn can teleport up to 30 feet to an unoccupied space it can see."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "aberration"

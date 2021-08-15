@@ -30,6 +30,10 @@
     "CR": "1/8 (25 XP)",
     "page": 270,
     "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Spider Climb": "The vox seeker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+        "Voice Lock": "The vox seeker must move toward and attack the source of the nearest voice within 60 feet of it, to the exclusion of all other targets, for as long as it remains operational."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "construct"

@@ -36,6 +36,37 @@
     "CR": "7 (2,900 XP)",
     "page": 239,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Siege Monster": "The druid deals double damage to objects and structures.",
+        "Speak with Beasts and Plants": "The druid can communicate with beasts and plants as if they shared a language.",
+        "spellcasting": {
+            "level": 12,
+            "type": "druid",
+            "spells": [
+                "druidcraft",
+                "produce flame",
+                "resistance",
+                "thorn whip",
+                "cure wounds",
+                "faerie fire",
+                "thunderwave",
+                "beast sense",
+                "flame blade",
+                "pass without trace",
+                "conjure animals",
+                "dispel magic",
+                "plant growth",
+                "dominate beast",
+                "freedom of movement",
+                "wall of fire",
+                "commune with nature",
+                "conjure elemental",
+                "scrying",
+                "transport via plants",
+                "wall of thorns"
+            ]
+        }
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "humanoid"

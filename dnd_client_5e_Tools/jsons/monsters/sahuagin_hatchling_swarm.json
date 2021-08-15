@@ -32,6 +32,12 @@
     "CR": "3 (700 XP)",
     "page": 250,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Blood Frenzy": "The swarm has advantage on melee attack rolls against any creature that doesn\\'t have all its hit points.",
+        "Seething": "Once it enters combat, the swarm deals 10 slashing damage to itself at the end of its turn if it did not make an attack on that turn. This damage ignores resistance, and it cannot reduce the swarm to 0 hit points.",
+        "Swarm": "The swarm can occupy another creature's space and vice versa, and it can move through any opening large enough for a Tiny creature. The swarm can't regain hit points or gain temporary hit points.",
+        "Water Breathing": "The swarm can breathe only underwater."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "swarm"

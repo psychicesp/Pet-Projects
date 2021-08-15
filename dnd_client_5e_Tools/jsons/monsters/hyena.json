@@ -25,6 +25,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 331,
     "book": "Monster Manual",
+    "traits": {
+        "Pack Tactics": "The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

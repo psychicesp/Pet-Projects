@@ -27,6 +27,10 @@
     "CR": "2 (450 XP)",
     "page": 330,
     "book": "Monster Manual",
+    "traits": {
+        "Blood Frenzy": "The shark has advantage on melee attack rolls against any creature that doesn\\'t have all its hit points.",
+        "Water Breathing": "The shark can breathe only underwater."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

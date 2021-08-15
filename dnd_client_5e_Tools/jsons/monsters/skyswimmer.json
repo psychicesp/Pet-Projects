@@ -28,6 +28,9 @@
     "CR": "13 (10,000 XP)",
     "page": 220,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Amphibious": "The skyswimmer can breathe air and water."
+    },
     "alignment": "U",
     "size": "Gargantuan",
     "type": "monstrosity"

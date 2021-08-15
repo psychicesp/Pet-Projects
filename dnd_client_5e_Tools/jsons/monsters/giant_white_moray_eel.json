@@ -29,6 +29,9 @@
     "CR": "2 (450 XP)",
     "page": 216,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Water Breathing": "The eel can breathe only underwater."
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "beast"

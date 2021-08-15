@@ -29,6 +29,9 @@
     "CR": "1/8 (25 XP)",
     "page": 218,
     "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The merfolk can breathe air and water."
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "humanoid"

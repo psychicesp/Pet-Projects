@@ -32,6 +32,40 @@
     "CR": "9 (5,000 XP)",
     "page": 218,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "level": 9,
+            "type": "cleric",
+            "spells": [
+                "light",
+                "mending",
+                "sacred flame",
+                "spare the dying",
+                "divine favor",
+                "guiding bolt",
+                "healing word",
+                "shield of faith",
+                "lesser restoration",
+                "magic weapon",
+                "prayer of healing",
+                "silence",
+                "spiritual weapon",
+                "beacon of hope",
+                "crusader's mantle",
+                "dispel magic",
+                "revivify",
+                "spirit guardians",
+                "water walk",
+                "banishment",
+                "freedom of movement",
+                "guardian of faith",
+                "stoneskin",
+                "flame strike",
+                "mass cure wounds",
+                "hold monster"
+            ]
+        }
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

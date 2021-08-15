@@ -32,6 +32,10 @@
     "CR": "1/4 (50 XP)",
     "page": 194,
     "book": "Monster Manual",
+    "traits": {
+        "Ambusher": "In the first round of a combat, the kenku has advantage on attack rolls against any creature it surprised.",
+        "Mimicry": "The kenku can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14+1d4 + 12 Wisdom (Insight) check."
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "humanoid"

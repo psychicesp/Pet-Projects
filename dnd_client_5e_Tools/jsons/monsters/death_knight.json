@@ -34,6 +34,26 @@
     "CR": "17 (18,000 XP)",
     "page": 47,
     "book": "Monster Manual",
+    "traits": {
+        "Magic Resistance": "The death knight has advantage on saving throws against spells and other magical effects.",
+        "Marshal Undead": "Unless the death knight is incapacitated, it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.",
+        "spellcasting": {
+            "level": 19,
+            "type": "paladin",
+            "spells": [
+                "command",
+                "compelled duel",
+                "searing smite",
+                "hold person",
+                "magic weapon",
+                "dispel magic",
+                "elemental weapon",
+                "banishment",
+                "staggering smite",
+                "destructive wave"
+            ]
+        }
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

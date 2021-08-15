@@ -33,6 +33,9 @@
     "CR": "1 (200 XP)",
     "page": 209,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Death Burst": "When the galvanice weird dies, it explodes in a burst of ice and lightning. Each creature within 10 feet of the exploding weird must make a DC 13+1d4 + 11 Dexterity saving throw, taking 7 (2d6) lightning damage on a failed save, or half as much damage on a successful one."
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "elemental"

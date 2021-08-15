@@ -40,6 +40,20 @@
     "CR": "12 (8,400 XP)",
     "page": 190,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Flyby": "The angel doesn\\'t provoke an opportunity attack when it flies out of an enemy\\'s reach.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "compelled duel",
+                "guiding bolt",
+                "daylight",
+                "fireball"
+            ]
+        },
+        "Magic Resistance": "The angel has advantage on saving throws against spells and other magical effects.",
+        "Relentless (Recharges after a Short or Long Rest)": "If the angel takes 21 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead."
+    },
     "alignment": "CG",
     "size": "Medium",
     "type": "celestial"

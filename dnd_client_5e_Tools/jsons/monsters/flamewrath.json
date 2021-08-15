@@ -33,6 +33,28 @@
     "CR": "6 (2,300 XP)",
     "page": 201,
     "book": "Princes of the Apocalypse",
+    "traits": {
+        "spellcasting": {
+            "level": 7,
+            "type": "sorcerer",
+            "spells": [
+                "control flames",
+                "fire bolt",
+                "friends",
+                "light",
+                "minor illusion",
+                "burning hands",
+                "color spray",
+                "mage armor",
+                "scorching ray",
+                "suggestion",
+                "fireball",
+                "hypnotic pattern",
+                "fire shield"
+            ]
+        },
+        "Wreathed in Flame": "For the flamewrath, the warm version of the fire shield spell has a duration of \"until dispelled.\" The fire shield burns for 10 minutes after the flamewrath dies, consuming its body."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

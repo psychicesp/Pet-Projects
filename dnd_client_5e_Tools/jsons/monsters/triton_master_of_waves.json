@@ -41,6 +41,20 @@
     "CR": "8 (3,900 XP)",
     "page": 245,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Amphibious": "The triton can breathe air and water.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "ray of frost",
+                "cone of cold",
+                "fog cloud",
+                "gust of wind",
+                "wind wall"
+            ]
+        },
+        "Summon Water Weird (Recharges after a Short or Long Rest)": "As a bonus action, the triton magically summons 1d4 water weirds. The summoned weirds appear in unoccupied spaces in water within 60 feet of the triton. The water weirds act immediately after the triton on the same initiative count and fight until they're destroyed. They disappear if the triton dies."
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "humanoid"

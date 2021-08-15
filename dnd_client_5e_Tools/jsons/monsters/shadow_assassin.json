@@ -41,6 +41,11 @@
     "CR": "9 (5,000 XP)",
     "page": 316,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Amorphous": "The assassin can move through a space as narrow as 1 inch wide without squeezing.",
+        "Shadow Stealth": "While in dim light or darkness, the assassin can take the Hide action as a bonus action.",
+        "Sunlight Weakness": "While in sunlight, the assassin has disadvantage on attack rolls, ability checks, and saving throws."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

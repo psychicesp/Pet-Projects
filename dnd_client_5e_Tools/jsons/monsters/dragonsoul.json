@@ -36,6 +36,12 @@
     "CR": "7 (2,900 XP)",
     "page": 89,
     "book": "The Rise of Tiamat",
+    "traits": {
+        "Dragon Fanatic": "The dragonsoul has advantage on saving throws against being charmed or frightened. While the dragonsoul can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonsoul ignores the effects of being charmed or frightened.",
+        "Fanatic Advantage": "Once per turn, if the dragonsoul makes a weapon attack with advantage on the attack roll and hits, the target takes an extra 10 (3d6) damage.",
+        "Limited Flight": "The dragonsoul can use a bonus action to gain a flying speed of 30 feet until the end of its turn.",
+        "Pack Tactics": "The dragonsoul has advantage on an attack roll against a creature if at least one of the dragonsoul's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

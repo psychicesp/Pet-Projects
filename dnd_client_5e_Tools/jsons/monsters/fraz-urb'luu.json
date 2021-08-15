@@ -49,6 +49,29 @@
     "CR": "23 (50,000 XP) or 24 (62,000 XP) when encountered in lair",
     "page": 146,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "alter self",
+                "detect magic",
+                "dispel magic",
+                "phantasmal force",
+                "confusion",
+                "dream",
+                "mislead",
+                "programmed illusion",
+                "seeming",
+                "mirage arcane",
+                "modify memory",
+                "project image"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Fraz-Urb'luu fails a saving throw, he can choose to succeed instead.",
+        "Magic Resistance": "Fraz-Urb\\'luu has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "Fraz-Urb\\'luu\\'s weapon attacks are magical.",
+        "Undetectable": "Fraz-Urb'luu can't be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or fiends."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

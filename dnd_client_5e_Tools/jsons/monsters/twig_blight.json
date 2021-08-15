@@ -29,6 +29,9 @@
     "CR": "1/8 (25 XP)",
     "page": 32,
     "book": "Monster Manual",
+    "traits": {
+        "False Appearance": "While the blight remains motionless, it is indistinguishable from a dead shrub."
+    },
     "alignment": "NE",
     "size": "Small",
     "type": "plant"

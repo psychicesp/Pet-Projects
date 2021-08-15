@@ -29,6 +29,9 @@
     "CR": "5 (1,800 XP)",
     "page": 241,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Immutable Form": "The statue is immune to any spell or effect that would alter its form."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

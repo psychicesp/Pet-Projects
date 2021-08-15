@@ -33,6 +33,9 @@
     "CR": "1 (200 XP)",
     "page": 249,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Nimble": "The performer can take the Disengage action as a bonus action on each of its turns."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

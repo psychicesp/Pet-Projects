@@ -27,6 +27,10 @@
     "CR": "1/8 (25 XP)",
     "page": 227,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Blood Frenzy": "The harpy has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+        "Dark Devotion": "The harpy has advantage on saving throws against being charmed or frightened."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "monstrosity"

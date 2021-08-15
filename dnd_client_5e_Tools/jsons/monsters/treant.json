@@ -28,6 +28,10 @@
     "CR": "9 (5,000 XP)",
     "page": 289,
     "book": "Monster Manual",
+    "traits": {
+        "False Appearance": "While the treant remains motionless, it is indistinguishable from a normal tree.",
+        "Siege Monster": "The treant deals double damage to objects and structures."
+    },
     "alignment": "CG",
     "size": "Huge",
     "type": "plant"

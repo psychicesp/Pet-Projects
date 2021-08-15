@@ -32,6 +32,10 @@
     "CR": "1 (200 XP)",
     "page": 293,
     "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Curse of the Husk": "A humanoid slain by a melee attack from the zombie revives as a husk zombie on its next turn.",
+        "Undead Fortitude": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "undead"

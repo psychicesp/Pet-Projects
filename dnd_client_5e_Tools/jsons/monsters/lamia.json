@@ -31,6 +31,20 @@
     "CR": "4 (1,100 XP)",
     "page": 201,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "disguise self",
+                "major image",
+                "charm person",
+                "mirror image",
+                "scrying",
+                "suggestion",
+                "geas"
+            ]
+        }
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "monstrosity"

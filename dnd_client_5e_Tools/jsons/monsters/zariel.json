@@ -46,6 +46,26 @@
     "CR": "26 (90,000 XP)",
     "page": 180,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Devil\\'s Sight": "Magical darkness doesn\\'t impede Zariel\\'s darkvision.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "alter self",
+                "detect evil and good",
+                "fireball",
+                "invisibility",
+                "wall of fire",
+                "blade barrier",
+                "dispel evil and good",
+                "finger of death"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Zariel fails a saving throw, she can choose to succeed instead.",
+        "Magic Resistance": "Zariel has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "Zariel\\'s weapon attacks are magical. When she hits with any weapon, the weapon deals an extra 36 (8d8) fire damage (included in the weapon attacks below).",
+        "Regeneration": "Zariel regains 20 hit points at the start of her turn. If she takes radiant damage, this trait doesn't function at the start of her next turn. Zariel dies only if she starts her turn with 0 hit points and doesn't regenerate."
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

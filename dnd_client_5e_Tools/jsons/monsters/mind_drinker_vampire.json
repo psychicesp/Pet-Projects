@@ -40,6 +40,22 @@
     "CR": "4 (1,100 XP)",
     "page": 224,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "message",
+                "charm person",
+                "hold person",
+                "mirror image",
+                "sleep",
+                "gaseous form",
+                "major image"
+            ]
+        },
+        "Shadow Stealth": "While in dim light or darkness, the vampire can take the Hide action as a bonus action.",
+        "Sunlight Sensitivity": "While in sunlight, the vampire has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "undead"

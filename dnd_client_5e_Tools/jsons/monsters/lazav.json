@@ -49,6 +49,26 @@
     "CR": "17 (18,000 XP)",
     "page": 232,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Elusive": "No attack roll has advantage against Lazav unless he is incapacitated.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect thoughts",
+                "encode thoughts",
+                "freedom of movement",
+                "vicious mockery",
+                "blur",
+                "confusion",
+                "mirror image",
+                "modify memory",
+                "Rary's telepathic bond"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Lazav fails a saving throw, he can choose to succeed instead.",
+        "Psychic Defenses": "Unless Lazav is incapacitated, he is immune to magic that allows other creatures to read his thoughts, determine whether he is lying, know his alignment, or know his creature type. Creatures can telepathically communicate with Lazav only if he allows it.",
+        "Shapechanger Savant": "Lazav can use a bonus action to polymorph into a Small or Medium humanoid he has seen. His statistics, other than his size, are the same in each form. Any equipment he is wearing or carrying isn\\'t transformed."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "monstrosity"

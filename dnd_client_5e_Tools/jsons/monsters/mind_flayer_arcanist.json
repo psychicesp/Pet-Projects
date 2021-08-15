@@ -42,6 +42,33 @@
     "CR": "8 (3,900 XP)",
     "page": 222,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "level": 10,
+            "type": "wizard",
+            "spells": [
+                "blade ward",
+                "dancing lights",
+                "mage hand",
+                "shocking grasp",
+                "detect magic",
+                "disguise self",
+                "shield",
+                "sleep",
+                "blur",
+                "invisibility",
+                "ray of enfeeblement",
+                "clairvoyance",
+                "lightning bolt",
+                "sending",
+                "confusion",
+                "hallucinatory terrain",
+                "telekinesis",
+                "wall of force"
+            ]
+        },
+        "Magic Resistance": "The mind flayer has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "aberration"

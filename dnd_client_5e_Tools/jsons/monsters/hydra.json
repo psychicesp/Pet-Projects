@@ -27,6 +27,12 @@
     "CR": "8 (3,900 XP)",
     "page": 190,
     "book": "Monster Manual",
+    "traits": {
+        "Hold Breath": "The hydra can hold its breath for 1 hour.",
+        "Multiple Heads": "The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.",
+        "Reactive Heads": "For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.",
+        "Wakeful": "While the hydra sleeps, at least one of its heads is awake."
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "monstrosity"

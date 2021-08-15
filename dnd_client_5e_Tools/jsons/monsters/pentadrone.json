@@ -26,6 +26,10 @@
     "CR": "2 (450 XP)",
     "page": 226,
     "book": "Monster Manual",
+    "traits": {
+        "Axiomatic Mind": "The pentadrone can't be compelled to act in a manner contrary to its nature or its instructions.",
+        "Disintegration": "If the pentadrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying."
+    },
     "alignment": "LN",
     "size": "Large",
     "type": "construct"

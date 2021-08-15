@@ -36,6 +36,11 @@
     "CR": "1/2 (100 XP)",
     "page": 269,
     "book": "Monster Manual",
+    "traits": {
+        "Amorphous": "The shadow can move through a space as narrow as 1 inch wide without squeezing.",
+        "Shadow Stealth": "While in dim light or darkness, the shadow can take the Hide action as a bonus action. Its stealth bonus is also improved to +6.",
+        "Sunlight Weakness": "While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

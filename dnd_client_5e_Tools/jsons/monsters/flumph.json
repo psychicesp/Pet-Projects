@@ -33,6 +33,11 @@
     "CR": "1/8 (25 XP)",
     "page": 135,
     "book": "Monster Manual",
+    "traits": {
+        "Advanced Telepathy": "The flumph can perceive the content of any telepathic communication used within 60 feet of it, and it can't be surprised by creatures with any form of telepathy.",
+        "Prone Deficiency": "If the flumph is knocked prone, roll a die. On an odd result, the flumph lands upside-down and is incapacitated. At the end of each of its turns, the flumph can make a DC 10+1d4 + 8 Dexterity saving throw, righting itself and ending the incapacitated condition if it succeeds.",
+        "Telepathic Shroud": "The flumph is immune to any effect that would sense its emotions or read its thoughts, as well as all divination spells."
+    },
     "alignment": "LG",
     "size": "Small",
     "type": "aberration"

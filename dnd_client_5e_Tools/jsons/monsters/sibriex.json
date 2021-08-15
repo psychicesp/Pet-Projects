@@ -47,6 +47,21 @@
     "CR": "18 (20,000 XP)",
     "page": 137,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Contamination": "The sibriex emits an aura of corruption 30 feet in every direction. Plants that aren't creatures wither in the aura, and the ground in it is difficult terrain for other creatures. Any creature that starts its turn in the aura must succeed on a DC 20+1d12 + 14 Constitution saving throw or take 14 (4d6) poison damage. A creature that succeeds on the save is immune to this sibriex's Contamination for 24 hours.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "charm person",
+                "command",
+                "dispel magic",
+                "hold monster",
+                "feeblemind"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If the sibriex fails a saving throw, it can choose to succeed instead.",
+        "Magic Resistance": "The sibriex has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "fiend"

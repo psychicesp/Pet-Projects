@@ -28,6 +28,10 @@
     "CR": "1 (200 XP)",
     "page": 240,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Cunning Opportunist": "The stone cursed has advantage on the attack rolls of opportunity attacks.",
+        "False Appearance": "While the stone cursed remains motionless, it is indistinguishable from a normal statue."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "construct"

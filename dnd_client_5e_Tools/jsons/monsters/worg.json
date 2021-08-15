@@ -27,6 +27,9 @@
     "CR": "1/2 (100 XP)",
     "page": 341,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Hearing and Smell": "The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "monstrosity"

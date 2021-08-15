@@ -35,6 +35,31 @@
     "CR": "9 (5,000 XP)",
     "page": 224,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Burden of Time": "Beasts and humanoids, other than shadar-kai, have disadvantage on saving throws while within 10 feet of the gloom weaver.",
+        "Fey Ancestry": "The gloom weaver has advantage on saving throws against being charmed, and magic can\\'t put it to sleep.",
+        "spellcasting": {
+            "level": 12,
+            "type": "warlock",
+            "spells": [
+                "minor illusion",
+                "prestidigitation",
+                "chill touch",
+                "eldritch blast",
+                "armor of Agathys",
+                "blight",
+                "darkness",
+                "dream",
+                "invisibility",
+                "fear",
+                "hypnotic pattern",
+                "major image",
+                "contact other plane",
+                "vampiric touch",
+                "witch bolt"
+            ]
+        }
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "humanoid"

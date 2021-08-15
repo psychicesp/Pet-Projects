@@ -32,6 +32,23 @@
     "CR": "9 (5,000 XP)",
     "page": 154,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect magic",
+                "fog cloud",
+                "light",
+                "feather fall",
+                "fly",
+                "misty step",
+                "telekinesis",
+                "control weather",
+                "gaseous form"
+            ]
+        },
+        "Keen Smell": "The giant has advantage on Wisdom (Perception) checks that rely on smell."
+    },
     "alignment": "NG(ONE(",
     "size": "Huge",
     "type": "giant"

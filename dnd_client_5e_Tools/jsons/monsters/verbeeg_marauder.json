@@ -32,6 +32,9 @@
     "CR": "4 (1,100 XP)",
     "page": 311,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Simple Weapon Wielder": "A simple weapon deals one extra die of its damage when the verbeeg hits with it (included in the attack)."
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "giant"

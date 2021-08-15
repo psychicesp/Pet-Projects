@@ -29,6 +29,9 @@
     "CR": "1/8 (25 XP)",
     "page": 329,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Hearing and Smell": "The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

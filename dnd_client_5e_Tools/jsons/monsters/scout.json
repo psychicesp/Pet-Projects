@@ -33,6 +33,9 @@
     "CR": "1/2 (100 XP)",
     "page": 349,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Hearing and Sight": "The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

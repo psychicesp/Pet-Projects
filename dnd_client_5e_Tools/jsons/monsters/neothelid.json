@@ -27,6 +27,19 @@
     "CR": "13 (10,000 XP)",
     "page": 181,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Creature Sense": "The neothelid is aware of the presence of creatures within 1 mile of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each creature's Intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell, a nondetection spell, or similar magic can\\'t be perceived in this manner.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "levitate",
+                "confusion",
+                "feeblemind",
+                "telekinesis"
+            ]
+        },
+        "Magic Resistance": "The neothelid has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "CE",
     "size": "Gargantuan",
     "type": "aberration"

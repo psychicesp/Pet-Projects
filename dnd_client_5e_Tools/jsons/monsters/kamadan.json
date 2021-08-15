@@ -27,6 +27,10 @@
     "CR": "4 (1,100 XP)",
     "page": 225,
     "book": "Tomb of Annihilation",
+    "traits": {
+        "Keen Smell": "The kamadan has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Pounce": "If the kamadan moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn that target must succeed on a DC 13+1d4 + 11 Strength saving throw or be knocked prone. If the target is knocked prone, the kamadan can make two attacks\\xe2\\x80\\x94one with its bite and one with its snakes\\xe2\\x80\\x94against it as a bonus action."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

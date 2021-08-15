@@ -31,6 +31,10 @@
     "CR": "1/4 (50 XP)",
     "page": 240,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Turn Resistance": "The Returned has advantage on saving throws against any effect that turns undead.",
+        "Unreadable Face": "The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom (Insight) checks to ascertain the Returned's intentions or sincerity are made with disadvantage."
+    },
     "alignment": "LN",
     "size": "Medium",
     "type": "undead"

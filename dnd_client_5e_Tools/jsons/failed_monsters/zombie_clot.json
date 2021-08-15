@@ -30,5 +30,10 @@
     ],
     "CR": "6 (2,300 XP)",
     "page": 255,
-    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Deathly Stench": "Any creature that starts its turn within 10 feet of the zombie must succeed on a DC 14+1d6 + 11 Constitution saving throw or take 9 (2d8) poison damage and be poisoned until the start of the creature\\'s next turn.",
+        "Undead Fortitude": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+        "Unusual Nature": "The zombie doesn\\'t require air, food, drink, or sleep."
+    }
 }

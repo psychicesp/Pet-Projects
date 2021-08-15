@@ -22,6 +22,11 @@
     "CR": "1 (200 XP)",
     "page": 233,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Charge": "If the ram moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13+1d4 + 11 Strength saving throw or be knocked prone.",
+        "Magic Resistance": "The ram has advantage on saving throws against spells and other magical effects.",
+        "Sure-Footed": "The ram has advantage on Strength and Dexterity saving throws against effects that would knock it prone."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "monstrosity"

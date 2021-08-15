@@ -47,6 +47,19 @@
     "CR": "11 (7,200 XP)",
     "page": 221,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Aura of Nightmares": "Undead creatures within 30 feet of the shepherd gain a +5 bonus to attack and damage rolls. When any other creature that isn't undead or a construct starts its turn within 30 feet of the shepherd, that creature must succeed on a DC 17+1d8 + 13 Wisdom saving throw or take 11 (2d10) psychic damage.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "confusion",
+                "dispel magic",
+                "hold person",
+                "suggestion"
+            ]
+        },
+        "Magic Resistance": "The shepherd has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

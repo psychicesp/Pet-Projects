@@ -25,6 +25,9 @@
     "CR": "2 (450 XP)",
     "page": 219,
     "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The merrow can breathe air and water."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "monstrosity"

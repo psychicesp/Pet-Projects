@@ -29,6 +29,11 @@
     "CR": "3 (700 XP)",
     "page": 249,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Blood Frenzy": "The champion has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+        "Limited Amphibiousness": "The champion can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.",
+        "Shark Telepathy": "The champion can magically command any shark within 120 feet of it, using a limited telepathy."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

@@ -25,6 +25,10 @@
     "CR": "5 (1,800 XP)",
     "page": 292,
     "book": "Monster Manual",
+    "traits": {
+        "Confusing Gaze": "When a creature starts its turn within 30 feet of the umber hulk and is able to see the umber hulk's eyes, the umber hulk can magically force it to make a DC 15+1d6 + 12 Charisma saving throw, unless the umber hulk is incapacitated.",
+        "Tunneler": "The umber hulk can burrow through solid rock at half its burrowing speed and leaves a 5 foot-wide, 8-foot-high tunnel in its wake."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "monstrosity"

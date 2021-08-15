@@ -49,6 +49,19 @@
     "CR": "24 (62,000 XP)",
     "page": 247,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Captivating Presence": "Any creature that starts its turn within 30 feet of Rakdos must make a DC 25+1d14 + 18 Wisdom saving throw. On a failed save, the creature becomes charmed by Rakdos for 1 minute or until the creature is farther than 30 feet away from him. On a successful save, the creature becomes immune to Rakdos's Captivating Presence for 24 hours.",
+        "Cruel Entertainment": "When a creature Rakdos can see within 60 feet of him is reduced to 0 hit points, Rakdos gains 25 temporary hit points.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "hellish rebuke"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Rakdos fails a saving throw, he can choose to succeed instead.",
+        "Magic Resistance": "Rakdos has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "Rakdos\\'s weapon attacks are magical."
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "fiend"

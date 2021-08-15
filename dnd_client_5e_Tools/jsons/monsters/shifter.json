@@ -34,6 +34,9 @@
     "CR": "1/2 (100 XP)",
     "page": 319,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Shifting (Recharges after a Short or Long Rest)": "As a bonus action, the shifter takes on a more bestial form for 1 minute or until it dies. The shifter gains 5 temporary hit points. It can make a bite attack when it activates this trait and also as a bonus action on each of its turns while in its bestial form."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

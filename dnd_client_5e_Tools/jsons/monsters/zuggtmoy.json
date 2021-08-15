@@ -43,6 +43,25 @@
     "CR": "23 (50,000 XP)",
     "page": 157,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect magic",
+                "locate animals or plants",
+                "ray of sickness",
+                "dispel magic",
+                "ensnaring strike",
+                "entangle",
+                "plant growth",
+                "etherealness",
+                "teleport"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Zuggtmoy fails a saving throw, she can choose to succeed instead.",
+        "Magic Resistance": "Zuggtmoy has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "Zuggtmoy\\'s weapon attacks are magical."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

@@ -50,6 +50,24 @@
     "CR": "15 (13,000 XP)",
     "page": 162,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Devil\\'s Sight": "Magical darkness doesn\\'t impede the abishai\\'s darkvision.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "alter self",
+                "major image",
+                "charm person",
+                "detect thoughts",
+                "fear",
+                "confusion",
+                "dominate person",
+                "mass suggestion"
+            ]
+        },
+        "Magic Resistance": "The abishai has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The abishai's weapon attacks are magical."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "fiend"

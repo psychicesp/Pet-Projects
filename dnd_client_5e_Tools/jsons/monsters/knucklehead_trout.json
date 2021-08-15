@@ -25,6 +25,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 295,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Water Breathing": "The trout can breathe only underwater."
+    },
     "alignment": "U",
     "size": "Small",
     "type": "beast"

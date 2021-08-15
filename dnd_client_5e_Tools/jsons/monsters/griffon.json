@@ -27,6 +27,9 @@
     "CR": "2 (450 XP)",
     "page": 174,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Sight": "The griffon has advantage on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

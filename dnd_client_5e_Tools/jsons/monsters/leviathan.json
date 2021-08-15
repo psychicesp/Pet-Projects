@@ -36,6 +36,12 @@
     "CR": "20 (25,000 XP)",
     "page": 198,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Legendary Resistance (3/Day)": "If the leviathan fails a saving throw, it can choose to succeed instead.",
+        "Partial Freeze": "If the leviathan takes 50 cold damage or more during a single turn, the leviathan partially freezes; until the end of its next turn, its speeds are reduced to 20 feet, and it makes attack rolls with disadvantage.",
+        "Siege Monster": "The leviathan deals double damage to objects and structures (included in Tidal Wave).",
+        "Water Form": "The leviathan can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
+    },
     "alignment": "N",
     "size": "Gargantuan",
     "type": "elemental"

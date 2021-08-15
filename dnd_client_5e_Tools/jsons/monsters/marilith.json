@@ -41,6 +41,11 @@
     "CR": "16 (15,000 XP)",
     "page": 61,
     "book": "Monster Manual",
+    "traits": {
+        "Magic Resistance": "The marilith has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The marilith\\'s weapon attacks are magical.",
+        "Reactive": "The marilith can take one reaction on every turn in combat."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

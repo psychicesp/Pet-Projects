@@ -32,6 +32,9 @@
     "CR": "1/4 (50 XP)",
     "page": 241,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Hold Breath": "The lizardfolk can hold its breath for 15 minutes."
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "humanoid"

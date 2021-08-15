@@ -42,6 +42,20 @@
     "CR": "5 (1,800 XP) or 7 (2,900 XP) when part of a cove",
     "page": 178,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect magic",
+                "magic missile",
+                "plane shift",
+                "ray of enfeeblement",
+                "sleep"
+            ]
+        },
+        "Magic Resistance": "The hag has advantage on saving throws against spells and other magical effects.",
+        "Night Hag Items": "A night hag carries two very rare magic items that she must craft for herself. If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "fiend"

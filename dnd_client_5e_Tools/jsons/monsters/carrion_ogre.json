@@ -24,6 +24,9 @@
     "CR": "2 (450 XP)",
     "page": 189,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Tied Down": "While lashed to the floor, the creature is prone and restrained. It also suffers from two levels of exhaustion."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "giant"

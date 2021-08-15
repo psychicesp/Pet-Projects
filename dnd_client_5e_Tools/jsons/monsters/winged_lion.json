@@ -23,6 +23,9 @@
     "CR": "4 (1,100 XP)",
     "page": 214,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Pounce": "If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 15+1d4 + 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "celestial"

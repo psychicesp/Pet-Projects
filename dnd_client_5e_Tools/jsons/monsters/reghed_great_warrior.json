@@ -35,6 +35,10 @@
     "CR": "5 (1,800 XP)",
     "page": 152,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Brave": "The great warrior has advantage on saving throws against being frightened.",
+        "Brute": "A melee weapon deals one extra die of its damage when the great warrior hits with it (included in the attack)."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

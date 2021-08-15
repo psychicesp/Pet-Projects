@@ -33,6 +33,26 @@
     "CR": "2 (450 XP)",
     "page": 190,
     "book": "Princes of the Apocalypse",
+    "traits": {
+        "Hold Breath": "The priest can hold its breath for 30 minutes.",
+        "spellcasting": {
+            "level": 5,
+            "type": "sorcerer",
+            "spells": [
+                "blade ward",
+                "gust",
+                "light",
+                "prestidigitation",
+                "shocking grasp",
+                "feather fall",
+                "shield",
+                "witch bolt",
+                "dust devil",
+                "gust of wind",
+                "gaseous form"
+            ]
+        }
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

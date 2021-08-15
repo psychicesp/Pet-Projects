@@ -33,6 +33,28 @@
     "CR": "4 (1,100 XP)",
     "page": 234,
     "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "traits": {
+        "Grave Magic": "When the master of souls cast a spell that deals damage, it can change the spell\\'s damage type to necrotic.",
+        "spellcasting": {
+            "level": 5,
+            "type": "wizard",
+            "spells": [
+                "chill touch",
+                "mage hand",
+                "message",
+                "prestidigitation",
+                "burning hands",
+                "detect magic",
+                "ray of sickness",
+                "shield",
+                "darkness",
+                "misty step",
+                "scorching ray",
+                "animate dead",
+                "fireball"
+            ]
+        }
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

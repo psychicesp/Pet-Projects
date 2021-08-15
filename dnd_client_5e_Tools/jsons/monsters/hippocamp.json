@@ -28,6 +28,10 @@
     "CR": "1/2 (100 XP)",
     "page": 227,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Amphibious": "The hippocamp can breathe air and water.",
+        "Charge": "If the hippocamp moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 12+1d4 + 10 Strength saving throw or be knocked prone."
+    },
     "alignment": "CG",
     "size": "Large",
     "type": "monstrosity"

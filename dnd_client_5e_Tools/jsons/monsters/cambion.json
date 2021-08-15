@@ -44,6 +44,18 @@
     "CR": "5 (1,800 XP)",
     "page": 36,
     "book": "Monster Manual",
+    "traits": {
+        "Fiendish Blessing": "The AC of the cambion includes its Charisma bonus.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "alter self",
+                "command",
+                "detect magic",
+                "plane shift"
+            ]
+        }
+    },
     "alignment": "AEA",
     "size": "Medium",
     "type": "fiend"

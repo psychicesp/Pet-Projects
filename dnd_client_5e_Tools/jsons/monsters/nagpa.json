@@ -40,6 +40,42 @@
     "CR": "17 (18,000 XP)",
     "page": 215,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Corruption": "As a bonus action, the nagpa targets one creature it can see within 90 feet of it. The target must make a DC 20+1d12 + 14 Charisma saving throw. An evil creature makes the save with disadvantage. On a failed save, the target is charmed by the nagpa until the start of the nagpa's next turn. On a successful save, the target becomes immune to the nagpa\\'s Corruption for the next 24 hours.",
+        "Paralysis (Recharge 6)": "As a bonus action, the nagpa forces each creature within 30 feet of it to succeed on a DC 20+1d12 + 14 Wisdom saving throw or be paralyzed for 1 minute. A paralyzed target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Undead and constructs are immune to this effect.",
+        "spellcasting": {
+            "level": 15,
+            "type": "wizard",
+            "spells": [
+                "chill touch",
+                "fire bolt",
+                "mage hand",
+                "message",
+                "minor illusion",
+                "charm person",
+                "detect magic",
+                "protection from evil and good",
+                "witch bolt",
+                "hold person",
+                "ray of enfeeblement",
+                "suggestion",
+                "counterspell",
+                "fireball",
+                "fly",
+                "confusion",
+                "hallucinatory terrain",
+                "wall of fire",
+                "dominate person",
+                "dream",
+                "geas",
+                "circle of death",
+                "disintegrate",
+                "etherealness",
+                "prismatic spray",
+                "feeblemind"
+            ]
+        }
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

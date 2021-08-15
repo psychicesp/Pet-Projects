@@ -35,6 +35,11 @@
     "CR": "1/2 (100 XP)",
     "page": 28,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Fey Ancestry": "The wood elf has advantage on saving throws against being charmed, and magic can\\'t put the wood elf to sleep.",
+        "Keen Hearing and Sight": "The wood elf has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
+        "Mask of the Wild": "The wood elf can attempt to hide even when they are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+    },
     "alignment": "CG",
     "size": "Medium",
     "type": "humanoid"

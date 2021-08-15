@@ -33,6 +33,31 @@
     "CR": "5 (1,800 XP)",
     "page": 251,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Blood Frenzy": "The high priestess has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+        "Limited Amphibiousness": "The high priestess can breathe air and water, but she needs to be submerged at least once every 4 hours to avoid suffocating.",
+        "Shark Telepathy": "The high priestess can magically command any shark within 120 feet of her, using a limited telepathy.",
+        "spellcasting": {
+            "level": 7,
+            "type": "cleric",
+            "spells": [
+                "guidance",
+                "mending",
+                "resistance",
+                "thaumaturgy",
+                "bless",
+                "detect magic",
+                "guiding bolt",
+                "hold person",
+                "spiritual weapon",
+                "bestow curse",
+                "fear",
+                "mass healing word",
+                "tongues",
+                "banishment"
+            ]
+        }
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

@@ -43,6 +43,11 @@
     "CR": "6 (2,300 XP)",
     "page": 57,
     "book": "Monster Manual",
+    "traits": {
+        "Drone": "The chasme produces a horrid droning sound to which demons are immune. Any other creature that starts its turn with in 30 feet of the chasme must succeed on a DC 12+1d6 + 9 Constitution saving throw or fall unconscious for 10 minutes. A creature that can\\'t hear the drone automatically succeeds on the save. The effect on the creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours.",
+        "Magic Resistance": "The chasme has advantage on saving throws against spells and other magical effects.",
+        "Spider Climb": "The chasme can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

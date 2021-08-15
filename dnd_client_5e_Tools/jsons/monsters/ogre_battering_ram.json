@@ -24,6 +24,9 @@
     "CR": "4 (1,100 XP)",
     "page": 220,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Siege Monster": "The ogre deals double damage to objects and structures."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "giant"

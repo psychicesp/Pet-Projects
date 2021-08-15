@@ -35,6 +35,9 @@
     "CR": "2 (450 XP)",
     "page": 256,
     "book": "Monster Manual",
+    "traits": {
+        "Wounded Fury": "While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack."
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "humanoid"

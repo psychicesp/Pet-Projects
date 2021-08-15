@@ -34,6 +34,10 @@
     "CR": "1/2 (100 XP)",
     "page": 126,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Aggressive": "As a bonus action, the gazer can move up to its speed toward a hostile creature that it can see.",
+        "Mimicry": "The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10+1d4 + 8 Wisdom (Insight) check."
+    },
     "alignment": "NE",
     "size": "Tiny",
     "type": "aberration"

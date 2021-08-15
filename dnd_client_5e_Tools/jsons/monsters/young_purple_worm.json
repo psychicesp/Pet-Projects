@@ -28,6 +28,9 @@
     "CR": "13 (10,000 XP)",
     "page": 113,
     "book": "Princes of the Apocalypse",
+    "traits": {
+        "Tunneler": "The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake."
+    },
     "alignment": "U",
     "size": "Gargantuan",
     "type": "monstrosity"

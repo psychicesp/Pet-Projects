@@ -26,6 +26,10 @@
     "CR": "0 (0 or 10 XP)",
     "page": 331,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Hearing and Smell": "The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+        "Pack Tactics": "The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn\\'t incapacitated."
+    },
     "alignment": "U",
     "size": "Small",
     "type": "beast"

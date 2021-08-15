@@ -43,6 +43,11 @@
     "CR": "13 (10,000 XP)",
     "page": 85,
     "book": "Monster Manual",
+    "traits": {
+        "Living Shadow": "While in dim light or darkness, the dragon has resistance to damage that isn't force, psychic, or radiant.",
+        "Shadow Stealth": "While in dim light or darkness, the dragon can take the Hide action as a bonus action.",
+        "Sunlight Sensitivity": "While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "dragon"

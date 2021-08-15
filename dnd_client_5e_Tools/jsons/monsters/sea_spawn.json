@@ -24,6 +24,9 @@
     "CR": "1 (200 XP)",
     "page": 189,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Limited Amphibiousness": "The sea spawn can breathe air and water, but needs to be submerged in the sea at least once a day for 1 minute to avoid suffocating."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

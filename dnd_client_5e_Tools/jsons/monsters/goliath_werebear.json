@@ -38,6 +38,12 @@
     "CR": "8 (3,900 XP)",
     "page": 293,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Shapechanger": "The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large polar bear, or back into its goliath form. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+        "Keen Smell": "The werebear has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Mountain Born": "The werebear is acclimated to high altitude, including elevations above 20,000 feet.",
+        "Powerful Build (Humanoid Form Only)": "The werebear counts as one size larger when determining its carrying capacity and the weight it can push, drag, or lift."
+    },
     "alignment": "S",
     "size": "Medium",
     "type": "humanoid"

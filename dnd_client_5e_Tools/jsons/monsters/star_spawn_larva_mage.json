@@ -40,6 +40,17 @@
     "CR": "16 (15,000 XP)",
     "page": 235,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "eldritch blast",
+                "minor illusion",
+                "dominate monster",
+                "circle of death"
+            ]
+        }
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "aberration"

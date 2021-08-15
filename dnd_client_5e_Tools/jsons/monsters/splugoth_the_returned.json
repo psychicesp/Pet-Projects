@@ -34,6 +34,11 @@
     "CR": "2 (450 XP)",
     "page": 213,
     "book": "Acquisitions Incorporated",
+    "traits": {
+        "Defensive Advantage": "As long as two or more of Splugoth's allies are within 5 feet of him and are not incapacitated, attack rolls against him are made with disadvantage.",
+        "Nimble Escape": "Splugoth can take the Disengage or Hide action as a bonus action on each of his turns.",
+        "Touch of Madness": "Splugoth has advantage on saving throws against being charmed or frightened."
+    },
     "alignment": "NE",
     "size": "Small",
     "type": "humanoid"

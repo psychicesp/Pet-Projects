@@ -37,6 +37,9 @@
     "CR": "1 (200 XP)",
     "page": 209,
     "book": "Acquisitions Incorporated",
+    "traits": {
+        "False Appearance": "While the clockwork dragon remains motionless, it is indistinguishable from a metal statue."
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "construct"

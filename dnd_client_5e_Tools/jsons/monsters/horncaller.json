@@ -30,6 +30,16 @@
     "CR": "1 (200 XP)",
     "page": 253,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "bless",
+                "conjure animals"
+            ]
+        },
+        "Speak with Beasts": "The horncaller can communicate with beasts as if they shared a language."
+    },
     "alignment": "LG",
     "size": "Medium",
     "type": "humanoid"

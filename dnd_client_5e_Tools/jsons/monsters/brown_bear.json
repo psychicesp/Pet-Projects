@@ -26,6 +26,9 @@
     "CR": "1 (200 XP)",
     "page": 319,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Smell": "The bear has advantage on Wisdom (Perception) checks that rely on smell."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

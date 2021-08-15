@@ -28,6 +28,10 @@
     "CR": "1/2 (100 XP)",
     "page": 252,
     "book": "Monster Manual",
+    "traits": {
+        "False Appearance": "While the piercer remains motionless on the ceiling, it is indistinguishable from a normal stalactite.",
+        "Spider Climb": "The piercer can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "monstrosity"

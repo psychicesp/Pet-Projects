@@ -36,6 +36,11 @@
     "CR": "1/2 (100 XP)",
     "page": 158,
     "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
+    "traits": {
+        "Amorphous": "The reflection can move through a space as narrow as 1 inch wide without squeezing.",
+        "Shadow Stealth": "While in dim light or darkness, the reflection can take the Hide action as a bonus action. Its stealth bonus is also improved to +6.",
+        "Sunlight Weakness": "While in sunlight, the reflection has disadvantage on attack rolls, ability checks, and saving throws."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "fey"

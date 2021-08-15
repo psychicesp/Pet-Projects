@@ -23,6 +23,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 335,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Smell": "The rat has advantage on Wisdom (Perception) checks that rely on smell."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

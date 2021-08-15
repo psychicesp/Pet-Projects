@@ -32,6 +32,10 @@
     "CR": "1 (200 XP)",
     "page": 288,
     "book": "Monster Manual",
+    "traits": {
+        "Chameleon Carapace": "The thri-kreen can change the color of its carapace to match the color and texture of its surroundings. As a result, it has advantage on Dexterity (Stealth) checks made to hide.",
+        "Standing Leap": "The thri-kreen's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start."
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "humanoid"

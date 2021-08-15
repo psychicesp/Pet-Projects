@@ -31,6 +31,12 @@
     "CR": "2 (450 XP)",
     "page": 128,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Cold Aura": "Any creature that starts its turn within 5 feet of the spider takes 5 (2d4) cold damage.",
+        "Spider Climb": "The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+        "Web Sense": "While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.",
+        "Web Walker": "The spider ignores movement restrictions caused by webbing."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

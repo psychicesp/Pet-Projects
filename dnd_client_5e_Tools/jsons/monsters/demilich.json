@@ -40,6 +40,11 @@
     "CR": "18 (20,000 XP) or 20 (25,000 XP) when encountered in lair",
     "page": 48,
     "book": "Monster Manual",
+    "traits": {
+        "Avoidance": "If the demilich is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+        "Legendary Resistance (3/Day)": "If the demilich fails a saving throw, it can choose to succeed instead.",
+        "Turn Immunity": "The demilich is immune to effects that turn undead."
+    },
     "alignment": "NE",
     "size": "Tiny",
     "type": "undead"

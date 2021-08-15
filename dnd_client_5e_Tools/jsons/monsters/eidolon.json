@@ -39,6 +39,11 @@
     "CR": "12 (8,400 XP)",
     "page": 194,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Incorporeal Movement": "The eidolon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object other than a sacred statue.",
+        "Sacred Animation (Recharge 5\\xe2\\x80\\x936)": "When the eidolon moves into a space occupied by a sacred statue, the eidolon can disappear, causing the statue to become a creature under the eidolon\\'s control. The eidolon uses the sacred statue\\'s statistics in place of its own.",
+        "Turn Resistance": "The eidolon has advantage on saving throws against any effect that turns undead."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "undead"

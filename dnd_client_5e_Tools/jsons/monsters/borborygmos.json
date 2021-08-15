@@ -41,6 +41,11 @@
     "CR": "18 (20,000 XP)",
     "page": 238,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Legendary Resistance (3/Day)": "If Borborygmos fails a saving throw, he can choose to succeed instead.",
+        "Poor Depth Perception": "Borborygmos has disadvantage on any attack roll against a target more than 30 feet away.",
+        "Siege Monster": "Borborygmos deals double damage to objects and structures."
+    },
     "alignment": "CN",
     "size": "Huge",
     "type": "giant"

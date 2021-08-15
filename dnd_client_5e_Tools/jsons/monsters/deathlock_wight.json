@@ -40,6 +40,20 @@
     "CR": "3 (700 XP)",
     "page": 129,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect magic",
+                "disguise self",
+                "mage armor",
+                "fear",
+                "hold person",
+                "misty step"
+            ]
+        },
+        "Sunlight Sensitivity": "While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "undead"

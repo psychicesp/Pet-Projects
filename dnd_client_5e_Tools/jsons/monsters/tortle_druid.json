@@ -31,6 +31,24 @@
     "CR": "2 (450 XP)",
     "page": 242,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Hold Breath": "The tortle can hold its breath for 1 hour.",
+        "spellcasting": {
+            "level": 4,
+            "type": "druid",
+            "spells": [
+                "druidcraft",
+                "guidance",
+                "produce flame",
+                "animal friendship",
+                "cure wounds",
+                "speak with animals",
+                "thunderwave",
+                "darkvision",
+                "hold person"
+            ]
+        }
+    },
     "alignment": "LN",
     "size": "Medium",
     "type": "humanoid"

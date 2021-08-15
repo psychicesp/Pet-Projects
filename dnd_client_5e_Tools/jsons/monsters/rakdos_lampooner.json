@@ -29,6 +29,25 @@
     "CR": "2 (450 XP)",
     "page": 248,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "spellcasting": {
+            "level": 4,
+            "type": "bard",
+            "spells": [
+                "dancing lights",
+                "minor illusion",
+                "vicious mockery",
+                "bane",
+                "dissonant whispers",
+                "silent image",
+                "Tasha's hideous laughter",
+                "thunderwave",
+                "crown of madness",
+                "enthrall",
+                "suggestion"
+            ]
+        }
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

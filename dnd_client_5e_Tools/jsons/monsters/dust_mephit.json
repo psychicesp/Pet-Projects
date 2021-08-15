@@ -37,6 +37,15 @@
     "CR": "1/2 (100 XP)",
     "page": 215,
     "book": "Monster Manual",
+    "traits": {
+        "Death Burst": "When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10+1d4 + 8 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "sleep"
+            ]
+        }
+    },
     "alignment": "NE",
     "size": "Small",
     "type": "elemental"

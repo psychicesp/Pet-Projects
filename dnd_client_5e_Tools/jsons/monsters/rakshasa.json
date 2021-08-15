@@ -32,6 +32,27 @@
     "CR": "13 (10,000 XP)",
     "page": 257,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect thoughts",
+                "disguise self",
+                "mage hand",
+                "minor illusion",
+                "charm person",
+                "detect magic",
+                "invisibility",
+                "major image",
+                "suggestion",
+                "dominate person",
+                "fly",
+                "plane shift",
+                "true seeing"
+            ]
+        },
+        "Limited Magic Immunity": "The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "fiend"

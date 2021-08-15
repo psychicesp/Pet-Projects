@@ -28,6 +28,10 @@
     "CR": "9 (5,000 XP)",
     "page": 109,
     "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "traits": {
+        "False Appearance": "While the tree remains motionless, it is indistinguishable from a normal tree.",
+        "Siege Monster": "The tree deals double damage to objects and structures."
+    },
     "alignment": "CG",
     "size": "Huge",
     "type": "undead"

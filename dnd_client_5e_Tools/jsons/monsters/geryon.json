@@ -48,6 +48,27 @@
     "CR": "22 (41,000 XP)",
     "page": 173,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "alter self",
+                "detect magic",
+                "geas",
+                "ice storm",
+                "invisibility",
+                "locate object",
+                "suggestion",
+                "wall of ice",
+                "divine word",
+                "symbol"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Geryon fails a saving throw, he can choose to succeed instead.",
+        "Magic Resistance": "Geryon has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "Geryon\\'s weapon attacks are magical.",
+        "Regeneration": "Geryon regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Geryon dies only if he starts his turn with 0 hit points and doesn\\'t regenerate."
+    },
     "alignment": "LE",
     "size": "Huge",
     "type": "fiend"

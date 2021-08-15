@@ -29,6 +29,9 @@
     "CR": "1/4 (50 XP)",
     "page": 155,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Rampage": "When the witherling reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make a bite attack."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

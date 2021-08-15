@@ -27,6 +27,10 @@
     "CR": "5 (1,800 XP)",
     "page": 240,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Amphibious": "The crab can breathe air and water.",
+        "Shell Camouflage": "While the crab remains motionless with its eyestalks and pincers tucked close to its body, it resembles a natural formation or a pile of detritus. A creature within 30 feet of it can discern its true nature with a successful DC 15+1d6 + 12 Intelligence (Nature) check."
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "beast"

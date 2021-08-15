@@ -50,6 +50,10 @@
     "CR": "10 (5,900 XP)",
     "page": 169,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Invisibility Field": "The orthon can use a bonus action to become invisible. Any equipment the orthon wears or carries is also invisible as long as the equipment is on its person. This invisibility ends immediately after the orthon makes an attack roll or is hit by an attack.",
+        "Magic Resistance": "The orthon has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

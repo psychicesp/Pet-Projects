@@ -45,6 +45,10 @@
     "CR": "6 (2,300 XP)",
     "page": 220,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Insatiable Greed": "The eater of hope can sense the presence of gold within 1,000 feet of itself. It can determine which location has the greatest amount of gold and can sense the direction to that site. If the gold is being moved, it knows the direction of the movement. It can't locate gold if any thickness of clay or lead, even a thin sheet, blocks a direct path between it and the gold.",
+        "Magic Resistance": "The eater of hope has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

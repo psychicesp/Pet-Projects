@@ -33,6 +33,10 @@
     "CR": "4 (1,100 XP)",
     "page": 246,
     "book": "Monster Manual",
+    "traits": {
+        "Aggressive": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+        "Gruumsh\\'s Fury": "The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks)."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

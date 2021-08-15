@@ -25,6 +25,10 @@
     "CR": "1/4 (50 XP)",
     "page": 323,
     "book": "Monster Manual",
+    "traits": {
+        "Echolocation": "The bat can\\'t use its blindsight while deafened.",
+        "Keen Hearing": "The bat has advantage on Wisdom (Perception) checks that rely on hearing."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

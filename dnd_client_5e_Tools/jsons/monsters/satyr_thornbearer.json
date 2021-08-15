@@ -30,6 +30,10 @@
     "CR": "2 (450 XP)",
     "page": 243,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Magic Resistance": "The satyr has advantage on saving throws against spells and other magical effects.",
+        "Sleepless Reveler": "Magic can't put the satyr to sleep."
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "fey"

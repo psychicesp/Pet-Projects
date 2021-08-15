@@ -32,6 +32,24 @@
     "CR": "2 (450 XP)",
     "page": 133,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "color spray",
+                "dancing lights",
+                "mage hand",
+                "major image",
+                "minor illusion",
+                "mirror image",
+                "suggestion"
+            ]
+        },
+        "Limited Telepathy": "Using telepathy, the dragon can magically communicate with any other faerie dragon within 60 feet of it.",
+        "Magic Resistance": "The faerie dragon has advantage on saving throws against spells and other magical effects.",
+        "Superior Invisibility": "As a bonus action, the dragon can magically turn invisible until its concentration ends (as if concentrating on a spell). Any equipment the dragon wears or carries is invisible with it.",
+        "The Colors of Age": "A faerie dragon\\'s scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature."
+    },
     "alignment": "CG",
     "size": "Tiny",
     "type": "dragon"

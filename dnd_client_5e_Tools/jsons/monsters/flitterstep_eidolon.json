@@ -37,6 +37,12 @@
     "CR": "3 (700 XP)",
     "page": 222,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Blurred Form": "Attack rolls against the eidolon are made with disadvantage unless the eidolon is incapacitated.",
+        "Evasion": "If the eidolon is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the eidolon instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can\\'t use this trait if it\\'s incapacitated.",
+        "Incorporeal Movement": "The eidolon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+        "Turn Resistance": "The eidolon has advantage on saving throws against any effect that turns undead."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "undead"

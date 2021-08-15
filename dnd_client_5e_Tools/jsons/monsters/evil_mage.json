@@ -36,6 +36,21 @@
     "CR": "1 (200 XP)",
     "page": 57,
     "book": "Lost Mine of Phandelver",
+    "traits": {
+        "spellcasting": {
+            "level": 4,
+            "type": "spells from the wizard\\'s spell list:",
+            "spells": [
+                "light",
+                "mage hand",
+                "shocking grasp",
+                "charm person",
+                "magic missile",
+                "hold person",
+                "misty step"
+            ]
+        }
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

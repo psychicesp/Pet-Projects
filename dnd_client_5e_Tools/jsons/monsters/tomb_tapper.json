@@ -37,6 +37,12 @@
     "CR": "10 (5,900 XP)",
     "page": 310,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Petrified Death": "A tomb tapper reduced to 0 hit points turns into a lifeless stone statue. Anything it's wearing or carrying is not transformed.",
+        "Sense Magic": "The tomb tapper senses magic within 30 feet of it and can use an action to pinpoint the location of any creature, object, or area in that range that bears magic. This sense penetrates barriers but is blocked by a thin sheet of lead.",
+        "Tunneler": "The tomb tapper can burrow through solid rock at half its burrowing speed and leaves a 10-foot-wide, 20-foot-tall tunnel in its wake.",
+        "Unusual Nature": "The tomb tapper doesn't require air or sleep."
+    },
     "alignment": "LN",
     "size": "Huge",
     "type": "construct"

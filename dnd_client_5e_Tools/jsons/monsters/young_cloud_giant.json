@@ -28,6 +28,23 @@
     "CR": "5 (1,800 XP)",
     "page": 112,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect magic",
+                "fog cloud",
+                "light",
+                "feather fall",
+                "fly",
+                "misty step",
+                "telekinesis",
+                "control weather",
+                "gaseous form"
+            ]
+        },
+        "Keen Smell": "The giant has advantage on Wisdom (Perception) checks that rely on smell."
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "giant"

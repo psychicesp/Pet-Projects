@@ -44,6 +44,11 @@
     "CR": "13 (10,000 XP)",
     "page": 167,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Diabolical Sense": "The narzugon has advantage on Wisdom (Perception) checks made to perceive good-aligned creatures.",
+        "Infernal Tack": "The narzugon wears spurs that are part of infernal tack, which allow it to summon its nightmare companion.",
+        "Magic Resistance": "The narzugon has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "fiend"

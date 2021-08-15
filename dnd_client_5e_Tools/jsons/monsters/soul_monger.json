@@ -39,6 +39,25 @@
     "CR": "11 (7,200 XP)",
     "page": 226,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Fey Ancestry": "The soul monger has advantage on saving throws against being charmed, and magic can\\'t put it to sleep.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "chill touch",
+                "poison spray",
+                "bestow curse",
+                "chain lightning",
+                "finger of death",
+                "gaseous form",
+                "phantasmal killer",
+                "seeming"
+            ]
+        },
+        "Magic Resistance": "The soul monger has advantage on saving throws against spells and other magical effects.",
+        "Soul Thirst": "When the soul monger reduces a creature to 0 hit points, the soul monger can gain temporary hit points equal to half the creature's hit point maximum. While the soul monger has temporary hit points from this ability, it has advantage on attack rolls.",
+        "Weight of Ages": "Any beast or humanoid, other than a shadar-kai, that starts its turn within 5 feet of the soul monger has its speed reduced by 20 feet until the start of that creature's next turn."
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "humanoid"

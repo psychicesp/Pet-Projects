@@ -28,6 +28,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 165,
     "book": "Curse of Strahd",
+    "traits": {
+        "Snake-Swollen": "When a corpse is reduced to 0 hit points, it splits open, disgorging a swarm of poisonous snakes. The snakes are hungry and fight until slain."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

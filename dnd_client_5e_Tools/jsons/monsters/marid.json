@@ -33,6 +33,28 @@
     "CR": "11 (7,200 XP)",
     "page": 146,
     "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The marid can breathe air and water.",
+        "Elemental Demise": "If the marid dies, its body disintegrates into a burst of water and foam, leaving behind only equipment the marid was wearing or carrying.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "create or destroy water",
+                "detect evil and good",
+                "detect magic",
+                "fog cloud",
+                "purify food and drink",
+                "tongues",
+                "water breathing",
+                "water walk",
+                "conjure elemental",
+                "control water",
+                "gaseous form",
+                "invisibility",
+                "plane shift"
+            ]
+        }
+    },
     "alignment": "CN",
     "size": "Large",
     "type": "elemental"

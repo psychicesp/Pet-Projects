@@ -34,6 +34,19 @@
     "CR": "1/8 (25 XP)",
     "page": 196,
     "book": "Out of the Abyss",
+    "traits": {
+        "Dark Devotion": "The cultist has advantage on saving throws against being charmed or frightened.",
+        "Fey Ancestry": "The drow cultist has advantage on saving throws against being charmed, and magic can't put the drow cultist to sleep.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights",
+                "darkness",
+                "faerie fire"
+            ]
+        },
+        "Sunlight Sensitivity": "While in sunlight, the drow cultist has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "ANA",
     "size": "Medium",
     "type": "humanoid"

@@ -48,6 +48,20 @@
     "CR": "10 (5,900 XP)",
     "page": 65,
     "book": "Monster Manual",
+    "traits": {
+        "Shapechanger": "The yochlol can use its action to polymorph into a form that resembles a female drow or giant spider, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect thoughts",
+                "web",
+                "dominate person"
+            ]
+        },
+        "Magic Resistance": "The yochlol has advantage on saving throws against spells and other magical effects.",
+        "Spider Climb": "The yochlol can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+        "Web Walker": "The yochlol ignores movement restrictions caused by webbing."
+    },
     "alignment": "S",
     "size": "Medium",
     "type": "fiend"

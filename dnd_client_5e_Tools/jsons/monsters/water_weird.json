@@ -34,6 +34,10 @@
     "CR": "3 (700 XP)",
     "page": 299,
     "book": "Monster Manual",
+    "traits": {
+        "Invisible in Water": "The water weird is invisible while fully immersed in water.",
+        "Water Bound": "The water weird dies if it leaves the water to which it is bound or if that water is destroyed."
+    },
     "alignment": "N",
     "size": "Large",
     "type": "elemental"

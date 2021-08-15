@@ -22,6 +22,9 @@
     "CR": "6 (2,300 XP)",
     "page": 45,
     "book": "Monster Manual",
+    "traits": {
+        "Poor Depth Perception": "The cyclops has disadvantage on any attack roll against a target more than 30 feet away."
+    },
     "alignment": "CN",
     "size": "Huge",
     "type": "giant"

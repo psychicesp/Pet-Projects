@@ -32,6 +32,12 @@
     "CR": "18 (20,000 XP)",
     "page": 219,
     "book": "Waterdeep: Dragon Heist",
+    "traits": {
+        "Crumbling Colossus": "When the statue drops to 0 hit points, it crumbles and is destroyed. Any creature on the ground within 30 feet of the crumbling statue must make a DC 22+1d12 + 16 Dexterity saving throw, taking 22 (4d10) bludgeoning damage on a failed save, or half as much damage on a successful one.",
+        "Immutable Form": "The statue is immune to any spell or effect that would alter its form.",
+        "Magic Resistance": "The statue has advantage on saving throws against spells and other magical effects.",
+        "Siege Monster": "The statue deals double damage to objects and structures."
+    },
     "alignment": "U",
     "size": "Gargantuan",
     "type": "construct"

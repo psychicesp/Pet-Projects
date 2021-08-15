@@ -37,6 +37,26 @@
     "CR": "11 (7,200 XP)",
     "page": 146,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "level": 5,
+            "type": "bard",
+            "spells": [
+                "minor illusion",
+                "prestidigitation",
+                "vicious mockery",
+                "cure wounds",
+                "disguise self",
+                "silent image",
+                "Tasha's hideous laughter",
+                "invisibility",
+                "suggestion",
+                "major image",
+                "tongues"
+            ]
+        },
+        "Keen Smell": "The giant has advantage on Wisdom (Perception) checks that rely on smell."
+    },
     "alignment": "CN",
     "size": "Huge",
     "type": "giant"

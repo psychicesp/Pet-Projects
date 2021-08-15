@@ -31,6 +31,9 @@
     "CR": "11 (7,200 XP)",
     "page": 260,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Sight": "The roc has advantage on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "U",
     "size": "Gargantuan",
     "type": "monstrosity"

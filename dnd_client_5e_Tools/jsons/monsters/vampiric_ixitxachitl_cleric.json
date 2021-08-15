@@ -25,6 +25,22 @@
     "CR": "2 (450 XP)",
     "page": 226,
     "book": "Out of the Abyss",
+    "traits": {
+        "spellcasting": {
+            "level": 5,
+            "type": "cleric",
+            "spells": [
+                "guidance",
+                "thaumaturgy",
+                "charm person",
+                "create or destroy water",
+                "hold person",
+                "silence",
+                "dispel magic",
+                "tongues"
+            ]
+        }
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "aberration"

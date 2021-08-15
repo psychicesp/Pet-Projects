@@ -46,6 +46,19 @@
     "CR": "5 (1,800 XP)",
     "page": 86,
     "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Fiendish Blessing": "The AC of Isolde includes her Charisma bonus.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "alter self",
+                "command",
+                "detect magic",
+                "plane shift"
+            ]
+        },
+        "Magic Resistance Aura": "While holding Nepenthe, Isolde creates an aura in a 10-foot radius around her. While this aura is active, Isolde and all creatures friendly to her in the aura have advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "AEA",
     "size": "Medium",
     "type": "fey"

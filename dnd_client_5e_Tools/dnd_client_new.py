@@ -153,17 +153,17 @@ try:
         try:
             if "Legendary Resistance" in trait:
                 meal['traits']['legendary_resistance'] = int(trait_name.split("/Day")[0].split('(')[-1])
-        except:
-            pass
-        try:
-            if "Spellcasting" in trait_name:
+            elif "Spellcasting" in trait_name:
                 spellcasting_dict = {}
                 if 'innately' in trait.p.text:
                     spellcasting_dict['type']= "innate"
-                    pass
                 else:
                     spellcasting_dict['level']= int(trait.p.text.split('th-level')[0].split(' ')[-1])
                     spellcasting_dict['type'] = trait.p.text.split('the following ')[-1].split(' spells')[0]
+                spellcasting_dict['spells'] = [x.text.replace('\n', '').replace('\\', '') for x in trait.find_all('a', {'data-vet-page':"spells.html"})]
+                meal['traits']['spellcasting'] = spellcasting_dict
+            else:
+                meal[trait_name.replace('.','')] = trait.p.text
         except:
             pass
 except:

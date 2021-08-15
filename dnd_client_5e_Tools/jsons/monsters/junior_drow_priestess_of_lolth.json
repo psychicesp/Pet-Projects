@@ -35,6 +35,27 @@
     "CR": "2 (450 XP)",
     "page": 149,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Divine Eminence": "As a bonus action, the priestess can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priestess expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.",
+        "Fey Ancestry": "The junior drow priestess of lolth has advantage on saving throws against being charmed, and magic can't put the junior drow priestess of lolth to sleep.",
+        "spellcasting": {
+            "level": 5,
+            "type": "cleric",
+            "spells": [
+                "light",
+                "sacred flame",
+                "thaumaturgy",
+                "cure wounds",
+                "guiding bolt",
+                "sanctuary",
+                "lesser restoration",
+                "spiritual weapon",
+                "dispel magic",
+                "spirit guardians"
+            ]
+        },
+        "Sunlight Sensitivity": "While in sunlight, the junior drow priestess of lolth has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

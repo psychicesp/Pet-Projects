@@ -29,6 +29,9 @@
     "CR": "9 (5,000 XP)",
     "page": 244,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Rancid Degeneration": "At the end of each of the troll's turns, each creature within 5 feet of it takes 11 (2d10) necrotic damage, unless the troll has taken acid or fire damage since the end of its last turn."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "giant"

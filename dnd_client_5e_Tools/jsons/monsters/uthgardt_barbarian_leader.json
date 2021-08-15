@@ -26,6 +26,9 @@
     "CR": "2 (450 XP)",
     "page": 86,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Reckless": "At the start of its turn, the barbarian can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "humanoid"

@@ -22,6 +22,9 @@
     "CR": "1/2 (100 XP)",
     "page": 340,
     "book": "Monster Manual",
+    "traits": {
+        "Trampling Charge": "If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14+1d4 + 12 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

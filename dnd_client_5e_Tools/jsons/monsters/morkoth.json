@@ -41,6 +41,35 @@
     "CR": "11 (7,200 XP) or 12 (8,400 XP) when encountered in lair",
     "page": 177,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Amphibious": "The morkoth can breathe air and water.",
+        "spellcasting": {
+            "level": 11,
+            "type": "wizard",
+            "spells": [
+                "acid splash",
+                "mage hand",
+                "mending",
+                "ray of frost",
+                "shocking grasp",
+                "detect magic",
+                "identify",
+                "shield",
+                "witch bolt",
+                "darkness",
+                "detect thoughts",
+                "shatter",
+                "dispel magic",
+                "lightning bolt",
+                "sending",
+                "dimension door",
+                "Evard's black tentacles",
+                "geas",
+                "scrying",
+                "chain lightning"
+            ]
+        }
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "aberration"

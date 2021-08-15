@@ -30,6 +30,9 @@
     "CR": "1/8 (25 XP)",
     "page": 345,
     "book": "Monster Manual",
+    "traits": {
+        "Dark Devotion": "The cultist has advantage on saving throws against being charmed or frightened."
+    },
     "alignment": "ANA",
     "size": "Medium",
     "type": "humanoid"

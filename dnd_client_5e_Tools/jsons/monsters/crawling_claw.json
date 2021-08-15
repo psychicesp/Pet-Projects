@@ -31,6 +31,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 44,
     "book": "Monster Manual",
+    "traits": {
+        "Turn Immunity": "The claw is immune to effects that turn undead."
+    },
     "alignment": "NE",
     "size": "Tiny",
     "type": "undead"

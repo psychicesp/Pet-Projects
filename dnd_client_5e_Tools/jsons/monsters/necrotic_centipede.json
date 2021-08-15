@@ -28,6 +28,9 @@
     "CR": "11 (7,200 XP)",
     "page": 119,
     "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "traits": {
+        "Necrotic Body": "A creature that touches the centipede or hits it with a melee attack while within 5 feet of it takes 10 (3d6) necrotic damage."
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "monstrosity"

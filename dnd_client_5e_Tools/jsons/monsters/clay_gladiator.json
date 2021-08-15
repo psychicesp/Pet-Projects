@@ -38,6 +38,11 @@
     "CR": "5 (1,800 XP)",
     "page": 100,
     "book": "Tomb of Annihilation",
+    "traits": {
+        "Brute": "A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).",
+        "Climbing": "The gladiator can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+        "Steadfast": "The gladiator can\\'t be disarmed, and cannot make ranged attacks."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

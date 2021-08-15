@@ -34,6 +34,19 @@
     "CR": "4 (1,100 XP)",
     "page": 242,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Empowered Spell (3/Day)": "When the blastseeker rolls damage for a spell, it can reroll up to four dice of damage. It must use the new dice.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "scorching ray",
+                "shield",
+                "thunderwave",
+                "fireball"
+            ]
+        },
+        "Tides of Chaos (1/Day)": "The blastseeker makes one attack roll, ability check, or saving throw with advantage."
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "humanoid"

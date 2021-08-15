@@ -29,6 +29,9 @@
     "CR": "1/8 (25 XP)",
     "page": 187,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Amphibious": "The merfolk can breathe air and water."
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "humanoid"

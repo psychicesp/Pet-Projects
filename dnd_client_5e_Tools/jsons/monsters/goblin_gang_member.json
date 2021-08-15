@@ -30,6 +30,9 @@
     "CR": "1/4 (50 XP)",
     "page": 167,
     "book": "Krenko\\xe2\\x80\\x99s Way",
+    "traits": {
+        "Nimble Escape": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns."
+    },
     "alignment": "NE",
     "size": "Small",
     "type": "humanoid"

@@ -33,6 +33,9 @@
     "CR": "2 (450 XP)",
     "page": 140,
     "book": "Monster Manual",
+    "traits": {
+        "False Appearance": "While the gargoyle remains motionless, it is indistinguishable from an inanimate statue."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "elemental"

@@ -35,6 +35,19 @@
     "CR": "1/2 (100 XP)",
     "page": 191,
     "book": "Out of the Abyss",
+    "traits": {
+        "Fey Ancestry": "The drow scout has advantage on saving throws against being charmed, and magic can\\'t put the drow scout to sleep.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights",
+                "darkness",
+                "faerie fire"
+            ]
+        },
+        "Keen Hearing and Sight": "The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
+        "Sunlight Sensitivity": "While in sunlight, the drow scout has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

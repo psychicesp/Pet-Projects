@@ -22,6 +22,9 @@
     "CR": "1/4 (50 XP)",
     "page": 207,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Charge": "If the cow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

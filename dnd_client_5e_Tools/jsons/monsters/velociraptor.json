@@ -25,6 +25,9 @@
     "CR": "1/4 (50 XP)",
     "page": 140,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Pack Tactics": "The velociraptor has advantage on an attack roll against a creature if at least one of the velociraptor's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

@@ -23,6 +23,15 @@
     "CR": "1/4 (50 XP)",
     "page": 208,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Charge": "If the roth\\xc3\\xa9 moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights"
+            ]
+        }
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

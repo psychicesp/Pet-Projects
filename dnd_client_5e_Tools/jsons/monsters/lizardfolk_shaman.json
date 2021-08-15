@@ -32,6 +32,24 @@
     "CR": "2 (450 XP)",
     "page": 205,
     "book": "Monster Manual",
+    "traits": {
+        "Hold Breath": "The lizardfolk can hold its breath for 15 minutes.",
+        "spellcasting": {
+            "level": 5,
+            "type": "druid",
+            "spells": [
+                "druidcraft",
+                "produce flame",
+                "thorn whip",
+                "entangle",
+                "fog cloud",
+                "heat metal",
+                "spike growth",
+                "conjure animals",
+                "plant growth"
+            ]
+        }
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "humanoid"

@@ -26,6 +26,11 @@
     "CR": "1 (200 XP)",
     "page": 123,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Aberrant Quickness (Recharges after a Short or Long Rest)": "The choker can take an extra action on its turn.",
+        "Boneless": "The choker can move through and occupy a space as narrow as 4 inches wide without squeezing.",
+        "Spider Climb": "The choker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
     "alignment": "CE",
     "size": "Small",
     "type": "aberration"

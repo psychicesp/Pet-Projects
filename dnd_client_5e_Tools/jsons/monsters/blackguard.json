@@ -34,6 +34,21 @@
     "CR": "8 (3,900 XP)",
     "page": 211,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "level": 10,
+            "type": "paladin",
+            "spells": [
+                "command",
+                "protection from evil and good",
+                "thunderous smite",
+                "branding smite",
+                "find steed",
+                "blinding smite",
+                "dispel magic"
+            ]
+        }
+    },
     "alignment": "ANA",
     "size": "Medium",
     "type": "humanoid"

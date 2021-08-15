@@ -45,6 +45,19 @@
     "CR": "5 (1,800 XP)",
     "page": 56,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "disguise self",
+                "invisibility",
+                "entangle",
+                "phantasmal force"
+            ]
+        },
+        "Reckless": "At the start of its turn, the barlgura can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.",
+        "Running Leap": "The barlgura\\'s long jump is up to 40 feet and its high jump is up to 20 feet when it has a running start."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

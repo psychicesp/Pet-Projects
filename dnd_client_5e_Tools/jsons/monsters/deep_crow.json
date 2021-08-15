@@ -33,6 +33,11 @@
     "CR": "9 (5,000 XP)",
     "page": 210,
     "book": "Acquisitions Incorporated",
+    "traits": {
+        "Magic Resistance": "The deep crow has advantage on saving throws against spells and other magical effects.",
+        "Shadow Stealth": "While in dim light or darkness, the deep crow can take the Hide action as a bonus action.",
+        "Sunlight Sensitivity": "While in sunlight, the deep crow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

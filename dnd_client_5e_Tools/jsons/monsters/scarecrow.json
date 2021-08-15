@@ -33,6 +33,9 @@
     "CR": "1 (200 XP)",
     "page": 268,
     "book": "Monster Manual",
+    "traits": {
+        "False Appearance": "While the scarecrow remains motionless, it is indistinguishable from an ordinary, inanimate scarecrow."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "construct"

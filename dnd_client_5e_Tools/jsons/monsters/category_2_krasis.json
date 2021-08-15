@@ -22,6 +22,9 @@
     "CR": "6 (2,300 XP)",
     "page": 211,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Amphibious": "The krasis can breathe air and water."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

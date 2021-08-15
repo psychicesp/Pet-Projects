@@ -29,6 +29,16 @@
     "CR": "1 (200 XP)",
     "page": 143,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Amphibious": "The firenewt can breathe air and water.",
+        "Imix's Blessing": "When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage armor"
+            ]
+        }
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

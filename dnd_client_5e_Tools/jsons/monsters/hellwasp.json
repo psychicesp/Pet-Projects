@@ -31,6 +31,9 @@
     "CR": "5 (1,800 XP)",
     "page": 236,
     "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "traits": {
+        "Magic Weapons": "The hellwasp\\'s weapon attacks are magical."
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

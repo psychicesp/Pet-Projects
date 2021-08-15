@@ -27,6 +27,9 @@
     "CR": "1/2 (100 XP)",
     "page": 131,
     "book": "Out of the Abyss",
+    "traits": {
+        "Pack Tactics": "The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn\\'t incapacitated."
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "humanoid"

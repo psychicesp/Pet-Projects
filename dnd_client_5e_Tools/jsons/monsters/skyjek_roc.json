@@ -29,6 +29,9 @@
     "CR": "2 (450 XP)",
     "page": 219,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Keen Sight": "The roc has advantage on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

@@ -24,6 +24,9 @@
     "CR": "4 (1,100 XP)",
     "page": 312,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Hold Breath": "The walrus can hold its breath for 30 minutes."
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "beast"

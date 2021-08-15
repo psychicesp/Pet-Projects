@@ -39,6 +39,10 @@
     "CR": "12 (8,400 XP)",
     "page": 121,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Rejuvenation": "While its master lives, a destroyed boneclaw gains a new body in 1d10 hours, with all its hit points. The new body appears within 1 mile of the boneclaw's master.",
+        "Shadow Stealth": "While in dim light or darkness, the boneclaw can take the Hide action as a bonus action."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "undead"

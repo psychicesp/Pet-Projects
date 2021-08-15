@@ -41,6 +41,41 @@
     "CR": "16 (15,000 XP)",
     "page": 255,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Amphibious": "Zegana can breathe air and water.",
+        "Legendary Resistance (3/Day)": "If Zegana fails a saving throw, she can choose to succeed instead.",
+        "Magic Resistance": "Zegana has advantage on saving throws against spells and other magical effects.",
+        "spellcasting": {
+            "level": 15,
+            "type": "wizard",
+            "spells": [
+                "acid splash",
+                "druidcraft",
+                "ray of frost",
+                "shape water",
+                "color spray",
+                "expeditious retreat",
+                "fog cloud",
+                "shield",
+                "enlarge/reduce",
+                "gust of wind",
+                "counterspell",
+                "fly",
+                "slow",
+                "control water",
+                "ice storm",
+                "polymorph",
+                "conjure elemental",
+                "creation",
+                "move earth",
+                "wall of ice",
+                "prismatic spray",
+                "teleport",
+                "control weather",
+                "dominate monster"
+            ]
+        }
+    },
     "alignment": "LN",
     "size": "Medium",
     "type": "humanoid"

@@ -28,6 +28,9 @@
     "CR": "1 (200 XP)",
     "page": 229,
     "book": "Tomb of Annihilation",
+    "traits": {
+        "Terror Dive": "If the pterafolk is flying and dives at least 30 feet straight toward a target, and then hits that target with a melee weapon attack, the target is frightened until the end of its next turn."
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "monstrosity"

@@ -29,6 +29,9 @@
     "CR": "1/2 (100 XP)",
     "page": 226,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Formation Tactics": "The soldier has advantage on saving throws against being charmed, frightened, grappled, or restrained while it is within 5 feet of at least one ally."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

@@ -29,6 +29,11 @@
     "CR": "2 (450 XP)",
     "page": 252,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Blood Frenzy": "The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+        "Magic Resistance": "The shark has advantage on saving throws against spells and other magical effects.",
+        "Water Breathing": "The shark can breathe only underwater."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "monstrosity"

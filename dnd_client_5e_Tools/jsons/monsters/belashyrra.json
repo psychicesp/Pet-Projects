@@ -40,6 +40,14 @@
     "CR": "22 (41,000 XP) or 23 (50,000 XP) when encountered in lair",
     "page": 286,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Alien Mind": "If a creature tries to read Belashyrra's thoughts or deals psychic damage to it, that creature must succeed on a DC 22+1d14 + 15 Intelligence saving throw or be stunned for 1 minute. The stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+        "Eye Thief": "Belashyrra can see through the eyes of all creatures within 120 feet of it. It can use its Eye Ray through any creature within 120 feet of it, as though it were in that creature\\'s space.",
+        "Legendary Resistance (3/Day)": "If Belashyrra fails a saving throw, it can choose to succeed instead.",
+        "Magic Resistance": "Belashyrra has advantage on saving throws against spells and other magical effects.",
+        "Regeneration": "Belashyrra regains 20 hit points at the start of its turn. If it takes radiant damage, this trait doesn't function at the start of its next turn. Belashyrra dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+        "Teleport": "As a bonus action, Belashyrra can teleport up to 30 feet to an unoccupied space it can see."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "aberration"

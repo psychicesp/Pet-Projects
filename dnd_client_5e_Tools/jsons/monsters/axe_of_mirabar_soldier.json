@@ -34,6 +34,9 @@
     "CR": "3 (700 XP)",
     "page": 98,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Dwarven Resilience": "The axe of mirabar soldier has advantage on saving throws against poison, and has resistance against poison damage."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

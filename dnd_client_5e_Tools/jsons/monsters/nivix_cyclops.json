@@ -33,6 +33,9 @@
     "CR": "8 (3,900 XP)",
     "page": 216,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Magic Resistance": "The cyclops has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "giant"

@@ -31,6 +31,22 @@
     "CR": "5 (1,800 XP)",
     "page": 215,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Amphibious": "The priest can breathe air and water.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "command",
+                "create or destroy water",
+                "control water",
+                "darkness",
+                "water breathing",
+                "water walk",
+                "call lightning",
+                "Evard's black tentacles"
+            ]
+        }
+    },
     "alignment": "AEA",
     "size": "Medium",
     "type": "humanoid"

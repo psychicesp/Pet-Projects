@@ -32,6 +32,11 @@
     "CR": "3 (700 XP)",
     "page": 340,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Hearing and Smell": "The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+        "Pack Tactics": "The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+        "Snow Camouflage": "The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain."
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "monstrosity"

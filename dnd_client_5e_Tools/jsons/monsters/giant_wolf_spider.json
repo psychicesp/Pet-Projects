@@ -30,6 +30,11 @@
     "CR": "1/4 (50 XP)",
     "page": 330,
     "book": "Monster Manual",
+    "traits": {
+        "Spider Climb": "The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+        "Web Sense": "While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.",
+        "Web Walker": "The spider ignores movement restrictions caused by webbing."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

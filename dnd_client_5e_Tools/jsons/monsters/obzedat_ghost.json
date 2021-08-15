@@ -42,6 +42,20 @@
     "CR": "8 (3,900 XP)",
     "page": 245,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Council of Five": "The ghost has a trait based on who it is, as shown below:",
+        "Ethereal Sight": "The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.",
+        "Incorporeal Movement": "The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "chill touch",
+                "sanctuary",
+                "spirit guardians"
+            ]
+        },
+        "Legendary Resistance (1/Day)": "If the ghost fails a saving throw, it can choose to succeed instead."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "undead"

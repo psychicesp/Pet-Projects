@@ -46,6 +46,20 @@
     "CR": "9 (5,000 XP)",
     "page": 314,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "darkness",
+                "detect magic",
+                "dispel magic",
+                "invisibility",
+                "mirror image"
+            ]
+        },
+        "Magic Resistance": "The nycaloth has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The nycaloth\\'s weapon attacks are magical."
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "fiend"

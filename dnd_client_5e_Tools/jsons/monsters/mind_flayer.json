@@ -42,6 +42,18 @@
     "CR": "7 (2,900 XP)",
     "page": 222,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect thoughts",
+                "levitate",
+                "dominate monster",
+                "plane shift"
+            ]
+        },
+        "Magic Resistance": "The mind flayer has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "aberration"

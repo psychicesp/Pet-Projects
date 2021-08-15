@@ -33,6 +33,14 @@
     "CR": "8 (3,900 XP)",
     "page": 290,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Shapechanger": "If the vampire isn't in sunlight, it can use its action to polymorph into a Large hyena or a Medium cloud of mist, or back into its true form.",
+        "Keen Smell": "The vampire has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Rampage": "When it reduces a creature to 0 hit points with a melee attack on its turn, the vampire can take a bonus action to move up to half its speed and make a bite attack.",
+        "Regeneration": "The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire\\'s next turn.",
+        "Unusual Nature": "The vampire doesn't require air.",
+        "Vampire Weaknesses": "The vampire has the following flaws:"
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

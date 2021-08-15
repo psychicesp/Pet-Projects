@@ -34,6 +34,10 @@
     "CR": "15 (13,000 XP)",
     "page": 225,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Reactive": "The giant can take one reaction on every turn in a combat.",
+        "Vigilant": "The giant can\\'t be surprised."
+    },
     "alignment": "LN",
     "size": "Huge",
     "type": "giant"

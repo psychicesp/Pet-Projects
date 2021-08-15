@@ -32,6 +32,10 @@
     "CR": "15 (13,000 XP)",
     "page": 205,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Spider Climb": "The horror can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+        "Sunlight Sensitivity": "While in sunlight, the horror has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "NE",
     "size": "Huge",
     "type": "aberration"

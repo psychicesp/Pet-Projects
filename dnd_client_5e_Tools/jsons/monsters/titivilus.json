@@ -51,6 +51,31 @@
     "CR": "16 (15,000 XP)",
     "page": 179,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "alter self",
+                "animate dead",
+                "bestow curse",
+                "confusion",
+                "major image",
+                "modify memory",
+                "nondetection",
+                "sending",
+                "suggestion",
+                "greater invisibility",
+                "mislead",
+                "feeblemind",
+                "symbol"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Titivilus fails a saving throw, he can choose to succeed instead.",
+        "Magic Resistance": "Titivilus has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "Titivilus\\'s weapon attacks are magical.",
+        "Regeneration": "Titivilus regains 10 hit points at the start of his turn. If he takes cold or radiant damage, this trait doesn't function at the start of his next turn. Titivilus dies only if he starts his turn with 0 hit points and doesn\\'t regenerate.",
+        "Ventriloquism": "Whenever Titivilus speaks, he can choose a point within 60 feet; his voice emanates from that point."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "fiend"

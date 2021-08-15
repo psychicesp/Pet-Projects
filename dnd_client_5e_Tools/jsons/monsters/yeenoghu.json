@@ -45,6 +45,22 @@
     "CR": "24 (62,000 XP)",
     "page": 155,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect magic",
+                "dispel magic",
+                "fear",
+                "invisibility",
+                "teleport"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Yeenoghu fails a saving throw, he can choose to succeed instead.",
+        "Magic Resistance": "Yeenoghu has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "Yeenoghu\\'s weapon attacks are magical.",
+        "Rampage": "When Yeenoghu reduces a creature to 0 hit points with a melee attack on his turn, Yeenoghu can take a bonus action to move up to half his speed and make a bite attack."
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "fiend"

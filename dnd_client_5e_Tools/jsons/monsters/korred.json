@@ -39,6 +39,21 @@
     "CR": "7 (2,900 XP)",
     "page": 168,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Command Hair": "The korred has at least one 50-foot-long rope woven out of its hair. As a bonus action, the korred commands one such rope within 30 feet of it to move up to 20 feet and entangle a Large or smaller creature that the korred can see. The target must succeed on a DC 13+1d6 + 10 Dexterity saving throw or become grappled by the rope (escape DC 13+1d6 + 10). Until this grapple ends. the target is restrained. The korred can use a bonus action to release the target, which is also freed if the korred dies or becomes incapacitated.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "commune with nature",
+                "meld into stone",
+                "stone shape",
+                "conjure elemental",
+                "Otto's irresistible dance"
+            ]
+        },
+        "Stone Camouflage": "The korred has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.",
+        "Stone's Strength": "While on the ground, the korred deals 2 extra dice of damage with any weapon attack (included in its attacks)."
+    },
     "alignment": "CN",
     "size": "Small",
     "type": "fey"

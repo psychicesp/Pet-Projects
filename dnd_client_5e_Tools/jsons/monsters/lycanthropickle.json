@@ -29,6 +29,9 @@
     "CR": "1/8 (25 XP)",
     "page": 11,
     "book": "The Lost Dungeon of Rickedness: Big Rick Energy",
+    "traits": {
+        "False Appearance": "While the lycanthropickle remains motionless, it is indistinguishable from a pickle."
+    },
     "alignment": "NE",
     "size": "Small",
     "type": "plant"

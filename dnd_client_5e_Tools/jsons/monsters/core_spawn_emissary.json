@@ -39,6 +39,9 @@
     "CR": "6 (2,300 XP)",
     "page": 286,
     "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Magic Resistance": "The emissary has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "aberration"

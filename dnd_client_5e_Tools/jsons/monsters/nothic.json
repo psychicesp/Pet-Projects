@@ -32,6 +32,9 @@
     "CR": "2 (450 XP)",
     "page": 236,
     "book": "Monster Manual",
+    "traits": {
+        "Keen Sight": "The nothic has advantage on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "aberration"

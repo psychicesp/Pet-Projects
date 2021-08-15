@@ -36,6 +36,28 @@
     "CR": "4 (1,100 XP)",
     "page": 43,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect evil and good",
+                "detect magic",
+                "detect thoughts",
+                "bless",
+                "create food and water",
+                "cure wounds",
+                "lesser restoration",
+                "protection from poison",
+                "sanctuary",
+                "shield",
+                "dream",
+                "greater restoration",
+                "scrying"
+            ]
+        },
+        "Magic Weapons": "The couatl\\'s weapon attacks are magical.",
+        "Shielded Mind": "The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location."
+    },
     "alignment": "LG",
     "size": "Medium",
     "type": "celestial"

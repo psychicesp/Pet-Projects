@@ -35,6 +35,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 313,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Invisibility": "The unseen servant is invisible."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

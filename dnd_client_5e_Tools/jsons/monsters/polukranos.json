@@ -30,6 +30,15 @@
     "CR": "19 (22,000 XP)",
     "page": 231,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Acidic Blood": "When Polukranos takes piercing or slashing damage, each creature within 5 feet of Polukranos takes 10 (3d6) acid damage.",
+        "Hold Breath": "Polukranos can hold its breath for 1 hour.",
+        "Legendary Resistance (3/Day)": "If Polukranos fails a saving throw, it can choose to succeed instead.",
+        "Multiple Heads": "Polukranos has five heads. While it has more than one head, Polukranos has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious. Whenever Polukranos takes 40 or more damage in a single turn, one of its heads dies. If all its heads die, Polukranos dies. At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken 40 or more fire damage since its last turn. Polukranos regains 20 hit points for each head regrown in this way.",
+        "Reactive Heads": "For each head Polukranos has beyond one, it gets an extra reaction that can be used only to make opportunity attacks.",
+        "Siege Monster": "Polukranos deals double damage to objects and structures.",
+        "Wakeful": "While Polukranos sleeps, at least one of its heads is awake."
+    },
     "alignment": "U",
     "size": "Gargantuan",
     "type": "monstrosity"

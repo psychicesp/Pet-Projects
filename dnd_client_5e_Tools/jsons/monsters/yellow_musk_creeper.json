@@ -27,6 +27,10 @@
     "CR": "2 (450 XP)",
     "page": 237,
     "book": "Tomb of Annihilation",
+    "traits": {
+        "False Appearance": "While the creeper remains motionless, it is indistinguishable from an ordinary flowering vine.",
+        "Regeneration": "The creeper regains 10 hit points at the start of its turn. If the creeper takes fire, necrotic, or radiant damage, this trait doesn't function at the start of its next turn. The creeper dies only if it starts its turn with 0 hit points and doesn't regenerate."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "plant"

@@ -30,6 +30,12 @@
     "CR": "3 (700 XP)",
     "page": 223,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Keen Smell": "The lion has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Pounce": "If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14+1d4 + 12 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.",
+        "Running Leap": "With a 10-foot running start, the lion can long jump up to 25 feet.",
+        "Spell Turning": "The lion has advantage on saving throws against any spell that targets only the lion (not an area). If the lion's saving throw succeeds and the spell is of 4th level or lower, the spell has no effect on the lion and instead targets the caster."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

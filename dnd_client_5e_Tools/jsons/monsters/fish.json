@@ -24,6 +24,9 @@
     "CR": "0 (0 or 10 XP)",
     "page": 224,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Water Breathing": "The fish can breathe only underwater."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

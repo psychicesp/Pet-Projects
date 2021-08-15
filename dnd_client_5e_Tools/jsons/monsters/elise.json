@@ -30,6 +30,12 @@
     "CR": "5 (1,800 XP)",
     "page": 143,
     "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Immutable Form": "Elise is immune to any spell or effect that would alter her form.",
+        "Lightning Absorption": "Whenever Elise is subjected to lightning damage, she takes no damage and instead regains a number of hit points equal to the lightning damage dealt.",
+        "Magic Resistance": "Elise has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "Elise\\'s weapon attacks are magical."
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "construct"

@@ -52,6 +52,23 @@
     "CR": "3 (700 XP)",
     "page": 250,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "charm person",
+                "darkness",
+                "detect magic",
+                "dispel magic",
+                "gust of wind",
+                "control water",
+                "control weather"
+            ]
+        },
+        "Magic Resistance": "The merrenoloth has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The merrenoloth\\'s weapon attacks are magical.",
+        "Teleport": "As a bonus action, the merrenoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "fiend"

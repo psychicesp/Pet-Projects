@@ -31,6 +31,9 @@
     "CR": "8 (3,900 XP)",
     "page": 201,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Vigilant": "The giant can\\'t be surprised."
+    },
     "alignment": "LN",
     "size": "Huge",
     "type": "giant"

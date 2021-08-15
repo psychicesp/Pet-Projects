@@ -39,6 +39,10 @@
     "CR": "5 (1,800 XP)",
     "page": 56,
     "book": "The Rise of Tiamat",
+    "traits": {
+        "Brave": "The half-dragon has advantage on saving throws against being frightened.",
+        "Brute": "A melee weapon deals one extra die of its damage when the half-dragon hits with it (included in the attack)."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

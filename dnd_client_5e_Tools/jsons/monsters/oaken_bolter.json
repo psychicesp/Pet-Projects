@@ -30,6 +30,9 @@
     "CR": "5 (1,800 XP)",
     "page": 126,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Magic Resistance": "The oaken bolter has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

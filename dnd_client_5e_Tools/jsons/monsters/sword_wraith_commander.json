@@ -36,6 +36,10 @@
     "CR": "8 (3,900 XP)",
     "page": 241,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Martial Fury": "As a bonus action, the sword wraith can make one weapon attack, which deals an extra 9 (2d8) necrotic damage on a hit. If it does so, attack rolls against it have advantage until the start of its next turn.",
+        "Turning Defiance": "The sword wraith and any other sword wraiths within 30 feet of it have advantage on saving throws against effects that turn undead."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "undead"

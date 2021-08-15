@@ -29,6 +29,9 @@
     "CR": "4 (1,100 XP)",
     "page": 209,
     "book": "Acquisitions Incorporated",
+    "traits": {
+        "Magic Resistance": "The chaos quadrapod has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "aberration"

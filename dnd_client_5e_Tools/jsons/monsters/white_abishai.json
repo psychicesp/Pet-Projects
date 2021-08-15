@@ -40,6 +40,12 @@
     "CR": "6 (2,300 XP)",
     "page": 163,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Devil\\'s Sight": "Magical darkness doesn\\'t impede the abishai\\'s darkvision.",
+        "Magic Resistance": "The abishai has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The abishai\\'s weapon attacks are magical.",
+        "Reckless": "At the start of its turn, the abishai can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "fiend"

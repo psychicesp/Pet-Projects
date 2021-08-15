@@ -44,6 +44,20 @@
     "CR": "13 (10,000 XP)",
     "page": 156,
     "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The giant can breathe air and water.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect magic",
+                "feather fall",
+                "levitate",
+                "light",
+                "control weather",
+                "water breathing"
+            ]
+        }
+    },
     "alignment": "CG",
     "size": "Huge",
     "type": "giant"

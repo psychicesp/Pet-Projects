@@ -32,6 +32,10 @@
     "CR": "1/2 (100 XP)",
     "page": 196,
     "book": "Princes of the Apocalypse",
+    "traits": {
+        "Unarmored Defense": "While the monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
+        "Unarmored Movement": "While the monk is wearing no armor and wielding no shield, its walking speed increases by 10 feet (included in its speed)."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

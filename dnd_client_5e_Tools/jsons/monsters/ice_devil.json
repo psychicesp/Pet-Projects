@@ -41,6 +41,10 @@
     "CR": "14 (11,500 XP)",
     "page": 75,
     "book": "Monster Manual",
+    "traits": {
+        "Devil\\'s Sight": "Magical darkness doesn\\'t impede the devil\\'s darkvision.",
+        "Magic Resistance": "The devil has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

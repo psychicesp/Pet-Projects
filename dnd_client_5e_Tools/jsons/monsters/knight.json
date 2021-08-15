@@ -27,6 +27,9 @@
     "CR": "3 (700 XP)",
     "page": 347,
     "book": "Monster Manual",
+    "traits": {
+        "Brave": "The knight has advantage on saving throws against being frightened."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

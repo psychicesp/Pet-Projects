@@ -48,6 +48,23 @@
     "CR": "28 (120,000 XP)",
     "page": 303,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Deadly Critical": "Rak Tulkhesh scores a critical hit on a roll of 19 or 20 and rolls the damage dice three times, instead of twice.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect thoughts",
+                "dispel magic",
+                "spirit guardians",
+                "banishing smite",
+                "blinding smite",
+                "staggering smite"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Rak Tulkhesh fails a saving throw, he can choose to succeed instead.",
+        "Magic Resistance": "Rak Tulkhesh has advantage on saving throws against spells and other magical effects.",
+        "Whirlwind of Weapons": "A magical aura of weapons surrounds Rak Tulkhesh in a 10 foot radius. At the start of each of his turns, any other creature in the aura takes 14 (4d6) force damage."
+    },
     "alignment": "NE",
     "size": "Huge",
     "type": "fiend"

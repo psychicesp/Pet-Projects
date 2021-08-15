@@ -41,6 +41,18 @@
     "CR": "5 (1,800 XP)",
     "page": 313,
     "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "darkness",
+                "dispel magic",
+                "cloudkill"
+            ]
+        },
+        "Magic Resistance": "The mezzoloth has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The mezzoloth\\'s weapon attacks are magical."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "fiend"

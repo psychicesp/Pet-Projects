@@ -33,6 +33,9 @@
     "CR": "2 (450 XP)",
     "page": 162,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Unarmored Defense": "While the hobgoblin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

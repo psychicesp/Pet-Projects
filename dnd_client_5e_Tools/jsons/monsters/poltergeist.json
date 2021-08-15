@@ -35,6 +35,11 @@
     "CR": "2 (450 XP)",
     "page": 279,
     "book": "Monster Manual",
+    "traits": {
+        "Incorporeal Movement": "The poltergeist can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
+        "Invisibility": "The poltergeist is invisible.",
+        "Sunlight Sensitivity": "While in sunlight, the poltergeist has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

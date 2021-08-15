@@ -24,6 +24,10 @@
     "CR": "1 (200 XP)",
     "page": 329,
     "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The toad can breathe air and water.",
+        "Standing Leap": "The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

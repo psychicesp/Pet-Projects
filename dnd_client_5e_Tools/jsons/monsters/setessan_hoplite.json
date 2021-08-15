@@ -32,6 +32,9 @@
     "CR": "4 (1,100 XP)",
     "page": 229,
     "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Pack Tactics": "The hoplite has advantage on an attack roll against a creature if at least one of the hoplite's allies is within 5 feet of the hoplite and the ally isn\\'t incapacitated."
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

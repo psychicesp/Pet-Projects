@@ -25,6 +25,9 @@
     "CR": "1 (200 XP)",
     "page": 143,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Fire Absorption": "Whenever the giant strider is subjected to fire damage, it takes no damage and regains a number of hit points equal to half the fire damage dealt."
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "monstrosity"

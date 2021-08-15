@@ -46,6 +46,29 @@
     "CR": "21 (33,000 XP)",
     "page": 175,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Infernal Despair": "Each creature within 15 feet of Hutijin that isn't a devil makes saving throws with disadvantage.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "alter self",
+                "animate dead",
+                "detect magic",
+                "hold monster",
+                "invisibility",
+                "lightning bolt",
+                "suggestion",
+                "wall of fire",
+                "dispel magic",
+                "heal",
+                "symbol"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If Hutijin fails a saving throw, he can choose to succeed instead.",
+        "Magic Resistance": "Hutijin has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "Hutijin\\'s weapon attacks are magical.",
+        "Regeneration": "Hutijin regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Hutijin dies only if he starts his turn with 0 hit points and doesn\\'t regenerate."
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

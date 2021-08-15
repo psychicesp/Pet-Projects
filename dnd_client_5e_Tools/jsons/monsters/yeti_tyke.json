@@ -27,6 +27,10 @@
     "CR": "1/8 (25 XP)",
     "page": 313,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Keen Smell": "The yeti has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Snow Camouflage": "The yeti has advantage on Dexterity (Stealth) checks made to hide in snowy terrain."
+    },
     "alignment": "CE",
     "size": "Small",
     "type": "monstrosity"

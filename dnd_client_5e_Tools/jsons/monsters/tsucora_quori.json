@@ -38,6 +38,15 @@
     "CR": "7 (2,900 XP)",
     "page": 307,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "charm person",
+                "fear"
+            ]
+        }
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "aberration"

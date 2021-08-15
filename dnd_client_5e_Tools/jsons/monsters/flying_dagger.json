@@ -33,6 +33,10 @@
     "CR": "1/4 (50 XP)",
     "page": 30,
     "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "traits": {
+        "Antimagic Susceptibility": "The dagger is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the dagger must succeed on a Constitution saving throw against the caster\\'s spell save DC or fall unconscious for 1 minute.",
+        "False Appearance": "While the dagger remains motionless and isn't flying, it is indistinguishable from a normal dagger."
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "construct"

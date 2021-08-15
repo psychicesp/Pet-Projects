@@ -28,6 +28,9 @@
     "CR": "1/2 (100 XP)",
     "page": 142,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Amphibious": "The firenewt can breathe air and water."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

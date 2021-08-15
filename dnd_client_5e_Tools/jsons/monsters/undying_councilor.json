@@ -45,6 +45,39 @@
     "CR": "10 (5,900 XP)",
     "page": 311,
     "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Aura of Radiance": "The councilor magically sheds bright light in a 15-foot radius and dim light for an additional 15 feet. The councilor can extinguish or restore this light as a bonus action. If the bright light overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created that darkness is dispelled.",
+        "Magic Resistance": "The councilor has advantage on saving throws against spells and other magical effects.",
+        "spellcasting": {
+            "level": 13,
+            "type": "cleric",
+            "spells": [
+                "guidance",
+                "mending",
+                "sacred flame",
+                "spare the dying",
+                "thaumaturgy",
+                "bless",
+                "command",
+                "create or destroy water",
+                "augury",
+                "calm emotions",
+                "hold person",
+                "daylight",
+                "dispel magic",
+                "spirit guardians",
+                "banishment",
+                "divination",
+                "guardian of faith",
+                "dispel evil and good",
+                "flame strike",
+                "scrying",
+                "forbiddance",
+                "planar ally",
+                "plane shift"
+            ]
+        }
+    },
     "alignment": "NG",
     "size": "Medium",
     "type": "undead"

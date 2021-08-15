@@ -29,6 +29,18 @@
     "CR": "1/8 (25 XP)",
     "page": 194,
     "book": "Out of the Abyss",
+    "traits": {
+        "Fey Ancestry": "The drow bandit has advantage on saving throws against being charmed, and magic can't put the drow bandit to sleep.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights",
+                "darkness",
+                "faerie fire"
+            ]
+        },
+        "Sunlight Sensitivity": "While in sunlight, the drow bandit has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "ANA",
     "size": "Medium",
     "type": "humanoid"

@@ -42,6 +42,29 @@
     "CR": "5 (1,800 XP)",
     "page": 288,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "spellcasting": {
+            "level": 9,
+            "type": "druid",
+            "spells": [
+                "druidcraft",
+                "guidance",
+                "resistance",
+                "animal friendship",
+                "fog cloud",
+                "speak with animals",
+                "animal messenger",
+                "moonbeam",
+                "pass without trace",
+                "conjure animals",
+                "sleet storm",
+                "wind wall",
+                "hallucinatory terrain",
+                "ice storm",
+                "awaken"
+            ]
+        }
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

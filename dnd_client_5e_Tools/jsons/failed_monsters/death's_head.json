@@ -25,5 +25,9 @@
     ],
     "CR": "1/2 (100 XP)",
     "page": 232,
-    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Beheaded Form": "When created, a death's head takes one of three forms: Aberrant Head, Gnashing Head, or Petrifying Head. This form determines the creature\\'s attack.",
+        "Unusual Nature": "The death's head doesn't require air, food, drink, or sleep."
+    }
 }

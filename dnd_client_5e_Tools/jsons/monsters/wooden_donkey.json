@@ -29,6 +29,10 @@
     "CR": "1/8 (25 XP)",
     "page": 84,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Beast of Burden": "The donkey is considered to be a Large animal for the purpose of determining its carrying capacity.",
+        "Sure-Footed": "The donkey has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

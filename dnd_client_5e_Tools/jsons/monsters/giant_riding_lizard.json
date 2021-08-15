@@ -24,6 +24,9 @@
     "CR": "1/4 (50 XP)",
     "page": 131,
     "book": "Out of the Abyss",
+    "traits": {
+        "Spider Climb": "The lizard can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

@@ -44,6 +44,17 @@
     "CR": "1/2 (100 XP)",
     "page": 195,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "fire bolt",
+                "Tasha's hideous laughter"
+            ]
+        },
+        "Last Laugh": "When the cackler dies, it releases a dying laugh that scars the minds of other nearby creatures. Each creature within 10 feet of the cackler must succeed on a DC 11+1d4 + 9 Wisdom saving throw or take 2 (1d4) psychic damage.",
+        "Mimicry": "The cackler can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 11+1d4 + 9 Wisdom (Insight) check."
+    },
     "alignment": "CE",
     "size": "Small",
     "type": "fiend"

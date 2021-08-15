@@ -26,6 +26,9 @@
     "CR": "11 (7,200 XP)",
     "page": 232,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Life Hunger": "If a creature the Hungry can see regains hit points, the Hungry gains two benefits until the end of its next turn: it has advantage on attack rolls, and its bite deals an extra 22 (4d10) necrotic damage on a hit."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "monstrosity"

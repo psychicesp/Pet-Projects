@@ -29,6 +29,26 @@
     "CR": "1 (200 XP)",
     "page": 248,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Sea Legs": "The deck wizard has advantage on ability checks and saving throws to resist being knocked prone.",
+        "spellcasting": {
+            "level": 4,
+            "type": "wizard",
+            "spells": [
+                "friends",
+                "mage hand",
+                "prestidigitation",
+                "ray of frost",
+                "disguise self",
+                "fog cloud",
+                "mage armor",
+                "witch bolt",
+                "gust of wind",
+                "Melf's acid arrow",
+                "misty step"
+            ]
+        }
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

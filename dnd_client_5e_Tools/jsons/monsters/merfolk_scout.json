@@ -35,6 +35,10 @@
     "CR": "1/2 (100 XP)",
     "page": 216,
     "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Amphibious": "The merfolk scout can breathe air and water.",
+        "Keen Hearing and Sight": "The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

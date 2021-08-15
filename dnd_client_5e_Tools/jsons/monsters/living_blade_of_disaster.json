@@ -31,6 +31,11 @@
     "CR": "8 (3,900 XP)",
     "page": 299,
     "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Magic Resistance": "The living spell has advantage on saving throws against spells and other magical effects.",
+        "Unfettered": "The living spell can move through any barrier, even a wall of magical force.",
+        "Unusual Nature": "The living spell doesn't require air, food, drink, or sleep."
+    },
     "alignment": "CE",
     "size": "Small",
     "type": "construct"

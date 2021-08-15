@@ -35,6 +35,9 @@
     "CR": "9 (5,000 XP)",
     "page": 223,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Burning Fury": "When the salamander takes fire damage, its Freezing Breath automatically recharges."
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "elemental"

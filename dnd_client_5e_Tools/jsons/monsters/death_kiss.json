@@ -37,6 +37,9 @@
     "CR": "10 (5,900 XP)",
     "page": 124,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Lightning Blood": "A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage."
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "aberration"

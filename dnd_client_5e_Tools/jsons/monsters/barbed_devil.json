@@ -48,6 +48,11 @@
     "CR": "5 (1,800 XP)",
     "page": 70,
     "book": "Monster Manual",
+    "traits": {
+        "Barbed Hide": "At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.",
+        "Devil\\'s Sight": "Magical darkness doesn't impede the devil's darkvision.",
+        "Magic Resistance": "The devil has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "fiend"

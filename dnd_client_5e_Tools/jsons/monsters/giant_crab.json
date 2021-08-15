@@ -28,6 +28,9 @@
     "CR": "1/8 (25 XP)",
     "page": 324,
     "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The crab can breathe air and water."
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

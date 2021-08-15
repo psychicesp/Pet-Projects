@@ -32,6 +32,10 @@
     "CR": "3 (700 XP)",
     "page": 203,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Fear Frenzy": "The horror has advantage on attack rolls against frightened creatures.",
+        "Sunlight Sensitivity": "While in sunlight, the horror has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight."
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "aberration"

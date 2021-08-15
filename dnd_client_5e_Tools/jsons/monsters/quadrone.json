@@ -27,6 +27,10 @@
     "CR": "1 (200 XP)",
     "page": 226,
     "book": "Monster Manual",
+    "traits": {
+        "Axiomatic Mind": "The quadrone can't be compelled to act in a manner contrary to its nature or its instructions.",
+        "Disintegration": "If the quadrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying."
+    },
     "alignment": "LN",
     "size": "Medium",
     "type": "construct"

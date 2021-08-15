@@ -42,6 +42,20 @@
     "CR": "12 (8,400 XP) or 14 (11,500 XP) when encountered in lair",
     "page": 299,
     "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Amphibious": "The sea fury can breathe air and water.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "witch bolt",
+                "bestow curse",
+                "fear",
+                "thunderwave"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If the sea fury fails a saving throw, it can choose to succeed instead.",
+        "Magic Resistance": "The sea fury has advantage on saving throws against spells and other magical effects."
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "fey"

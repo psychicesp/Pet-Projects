@@ -32,6 +32,10 @@
     "CR": "1/2 (100 XP)",
     "page": 225,
     "book": "Tomb of Annihilation",
+    "traits": {
+        "Camouflage": "The jaculi has advantage on Dexterity (Stealth) checks made to hide.",
+        "Keen Smell": "The jaculi has advantage on Wisdom (Perception) checks that rely on smell."
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

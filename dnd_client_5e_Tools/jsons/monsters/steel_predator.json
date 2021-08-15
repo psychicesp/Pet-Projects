@@ -41,6 +41,17 @@
     "CR": "16 (15,000 XP)",
     "page": 239,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dimension door",
+                "plane shift"
+            ]
+        },
+        "Magic Resistance": "The steel predator has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The steel predator\\'s weapon attacks are magical."
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "construct"

@@ -33,6 +33,10 @@
     "CR": "1/4 (50 XP)",
     "page": 152,
     "book": "Waterdeep: Dragon Heist",
+    "traits": {
+        "Antimagic Susceptibility": "The staff is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the staff must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+        "False Appearance": "While the staff remains motionless and isn't flying, it is indistinguishable from a normal staff."
+    },
     "alignment": "U",
     "size": "Small",
     "type": "construct"

@@ -34,6 +34,10 @@
     "CR": "8 (3,900 XP)",
     "page": 315,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Lightning Absorption": "Whenever the scaladar is subjected to lightning damage, it takes no damage, and its sting deals an extra 11 (2d10) lightning damage until the end of its next turn.",
+        "Scaladar Link": "The scaladar knows the location of other scaladar within 100 feet of it, and it can sense when any of them take damage."
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "construct"

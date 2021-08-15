@@ -37,5 +37,9 @@
     ],
     "CR": "8 (3,900 XP)",
     "page": 242,
-    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Legendary Resistance (1/Day)": "If the slasher fails a saving throw, it can choose to succeed instead.",
+        "Shrouded Presence": "The slasher is immune to any effect that would sense its emotions or read its thoughts, and it can't be detected by abilities that sense Fiends."
+    }
 }
