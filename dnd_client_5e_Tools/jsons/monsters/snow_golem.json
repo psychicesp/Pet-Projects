@@ -36,6 +36,11 @@
         "Melt": "While in an area of extreme heat, the golem loses 1d6 hit points at the start of each of its turns.",
         "Unusual Nature": "The golem doesn't require air, food, drink, or sleep."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

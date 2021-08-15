@@ -34,6 +34,11 @@
         "False Appearance": "While the terracotta warrior remains motionless, it is indistinguishable from a terracotta statue.",
         "Fragile": "If a critical hit is scored against the terracotta warrior, it shatters and is destroyed."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

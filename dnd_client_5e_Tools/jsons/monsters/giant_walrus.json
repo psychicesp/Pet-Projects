@@ -27,6 +27,11 @@
     "traits": {
         "Hold Breath": "The walrus can hold its breath for 30 minutes."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "beast"

@@ -40,6 +40,11 @@
     "traits": {
         "Lightning Blood": "A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "aberration"

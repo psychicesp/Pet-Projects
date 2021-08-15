@@ -42,6 +42,15 @@
         "Reflective Carapace": "Any time the tarrasque is targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.",
         "Siege Monster": "The tarrasque deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": "The tarrasque makes one claw attack or tail attack.",
+            "Move": "The tarrasque moves up to half its speed.",
+            "Chomp (Costs 2 Actions)": "The tarrasque makes one bite attack or uses its Swallow."
+        }
+    },
     "alignment": "U",
     "size": "Gargantuan",
     "type": "monstrosity"

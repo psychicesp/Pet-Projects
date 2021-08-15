@@ -29,6 +29,11 @@
     "traits": {
         "Keen Sight and Smell": "The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

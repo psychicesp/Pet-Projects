@@ -1,0 +1,64 @@
+{
+    "tags": [],
+    "hit": "10d8",
+    "strength": "9",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "17",
+    "wisdom": "13",
+    "charisma": "12",
+    "arcana": "+6",
+    "deception": "+4",
+    "perception": "+4",
+    "stealth": "+5",
+    "name": "Drow Mage",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 129,
+    "book": "Monster Manual",
+    "traits": {
+        "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
+        "spellcasting": {
+            "level": 10,
+            "type": "wizard",
+            "spells": [
+                "mage hand",
+                "minor illusion",
+                "poison spray",
+                "ray of frost",
+                "mage armor",
+                "magic missile",
+                "shield",
+                "witch bolt",
+                "alter self",
+                "misty step",
+                "web",
+                "fly",
+                "lightning bolt",
+                "Evard's black tentacles",
+                "greater invisibility",
+                "cloudkill"
+            ]
+        },
+        "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
+    "actions": {}
+}

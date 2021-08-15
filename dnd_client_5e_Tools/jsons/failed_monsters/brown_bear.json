@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "10",
+    "constitution": "16",
+    "intelligence": "2",
+    "wisdom": "13",
+    "charisma": "7",
+    "perception": "+3",
+    "name": "Brown Bear",
+    "AC": 11,
+    "speed": [
+        "40 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 319,
+    "book": "Monster Manual",
+    "traits": {
+        "Keen Smell": "The bear has advantage on Wisdom (Perception) checks that rely on smell."
+    },
+    "actions": {}
+}

@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "11",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "13",
+    "athletics": "+4",
+    "intimidation": "+3",
+    "name": "Pirate First Mate",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 248,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Sea Legs": "The first mate has advantage on ability checks and saving throws to resist being knocked prone."
+    },
+    "actions": {}
+}

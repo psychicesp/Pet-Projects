@@ -34,6 +34,11 @@
     "traits": {
         "Loathsome Limbs": "Whenever the zombie takes at least 5 bludgeoning or slashing damage at one time, roll a d20 to determine what else happens to it:"
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "undead"

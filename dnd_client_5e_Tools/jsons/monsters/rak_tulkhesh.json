@@ -65,6 +65,15 @@
         "Magic Resistance": "Rak Tulkhesh has advantage on saving throws against spells and other magical effects.",
         "Whirlwind of Weapons": "A magical aura of weapons surrounds Rak Tulkhesh in a 10 foot radius. At the start of each of his turns, any other creature in the aura takes 14 (4d6) force damage."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": "Rak Tulkhesh makes one weapon attack.",
+            "End Magic (Costs 2 Actions)": "Rak Tulkhesh casts dispel magic.",
+            "Provoke Rage (Costs 3 Actions)": "Each creature within 60 feet of Rak Tulkhesh must succeed on a DC 24+1d16 + 16 Wisdom saving throw or use its reaction to make a melee weapon attack against a random creature within reach. If no creatures are within reach, it makes a ranged weapon attack against a random creature within range, throwing its weapon if necessary. This attack is made with advantage and gains a +4 bonus to the damage roll."
+        }
+    },
     "alignment": "NE",
     "size": "Huge",
     "type": "fiend"

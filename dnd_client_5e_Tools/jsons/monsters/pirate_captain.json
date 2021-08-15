@@ -33,6 +33,11 @@
         "Flourish": "The captain adds its Charisma modifier to the damage roll for its longsword attacks (included in the attack).",
         "Sea Legs": "The captain has advantage on ability checks and saving throws to resist being knocked prone."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

@@ -51,6 +51,11 @@
         "Limited Amphibiousness": "The warlock can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.",
         "Shark Telepathy": "The warlock can magically command any shark within 120 feet of it, using a limited telepathy."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

@@ -39,6 +39,11 @@
     "traits": {
         "Necrotic Absorption": "Whenever the shambling mound is subjected to necrotic damage, it takes no damage and regains a number of hit points equal to the necrotic damage dealt."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "undead"

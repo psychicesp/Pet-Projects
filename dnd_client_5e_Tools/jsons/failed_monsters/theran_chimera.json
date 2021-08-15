@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "13",
+    "constitution": "19",
+    "intelligence": "3",
+    "wisdom": "14",
+    "charisma": "10",
+    "perception": "+5",
+    "name": "Theran Chimera",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "understands Draconic but can\\'t speak"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 216,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Spell Turning": "The chimera has advantage on a saving throw against any spell that targets only the chimera (not an area). If the chimera's saving throw is successful and the spell is of 4th level or lower, the spell has no effect on the chimera and instead targets the caster."
+    },
+    "actions": {}
+}

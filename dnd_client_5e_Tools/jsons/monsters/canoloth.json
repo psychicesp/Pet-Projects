@@ -49,6 +49,11 @@
         "Magic Weapons": "The canoloth's weapon attacks are magical.",
         "Uncanny Senses": "The canoloth can't be surprised while it isn't incapacitated."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "fiend"

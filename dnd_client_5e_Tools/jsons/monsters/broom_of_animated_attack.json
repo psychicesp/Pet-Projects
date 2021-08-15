@@ -36,6 +36,11 @@
         "Constructed Nature": "An animated object doesn't require air, food, drink, or sleep.",
         "False Appearance": "While the broom remains motionless and isn't flying, it is indistinguishable from a normal broom."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Small",
     "type": "construct"

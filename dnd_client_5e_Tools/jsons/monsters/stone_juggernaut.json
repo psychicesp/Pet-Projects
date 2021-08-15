@@ -36,6 +36,11 @@
         "Regeneration": "As long as it has 1 hit point left, the juggernaut magically regains all its hit points daily at dawn. The juggernaut is destroyed and doesn't regenerate if it drops to 0 hit points.",
         "Siege Monster": "The juggernaut deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "construct"

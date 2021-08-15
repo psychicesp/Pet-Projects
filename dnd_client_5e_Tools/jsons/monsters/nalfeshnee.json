@@ -45,6 +45,11 @@
     "traits": {
         "Magic Resistance": "The nalfeshnee has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

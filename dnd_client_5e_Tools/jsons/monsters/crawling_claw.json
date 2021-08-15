@@ -34,6 +34,11 @@
     "traits": {
         "Turn Immunity": "The claw is immune to effects that turn undead."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Tiny",
     "type": "undead"

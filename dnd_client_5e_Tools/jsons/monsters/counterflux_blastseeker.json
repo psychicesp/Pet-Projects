@@ -46,6 +46,11 @@
             ]
         }
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "humanoid"

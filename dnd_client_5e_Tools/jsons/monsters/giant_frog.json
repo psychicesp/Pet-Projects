@@ -34,6 +34,11 @@
         "Amphibious": "The frog can breathe air and water.",
         "Standing Leap": "The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

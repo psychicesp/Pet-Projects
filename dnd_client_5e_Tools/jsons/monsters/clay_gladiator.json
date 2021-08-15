@@ -43,6 +43,11 @@
         "Climbing": "The gladiator can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
         "Steadfast": "The gladiator can't be disarmed, and cannot make ranged attacks."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

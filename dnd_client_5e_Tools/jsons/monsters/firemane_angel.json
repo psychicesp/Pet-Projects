@@ -54,6 +54,11 @@
         "Magic Resistance": "The angel has advantage on saving throws against spells and other magical effects.",
         "Relentless (Recharges after a Short or Long Rest)": "If the angel takes 21 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CG",
     "size": "Medium",
     "type": "celestial"

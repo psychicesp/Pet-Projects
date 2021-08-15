@@ -49,6 +49,11 @@
         "Invisible in Fire": "The oread is invisible while fully immersed in fire.",
         "Magic Resistance": "The oread has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "fey"

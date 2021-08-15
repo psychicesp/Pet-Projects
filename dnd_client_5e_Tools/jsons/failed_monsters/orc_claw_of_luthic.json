@@ -1,0 +1,55 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "15",
+    "charisma": "11",
+    "intimidation": "+2",
+    "medicine": "+4",
+    "survival": "+4",
+    "name": "Orc Claw of Luthic",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "medicine": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Orc"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 183,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Aggressive": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+        "spellcasting": {
+            "level": 5,
+            "type": "cleric",
+            "spells": [
+                "guidance",
+                "mending",
+                "resistance",
+                "thaumaturgy",
+                "bane",
+                "cure wounds",
+                "guiding bolt",
+                "augury",
+                "warding bond",
+                "bestow curse",
+                "create food and water"
+            ]
+        }
+    },
+    "actions": {}
+}

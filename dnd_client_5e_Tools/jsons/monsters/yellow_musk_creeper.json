@@ -31,6 +31,11 @@
         "False Appearance": "While the creeper remains motionless, it is indistinguishable from an ordinary flowering vine.",
         "Regeneration": "The creeper regains 10 hit points at the start of its turn. If the creeper takes fire, necrotic, or radiant damage, this trait doesn't function at the start of its next turn. The creeper dies only if it starts its turn with 0 hit points and doesn't regenerate."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "plant"

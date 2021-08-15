@@ -1,0 +1,52 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "13",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "12",
+    "charisma": "18",
+    "deception": "+6",
+    "intimidation": "+6",
+    "name": "Lampad",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "intimidation": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common",
+        "Sylvan"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 235,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Corpse Stride": "Once on its turn, the lampad can use 10 feet of its movement to step magically into one creature's corpse within its reach and emerge from a second creature's corpse within 60 feet of the first corpse, appearing in an unoccupied space within 5 feet of the second corpse. Both corpses must be Medium or bigger.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "chill touch",
+                "gentle repose"
+            ]
+        },
+        "Magic Resistance": "The lampad has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {}
+}

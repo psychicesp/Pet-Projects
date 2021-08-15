@@ -43,6 +43,11 @@
         "Siege Monster": "The dragon deals double damage to objects and structures.",
         "Unusual Nature": "The dragon doesn't require air, food, drink, or sleep, and it gains no benefit from finishing a short or long rest."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "construct"

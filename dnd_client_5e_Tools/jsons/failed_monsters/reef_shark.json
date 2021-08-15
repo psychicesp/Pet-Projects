@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "13",
+    "constitution": "13",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "4",
+    "perception": "+2",
+    "name": "Reef Shark",
+    "AC": 12,
+    "speed": [
+        "0 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 336,
+    "book": "Monster Manual",
+    "traits": {
+        "Pack Tactics": "The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+        "Water Breathing": "The shark can breathe only underwater."
+    },
+    "actions": {}
+}

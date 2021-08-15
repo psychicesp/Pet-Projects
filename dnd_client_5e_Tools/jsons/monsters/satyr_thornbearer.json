@@ -34,6 +34,11 @@
         "Magic Resistance": "The satyr has advantage on saving throws against spells and other magical effects.",
         "Sleepless Reveler": "Magic can't put the satyr to sleep."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "fey"

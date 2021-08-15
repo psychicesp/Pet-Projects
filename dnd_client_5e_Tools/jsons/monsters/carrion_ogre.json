@@ -27,6 +27,11 @@
     "traits": {
         "Tied Down": "While lashed to the floor, the creature is prone and restrained. It also suffers from two levels of exhaustion."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "giant"

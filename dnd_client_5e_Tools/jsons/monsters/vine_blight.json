@@ -32,6 +32,11 @@
     "traits": {
         "False Appearance": "While the blight remains motionless, it is indistinguishable from a tangle of vines."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "plant"

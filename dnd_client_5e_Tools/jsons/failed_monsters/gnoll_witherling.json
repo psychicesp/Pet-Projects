@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "8",
+    "constitution": "12",
+    "intelligence": "5",
+    "wisdom": "5",
+    "charisma": "5",
+    "name": "Gnoll Witherling",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 7"
+    ],
+    "languages": [
+        "understands Gnoll but can't speak"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 155,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Rampage": "When the witherling reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make a bite attack."
+    },
+    "actions": {}
+}

@@ -38,6 +38,11 @@
         "Leviathan Will": "The hunter has advantage on saving throws against spells and effects that control its actions.",
         "Limited Amphibiousness": "The hunter can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "humanoid"

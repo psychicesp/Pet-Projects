@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "12",
+    "constitution": "20",
+    "intelligence": "12",
+    "wisdom": "10",
+    "charisma": "12",
+    "deception": "+5",
+    "perception": "+2",
+    "stealth": "+5",
+    "name": "Nergaliid",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Infernal"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 296,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Shadow Stealth": "While in dim light or darkness, the nergaliid can take the Hide action as a bonus action.",
+        "Standing Leap": "The nergaliid's long jump is up to 30 feet and its high jump is up to 20 feet, with or without a running start."
+    },
+    "actions": {}
+}

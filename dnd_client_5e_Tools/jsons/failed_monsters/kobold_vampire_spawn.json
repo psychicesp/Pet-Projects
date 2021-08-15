@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "18",
+    "constitution": "16",
+    "intelligence": "8",
+    "wisdom": "8",
+    "charisma": "8",
+    "perception": "+1",
+    "stealth": "+6",
+    "name": "Kobold Vampire Spawn",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "climb 20 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 297,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Pack Tactics": "The vampire has advantage on an attack roll against a creature if at least one of the vampire's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+        "Regeneration": "The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of its next turn.",
+        "Unusual Nature": "The vampire doesn't require air.",
+        "Vampire Weaknesses": "The vampire has the following flaws:"
+    },
+    "actions": {}
+}

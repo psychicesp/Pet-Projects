@@ -30,6 +30,11 @@
         "False Appearance": "While the blight remains motionless, it is indistinguishable from a dead tree.",
         "Siege Monster": "The blight deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Huge",
     "type": "plant"

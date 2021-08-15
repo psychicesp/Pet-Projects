@@ -1,0 +1,55 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "15",
+    "constitution": "22",
+    "intelligence": "15",
+    "wisdom": "16",
+    "charisma": "20",
+    "name": "Djinni",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "fly 90 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "lightning, thunder"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Auran"
+    ],
+    "CR": "11 (7,200 XP)",
+    "page": 144,
+    "book": "Monster Manual",
+    "traits": {
+        "Elemental Demise": "If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect evil and good",
+                "detect magic",
+                "thunderwave",
+                "create food and water",
+                "tongues",
+                "wind walk",
+                "conjure elemental",
+                "creation",
+                "gaseous form",
+                "invisibility",
+                "major image",
+                "plane shift"
+            ]
+        }
+    },
+    "actions": {}
+}

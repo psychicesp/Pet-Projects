@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "hit": "1d8",
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Distended Corpse",
+    "AC": 10,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 165,
+    "book": "Curse of Strahd",
+    "traits": {
+        "Snake-Swollen": "When a corpse is reduced to 0 hit points, it splits open, disgorging a swarm of poisonous snakes. The snakes are hungry and fight until slain."
+    },
+    "actions": {}
+}

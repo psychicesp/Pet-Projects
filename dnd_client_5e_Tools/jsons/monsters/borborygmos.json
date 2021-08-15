@@ -46,6 +46,15 @@
         "Poor Depth Perception": "Borborygmos has disadvantage on any attack roll against a target more than 30 feet away.",
         "Siege Monster": "Borborygmos deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": "Borborygmos makes a weapon attack.",
+            "Bellow (Costs 2 Actions)": "Borborygmos yells menacingly at one creature he can see within 60 feet of him. That creature must succeed on a DC 17+1d12 + 11 Wisdom saving throw or become frightened of him for 1 minute. If the creature is already frightened, it becomes stunned instead. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Borborygmos's Bellow for the next 24 hours.",
+            "Wide Berth (Costs 3 Actions)": "Borborygmos moves up to half his speed and can move through the space of any creature smaller than Huge. The first time Borborygmos enters a creature's space during this move, the creature must make a DC 21+1d12 + 15 Dexterity saving throw. If the saving throw succeeds, the creature is pushed 5 feet away from Borborygmos. If the saving throw fails, that creature is knocked prone, and Borborygmos can make a stomp attack against it."
+        }
+    },
     "alignment": "CN",
     "size": "Huge",
     "type": "giant"

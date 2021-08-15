@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "12",
+    "wisdom": "13",
+    "charisma": "9",
+    "perception": "+5",
+    "stealth": "+5",
+    "name": "Sahuagin Deep Diver",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Sahuagin"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 250,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Blood Frenzy": "The deep diver has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+        "Brine Lurker": "The deep diver has advantage on Dexterity (Stealth) checks made while submerged in water.",
+        "Limited Amphibiousness": "The deep diver can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.",
+        "Lure": "The deep diver can cause its lure to light up or darken at will. While the lure is lit, the deep diver sheds bright light in a 30-foot radius centered on itself and dim light for an additional 20 feet.",
+        "Shark Telepathy": "The deep diver can magically command any shark within 120 feet of it, using a limited telepathy."
+    },
+    "actions": {}
+}

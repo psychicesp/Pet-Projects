@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "hit": "3d8",
+    "strength": "10",
+    "dexterity": "5",
+    "constitution": "11",
+    "intelligence": "1",
+    "wisdom": "11",
+    "charisma": "3",
+    "name": "Lemure",
+    "AC": 7,
+    "speed": [
+        "15 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Infernal but can\\'t speak"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 76,
+    "book": "Monster Manual",
+    "traits": {
+        "Devil\\'s Sight": "Magical darkness doesn't impede the lemure's darkvision.",
+        "Hellish Rejuvenation": "A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water."
+    },
+    "actions": {}
+}

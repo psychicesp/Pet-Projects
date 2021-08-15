@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "13",
+    "constitution": "17",
+    "intelligence": "3",
+    "wisdom": "10",
+    "charisma": "4",
+    "name": "Young Remorhaz",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "burrow 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "cold, fire"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 258,
+    "book": "Monster Manual",
+    "traits": {
+        "Heated Body": "A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage."
+    },
+    "actions": {}
+}

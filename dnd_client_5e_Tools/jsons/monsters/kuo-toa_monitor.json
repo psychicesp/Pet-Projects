@@ -38,6 +38,11 @@
         "Sunlight Sensitivity": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
         "Unarmored Defense": "The kuo-toa adds its Wisdom modifier to its armor class."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

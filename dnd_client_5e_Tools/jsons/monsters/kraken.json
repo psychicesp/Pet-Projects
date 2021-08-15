@@ -48,6 +48,23 @@
         "Freedom of Movement": "The kraken ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled.",
         "Siege Monster": "The kraken deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Tentacle Attack or Fling": "The kraken makes one tentacle attack or uses its Fling.",
+            "Lightning Storm (Costs 2 Actions)": "The kraken uses Lightning Storm.",
+            "Ink Cloud (Costs 3 Actions)": "While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23+1d14 + 16 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "A strong current moves through the kraken's lair. Each creature within 60 feet of the kraken must succeed on a DC 23+1d14 + 16 Strength saving throw or be pushed up to 60 feet away from the kraken. On a success, the creature is pushed 10 feet away from the kraken.",
+            "Creatures in the water within 60 feet of the kraken have vulnerability to lightning damage until initiative count 20 on the next round.",
+            "The water in the kraken's lair becomes electrically charged. All creatures within 120 feet of the kraken must succeed on a DC 23+1d14 + 16 Constitution saving throw, taking 10 (3d6) lightning damage on a failed save, or half as much damage on a successful one."
+        ]
+    },
     "alignment": "CE",
     "size": "Gargantuan",
     "type": "monstrosity"

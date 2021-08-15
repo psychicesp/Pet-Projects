@@ -43,6 +43,11 @@
         "Tunneler": "The tomb tapper can burrow through solid rock at half its burrowing speed and leaves a 10-foot-wide, 20-foot-tall tunnel in its wake.",
         "Unusual Nature": "The tomb tapper doesn't require air or sleep."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LN",
     "size": "Huge",
     "type": "construct"

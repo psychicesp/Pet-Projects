@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "12",
+    "constitution": "15",
+    "intelligence": "6",
+    "wisdom": "7",
+    "charisma": "5",
+    "athletics": "+6",
+    "name": "The Lost",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing while in dim light or darkness"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 233,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "actions": {}
+}

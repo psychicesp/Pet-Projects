@@ -58,6 +58,11 @@
         "Legendary Resistance (3/Day)": "If the marut fails a saving throw, it can choose to succeed instead.",
         "Magic Resistance": "The marut has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LN",
     "size": "Large",
     "type": "construct"

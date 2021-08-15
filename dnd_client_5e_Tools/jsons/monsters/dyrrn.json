@@ -51,6 +51,23 @@
         "Regeneration": "Dyrrn regains 20 hit points at the start of its turn. If Dyrrn takes radiant damage, this trait doesn't function at the start of its next turn. Dyrrn dies only if it starts its turn with 0 hit points and doesn't regenerate.",
         "Teleport": "As a bonus action, Dyrrn can teleport up to 30 feet to an unoccupied space it can see."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Tentacle Whip": "Dyrrn makes one attack with its",
+            "Spawn Aberration (Costs 2 Actions)": "Dyrrn regurgitates an intellect devourer in an unoccupied space within 5 feet of it. The intellect devourer is under Dyrrn's control and acts immediately after Dyrrn in the initiative order.",
+            "Mind Blast (Costs 3 Actions)": "Dyrrn magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 23+1d14 + 16 Intelligence saving throw or take 30 (5d8 + 8) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Dyrrn uses its Corruption action.",
+            "A 30-foot-square area of ground within 120 feet of Dyrrn sprouts tentacles until initiative count 20 on the next round. Any creature that starts or ends its turn in the area must succeed on a DC 23+1d14 + 16 Strength saving throw or be restrained. A creature can escape the tentacles with a successful DC 23+1d14 + 16 Strength (Athletics) or Dexterity (Acrobatics) check as an action.",
+            "Each creature of Dyrrn's choice that it can see within 120 feet of it must succeed on a DC 23+1d14 + 16 Wisdom saving throw or take 26 (4d12) psychic damage. Unless the target has immunity to psychic damage, its Intelligence score is reduced by 1d4 each time it fails the saving throw for this lair action. The target dies if its Intelligence score is reduced to 0. The reduction lasts until the target finishes a short or long rest."
+        ]
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "aberration"

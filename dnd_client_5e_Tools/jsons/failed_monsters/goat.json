@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "hit": "1d8",
+    "strength": "12",
+    "dexterity": "10",
+    "constitution": "11",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Goat",
+    "AC": 10,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 330,
+    "book": "Monster Manual",
+    "traits": {
+        "Charge": "If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10+1d4 + 8 Strength saving throw or be knocked prone.",
+        "Sure-Footed": "The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
+    },
+    "actions": {}
+}

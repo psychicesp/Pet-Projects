@@ -31,6 +31,11 @@
         "Mushroom Portal": "The chamberlain counts as a mushroom for the Fungus Stride feature of the bridesmaid of Zuggtmoy.",
         "Poison Spores": "Whenever the chamberlain takes damage, it releases a cloud of spores. Creatures within 5 feet of the chamberlain when this happens must succeed on a DC 12+1d4 + 10 Constitution saving throw or be poisoned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on a success."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "plant"

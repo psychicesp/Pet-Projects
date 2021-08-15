@@ -29,6 +29,11 @@
     "traits": {
         "Hold Breath": "The crocodile can hold its breath for 15 minutes."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

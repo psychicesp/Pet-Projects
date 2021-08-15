@@ -35,6 +35,11 @@
     "CR": "3 (700 XP)",
     "page": 172,
     "book": "Monster Manual",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "aberration"

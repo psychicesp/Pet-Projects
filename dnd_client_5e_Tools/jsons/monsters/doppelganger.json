@@ -38,6 +38,11 @@
         "Ambusher": "In the first round of a combat, the doppelganger has advantage on attack rolls against any creature it surprised.",
         "Surprise Attack": "If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "monstrosity"

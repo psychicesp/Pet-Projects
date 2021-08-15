@@ -1,0 +1,51 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "10",
+    "constitution": "17",
+    "intelligence": "5",
+    "wisdom": "17",
+    "charisma": "12",
+    "investigation": "+3",
+    "perception": "+9",
+    "name": "Canoloth",
+    "AC": 16,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "investigation": "expert",
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "acid, poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "truesight 120 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "Abyssal",
+        "Infernal",
+        "telepathy 60 ft."
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 247,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Dimensional Lock": "Other creatures can't teleport to or from a space within 60 feet of the canoloth. Any attempt to do so is wasted.",
+        "Magic Resistance": "The canoloth has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The canoloth's weapon attacks are magical.",
+        "Uncanny Senses": "The canoloth can't be surprised while it isn't incapacitated."
+    },
+    "actions": {}
+}

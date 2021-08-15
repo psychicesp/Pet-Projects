@@ -29,6 +29,11 @@
     "traits": {
         "Keen Sight": "The falcon has advantage on Wisdom (Perception) checks that rely on sight."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

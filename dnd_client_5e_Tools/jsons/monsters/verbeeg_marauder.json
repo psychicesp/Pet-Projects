@@ -35,6 +35,11 @@
     "traits": {
         "Simple Weapon Wielder": "A simple weapon deals one extra die of its damage when the verbeeg hits with it (included in the attack)."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "giant"

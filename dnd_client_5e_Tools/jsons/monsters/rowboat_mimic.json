@@ -40,6 +40,11 @@
         "Adhesive (Object Form Only)": "The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13+1d4 + 11). Ability checks made to escape this grapple have disadvantage.",
         "False Appearance (Object Form Only)": "While the mimic remains motionless, it is indistinguishable from an ordinary object."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Large",
     "type": "monstrosity"

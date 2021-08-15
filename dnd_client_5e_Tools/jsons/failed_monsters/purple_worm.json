@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "28",
+    "dexterity": "7",
+    "constitution": "22",
+    "intelligence": "1",
+    "wisdom": "8",
+    "charisma": "4",
+    "name": "Purple Worm",
+    "AC": 18,
+    "speed": [
+        "50 ft",
+        "burrow 30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {},
+    "senses": [
+        "blindsight 30 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "15 (13,000 XP)",
+    "page": 255,
+    "book": "Monster Manual",
+    "traits": {
+        "Tunneler": "The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake."
+    },
+    "actions": {}
+}

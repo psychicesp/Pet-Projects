@@ -44,6 +44,15 @@
         "Legendary Resistance (3/Day)": "If the phoenix fails a saving throw, it can choose to succeed instead.",
         "Siege Monster": "The phoenix deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Peck": "The phoenix makes one beak attack.",
+            "Move": "The phoenix moves up to its speed.",
+            "Swoop (Costs 2 Actions)": "The phoenix moves up to its speed and attacks with its fiery talons."
+        }
+    },
     "alignment": "N",
     "size": "Gargantuan",
     "type": "elemental"

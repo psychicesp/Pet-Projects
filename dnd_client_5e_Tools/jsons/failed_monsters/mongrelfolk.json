@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "9",
+    "constitution": "15",
+    "intelligence": "9",
+    "wisdom": "10",
+    "charisma": "6",
+    "deception": "+2",
+    "perception": "+2",
+    "stealth": "+3",
+    "name": "Mongrelfolk",
+    "AC": 11,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 234,
+    "book": "Curse of Strahd",
+    "traits": {
+        "Extraordinary Feature": "The mongrelfolk has one of the following extraordinary features, determined randomly by rolling a d20 or chosen by the DM:",
+        "Mimicry": "The mongrelfolk can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 12+1d4 + 10 Wisdom (Insight) check."
+    },
+    "actions": {}
+}

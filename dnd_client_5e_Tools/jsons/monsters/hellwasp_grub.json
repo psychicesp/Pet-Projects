@@ -24,6 +24,11 @@
     "CR": "1/4 (50 XP)",
     "page": 95,
     "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Small",
     "type": "beast"

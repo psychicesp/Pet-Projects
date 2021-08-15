@@ -30,6 +30,11 @@
         "Death Scream": "When the bone whelk dies, it emits a blood-curdling shriek than can be heard out to a range of 120 feet. This shriek causes nonmagical, organic material within 10 feet of the bone whelk to rot. Each creature within 10 feet of the bone whelk when it dies takes 9 (2d8) necrotic damage.",
         "Spider Climb": "The bone whelk can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

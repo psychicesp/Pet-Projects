@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "13",
+    "constitution": "12",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Monodrone",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Modron"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 224,
+    "book": "Monster Manual",
+    "traits": {
+        "Axiomatic Mind": "The monodrone can't be compelled to act in a manner contrary to its nature or its instructions.",
+        "Disintegration": "If the monodrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying."
+    },
+    "actions": {}
+}

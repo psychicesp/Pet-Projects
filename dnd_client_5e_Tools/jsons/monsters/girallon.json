@@ -33,6 +33,11 @@
         "Aggressive": "As a bonus action, the girallon can move up to its speed toward a hostile creature that it can see.",
         "Keen Smell": "The girallon has advantage on Wisdom (Perception) checks that rely on smell."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

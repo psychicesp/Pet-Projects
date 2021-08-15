@@ -44,6 +44,11 @@
         "Hold Breath": "The lizardfolk can hold its breath for 15 minutes.",
         "Skewer": "Once per turn, when the lizardfolk makes a melee attack with its trident and hits, the target takes an extra 10 (3d6) damage, and the lizardfolk gains temporary hit points equal to the extra damage dealt."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

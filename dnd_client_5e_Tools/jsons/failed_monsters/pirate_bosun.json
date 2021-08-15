@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "11",
+    "constitution": "13",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "13",
+    "athletics": "+5",
+    "intimidation": "+3",
+    "name": "Pirate Bosun",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 247,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Cargo Hauler": "The bosun has advantage on Strength checks.",
+        "Sea Legs": "The bosun has advantage on ability checks and saving throws to resist being knocked prone."
+    },
+    "actions": {}
+}

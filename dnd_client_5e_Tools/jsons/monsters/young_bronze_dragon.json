@@ -45,6 +45,11 @@
     "traits": {
         "Amphibious": "The dragon can breathe air and water."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LG",
     "size": "Large",
     "type": "dragon"

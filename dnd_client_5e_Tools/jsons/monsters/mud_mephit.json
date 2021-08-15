@@ -39,6 +39,11 @@
         "Death Burst": "When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11+1d4 + 9 Dexterity saving throw or be restrained until the end of the creature's next turn.",
         "False Appearance": "While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Small",
     "type": "elemental"

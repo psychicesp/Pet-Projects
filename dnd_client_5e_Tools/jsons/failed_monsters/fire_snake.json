@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "hit": "5d8",
+    "strength": "12",
+    "dexterity": "14",
+    "constitution": "11",
+    "intelligence": "7",
+    "wisdom": "10",
+    "charisma": "8",
+    "name": "Fire Snake",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Ignan but can\\'t speak"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 265,
+    "book": "Monster Manual",
+    "traits": {
+        "Heated Body": "A creature that touches the snake or hits it with a melee attack while within 5 feet of it takes 3 (1d6) fire damage."
+    },
+    "actions": {}
+}

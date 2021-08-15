@@ -48,6 +48,11 @@
         "Light Sensitivity": "While in bright light, the demon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
         "Shadow Stealth": "While in dim light or darkness, the demon can take the Hide action as a bonus action."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "fiend"

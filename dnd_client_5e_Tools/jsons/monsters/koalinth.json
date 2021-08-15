@@ -38,6 +38,11 @@
         "Amphibious": "The koalinth can breathe air and water.",
         "Martial Advantage": "Once per turn, the koalinth can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the koalinth that isn't incapacitated."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

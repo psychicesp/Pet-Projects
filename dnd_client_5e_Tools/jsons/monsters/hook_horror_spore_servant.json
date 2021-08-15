@@ -30,6 +30,11 @@
     "CR": "3 (700 XP)",
     "page": 68,
     "book": "Out of the Abyss",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "plant"

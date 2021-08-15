@@ -36,6 +36,11 @@
     "traits": {
         "Martial Fury": "As a bonus action, the sword wraith can make one weapon attack. If it does so, attack rolls against it have advantage until the start of its next turn."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "undead"

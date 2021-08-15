@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "hit": "2d6",
+    "strength": "8",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "8",
+    "charisma": "8",
+    "stealth": "+6",
+    "name": "Goblin",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "Common",
+        "Goblin"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 166,
+    "book": "Monster Manual",
+    "traits": {
+        "Nimble Escape": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns."
+    },
+    "actions": {}
+}

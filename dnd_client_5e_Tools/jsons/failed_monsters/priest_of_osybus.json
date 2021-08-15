@@ -32,5 +32,6 @@
     "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
     "traits": {
         "Tattoo of Osybus": "If the priest drops to 0 hit points, roll on the Boons of Undeath table for the boon the priest receives. The priest dies if it receives a boon it already has. If it receives a new boon, it revives at the start of its next turn with half its hit points restored, and its creature type is now Undead."
-    }
+    },
+    "actions": {}
 }

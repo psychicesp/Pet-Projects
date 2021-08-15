@@ -27,6 +27,11 @@
     "traits": {
         "Siege Monster": "The ogre deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "giant"

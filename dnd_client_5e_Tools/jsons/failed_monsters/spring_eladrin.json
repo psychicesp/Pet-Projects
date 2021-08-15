@@ -1,0 +1,54 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "16",
+    "constitution": "16",
+    "intelligence": "18",
+    "wisdom": "11",
+    "charisma": "18",
+    "deception": "+8",
+    "persuasion": "+8",
+    "name": "Spring Eladrin",
+    "AC": 19,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "persuasion": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Elvish",
+        "Sylvan"
+    ],
+    "CR": "10 (5,900 XP)",
+    "page": 196,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Fey Step (Recharge 4\\xe2\\x80\\x936)": "As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "charm person",
+                "Tasha's hideous laughter",
+                "confusion",
+                "enthrall",
+                "suggestion",
+                "hallucinatory terrain",
+                "Otto's irresistible dance"
+            ]
+        },
+        "Joyful Presence": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16+1d8 + 12 Wisdom saving throw. On a failed save, the creature is charmed for 1 minute. On a successful save, the creature becomes immune to any eladrin's Joyful Presence for 24 hours.",
+        "Magic Resistance": "The eladrin has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {}
+}

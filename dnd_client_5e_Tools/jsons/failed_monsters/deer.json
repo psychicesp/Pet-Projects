@@ -1,0 +1,27 @@
+{
+    "tags": [],
+    "hit": "1d8",
+    "strength": "11",
+    "dexterity": "16",
+    "constitution": "11",
+    "intelligence": "2",
+    "wisdom": "14",
+    "charisma": "5",
+    "name": "Deer",
+    "AC": 13,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 321,
+    "book": "Monster Manual",
+    "actions": {}
+}

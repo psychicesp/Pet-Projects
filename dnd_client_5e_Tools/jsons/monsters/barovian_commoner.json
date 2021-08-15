@@ -25,6 +25,11 @@
     "CR": "0 (0 or 10 XP)",
     "page": 29,
     "book": "Curse of Strahd",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

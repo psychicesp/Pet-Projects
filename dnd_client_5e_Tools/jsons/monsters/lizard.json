@@ -25,6 +25,11 @@
     "CR": "0 (0 or 10 XP)",
     "page": 332,
     "book": "Monster Manual",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "11",
+    "constitution": "14",
+    "intelligence": "2",
+    "wisdom": "6",
+    "charisma": "1",
+    "name": "Duergar Spore Servant",
+    "AC": 16,
+    "speed": [
+        "15 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, frightened, paralyzed"
+    ],
+    "senses": [
+        "blindsight 30 ft. (blind beyond this radius)",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 229,
+    "book": "Out of the Abyss",
+    "actions": {}
+}

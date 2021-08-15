@@ -1,0 +1,58 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "12",
+    "constitution": "24",
+    "intelligence": "12",
+    "wisdom": "13",
+    "charisma": "14",
+    "name": "Dao",
+    "AC": 18,
+    "speed": [
+        "30 ft",
+        "burrow 30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "condition_immunities": [
+        "petrified"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Terran"
+    ],
+    "CR": "11 (7,200 XP)",
+    "page": 143,
+    "book": "Monster Manual",
+    "traits": {
+        "Earth Glide": "The dao can burrow through nonmagical, unworked earth and stone. While doing so, the dao doesn't disturb the material it moves through.",
+        "Elemental Demise": "If the dao dies, its body disintegrates into crystalline powder, leaving behind only equipment the dao was wearing or carrying.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect evil and good",
+                "detect magic",
+                "stone shape",
+                "passwall",
+                "move earth",
+                "tongues",
+                "conjure elemental",
+                "gaseous form",
+                "invisibility",
+                "phantasmal killer",
+                "plane shift",
+                "wall of stone"
+            ]
+        },
+        "Sure-Footed": "The dao has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
+    },
+    "actions": {}
+}

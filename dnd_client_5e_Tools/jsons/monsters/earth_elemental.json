@@ -38,6 +38,11 @@
         "Earth Glide": "The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.",
         "Siege Monster": "The elemental deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Large",
     "type": "elemental"

@@ -38,6 +38,11 @@
         "Keen Senses": "The defender has advantage on Wisdom (Perception) checks.",
         "Telepathic Bond": "While the defender is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "construct"

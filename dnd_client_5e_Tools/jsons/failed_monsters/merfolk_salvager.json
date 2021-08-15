@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "13",
+    "athletics": "+3",
+    "perception": "+2",
+    "name": "Merfolk Salvager",
+    "AC": 12,
+    "speed": [
+        "10 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Aquan",
+        "Common"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 244,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Amphibious": "The salvager can breathe air and water."
+    },
+    "actions": {}
+}

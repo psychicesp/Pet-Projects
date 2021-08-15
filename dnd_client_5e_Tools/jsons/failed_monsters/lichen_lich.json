@@ -51,5 +51,22 @@
     "traits": {
         "Legendary Resistance (3/Day)": "If the lich fails a saving throw, it can choose to succeed instead.",
         "Rejuvenation": "If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery."
+    },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": "The lich makes an attack.",
+            "Poison Prick (Cost 2 Actions)": "The lich targets one poisoned creature it can see within 30 feet of it. The target must succeed on a DC 19+1d12 + 13 Constitution saving throw or fall unconscious until the poisoned condition ends on it.",
+            "Sap Life (Costs 2 Actions)": "The lich targets one creature it can see within 30 feet of it. The target must succeed on a DC 19+1d12 + 13 Constitution saving throw or take 11 (2d10) necrotic damage. The lich regains a number of hit points equal to the amount of damage that the creature takes."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Poisonous spores fill a 10-foot cube that the lich can see within 120 feet of it. Any creature that enters the cloud for the first time on a turn or starts its turn there must succeed on a DC 19 Constitution saving throw or be poisoned until the end of its next turn. The cloud lasts for 1 minute or until it is dispersed by a strong wind.",
+            "The lich commands the might of its diseased grove, creating a shambling mound. The shambling mound appears in an unoccupied space within 30 feet of the lich, acts on its own initiative count, and obeys the lich's commands. The shambling mound dies after 1 hour or when the lich uses this lair action again.",
+            "Rotten roots and vines magically erupt in a 20-foot radius centered on a point on the ground that the lich can see within 120 feet of it. The lich is unaffected by the roots and vines. For all other creatures, the area becomes difficult terrain, and each creature in the area must succeed on a DC 19 Strength saving throw or be restrained by the roots. As an action, a creature can try to free itself or another creature within its reach, doing so with a successful DC 19 Strength (Athletics) check. The roots and vines wilt away when the lich uses this lair action again or when the lich dies."
+        ]
     }
 }

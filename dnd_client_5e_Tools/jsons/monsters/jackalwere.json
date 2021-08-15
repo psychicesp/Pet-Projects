@@ -40,6 +40,11 @@
         "Keen Hearing and Smell": "The jackalwere has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
         "Pack Tactics": "The jackalwere has advantage on an attack roll against a creature if at least one of the jackalwere's allies is within 5 feet of the creature and the ally isn't incapacitated."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

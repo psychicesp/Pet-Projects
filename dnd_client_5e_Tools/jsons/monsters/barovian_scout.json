@@ -36,6 +36,11 @@
     "traits": {
         "Keen Hearing and Sight": "The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

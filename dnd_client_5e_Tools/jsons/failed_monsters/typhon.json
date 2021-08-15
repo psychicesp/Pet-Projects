@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "10",
+    "constitution": "20",
+    "intelligence": "7",
+    "wisdom": "12",
+    "charisma": "13",
+    "name": "Typhon",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "acid, necrotic"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "15 (13,000 XP)",
+    "page": 246,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Keen Smell": "The typhon has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Regeneration": "The typhon regains 20 hit points at the start of its turn. If it takes radiant damage, this trait doesn't function at the start of its next turn. The typhon dies only if it starts its turn with 0 hit points and doesn't regenerate."
+    },
+    "actions": {}
+}

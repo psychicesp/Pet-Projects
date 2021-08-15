@@ -25,6 +25,11 @@
     "traits": {
         "Poor Depth Perception": "The cyclops has disadvantage on any attack roll against a target more than 30 feet away."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CN",
     "size": "Huge",
     "type": "giant"

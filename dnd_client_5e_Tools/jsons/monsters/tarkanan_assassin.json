@@ -46,6 +46,11 @@
         },
         "Unstable Mark": "When the assassin casts an innate spell, each creature within 10 feet of the assassin must make a DC 12+1d4 + 10 Constitution saving throw, taking 4 (1d8) force damage on a failed save, or half as much damage on a successful one."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "ANA",
     "size": "Medium",
     "type": "humanoid"

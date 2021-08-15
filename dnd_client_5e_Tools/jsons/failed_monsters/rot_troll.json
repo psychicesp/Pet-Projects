@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "13",
+    "constitution": "22",
+    "intelligence": "5",
+    "wisdom": "8",
+    "charisma": "4",
+    "perception": "+3",
+    "name": "Rot Troll",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "9 (5,000 XP)",
+    "page": 244,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Rancid Degeneration": "At the end of each of the troll's turns, each creature within 5 feet of it takes 11 (2d10) necrotic damage, unless the troll has taken acid or fire damage since the end of its last turn."
+    },
+    "actions": {}
+}

@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "10",
+    "constitution": "22",
+    "intelligence": "3",
+    "wisdom": "12",
+    "charisma": "4",
+    "name": "Wurm",
+    "AC": 18,
+    "speed": [
+        "50 ft",
+        "burrow 30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {},
+    "senses": [
+        "blindsight 60 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "14 (11,500 XP)",
+    "page": 225,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Earth Tremors": "The wurm creates earth tremors as it moves overland or underground. Any creature that comes within 30 feet of the moving wurm for the first time on a turn must succeed on a DC 20+1d10 + 15 Dexterity saving throw or take 10 (3d6) bludgeoning damage and fall prone. Any structure or object anchored to the ground that comes within 30 feet of the moving wurm for the first time on a turn takes 10 (3d6) force damage.",
+        "Siege Monster": "The wurm deals double damage to objects and structures.",
+        "Tunneler": "The wurm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake."
+    },
+    "actions": {}
+}

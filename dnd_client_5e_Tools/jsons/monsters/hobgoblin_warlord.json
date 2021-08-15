@@ -33,6 +33,11 @@
     "traits": {
         "Martial Advantage": "Once per turn, the hobgoblin can deal an extra 14 (4d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

@@ -31,6 +31,11 @@
     "traits": {
         "Hold Breath": "The plesiosaurus can hold its breath for 1 hour."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

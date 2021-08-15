@@ -28,6 +28,11 @@
     "traits": {
         "Water Breathing": "The trout can breathe only underwater."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Small",
     "type": "beast"

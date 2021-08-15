@@ -29,6 +29,11 @@
     "CR": "2 (450 XP)",
     "page": 91,
     "book": "Hoard of the Dragon Queen",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "dragon"

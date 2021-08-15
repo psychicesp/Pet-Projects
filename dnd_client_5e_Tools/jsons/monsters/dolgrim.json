@@ -27,6 +27,11 @@
     "traits": {
         "Dual Consciousness": "The dolgrim has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Small",
     "type": "aberration"

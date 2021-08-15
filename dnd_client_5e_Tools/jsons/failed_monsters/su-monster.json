@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "9",
+    "wisdom": "13",
+    "charisma": "9",
+    "athletics": "+6",
+    "perception": "+3",
+    "name": "Su-monster",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "expert",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 232,
+    "book": "Tomb of Annihilation",
+    "actions": {}
+}

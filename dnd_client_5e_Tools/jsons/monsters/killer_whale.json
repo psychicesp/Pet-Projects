@@ -32,6 +32,11 @@
         "Hold Breath": "The whale can hold its breath for 30 minutes",
         "Keen Hearing": "The whale has advantage on Wisdom (Perception) checks that rely on hearing."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "beast"

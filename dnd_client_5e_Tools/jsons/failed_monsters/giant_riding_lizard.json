@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "12",
+    "constitution": "13",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Giant Riding Lizard",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 131,
+    "book": "Out of the Abyss",
+    "traits": {
+        "Spider Climb": "The lizard can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
+    "actions": {}
+}

@@ -62,6 +62,15 @@
         "Legendary Resistance (3/Day)": "If the sibriex fails a saving throw, it can choose to succeed instead.",
         "Magic Resistance": "The sibriex has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Cast a Spell": "The sibriex casts a spell.",
+            "Spray Bile": "The sibriex uses Squirt Bile.",
+            "Warp (Costs 2 Actions)": "The sibriex uses Warp Creature."
+        }
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "fiend"

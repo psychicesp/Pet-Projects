@@ -34,6 +34,11 @@
         "Amphibious": "The sea elf can breathe air and water.",
         "Fey Ancestry": "The sea elf has advantage on saving throws against being charmed, and magic can't put the sea elf to sleep."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CG",
     "size": "Medium",
     "type": "humanoid"

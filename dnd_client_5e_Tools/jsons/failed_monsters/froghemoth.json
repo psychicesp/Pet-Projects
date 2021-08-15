@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "13",
+    "constitution": "20",
+    "intelligence": "2",
+    "wisdom": "12",
+    "charisma": "5",
+    "perception": "+9",
+    "stealth": "+5",
+    "name": "Froghemoth",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "fire, lightning"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "10 (5,900 XP)",
+    "page": 145,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Amphibious": "The froghemoth can breathe air and water.",
+        "Shock Susceptibility": "If the froghemoth takes lightning damage, it suffers several effects until the end of its next turn: its speed is halved, it takes a xe2x88x922 penalty to AC and Dexterity saving throws, it can't use reactions or Multiattack, and on its turn, it can use either an action or a bonus action, not both."
+    },
+    "actions": {}
+}

@@ -38,6 +38,11 @@
     "traits": {
         "Burning Fury": "When the salamander takes fire damage, its Freezing Breath automatically recharges."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "elemental"

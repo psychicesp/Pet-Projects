@@ -37,6 +37,11 @@
     "traits": {
         "Dwarven Resilience": "The axe of mirabar soldier has advantage on saving throws against poison, and has resistance against poison damage."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

@@ -42,6 +42,11 @@
         "Undead Fortitude": "If damage reduces the phylaskia to 0 hit points, it must make a Constitution saving throw with a DC equal to 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the phylaskia drops to 1 hit point instead.",
         "Vigilant": "The phylaskia can't be surprised."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LN",
     "size": "Large",
     "type": "undead"

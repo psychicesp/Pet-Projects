@@ -36,5 +36,6 @@
     "traits": {
         "Limited Spell Immunity": "The swarm automatically succeeds on saving throws against spells of 3rd level or lower, and the attack rolls of such spells always miss it.",
         "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny gremishka. The swarm can't regain hit points or gain temporary hit points."
-    }
+    },
+    "actions": {}
 }

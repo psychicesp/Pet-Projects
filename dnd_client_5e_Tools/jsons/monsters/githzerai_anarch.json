@@ -55,6 +55,23 @@
         },
         "Psychic Defense": "While the anarch is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Strike": "The anarch makes one unarmed strike.",
+            "Teleport": "The anarch magically teleports, along with any equipment it is wearing and carrying, to an unoccupied space it can see within 30 feet of it.",
+            "Change Gravity (Costs 3 Actions)": "The anarch casts the reverse gravity spell. The spell has the normal effect, except that the anarch can orient the area in any direction and creatures and objects fall toward the end of the area."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "The anarch casts the lightning bolt spell (at 5th level), but the anarch can change the damage type from lightning to cold, fire, psychic, radiant, or thunder. If the spell deals damage other than fire or lightning, it doesn't ignite flammable objects.",
+            "The anarch casts the creation spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch's concentration is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, its concentration breaks.",
+            "The anarch can magically move an object it can see within 150 feet of it by making a Wisdom check with advantage. The DC depends on the object's size: DC 5+1d10 + 0 for Tiny, DC 10+1d10 + 5 for Small, DC 15+1d10 + 10 for Medium, DC 20+1d10 + 15 for Large, and DC 25+1d10 + 20 for Huge or larger."
+        ]
+    },
     "alignment": "LN",
     "size": "Medium",
     "type": "humanoid"

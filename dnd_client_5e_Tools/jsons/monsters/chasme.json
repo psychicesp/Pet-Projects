@@ -48,6 +48,11 @@
         "Magic Resistance": "The chasme has advantage on saving throws against spells and other magical effects.",
         "Spider Climb": "The chasme can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

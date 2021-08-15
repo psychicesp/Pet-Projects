@@ -1,0 +1,50 @@
+{
+    "tags": [],
+    "hit": "5d6",
+    "strength": "5",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "10",
+    "perception": "+2",
+    "stealth": "+4",
+    "name": "Dust Mephit",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Auran",
+        "Terran"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 215,
+    "book": "Monster Manual",
+    "traits": {
+        "Death Burst": "When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10+1d4 + 8 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "sleep"
+            ]
+        }
+    },
+    "actions": {}
+}

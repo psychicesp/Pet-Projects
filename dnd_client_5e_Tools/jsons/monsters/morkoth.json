@@ -70,6 +70,18 @@
             ]
         }
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "The morkoth uses its Hypnosis action, originating at a point within 120 feet of itself. It doesn't need to see the effect's point of origin.",
+            "The morkoth casts darkness, dispel magic, or misty step, using Intelligence as its spellcasting ability and without expending a spell slot."
+        ]
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "aberration"

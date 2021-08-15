@@ -24,6 +24,11 @@
     "CR": "1/4 (50 XP)",
     "page": 320,
     "book": "Monster Manual",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

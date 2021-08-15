@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "18",
+    "constitution": "21",
+    "intelligence": "19",
+    "wisdom": "12",
+    "charisma": "14",
+    "name": "Wastrilith",
+    "AC": 18,
+    "speed": [
+        "30 ft",
+        "swim 80 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "telepathy 120 ft."
+    ],
+    "CR": "13 (10,000 XP)",
+    "page": 139,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Amphibious": "The wastrilith can breathe air and water.",
+        "Corrupt Water": "At the start of each of the wastrilith's turns, exposed water within 30 feet of it is befouled. Underwater, this effect lightly obscures the area until a current clears it away. Water in containers remains corrupted until it evaporates.",
+        "Magic Resistance": "The wastrilith has advantage on saving throws against spells and other magical effects.",
+        "Undertow": "As a bonus action when the wastrilith is underwater, it can cause all water within 60 feet of it to be difficult terrain for other creatures until the start of its next turn."
+    },
+    "actions": {}
+}

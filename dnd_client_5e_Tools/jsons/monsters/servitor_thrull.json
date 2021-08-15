@@ -29,6 +29,11 @@
     "CR": "1/4 (50 XP)",
     "page": 221,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Small",
     "type": "construct"

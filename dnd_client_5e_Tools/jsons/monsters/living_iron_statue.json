@@ -32,6 +32,11 @@
     "traits": {
         "Immutable Form": "The statue is immune to any spell or effect that would alter its form."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

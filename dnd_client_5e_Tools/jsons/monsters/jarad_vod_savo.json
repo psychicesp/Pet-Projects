@@ -84,6 +84,15 @@
         "Turn Resistance": "Jarad has advantage on saving throws against any effect that turns undead.",
         "Undead Fortitude": "If damage reduces Jarad to 0 hit points, he must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, he drops to 1 hit point instead."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Cantrip": "Jarad casts one of his cantrips.",
+            "Noxious Touch (Costs 2 Actions)": "Jarad uses Noxious Touch.",
+            "Disrupt Life (Costs 3 Actions)": "Each creature within 30 feet of Jarad must make a DC 20+1d14 + 13 Constitution saving throw, taking 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one."
+        }
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "undead"

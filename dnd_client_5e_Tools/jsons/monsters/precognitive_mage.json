@@ -33,6 +33,11 @@
     "page": 228,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
     "traits": {},
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LN",
     "size": "Medium",
     "type": "humanoid"

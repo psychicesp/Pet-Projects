@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "hit": "5d8",
+    "strength": "1",
+    "dexterity": "1",
+    "constitution": "10",
+    "intelligence": "14",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Guardian Portrait",
+    "AC": 5,
+    "speed": [
+        "0 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "plus up to two other languages"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 227,
+    "book": "Curse of Strahd",
+    "traits": {
+        "Antimagic Susceptibility": "The portrait is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the portrait must succeed on a Constitution saving throw against the caster's spell save DC or become unconscious for 1 minute.",
+        "Constructed Nature": "An animated object doesn't require air, food, drink, or sleep.",
+        "False Appearance": "While the figure in the portrait remains motionless, the portrait is indistinguishable from a normal painting.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "counterspell",
+                "crown of madness",
+                "hypnotic pattern",
+                "telekinesis"
+            ]
+        }
+    },
+    "actions": {}
+}

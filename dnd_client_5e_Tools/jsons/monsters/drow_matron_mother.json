@@ -84,6 +84,15 @@
         "Magic Resistance": "The drow has advantage on saving throws against spells and other magical effects.",
         "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Demon Staff": "The drow makes one attack with her demon staff.",
+            "Compel Demon (Costs 2 Actions)": "An allied demon within 30 feet of the drow uses its reaction to make one attack against a target of the drow's choice that she can see.",
+            "Cast a Spell (Costs 1xe2x80x933 Actions)": "The drow expends a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that she has prepared. Doing so costs 1 legendary action per level of the spell."
+        }
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

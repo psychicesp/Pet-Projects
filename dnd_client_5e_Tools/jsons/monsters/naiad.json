@@ -52,6 +52,11 @@
         "Invisible in Water": "The naiad is invisible while fully immersed in water.",
         "Magic Resistance": "The naiad has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "fey"

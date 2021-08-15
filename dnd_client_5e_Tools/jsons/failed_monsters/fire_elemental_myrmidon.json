@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "18",
+    "constitution": "15",
+    "intelligence": "9",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Fire Elemental Myrmidon",
+    "AC": 18,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "paralyzed, petrified, poisoned, prone"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Ignan",
+        "one language of its creator\\'s choice"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 203,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Illumination": "The myrmidon sheds bright light in a 20-foot radius and dim light in a 40-foot radius.",
+        "Magic Weapons": "The myrmidon's weapon attacks are magical.",
+        "Water Susceptibility": "For every 5 feet the myrmidon moves in 1 foot or more of water, it takes 2 (1d4) cold damage."
+    },
+    "actions": {}
+}

@@ -30,6 +30,11 @@
         "Magic Resistance": "The zorbo has advantage on saving throws against spells and other magical effects.",
         "Natural Armor": "The zorbo magically absorbs the natural strength of its surroundings, adjusting its Armor Class based on the material it is standing or climbing on: AC 15 for wood or bone, AC 17 for earth or stone, or AC 19 for metal. If the zorbo isn't in contact with any of these substances, its AC is 10."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Small",
     "type": "monstrosity"

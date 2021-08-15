@@ -29,5 +29,6 @@
     "traits": {
         "Beheaded Form": "When created, a death's head takes one of three forms: Aberrant Head, Gnashing Head, or Petrifying Head. This form determines the creature's attack.",
         "Unusual Nature": "The death's head doesn't require air, food, drink, or sleep."
-    }
+    },
+    "actions": {}
 }

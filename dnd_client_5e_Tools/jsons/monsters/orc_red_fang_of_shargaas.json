@@ -39,6 +39,11 @@
         "Shargaas\\'s Sight": "Magical darkness doesn't impede the orc's darkvision.",
         "Slayer": "In the first round of a combat, the orc has advantage on attack rolls against any creature that hasn't taken a turn yet. If the orc hits a creature that round who was surprised, the hit is automatically a critical hit."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

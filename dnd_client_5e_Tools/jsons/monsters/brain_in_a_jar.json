@@ -53,6 +53,11 @@
         "Magic Resistance": "The brain has advantage on saving throws against spells and other magic effects.",
         "Unusual Nature": "The brain doesn't require air, food, drink, or sleep."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Small",
     "type": "undead"

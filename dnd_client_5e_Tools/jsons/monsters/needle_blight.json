@@ -26,6 +26,11 @@
     "CR": "1/4 (50 XP)",
     "page": 32,
     "book": "Monster Manual",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "plant"

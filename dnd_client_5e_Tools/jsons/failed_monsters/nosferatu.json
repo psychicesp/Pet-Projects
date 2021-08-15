@@ -43,5 +43,6 @@
         "Spider Climb": "The nosferatu can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
         "Sunlight Hypersensitivity": "The nosferatu takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.",
         "Unusual Nature": "The nosferatu doesn't require air."
-    }
+    },
+    "actions": {}
 }

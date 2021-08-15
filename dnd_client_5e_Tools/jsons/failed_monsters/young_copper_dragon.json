@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "12",
+    "constitution": "17",
+    "intelligence": "16",
+    "wisdom": "13",
+    "charisma": "15",
+    "deception": "+5",
+    "perception": "+7",
+    "stealth": "+4",
+    "name": "Young Copper Dragon",
+    "AC": 17,
+    "speed": [
+        "40 ft",
+        "climb 40 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "acid"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 112,
+    "book": "Monster Manual",
+    "actions": {}
+}

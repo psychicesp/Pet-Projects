@@ -35,6 +35,11 @@
     "CR": "1 (200 XP)",
     "page": 195,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Tiny",
     "type": "fiend"

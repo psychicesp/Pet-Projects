@@ -34,6 +34,11 @@
         "Limited Amphibiousness": "The champion can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.",
         "Shark Telepathy": "The champion can magically command any shark within 120 feet of it, using a limited telepathy."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "3",
+    "wisdom": "12",
+    "charisma": "6",
+    "perception": "+3",
+    "stealth": "+4",
+    "name": "Wolf",
+    "AC": 13,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 341,
+    "book": "Monster Manual",
+    "traits": {
+        "Keen Hearing and Smell": "The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+        "Pack Tactics": "The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {}
+}

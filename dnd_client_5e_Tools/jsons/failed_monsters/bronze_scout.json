@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "hit": "4d8",
+    "strength": "10",
+    "dexterity": "16",
+    "constitution": "11",
+    "intelligence": "3",
+    "wisdom": "14",
+    "charisma": "1",
+    "perception": "+6",
+    "stealth": "+7",
+    "name": "Bronze Scout",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "burrow 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "expert"
+    },
+    "damage_immunities": [
+        "poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t adamantine"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "understands one language of its creator but can't speak"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 125,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Earth Armor": "The bronze scout doesn't provoke opportunity attacks when it burrows.",
+        "Magic Resistance": "The bronze scout has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {}
+}

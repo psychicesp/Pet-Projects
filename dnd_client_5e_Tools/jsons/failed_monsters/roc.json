@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "28",
+    "dexterity": "10",
+    "constitution": "20",
+    "intelligence": "3",
+    "wisdom": "10",
+    "charisma": "9",
+    "perception": "+4",
+    "name": "Roc",
+    "AC": 15,
+    "speed": [
+        "20 ft",
+        "fly 120 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "11 (7,200 XP)",
+    "page": 260,
+    "book": "Monster Manual",
+    "traits": {
+        "Keen Sight": "The roc has advantage on Wisdom (Perception) checks that rely on sight."
+    },
+    "actions": {}
+}

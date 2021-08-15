@@ -77,6 +77,16 @@
         },
         "Warforged Resilience": "The Lord of Blades has advantage on saving throws against being poisoned, is immune to disease, and magic can't put him to sleep."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": "The Lord of Blades makes one weapon attack.",
+            "Cantrip": "The Lord of Blades casts one of his cantrips.",
+            "Cast a Spell (Costs 2 Actions)": "The Lord of Blades casts a spell of 2nd level or lower from his spell list that takes 1 action to cast.",
+            "Blade Dash (Costs 3 Actions)": "The Lord of Blades moves up to his speed without provoking opportunity attacks, then makes one attack with his adamantine sixblade. He can make one bladed wings attack against each creature he moves past."
+        }
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

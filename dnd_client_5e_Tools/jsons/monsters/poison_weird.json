@@ -39,6 +39,11 @@
         "Invisible in Water": "The weird is invisible while fully immersed in toxic brew.",
         "Poisonous Body": "A creature takes 10 (3d6) poison damage at the start of each of its turns while grappled by a poison weird."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Large",
     "type": "elemental"

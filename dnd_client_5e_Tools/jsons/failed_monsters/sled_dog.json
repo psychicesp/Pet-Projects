@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "3",
+    "wisdom": "12",
+    "charisma": "6",
+    "perception": "+3",
+    "stealth": "+4",
+    "name": "Sled Dog",
+    "AC": 13,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 27,
+    "book": "The Rise of Tiamat",
+    "traits": {
+        "Keen Hearing and Smell": "The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+        "Pack Tactics": "The dog has advantage on an attack roll against a creature if at least one of the dog's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {}
+}

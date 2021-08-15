@@ -46,6 +46,11 @@
         "Magic Weapons": "The abishai's weapon attacks are magical.",
         "Reckless": "At the start of its turn, the abishai can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "fiend"

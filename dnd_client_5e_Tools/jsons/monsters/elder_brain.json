@@ -57,6 +57,24 @@
         "Magic Resistance": "The elder brain has advantage on saving throws against spells and other magical effects.",
         "Telepathic Hub": "The elder brain can use its telepathy to initiate and maintain telepathic conversations with up to ten creatures at a time. The elder brain can let those creatures telepathically hear each other while connected in this way."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Tentacle": "The elder brain makes a tentacle attack.",
+            "Break Concentration": "The elder brain targets a creature within 120 feet of it with which it has a psychic link. The elder brain breaks the creature's concentration on a spell it has cast. The creature also takes 1d4 psychic damage per level of the spell.",
+            "Psychic Pulse": "The elder brain targets a creature within 120 feet of it with which it has a psychic link. Enemies of the elder brain within 10 feet of that creature take 10 (3d6) psychic damage.",
+            "Sever Psychic Link": "The elder brain targets a creature within 120 feet of it with which it has a psychic link. The elder brain ends the link, causing the creature to have disadvantage on all ability checks, attack rolls, and saving throws until the end of the creature's next turn."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "The elder brain casts wall of force.",
+            "The elder brain targets one friendly creature it can sense within 120 feet of it. The target has a flash of inspiration and gains advantage on one attack roll, ability check, or saving throw it makes before the end of its next turn. If the target doesn't or can't use this benefit in that time, the inspiration is lost.",
+            "The elder brain targets one creature it can sense within 120 feet of it and anchors it by sheer force of will. The target must succeed on a DC 18+1d10 + 13 Charisma saving throw or be unable to leave its current space. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+        ]
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "aberration"

@@ -37,6 +37,11 @@
         "Icy Doom": "Any creature killed by the walker freezes for 9 days, during which time it can't be thawed, harmed by fire, animated, or raised from the dead.",
         "Unusual Nature": "The walker doesn't require air, food, drink, or sleep."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

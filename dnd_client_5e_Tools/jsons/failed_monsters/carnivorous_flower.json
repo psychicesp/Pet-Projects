@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "11",
+    "constitution": "19",
+    "intelligence": "6",
+    "wisdom": "13",
+    "charisma": "6",
+    "name": "Carnivorous Flower",
+    "AC": 14,
+    "speed": [
+        "0 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Otyugh"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 67,
+    "book": "The Rise of Tiamat",
+    "traits": {
+        "Limited Telepathy": "The plant can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond."
+    },
+    "actions": {}
+}

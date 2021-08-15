@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "hit": "5d8",
+    "strength": "13",
+    "dexterity": "15",
+    "constitution": "10",
+    "intelligence": "7",
+    "wisdom": "10",
+    "charisma": "6",
+    "name": "Ghoul",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 148,
+    "book": "Monster Manual",
+    "actions": {}
+}

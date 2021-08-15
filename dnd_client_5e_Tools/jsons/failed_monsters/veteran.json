@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "13",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "10",
+    "athletics": "+5",
+    "perception": "+2",
+    "name": "Veteran",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 350,
+    "book": "Monster Manual",
+    "actions": {}
+}

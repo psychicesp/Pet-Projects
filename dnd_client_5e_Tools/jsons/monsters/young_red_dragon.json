@@ -40,6 +40,11 @@
     "CR": "10 (5,900 XP)",
     "page": 98,
     "book": "Monster Manual",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "dragon"

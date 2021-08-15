@@ -36,5 +36,6 @@
     "traits": {
         "Limited Spell Immunity": "The golem automatically succeeds on saving throws against spells of 7th level or lower, and the attack rolls of such spells always miss it.",
         "Unusual Nature": "The golem doesn't require air, food, drink, or sleep."
-    }
+    },
+    "actions": {}
 }

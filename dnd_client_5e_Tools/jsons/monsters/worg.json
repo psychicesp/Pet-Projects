@@ -30,6 +30,11 @@
     "traits": {
         "Keen Hearing and Smell": "The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "monstrosity"

@@ -32,6 +32,11 @@
         "Limited Amphibiousness": "The abomination can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.",
         "Water Breathing": "The abomination can breathe only underwater."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "aberration"

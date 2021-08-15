@@ -27,6 +27,11 @@
     "traits": {
         "Water Breathing": "The fish can breathe only underwater."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

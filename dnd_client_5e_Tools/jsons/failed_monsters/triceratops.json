@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "22",
+    "dexterity": "9",
+    "constitution": "17",
+    "intelligence": "2",
+    "wisdom": "11",
+    "charisma": "5",
+    "name": "Triceratops",
+    "AC": 13,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 80,
+    "book": "Monster Manual",
+    "traits": {
+        "Trampling Charge": "If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13+1d6 + 10 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action."
+    },
+    "actions": {}
+}

@@ -29,6 +29,11 @@
         "Mental Fortitude": "The hatchling has advantage on saving throws against being charmed or frightened, and magic can't put the hatchling to sleep.",
         "Spider Climb": "The hatchling can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Tiny",
     "type": "aberration"

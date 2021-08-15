@@ -33,6 +33,11 @@
     "traits": {
         "Spider Climb": "The skeleton can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "undead"

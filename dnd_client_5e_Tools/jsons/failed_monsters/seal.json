@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "hit": "2d8",
+    "strength": "10",
+    "dexterity": "12",
+    "constitution": "11",
+    "intelligence": "3",
+    "wisdom": "12",
+    "charisma": "5",
+    "name": "Seal",
+    "AC": 11,
+    "speed": [
+        "20 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 308,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Hold Breath": "The seal can hold its breath for 15 minutes.",
+        "Keen Smell": "The seal has advantage on Wisdom (Perception) checks that rely on smell."
+    },
+    "actions": {}
+}

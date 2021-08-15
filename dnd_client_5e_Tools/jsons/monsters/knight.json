@@ -30,6 +30,11 @@
     "traits": {
         "Brave": "The knight has advantage on saving throws against being frightened."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

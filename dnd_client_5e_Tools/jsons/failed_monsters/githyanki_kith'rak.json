@@ -1,0 +1,50 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "16",
+    "constitution": "17",
+    "intelligence": "16",
+    "wisdom": "15",
+    "charisma": "17",
+    "intimidation": "+7",
+    "perception": "+6",
+    "name": "Githyanki Kith\\'rak",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Gith"
+    ],
+    "CR": "12 (8,400 XP)",
+    "page": 205,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage hand",
+                "blur",
+                "jump",
+                "misty step",
+                "nondetection",
+                "plane shift",
+                "telekinesis"
+            ]
+        },
+        "Rally the Troops": "As a bonus action, the githyanki can magically end the charmed and frightened conditions on itself and each creature of its choice that it can see within 30 feet of it."
+    },
+    "actions": {}
+}

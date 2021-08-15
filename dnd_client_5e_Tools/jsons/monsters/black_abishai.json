@@ -52,6 +52,11 @@
         "Magic Weapons": "The abishai's weapon attacks are magical.",
         "Shadow Stealth": "While in dim light or darkness, the abishai can take the Hide action as a bonus action."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "fiend"

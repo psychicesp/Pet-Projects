@@ -31,6 +31,11 @@
     "traits": {
         "Standing Leap": "The bulette's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

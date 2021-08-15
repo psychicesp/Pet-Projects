@@ -32,6 +32,11 @@
         "Confer Fire Resistance": "The nightmare can grant resistance to fire damage to anyone riding it.",
         "Illumination": "The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "fiend"

@@ -40,6 +40,11 @@
         "Invisibility": "The poltergeist is invisible.",
         "Sunlight Sensitivity": "While in sunlight, the poltergeist has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

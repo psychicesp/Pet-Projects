@@ -43,6 +43,11 @@
         "Spider Climb": "The slithering tracker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
         "Watery Stealth": "While underwater, the slithering tracker has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "ooze"

@@ -30,6 +30,11 @@
     "traits": {
         "False Appearance": "While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "plant"

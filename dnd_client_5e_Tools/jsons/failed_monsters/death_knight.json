@@ -1,0 +1,58 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "11",
+    "constitution": "20",
+    "intelligence": "12",
+    "wisdom": "16",
+    "charisma": "18",
+    "name": "Death Knight",
+    "AC": 20,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common"
+    ],
+    "CR": "17 (18,000 XP)",
+    "page": 47,
+    "book": "Monster Manual",
+    "traits": {
+        "Magic Resistance": "The death knight has advantage on saving throws against spells and other magical effects.",
+        "Marshal Undead": "Unless the death knight is incapacitated, it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.",
+        "spellcasting": {
+            "level": 19,
+            "type": "paladin",
+            "spells": [
+                "command",
+                "compelled duel",
+                "searing smite",
+                "hold person",
+                "magic weapon",
+                "dispel magic",
+                "elemental weapon",
+                "banishment",
+                "staggering smite",
+                "destructive wave"
+            ]
+        }
+    },
+    "actions": {}
+}

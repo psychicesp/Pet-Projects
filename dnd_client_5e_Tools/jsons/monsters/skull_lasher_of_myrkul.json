@@ -34,6 +34,11 @@
     "page": 234,
     "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
     "traits": {},
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

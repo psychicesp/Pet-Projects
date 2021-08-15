@@ -42,5 +42,6 @@
     "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
     "traits": {
         "Metabolic Control": "At the start of each of its turns, the inquisitor regains 10 hit points and can end one condition on itself, provided the inquisitor has at least 1 hit point."
-    }
+    },
+    "actions": {}
 }

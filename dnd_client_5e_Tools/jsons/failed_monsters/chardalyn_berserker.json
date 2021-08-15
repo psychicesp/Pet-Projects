@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "17",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "9",
+    "survival": "+4",
+    "name": "Chardalyn Berserker",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "survival": "expert"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 280,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Chardalyn Madness": "The berserker must roll a d6 at the start of each of its turns. On a 1, the berserker does nothing on its turn except speak to a nonexistent, evil master whom it has pledged to serve.",
+        "Reckless": "At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+    },
+    "actions": {}
+}

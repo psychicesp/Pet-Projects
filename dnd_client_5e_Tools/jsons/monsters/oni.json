@@ -52,6 +52,11 @@
         "Magic Weapons": "The oni's weapon attacks are magical.",
         "Regeneration": "The oni regains 10 hit points at the start of its turn if it has at least 1 hit point."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "giant"

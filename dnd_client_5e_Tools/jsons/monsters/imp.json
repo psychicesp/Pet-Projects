@@ -51,6 +51,11 @@
         "Devil\\'s Sight": "Magical darkness doesn't impede the imp's darkvision.",
         "Magic Resistance": "The imp has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Tiny",
     "type": "fiend"

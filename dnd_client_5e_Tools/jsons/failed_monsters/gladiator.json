@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "15",
+    "athletics": "+10",
+    "intimidation": "+5",
+    "name": "Gladiator",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "athletics": "expert",
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 346,
+    "book": "Monster Manual",
+    "traits": {
+        "Brave": "The gladiator has advantage on saving throws against being frightened.",
+        "Brute": "A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack)."
+    },
+    "actions": {}
+}

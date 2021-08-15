@@ -69,6 +69,15 @@
         "Magic Weapons": "Hutijin's weapon attacks are magical.",
         "Regeneration": "Hutijin regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Hutijin dies only if he starts his turn with 0 hit points and doesn't regenerate."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": "Hutijin attacks once with his mace.",
+            "Lightning Storm (Costs 2 Actions)": "Hutijin releases lightning in a 20-foot radius. All other creatures in that area must each make a DC 22+1d14 + 15 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed save, or half as much damage on a successful one.",
+            "Teleport": "Hutijin uses his Teleport action."
+        }
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

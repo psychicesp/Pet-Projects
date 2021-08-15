@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "8",
+    "dexterity": "12",
+    "constitution": "12",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "7",
+    "stealth": "+3",
+    "name": "Mud Mephit",
+    "AC": 11,
+    "speed": [
+        "20 ft",
+        "fly 20 ft",
+        "swim 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Aquan",
+        "Terran"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 216,
+    "book": "Monster Manual",
+    "traits": {
+        "Death Burst": "When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11+1d4 + 9 Dexterity saving throw or be restrained until the end of the creature's next turn.",
+        "False Appearance": "While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud."
+    },
+    "actions": {}
+}

@@ -47,6 +47,11 @@
         "Illumination": "The soldier magically sheds bright light in a 10-foot radius and dim light for an additional 10 feet. The soldier can extinguish or restore this light as a bonus action.",
         "Turn Resistance": "The soldier has advantage on saving throws against any effect that turns undead."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NG",
     "size": "Medium",
     "type": "undead"

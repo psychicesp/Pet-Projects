@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "10",
+    "constitution": "19",
+    "intelligence": "14",
+    "wisdom": "13",
+    "charisma": "17",
+    "insight": "+4",
+    "perception": "+7",
+    "stealth": "+3",
+    "name": "Young Bronze Dragon",
+    "AC": 18,
+    "speed": [
+        "40 ft",
+        "fly 80 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "lightning"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 108,
+    "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The dragon can breathe air and water."
+    },
+    "actions": {}
+}

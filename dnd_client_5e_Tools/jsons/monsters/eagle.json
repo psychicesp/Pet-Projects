@@ -30,6 +30,11 @@
     "traits": {
         "Keen Sight": "The eagle has advantage on Wisdom (Perception) checks that rely on sight."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Small",
     "type": "beast"

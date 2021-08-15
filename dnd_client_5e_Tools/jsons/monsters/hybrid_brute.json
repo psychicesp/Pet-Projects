@@ -27,6 +27,11 @@
     "traits": {
         "Amphibious": "The hybrid can breathe air and water."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NG",
     "size": "Medium",
     "type": "humanoid"

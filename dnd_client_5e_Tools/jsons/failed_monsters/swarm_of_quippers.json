@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "16",
+    "constitution": "9",
+    "intelligence": "1",
+    "wisdom": "7",
+    "charisma": "2",
+    "name": "Swarm of Quippers",
+    "AC": 13,
+    "speed": [
+        "0 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "bludgeoning, piercing, slashing"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 338,
+    "book": "Monster Manual",
+    "traits": {
+        "Blood Frenzy": "The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+        "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.",
+        "Water Breathing": "The swarm can breathe only underwater."
+    },
+    "actions": {}
+}

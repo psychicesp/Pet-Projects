@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "26",
+    "dexterity": "15",
+    "constitution": "25",
+    "intelligence": "14",
+    "wisdom": "16",
+    "charisma": "16",
+    "intimidation": "+8",
+    "perception": "+8",
+    "name": "Hundred-Handed One",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "condition_immunities": [
+        "frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "15 (13,000 XP)",
+    "page": 225,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Reactive": "The giant can take one reaction on every turn in a combat.",
+        "Vigilant": "The giant can't be surprised."
+    },
+    "actions": {}
+}

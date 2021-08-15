@@ -33,6 +33,11 @@
         "Disassemble": "If the juggernaut is reduced to 0 hit points, twelve skeletons rise from its remains.",
         "Falling Apart": "If the juggernaut does not have all of its hit points at the start of its turn, it loses 10 hit points."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "undead"

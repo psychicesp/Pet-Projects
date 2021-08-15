@@ -32,6 +32,11 @@
     "traits": {
         "Sea Legs": "The first mate has advantage on ability checks and saving throws to resist being knocked prone."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "13",
+    "charisma": "7",
+    "name": "Myconid Adult",
+    "AC": 12,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 232,
+    "book": "Monster Manual",
+    "traits": {
+        "Distress Spores": "When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.",
+        "Sun Sickness": "While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight."
+    },
+    "actions": {}
+}

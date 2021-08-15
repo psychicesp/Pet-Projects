@@ -38,6 +38,11 @@
         "Psychic Conditioning": "The skum is immune to the frightened and charmed conditions unless they are from effects created by an aboleth.",
         "Water Dependency": "The skum takes 6 (1d12) acid damage every 10 minutes it goes without exposure to water."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "aberration"

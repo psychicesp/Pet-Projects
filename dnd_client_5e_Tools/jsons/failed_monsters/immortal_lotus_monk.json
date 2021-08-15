@@ -31,5 +31,6 @@
     "book": "Candlekeep Mysteries",
     "traits": {
         "Unarmored Defense": "While the monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
-    }
+    },
+    "actions": {}
 }

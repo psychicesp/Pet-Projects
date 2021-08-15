@@ -31,6 +31,11 @@
         "Keen Smell": "The kamadan has advantage on Wisdom (Perception) checks that rely on smell.",
         "Pounce": "If the kamadan moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn that target must succeed on a DC 13+1d4 + 11 Strength saving throw or be knocked prone. If the target is knocked prone, the kamadan can make two attacksxe2x80x94one with its bite and one with its snakesxe2x80x94against it as a bonus action."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

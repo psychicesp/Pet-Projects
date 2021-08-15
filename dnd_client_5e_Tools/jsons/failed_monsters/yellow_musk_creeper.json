@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "3",
+    "constitution": "12",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "3",
+    "name": "Yellow Musk Creeper",
+    "AC": 6,
+    "speed": [
+        "5 ft",
+        "climb 5 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "condition_immunities": [
+        "blinded, deafened, exhaustion, prone"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 237,
+    "book": "Tomb of Annihilation",
+    "traits": {
+        "False Appearance": "While the creeper remains motionless, it is indistinguishable from an ordinary flowering vine.",
+        "Regeneration": "The creeper regains 10 hit points at the start of its turn. If the creeper takes fire, necrotic, or radiant damage, this trait doesn't function at the start of its next turn. The creeper dies only if it starts its turn with 0 hit points and doesn't regenerate."
+    },
+    "actions": {}
+}

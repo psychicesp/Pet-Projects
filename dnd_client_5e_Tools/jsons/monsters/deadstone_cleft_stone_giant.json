@@ -46,6 +46,11 @@
         "Olach Morrah": "The giant meditates for 1 hour, during which time it can do nothing else. At the end of the hour, provided the giant's meditation has been uninterrupted, it becomes petrified for 8 hours. At the end of this time, the giant is no longer petrified and gains tremorsense out to a range of 30 feet, as well as a measure of innate spellcasting ability for the next 24 hours.",
         "Stone Camouflage": "The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Huge",
     "type": "giant"

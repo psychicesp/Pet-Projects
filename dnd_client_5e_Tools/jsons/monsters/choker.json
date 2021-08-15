@@ -31,6 +31,11 @@
         "Boneless": "The choker can move through and occupy a space as narrow as 4 inches wide without squeezing.",
         "Spider Climb": "The choker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Small",
     "type": "aberration"

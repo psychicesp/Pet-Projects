@@ -28,6 +28,11 @@
         "Amphibious": "The turtle can breathe air and water.",
         "Stable": "Whenever an effect knocks the turtle prone, it can make a DC 10+1d4 + 8 Constitution saving throw to avoid being knocked prone. A prone turtle is upside down. To stand up, it must succeed on a DC 10+1d4 + 8 Dexterity check on its turn and then use all its movement for that turn."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "8",
+    "constitution": "20",
+    "intelligence": "5",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Earth Elemental",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "burrow 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, paralyzed, petrified, poisoned, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Terran"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 124,
+    "book": "Monster Manual",
+    "traits": {
+        "Earth Glide": "The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.",
+        "Siege Monster": "The elemental deals double damage to objects and structures."
+    },
+    "actions": {}
+}

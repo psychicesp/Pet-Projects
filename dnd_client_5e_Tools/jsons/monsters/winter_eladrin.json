@@ -45,6 +45,11 @@
         "Magic Resistance": "The eladrin has advantage on saving throws against spells and other magical effects.",
         "Sorrowful Presence": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 13+1d8 + 9 Wisdom saving throw. On a failed save, the creature is charmed for 1 minute. While charmed in this way, the creature has disadvantage on ability checks and saving throws. The charmed creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Sorrowful Presence for the next 24 hours."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "fey"

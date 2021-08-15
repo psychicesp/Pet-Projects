@@ -28,6 +28,11 @@
         "Blood Frenzy": "The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
         "Water Breathing": "The quipper can breathe only underwater."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

@@ -67,6 +67,17 @@
         "Speak with Beasts and Plants": "Trostani can communicate with beasts and plants as if they shared a language.",
         "Tree Stride": "Once on her turn, Trostani can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Voice of Harmony": "Trostani makes one melee attack, with advantage on the attack roll.",
+            "Voice of Life": "Trostani bestows 20 temporary hit points on another creature she can see within 120 feet of her.",
+            "Voice of Order": "Trostani casts dispel magic.",
+            "Chorus of the Conclave (Costs 2 Actions)": "Trostani casts suggestion. This counts as one of her daily uses of the spell.",
+            "Awaken Grove Guardians (Costs 3 Actions)": "Trostani animates one or two trees she can see within 120 feet of her, causing them to uproot themselves and become awakened trees (see the Monster Manual for their stat blocks) for 1 minute or until Trostani uses a bonus action to end the effect. These trees understand Druidic and obey Trostani's spoken commands, but can't speak. If she issues no commands to them, the trees do nothing but follow her and take the Dodge action."
+        }
+    },
     "alignment": "NG",
     "size": "Large",
     "type": "fey"

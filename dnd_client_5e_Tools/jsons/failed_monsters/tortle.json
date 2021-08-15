@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "10",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "13",
+    "charisma": "12",
+    "athletics": "+4",
+    "survival": "+3",
+    "name": "Tortle",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Aquan",
+        "Common"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 242,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Hold Breath": "The tortle can hold its breath for 1 hour."
+    },
+    "actions": {}
+}

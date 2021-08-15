@@ -67,6 +67,11 @@
         "Magic Resistance": "The ultroloth has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The ultroloth's weapon attacks are magical."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "fiend"

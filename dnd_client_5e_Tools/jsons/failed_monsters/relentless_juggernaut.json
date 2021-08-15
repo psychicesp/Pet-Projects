@@ -39,5 +39,13 @@
         "Legendary Resistance (3/Day)": "If the juggernaut fails a saving throw, it can choose to succeed instead.",
         "Regeneration": "The juggernaut regains 20 hit points at the start of its turn. If the juggernaut takes radiant damage, this trait doesn't function at the start of its next turn. The juggernaut dies only if it starts its turn with 0 hit points and doesn't regenerate.",
         "Unusual Nature": "The juggernaut doesn't require air, food, drink, or sleep."
+    },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Implacable Advance": "The juggernaut moves up to its speed, ignoring difficult terrain. Any object in its path takes 55 (10d10) bludgeoning damage if it isn't being worn or carried.",
+            "Rapid Shaping (Costs 3 Actions)": "The juggernaut recharges Deadly Shaping and uses it."
+        }
     }
 }

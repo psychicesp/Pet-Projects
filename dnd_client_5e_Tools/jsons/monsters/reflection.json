@@ -41,6 +41,11 @@
         "Shadow Stealth": "While in dim light or darkness, the reflection can take the Hide action as a bonus action. Its stealth bonus is also improved to +6.",
         "Sunlight Weakness": "While in sunlight, the reflection has disadvantage on attack rolls, ability checks, and saving throws."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "fey"

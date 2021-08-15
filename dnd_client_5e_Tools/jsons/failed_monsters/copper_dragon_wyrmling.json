@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "12",
+    "constitution": "13",
+    "intelligence": "14",
+    "wisdom": "11",
+    "charisma": "13",
+    "perception": "+4",
+    "stealth": "+3",
+    "name": "Copper Dragon Wyrmling",
+    "AC": 16,
+    "speed": [
+        "30 ft",
+        "climb 30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "acid"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Draconic"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 111,
+    "book": "Monster Manual",
+    "actions": {}
+}

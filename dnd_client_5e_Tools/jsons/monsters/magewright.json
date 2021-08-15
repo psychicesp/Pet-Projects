@@ -29,6 +29,11 @@
     "page": 318,
     "book": "Eberron: Rising from the Last War",
     "traits": {},
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

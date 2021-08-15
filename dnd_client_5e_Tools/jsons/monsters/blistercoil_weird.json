@@ -40,6 +40,11 @@
         "Heated Body": "A creature that touches the weird or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage.",
         "Illumination": "The weird sheds bright light in a 30-foot radius and dim light for an additional 30 feet."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "elemental"

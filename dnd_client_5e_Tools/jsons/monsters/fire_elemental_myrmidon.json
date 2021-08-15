@@ -38,6 +38,11 @@
         "Magic Weapons": "The myrmidon's weapon attacks are magical.",
         "Water Susceptibility": "For every 5 feet the myrmidon moves in 1 foot or more of water, it takes 2 (1d4) cold damage."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "elemental"

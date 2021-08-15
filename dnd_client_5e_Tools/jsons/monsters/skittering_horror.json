@@ -36,6 +36,11 @@
         "Spider Climb": "The horror can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
         "Sunlight Sensitivity": "While in sunlight, the horror has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Huge",
     "type": "aberration"

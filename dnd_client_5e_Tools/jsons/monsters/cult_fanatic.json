@@ -48,6 +48,11 @@
             ]
         }
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "ANA",
     "size": "Medium",
     "type": "humanoid"

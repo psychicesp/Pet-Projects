@@ -27,6 +27,11 @@
     "traits": {
         "Tail Spike Regrowth": "The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "monstrosity"

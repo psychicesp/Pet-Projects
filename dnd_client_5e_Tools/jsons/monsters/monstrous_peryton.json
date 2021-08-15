@@ -36,6 +36,15 @@
         "Keen Sight and Smell": "The peryton has advantage on Wisdom (Perception) checks that rely on sight or smell.",
         "Legendary Resistance (3/Day)": "If the peryton fails a saving throw, it can choose to succeed instead."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Detect": "The peryton makes a Wisdom (Perception) check.",
+            "Talons Attack": "The peryton makes one attack with its talons.",
+            "Dive Attack (Costs 2 Actions)": "The peryton moves up to its speed toward one target of its choosing. It then makes a gore attack that deals an extra 9 (2d8) piercing damage on a hit."
+        }
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "monstrosity"

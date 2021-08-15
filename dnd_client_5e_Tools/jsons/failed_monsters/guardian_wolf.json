@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "22",
+    "dexterity": "14",
+    "constitution": "16",
+    "intelligence": "5",
+    "wisdom": "12",
+    "charisma": "8",
+    "perception": "+5",
+    "stealth": "+4",
+    "name": "Guardian Wolf",
+    "AC": 14,
+    "speed": [
+        "60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Common",
+        "Elvish"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 272,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Keen Hearing and Smell": "The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+        "Pack Tactics": "The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {}
+}

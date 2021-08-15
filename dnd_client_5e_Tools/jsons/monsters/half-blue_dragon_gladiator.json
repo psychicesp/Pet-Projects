@@ -43,6 +43,11 @@
         "Brave": "The half-dragon has advantage on saving throws against being frightened.",
         "Brute": "A melee weapon deals one extra die of its damage when the half-dragon hits with it (included in the attack)."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

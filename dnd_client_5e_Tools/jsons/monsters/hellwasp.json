@@ -34,6 +34,11 @@
     "traits": {
         "Magic Weapons": "The hellwasp's weapon attacks are magical."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

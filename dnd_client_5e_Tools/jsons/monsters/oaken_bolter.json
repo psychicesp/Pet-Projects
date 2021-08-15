@@ -33,6 +33,11 @@
     "traits": {
         "Magic Resistance": "The oaken bolter has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

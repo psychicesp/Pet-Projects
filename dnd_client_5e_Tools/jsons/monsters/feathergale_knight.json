@@ -30,6 +30,11 @@
     "page": 189,
     "book": "Princes of the Apocalypse",
     "traits": {},
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

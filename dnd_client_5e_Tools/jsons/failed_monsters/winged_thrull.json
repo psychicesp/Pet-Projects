@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "9",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "8",
+    "wisdom": "9",
+    "charisma": "8",
+    "name": "Winged Thrull",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "understands Common but can\\'t speak"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 221,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "actions": {}
+}

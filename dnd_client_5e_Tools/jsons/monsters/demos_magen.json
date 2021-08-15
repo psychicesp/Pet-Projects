@@ -33,6 +33,11 @@
         "Magic Resistance": "The magen has advantage on saving throws against spells and other magical effects.",
         "Unusual Nature": "The magen doesn't require air, food, drink, or sleep."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

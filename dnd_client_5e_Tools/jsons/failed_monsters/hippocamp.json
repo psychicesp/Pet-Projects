@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "hit": "4d10",
+    "strength": "14",
+    "dexterity": "15",
+    "constitution": "11",
+    "intelligence": "5",
+    "wisdom": "10",
+    "charisma": "6",
+    "name": "Hippocamp",
+    "AC": 13,
+    "speed": [
+        "20 ft",
+        "swim 50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "cold"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 227,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Amphibious": "The hippocamp can breathe air and water.",
+        "Charge": "If the hippocamp moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 12+1d4 + 10 Strength saving throw or be knocked prone."
+    },
+    "actions": {}
+}

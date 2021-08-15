@@ -26,6 +26,11 @@
     "traits": {
         "Standing Leap": "The moorbounder's long jump is up to 40 feet and its high jump is up to 20 feet, with or without a running start."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

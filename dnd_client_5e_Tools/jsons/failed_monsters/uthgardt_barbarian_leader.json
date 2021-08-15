@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "15",
+    "constitution": "17",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "9",
+    "name": "Uthgardt Barbarian Leader",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Bothii",
+        "Common",
+        "Elvish"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 86,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Reckless": "At the start of its turn, the barbarian can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+    },
+    "actions": {}
+}

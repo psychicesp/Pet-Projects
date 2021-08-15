@@ -32,5 +32,6 @@
     "book": "Candlekeep Mysteries",
     "traits": {
         "Alternate Forms": "The gingwatzim has two alternate forms, both of which are chosen by its creator when the gingwatzim comes into being. One form is an exact duplicate of a Tiny nonmagical object (such as a book, dagger, or gemstone) that its creator is carrying or wearing when the gingwatzim is conjured. The other form can be any Tiny beast. Once these alternate forms are chosen, they can't be changed."
-    }
+    },
+    "actions": {}
 }

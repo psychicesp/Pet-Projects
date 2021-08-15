@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "26",
+    "dexterity": "10",
+    "constitution": "20",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "1",
+    "perception": "+2",
+    "stealth": "+2",
+    "name": "Living Bigby\\'s Hand",
+    "AC": 20,
+    "speed": [
+        "0 ft",
+        "fly 60 ft. (hover)"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 298,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Magic Resistance": "The living spell has advantage on saving throws against spells and other magical effects.",
+        "Unusual Nature": "The living spell doesn't require air, food, drink, or sleep."
+    },
+    "actions": {}
+}

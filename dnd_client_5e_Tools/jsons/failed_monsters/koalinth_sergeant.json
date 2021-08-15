@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "11",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "12",
+    "athletics": "+4",
+    "perception": "+2",
+    "name": "Koalinth Sergeant",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Goblin"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 239,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Amphibious": "The koalinth can breathe air and water.",
+        "Martial Advantage": "Once per turn, the sergeant can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the sergeant that isn't incapacitated."
+    },
+    "actions": {}
+}

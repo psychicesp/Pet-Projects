@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "hit": "6d6",
+    "strength": "5",
+    "dexterity": "11",
+    "constitution": "10",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "12",
+    "name": "Steam Mephit",
+    "AC": 10,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Aquan",
+        "Ignan"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 217,
+    "book": "Monster Manual",
+    "traits": {
+        "Death Burst": "When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10+1d4 + 8 Dexterity saving throw or take 4 (1d8) fire damage.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "blur"
+            ]
+        }
+    },
+    "actions": {}
+}

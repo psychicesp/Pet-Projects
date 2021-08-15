@@ -43,6 +43,11 @@
         "Limited Spines": "The devil has twelve tail spines. Used spines regrow by the time the devil finishes a long rest.",
         "Magic Resistance": "The devil has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Small",
     "type": "fiend"

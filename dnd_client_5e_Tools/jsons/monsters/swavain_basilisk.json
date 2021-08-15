@@ -34,6 +34,11 @@
         "Amphibious": "The basilisk can breathe air and water.",
         "Petrifying Secretions": "A creature must make a DC 13+1d6 + 10 Constitution saving throw if it hits the basilisk with a weapon attack while within 5 feet of it or if it starts its turn grappled by the basilisk. Unless the save succeeds, the creature magically begins to turn to stone and is restrained, and it must repeat the saving throw at the end of its next turn. On a successful save, the effect ends. On a failure, the creature is petrified."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "monstrosity"

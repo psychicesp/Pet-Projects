@@ -36,6 +36,11 @@
         "Camouflage": "The jaculi has advantage on Dexterity (Stealth) checks made to hide.",
         "Keen Smell": "The jaculi has advantage on Wisdom (Perception) checks that rely on smell."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

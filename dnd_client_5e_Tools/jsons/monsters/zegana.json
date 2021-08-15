@@ -76,6 +76,16 @@
             ]
         }
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Adaptive Skin": "Zegana gains resistance to one damage type of her choice-acid, fire, lightning, or thunder-until the start of her next turn.",
+            "Trident": "Zegana makes one melee attack with the Prime Speaker's",
+            "Enlarge (Costs 2 Actions)": "Zegana casts enlarge/reduce on herself, using the enlarge option, without expending a spell slot.",
+            "Deluge (Costs 3 Actions)": "Zegana uses Deluge, if available."
+        }
+    },
     "alignment": "LN",
     "size": "Medium",
     "type": "humanoid"

@@ -1,0 +1,60 @@
+{
+    "tags": [],
+    "strength": "28",
+    "dexterity": "12",
+    "constitution": "26",
+    "intelligence": "19",
+    "wisdom": "15",
+    "charisma": "18",
+    "insight": "+10",
+    "intimidation": "+12",
+    "perception": "+10",
+    "name": "Marut",
+    "AC": 22,
+    "speed": [
+        "40 ft",
+        "fly 30 ft. (hover)"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "thunder",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, paralyzed, poisoned, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "all but rarely speaks"
+    ],
+    "CR": "25 (75,000 XP)",
+    "page": 213,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Immutable Form": "The marut is immune to any spell or effect that would alter its form.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "plane shift"
+            ]
+        },
+        "Legendary Resistance (3/Day)": "If the marut fails a saving throw, it can choose to succeed instead.",
+        "Magic Resistance": "The marut has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {}
+}

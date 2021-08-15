@@ -27,6 +27,11 @@
         "Magic Resistance": "The ram has advantage on saving throws against spells and other magical effects.",
         "Sure-Footed": "The ram has advantage on Strength and Dexterity saving throws against effects that would knock it prone."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "monstrosity"

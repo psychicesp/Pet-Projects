@@ -33,6 +33,11 @@
         "Maintainable": "Repairing 1 hit point of damage to the clockwork mule takes 1 hour and requires replacement parts, which can be bought in a large city for 20 gp. If the mule drops to 0 hit points, it is destroyed and unrepairable.",
         "Sure-Footed": "The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

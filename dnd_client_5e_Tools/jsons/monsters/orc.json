@@ -32,6 +32,11 @@
     "traits": {
         "Aggressive": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

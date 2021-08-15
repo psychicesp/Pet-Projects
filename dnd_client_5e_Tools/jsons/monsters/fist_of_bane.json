@@ -30,6 +30,11 @@
     "traits": {
         "Tactical Discipline": "The fist of Bane has advantage on all ability checks and saving throws made during combat."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

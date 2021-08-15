@@ -31,6 +31,11 @@
     "traits": {
         "Stone Camouflage": "The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "monstrosity"

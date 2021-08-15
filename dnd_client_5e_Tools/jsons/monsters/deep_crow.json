@@ -38,6 +38,11 @@
         "Shadow Stealth": "While in dim light or darkness, the deep crow can take the Hide action as a bonus action.",
         "Sunlight Sensitivity": "While in sunlight, the deep crow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

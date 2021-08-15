@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "18",
+    "constitution": "15",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "7",
+    "name": "Fluxcharger",
+    "AC": 16,
+    "speed": [
+        "0 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "lightning, poison"
+    ],
+    "resistances": [
+        "thunder",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Draconic"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 208,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Amplify Lightning": "Whenever a spell that deals lightning damage includes one or more fluxchargers in its area, the spell deals an extra 9 (2d8) lightning damage."
+    },
+    "actions": {}
+}

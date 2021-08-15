@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "15",
+    "constitution": "14",
+    "intelligence": "2",
+    "wisdom": "13",
+    "charisma": "8",
+    "name": "Category 1 Krasis",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 210,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Amphibious": "The krasis can breathe air and water."
+    },
+    "actions": {}
+}

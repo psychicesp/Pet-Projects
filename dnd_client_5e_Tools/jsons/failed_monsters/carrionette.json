@@ -31,5 +31,6 @@
     "traits": {
         "False Object": "If the carrionette is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the carrionette move or act, that creature must succeed on a DC 15+1d4 + 13 Wisdom (Perception) check to discern that the carrionette is animate.",
         "Unusual Nature": "The carrionette doesn't require air, food, drink, or sleep."
-    }
+    },
+    "actions": {}
 }

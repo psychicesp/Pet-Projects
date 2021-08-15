@@ -47,6 +47,11 @@
         "Flyby": "The gloamwing doesn't provoke an opportunity attack when it flies out of an enemy's reach.",
         "Sunlight Sensitivity": "While in sunlight, the gloamwing has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "undead"

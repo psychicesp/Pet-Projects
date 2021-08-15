@@ -35,6 +35,11 @@
         "Chameleon Skin": "The hybrid has advantage on Dexterity (Stealth) checks made to hide.",
         "Spider Climb": "The hybrid can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NG",
     "size": "Medium",
     "type": "humanoid"

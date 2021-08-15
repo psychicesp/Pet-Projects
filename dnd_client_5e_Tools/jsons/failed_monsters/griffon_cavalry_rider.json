@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "15",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "10",
+    "athletics": "+4",
+    "perception": "+3",
+    "name": "Griffon Cavalry Rider",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "animal handling": "proficient",
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 197,
+    "book": "Waterdeep: Dragon Heist",
+    "actions": {}
+}

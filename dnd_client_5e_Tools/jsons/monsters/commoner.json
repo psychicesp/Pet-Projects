@@ -25,6 +25,11 @@
     "CR": "0 (0 or 10 XP)",
     "page": 345,
     "book": "Monster Manual",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

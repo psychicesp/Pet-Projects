@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "hit": "2d6",
+    "strength": "8",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "8",
+    "wisdom": "11",
+    "charisma": "5",
+    "name": "Myconid Sprout",
+    "AC": 10,
+    "speed": [
+        "10 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 230,
+    "book": "Monster Manual",
+    "traits": {
+        "Distress Spores": "When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.",
+        "Sun Sickness": "While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight."
+    },
+    "actions": {}
+}

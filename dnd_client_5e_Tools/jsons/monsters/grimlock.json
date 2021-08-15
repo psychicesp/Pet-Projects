@@ -40,6 +40,11 @@
         "Keen Hearing and Smell": "The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
         "Stone Camouflage": "The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

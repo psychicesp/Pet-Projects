@@ -38,6 +38,11 @@
     "traits": {
         "Dual Mind": "The kalashtar has advantage on Wisdom saving throws."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

@@ -33,6 +33,11 @@
         "Pounce": "If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13+1d4 + 11 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action.",
         "Running Leap": "With a 10-foot running start, the lion can long jump up to 25 feet."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

@@ -42,6 +42,11 @@
         "Limited Flight": "The dragonsoul can use a bonus action to gain a flying speed of 30 feet until the end of its turn.",
         "Pack Tactics": "The dragonsoul has advantage on an attack roll against a creature if at least one of the dragonsoul's allies is within 5 feet of the creature and the ally isn't incapacitated."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

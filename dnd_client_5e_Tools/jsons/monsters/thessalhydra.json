@@ -33,6 +33,14 @@
     "CR": "4 (1,100 XP)",
     "page": 41,
     "book": "Hunt for the Thessalhydra",
+    "actions": {},
+    "legendary_actions": {
+        "number": 2,
+        "options": {
+            "Detect": "The thessalhydra makes a Wisdom (Perception) check with advantage.",
+            "Tail Swipe": "The thessalhydra makes a tail pincer attack."
+        }
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "monstrosity"

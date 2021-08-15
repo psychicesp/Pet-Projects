@@ -47,6 +47,11 @@
         "Shadow Stealth": "While in dim light or darkness, the nergaliid can take the Hide action as a bonus action.",
         "Standing Leap": "The nergaliid's long jump is up to 30 feet and its high jump is up to 20 feet, with or without a running start."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

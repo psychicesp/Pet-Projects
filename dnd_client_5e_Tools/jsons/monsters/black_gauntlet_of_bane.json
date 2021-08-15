@@ -56,6 +56,11 @@
         },
         "Tactical Discipline": "The black gauntlet has advantage on all ability checks and saving throws made during combat."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

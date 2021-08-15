@@ -43,6 +43,11 @@
         "Flyby": "The angel doesn't provoke an opportunity attack when it flies out of an enemy's reach.",
         "Magic Resistance": "The angel has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LG",
     "size": "Medium",
     "type": "celestial"

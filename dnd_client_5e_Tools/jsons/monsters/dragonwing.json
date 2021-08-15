@@ -41,6 +41,11 @@
         "Limited Flight": "The dragonwing can use a bonus action to gain a flying speed of 30 feet until the end of its turn.",
         "Pack Tactics": "The dragonwing has advantage on an attack roll against a creature if at least one of the dragonwing's allies is within 5 feet of the creature and the ally isn't incapacitated."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

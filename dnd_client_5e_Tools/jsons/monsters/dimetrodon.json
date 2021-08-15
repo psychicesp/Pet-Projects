@@ -26,6 +26,11 @@
     "CR": "1/4 (50 XP)",
     "page": 139,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

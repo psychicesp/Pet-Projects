@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "12",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "10",
+    "perception": "+2",
+    "name": "Lords\\' Alliance Guard",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 131,
+    "book": "Out of the Abyss",
+    "traits": {
+        "Dwarven Resilience": "The guard has advantage on saving throws against poison."
+    },
+    "actions": {}
+}

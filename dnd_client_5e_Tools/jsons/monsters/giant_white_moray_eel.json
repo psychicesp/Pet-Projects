@@ -32,6 +32,11 @@
     "traits": {
         "Water Breathing": "The eel can breathe only underwater."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "beast"

@@ -35,6 +35,11 @@
         "Lightfooted": "The swashbuckler can take the Dash or Disengage action as a bonus action on each of its turns.",
         "Suave Defense": "While the swashbuckler is wearing light or no armor and wielding no shield, its AC includes its Charisma modifier."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "ANA",
     "size": "Medium",
     "type": "humanoid"

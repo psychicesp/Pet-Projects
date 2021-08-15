@@ -41,6 +41,11 @@
         "Shadow Stealth": "While in dim light or darkness, the shadowghast can take the Hide action as a bonus action.",
         "Stench": "Any creature that starts its turn within 5 feet of the shadowghast must succeed on a DC 12+1d6 + 9 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to this Stench for 24 hours."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

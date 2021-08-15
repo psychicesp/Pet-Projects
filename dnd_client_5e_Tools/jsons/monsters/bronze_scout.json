@@ -41,6 +41,11 @@
         "Earth Armor": "The bronze scout doesn't provoke opportunity attacks when it burrows.",
         "Magic Resistance": "The bronze scout has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

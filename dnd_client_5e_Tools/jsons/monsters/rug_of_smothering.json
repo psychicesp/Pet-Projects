@@ -35,6 +35,11 @@
         "Damage Transfer": "While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.",
         "False Appearance": "While the rug remains motionless, it is indistinguishable from a normal rug."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "construct"

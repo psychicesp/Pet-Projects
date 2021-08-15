@@ -32,6 +32,11 @@
         "Echolocation": "The hook horror can't use its blindsight while deafened.",
         "Keen Hearing": "The hook horror has advantage on Wisdom (Perception) checks that rely on hearing."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Tiny",
     "type": "monstrosity"

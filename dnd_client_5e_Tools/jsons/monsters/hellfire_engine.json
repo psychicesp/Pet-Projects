@@ -41,6 +41,11 @@
         "Immutable Form": "The hellfire engine is immune to any spell or effect that would alter its form.",
         "Magic Resistance": "The hellfire engine has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Huge",
     "type": "construct"

@@ -48,6 +48,11 @@
         },
         "Nimble Escape": "The triton can take the Disengage or Hide actions as a bonus action on each of its turns."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

@@ -32,6 +32,14 @@
     "CR": "11 (7,200 XP)",
     "page": 158,
     "book": "Waterdeep: Dungeon of the Mad Mage",
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Lesser Magic": "The behir casts color spray or sleep, requiring no components.",
+            "Greater Magic (Costs 2 Actions)": "The behir casts invisibility or misty step, requiring no components."
+        }
+    },
     "alignment": "NE",
     "size": "Huge",
     "type": "monstrosity"

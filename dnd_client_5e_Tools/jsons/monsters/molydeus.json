@@ -60,6 +60,15 @@
         "Magic Resistance": "The molydeus has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The molydeus's weapon attacks are magical."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": "The molydeus makes one attack, either with its demonic weapon or with its snakebite.",
+            "Move": "The molydeus moves without provoking opportunity attacks.",
+            "Cast a Spell": "The molydeus casts one spell from its Innate Spellcasting trait."
+        }
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "fiend"

@@ -41,6 +41,11 @@
         "Halfling Nimbleness": "The Shard Shunner can move through the space of creatures that is of a size larger than them.",
         "Keen Smell": "The Shard Shunner has advantage on Wisdom (Perception) checks that rely on smell."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "S",
     "size": "Small",
     "type": "humanoid"

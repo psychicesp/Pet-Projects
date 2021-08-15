@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "16",
+    "constitution": "16",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "12",
+    "perception": "+3",
+    "stealth": "+6",
+    "name": "Vampire Spawn",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 298,
+    "book": "Monster Manual",
+    "traits": {
+        "Regeneration": "The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.",
+        "Spider Climb": "The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+        "Vampire Weaknesses": "The vampire has the following flaws:"
+    },
+    "actions": {}
+}

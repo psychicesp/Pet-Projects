@@ -58,6 +58,11 @@
         "Magic Weapons": "The couatl's weapon attacks are magical.",
         "Shielded Mind": "The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LG",
     "size": "Medium",
     "type": "celestial"

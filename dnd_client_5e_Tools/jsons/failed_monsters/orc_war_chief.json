@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "12",
+    "constitution": "18",
+    "intelligence": "11",
+    "wisdom": "11",
+    "charisma": "16",
+    "intimidation": "+5",
+    "name": "Orc War Chief",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Orc"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 246,
+    "book": "Monster Manual",
+    "traits": {
+        "Aggressive": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+        "Gruumsh\\'s Fury": "The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attacks)."
+    },
+    "actions": {}
+}

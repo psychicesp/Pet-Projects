@@ -1,0 +1,54 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "11",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "16",
+    "deception": "+5",
+    "religion": "+2",
+    "stealth": "+2",
+    "name": "Crushing Wave Priest",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "religion": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Aquan",
+        "Common"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 205,
+    "book": "Princes of the Apocalypse",
+    "traits": {
+        "spellcasting": {
+            "level": 5,
+            "type": "sorcerer",
+            "spells": [
+                "chill touch",
+                "mage hand",
+                "minor illusion",
+                "prestidigitation",
+                "ray of frost",
+                "expeditious retreat",
+                "ice knife",
+                "magic missile",
+                "shield",
+                "blur",
+                "hold person",
+                "sleet storm"
+            ]
+        }
+    },
+    "actions": {}
+}

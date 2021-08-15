@@ -34,5 +34,6 @@
     "traits": {
         "Jiangshi Weaknesses": "The jiangshi has the following flaws:",
         "Unusual Nature": "The jiangshi doesn't require air."
-    }
+    },
+    "actions": {}
 }

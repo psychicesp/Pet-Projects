@@ -45,5 +45,14 @@
     "traits": {
         "Legendary Resistance (4/Day)": "If the emissary fails a saving throw, it can choose to succeed instead.",
         "Unusual Nature": "The emissary doesn't require air, food, drink, or sleep."
+    },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": "The emissary teleports up to 30 feet to an unoccupied space it can see and makes one attack.",
+            "Warp Space (Costs 2 Actions)": "The emissary causes the ground in a 20-foot square that it can see within 90 feet of it to turn into teeth and maws until the start of its next turn. The area becomes difficult terrain for the duration. Any creature takes 10 (3d6) piercing damage for each 5 feet it moves on this terrain.",
+            "Mind Cloud (Costs 3 Actions)": "The emissary unleashes a psychic wave. Each creature within 30 feet of the emissary must succeed on a DC 23+1d14 + 16 Wisdom saving throw or take 32 (5d12) psychic damage. In addition, every spell ends on creatures and objects of the emissary's choice in that area."
+        }
     }
 }

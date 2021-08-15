@@ -1,0 +1,50 @@
+{
+    "tags": [],
+    "hit": "2d8",
+    "strength": "11",
+    "dexterity": "12",
+    "constitution": "11",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "16",
+    "deception": "+5",
+    "insight": "+4",
+    "perception": "+4",
+    "persuasion": "+5",
+    "name": "Drow Noble",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "insight": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "any two languages",
+        "Elvish"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 196,
+    "book": "Out of the Abyss",
+    "traits": {
+        "Fey Ancestry": "The drow noble has advantage on saving throws against being charmed, and magic can't put the drow noble to sleep.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights",
+                "darkness",
+                "faerie fire"
+            ]
+        },
+        "Sunlight Sensitivity": "While in sunlight, the drow noble has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
+    "actions": {}
+}

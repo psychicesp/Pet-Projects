@@ -1,0 +1,51 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "14",
+    "wisdom": "14",
+    "charisma": "16",
+    "insight": "+5",
+    "perception": "+5",
+    "name": "Tsucora Quori",
+    "AC": 16,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "psychic"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Common",
+        "Quori"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 307,
+    "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "charm person",
+                "fear"
+            ]
+        }
+    },
+    "actions": {}
+}

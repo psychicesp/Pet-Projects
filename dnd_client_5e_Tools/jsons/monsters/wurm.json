@@ -33,6 +33,11 @@
         "Siege Monster": "The wurm deals double damage to objects and structures.",
         "Tunneler": "The wurm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "monstrosity"

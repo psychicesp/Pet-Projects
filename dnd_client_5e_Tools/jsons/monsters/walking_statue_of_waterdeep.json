@@ -38,6 +38,11 @@
         "Magic Resistance": "The statue has advantage on saving throws against spells and other magical effects.",
         "Siege Monster": "The statue deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Gargantuan",
     "type": "construct"

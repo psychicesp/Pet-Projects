@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "11",
+    "constitution": "17",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "14",
+    "insight": "+3",
+    "intimidation": "+4",
+    "perception": "+3",
+    "name": "Orc Blade of Ilneval",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Orc"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 183,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Aggressive": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+        "Foe Smiter of Ilneval": "The orc deals an extra die of damage when it hits with a longsword attack (included in the attack)."
+    },
+    "actions": {}
+}

@@ -1,0 +1,64 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "18",
+    "constitution": "16",
+    "intelligence": "16",
+    "wisdom": "19",
+    "charisma": "18",
+    "name": "Guardian Naga",
+    "AC": 18,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Celestial",
+        "Common"
+    ],
+    "CR": "10 (5,900 XP)",
+    "page": 234,
+    "book": "Monster Manual",
+    "traits": {
+        "Rejuvenation": "If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.",
+        "spellcasting": {
+            "level": 11,
+            "type": "cleric",
+            "spells": [
+                "mending",
+                "sacred flame",
+                "thaumaturgy",
+                "command",
+                "cure wounds",
+                "shield of faith",
+                "calm emotions",
+                "hold person",
+                "bestow curse",
+                "clairvoyance",
+                "banishment",
+                "freedom of movement",
+                "flame strike",
+                "geas",
+                "true seeing"
+            ]
+        }
+    },
+    "actions": {}
+}

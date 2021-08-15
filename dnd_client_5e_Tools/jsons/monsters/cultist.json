@@ -33,6 +33,11 @@
     "traits": {
         "Dark Devotion": "The cultist has advantage on saving throws against being charmed or frightened."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "ANA",
     "size": "Medium",
     "type": "humanoid"

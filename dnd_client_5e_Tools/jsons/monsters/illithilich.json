@@ -86,6 +86,24 @@
         "Rejuvenation": "If it has a phylactery, a destroyed illithilich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.",
         "Turn Resistance": "The illithilich has advantage on saving throws against any effect that turns undead."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Tentacles": "The illithilich makes one attack with its tentacles.",
+            "Extract Brain (Costs 2 Actions)": "The illithilich uses Extract Brain.",
+            "Mind Blast (Costs 3 Actions)": "The illithilich recharges its Mind Blast and uses it.",
+            "Cast Spell (Costs 1xe2x80x933 Actions)": "The illithilich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has prepared. Doing so costs 1 legendary action per level of the spell."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "The illithilich rolls a d8 and regains a spell slot of that level or lower. If it has no spent spell slots of that level or lower, nothing happens.",
+            "The illithilich targets one creature it can see within 30 feet of it. A crackling cord of negative energy tethers the illithilich to the target. Whenever the illithilich takes damage, the target must make a DC 18+1d14 + 11 Constitution saving throw. On a failed save, the illithilich takes half the damage (rounded down), and the target takes the remaining damage. This tether lasts until initiative count 20 on the next round or until the illithilich or the target is no longer in the illithilich's lair.",
+            "The illithilich calls forth the spirits of creatures that died in its lair. These apparitions materialize and attack one creature that the illithilich can see within 60 feet of it. The target must succeed on a DC 18+1d14 + 11 Constitution saving throw, taking 52 (15d6) necrotic damage on a failed save, or half as much damage on a success. The apparitions then disappear."
+        ]
+    },
     "alignment": "AEA",
     "size": "Medium",
     "type": "undead"

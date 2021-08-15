@@ -72,6 +72,15 @@
         "Magic Weapons": "Moloch's weapon attacks are magical.",
         "Regeneration": "Moloch regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Moloch dies only if he starts his turn with 0 hit points and doesn't regenerate."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Stinking Cloud": "Moloch casts stinking cloud.",
+            "Teleport": "Moloch uses his Teleport action.",
+            "Whip": "Moloch makes one attack with his whip."
+        }
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

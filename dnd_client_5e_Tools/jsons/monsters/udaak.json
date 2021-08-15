@@ -37,6 +37,11 @@
         "Charge": "If the udaak moves at least 20 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 27 (6d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 21+1d10 + 16 Strength saving throw or be pushed up to 20 feet away from the udaak and knocked prone.",
         "Siege Monster": "The udaak deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Gargantuan",
     "type": "fiend"

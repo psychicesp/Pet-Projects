@@ -72,6 +72,22 @@
         "Magic Weapons": "Fraz-Urb'luu's weapon attacks are magical.",
         "Undetectable": "Fraz-Urb'luu can't be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or fiends."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Tail": "Melee Weapon Attack: +16+1d14 + 9 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) bludgeoning damage. If the target is a Large or smaller creature, it is also grappled (escape DC 24+1d14 + 17). The grappled target is also restrained. Fraz-Urb'luu can grapple only one creature with his tail at a time.",
+            "Phantasmal Killer (Costs 2 Actions)": "Fraz-Urb'luu casts phantasmal killer, no concentration required."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Fraz-Urb'luu causes up to 5 doors within the lair to become walls, and an equal number of doors to appear on walls where there previously were none.",
+            "Fraz-Urb'luu chooses one humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the simulacrum spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count 20.",
+            "Fraz-Urb'luu creates a wave of anguish. Each creature he can see within the lair must succeed on a DC 23+1d14 + 16 Wisdom saving throw or take 33 (6d10) psychic damage."
+        ]
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

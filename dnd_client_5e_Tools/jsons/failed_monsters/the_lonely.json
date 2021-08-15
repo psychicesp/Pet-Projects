@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "17",
+    "intelligence": "6",
+    "wisdom": "11",
+    "charisma": "6",
+    "name": "The Lonely",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "bludgeoning, piercing, and slashing while in dim light or darkness"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "9 (5,000 XP)",
+    "page": 232,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Psychic Leech": "At the start of each of the Lonely's turns, each creature within 5 feet of it must succeed on a DC 15+1d8 + 11 Wisdom saving throw or take 10 (3d6) psychic damage.",
+        "Thrives on Company": "The Lonely has advantage on attack rolls while it is within 30 feet of at least two other creatures. It otherwise has disadvantage on attack rolls."
+    },
+    "actions": {}
+}

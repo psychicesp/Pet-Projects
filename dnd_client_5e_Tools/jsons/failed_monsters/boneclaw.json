@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "13",
+    "wisdom": "15",
+    "charisma": "9",
+    "perception": "+6",
+    "stealth": "+7",
+    "name": "Boneclaw",
+    "AC": 16,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "cold, necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Common plus the main language of its master"
+    ],
+    "CR": "12 (8,400 XP)",
+    "page": 121,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Rejuvenation": "While its master lives, a destroyed boneclaw gains a new body in 1d10 hours, with all its hit points. The new body appears within 1 mile of the boneclaw's master.",
+        "Shadow Stealth": "While in dim light or darkness, the boneclaw can take the Hide action as a bonus action."
+    },
+    "actions": {}
+}

@@ -1,0 +1,56 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "17",
+    "constitution": "22",
+    "intelligence": "4",
+    "wisdom": "14",
+    "charisma": "6",
+    "perception": "+7",
+    "stealth": "+8",
+    "survival": "+7",
+    "name": "Steel Predator",
+    "AC": 20,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient",
+        "survival": "proficient"
+    },
+    "damage_immunities": [
+        "poison, psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "resistances": [
+        "cold, lightning, necrotic, thunder"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "understands Modron and the language of its owner but can't speak"
+    ],
+    "CR": "16 (15,000 XP)",
+    "page": 239,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dimension door",
+                "plane shift"
+            ]
+        },
+        "Magic Resistance": "The steel predator has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The steel predator's weapon attacks are magical."
+    },
+    "actions": {}
+}

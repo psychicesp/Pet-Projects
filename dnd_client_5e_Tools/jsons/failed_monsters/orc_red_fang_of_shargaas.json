@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "11",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "9",
+    "intimidation": "+1",
+    "perception": "+2",
+    "stealth": "+5",
+    "name": "Orc Red Fang of Shargaas",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Orc"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 185,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Cunning Action": "On each of its turns, the orc can use a bonus action to take the Dash, Disengage, or Hide action.",
+        "Hand of Shargaas": "The orc deals 2 extra dice of damage when it hits a target with a weapon attack (included in its attacks).",
+        "Shargaas\\'s Sight": "Magical darkness doesn't impede the orc's darkvision.",
+        "Slayer": "In the first round of a combat, the orc has advantage on attack rolls against any creature that hasn't taken a turn yet. If the orc hits a creature that round who was surprised, the hit is automatically a critical hit."
+    },
+    "actions": {}
+}

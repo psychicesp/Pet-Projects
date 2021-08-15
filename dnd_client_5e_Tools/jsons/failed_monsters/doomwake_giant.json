@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "12",
+    "constitution": "22",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "16",
+    "intimidation": "+7",
+    "perception": "+6",
+    "name": "Doomwake Giant",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "condition_immunities": [
+        "frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "11 (7,200 XP)",
+    "page": 224,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Aura of Erebos": "Any creature that starts its turn within 10 feet of the giant must succeed on a DC 18+1d8 + 14 Constitution saving throw, or it takes 10 (3d6) necrotic damage and can't regain hit points until the start of its next turn. On a successful saving throw, the creature is immune to the giant's Aura of Erebos for 24 hours.",
+        "Magic Resistance": "The giant has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {}
+}

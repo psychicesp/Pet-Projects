@@ -68,6 +68,11 @@
         "Magic Resistance": "The abishai has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The abishai's weapon attacks are magical."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "fiend"

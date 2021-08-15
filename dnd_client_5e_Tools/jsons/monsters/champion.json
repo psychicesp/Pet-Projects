@@ -38,6 +38,11 @@
         "Indomitable (2/Day)": "The champion rerolls a failed saving throw.",
         "Second Wind (Recharges after a Short or Long Rest)": "As a bonus action, the champion can regain 20 hit points."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

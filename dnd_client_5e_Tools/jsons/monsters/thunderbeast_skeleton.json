@@ -29,6 +29,11 @@
     "CR": "3 (700 XP)",
     "page": 99,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "undead"

@@ -41,6 +41,11 @@
         "Lure": "The deep diver can cause its lure to light up or darken at will. While the lure is lit, the deep diver sheds bright light in a 30-foot radius centered on itself and dim light for an additional 20 feet.",
         "Shark Telepathy": "The deep diver can magically command any shark within 120 feet of it, using a limited telepathy."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

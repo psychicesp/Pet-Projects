@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "15",
+    "athletics": "+10",
+    "intimidation": "+5",
+    "survival": "+5",
+    "name": "Reghed Great Warrior",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "athletics": "expert",
+        "intimidation": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 152,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Brave": "The great warrior has advantage on saving throws against being frightened.",
+        "Brute": "A melee weapon deals one extra die of its damage when the great warrior hits with it (included in the attack)."
+    },
+    "actions": {}
+}

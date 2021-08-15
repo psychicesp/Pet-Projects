@@ -1,0 +1,53 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "15",
+    "intelligence": "15",
+    "wisdom": "12",
+    "charisma": "10",
+    "arcana": "+4",
+    "intimidation": "+2",
+    "perception": "+3",
+    "name": "Reckoner",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 231,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "First Strike": "The reckoner has advantage on initiative rolls.",
+        "spellcasting": {
+            "level": 5,
+            "type": "wizard",
+            "spells": [
+                "blade ward",
+                "light",
+                "message",
+                "shocking grasp",
+                "guiding bolt",
+                "shield",
+                "thunderwave",
+                "witch bolt",
+                "blur",
+                "levitate",
+                "lightning bolt"
+            ]
+        }
+    },
+    "actions": {}
+}

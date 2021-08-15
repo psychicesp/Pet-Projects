@@ -1,0 +1,28 @@
+{
+    "tags": [],
+    "strength": "5",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "1",
+    "wisdom": "7",
+    "charisma": "3",
+    "name": "Giant Centipede",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 323,
+    "book": "Monster Manual",
+    "actions": {}
+}

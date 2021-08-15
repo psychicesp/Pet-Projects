@@ -54,6 +54,11 @@
         "Stone Camouflage": "The korred has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.",
         "Stone's Strength": "While on the ground, the korred deals 2 extra dice of damage with any weapon attack (included in its attacks)."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CN",
     "size": "Small",
     "type": "fey"

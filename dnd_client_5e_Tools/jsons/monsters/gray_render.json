@@ -29,6 +29,11 @@
     "CR": "12 (8,400 XP)",
     "page": 209,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CN",
     "size": "Large",
     "type": "monstrosity"

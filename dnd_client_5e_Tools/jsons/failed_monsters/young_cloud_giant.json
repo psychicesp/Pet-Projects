@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "8",
+    "constitution": "19",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "12",
+    "insight": "+4",
+    "perception": "+4",
+    "name": "Young Cloud Giant",
+    "AC": 13,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common",
+        "Giant"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 112,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect magic",
+                "fog cloud",
+                "light",
+                "feather fall",
+                "fly",
+                "misty step",
+                "telekinesis",
+                "control weather",
+                "gaseous form"
+            ]
+        },
+        "Keen Smell": "The giant has advantage on Wisdom (Perception) checks that rely on smell."
+    },
+    "actions": {}
+}

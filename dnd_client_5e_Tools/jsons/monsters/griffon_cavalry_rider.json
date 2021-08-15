@@ -30,6 +30,11 @@
     "CR": "2 (450 XP)",
     "page": 197,
     "book": "Waterdeep: Dragon Heist",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

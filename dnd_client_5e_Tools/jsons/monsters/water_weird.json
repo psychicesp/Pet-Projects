@@ -38,6 +38,11 @@
         "Invisible in Water": "The water weird is invisible while fully immersed in water.",
         "Water Bound": "The water weird dies if it leaves the water to which it is bound or if that water is destroyed."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Large",
     "type": "elemental"

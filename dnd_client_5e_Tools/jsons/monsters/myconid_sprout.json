@@ -28,6 +28,11 @@
         "Distress Spores": "When the myconid takes damage, all other myconids within 240 feet of it can sense its pain.",
         "Sun Sickness": "While in sunlight, the myconid has disadvantage on ability checks, attack rolls, and saving throws. The myconid dies if it spends more than 1 hour in direct sunlight."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LN",
     "size": "Small",
     "type": "plant"

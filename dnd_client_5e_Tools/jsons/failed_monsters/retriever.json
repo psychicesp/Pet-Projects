@@ -1,0 +1,57 @@
+{
+    "tags": [],
+    "strength": "22",
+    "dexterity": "16",
+    "constitution": "20",
+    "intelligence": "3",
+    "wisdom": "11",
+    "charisma": "4",
+    "perception": "+5",
+    "stealth": "+8",
+    "name": "Retriever",
+    "AC": 19,
+    "speed": [
+        "40 ft",
+        "climb 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic, poison, psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "understands Abyssal",
+        "Elvish",
+        "and Undercommon but can\\'t speak"
+    ],
+    "CR": "14 (11,500 XP)",
+    "page": 222,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Faultless Tracker": "The retriever is given a quarry by its master. The quarry can be a specific creature or object the master is personally acquainted with, or it can be a general type of creature or object the master has seen before. The retriever knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The retriever can have only one such quarry at a time. The retriever also always knows the location of its master.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "plane shift",
+                "web"
+            ]
+        }
+    },
+    "actions": {}
+}

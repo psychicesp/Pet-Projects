@@ -36,5 +36,6 @@
         "Undead Fortitude": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
         "Unusual Nature": "The zombie doesn't require air, food, drink, or sleep.",
         "Viral Aura": "Any creature that starts its turn within 10 feet of the plague spreader must make a DC 12+1d4 + 10 Constitution saving throw. On a failed save, the creature is poisoned and can't regain hit points until the end of its next turn. On a successful save, the creature is immune to this plague spreader's Viral Aura for 24 hours."
-    }
+    },
+    "actions": {}
 }

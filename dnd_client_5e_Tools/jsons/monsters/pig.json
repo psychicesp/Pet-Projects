@@ -22,6 +22,11 @@
     "CR": "0 (0 or 10 XP)",
     "page": 143,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

@@ -36,6 +36,11 @@
         "Freezing Body": "A creature that touches the worm or hits it with a melee attack while within 5 feet of it takes 10 (3d6) cold damage.",
         "Tunneler": "The worm can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Gargantuan",
     "type": "monstrosity"

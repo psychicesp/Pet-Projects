@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "11",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "11",
+    "intimidation": "+2",
+    "name": "Vistana Thug",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 28,
+    "book": "Curse of Strahd",
+    "traits": {
+        "Pack Tactics": "The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {}
+}

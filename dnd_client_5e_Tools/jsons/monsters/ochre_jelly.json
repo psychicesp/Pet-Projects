@@ -37,6 +37,11 @@
         "Amorphous": "The jelly can move through a space as narrow as 1 inch wide without squeezing.",
         "Spider Climb": "The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "ooze"

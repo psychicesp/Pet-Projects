@@ -33,6 +33,11 @@
         "Camouflage": "The octopus has advantage on Dexterity (Stealth) checks.",
         "Water Breathing": "The octopus can breathe only underwater."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

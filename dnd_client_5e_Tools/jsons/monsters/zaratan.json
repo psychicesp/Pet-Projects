@@ -44,6 +44,18 @@
         "Magic Weapons": "The zaratan's weapon attacks are magical.",
         "Siege Monster": "The elemental deals double damage to objects and structures (included in Earth-Shaking Movement)."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Stomp": "The zaratan makes one stomp attack.",
+            "Move": "The zaratan moves up to its speed.",
+            "Spit (Costs 2 Actions)": "The zaratan uses Spit Rock.",
+            "Retract (Costs 2 Actions)": "The zaratan retracts into its shell. Until it takes its Emerge action, it has resistance to all damage, and it is restrained. The next time it takes a legendary action, it must take its Revitalize or Emerge action.",
+            "Revitalize (Costs 2 Actions)": "The zaratan can use this option only if it is retracted in its shell. It regains 52 (5d20) hit points. The next time it takes a legendary action, it must take its Emerge action.",
+            "Emerge (Costs 2 Actions)": "The zaratan emerges from its shell and uses Spit Rock. It can use this option only if it is retracted in its shell."
+        }
+    },
     "alignment": "N",
     "size": "Gargantuan",
     "type": "elemental"

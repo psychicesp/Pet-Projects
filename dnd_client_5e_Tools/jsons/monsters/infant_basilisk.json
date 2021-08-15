@@ -23,6 +23,11 @@
     "CR": "0 (0 or 10 XP)",
     "page": 100,
     "book": "Out of the Abyss",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "monstrosity"

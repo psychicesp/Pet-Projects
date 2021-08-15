@@ -26,6 +26,11 @@
         "Firearms Knowledge": "The giff's mastery of its weapons enables it to ignore the loading property of muskets and pistols.",
         "Headfirst Charge": "The giff can try to knock a creature over; if the giff moves at least 20 feet in a straight line that ends within 5 feet of a Large or smaller creature, that creature must succeed on a DC 14+1d4 + 12 Strength saving throw or take 7 (2d6) bludgeoning damage and be knocked prone."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LN",
     "size": "Medium",
     "type": "humanoid"

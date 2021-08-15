@@ -65,6 +65,25 @@
             ]
         }
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": "The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.",
+            "Blinding Dust": "Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16+1d10 + 11 Constitution saving throw or be blinded until the end of the creature's next turn.",
+            "Blasphemous Word (Costs 2 Actions)": "The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16+1d10 + 11 Constitution saving throw or be stunned until the end of the mummy lord's next turn.",
+            "Channel Negative Energy (Costs 2 Actions)": "The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can't regain hit points until the end of the mummy lord's next turn.",
+            "Whirlwind of Sand (Costs 2 Actions)": "The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.",
+            "Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.",
+            "Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16+1d10 + 11 Constitution saving throw. On a failed save, it takes 1d6 necrotic damage per level of the spell, and the spell has no effect and is wasted."
+        ]
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "undead"

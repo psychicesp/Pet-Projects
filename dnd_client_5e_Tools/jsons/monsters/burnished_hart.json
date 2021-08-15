@@ -34,6 +34,11 @@
         "Heated Body": "A creature that touches the hart or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage.",
         "Sure-Footed": "The hart has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

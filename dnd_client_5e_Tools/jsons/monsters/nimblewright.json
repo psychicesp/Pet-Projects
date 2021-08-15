@@ -42,6 +42,11 @@
         "Repairable": "As long as it has at least 1 hit point remaining, the nimblewright regains 1 hit point when a mending spell is cast on it.",
         "Sure-Footed": "The nimblewright has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

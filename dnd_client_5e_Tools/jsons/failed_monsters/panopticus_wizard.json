@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "hit": "2d8",
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "14",
+    "wisdom": "10",
+    "charisma": "11",
+    "arcana": "+4",
+    "history": "+4",
+    "name": "Panopticus Wizard",
+    "AC": 10,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "resistances": [
+        "poison"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Dwarvish"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 106,
+    "book": "Waterdeep: Dragon Heist",
+    "traits": {
+        "Dwarven Resilience": "The dwarf has advantage on saving throws against poison and resistance to poison damage."
+    },
+    "actions": {}
+}

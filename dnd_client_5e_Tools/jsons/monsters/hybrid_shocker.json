@@ -31,6 +31,11 @@
         "Electrified Body": "Any creature that touches the hybrid or hits it with a melee attack while within 5 feet of it takes 5 (1d10) lightning damage.",
         "Illumination": "The hybrid sheds bright light in a 10-foot radius and dim light for an additional 10 feet."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NG",
     "size": "Medium",
     "type": "humanoid"

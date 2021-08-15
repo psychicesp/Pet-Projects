@@ -60,6 +60,11 @@
         },
         "Turn Resistance": "The deathlock has advantage on saving throws against any effect that turns undead."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "undead"

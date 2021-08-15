@@ -40,6 +40,11 @@
         "Keen Hearing and Sight": "The wood elf has advantage on Wisdom (Perception) checks that rely on hearing or sight.",
         "Mask of the Wild": "The wood elf can attempt to hide even when they are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CG",
     "size": "Medium",
     "type": "humanoid"

@@ -1,0 +1,55 @@
+{
+    "tags": [],
+    "hit": "10d8",
+    "strength": "12",
+    "dexterity": "16",
+    "constitution": "10",
+    "intelligence": "14",
+    "wisdom": "10",
+    "charisma": "14",
+    "acrobatics": "+5",
+    "intimidation": "+4",
+    "religion": "+4",
+    "name": "Howling Hatred Priest",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient",
+        "intimidation": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Auran",
+        "Common"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 190,
+    "book": "Princes of the Apocalypse",
+    "traits": {
+        "Hold Breath": "The priest can hold its breath for 30 minutes.",
+        "spellcasting": {
+            "level": 5,
+            "type": "sorcerer",
+            "spells": [
+                "blade ward",
+                "gust",
+                "light",
+                "prestidigitation",
+                "shocking grasp",
+                "feather fall",
+                "shield",
+                "witch bolt",
+                "dust devil",
+                "gust of wind",
+                "gaseous form"
+            ]
+        }
+    },
+    "actions": {}
+}

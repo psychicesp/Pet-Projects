@@ -26,6 +26,11 @@
     "traits": {
         "Quickness (Recharge 5\\xe2\\x80\\x936)": "The fastieth can take the Dodge action as a bonus action."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

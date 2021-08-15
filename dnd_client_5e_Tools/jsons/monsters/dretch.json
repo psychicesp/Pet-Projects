@@ -35,6 +35,11 @@
     "CR": "1/4 (50 XP)",
     "page": 57,
     "book": "Monster Manual",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Small",
     "type": "fiend"

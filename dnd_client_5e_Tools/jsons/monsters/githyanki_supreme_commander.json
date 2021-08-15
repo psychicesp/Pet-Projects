@@ -51,6 +51,15 @@
             ]
         }
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack (2 Actions)": "The githyanki makes a greatsword attack.",
+            "Command Ally": "The githyanki targets one ally it can see within 30 feet of it. If the target can see or hear the githyanki, the target can make one melee weapon attack using its reaction and has advantage on the attack roll.",
+            "Teleport": "The githyanki magically teleports, along with any equipment it is wearing and carrying, to an unoccupied space it can see within 30 feet of it. It also becomes insubstantial until the start of its next turn. While insubstantial, it can move through other creatures and objects as if they were difficult terrain. If it ends its turn inside an object, it takes 16 (3d10) force damage and is moved to the nearest unoccupied space."
+        }
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

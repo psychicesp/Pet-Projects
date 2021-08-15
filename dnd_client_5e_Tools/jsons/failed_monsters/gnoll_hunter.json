@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "8",
+    "wisdom": "12",
+    "charisma": "8",
+    "perception": "+3",
+    "stealth": "+4",
+    "name": "Gnoll Hunter",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Gnoll"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 154,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Rampage": "When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack."
+    },
+    "actions": {}
+}

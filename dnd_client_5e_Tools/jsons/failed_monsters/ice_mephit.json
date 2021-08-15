@@ -1,0 +1,51 @@
+{
+    "tags": [],
+    "hit": "6d6",
+    "strength": "7",
+    "dexterity": "13",
+    "constitution": "10",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "12",
+    "perception": "+2",
+    "stealth": "+3",
+    "name": "Ice Mephit",
+    "AC": 11,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "cold, poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Aquan",
+        "Auran"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 215,
+    "book": "Monster Manual",
+    "traits": {
+        "Death Burst": "When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10+1d4 + 8 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.",
+        "False Appearance": "While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "fog cloud"
+            ]
+        }
+    },
+    "actions": {}
+}

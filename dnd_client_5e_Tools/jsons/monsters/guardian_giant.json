@@ -34,6 +34,11 @@
     "traits": {
         "Vigilant": "The giant can't be surprised."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LN",
     "size": "Huge",
     "type": "giant"

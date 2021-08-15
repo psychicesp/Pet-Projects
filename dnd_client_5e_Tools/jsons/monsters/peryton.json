@@ -34,6 +34,11 @@
         "Flyby": "The peryton doesn't provoke an opportunity attack when it flies out of an enemy's reach.",
         "Keen Sight and Smell": "The peryton has advantage on Wisdom (Perception) checks that rely on sight or smell."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "monstrosity"

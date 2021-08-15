@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "hit": "5d6",
+    "strength": "6",
+    "dexterity": "13",
+    "constitution": "10",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "6",
+    "name": "Star Spawn Grue",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "psychic"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Deep Speech"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 234,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Aura of Madness": "Creatures within 20 feet of the grue that aren't aberrations have disadvantage on saving throws, as well as on attack rolls against creatures other than a star spawn grue."
+    },
+    "actions": {}
+}

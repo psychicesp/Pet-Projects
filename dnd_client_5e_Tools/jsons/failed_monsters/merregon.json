@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "17",
+    "intelligence": "6",
+    "wisdom": "12",
+    "charisma": "8",
+    "name": "Merregon",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "condition_immunities": [
+        "frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "understands Infernal but can\\'t speak",
+        "telepathy 120 ft."
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 166,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Devil\\'s Sight": "Magical darkness doesn't impede the merregon's darkvision.",
+        "Magic Resistance": "The merregon has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {}
+}

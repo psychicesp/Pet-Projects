@@ -30,6 +30,11 @@
     "CR": "1 (200 XP)",
     "page": 148,
     "book": "Monster Manual",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "11",
+    "perception": "+2",
+    "name": "Quadrone",
+    "AC": 16,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Modron"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 226,
+    "book": "Monster Manual",
+    "traits": {
+        "Axiomatic Mind": "The quadrone can't be compelled to act in a manner contrary to its nature or its instructions.",
+        "Disintegration": "If the quadrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying."
+    },
+    "actions": {}
+}

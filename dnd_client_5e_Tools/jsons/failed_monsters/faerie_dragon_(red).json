@@ -1,0 +1,50 @@
+{
+    "tags": [],
+    "strength": "3",
+    "dexterity": "20",
+    "constitution": "13",
+    "intelligence": "14",
+    "wisdom": "12",
+    "charisma": "16",
+    "arcana": "+4",
+    "perception": "+3",
+    "stealth": "+7",
+    "name": "Faerie Dragon (Red)",
+    "AC": 15,
+    "speed": [
+        "10 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Draconic",
+        "Sylvan"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 133,
+    "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights",
+                "mage hand",
+                "minor illusion"
+            ]
+        },
+        "Limited Telepathy": "Using telepathy, the dragon can magically communicate with any other faerie dragon within 60 feet of it.",
+        "Magic Resistance": "The faerie dragon has advantage on saving throws against spells and other magical effects.",
+        "Superior Invisibility": "As a bonus action, the dragon can magically turn invisible until its concentration ends (as if concentrating on a spell). Any equipment the dragon wears or carries is invisible with it.",
+        "The Colors of Age": "A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature."
+    },
+    "actions": {}
+}

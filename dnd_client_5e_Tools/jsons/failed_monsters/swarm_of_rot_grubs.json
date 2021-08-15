@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "hit": "5d8",
+    "strength": "2",
+    "dexterity": "7",
+    "constitution": "10",
+    "intelligence": "1",
+    "wisdom": "2",
+    "charisma": "1",
+    "name": "Swarm of Rot Grubs",
+    "AC": 8,
+    "speed": [
+        "5 ft",
+        "climb 5 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "piercing, slashing"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, grappled, paralyzed, petrified, prone, restrained"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "passive Perception 6"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 208,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny maggot. The swarm can't regain hit points or gain temporary hit points."
+    },
+    "actions": {}
+}

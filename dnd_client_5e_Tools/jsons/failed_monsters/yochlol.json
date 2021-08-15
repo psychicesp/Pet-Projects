@@ -1,0 +1,64 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "13",
+    "wisdom": "15",
+    "charisma": "15",
+    "deception": "+10",
+    "insight": "+6",
+    "name": "Yochlol",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "expert",
+        "insight": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal",
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "10 (5,900 XP)",
+    "page": 65,
+    "book": "Monster Manual",
+    "traits": {
+        "Shapechanger": "The yochlol can use its action to polymorph into a form that resembles a female drow or giant spider, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect thoughts",
+                "web",
+                "dominate person"
+            ]
+        },
+        "Magic Resistance": "The yochlol has advantage on saving throws against spells and other magical effects.",
+        "Spider Climb": "The yochlol can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+        "Web Walker": "The yochlol ignores movement restrictions caused by webbing."
+    },
+    "actions": {}
+}

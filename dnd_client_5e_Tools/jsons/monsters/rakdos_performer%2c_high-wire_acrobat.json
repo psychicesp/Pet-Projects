@@ -36,6 +36,11 @@
     "traits": {
         "Nimble": "The performer can take the Disengage action as a bonus action on each of its turns."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

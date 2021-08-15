@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "15",
+    "constitution": "13",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "10",
+    "perception": "+3",
+    "stealth": "+4",
+    "name": "Pseudodragon",
+    "AC": 13,
+    "speed": [
+        "15 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "blindsight 10 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "understands Common and Draconic but can\\'t speak"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 254,
+    "book": "Monster Manual",
+    "traits": {
+        "Keen Senses": "The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.",
+        "Limited Telepathy": "The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.",
+        "Magic Resistance": "The pseudodragon has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {}
+}

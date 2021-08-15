@@ -24,6 +24,11 @@
     "CR": "0 (0 or 10 XP)",
     "page": 16,
     "book": "The Lost Dungeon of Rickedness: Big Rick Energy",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

@@ -29,6 +29,11 @@
     "CR": "3 (700 XP)",
     "page": 350,
     "book": "Monster Manual",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "humanoid"

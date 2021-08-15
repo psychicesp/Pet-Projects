@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "14",
+    "history": "+2",
+    "name": "Feathergale Knight",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "animal handling": "proficient",
+        "history": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Auran",
+        "Common"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 189,
+    "book": "Princes of the Apocalypse",
+    "traits": {},
+    "actions": {}
+}

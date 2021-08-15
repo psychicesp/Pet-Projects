@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "13",
+    "constitution": "12",
+    "intelligence": "9",
+    "wisdom": "10",
+    "charisma": "11",
+    "perception": "+2",
+    "survival": "+2",
+    "name": "Pterafolk",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "fly 50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 229,
+    "book": "Tomb of Annihilation",
+    "traits": {
+        "Terror Dive": "If the pterafolk is flying and dives at least 30 feet straight toward a target, and then hits that target with a melee weapon attack, the target is frightened until the end of its next turn."
+    },
+    "actions": {}
+}

@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "hit": "2d6",
+    "strength": "8",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "8",
+    "charisma": "15",
+    "stealth": "+6",
+    "name": "Nilbog",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "Common",
+        "Goblin"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 182,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage hand",
+                "Tasha's hideous laughter",
+                "vicious mockery",
+                "confusion"
+            ]
+        },
+        "Nilbogism": "Any creature that attempts to damage the nilbog must first succeed on a DC 12+1d4 + 10 Charisma saving throw or be charmed until the end of the creature's next turn. A creature charmed in this way must use its action praising the nilbog. The nilbog can't regain hit points, including through magical healing, except through its Reversal of Fortune reaction.",
+        "Nimble Escape": "The nilbog can take the Disengage or Hide action as a bonus action on each of its turns."
+    },
+    "actions": {}
+}

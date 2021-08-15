@@ -27,6 +27,11 @@
         "Iron Scent": "The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.",
         "Rust Metal": "Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative xe2x88x921 penalty to damage rolls. If its penalty drops to xe2x88x925, the weapon is destroyed. Non magical ammunition made of metal that hits the rust monster is destroyed after dealing damage."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "monstrosity"

@@ -34,6 +34,11 @@
         "Luring Maestro": "While within 60 feet of the matriarch, creatures have disadvantage on saving throws against the matriarch's Luring Song.",
         "Magic Resistance": "The matriarch has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "monstrosity"

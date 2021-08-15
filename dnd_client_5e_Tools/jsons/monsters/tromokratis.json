@@ -47,6 +47,15 @@
         "Siege Monster": "Tromokratis deals double damage to objects and structures.",
         "Spell-Resistant Carapace": "Tromokratis has advantage on saving throws against spells, and any creature that makes a spell attack against Tromokratis has disadvantage on the attack roll."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Move": "Tromokratis moves up to half its speed.",
+            "Tail": "Tromokratis makes one tail attack.",
+            "Bite (Costs 3 Actions)": "Tromokratis makes one bite attack."
+        }
+    },
     "alignment": "AA",
     "size": "Gargantuan",
     "type": "monstrosity"

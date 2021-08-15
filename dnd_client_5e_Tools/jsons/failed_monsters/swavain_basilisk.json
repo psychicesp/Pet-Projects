@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "2",
+    "wisdom": "8",
+    "charisma": "7",
+    "name": "Swavain Basilisk",
+    "AC": 16,
+    "speed": [
+        "15 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 300,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Amphibious": "The basilisk can breathe air and water.",
+        "Petrifying Secretions": "A creature must make a DC 13+1d6 + 10 Constitution saving throw if it hits the basilisk with a weapon attack while within 5 feet of it or if it starts its turn grappled by the basilisk. Unless the save succeeds, the creature magically begins to turn to stone and is restrained, and it must repeat the saving throw at the end of its next turn. On a successful save, the effect ends. On a failure, the creature is petrified."
+    },
+    "actions": {}
+}

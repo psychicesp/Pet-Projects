@@ -1,0 +1,59 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "12",
+    "constitution": "14",
+    "intelligence": "17",
+    "wisdom": "14",
+    "charisma": "13",
+    "arcana": "+6",
+    "perception": "+5",
+    "persuasion": "+4",
+    "name": "Lawmage",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient"
+    },
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 228,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "spellcasting": {
+            "level": 8,
+            "type": "wizard",
+            "spells": [
+                "fire bolt",
+                "friends",
+                "light",
+                "message",
+                "alarm",
+                "expeditious retreat",
+                "shield",
+                "arcane lock",
+                "detect thoughts",
+                "hold person",
+                "clairvoyance",
+                "dispel magic",
+                "slow",
+                "locate creature",
+                "stoneskin"
+            ]
+        }
+    },
+    "actions": {}
+}

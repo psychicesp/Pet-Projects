@@ -43,6 +43,21 @@
     "traits": {
         "Negative Energy Cone": "The death tyrant's central eye emits an invisible, magical 150-foot cone of negative energy. At the start of each of its turns, the tyrant decides which way the cone faces and whether the cone is active."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Eye Ray": "The death tyrant uses one random eye ray."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "An area that is a 50-foot cube within 120 feet of the tyrant is filled with spectral eyes and tentacles. To creatures other than the death tyrant, that area is lightly obscured and difficult terrain until initiative count 20 on the next round.",
+            "Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a DC 17+1d10 + 12 Dexterity saving throw or be grappled. Escaping requires a successful DC 17+1d10 + 12 Strength (Athletics) or Dexterity (Acrobatics) check.",
+            "A spectral eye opens in the air at a point within 50 feet of the tyrant. One random eye ray of the tyrant shoots from that eye, which is considered to be an ethereal source, at a target of the tyrant's choice. The eye then closes and disappears."
+        ]
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "undead"

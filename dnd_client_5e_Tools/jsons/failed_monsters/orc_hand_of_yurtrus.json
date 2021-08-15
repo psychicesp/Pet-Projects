@@ -1,0 +1,55 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "11",
+    "constitution": "16",
+    "intelligence": "11",
+    "wisdom": "14",
+    "charisma": "9",
+    "arcana": "+2",
+    "intimidation": "+1",
+    "medicine": "+4",
+    "religion": "+2",
+    "name": "Orc Hand of Yurtrus",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "intimidation": "proficient",
+        "medicine": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands Common and Orc but can\\'t speak"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 184,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Aggressive": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+        "spellcasting": {
+            "level": 4,
+            "type": "cleric",
+            "spells": [
+                "guidance",
+                "mending",
+                "resistance",
+                "thaumaturgy",
+                "bane",
+                "detect magic",
+                "inflict wounds",
+                "protection from evil and good",
+                "blindness/deafness",
+                "silence"
+            ]
+        }
+    },
+    "actions": {}
+}

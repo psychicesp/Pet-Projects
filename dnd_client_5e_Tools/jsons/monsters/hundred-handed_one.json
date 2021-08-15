@@ -38,6 +38,11 @@
         "Reactive": "The giant can take one reaction on every turn in a combat.",
         "Vigilant": "The giant can't be surprised."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LN",
     "size": "Huge",
     "type": "giant"

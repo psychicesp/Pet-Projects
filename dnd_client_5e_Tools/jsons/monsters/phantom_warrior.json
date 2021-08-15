@@ -42,6 +42,11 @@
         "Incorporeal Movement": "The phantom warrior can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
         "Spectral Armor and Shield": "The phantom warrior's AC accounts for its spectral armor and shield."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "undead"

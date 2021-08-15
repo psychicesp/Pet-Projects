@@ -55,6 +55,11 @@
         "Last Laugh": "When the cackler dies, it releases a dying laugh that scars the minds of other nearby creatures. Each creature within 10 feet of the cackler must succeed on a DC 11+1d4 + 9 Wisdom saving throw or take 2 (1d4) psychic damage.",
         "Mimicry": "The cackler can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 11+1d4 + 9 Wisdom (Insight) check."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Small",
     "type": "fiend"

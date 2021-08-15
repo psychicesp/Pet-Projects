@@ -27,6 +27,11 @@
     "CR": "4 (1,100 XP)",
     "page": 236,
     "book": "Ghosts of Saltmarsh",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

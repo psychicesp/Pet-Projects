@@ -1,0 +1,50 @@
+{
+    "tags": [],
+    "strength": "8",
+    "dexterity": "17",
+    "constitution": "13",
+    "intelligence": "15",
+    "wisdom": "12",
+    "charisma": "20",
+    "deception": "+9",
+    "insight": "+5",
+    "perception": "+5",
+    "persuasion": "+9",
+    "stealth": "+7",
+    "name": "Succubus",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "insight": "expert",
+        "perception": "expert",
+        "persuasion": "expert",
+        "stealth": "expert"
+    },
+    "resistances": [
+        "cold, fire, lightning, poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Infernal",
+        "telepathy 60 ft."
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 285,
+    "book": "Monster Manual",
+    "traits": {
+        "Shapechanger": "The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+        "Telepathic Bond": "The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence."
+    },
+    "actions": {}
+}

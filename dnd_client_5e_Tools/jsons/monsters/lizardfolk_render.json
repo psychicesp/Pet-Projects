@@ -36,6 +36,11 @@
         "Blood Frenzy": "The render has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
         "Hold Breath": "The render can hold its breath for 15 minutes."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Large",
     "type": "humanoid"

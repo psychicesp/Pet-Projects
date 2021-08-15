@@ -33,6 +33,11 @@
     "traits": {
         "Mouth of Madness": "The giant is immune to confusion spells and similar magic."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "giant"

@@ -32,6 +32,11 @@
     "traits": {
         "False Appearance": "While the blight remains motionless, it is indistinguishable from a dead shrub."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Small",
     "type": "plant"

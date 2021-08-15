@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "12",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "11",
+    "athletics": "+3",
+    "perception": "+2",
+    "name": "Locathah",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Aquan",
+        "Common"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 243,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Leviathan Will": "The locathah has advantage on saving throws against being charmed, frightened, paralyzed, poisoned, stunned, or put to sleep.",
+        "Limited Amphibiousness": "The locathah can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating."
+    },
+    "actions": {}
+}

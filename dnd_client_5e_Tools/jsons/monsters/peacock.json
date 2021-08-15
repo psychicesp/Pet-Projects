@@ -30,6 +30,11 @@
         "Keen Sight and Smell": "The peacock has advantage on Wisdom (Perception) checks that rely on sight or smell.",
         "Pack Tactics": "The peacock has advantage on an attack roll against a creature if at least one of the peacock's allies is within 5 feet of the creature and the ally isn't incapacitated."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

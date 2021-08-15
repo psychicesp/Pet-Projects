@@ -35,6 +35,11 @@
     "traits": {
         "Amphibious": "The dragon turtle can breathe air and water."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Gargantuan",
     "type": "dragon"

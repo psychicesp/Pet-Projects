@@ -31,6 +31,11 @@
         "Blood Frenzy": "The harpy has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
         "Dark Devotion": "The harpy has advantage on saving throws against being charmed or frightened."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "monstrosity"

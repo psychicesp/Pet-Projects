@@ -33,6 +33,11 @@
         "Reactive Heads": "For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.",
         "Wakeful": "While the hydra sleeps, at least one of its heads is awake."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "monstrosity"

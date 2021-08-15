@@ -69,6 +69,23 @@
         "Magic Weapons": "Geryon's weapon attacks are magical.",
         "Regeneration": "Geryon regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Geryon dies only if he starts his turn with 0 hit points and doesn't regenerate."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Infernal Glare": "Geryon targets one creature he can see within 60 feet of him. If the target can see Geryon, the target must succeed on a DC 23+1d14 + 16 Wisdom saving throw or become frightened of Geryon until the end of its next turn.",
+            "Swift Sting (Costs 2 Actions)": "Geryon attacks with his stinger.",
+            "Teleport": "Geryon uses his Teleport action."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Geryon causes a blast of cold to burst from the ground at a point he can see within 120 feet of him. The cold fills a cube, 10 feet on each side, centered on that point. Each creature in that area must succeed on a DC 21+1d14 + 14 Constitution saving throw or take 28 (8d6) cold damage.",
+            "Geryon targets one creature he can see within 60 feet of him. The target must succeed on a DC 21+1d14 + 14 Wisdom saving throw or become restrained for 1 minute. The target can end the effect on itself if it deals any damage to one or more of its allies.",
+            "Geryon casts the banishment spell."
+        ]
+    },
     "alignment": "LE",
     "size": "Huge",
     "type": "fiend"

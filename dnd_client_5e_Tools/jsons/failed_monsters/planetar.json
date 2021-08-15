@@ -1,0 +1,62 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "20",
+    "constitution": "24",
+    "intelligence": "19",
+    "wisdom": "22",
+    "charisma": "25",
+    "perception": "+11",
+    "name": "Planetar",
+    "AC": 19,
+    "speed": [
+        "40 ft",
+        "fly 120 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "resistances": [
+        "radiant",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 21"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "16 (15,000 XP)",
+    "page": 17,
+    "book": "Monster Manual",
+    "traits": {
+        "Angelic Weapons": "The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).",
+        "Divine Awareness": "The planetar knows if it hears a lie.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect evil and good",
+                "invisibility",
+                "blade barrier",
+                "dispel evil and good",
+                "flame strike",
+                "raise dead",
+                "commune",
+                "control weather",
+                "insect plague"
+            ]
+        },
+        "Magic Resistance": "The planetar has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {}
+}

@@ -27,6 +27,11 @@
         "Keen Smell": "The catoblepas has advantage on Wisdom (Perception) checks that rely on smell.",
         "Stench": "Any creature other than a catoblepas that starts its turn within 10 feet of the catoblepas must succeed on a DC 16+1d6 + 13 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of any catoblepas for 1 hour."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

@@ -51,6 +51,15 @@
             ]
         }
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Cantrip (Costs 2 Actions)": "The larva mage casts one cantrip.",
+            "Slam (Costs 2 Actions)": "The larva mage makes one slam attack.",
+            "Feed (Costs 3 Actions)": "Each creature restrained by the larva mage's Plague of Worms takes 13 (3d8) necrotic damage, and the larva mage gains 6 temporary hit points."
+        }
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "aberration"

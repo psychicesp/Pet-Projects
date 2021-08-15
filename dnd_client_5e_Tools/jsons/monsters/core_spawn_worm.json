@@ -42,6 +42,11 @@
         "Radiant Mirror": "If the worm takes radiant damage, each creature within 20 feet of it takes that damage as well.",
         "Tunneler": "The worm can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Gargantuan",
     "type": "aberration"

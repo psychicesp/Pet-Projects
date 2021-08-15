@@ -39,6 +39,11 @@
         "Aggressive": "As a bonus action, the tanarukk can move up to its speed toward a hostile creature that it can see.",
         "Magic Resistance": "The tanarukk has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "O",
     "size": "Medium",
     "type": "fiend"

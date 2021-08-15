@@ -55,6 +55,11 @@
         },
         "Magic Weapons": "The hollyphant's weapon attacks are magical."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LG",
     "size": "Small",
     "type": "celestial"

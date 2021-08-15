@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "3",
+    "wisdom": "13",
+    "charisma": "6",
+    "perception": "+5",
+    "stealth": "+4",
+    "name": "Two-Headed Cerberus",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "fire, necrotic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, stunned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 215,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Aggressive": "As a bonus action, the cerberus can move up to its speed toward a hostile creature that it can see.",
+        "Multiheaded": "The cerberus can't be surprised, and it has advantage on saving throws against being knocked unconscious.",
+        "Pack Tactics": "The cerberus has advantage on an attack roll against a creature if at least one of the cerberus's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {}
+}

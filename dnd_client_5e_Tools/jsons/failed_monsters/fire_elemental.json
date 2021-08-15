@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "17",
+    "constitution": "16",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "7",
+    "name": "Fire Elemental",
+    "AC": 13,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Ignan"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 125,
+    "book": "Monster Manual",
+    "traits": {
+        "Fire Form": "The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.",
+        "Illumination": "The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet.",
+        "Water Susceptibility": "For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage."
+    },
+    "actions": {}
+}

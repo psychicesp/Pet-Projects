@@ -36,6 +36,11 @@
         "Amphibious": "The tortoise can breathe air and water.",
         "Massive Frame": "The tortoise can carry up to 20,000 pounds of weight atop its shell, but moves at half speed if the weight exceeds 10,000 pounds. Medium or smaller creatures can move underneath the tortoise while it's not prone."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Gargantuan",
     "type": "monstrosity"

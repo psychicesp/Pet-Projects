@@ -37,6 +37,11 @@
         "Rapid Shifting": "Opportunity attacks made against the gearkeeper have disadvantage.",
         "Whirling Blades": "Any creature that starts its turn within 5 feet of the gearkeeper takes 4 (1d8) slashing damage."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "construct"

@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "17",
+    "intelligence": "9",
+    "wisdom": "11",
+    "charisma": "9",
+    "name": "Berserker",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 344,
+    "book": "Monster Manual",
+    "traits": {
+        "Reckless": "At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn."
+    },
+    "actions": {}
+}

@@ -36,6 +36,11 @@
         "Fear Frenzy": "The horror has advantage on attack rolls against frightened creatures.",
         "Sunlight Sensitivity": "While in sunlight, the horror has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "aberration"

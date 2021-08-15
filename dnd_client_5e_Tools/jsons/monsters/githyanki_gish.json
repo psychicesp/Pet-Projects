@@ -59,6 +59,11 @@
         },
         "War Magic": "When the githyanki uses its action to cast a spell, it can make one weapon attack as a bonus action."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

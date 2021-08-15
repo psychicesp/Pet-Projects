@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "8",
+    "constitution": "21",
+    "intelligence": "12",
+    "wisdom": "16",
+    "charisma": "12",
+    "name": "Undead Tree",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "necrotic"
+    ],
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Druidic",
+        "Elvish",
+        "Sylvan"
+    ],
+    "CR": "9 (5,000 XP)",
+    "page": 109,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "traits": {
+        "False Appearance": "While the tree remains motionless, it is indistinguishable from a normal tree.",
+        "Siege Monster": "The tree deals double damage to objects and structures."
+    },
+    "actions": {}
+}

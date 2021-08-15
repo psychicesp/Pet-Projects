@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "hit": "6d6",
+    "strength": "7",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "9",
+    "wisdom": "12",
+    "charisma": "6",
+    "perception": "+5",
+    "name": "Core Spawn Crawler",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "psychic"
+    ],
+    "condition_immunities": [
+        "blinded"
+    ],
+    "senses": [
+        "blindsight 30 ft. (blind beyond this radius)",
+        "tremorsense 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "understands Deep Speech but can\\'t speak"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 286,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Pack Tactics": "The crawler has advantage on an attack roll against a creature if at least one of the crawler's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {}
+}

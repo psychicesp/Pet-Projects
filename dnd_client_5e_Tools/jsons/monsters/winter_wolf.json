@@ -37,6 +37,11 @@
         "Pack Tactics": "The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.",
         "Snow Camouflage": "The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "monstrosity"

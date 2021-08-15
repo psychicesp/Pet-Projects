@@ -33,5 +33,6 @@
         "Podling Link": "The plant can see through and communicate telepathically with any of its podlings within 10 miles of it.",
         "Rejuvenation": "When the plant dies, it returns to life in the place where it died 1d12 months later, unless the ground where it took root is sown with salt or soaked with poison.",
         "Unusual Nature": "The plant doesn't require sleep."
-    }
+    },
+    "actions": {}
 }

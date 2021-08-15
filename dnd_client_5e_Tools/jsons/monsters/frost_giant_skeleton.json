@@ -32,6 +32,11 @@
     "traits": {
         "Unusual Nature": "The skeleton doesn't require air, food, drink, or sleep."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Huge",
     "type": "undead"

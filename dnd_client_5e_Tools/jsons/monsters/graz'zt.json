@@ -73,6 +73,23 @@
         "Magic Resistance": "Graz'zt has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "Graz'zt's weapon attacks are magical."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": "Graz'zt attacks once with Wave of Sorrow.",
+            "Dance, My Puppet": "One creature charmed by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.",
+            "Sow Discord": "Graz'zt casts crown of madness or dissonant whispers.",
+            "Teleport": "Graz'zt uses his Teleport action."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Graz'zt casts the command spell on every creature of his choice in the lair. He needn't see each one, but he must be aware that an individual is in the lair to target that creature. He issues the same command to all the targets.",
+            "Smooth surfaces within the lair become as reflective as a polished mirror. Until a different lair action is used, creatures within the lair have disadvantage on Dexterity (Stealth) checks made to hide."
+        ]
+    },
     "alignment": "S",
     "size": "Large",
     "type": "fiend"

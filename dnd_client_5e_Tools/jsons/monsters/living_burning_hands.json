@@ -37,6 +37,11 @@
         "Amorphous": "The living spell can move through a space as narrow as 1 inch wide without squeezing.",
         "Magic Resistance": "The living spell has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

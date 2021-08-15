@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "10",
+    "constitution": "15",
+    "intelligence": "6",
+    "wisdom": "12",
+    "charisma": "7",
+    "perception": "+3",
+    "name": "Young Hook Horror",
+    "AC": 11,
+    "speed": [
+        "15 ft",
+        "climb 15 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Hook Horror"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 34,
+    "book": "Out of the Abyss",
+    "traits": {
+        "Echolocation": "The hook horror can't use its blindsight while deafened.",
+        "Keen Hearing": "The hook horror has advantage on Wisdom (Perception) checks that rely on hearing."
+    },
+    "actions": {}
+}

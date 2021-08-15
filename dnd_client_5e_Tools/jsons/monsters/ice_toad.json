@@ -35,6 +35,11 @@
         "Cold Aura": "Any creature that starts its turn within 5 feet of the toad takes 3 (1d6) cold damage.",
         "Standing Leap": "The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "monstrosity"

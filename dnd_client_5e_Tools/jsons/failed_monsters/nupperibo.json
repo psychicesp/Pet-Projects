@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "11",
+    "constitution": "13",
+    "intelligence": "3",
+    "wisdom": "8",
+    "charisma": "1",
+    "perception": "+1",
+    "name": "Nupperibo",
+    "AC": 13,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "acid, cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "blindsight 10 ft. (blind beyond this radius)",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "understands Infernal but can't speak"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 168,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Cloud of Vermin": "Any creature, other than a devil, that starts its turn within 20 feet of the nupperibo must make a DC 11+1d4 + 9 Constitution saving throw. A creature within the areas of two or more nupperibos makes the saving throw with disadvantage. On a failure, the creature takes 2 (1d4) piercing damage.",
+        "Hunger-Driven": "In the Nine Hells, the nupperibos can flawlessly track any creature that has taken damage from any nupperibo's Cloud of Vermin within the previous 24 hours."
+    },
+    "actions": {}
+}

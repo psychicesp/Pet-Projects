@@ -77,6 +77,15 @@
         "Magic Resistance": "Sul Khatesh has advantage on saving throws against spells and other magical effects.",
         "Master of Magic": "Sul Khatesh has advantage on Constitution saving throws to maintain concentration."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": "Sul Khatesh makes two attacks with her Arcane Blast or one attack with her magic staff.",
+            "Consume Magic (Costs 2 Actions)": "Sul Khatesh targets a creature within 120 feet of her who is concentrating on a spell. The target must succeed on a DC 26+1d16 + 18 Constitution saving throw or its concentration is broken on the spell, and Sul Khatesh gains 5 temporary hit points per level of that spell.",
+            "Maddening Secrets (Costs 3 Actions)": "Sul Khatesh whispers an arcane secret into the mind of a creature she can see within 60 feet of her. The target must succeed on a DC 26+1d16 + 18 Wisdom saving throw or expend one of its spell slots of 3rd level or lower and deal 26 (4d12) force damage to each creature within 30 feet of it. A creature that fails the saving throw but can't expend a spell slot is instead stunned until the end of its next turn."
+        }
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "fiend"

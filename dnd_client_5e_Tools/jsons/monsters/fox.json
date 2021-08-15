@@ -33,6 +33,11 @@
     "traits": {
         "Keen Hearing": "The fox has advantage on Wisdom (Perception) checks that rely on hearing."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

@@ -33,5 +33,6 @@
     "traits": {
         "False Objects": "If the swarm is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the swarm move or act, that creature must succeed on a DC 15+1d4 + 13 Wisdom (Perception) check to discern that the swarm is animate.",
         "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a 1-foot-tall, 8-inch-wide, 2-inch-thick object. The swarm can't regain hit points or gain temporary hit points."
-    }
+    },
+    "actions": {}
 }

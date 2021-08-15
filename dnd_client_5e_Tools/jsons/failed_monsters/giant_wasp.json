@@ -1,0 +1,28 @@
+{
+    "tags": [],
+    "hit": "3d8",
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "3",
+    "name": "Giant Wasp",
+    "AC": 12,
+    "speed": [
+        "10 ft",
+        "fly 50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 329,
+    "book": "Monster Manual",
+    "actions": {}
+}

@@ -32,6 +32,11 @@
         "False Appearance": "While the tree remains motionless, it is indistinguishable from a normal tree.",
         "Siege Monster": "The tree deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CG",
     "size": "Huge",
     "type": "undead"

@@ -40,6 +40,11 @@
         "Magic Resistance": "The Halaster horror has advantage on saving throws against spells and other magical effects.",
         "Spell Immunity": "The Halaster horror is immune to the cone of cold, disintegrate, and fireball spells."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

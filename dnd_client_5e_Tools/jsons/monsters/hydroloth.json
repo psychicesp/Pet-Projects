@@ -66,6 +66,11 @@
         "Secure Memory": "The hydroloth is immune to the waters of the River Styx as well as any effect that would steal or modify its memories or detect or read its thoughts.",
         "Watery Advantage": "While submerged in liquid, the hydroloth has advantage on attack rolls."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "fiend"

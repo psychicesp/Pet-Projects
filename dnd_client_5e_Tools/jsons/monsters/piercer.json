@@ -32,6 +32,11 @@
         "False Appearance": "While the piercer remains motionless on the ceiling, it is indistinguishable from a normal stalactite.",
         "Spider Climb": "The piercer can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "monstrosity"

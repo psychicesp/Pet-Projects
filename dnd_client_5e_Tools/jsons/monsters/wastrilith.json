@@ -46,6 +46,11 @@
         "Magic Resistance": "The wastrilith has advantage on saving throws against spells and other magical effects.",
         "Undertow": "As a bonus action when the wastrilith is underwater, it can cause all water within 60 feet of it to be difficult terrain for other creatures until the start of its next turn."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

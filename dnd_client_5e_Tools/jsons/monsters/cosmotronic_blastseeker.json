@@ -47,6 +47,11 @@
         },
         "Tides of Chaos (1/Day)": "The blastseeker makes one attack roll, ability check, or saving throw with advantage."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CN",
     "size": "Medium",
     "type": "humanoid"

@@ -65,6 +65,21 @@
         "Magic Weapons": "Demogorgon's weapon attacks are magical.",
         "Two Heads": "Demogorgon has advantage on saving throws against being blinded, deafened, stunned, or knocked unconscious."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 2,
+        "options": {
+            "Tail": "Melee Weapon Attack: +17+1d16 + 9 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) bludgeoning damage plus 11 (2d10) necrotic damage.",
+            "Maddening Gaze": "Demogorgon uses his Gaze action, and must choose either the Beguiling Gaze or the Insanity Gaze effect."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Demogorgon creates an illusory duplicate of himself, which appears in his own space and lasts until initiative count 20 of the next round. On his turn, Demogorgon can move the illusory duplicate a distance equal to his walking speed (no action required). The first time a creature or object interacts physically with Demogorgon (for example, hitting him with an attack), there is a 50 percent chance that it is the illusory duplicate that is being affected, not Demogorgon himself, in which case the illusion disappears.",
+            "Demogorgon casts the darkness spell four times at its lowest level, targeting different areas with the spell. Demogorgon doesn't need to concentrate on the spells, which end on initiative count 20 of the next round."
+        ]
+    },
     "alignment": "CE",
     "size": "Huge",
     "type": "fiend"

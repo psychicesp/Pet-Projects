@@ -31,6 +31,11 @@
         "Echolocation": "The darkmantle can't use its blindsight while deafened.",
         "False Appearance": "While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Small",
     "type": "monstrosity"

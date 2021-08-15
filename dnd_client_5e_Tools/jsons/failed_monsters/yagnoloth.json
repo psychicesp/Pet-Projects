@@ -1,0 +1,69 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "14",
+    "constitution": "21",
+    "intelligence": "16",
+    "wisdom": "15",
+    "charisma": "18",
+    "deception": "+8",
+    "insight": "+6",
+    "perception": "+6",
+    "persuasion": "+8",
+    "name": "Yagnoloth",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "insight": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient"
+    },
+    "damage_immunities": [
+        "acid, poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Abyssal",
+        "Infernal",
+        "telepathy 60 ft."
+    ],
+    "CR": "11 (7,200 XP)",
+    "page": 252,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "darkness",
+                "detect magic",
+                "dispel magic",
+                "invisibility",
+                "suggestion",
+                "lightning bolt"
+            ]
+        },
+        "Magic Resistance": "The yagnoloth has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The yagnoloth's weapon attacks are magical."
+    },
+    "actions": {}
+}

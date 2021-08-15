@@ -76,6 +76,15 @@
         "Regeneration": "Titivilus regains 10 hit points at the start of his turn. If he takes cold or radiant damage, this trait doesn't function at the start of his next turn. Titivilus dies only if he starts his turn with 0 hit points and doesn't regenerate.",
         "Ventriloquism": "Whenever Titivilus speaks, he can choose a point within 60 feet; his voice emanates from that point."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Assault (Costs 2 Actions)": "Titivilus attacks with his silver sword or uses his Frightful Word.",
+            "Corrupting Guidance": "Titivilus uses Twisting Words. Alternatively, he targets one creature charmed by him that is within 60 feet of him; that charmed target must make a DC 21+1d10 + 16 Charisma saving throw. On a failure, Titivilus decides how the target acts during its next turn.",
+            "Teleport": "Titivilus uses his Teleport action."
+        }
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "fiend"

@@ -41,6 +41,11 @@
         "Echolocation (Bat or Hybrid Form Only)": "The werebat has blindsight out to a range of 60 feet as long as it's not deafened.",
         "Nimble Escape (Humanoid Form Only)": "The werebat can take the Disengage or Hide action as a bonus action on each of its turns."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "S",
     "size": "Small",
     "type": "humanoid"

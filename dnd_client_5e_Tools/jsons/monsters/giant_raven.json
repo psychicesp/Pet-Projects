@@ -30,6 +30,11 @@
         "Keen Sight and Smell": "The raven has advantage on Wisdom (Perception) checks that rely on sight or smell.",
         "Pack Tactics": "The raven has advantage on an attack roll against a creature if at least one of the raven's allies is within 5 feet of the creature and the ally isn't incapacitated."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Large",
     "type": "beast"

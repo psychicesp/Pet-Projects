@@ -1,0 +1,69 @@
+{
+    "tags": [],
+    "strength": "11",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "20",
+    "charisma": "14",
+    "nature": "+3",
+    "perception": "+8",
+    "survival": "+8",
+    "name": "Druid of the Old Ways",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "nature": "proficient",
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Common",
+        "Druidic"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 239,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Siege Monster": "The druid deals double damage to objects and structures.",
+        "Speak with Beasts and Plants": "The druid can communicate with beasts and plants as if they shared a language.",
+        "spellcasting": {
+            "level": 12,
+            "type": "druid",
+            "spells": [
+                "druidcraft",
+                "produce flame",
+                "resistance",
+                "thorn whip",
+                "cure wounds",
+                "faerie fire",
+                "thunderwave",
+                "beast sense",
+                "flame blade",
+                "pass without trace",
+                "conjure animals",
+                "dispel magic",
+                "plant growth",
+                "dominate beast",
+                "freedom of movement",
+                "wall of fire",
+                "commune with nature",
+                "conjure elemental",
+                "scrying",
+                "transport via plants",
+                "wall of thorns"
+            ]
+        }
+    },
+    "actions": {}
+}

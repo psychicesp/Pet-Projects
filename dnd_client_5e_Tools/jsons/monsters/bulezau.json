@@ -40,6 +40,11 @@
         "Standing Leap": "The bulezau's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.",
         "Sure-Footed": "The bulezau has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "fiend"

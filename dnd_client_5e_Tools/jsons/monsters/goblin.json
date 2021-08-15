@@ -33,6 +33,11 @@
     "traits": {
         "Nimble Escape": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Small",
     "type": "humanoid"

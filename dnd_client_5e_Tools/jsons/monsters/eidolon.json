@@ -44,6 +44,11 @@
         "Sacred Animation (Recharge 5\\xe2\\x80\\x936)": "When the eidolon moves into a space occupied by a sacred statue, the eidolon can disappear, causing the statue to become a creature under the eidolon's control. The eidolon uses the sacred statue's statistics in place of its own.",
         "Turn Resistance": "The eidolon has advantage on saving throws against any effect that turns undead."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "AA",
     "size": "Medium",
     "type": "undead"

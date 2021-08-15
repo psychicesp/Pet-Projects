@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "13",
+    "constitution": "12",
+    "intelligence": "4",
+    "wisdom": "8",
+    "charisma": "3",
+    "stealth": "+3",
+    "name": "Lycanthropickle",
+    "AC": 13,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "condition_immunities": [
+        "blinded, deafened"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "Common understands but can\\'t speak"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 11,
+    "book": "The Lost Dungeon of Rickedness: Big Rick Energy",
+    "traits": {
+        "False Appearance": "While the lycanthropickle remains motionless, it is indistinguishable from a pickle."
+    },
+    "actions": {}
+}

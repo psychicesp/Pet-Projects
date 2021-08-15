@@ -41,5 +41,6 @@
     "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
     "traits": {
         "Stirge Telepathy": "The strigoi can magically command any stirge within 120 feet of it, using a limited form of telepathy."
-    }
+    },
+    "actions": {}
 }

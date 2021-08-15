@@ -30,6 +30,11 @@
     "traits": {
         "Reach": "The tentacle can reach anywhere in the room."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "beast"

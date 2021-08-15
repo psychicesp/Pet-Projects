@@ -1,0 +1,53 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "18",
+    "constitution": "15",
+    "intelligence": "16",
+    "wisdom": "17",
+    "charisma": "12",
+    "arcana": "+6",
+    "insight": "+6",
+    "perception": "+6",
+    "name": "Githzerai Zerth",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Gith"
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 161,
+    "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage hand",
+                "feather fall",
+                "jump",
+                "see invisibility",
+                "shield",
+                "phantasmal killer",
+                "plane shift"
+            ]
+        },
+        "Psychic Defense": "While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+    },
+    "actions": {}
+}

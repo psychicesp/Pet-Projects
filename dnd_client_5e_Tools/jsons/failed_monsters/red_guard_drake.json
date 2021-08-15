@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "11",
+    "constitution": "16",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "7",
+    "perception": "+2",
+    "name": "Red Guard Drake",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "resistances": [
+        "fire"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands Draconic but can\\'t speak it"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 158,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "actions": {}
+}

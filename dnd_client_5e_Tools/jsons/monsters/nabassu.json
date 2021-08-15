@@ -49,6 +49,11 @@
         "Magic Resistance": "The nabassu has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The nabassu's weapon attacks are magical."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "fiend"

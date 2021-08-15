@@ -38,6 +38,11 @@
         "Deafening Clatter": "Creatures are deafened while in the swarm's space.",
         "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Small humanoid. The swarm can't regain hit points or gain temporary hit points."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Large",
     "type": "swarm"

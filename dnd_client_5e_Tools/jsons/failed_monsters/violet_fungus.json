@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "hit": "4d8",
+    "strength": "3",
+    "dexterity": "1",
+    "constitution": "10",
+    "intelligence": "1",
+    "wisdom": "3",
+    "charisma": "1",
+    "name": "Violet Fungus",
+    "AC": 5,
+    "speed": [
+        "5 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "condition_immunities": [
+        "blinded, deafened, frightened"
+    ],
+    "senses": [
+        "blindsight 30 ft. (blind beyond this radius)",
+        "passive Perception 6"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 138,
+    "book": "Monster Manual",
+    "traits": {
+        "False Appearance": "While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus."
+    },
+    "actions": {}
+}

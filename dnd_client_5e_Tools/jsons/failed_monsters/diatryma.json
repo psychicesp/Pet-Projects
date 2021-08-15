@@ -1,0 +1,26 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "12",
+    "constitution": "12",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Diatryma",
+    "AC": 11,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 191,
+    "book": "Waterdeep: Dragon Heist",
+    "actions": {}
+}

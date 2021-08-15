@@ -53,6 +53,11 @@
         "Magic Resistance": "The dryad has advantage on saving throws against spells and other magical effects.",
         "Speak with Beasts and Plants": "The dryad can communicate with beasts and plants as if they and the dryad shared a language."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LG",
     "size": "Medium",
     "type": "fey"

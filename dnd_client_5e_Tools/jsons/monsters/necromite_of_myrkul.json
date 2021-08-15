@@ -31,6 +31,11 @@
     "CR": "1/2 (100 XP)",
     "page": 234,
     "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

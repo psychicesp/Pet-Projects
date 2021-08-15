@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "17",
+    "constitution": "16",
+    "intelligence": "4",
+    "wisdom": "14",
+    "charisma": "8",
+    "perception": "+4",
+    "stealth": "+7",
+    "name": "Crag Cat",
+    "AC": 13,
+    "speed": [
+        "40 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 240,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Nondetection": "The cat cannot be targeted or detected by any divination magic or perceived through magical scrying sensors.",
+        "Pounce": "If the cat moves at least 20 feet straight toward a creature then hits it with a claw attack on the same turn, that target must succeed on a DC13 Strength saving throw or be knocked prone. If the target is prone, the cat can make one bite attack against it as a bonus action.",
+        "Spell Turning": "The cat has advantage on saving throws against any spell that targets only the cat (not an area). If the cat's saving throw succeeds and the spell is of 7th level or lower, the spell has no effect on the cat and instead targets the caster."
+    },
+    "actions": {}
+}

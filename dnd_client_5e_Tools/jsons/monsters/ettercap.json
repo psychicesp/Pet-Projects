@@ -36,6 +36,11 @@
         "Web Sense": "While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.",
         "Web Walker": "The ettercap ignores movement restrictions caused by webbing."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "monstrosity"

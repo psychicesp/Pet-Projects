@@ -1,0 +1,55 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "13",
+    "intelligence": "14",
+    "wisdom": "12",
+    "charisma": "16",
+    "deception": "+5",
+    "stealth": "+4",
+    "name": "Yuan-ti Priest",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Draconic"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 118,
+    "book": "Tomb of Annihilation",
+    "traits": {
+        "Shapechanger": "The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.",
+        "Magic Resistance": "The yuan-ti has advantage on saving throws against spells and other magical effects.",
+        "Malison Type": "The yuan-ti has one of the following types:",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "animal friendship",
+                "eldritch blast",
+                "minor illusion",
+                "poison spray",
+                "suggestion"
+            ]
+        }
+    },
+    "actions": {}
+}

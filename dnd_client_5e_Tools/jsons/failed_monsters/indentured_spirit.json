@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "hit": "3d8",
+    "strength": "7",
+    "dexterity": "13",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "11",
+    "name": "Indentured Spirit",
+    "AC": 11,
+    "speed": [
+        "0 ft",
+        "fly 40 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "cold, necrotic, poison"
+    ],
+    "resistances": [
+        "acid, fire, lightning, thunder",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+    ],
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 206,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Incorporeal Movement": "The spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object."
+    },
+    "actions": {}
+}

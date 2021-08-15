@@ -33,6 +33,11 @@
     "traits": {
         "Charge": "If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NG",
     "size": "Large",
     "type": "monstrosity"

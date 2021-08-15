@@ -37,6 +37,11 @@
         "Slippery": "The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.",
         "Sunlight Sensitivity": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

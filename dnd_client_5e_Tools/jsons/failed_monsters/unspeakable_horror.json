@@ -34,5 +34,6 @@
         "Amorphous (Malleable Mass Only)": "The horror can move through any opening at least 1 inch wide without squeezing.",
         "Bile Body (Oozing Organs Only)": "Any creature that touches the horror or hits it with a melee attack takes 5 (1d10) acid damage.",
         "Relentless Stride (Loathsome Limbs Only)": "The horror can move through the space of another creature. The first time on a turn that the horror enters a creature's space during this move, the creature must succeed on a DC 16+1d6 + 13 Strength saving throw or be knocked prone."
-    }
+    },
+    "actions": {}
 }

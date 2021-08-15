@@ -30,6 +30,11 @@
     "traits": {
         "Flyby": "The pteranodon doesn't provoke opportunity attacks when it flies out of an enemy's reach."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "beast"

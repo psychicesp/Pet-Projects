@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "8",
+    "constitution": "16",
+    "intelligence": "1",
+    "wisdom": "7",
+    "charisma": "7",
+    "name": "Carrion Ogre",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Common",
+        "Giant"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 189,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Tied Down": "While lashed to the floor, the creature is prone and restrained. It also suffers from two levels of exhaustion."
+    },
+    "actions": {}
+}

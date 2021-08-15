@@ -45,6 +45,11 @@
         "Magic Weapons": "The colossus's weapon attacks are magical.",
         "Siege Monster": "The colossus deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Gargantuan",
     "type": "construct"

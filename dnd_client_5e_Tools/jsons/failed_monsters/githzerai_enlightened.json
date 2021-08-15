@@ -1,0 +1,56 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "19",
+    "constitution": "16",
+    "intelligence": "17",
+    "wisdom": "19",
+    "charisma": "13",
+    "arcana": "+7",
+    "insight": "+8",
+    "perception": "+8",
+    "name": "Githzerai Enlightened",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Gith"
+    ],
+    "CR": "10 (5,900 XP)",
+    "page": 208,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage hand",
+                "blur",
+                "expeditious retreat",
+                "feather fall",
+                "jump",
+                "see invisibility",
+                "shield",
+                "haste",
+                "plane shift",
+                "teleport"
+            ]
+        },
+        "Psychic Defense": "While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+    },
+    "actions": {}
+}

@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "hit": "3d8",
+    "strength": "13",
+    "dexterity": "15",
+    "constitution": "11",
+    "intelligence": "1",
+    "wisdom": "9",
+    "charisma": "3",
+    "stealth": "+4",
+    "name": "Giant Crab",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 324,
+    "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The crab can breathe air and water."
+    },
+    "actions": {}
+}

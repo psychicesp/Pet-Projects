@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "11",
+    "name": "Returned Sentry",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 241,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Pack Tactics": "The Returned has advantage on an attack roll against a creature if at least one of the Returned's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+        "Turn Resistance": "The Returned has advantage on saving throws against any effect that turns undead.",
+        "Unreadable Face": "The Returned is immune to any effect that would sense its emotions or read its thoughts. Wisdom (Insight) checks to ascertain the Returned's intentions or sincerity are made with disadvantage."
+    },
+    "actions": {}
+}

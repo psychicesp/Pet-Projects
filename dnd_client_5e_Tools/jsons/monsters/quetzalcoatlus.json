@@ -30,6 +30,11 @@
         "Dive Attack": "If the quetzalcoatlus is flying and dives at least 30 feet toward a target and then hits with a bite attack, the attack deals an extra 10 (3d6) damage to the target.",
         "Flyby": "The quetzalcoatlus doesn't provoke an opportunity attack when it flies out of an enemy's reach."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Huge",
     "type": "beast"

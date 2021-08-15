@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "26",
+    "dexterity": "14",
+    "constitution": "22",
+    "intelligence": "3",
+    "wisdom": "11",
+    "charisma": "10",
+    "name": "Udaak",
+    "AC": 18,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "frightened, grappled, poisoned, restrained"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "16 (15,000 XP)",
+    "page": 301,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Charge": "If the udaak moves at least 20 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 27 (6d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 21+1d10 + 16 Strength saving throw or be pushed up to 20 feet away from the udaak and knocked prone.",
+        "Siege Monster": "The udaak deals double damage to objects and structures."
+    },
+    "actions": {}
+}

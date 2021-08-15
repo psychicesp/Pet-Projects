@@ -54,6 +54,11 @@
         "Web Sense": "While in contact with a web, the choldrith knows the exact location of any other creature in contact with the same web.",
         "Web Walker": "The choldrith ignores movement restrictions caused by webbing."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "monstrosity"

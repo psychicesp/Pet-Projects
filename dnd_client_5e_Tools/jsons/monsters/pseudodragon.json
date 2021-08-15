@@ -35,6 +35,11 @@
         "Limited Telepathy": "The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.",
         "Magic Resistance": "The pseudodragon has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NG",
     "size": "Tiny",
     "type": "dragon"

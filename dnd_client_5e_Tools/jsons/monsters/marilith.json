@@ -46,6 +46,11 @@
         "Magic Weapons": "The marilith's weapon attacks are magical.",
         "Reactive": "The marilith can take one reaction on every turn in combat."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

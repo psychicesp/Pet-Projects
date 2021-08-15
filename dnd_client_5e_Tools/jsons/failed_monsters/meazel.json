@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "8",
+    "dexterity": "17",
+    "constitution": "9",
+    "intelligence": "14",
+    "wisdom": "13",
+    "charisma": "10",
+    "perception": "+3",
+    "stealth": "+5",
+    "name": "Meazel",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 214,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Shadow Stealth": "While in dim light or darkness, the meazel can take the Hide action as a bonus action."
+    },
+    "actions": {}
+}

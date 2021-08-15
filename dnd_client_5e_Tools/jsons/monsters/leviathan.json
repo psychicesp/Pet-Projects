@@ -42,6 +42,14 @@
         "Siege Monster": "The leviathan deals double damage to objects and structures (included in Tidal Wave).",
         "Water Form": "The leviathan can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Slam (Costs 2 Actions)": "The leviathan makes one slam attack.",
+            "Move": "The leviathan moves up to its speed."
+        }
+    },
     "alignment": "N",
     "size": "Gargantuan",
     "type": "elemental"

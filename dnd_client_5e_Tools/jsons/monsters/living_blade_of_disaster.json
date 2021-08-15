@@ -36,6 +36,11 @@
         "Unfettered": "The living spell can move through any barrier, even a wall of magical force.",
         "Unusual Nature": "The living spell doesn't require air, food, drink, or sleep."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Small",
     "type": "construct"

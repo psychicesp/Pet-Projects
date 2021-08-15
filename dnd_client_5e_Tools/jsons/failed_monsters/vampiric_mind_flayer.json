@@ -44,5 +44,6 @@
         "Spider Climb": "The mind flayer can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
         "Sunlight Sensitivity": "While in sunlight, the mind flayer has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
         "Unusual Nature": "The mind flayer doesn't require air, food, or sleep."
-    }
+    },
+    "actions": {}
 }

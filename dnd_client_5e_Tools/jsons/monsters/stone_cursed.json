@@ -32,6 +32,11 @@
         "Cunning Opportunist": "The stone cursed has advantage on the attack rolls of opportunity attacks.",
         "False Appearance": "While the stone cursed remains motionless, it is indistinguishable from a normal statue."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "construct"

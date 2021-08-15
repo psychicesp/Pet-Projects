@@ -34,6 +34,11 @@
         "Spider Climb": "The vox seeker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
         "Voice Lock": "The vox seeker must move toward and attack the source of the nearest voice within 60 feet of it, to the exclusion of all other targets, for as long as it remains operational."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Tiny",
     "type": "construct"

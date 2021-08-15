@@ -37,6 +37,11 @@
         "Illumination": "The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet.",
         "Water Susceptibility": "For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Large",
     "type": "elemental"

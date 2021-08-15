@@ -32,6 +32,11 @@
     "CR": "11 (7,200 XP)",
     "page": 25,
     "book": "Monster Manual",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Huge",
     "type": "monstrosity"

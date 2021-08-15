@@ -62,6 +62,22 @@
         "Magic Resistance": "Zuggtmoy has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "Zuggtmoy's weapon attacks are magical."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": "Zuggtmoy makes one pseudopod attack.",
+            "Exert Will": "One creature charmed by Zuggtmoy that she can see must use its reaction to move up to its speed as she directs or to make a weapon attack against a target that she designates."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Zuggtmoy causes four gas spores or violet fungi to appear in unoccupied spaces that she chooses within the lair. They vanish after 1 hour.",
+            "Up to four plant creatures that are friendly to Zuggtmoy and that Zuggtmoy can see can use their reactions to move up to their speed and make one weapon attack.",
+            "Zuggtmoy uses either her Infestation Spores or her Mind Control Spores, centered on a mushroom or other fungus within her lair, instead of on herself."
+        ]
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "fiend"

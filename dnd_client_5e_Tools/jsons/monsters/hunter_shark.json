@@ -31,6 +31,11 @@
         "Blood Frenzy": "The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
         "Water Breathing": "The shark can breathe only underwater."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

@@ -32,6 +32,11 @@
         "Unarmored Defense": "While the hurricane is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
         "Unarmored Movement": "While the hurricane is wearing no armor and wielding no shield, its walking speed increases by 15 feet (included in its speed)."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"

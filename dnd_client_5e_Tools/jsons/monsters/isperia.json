@@ -85,6 +85,15 @@
         "Legendary Resistance (3/Day)": "If Isperia fails a saving throw, she can choose to succeed instead.",
         "Magic Resistance": "Isperia has advantage on saving throws against spells and other magical effects."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Claw Attack": "Isperia makes one claw attack.",
+            "Cast a Spell (Costs 2 Actions)": "Isperia casts a spell of 3rd level or lower from her list of prepared spells, using a spell slot as normal.",
+            "Supreme Legal Authority (Costs 3 Actions)": "Isperia uses Supreme Legal Authority."
+        }
+    },
     "alignment": "LN",
     "size": "Gargantuan",
     "type": "monstrosity"

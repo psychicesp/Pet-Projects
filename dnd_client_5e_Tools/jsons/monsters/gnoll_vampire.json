@@ -41,6 +41,11 @@
         "Unusual Nature": "The vampire doesn't require air.",
         "Vampire Weaknesses": "The vampire has the following flaws:"
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "undead"

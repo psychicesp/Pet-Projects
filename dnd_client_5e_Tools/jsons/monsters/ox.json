@@ -26,6 +26,11 @@
         "Beast of Burden": "The oxen is considered to be a Huge animal for the purposes of determining its carrying capacity.",
         "Charge": "If the ox moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "beast"

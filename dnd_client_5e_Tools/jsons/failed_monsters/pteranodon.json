@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "hit": "3d8",
+    "strength": "12",
+    "dexterity": "15",
+    "constitution": "10",
+    "intelligence": "2",
+    "wisdom": "9",
+    "charisma": "5",
+    "perception": "+1",
+    "name": "Pteranodon",
+    "AC": 13,
+    "speed": [
+        "10 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 80,
+    "book": "Monster Manual",
+    "traits": {
+        "Flyby": "The pteranodon doesn't provoke opportunity attacks when it flies out of an enemy's reach."
+    },
+    "actions": {}
+}

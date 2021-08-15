@@ -40,6 +40,11 @@
         "Spider Climb": "The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
         "Vampire Weaknesses": "The vampire has the following flaws:"
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "undead"

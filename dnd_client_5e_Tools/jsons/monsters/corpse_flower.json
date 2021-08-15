@@ -32,6 +32,11 @@
         "Spider Climb": "The corpse flower can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
         "Stench of Death": "Each creature that starts its turn within 10 feet of the corpse flower or one of its zombies must make a DC 14+1d6 + 11 Constitution saving throw, unless the creature is a construct or undead. On a failed save, the creature is incapacitated until the end of the turn. Creatures that are immune to poison damage or the poisoned condition automatically succeed on this saving throw. On a successful save, the creature is immune to the stench of all corpse flowers for 24 hours."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Large",
     "type": "plant"

@@ -24,6 +24,11 @@
     "CR": "2 (450 XP)",
     "page": 242,
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "monstrosity"

@@ -1,0 +1,59 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "15",
+    "constitution": "19",
+    "intelligence": "15",
+    "wisdom": "10",
+    "charisma": "16",
+    "arcana": "+6",
+    "perception": "+8",
+    "name": "Death Slaad",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "perception": "expert"
+    },
+    "resistances": [
+        "acid, cold, fire, lightning, thunder"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Slaad",
+        "telepathy 60 ft."
+    ],
+    "CR": "10 (5,900 XP)",
+    "page": 278,
+    "book": "Monster Manual",
+    "traits": {
+        "Shapechanger": "The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect magic",
+                "detect thoughts",
+                "invisibility",
+                "mage hand",
+                "major image",
+                "fear",
+                "fireball",
+                "fly",
+                "tongues",
+                "cloudkill",
+                "plane shift"
+            ]
+        },
+        "Magic Resistance": "The slaad has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The slaad's weapon attacks are magical.",
+        "Regeneration": "The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point."
+    },
+    "actions": {}
+}

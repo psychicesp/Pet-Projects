@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "14",
+    "constitution": "20",
+    "intelligence": "11",
+    "wisdom": "12",
+    "charisma": "11",
+    "name": "Galeb Duhr",
+    "AC": 16,
+    "speed": [
+        "15 ft. (30 ft. when rolling",
+        "60 ft. rolling downhill)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Terran"
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 139,
+    "book": "Monster Manual",
+    "traits": {
+        "False Appearance": "While the galeb duhr remains motionless, it is indistinguishable from a normal boulder.",
+        "Rolling Charge": "If the galeb duhr rolls at least 20 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 16+1d6 + 13 Strength saving throw or be knocked prone."
+    },
+    "actions": {}
+}

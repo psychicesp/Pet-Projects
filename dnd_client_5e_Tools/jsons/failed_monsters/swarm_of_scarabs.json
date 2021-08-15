@@ -35,5 +35,6 @@
         "Skeletonize": "If the swarm starts its turn in the same space as a dead creature that is Large or smaller, the corpse is destroyed, leaving behind only equipment and bones (or exoskeleton).",
         "Spider Climb": "The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
         "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny scarab. The swarm can't regain hit points or gain temporary hit points."
-    }
+    },
+    "actions": {}
 }

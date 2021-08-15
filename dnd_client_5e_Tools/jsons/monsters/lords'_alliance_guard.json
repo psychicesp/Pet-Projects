@@ -31,6 +31,11 @@
     "traits": {
         "Dwarven Resilience": "The guard has advantage on saving throws against poison."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CG",
     "size": "Medium",
     "type": "humanoid"

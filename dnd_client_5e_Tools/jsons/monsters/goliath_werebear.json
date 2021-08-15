@@ -44,6 +44,11 @@
         "Mountain Born": "The werebear is acclimated to high altitude, including elevations above 20,000 feet.",
         "Powerful Build (Humanoid Form Only)": "The werebear counts as one size larger when determining its carrying capacity and the weight it can push, drag, or lift."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "S",
     "size": "Medium",
     "type": "humanoid"

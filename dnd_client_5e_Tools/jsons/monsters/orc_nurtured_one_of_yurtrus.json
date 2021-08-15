@@ -31,6 +31,11 @@
         "Corrupted Carrier": "When the orc is reduced to 0 hit points, it explodes, and any creature within 10 feet of it must make a DC 13+1d4 + 11 Constitution saving throw. On a failed save, the creature takes 14 (4d6) poison damage and becomes poisoned. On a success, the creature takes half as much damage and isn't poisoned. A creature poisoned by this effect can repeat the save at the end of each of its turn, ending the effect on itself on a success. While poisoned by this effect, a creature can't regain hit points.",
         "Nurtured One of Yurtrus": "The orc has advantage on saving throws against poison and disease."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "CE",
     "size": "Medium",
     "type": "humanoid"

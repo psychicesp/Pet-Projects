@@ -40,6 +40,11 @@
     "traits": {
         "False Appearance": "While the clockwork dragon remains motionless, it is indistinguishable from a metal statue."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "N",
     "size": "Medium",
     "type": "construct"

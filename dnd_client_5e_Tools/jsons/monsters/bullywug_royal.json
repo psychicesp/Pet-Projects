@@ -43,6 +43,11 @@
         "Standing Leap": "The royal's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.",
         "Swamp Camouflage": "The royal has advantage on Dexterity (Stealth) checks made to hide in swampy terrain."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "NE",
     "size": "Medium",
     "type": "humanoid"

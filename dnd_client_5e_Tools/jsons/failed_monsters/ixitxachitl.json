@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "16",
+    "constitution": "13",
+    "intelligence": "12",
+    "wisdom": "13",
+    "charisma": "7",
+    "name": "Ixitxachitl",
+    "AC": 15,
+    "speed": [
+        "0 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "Ixitxachitl"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 225,
+    "book": "Out of the Abyss",
+    "actions": {}
+}

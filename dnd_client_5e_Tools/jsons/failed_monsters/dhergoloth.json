@@ -1,0 +1,54 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "10",
+    "constitution": "19",
+    "intelligence": "7",
+    "wisdom": "10",
+    "charisma": "9",
+    "name": "Dhergoloth",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "acid, poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Abyssal",
+        "Infernal",
+        "telepathy 60 ft."
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 248,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "darkness",
+                "fear",
+                "sleep"
+            ]
+        },
+        "Magic Resistance": "The dhergoloth has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The dhergoloth's weapon attacks are magical."
+    },
+    "actions": {}
+}

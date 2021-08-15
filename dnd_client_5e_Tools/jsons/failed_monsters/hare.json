@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "1",
+    "dexterity": "17",
+    "constitution": "9",
+    "intelligence": "2",
+    "wisdom": "11",
+    "charisma": "4",
+    "perception": "+2",
+    "stealth": "+5",
+    "name": "Hare",
+    "AC": 13,
+    "speed": [
+        "20 ft",
+        "burrow 5 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 294,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Escape": "The hare can take the Dash, Disengage, or Hide action as a bonus action on each of its turns."
+    },
+    "actions": {}
+}

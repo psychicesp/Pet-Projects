@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "hit": "9d8",
+    "strength": "10",
+    "dexterity": "17",
+    "constitution": "11",
+    "intelligence": "13",
+    "wisdom": "14",
+    "charisma": "15",
+    "athletics": "+2",
+    "perception": "+4",
+    "stealth": "+5",
+    "survival": "+6",
+    "name": "Tabaxi Hunter",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "climb 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient",
+        "survival": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 232,
+    "book": "Tomb of Annihilation",
+    "traits": {
+        "Feline Agility": "When the tabaxi moves on its turn in combat, it can double its speed until the end of the turn. Once it uses this ability, the tabaxi can't use it again until it moves 0 feet on one of its turns."
+    },
+    "actions": {}
+}

@@ -78,6 +78,19 @@
         "Magic Resistance": "The ki-rin has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The ki-rin's weapon attacks are magical."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Detect": "The ki-rin makes a Wisdom (Perception) check or a Wisdom (Insight) check.",
+            "Smite": "The ki-rin makes a hoof attack or casts sacred flame.",
+            "Move": "The ki-rin moves up to its half its speed without provoking opportunity attacks."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": []
+    },
     "alignment": "LG",
     "size": "Huge",
     "type": "celestial"

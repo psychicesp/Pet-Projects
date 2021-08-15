@@ -42,6 +42,11 @@
         "Magic Resistance": "The stonecloak has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The stonecloak's weapon attacks are magical."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Large",
     "type": "construct"

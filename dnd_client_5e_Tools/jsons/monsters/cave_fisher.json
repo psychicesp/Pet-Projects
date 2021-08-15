@@ -34,6 +34,11 @@
         "Flammable Blood": "If the cave fisher drops to half its hit points or fewer, it gains vulnerability to fire damage.",
         "Spider Climb": "The cave fisher can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "U",
     "size": "Medium",
     "type": "monstrosity"

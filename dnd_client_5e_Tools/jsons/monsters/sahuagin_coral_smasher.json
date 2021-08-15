@@ -35,6 +35,11 @@
         "Shark Telepathy": "The coral smasher can magically command any shark within 120 feet of it, using a limited telepathy.",
         "Siege Monster": "The coral smasher deals double damage to objects and structures."
     },
+    "actions": {},
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
     "alignment": "LE",
     "size": "Medium",
     "type": "humanoid"
