@@ -12,22 +12,5 @@
         "25 ft"
     ],
     "saving_throws": {},
-    "skills": {},
-    "damage_immunities": [
-        "cold, necrotic, poison"
-    ],
-    "resistances": [
-        "acid, fire, lightning",
-        "bludgeoning, piercing, and slashing from nonmagical attacks"
-    ],
-    "condition_immunities": [
-        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-    ],
-    "senses": [
-        "darkvision 60 ft.",
-        "passive Perception 14"
-    ],
-    "languages": [
-        "the languages the eidolon knew in life"
-    ]
+    "skills": {}
 }
