@@ -34,9 +34,9 @@
     "page": 143,
     "book": "Waterdeep: Dragon Heist",
     "traits": {
-        "Constructed Nature": "The swarm doesn\\'t require air, food, drink, or sleep.",
+        "Constructed Nature": "The swarm doesn't require air, food, drink, or sleep.",
         "Spider Climb": "The swarm can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
-        "Swarm": "The swarm can occupy another creature\\'s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.",
+        "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.",
         "Web Sense": "While in contact with a web, the swarm knows the exact location of any other creature in contact with the same web.",
         "Web Walker": "The swarm ignores movement restrictions caused by webbing."
     },

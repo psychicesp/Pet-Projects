@@ -42,7 +42,7 @@
     "page": 141,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
-        "Fey Ancestry": "The draegloth has advantage on saving throws against being charmed, and magic can\\'t put it to sleep.",
+        "Fey Ancestry": "The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.",
         "spellcasting": {
             "type": "innate",
             "spells": [

@@ -28,7 +28,7 @@
     "page": 331,
     "book": "Monster Manual",
     "traits": {
-        "Echolocation": "The whale can\\'t use its blindsight while deafened.",
+        "Echolocation": "The whale can't use its blindsight while deafened.",
         "Hold Breath": "The whale can hold its breath for 30 minutes",
         "Keen Hearing": "The whale has advantage on Wisdom (Perception) checks that rely on hearing."
     },

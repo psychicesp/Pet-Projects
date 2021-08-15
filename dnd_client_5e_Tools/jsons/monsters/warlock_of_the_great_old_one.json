@@ -62,7 +62,7 @@
                 "vampiric touch"
             ]
         },
-        "Whispering Aura": "At the start of each of the warlock's turns, each creature of its choice within 5 feet of it must succeed on a DC 15+1d6 + 12 Wisdom saving throw or take 10 (3d6) psychic damage, provided that the warlock isn\\'t incapacitated."
+        "Whispering Aura": "At the start of each of the warlock's turns, each creature of its choice within 5 feet of it must succeed on a DC 15+1d6 + 12 Wisdom saving throw or take 10 (3d6) psychic damage, provided that the warlock isn't incapacitated."
     },
     "alignment": "AA",
     "size": "Medium",

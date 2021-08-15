@@ -53,7 +53,7 @@
             ]
         },
         "Magic Resistance": "The slaad has advantage on saving throws against spells and other magical effects.",
-        "Magic Weapons": "The slaad\\'s weapon attacks are magical.",
+        "Magic Weapons": "The slaad's weapon attacks are magical.",
         "Regeneration": "The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point."
     },
     "alignment": "CN",

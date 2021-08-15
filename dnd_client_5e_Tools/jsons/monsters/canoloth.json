@@ -46,7 +46,7 @@
     "traits": {
         "Dimensional Lock": "Other creatures can't teleport to or from a space within 60 feet of the canoloth. Any attempt to do so is wasted.",
         "Magic Resistance": "The canoloth has advantage on saving throws against spells and other magical effects.",
-        "Magic Weapons": "The canoloth\\'s weapon attacks are magical.",
+        "Magic Weapons": "The canoloth's weapon attacks are magical.",
         "Uncanny Senses": "The canoloth can't be surprised while it isn't incapacitated."
     },
     "alignment": "NE",

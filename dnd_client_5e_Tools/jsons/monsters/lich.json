@@ -48,7 +48,7 @@
     "book": "Monster Manual",
     "traits": {
         "Legendary Resistance (3/Day)": "If the lich fails a saving throw, it can choose to succeed instead.",
-        "Rejuvenation": "If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points\n                    and becoming active again. The new body appears within 5 feet of the phylactery.",
+        "Rejuvenation": "If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points                    and becoming active again. The new body appears within 5 feet of the phylactery.",
         "spellcasting": {
             "level": 18,
             "type": "wizard",

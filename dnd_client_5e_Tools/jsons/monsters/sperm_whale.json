@@ -25,7 +25,7 @@
     "page": 309,
     "book": "Icewind Dale: Rime of the Frostmaiden",
     "traits": {
-        "Echolocation": "The whale can\\'t use its blindsight while deafened.",
+        "Echolocation": "The whale can't use its blindsight while deafened.",
         "Hold Breath": "The whale can hold its breath for 90 minutes.",
         "Keen Hearing": "The whale has advantage on Wisdom (Perception) checks that rely on hearing."
     },

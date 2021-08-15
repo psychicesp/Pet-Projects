@@ -32,7 +32,7 @@
     "page": 245,
     "book": "Ghosts of Saltmarsh",
     "traits": {
-        "Flyby": "The peryton doesn\\'t provoke opportunity attacks when it flies out of an enemy\\'s reach.",
+        "Flyby": "The peryton doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
         "Keen Sight and Smell": "The peryton has advantage on Wisdom (Perception) checks that rely on sight or smell.",
         "Legendary Resistance (3/Day)": "If the peryton fails a saving throw, it can choose to succeed instead."
     },

@@ -37,7 +37,7 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "Burden of Time": "Beasts and humanoids, other than shadar-kai, have disadvantage on saving throws while within 10 feet of the gloom weaver.",
-        "Fey Ancestry": "The gloom weaver has advantage on saving throws against being charmed, and magic can\\'t put it to sleep.",
+        "Fey Ancestry": "The gloom weaver has advantage on saving throws against being charmed, and magic can't put it to sleep.",
         "spellcasting": {
             "level": 12,
             "type": "warlock",

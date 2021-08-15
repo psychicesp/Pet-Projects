@@ -32,7 +32,7 @@
     "traits": {
         "Fiery End": "If the magen dies, its body disintegrates in a harmless burst of fire and smoke, leaving behind anything it was wearing or carrying.",
         "Magic Resistance": "The magen has advantage on saving throws against spells and other magical effects.",
-        "Unusual Nature": "The magen doesn\\'t require air, food, drink, or sleep."
+        "Unusual Nature": "The magen doesn't require air, food, drink, or sleep."
     },
     "alignment": "U",
     "size": "Medium",

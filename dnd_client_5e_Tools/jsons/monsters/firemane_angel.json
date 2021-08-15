@@ -41,7 +41,7 @@
     "page": 190,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
     "traits": {
-        "Flyby": "The angel doesn\\'t provoke an opportunity attack when it flies out of an enemy\\'s reach.",
+        "Flyby": "The angel doesn't provoke an opportunity attack when it flies out of an enemy's reach.",
         "spellcasting": {
             "type": "innate",
             "spells": [

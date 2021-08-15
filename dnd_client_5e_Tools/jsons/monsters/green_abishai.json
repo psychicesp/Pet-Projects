@@ -51,7 +51,7 @@
     "page": 162,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
-        "Devil\\'s Sight": "Magical darkness doesn\\'t impede the abishai\\'s darkvision.",
+        "Devil\\'s Sight": "Magical darkness doesn't impede the abishai's darkvision.",
         "spellcasting": {
             "type": "innate",
             "spells": [

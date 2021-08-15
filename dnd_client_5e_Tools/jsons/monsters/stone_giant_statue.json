@@ -33,7 +33,7 @@
     "traits": {
         "Immutable Form": "The golem is immune to any spell or effect that would alter its form.",
         "Magic Resistance": "The golem has advantage on saving throws against spells and other magical effects.",
-        "Magic Weapons": "The golem\\'s weapon attacks are magical."
+        "Magic Weapons": "The golem's weapon attacks are magical."
     },
     "alignment": "U",
     "size": "Huge",

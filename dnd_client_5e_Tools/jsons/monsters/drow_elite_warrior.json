@@ -36,7 +36,7 @@
     "page": 128,
     "book": "Monster Manual",
     "traits": {
-        "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can\\'t put the drow to sleep.",
+        "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
             "type": "innate",
             "spells": [

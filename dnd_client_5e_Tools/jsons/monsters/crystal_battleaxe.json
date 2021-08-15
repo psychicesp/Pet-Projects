@@ -34,7 +34,7 @@
     "page": 89,
     "book": "Waterdeep: Dungeon of the Mad Mage",
     "traits": {
-        "Antimagic Susceptibility": "The battleaxe is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the battleaxe must succeed on a Constitution saving throw against the caster\\'s spell save DC or fall unconscious for 1 minute.",
+        "Antimagic Susceptibility": "The battleaxe is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the battleaxe must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
         "False Appearance": "While the battleaxe remains motionless and isn't flying, it is indistinguishable from a normal battleaxe."
     },
     "alignment": "U",

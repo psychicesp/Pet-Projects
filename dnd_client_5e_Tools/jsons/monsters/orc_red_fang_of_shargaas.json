@@ -36,7 +36,7 @@
     "traits": {
         "Cunning Action": "On each of its turns, the orc can use a bonus action to take the Dash, Disengage, or Hide action.",
         "Hand of Shargaas": "The orc deals 2 extra dice of damage when it hits a target with a weapon attack (included in its attacks).",
-        "Shargaas\\'s Sight": "Magical darkness doesn\\'t impede the orc\\'s darkvision.",
+        "Shargaas\\'s Sight": "Magical darkness doesn't impede the orc's darkvision.",
         "Slayer": "In the first round of a combat, the orc has advantage on attack rolls against any creature that hasn't taken a turn yet. If the orc hits a creature that round who was surprised, the hit is automatically a critical hit."
     },
     "alignment": "CE",

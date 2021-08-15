@@ -47,7 +47,7 @@
     "page": 71,
     "book": "Monster Manual",
     "traits": {
-        "Devil\\'s Sight": "Magical darkness doesn\\'t impede the devil\\'s darkvision.",
+        "Devil\\'s Sight": "Magical darkness doesn't impede the devil's darkvision.",
         "Magic Resistance": "The devil has advantage on saving throws against spells and other magical effects."
     },
     "alignment": "LE",

@@ -32,7 +32,7 @@
     "page": 132,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
-        "Fey Ancestry": "The choldrith has advantage on saving throws against being charmed, and magic can\\'t put the choldrith to sleep.",
+        "Fey Ancestry": "The choldrith has advantage on saving throws against being charmed, and magic can't put the choldrith to sleep.",
         "spellcasting": {
             "level": 4,
             "type": "cleric",

@@ -37,7 +37,7 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "Fallible Invisibility": "The skulk is invisible. This invisibility can be circumvented by three things:",
-        "Trackless": "The skulk leaves no tracks to indicate where it has been or where it\\'s headed."
+        "Trackless": "The skulk leaves no tracks to indicate where it has been or where it's headed."
     },
     "alignment": "CN",
     "size": "Medium",

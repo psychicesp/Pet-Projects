@@ -43,7 +43,7 @@
     "page": 186,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
-        "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can\\'t put the drow to sleep.",
+        "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
             "level": 20,
             "type": "cleric",

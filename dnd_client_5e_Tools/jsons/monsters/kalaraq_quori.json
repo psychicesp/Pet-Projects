@@ -44,7 +44,7 @@
     "page": 306,
     "book": "Eberron: Rising from the Last War",
     "traits": {
-        "All-Around Vision": "The quori can\\'t be surprised while it isn\\'t incapacitated.",
+        "All-Around Vision": "The quori can't be surprised while it isn't incapacitated.",
         "Incorporeal Movement": "The quori can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
         "spellcasting": {
             "type": "innate",

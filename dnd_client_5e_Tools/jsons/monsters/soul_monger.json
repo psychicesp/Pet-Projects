@@ -40,7 +40,7 @@
     "page": 226,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
-        "Fey Ancestry": "The soul monger has advantage on saving throws against being charmed, and magic can\\'t put it to sleep.",
+        "Fey Ancestry": "The soul monger has advantage on saving throws against being charmed, and magic can't put it to sleep.",
         "spellcasting": {
             "type": "innate",
             "spells": [

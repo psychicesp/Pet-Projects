@@ -37,7 +37,7 @@
     "page": 187,
     "book": "Candlekeep Mysteries",
     "traits": {
-        "Fey Ancestry": "The wood elf has advantage on saving throws against being charmed, and magic can\\'t put the wood elf to sleep.",
+        "Fey Ancestry": "The wood elf has advantage on saving throws against being charmed, and magic can't put the wood elf to sleep.",
         "spellcasting": {
             "level": 10,
             "type": "wizard",

@@ -40,7 +40,7 @@
                 "confusion"
             ]
         },
-        "Nilbogism": "Any creature that attempts to damage the nilbog must first succeed on a DC 12+1d4 + 10 Charisma saving throw or be charmed until the end of the creature\\'s next turn. A creature charmed in this way must use its action praising the nilbog. The nilbog can't regain hit points, including through magical healing, except through its Reversal of Fortune reaction.",
+        "Nilbogism": "Any creature that attempts to damage the nilbog must first succeed on a DC 12+1d4 + 10 Charisma saving throw or be charmed until the end of the creature's next turn. A creature charmed in this way must use its action praising the nilbog. The nilbog can't regain hit points, including through magical healing, except through its Reversal of Fortune reaction.",
         "Nimble Escape": "The nilbog can take the Disengage or Hide action as a bonus action on each of its turns."
     },
     "alignment": "CE",

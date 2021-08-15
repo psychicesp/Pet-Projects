@@ -35,7 +35,7 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "Illumination": "The myrmidon sheds bright light in a 20-foot radius and dim light in a 40-foot radius.",
-        "Magic Weapons": "The myrmidon\\'s weapon attacks are magical.",
+        "Magic Weapons": "The myrmidon's weapon attacks are magical.",
         "Water Susceptibility": "For every 5 feet the myrmidon moves in 1 foot or more of water, it takes 2 (1d4) cold damage."
     },
     "alignment": "N",

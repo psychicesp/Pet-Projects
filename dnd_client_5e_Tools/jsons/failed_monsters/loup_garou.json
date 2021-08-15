@@ -39,6 +39,6 @@
     "traits": {
         "Blood Frenzy": "The loup garou has advantage on attack rolls against a creature that doesn't have all its hit points.",
         "Legendary Resistance (2/Day)": "When the loup garou fails a saving throw, it can choose to succeed instead.",
-        "Regeneration": "The loup garou regains 10 hit points at the start of each of its turns. If the loup garou takes damage from a silver weapon, this trait doesn't function at the start of the loup garou's next turn. The loup garou dies only if it starts its turn with 0 hit points and doesn\\'t regenerate."
+        "Regeneration": "The loup garou regains 10 hit points at the start of each of its turns. If the loup garou takes damage from a silver weapon, this trait doesn't function at the start of the loup garou's next turn. The loup garou dies only if it starts its turn with 0 hit points and doesn't regenerate."
     }
 }

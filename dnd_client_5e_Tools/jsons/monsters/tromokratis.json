@@ -43,7 +43,7 @@
         "Amphibious": "Tromokratis can breathe air and water.",
         "Hearts of the Kraken (Mythic Trait; Recharges after a Short or Long Rest)": "When Tromokratis is reduced to 0 hit points, it doesn't die or fall unconscious. Instead, the damage creates cracks in its carapace, revealing its hearts. Tromokratis has four hearts: two on its chest, one on its back, and one at the base of its tail. A heart has an AC of 22 and 100 hit points. It is immune to bludgeoning, piercing, and slashing damage from nonmagical attacks, and it is immune to all conditions. If it is forced to make a saving throw, treat its ability scores as 10 (+0). If it finishes a short or long rest, the carapace heals, any destroyed hearts regenerate, and the hearts are covered again. Tromokratis dies when all the hearts are destroyed.",
         "Legendary Resistance (3/Day)": "If Tromokratis fails a saving throw, it can choose to succeed instead.",
-        "Magic Weapons": "Tromokratis\\'s weapon attacks are magical.",
+        "Magic Weapons": "Tromokratis's weapon attacks are magical.",
         "Siege Monster": "Tromokratis deals double damage to objects and structures.",
         "Spell-Resistant Carapace": "Tromokratis has advantage on saving throws against spells, and any creature that makes a spell attack against Tromokratis has disadvantage on the attack roll."
     },

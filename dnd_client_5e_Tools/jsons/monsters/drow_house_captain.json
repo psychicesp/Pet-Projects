@@ -37,7 +37,7 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "Battle Command": "As a bonus action, the drow targets one ally he can see within 30 feet of him. If the target can see or hear the drow, the target can use its reaction to make one melee attack or to take the Dodge or Hide action.",
-        "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can\\'t put the drow to sleep.",
+        "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
             "type": "innate",
             "spells": [

@@ -32,7 +32,7 @@
     "page": 180,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
-        "Mental Fortitude": "The neogi has advantage on saving throws against being charmed or frightened, and magic can\\'t put the neogi to sleep.",
+        "Mental Fortitude": "The neogi has advantage on saving throws against being charmed or frightened, and magic can't put the neogi to sleep.",
         "Spider Climb": "The neogi can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
     },
     "alignment": "LE",

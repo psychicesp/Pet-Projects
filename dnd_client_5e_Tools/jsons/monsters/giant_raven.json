@@ -28,7 +28,7 @@
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
     "traits": {
         "Keen Sight and Smell": "The raven has advantage on Wisdom (Perception) checks that rely on sight or smell.",
-        "Pack Tactics": "The raven has advantage on an attack roll against a creature if at least one of the raven's allies is within 5 feet of the creature and the ally isn\\'t incapacitated."
+        "Pack Tactics": "The raven has advantage on an attack roll against a creature if at least one of the raven's allies is within 5 feet of the creature and the ally isn't incapacitated."
     },
     "alignment": "NE",
     "size": "Large",

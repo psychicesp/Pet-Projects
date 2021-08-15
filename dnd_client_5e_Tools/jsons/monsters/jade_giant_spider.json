@@ -34,7 +34,7 @@
     "traits": {
         "Immutable Form": "The spider is immune to any spell or effect that would alter its form.",
         "Magic Resistance": "The spider has advantage on saving throws against spells and other magical effects.",
-        "Magic Weapons": "The spider\\'s weapon attacks are magical."
+        "Magic Weapons": "The spider's weapon attacks are magical."
     },
     "alignment": "U",
     "size": "Large",

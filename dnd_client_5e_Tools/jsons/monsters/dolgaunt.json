@@ -35,7 +35,7 @@
     "page": 290,
     "book": "Eberron: Rising from the Last War",
     "traits": {
-        "Evasion": "If the dolgaunt is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the dolgaunt instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can\\'t use this trait if it\\'s incapacitated.",
+        "Evasion": "If the dolgaunt is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the dolgaunt instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.",
         "Unarmored Defense": "While the dolgaunt is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
     },
     "alignment": "LE",

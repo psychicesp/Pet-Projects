@@ -38,7 +38,7 @@
     "page": 224,
     "book": "Mythic Odysseys of Theros",
     "traits": {
-        "Aura of Erebos": "Any creature that starts its turn within 10 feet of the giant must succeed on a DC 18+1d8 + 14 Constitution saving throw, or it takes 10 (3d6) necrotic damage and can\\'t regain hit points until the start of its next turn. On a successful saving throw, the creature is immune to the giant's Aura of Erebos for 24 hours.",
+        "Aura of Erebos": "Any creature that starts its turn within 10 feet of the giant must succeed on a DC 18+1d8 + 14 Constitution saving throw, or it takes 10 (3d6) necrotic damage and can't regain hit points until the start of its next turn. On a successful saving throw, the creature is immune to the giant's Aura of Erebos for 24 hours.",
         "Magic Resistance": "The giant has advantage on saving throws against spells and other magical effects."
     },
     "alignment": "LE",

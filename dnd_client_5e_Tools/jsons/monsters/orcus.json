@@ -59,8 +59,8 @@
         },
         "Legendary Resistance (3/Day)": "If Orcus fails a saving throw, he can choose to succeed instead.",
         "Magic Resistance": "Orcus has advantage on saving throws against spells and other magical effects.",
-        "Magic Weapons": "Orcus\\'s weapon attacks are magical.",
-        "Master of Undeath": "When Orcus casts animate dead or create undead, he chooses the level at which the spell is cast, and the creatures created by the spells remain under his control indefinitely. Additionally, he can cast create undead even when it isn\\'t night.",
+        "Magic Weapons": "Orcus's weapon attacks are magical.",
+        "Master of Undeath": "When Orcus casts animate dead or create undead, he chooses the level at which the spell is cast, and the creatures created by the spells remain under his control indefinitely. Additionally, he can cast create undead even when it isn't night.",
         "Wand of Orcus": "The wand has 7 charges, and any of its properties that require a saving throw have a save DC of 18. While holding it, Orcus can use an action to cast animate dead, blight, or speak with dead. Alternatively, he can expend 1 or more of the wand's charges to cast one of the following spells from it: circle of death (1 charge), finger of death (1 charge), or power word kill (2 charges). The wand regains 1d4 + 3 charges daily at dawn."
     },
     "alignment": "CE",

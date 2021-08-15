@@ -50,7 +50,7 @@
     "page": 149,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
-        "Shapechanger": "Graz'zt can use his action to polymorph into a form that resembles a Medium humanoid, or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn\\'t transformed.",
+        "Shapechanger": "Graz'zt can use his action to polymorph into a form that resembles a Medium humanoid, or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed.",
         "spellcasting": {
             "type": "innate",
             "spells": [
@@ -70,7 +70,7 @@
             ]
         },
         "Legendary Resistance (3/Day)": "If Graz'zt fails a saving throw, he can choose to succeed instead.",
-        "Magic Resistance": "Graz\\'zt has advantage on saving throws against spells and other magical effects.",
+        "Magic Resistance": "Graz'zt has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "Graz'zt's weapon attacks are magical."
     },
     "alignment": "S",

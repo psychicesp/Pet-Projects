@@ -30,7 +30,7 @@
     "page": 161,
     "book": "Tomb of Annihilation",
     "traits": {
-        "Antimagic Susceptibility": "The terracotta warrior is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the terracotta warrior must succeed on a Constitution saving throw against the caster\\'s spell save DC or fall unconscious for 1 minute.",
+        "Antimagic Susceptibility": "The terracotta warrior is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the terracotta warrior must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
         "False Appearance": "While the terracotta warrior remains motionless, it is indistinguishable from a terracotta statue.",
         "Fragile": "If a critical hit is scored against the terracotta warrior, it shatters and is destroyed."
     },

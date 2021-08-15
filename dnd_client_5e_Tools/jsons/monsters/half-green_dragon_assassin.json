@@ -45,7 +45,7 @@
     "traits": {
         "Assassinate": "During its first turn, the half-dragon has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the half-dragon scores against a surprised creature is a critical hit.",
         "Evasion": "If the half-dragon is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the half-dragon instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
-        "Sneak Attack (1/Turn)": "The half-dragon deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the half-dragon that isn\\'t incapacitated and the half-dragon doesn't have disadvantage on the attack roll."
+        "Sneak Attack (1/Turn)": "The half-dragon deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the half-dragon that isn't incapacitated and the half-dragon doesn't have disadvantage on the attack roll."
     },
     "alignment": "ANA",
     "size": "Medium",

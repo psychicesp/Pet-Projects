@@ -36,7 +36,7 @@
     "page": 277,
     "book": "Monster Manual",
     "traits": {
-        "Shapechanger": "The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn\\'t transformed. It reverts to its true form if it dies.",
+        "Shapechanger": "The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
         "spellcasting": {
             "type": "innate",
             "spells": [

@@ -32,7 +32,7 @@
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
     "traits": {
         "Amphibious": "The sea elf can breathe air and water.",
-        "Fey Ancestry": "The sea elf has advantage on saving throws against being charmed, and magic can\\'t put the sea elf to sleep."
+        "Fey Ancestry": "The sea elf has advantage on saving throws against being charmed, and magic can't put the sea elf to sleep."
     },
     "alignment": "CG",
     "size": "Medium",

@@ -33,9 +33,9 @@
     "traits": {
         "Illumination": "The golem magically sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light goes out when the golem is destroyed.",
         "Immutable Form": "The golem is immune to any spell or effect that would alter its form.",
-        "Light Intensity": "Any creature that starts its turn within 10 feet of the illuminated golem and can see the golem must succeed on a DC 17 Wisdom saving throw or be blinded until the start of the creature\\'s next turn.",
+        "Light Intensity": "Any creature that starts its turn within 10 feet of the illuminated golem and can see the golem must succeed on a DC 17 Wisdom saving throw or be blinded until the start of the creature's next turn.",
         "Magic Resistance": "The golem has advantage on saving throws against spells and other magical effects.",
-        "Magic Weapons": "The golem\\'s weapon attacks are magical."
+        "Magic Weapons": "The golem's weapon attacks are magical."
     },
     "alignment": "U",
     "size": "Large",

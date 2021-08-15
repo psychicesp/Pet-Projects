@@ -42,7 +42,7 @@
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
     "traits": {
         "Blood Witch Dance": "The witch can use a bonus action to control the movement of one creature cursed by its hex spell that it can see within 30 feet of it. The creature must succeed on a DC 15+1d6 + 12 Charisma saving throw or use its reaction to move up to 30 feet in a direction of the witch's choice.",
-        "Devil\\'s Sight": "Magical darkness doesn\\'t impede the witch\\'s darkvision.",
+        "Devil\\'s Sight": "Magical darkness doesn't impede the witch's darkvision.",
         "spellcasting": {
             "type": "innate",
             "spells": [

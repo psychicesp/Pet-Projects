@@ -32,6 +32,6 @@
     "book": "Candlekeep Mysteries",
     "traits": {
         "Lightning Absorption": "Whenever the skitterwidget is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.",
-        "Unusual Nature": "The skitterwidget doesn\\'t require air, food, drink, or sleep."
+        "Unusual Nature": "The skitterwidget doesn't require air, food, drink, or sleep."
     }
 }

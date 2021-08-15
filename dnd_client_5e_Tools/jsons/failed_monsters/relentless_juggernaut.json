@@ -37,7 +37,7 @@
     "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
     "traits": {
         "Legendary Resistance (3/Day)": "If the juggernaut fails a saving throw, it can choose to succeed instead.",
-        "Regeneration": "The juggernaut regains 20 hit points at the start of its turn. If the juggernaut takes radiant damage, this trait doesn't function at the start of its next turn. The juggernaut dies only if it starts its turn with 0 hit points and doesn\\'t regenerate.",
+        "Regeneration": "The juggernaut regains 20 hit points at the start of its turn. If the juggernaut takes radiant damage, this trait doesn't function at the start of its next turn. The juggernaut dies only if it starts its turn with 0 hit points and doesn't regenerate.",
         "Unusual Nature": "The juggernaut doesn't require air, food, drink, or sleep."
     }
 }

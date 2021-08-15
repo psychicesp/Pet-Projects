@@ -28,7 +28,7 @@
     "page": 46,
     "book": "Monster Manual",
     "traits": {
-        "Echolocation": "The darkmantle can\\'t use its blindsight while deafened.",
+        "Echolocation": "The darkmantle can't use its blindsight while deafened.",
         "False Appearance": "While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite."
     },
     "alignment": "U",

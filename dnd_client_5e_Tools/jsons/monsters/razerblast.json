@@ -34,7 +34,7 @@
     "page": 201,
     "book": "Princes of the Apocalypse",
     "traits": {
-        "Searing Armor": "The razerblast\\'s armor is hot. Any creature grappling the razerblast or grappled by it takes 5 (1d10) fire damage at the end of that creature\\'s turn.",
+        "Searing Armor": "The razerblast's armor is hot. Any creature grappling the razerblast or grappled by it takes 5 (1d10) fire damage at the end of that creature's turn.",
         "Shrapnel Explosion": "When the razerblast drops to 0 hit points, a flaming orb in its chest explodes, destroying the razerblast's body and scattering its armor as shrapnel. Creatures within 10 feet of the razerblast when it explodes must succeed on a DC 12+1d6 + 9 Dexterity saving throw, taking 21 (6d6) piercing damage on a failed save, or half as much damage on a successful one."
     },
     "alignment": "CE",

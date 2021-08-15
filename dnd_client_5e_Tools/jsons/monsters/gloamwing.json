@@ -44,7 +44,7 @@
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
     "traits": {
         "Death Link": "If its specter rider is reduced to 0 hit points, the gloamwing is destroyed.",
-        "Flyby": "The gloamwing doesn\\'t provoke an opportunity attack when it flies out of an enemy\\'s reach.",
+        "Flyby": "The gloamwing doesn't provoke an opportunity attack when it flies out of an enemy's reach.",
         "Sunlight Sensitivity": "While in sunlight, the gloamwing has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },
     "alignment": "NE",

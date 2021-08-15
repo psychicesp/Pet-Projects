@@ -24,7 +24,7 @@
     "page": 225,
     "book": "Monster Manual",
     "traits": {
-        "Axiomatic Mind": "The duodrone can\\'t be compelled to act in a manner contrary to its nature or its instructions.",
+        "Axiomatic Mind": "The duodrone can't be compelled to act in a manner contrary to its nature or its instructions.",
         "Disintegration": "If the duodrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying."
     },
     "alignment": "LN",

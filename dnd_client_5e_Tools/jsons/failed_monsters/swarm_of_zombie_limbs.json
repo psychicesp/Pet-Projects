@@ -36,6 +36,6 @@
     "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
     "traits": {
         "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny limb. The swarm can't regain hit points or gain temporary hit points.",
-        "Unusual Nature": "The swarm doesn\\'t require air, food, drink, or sleep."
+        "Unusual Nature": "The swarm doesn't require air, food, drink, or sleep."
     }
 }

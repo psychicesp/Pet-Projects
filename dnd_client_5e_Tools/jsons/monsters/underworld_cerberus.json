@@ -39,7 +39,7 @@
     "traits": {
         "Aggressive": "As a bonus action, the cerberus can move up to its speed toward a hostile creature that it can see.",
         "Multiheaded": "The cerberus can't be surprised, and it has advantage on saving throws against being knocked unconscious.",
-        "Pack Tactics": "The cerberus has advantage on an attack roll against a creature if at least one of the cerberus's allies is within 5 feet of the creature and the ally isn\\'t incapacitated."
+        "Pack Tactics": "The cerberus has advantage on an attack roll against a creature if at least one of the cerberus's allies is within 5 feet of the creature and the ally isn't incapacitated."
     },
     "alignment": "LE",
     "size": "Large",

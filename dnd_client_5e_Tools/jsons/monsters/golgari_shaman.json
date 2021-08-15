@@ -39,7 +39,7 @@
     "page": 236,
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
     "traits": {
-        "Fey Ancestry": "The shaman has advantage on saving throws against being charmed, and magic can\\'t put it to sleep.",
+        "Fey Ancestry": "The shaman has advantage on saving throws against being charmed, and magic can't put it to sleep.",
         "spellcasting": {
             "level": 8,
             "type": "druid",

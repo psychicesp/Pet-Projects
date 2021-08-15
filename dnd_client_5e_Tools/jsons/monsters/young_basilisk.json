@@ -24,7 +24,7 @@
     "page": 100,
     "book": "Out of the Abyss",
     "traits": {
-        "Petrifying Gaze": "If a creature starts its turn within 15 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12+1d4 + 10 Constitution saving throw if the basilisk isn\\'t incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the  greater restoration spell or other magic."
+        "Petrifying Gaze": "If a creature starts its turn within 15 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12+1d4 + 10 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the  greater restoration spell or other magic."
     },
     "alignment": "U",
     "size": "Small",

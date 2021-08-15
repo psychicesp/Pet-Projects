@@ -40,7 +40,7 @@
     "traits": {
         "Gatekeeper\\'s Aura": "Any creature that starts its turn within 10 feet of the phylaskia must make a DC 15+1d8 + 11 Wisdom saving throw. On a successful save, the creature is immune to this aura for the next 24 hours. On a failed save, the creature has disadvantage on saving throws and its speed is halved until the start of its next turn.",
         "Undead Fortitude": "If damage reduces the phylaskia to 0 hit points, it must make a Constitution saving throw with a DC equal to 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the phylaskia drops to 1 hit point instead.",
-        "Vigilant": "The phylaskia can\\'t be surprised."
+        "Vigilant": "The phylaskia can't be surprised."
     },
     "alignment": "LN",
     "size": "Large",

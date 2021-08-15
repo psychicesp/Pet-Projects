@@ -35,8 +35,8 @@
     "page": 233,
     "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
     "traits": {
-        "Aura of Murder": "As long as the death\\'s head is not incapacitated, hostile creatures within 5 feet of it gain vulnerability to piercing damage unless they have resistance or immunity to such damage.",
-        "Magic Resistance": "The death\\'s head has advantage on saving throws against spells and other magical effects."
+        "Aura of Murder": "As long as the death's head is not incapacitated, hostile creatures within 5 feet of it gain vulnerability to piercing damage unless they have resistance or immunity to such damage.",
+        "Magic Resistance": "The death's head has advantage on saving throws against spells and other magical effects."
     },
     "alignment": "CE",
     "size": "Medium",

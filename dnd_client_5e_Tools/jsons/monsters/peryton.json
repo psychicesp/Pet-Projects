@@ -31,7 +31,7 @@
     "book": "Monster Manual",
     "traits": {
         "Dive Attack": "If the peryton is flying and dives at least 30 feet straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 9 (2d8) damage to the target.",
-        "Flyby": "The peryton doesn't provoke an opportunity attack when it flies out of an enemy\\'s reach.",
+        "Flyby": "The peryton doesn't provoke an opportunity attack when it flies out of an enemy's reach.",
         "Keen Sight and Smell": "The peryton has advantage on Wisdom (Perception) checks that rely on sight or smell."
     },
     "alignment": "CE",

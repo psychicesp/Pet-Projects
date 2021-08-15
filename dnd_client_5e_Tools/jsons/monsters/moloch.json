@@ -69,7 +69,7 @@
         },
         "Legendary Resistance (3/Day)": "If Moloch fails a saving throw, he can choose to succeed instead.",
         "Magic Resistance": "Moloch has advantage on saving throws against spells and other magical effects.",
-        "Magic Weapons": "Moloch\\'s weapon attacks are magical.",
+        "Magic Weapons": "Moloch's weapon attacks are magical.",
         "Regeneration": "Moloch regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Moloch dies only if he starts his turn with 0 hit points and doesn't regenerate."
     },
     "alignment": "LE",

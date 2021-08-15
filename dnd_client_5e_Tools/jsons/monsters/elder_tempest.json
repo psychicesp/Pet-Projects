@@ -38,7 +38,7 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "Air Form": "The tempest can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.",
-        "Flyby": "The tempest doesn\\'t provoke opportunity attacks when it flies out of an enemy\\'s reach.",
+        "Flyby": "The tempest doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
         "Legendary Resistance (3/Day)": "If the tempest fails a saving throw, it can choose to succeed instead.",
         "Living Storm": "The tempest is always at the center of a storm 1d6 + 4 miles in diameter. Heavy precipitation in the form of either rain or snow falls there, causing the area to be lightly obscured. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom (Perception) checks that rely on hearing.",
         "Siege Monster": "The tempest deals double damage to objects and structures."
