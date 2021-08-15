@@ -52,8 +52,10 @@ proficiency_dict = {
     "2": "expert"
 }
 def html_to_json(file_name):
+    # try:
     with open(f'html_pages/monsters/{file_name}', 'r') as mon:
         mon_soup = BS(mon, 'html.parser')
+    new_file_name = file_name.split('.')[0]+".json"
 
     ability_soup = mon_soup.find_all('span', {'class':'roller render-roller'})
     meal = {'tags':[]}
@@ -71,19 +73,6 @@ def html_to_json(file_name):
         except:
             pass
     meal['name'] = mon_soup.find('h1').text
-    book_page = mon_soup.find('div',{"class":"stats-source flex-v-baseline"}).find_all('a')
-
-
-    meal['page'] = int(book_page[1].attrs['title'].split(" ")[1])
-    meal['book'] = book_page[0].attrs['title']
-    sta = mon_soup.find('div',{"class":"mon__wrp-size-type-align--token"}).text
-    sta = sta.split(',')
-    meal['alignment'] = ''.join([x.upper()[:1] for x in sta[1].split(' ')])
-    sta = sta[0].split(' ')
-    meal['size'] = sta[0]
-    meal['type'] = sta[1]
-    if len(sta)>2:
-        meal['tags'].append(sta[2].strip().strip(')').strip('('))
     # meal['hit_dice_type'] = 'd'+meal['hit'].split('d')[1]
     # meal['num_hit_dice'] = int(meal['hit'].split('d')[0])
     # meal.pop('hit')
@@ -141,12 +130,6 @@ def html_to_json(file_name):
     except:
         pass
     try:
-        immunities = soup_dict['Languages'].text.replace('Condition Immunities ', '').split(';')
-        immunities = [x.strip() for x in immunities]
-        meal['condition_immunities'] = immunities
-    except:
-        pass
-    try:
         senses = soup_dict['Senses'].text.replace('Senses', '').split(',')
         senses = [x.strip() for x in senses]
         meal['senses'] = senses
@@ -159,15 +142,27 @@ def html_to_json(file_name):
     except:
         pass
     meal['CR'] = soup_dict['Challenge'].text.strip("\\n").split("\\n")[1]
-    new_file_name = file_name.split('.')[0]+".json"
+    book_page = mon_soup.find('div',{"class":"stats-source flex-v-baseline"}).find_all('a')
+    meal['page'] = int(book_page[1].attrs['title'].split(" ")[1])
+    meal['book'] = book_page[0].attrs['title']
+    sta = mon_soup.find('div',{"class":"mon__wrp-size-type-align--token"}).text
+    sta = sta.split(',')
+    meal['alignment'] = ''.join([x.upper()[:1] for x in sta[1].split(' ')])
+    sta = sta[0].split(' ')
+    meal['size'] = sta[0]
+    meal['type'] = sta[1]
+    if len(sta)>2:
+        meal['tags'].append(sta[2].strip().strip(')').strip('('))
     with open(f'jsons/monsters/{new_file_name}', 'w') as out:
         json.dump(meal, out, indent = 4)
+    # except:
+    #     with open(f'jsons/failed_monsters/{new_file_name}', 'w') as out:
+    #         json.dump(meal, out, indent = 4)
+
 files = os.listdir("html_pages/monsters")
 for file in files:
-    try:
-        html_to_json(file)
-    except:
-        pass
+    html_to_json(file)
+
 # %%
 def html_cleaner(in_folder):
     files = os.listdir(in_folder)
