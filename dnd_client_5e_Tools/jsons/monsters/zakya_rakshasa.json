@@ -9,11 +9,6 @@
     "athletics": "+7",
     "perception": "+4",
     "name": "Zakya Rakshasa",
-    "page": 309,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
         "Common",
         "Infernal"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 309,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

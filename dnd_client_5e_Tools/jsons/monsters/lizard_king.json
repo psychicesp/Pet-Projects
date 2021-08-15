@@ -12,11 +12,6 @@
     "stealth": "+5",
     "survival": "+4",
     "name": "Lizard King",
-    "page": 205,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -42,5 +37,10 @@
         "Abyssal",
         "Draconic"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 205,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

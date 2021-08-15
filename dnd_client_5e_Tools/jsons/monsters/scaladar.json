@@ -7,11 +7,6 @@
     "wisdom": "12",
     "charisma": "1",
     "name": "Scaladar",
-    "page": 315,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "construct",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 315,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "construct"
 }

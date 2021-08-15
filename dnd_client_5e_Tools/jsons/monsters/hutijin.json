@@ -11,11 +11,6 @@
     "intimidation": "+14",
     "perception": "+11",
     "name": "Hutijin",
-    "page": 175,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -48,5 +43,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "21 (33,000 XP)"
+    "CR": "21 (33,000 XP)",
+    "page": 175,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend"
 }

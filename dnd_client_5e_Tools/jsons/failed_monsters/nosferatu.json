@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "18",
+    "constitution": "21",
+    "intelligence": "6",
+    "wisdom": "17",
+    "charisma": "14",
+    "perception": "+6",
+    "stealth": "+10",
+    "name": "Nosferatu",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "resistances": [
+        "necrotic"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 239,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

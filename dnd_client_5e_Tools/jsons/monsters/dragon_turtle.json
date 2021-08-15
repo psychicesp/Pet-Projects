@@ -7,11 +7,6 @@
     "wisdom": "12",
     "charisma": "12",
     "name": "Dragon Turtle",
-    "page": 119,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Gargantuan",
-    "type": "dragon",
     "AC": 20,
     "speed": [
         "20 ft",
@@ -34,5 +29,10 @@
         "Aquan",
         "Draconic"
     ],
-    "CR": "17 (18,000 XP)"
+    "CR": "17 (18,000 XP)",
+    "page": 119,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Gargantuan",
+    "type": "dragon"
 }

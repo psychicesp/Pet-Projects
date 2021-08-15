@@ -11,11 +11,6 @@
     "perception": "+10",
     "persuasion": "+11",
     "name": "Deathpact Angel",
-    "page": 192,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "celestial",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -46,5 +41,10 @@
     "languages": [
         "all"
     ],
-    "CR": "14 (11,500 XP)"
+    "CR": "14 (11,500 XP)",
+    "page": 192,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "celestial"
 }

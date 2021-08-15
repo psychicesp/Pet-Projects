@@ -11,11 +11,6 @@
     "deception": "+6",
     "stealth": "+5",
     "name": "Yuan-ti Pit Master",
-    "page": 206,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "Y",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -43,5 +38,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 206,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "Y",
+    "size": "Medium",
+    "type": "monstrosity"
 }

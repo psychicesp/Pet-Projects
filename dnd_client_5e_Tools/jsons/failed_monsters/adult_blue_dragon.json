@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "hit points": "18d12 + 108",
+    "strength": "25 (+7)",
+    "dexterity": "10 (+0)",
+    "constitution": "23 (+6)",
+    "intelligence": "16 (+3)",
+    "wisdom": "15 (+2)",
+    "charisma": "19 (+4)",
+    "dexterity save": "+5",
+    "constitution save": "+11",
+    "wisdom save": "+7",
+    "charisma save": "+9",
+    "perception": "+12",
+    "stealth": "+5",
+    "name": "Adult Blue Dragon",
+    "AC": 19,
+    "speed": [
+        "40 ft",
+        "burrow 30 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "lightning"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 22"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ]
+}

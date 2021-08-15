@@ -12,11 +12,6 @@
     "stealth": "+4",
     "survival": "+3",
     "name": "Thri-kreen",
-    "page": 288,
-    "book": "Monster Manual",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Thri-kreen"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 288,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid"
 }

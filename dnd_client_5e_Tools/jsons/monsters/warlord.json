@@ -13,11 +13,6 @@
     "perception": "+5",
     "persuasion": "+8",
     "name": "Warlord",
-    "page": 220,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -39,5 +34,10 @@
     "languages": [
         "any two languages"
     ],
-    "CR": "12 (8,400 XP)"
+    "CR": "12 (8,400 XP)",
+    "page": 220,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

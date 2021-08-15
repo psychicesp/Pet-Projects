@@ -11,11 +11,6 @@
     "perception": "+2",
     "stealth": "+5",
     "name": "Nothic",
-    "page": 236,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Undercommon"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 236,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "aberration"
 }

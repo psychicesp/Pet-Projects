@@ -7,11 +7,6 @@
     "wisdom": "8",
     "charisma": "7",
     "name": "Stone Cursed",
-    "page": 240,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "10 ft"
@@ -30,5 +25,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 240,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "construct"
 }

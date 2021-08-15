@@ -11,11 +11,6 @@
     "arcana": "+9",
     "nature": "+9",
     "name": "Biomancer",
-    "page": 256,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NG",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Common plus any one language"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 256,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NG",
+    "size": "Medium",
+    "type": "humanoid"
 }

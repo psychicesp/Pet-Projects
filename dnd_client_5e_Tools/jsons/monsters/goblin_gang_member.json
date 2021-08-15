@@ -11,11 +11,6 @@
     "charisma": "8",
     "stealth": "+5",
     "name": "Goblin Gang Member",
-    "page": 167,
-    "book": "Krenko\\xe2\\x80\\x99s Way",
-    "alignment": "NE",
-    "size": "Small",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -32,5 +27,10 @@
         "Common",
         "Goblin"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 167,
+    "book": "Krenko\\xe2\\x80\\x99s Way",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "humanoid"
 }

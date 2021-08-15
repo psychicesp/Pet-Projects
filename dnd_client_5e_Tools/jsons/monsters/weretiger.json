@@ -11,11 +11,6 @@
     "perception": "+5",
     "stealth": "+4",
     "name": "Weretiger",
-    "page": 210,
-    "book": "Monster Manual",
-    "alignment": "S",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft. (40 ft. in tiger form)"
@@ -35,5 +30,10 @@
     "languages": [
         "Common (can\\'t speak in tiger form)"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 210,
+    "book": "Monster Manual",
+    "alignment": "S",
+    "size": "Medium",
+    "type": "humanoid"
 }

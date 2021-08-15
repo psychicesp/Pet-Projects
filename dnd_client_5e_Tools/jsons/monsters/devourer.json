@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "16",
     "name": "Devourer",
-    "page": 138,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
         "Abyssal",
         "telepathy 120 ft."
     ],
-    "CR": "13 (10,000 XP)"
+    "CR": "13 (10,000 XP)",
+    "page": 138,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
 }

@@ -12,11 +12,6 @@
     "perception": "+4",
     "stealth": "+4",
     "name": "Nycaloth",
-    "page": 314,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -48,5 +43,10 @@
         "Infernal",
         "telepathy 60 ft."
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 314,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "fiend"
 }

@@ -11,11 +11,6 @@
     "perception": "+4",
     "stealth": "+7",
     "name": "Cambion",
-    "page": 36,
-    "book": "Monster Manual",
-    "alignment": "AEA",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -46,5 +41,10 @@
         "Common",
         "Infernal"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 36,
+    "book": "Monster Manual",
+    "alignment": "AEA",
+    "size": "Medium",
+    "type": "fiend"
 }

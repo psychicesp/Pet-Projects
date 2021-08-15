@@ -12,11 +12,6 @@
     "intimidation": "+5",
     "religion": "+2",
     "name": "Eternal Flame Priest",
-    "page": 200,
-    "book": "Princes of the Apocalypse",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "Common",
         "Ignan"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 200,
+    "book": "Princes of the Apocalypse",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

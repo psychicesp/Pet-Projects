@@ -13,11 +13,6 @@
     "stealth": "+6",
     "survival": "+5",
     "name": "Merfolk Scout",
-    "page": 216,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "10 ft",
@@ -37,5 +32,10 @@
         "any one language (usually Common)",
         "Aquan"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 216,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

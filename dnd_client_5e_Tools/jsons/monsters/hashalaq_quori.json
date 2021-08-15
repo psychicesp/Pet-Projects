@@ -11,11 +11,6 @@
     "insight": "+11",
     "persuasion": "+8",
     "name": "Hashalaq Quori",
-    "page": 305,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -44,5 +39,10 @@
         "Common",
         "Quori"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 305,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "aberration"
 }

@@ -10,11 +10,6 @@
     "perception": "+5",
     "survival": "+5",
     "name": "Setessan Hoplite",
-    "page": 229,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 229,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

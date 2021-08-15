@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "4",
     "name": "Crawling Claw",
-    "page": 44,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Tiny",
-    "type": "undead",
     "AC": 12,
     "speed": [
         "20 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "understands Common but can\\'t speak"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 44,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Tiny",
+    "type": "undead"
 }

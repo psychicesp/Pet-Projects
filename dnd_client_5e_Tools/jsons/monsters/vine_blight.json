@@ -8,11 +8,6 @@
     "charisma": "3",
     "stealth": "+1",
     "name": "Vine Blight",
-    "page": 32,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "plant",
     "AC": 12,
     "speed": [
         "10 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 32,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "plant"
 }

@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "30",
+    "dexterity": "14",
+    "constitution": "20",
+    "intelligence": "1",
+    "wisdom": "14",
+    "charisma": "10",
+    "perception": "+9",
+    "name": "Mighty Servant of Leuk-o",
+    "AC": 22,
+    "speed": [
+        "60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "acid, bludgeoning, cold, fire, lightning, necrotic, poison, psychic, radiant"
+    ],
+    "resistances": [
+        "piercing, slashing"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, frightened, grappled, incapacitated, paralyzed, petrified, poisoned, restrained, stunned"
+    ],
+    "senses": [
+        "blindsight 120 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "understands the languages of creatures attuned to it but can\\'t speak"
+    ]
+}

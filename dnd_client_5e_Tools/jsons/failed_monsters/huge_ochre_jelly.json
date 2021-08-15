@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "6",
+    "constitution": "14",
+    "intelligence": "2",
+    "wisdom": "6",
+    "charisma": "1",
+    "name": "Huge Ochre Jelly",
+    "AC": 8,
+    "speed": [
+        "10 ft",
+        "climb 10 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "lightning, slashing"
+    ],
+    "resistances": [
+        "acid"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, prone"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)"
+}

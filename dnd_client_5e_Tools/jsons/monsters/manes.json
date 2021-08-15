@@ -9,11 +9,6 @@
     "wisdom": "8",
     "charisma": "4",
     "name": "Manes",
-    "page": 60,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Small",
-    "type": "fiend",
     "AC": 9,
     "speed": [
         "20 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "understands Abyssal but can\\'t speak"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 60,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "fiend"
 }

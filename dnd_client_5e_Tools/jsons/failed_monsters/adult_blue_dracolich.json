@@ -1,0 +1,51 @@
+{
+    "tags": [],
+    "hit points": "18d12 + 108",
+    "strength": "25 (+7)",
+    "dexterity": "10 (+0)",
+    "constitution": "23 (+6)",
+    "intelligence": "16 (+3)",
+    "wisdom": "15 (+2)",
+    "charisma": "19 (+4)",
+    "dexterity save": "+6",
+    "constitution save": "+12",
+    "wisdom save": "+8",
+    "charisma save": "+10",
+    "perception": "+14",
+    "stealth": "+6",
+    "name": "Adult Blue Dracolich",
+    "AC": 19,
+    "speed": [
+        "40 ft",
+        "burrow 30 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "lightning, poison"
+    ],
+    "resistances": [
+        "necrotic"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 24"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ]
+}

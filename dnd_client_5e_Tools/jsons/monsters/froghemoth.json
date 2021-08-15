@@ -9,11 +9,6 @@
     "perception": "+9",
     "stealth": "+5",
     "name": "Froghemoth",
-    "page": 145,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "monstrosity",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -37,5 +32,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 145,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "monstrosity"
 }

@@ -7,11 +7,6 @@
     "wisdom": "20",
     "charisma": "18",
     "name": "Couatl",
-    "page": 43,
-    "book": "Monster Manual",
-    "alignment": "LG",
-    "size": "Medium",
-    "type": "celestial",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -38,5 +33,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 43,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "celestial"
 }

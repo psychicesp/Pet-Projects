@@ -11,11 +11,6 @@
     "intimidation": "+2",
     "perception": "+2",
     "name": "Tanarukk",
-    "page": 186,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "O",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "Common",
         "Orc"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 186,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "O",
+    "size": "Medium",
+    "type": "fiend"
 }

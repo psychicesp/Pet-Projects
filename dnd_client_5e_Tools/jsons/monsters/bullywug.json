@@ -10,11 +10,6 @@
     "charisma": "7",
     "stealth": "+3",
     "name": "Bullywug",
-    "page": 35,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "20 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "Bullywug"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 35,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

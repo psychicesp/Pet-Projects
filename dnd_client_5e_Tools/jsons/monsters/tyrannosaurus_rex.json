@@ -8,11 +8,6 @@
     "charisma": "9",
     "perception": "+4",
     "name": "Tyrannosaurus Rex",
-    "page": 80,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "beast",
     "AC": 13,
     "speed": [
         "50 ft"
@@ -27,5 +22,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 80,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast"
 }

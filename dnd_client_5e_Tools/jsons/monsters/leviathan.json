@@ -7,11 +7,6 @@
     "wisdom": "18",
     "charisma": "17",
     "name": "Leviathan",
-    "page": 198,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "N",
-    "size": "Gargantuan",
-    "type": "elemental",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -38,5 +33,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "20 (25,000 XP)"
+    "CR": "20 (25,000 XP)",
+    "page": 198,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "N",
+    "size": "Gargantuan",
+    "type": "elemental"
 }

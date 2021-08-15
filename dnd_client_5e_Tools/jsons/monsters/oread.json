@@ -10,11 +10,6 @@
     "athletics": "+4",
     "performance": "+6",
     "name": "Oread",
-    "page": 237,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "fey",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -38,5 +33,10 @@
         "Common",
         "Sylvan"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 237,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fey"
 }

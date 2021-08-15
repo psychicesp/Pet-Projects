@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "hit points": "21d12 + 126",
+    "strength": "26 (+8)",
+    "dexterity": "15 (+2)",
+    "constitution": "22 (+6)",
+    "intelligence": "20 (+5)",
+    "wisdom": "16 (+3)",
+    "charisma": "22 (+6)",
+    "strength save": "+14",
+    "constitution save": "+12",
+    "wisdom save": "+9",
+    "charisma save": "+12",
+    "50% summoning chance": "50 percent",
+    "name": "Balor",
+    "AC": 19,
+    "speed": [
+        "40 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Abyssal",
+        "telepathy 120 ft."
+    ]
+}

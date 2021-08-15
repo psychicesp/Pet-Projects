@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "hit points": "19d12 + 133",
+    "strength": "27 (+8)",
+    "dexterity": "14 (+2)",
+    "constitution": "25 (+7)",
+    "intelligence": "16 (+3)",
+    "wisdom": "15 (+2)",
+    "charisma": "24 (+7)",
+    "dexterity save": "+8",
+    "constitution save": "+13",
+    "wisdom save": "+8",
+    "charisma save": "+13",
+    "insight": "+8",
+    "perception": "+14",
+    "persuasion": "+13",
+    "stealth": "+8",
+    "name": "Adult Gold Dragon",
+    "AC": 19,
+    "speed": [
+        "40 ft",
+        "fly 80 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "expert",
+        "persuasion": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "fire"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 24"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ]
+}

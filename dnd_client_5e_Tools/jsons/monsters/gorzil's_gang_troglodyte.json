@@ -10,11 +10,6 @@
     "charisma": "6",
     "stealth": "+2",
     "name": "Gorzil\\'s Gang Troglodyte",
-    "page": 150,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -30,5 +25,10 @@
     "languages": [
         "understands Undercommon but can't speak"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 150,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

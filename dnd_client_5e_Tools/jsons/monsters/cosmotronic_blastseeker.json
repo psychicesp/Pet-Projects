@@ -12,11 +12,6 @@
     "intimidation": "+3",
     "perception": "+1",
     "name": "Cosmotronic Blastseeker",
-    "page": 242,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 242,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -10,11 +10,6 @@
     "charisma": "12",
     "stealth": "+6",
     "name": "Shadow Dancer",
-    "page": 225,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -40,5 +35,10 @@
         "Common",
         "Elvish"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 225,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
 }

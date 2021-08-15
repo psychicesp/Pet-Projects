@@ -10,11 +10,6 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Distended Corpse",
-    "page": 165,
-    "book": "Curse of Strahd",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 10,
     "speed": [
         "20 ft"
@@ -30,5 +25,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 165,
+    "book": "Curse of Strahd",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

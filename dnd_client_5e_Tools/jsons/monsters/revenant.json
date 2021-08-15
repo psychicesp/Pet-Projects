@@ -7,11 +7,6 @@
     "wisdom": "16",
     "charisma": "18",
     "name": "Revenant",
-    "page": 259,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "undead",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -39,5 +34,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 259,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "undead"
 }

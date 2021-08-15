@@ -11,11 +11,6 @@
     "athletics": "+4",
     "deception": "+4",
     "name": "Bandit Captain",
-    "page": 344,
-    "book": "Monster Manual",
-    "alignment": "ANA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
     "languages": [
         "any two languages"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 344,
+    "book": "Monster Manual",
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
 }

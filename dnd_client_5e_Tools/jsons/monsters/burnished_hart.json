@@ -7,11 +7,6 @@
     "wisdom": "15",
     "charisma": "1",
     "name": "Burnished Hart",
-    "page": 211,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 14,
     "speed": [
         "50 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "understands one language of its creator but can't speak"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 211,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

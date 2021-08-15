@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "3",
+    "wisdom": "10",
+    "charisma": "1",
+    "name": "Skitterwidget",
+    "AC": 18,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "lightning, poison"
+    ],
+    "condition_immunities": [
+        "blinded, deafened, exhaustion, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Skitterwidget"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 136,
+    "book": "Candlekeep Mysteries"
+}

@@ -9,11 +9,6 @@
     "wisdom": "12",
     "charisma": "11",
     "name": "Fist of Bane",
-    "page": 232,
-    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 232,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

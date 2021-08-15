@@ -10,11 +10,6 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Dryad",
-    "page": 121,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "fey",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -32,5 +27,10 @@
         "Elvish",
         "Sylvan"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 121,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "fey"
 }

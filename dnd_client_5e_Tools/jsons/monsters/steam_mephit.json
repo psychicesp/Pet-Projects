@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "12",
     "name": "Steam Mephit",
-    "page": 217,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Small",
-    "type": "elemental",
     "AC": 10,
     "speed": [
         "30 ft",
@@ -34,5 +29,10 @@
         "Aquan",
         "Ignan"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 217,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "elemental"
 }

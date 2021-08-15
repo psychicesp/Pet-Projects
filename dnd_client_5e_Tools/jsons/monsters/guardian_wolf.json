@@ -9,11 +9,6 @@
     "perception": "+5",
     "stealth": "+4",
     "name": "Guardian Wolf",
-    "page": 272,
-    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "monstrosity",
     "AC": 14,
     "speed": [
         "60 ft"
@@ -30,5 +25,10 @@
         "Common",
         "Elvish"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 272,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "monstrosity"
 }

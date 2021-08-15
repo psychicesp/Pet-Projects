@@ -9,11 +9,6 @@
     "wisdom": "11",
     "charisma": "9",
     "name": "Uthgardt Barbarian Leader",
-    "page": 86,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -28,5 +23,10 @@
         "Common",
         "Elvish"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 86,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid"
 }

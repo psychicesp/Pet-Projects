@@ -10,11 +10,6 @@
     "charisma": "9",
     "perception": "+5",
     "name": "Sahuagin Champion",
-    "page": 249,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -31,5 +26,10 @@
     "languages": [
         "Sahuagin"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 249,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

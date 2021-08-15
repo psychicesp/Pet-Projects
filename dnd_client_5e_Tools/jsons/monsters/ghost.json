@@ -8,11 +8,6 @@
     "wisdom": "12",
     "charisma": "17",
     "name": "Ghost",
-    "page": 147,
-    "book": "Monster Manual",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "undead",
     "AC": 11,
     "speed": [
         "0 ft",
@@ -37,5 +32,10 @@
     "languages": [
         "any languages it knew in life"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 147,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "undead"
 }

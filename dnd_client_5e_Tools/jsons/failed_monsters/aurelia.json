@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "hit points": "25d8 + 175",
+    "strength": "26 (+8)",
+    "dexterity": "24 (+7)",
+    "constitution": "25 (+7)",
+    "intelligence": "17 (+3)",
+    "wisdom": "25 (+7)",
+    "charisma": "30 (+10)",
+    "dexterity save": "+14",
+    "constitution save": "+14",
+    "charisma save": "+17",
+    "insight": "+14",
+    "perception": "+14",
+    "name": "Aurelia",
+    "AC": 22,
+    "speed": [
+        "50 ft",
+        "fly 150 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic, radiant",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 24"
+    ],
+    "languages": [
+        "all"
+    ]
+}

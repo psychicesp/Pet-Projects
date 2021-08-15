@@ -9,11 +9,6 @@
     "perception": "+2",
     "survival": "+2",
     "name": "Pterafolk",
-    "page": 229,
-    "book": "Tomb of Annihilation",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 229,
+    "book": "Tomb of Annihilation",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "monstrosity"
 }

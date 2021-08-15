@@ -11,11 +11,6 @@
     "intimidation": "+3",
     "perception": "+2",
     "name": "Eternal Flame Guardian",
-    "page": 200,
-    "book": "Princes of the Apocalypse",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 200,
+    "book": "Princes of the Apocalypse",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

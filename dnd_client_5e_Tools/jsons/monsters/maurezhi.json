@@ -10,11 +10,6 @@
     "charisma": "15",
     "deception": "+5",
     "name": "Maurezhi",
-    "page": 133,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -42,5 +37,10 @@
         "Elvish",
         "telepathy 120 ft."
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 133,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend"
 }

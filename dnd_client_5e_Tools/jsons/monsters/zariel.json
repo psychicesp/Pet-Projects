@@ -11,11 +11,6 @@
     "intimidation": "+18",
     "perception": "+16",
     "name": "Zariel",
-    "page": 180,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 21,
     "speed": [
         "50 ft",
@@ -48,5 +43,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "26 (90,000 XP)"
+    "CR": "26 (90,000 XP)",
+    "page": 180,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend"
 }

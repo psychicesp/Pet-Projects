@@ -8,11 +8,6 @@
     "charisma": "7",
     "perception": "+2",
     "name": "Venom Troll",
-    "page": 245,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "giant",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Giant"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 245,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant"
 }

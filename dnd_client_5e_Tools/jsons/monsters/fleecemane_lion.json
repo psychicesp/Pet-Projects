@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Fleecemane Lion",
-    "page": 223,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "U",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 15,
     "speed": [
         "50 ft"
@@ -32,5 +27,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 223,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
 }

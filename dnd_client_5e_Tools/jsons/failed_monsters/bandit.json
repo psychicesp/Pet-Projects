@@ -1,0 +1,23 @@
+{
+    "tags": [],
+    "hit points": "2d8 + 2",
+    "strength": "11 (+0)",
+    "dexterity": "12 (+1)",
+    "constitution": "12 (+1)",
+    "intelligence": "10 (+0)",
+    "wisdom": "10 (+0)",
+    "charisma": "10 (+0)",
+    "name": "Bandit",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ]
+}

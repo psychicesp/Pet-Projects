@@ -13,11 +13,6 @@
     "nature": "+4",
     "religion": "+4",
     "name": "Golgari Shaman",
-    "page": 236,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -40,5 +35,10 @@
         "Common",
         "Elvish"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 236,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

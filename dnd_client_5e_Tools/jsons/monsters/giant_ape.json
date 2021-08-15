@@ -9,11 +9,6 @@
     "athletics": "+9",
     "perception": "+4",
     "name": "Giant Ape",
-    "page": 323,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "40 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 323,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast"
 }

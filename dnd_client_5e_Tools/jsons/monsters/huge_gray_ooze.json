@@ -8,11 +8,6 @@
     "charisma": "2",
     "stealth": "+2",
     "name": "Huge Gray Ooze",
-    "page": 243,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "ooze",
     "AC": 8,
     "speed": [
         "10 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 243,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "ooze"
 }

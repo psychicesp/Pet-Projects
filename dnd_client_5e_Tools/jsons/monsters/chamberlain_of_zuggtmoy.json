@@ -7,11 +7,6 @@
     "wisdom": "8",
     "charisma": "12",
     "name": "Chamberlain of Zuggtmoy",
-    "page": 230,
-    "book": "Out of the Abyss",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "plant",
     "AC": 13,
     "speed": [
         "20 ft"
@@ -29,5 +24,10 @@
         "Abyssal",
         "Undercommon"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 230,
+    "book": "Out of the Abyss",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "plant"
 }

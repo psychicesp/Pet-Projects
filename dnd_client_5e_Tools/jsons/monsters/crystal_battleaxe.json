@@ -8,11 +8,6 @@
     "wisdom": "5",
     "charisma": "1",
     "name": "Crystal Battleaxe",
-    "page": 89,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "U",
-    "size": "Small",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "0 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 89,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "U",
+    "size": "Small",
+    "type": "construct"
 }

@@ -9,11 +9,6 @@
     "perception": "+6",
     "stealth": "+3",
     "name": "Big Xorn",
-    "page": 51,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "N",
-    "size": "Large",
-    "type": "elemental",
     "AC": 19,
     "speed": [
         "20 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "Terran"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 51,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "N",
+    "size": "Large",
+    "type": "elemental"
 }

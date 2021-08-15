@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Gloamwing",
-    "page": 215,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "undead",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -44,5 +39,10 @@
     "languages": [
         "understands Common"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 215,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "undead"
 }

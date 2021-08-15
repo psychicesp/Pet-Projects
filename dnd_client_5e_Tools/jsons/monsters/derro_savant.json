@@ -10,11 +10,6 @@
     "charisma": "14",
     "stealth": "+4",
     "name": "Derro Savant",
-    "page": 159,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Small",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
         "Dwarvish",
         "Undercommon"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 159,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "humanoid"
 }

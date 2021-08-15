@@ -9,11 +9,6 @@
     "acrobatics": "+2",
     "perception": "+4",
     "name": "Clockwork Dragon",
-    "page": 209,
-    "book": "Acquisitions Incorporated",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "construct",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -39,5 +34,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 209,
+    "book": "Acquisitions Incorporated",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "construct"
 }

@@ -12,11 +12,6 @@
     "deception": "+6",
     "intimidation": "+6",
     "name": "Bone Knight",
-    "page": 316,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "ANA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 20,
     "speed": [
         "30 ft"
@@ -39,5 +34,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 316,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
 }

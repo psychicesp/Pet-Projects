@@ -9,11 +9,6 @@
     "deception": "+2",
     "perception": "+3",
     "name": "Leucrotta",
-    "page": 169,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 14,
     "speed": [
         "50 ft"
@@ -31,5 +26,10 @@
         "Abyssal",
         "Gnoll"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 169,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity"
 }

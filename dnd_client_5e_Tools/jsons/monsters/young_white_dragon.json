@@ -9,11 +9,6 @@
     "perception": "+6",
     "stealth": "+3",
     "name": "Young White Dragon",
-    "page": 101,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "dragon",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -43,5 +38,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 101,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "dragon"
 }

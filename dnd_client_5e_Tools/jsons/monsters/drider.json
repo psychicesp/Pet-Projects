@@ -9,11 +9,6 @@
     "perception": "+5",
     "stealth": "+9",
     "name": "Drider",
-    "page": 120,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -32,5 +27,10 @@
         "Elvish",
         "Undercommon"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 120,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity"
 }

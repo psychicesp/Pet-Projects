@@ -11,11 +11,6 @@
     "persuasion": "+9",
     "stealth": "+6",
     "name": "Young Gold Dragon",
-    "page": 115,
-    "book": "Monster Manual",
-    "alignment": "LG",
-    "size": "Large",
-    "type": "dragon",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -46,5 +41,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 115,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Large",
+    "type": "dragon"
 }

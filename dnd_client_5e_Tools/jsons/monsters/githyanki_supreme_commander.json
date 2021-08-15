@@ -12,11 +12,6 @@
     "intimidation": "+9",
     "perception": "+8",
     "name": "Githyanki Supreme Commander",
-    "page": 206,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
     "languages": [
         "Gith"
     ],
-    "CR": "14 (11,500 XP)"
+    "CR": "14 (11,500 XP)",
+    "page": 206,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

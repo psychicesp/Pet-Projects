@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Flesh Golem",
-    "page": 169,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "construct",
     "AC": 9,
     "speed": [
         "30 ft"
@@ -32,5 +27,10 @@
     "languages": [
         "understands the languages of its creator but can't speak"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 169,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "construct"
 }

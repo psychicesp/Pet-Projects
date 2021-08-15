@@ -7,11 +7,6 @@
     "wisdom": "19",
     "charisma": "18",
     "name": "Guardian Naga",
-    "page": 234,
-    "book": "Monster Manual",
-    "alignment": "LG",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -38,5 +33,10 @@
         "Celestial",
         "Common"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 234,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Large",
+    "type": "monstrosity"
 }

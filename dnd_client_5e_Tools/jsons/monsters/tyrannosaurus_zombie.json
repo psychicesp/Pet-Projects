@@ -7,11 +7,6 @@
     "wisdom": "3",
     "charisma": "5",
     "name": "Tyrannosaurus Zombie",
-    "page": 241,
-    "book": "Tomb of Annihilation",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "undead",
     "AC": 11,
     "speed": [
         "40 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 241,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "undead"
 }

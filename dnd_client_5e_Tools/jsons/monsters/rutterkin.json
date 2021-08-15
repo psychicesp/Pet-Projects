@@ -9,11 +9,6 @@
     "wisdom": "12",
     "charisma": "6",
     "name": "Rutterkin",
-    "page": 136,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 12,
     "speed": [
         "20 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "understands Abyssal but can\\'t speak"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 136,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend"
 }

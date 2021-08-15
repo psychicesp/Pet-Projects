@@ -10,11 +10,6 @@
     "charisma": "11",
     "intimidation": "+2",
     "name": "Zhentarim Thug",
-    "page": 131,
-    "book": "Out of the Abyss",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 131,
+    "book": "Out of the Abyss",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
 }

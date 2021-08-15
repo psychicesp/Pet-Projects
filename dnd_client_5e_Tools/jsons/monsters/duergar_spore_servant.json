@@ -7,11 +7,6 @@
     "wisdom": "6",
     "charisma": "1",
     "name": "Duergar Spore Servant",
-    "page": 229,
-    "book": "Out of the Abyss",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "plant",
     "AC": 16,
     "speed": [
         "15 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 229,
+    "book": "Out of the Abyss",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "plant"
 }

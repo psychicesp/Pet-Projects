@@ -10,11 +10,6 @@
     "athletics": "+6",
     "perception": "+4",
     "name": "Ghostblade Eidolon",
-    "page": 222,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "undead",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -41,5 +36,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 222,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "undead"
 }

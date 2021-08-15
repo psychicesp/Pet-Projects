@@ -9,11 +9,6 @@
     "perception": "+6",
     "stealth": "+3",
     "name": "Xorn",
-    "page": 304,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "elemental",
     "AC": 19,
     "speed": [
         "20 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "Terran"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 304,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "elemental"
 }

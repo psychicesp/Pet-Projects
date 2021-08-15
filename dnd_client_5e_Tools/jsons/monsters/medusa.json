@@ -11,11 +11,6 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Medusa",
-    "page": 206,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 206,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "monstrosity"
 }

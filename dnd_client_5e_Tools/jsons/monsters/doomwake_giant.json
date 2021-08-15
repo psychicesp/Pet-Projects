@@ -9,11 +9,6 @@
     "intimidation": "+7",
     "perception": "+6",
     "name": "Doomwake Giant",
-    "page": 224,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "LE",
-    "size": "Huge",
-    "type": "giant",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -39,5 +34,10 @@
     "languages": [
         "Giant"
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 224,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "giant"
 }

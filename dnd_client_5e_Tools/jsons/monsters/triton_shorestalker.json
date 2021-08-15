@@ -12,11 +12,6 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Triton Shorestalker",
-    "page": 244,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -39,5 +34,10 @@
         "Common",
         "Primordial"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 244,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

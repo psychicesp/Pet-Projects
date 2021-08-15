@@ -7,11 +7,6 @@
     "wisdom": "9",
     "charisma": "10",
     "name": "Sword Wraith Warrior",
-    "page": 241,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 241,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
 }

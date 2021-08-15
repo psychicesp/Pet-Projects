@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "9",
     "name": "Neogi Hatchling",
-    "page": 179,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "LE",
-    "size": "Tiny",
-    "type": "aberration",
     "AC": 11,
     "speed": [
         "20 ft",
@@ -27,5 +22,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 179,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Tiny",
+    "type": "aberration"
 }

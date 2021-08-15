@@ -8,11 +8,6 @@
     "charisma": "5",
     "perception": "+2",
     "name": "Quetzalcoatlus",
-    "page": 140,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "beast",
     "AC": 13,
     "speed": [
         "10 ft",
@@ -28,5 +23,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 140,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast"
 }

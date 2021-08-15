@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "13",
+    "charisma": "11",
+    "perception": "+5",
+    "stealth": "+4",
+    "name": "Werejaguar",
+    "AC": 12,
+    "speed": [
+        "30 ft. (40 ft. in jaguar form)"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Common (can\\'t speak in jaguar form)"
+    ],
+    "CR": "4 (1,100 XP)"
+}

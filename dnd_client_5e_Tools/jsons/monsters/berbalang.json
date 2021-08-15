@@ -12,11 +12,6 @@
     "perception": "+2",
     "religion": "+5",
     "name": "Berbalang",
-    "page": 120,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -40,5 +35,10 @@
     "languages": [
         "all but rarely speaks"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 120,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "aberration"
 }

@@ -9,11 +9,6 @@
     "wisdom": "16",
     "charisma": "20",
     "name": "Marilith",
-    "page": 61,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -43,5 +38,10 @@
         "Abyssal",
         "telepathy 120 ft."
     ],
-    "CR": "16 (15,000 XP)"
+    "CR": "16 (15,000 XP)",
+    "page": 61,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
 }

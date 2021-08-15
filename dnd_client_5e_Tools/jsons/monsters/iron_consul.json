@@ -11,11 +11,6 @@
     "intimidation": "+5",
     "perception": "+4",
     "name": "Iron Consul",
-    "page": 232,
-    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 232,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

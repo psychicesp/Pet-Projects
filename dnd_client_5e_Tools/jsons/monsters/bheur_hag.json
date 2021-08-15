@@ -11,11 +11,6 @@
     "stealth": "+6",
     "survival": "+4",
     "name": "Bheur Hag",
-    "page": 160,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "fey",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -41,5 +36,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "7 (2,900 XP) or 9 (5,000 XP) when part of a cove"
+    "CR": "7 (2,900 XP) or 9 (5,000 XP) when part of a cove",
+    "page": 160,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fey"
 }

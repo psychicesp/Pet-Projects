@@ -8,11 +8,6 @@
     "charisma": "8",
     "perception": "+2",
     "name": "Gray Render",
-    "page": 209,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CN",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 19,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "12 (8,400 XP)"
+    "CR": "12 (8,400 XP)",
+    "page": 209,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CN",
+    "size": "Large",
+    "type": "monstrosity"
 }

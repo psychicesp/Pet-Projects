@@ -14,11 +14,6 @@
     "nature": "+2",
     "persuasion": "+6",
     "name": "Warlock of the Archfey",
-    "page": 219,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -42,5 +37,10 @@
     "languages": [
         "any two languages (usually Sylvan)"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 219,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

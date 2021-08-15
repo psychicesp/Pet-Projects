@@ -12,11 +12,6 @@
     "perception": "+5",
     "performance": "+6",
     "name": "Bard",
-    "page": 211,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "any two languages"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 211,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

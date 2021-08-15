@@ -12,11 +12,6 @@
     "athletics": "+4",
     "stealth": "+5",
     "name": "Hobgoblin Iron Shadow",
-    "page": 162,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -35,5 +30,10 @@
         "Common",
         "Goblin"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 162,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

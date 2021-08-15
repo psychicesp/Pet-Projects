@@ -7,11 +7,6 @@
     "wisdom": "7",
     "charisma": "7",
     "name": "Ogre Howdah",
-    "page": 221,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "giant",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -26,5 +21,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 221,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant"
 }

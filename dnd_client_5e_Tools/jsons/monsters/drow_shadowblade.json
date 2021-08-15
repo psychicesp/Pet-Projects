@@ -11,11 +11,6 @@
     "perception": "+6",
     "stealth": "+9",
     "name": "Drow Shadowblade",
-    "page": 187,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "Elvish",
         "Undercommon"
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 187,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

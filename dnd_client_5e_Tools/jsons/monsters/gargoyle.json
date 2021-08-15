@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "7",
     "name": "Gargoyle",
-    "page": 140,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "elemental",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "Terran"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 140,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "elemental"
 }

@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "hit points": "21d20 + 147",
+    "strength": "27 (+8)",
+    "dexterity": "14 (+2)",
+    "constitution": "25 (+7)",
+    "intelligence": "16 (+3)",
+    "wisdom": "15 (+2)",
+    "charisma": "19 (+4)",
+    "dexterity save": "+9",
+    "constitution save": "+14",
+    "wisdom save": "+9",
+    "charisma save": "+11",
+    "perception": "+16",
+    "stealth": "+9",
+    "name": "Ancient Black Dragon",
+    "AC": 22,
+    "speed": [
+        "40 ft",
+        "fly 80 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "acid"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 26"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ]
+}

@@ -11,11 +11,6 @@
     "perception": "+4",
     "stealth": "+4",
     "name": "Hag of the Fetid Gaze",
-    "page": 76,
-    "book": "Candlekeep Mysteries",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "fey",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
         "Draconic",
         "Sylvan"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 76,
+    "book": "Candlekeep Mysteries",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fey"
 }

@@ -9,11 +9,6 @@
     "perception": "+9",
     "stealth": "+12",
     "name": "Shadow Assassin",
-    "page": 316,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -43,5 +38,10 @@
     "languages": [
         "understands the languages it knew in life but can't speak"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 316,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
 }

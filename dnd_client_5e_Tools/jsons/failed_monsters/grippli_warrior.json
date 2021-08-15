@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "14",
+    "charisma": "10",
+    "athletics": "+2",
+    "stealth": "+4",
+    "survival": "+4",
+    "name": "Grippli Warrior",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "climb 30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "stealth": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Grippli plus one other language (usually Common",
+        "Draconic",
+        "or Primordial)"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 99,
+    "book": "Candlekeep Mysteries"
+}

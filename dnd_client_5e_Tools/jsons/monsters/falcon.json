@@ -8,11 +8,6 @@
     "charisma": "6",
     "perception": "+4",
     "name": "Falcon",
-    "page": 53,
-    "book": "Waterdeep: Dragon Heist",
-    "alignment": "U",
-    "size": "Tiny",
-    "type": "beast",
     "AC": 13,
     "speed": [
         "10 ft",
@@ -28,5 +23,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 53,
+    "book": "Waterdeep: Dragon Heist",
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast"
 }

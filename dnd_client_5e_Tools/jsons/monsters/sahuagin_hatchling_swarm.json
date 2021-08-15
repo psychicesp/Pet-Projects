@@ -9,11 +9,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Sahuagin Hatchling Swarm",
-    "page": 250,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "swarm",
     "AC": 14,
     "speed": [
         "0 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 250,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "swarm"
 }

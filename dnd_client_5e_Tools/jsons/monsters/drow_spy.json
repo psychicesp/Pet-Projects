@@ -16,11 +16,6 @@
     "persuasion": "+5",
     "stealth": "+4",
     "name": "Drow Spy",
-    "page": 195,
-    "book": "Out of the Abyss",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -43,5 +38,10 @@
         "any two languages",
         "Elvish"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 195,
+    "book": "Out of the Abyss",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

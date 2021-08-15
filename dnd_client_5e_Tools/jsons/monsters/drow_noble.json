@@ -14,11 +14,6 @@
     "perception": "+4",
     "persuasion": "+5",
     "name": "Drow Noble",
-    "page": 196,
-    "book": "Out of the Abyss",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -38,5 +33,10 @@
         "any two languages",
         "Elvish"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 196,
+    "book": "Out of the Abyss",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -12,11 +12,6 @@
     "perception": "+3",
     "stealth": "+3",
     "name": "Grimlock",
-    "page": 175,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
     "languages": [
         "Undercommon"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 175,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

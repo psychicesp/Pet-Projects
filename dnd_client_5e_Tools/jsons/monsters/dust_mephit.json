@@ -10,11 +10,6 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Dust Mephit",
-    "page": 215,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Small",
-    "type": "elemental",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -39,5 +34,10 @@
         "Auran",
         "Terran"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 215,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "elemental"
 }

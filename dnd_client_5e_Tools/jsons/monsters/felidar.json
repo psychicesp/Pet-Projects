@@ -9,11 +9,6 @@
     "insight": "+6",
     "perception": "+6",
     "name": "Felidar",
-    "page": 199,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "LN",
-    "size": "Large",
-    "type": "celestial",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "understands Celestial and Common but can't speak"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 199,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LN",
+    "size": "Large",
+    "type": "celestial"
 }

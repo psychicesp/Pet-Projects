@@ -8,11 +8,6 @@
     "charisma": "8",
     "perception": "+4",
     "name": "Ettin",
-    "page": 132,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "giant",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -29,5 +24,10 @@
         "Giant",
         "Orc"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 132,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant"
 }

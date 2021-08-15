@@ -13,11 +13,6 @@
     "perception": "+3",
     "stealth": "+7",
     "name": "Master Thief",
-    "page": 216,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -39,5 +34,10 @@
     "languages": [
         "any one language (usually Common) plus Thieves' cant"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 216,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

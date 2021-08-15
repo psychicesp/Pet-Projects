@@ -8,11 +8,6 @@
     "charisma": "11",
     "perception": "+6",
     "name": "Spectator",
-    "page": 30,
-    "book": "Monster Manual",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 14,
     "speed": [
         "0 ft",
@@ -34,5 +29,10 @@
         "Undercommon",
         "telepathy 120 ft."
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 30,
+    "book": "Monster Manual",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "aberration"
 }

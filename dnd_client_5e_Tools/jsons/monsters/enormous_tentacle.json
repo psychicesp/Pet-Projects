@@ -8,11 +8,6 @@
     "charisma": "3",
     "perception": "+2",
     "name": "Enormous Tentacle",
-    "page": 94,
-    "book": "The Orrery of the Wanderer",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 94,
+    "book": "The Orrery of the Wanderer",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast"
 }

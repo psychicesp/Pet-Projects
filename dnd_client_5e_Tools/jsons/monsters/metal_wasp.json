@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Metal Wasp",
-    "page": 174,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 16,
     "speed": [
         "10 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 174,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

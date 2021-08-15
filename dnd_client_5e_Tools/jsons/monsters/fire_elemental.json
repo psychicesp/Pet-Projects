@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Fire Elemental",
-    "page": 125,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Large",
-    "type": "elemental",
     "AC": 13,
     "speed": [
         "50 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Ignan"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 125,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Large",
+    "type": "elemental"
 }

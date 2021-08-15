@@ -10,11 +10,6 @@
     "insight": "+4",
     "stealth": "+3",
     "name": "Lamia",
-    "page": 201,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
         "Abyssal",
         "Common"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 201,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity"
 }

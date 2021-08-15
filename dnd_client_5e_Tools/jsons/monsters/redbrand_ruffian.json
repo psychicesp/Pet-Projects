@@ -10,11 +10,6 @@
     "charisma": "11",
     "intimidation": "+2",
     "name": "Redbrand Ruffian",
-    "page": 61,
-    "book": "Lost Mine of Phandelver",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 61,
+    "book": "Lost Mine of Phandelver",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

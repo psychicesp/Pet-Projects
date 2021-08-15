@@ -9,11 +9,6 @@
     "wisdom": "11",
     "charisma": "14",
     "name": "Firenewt Warlock of Imix",
-    "page": 143,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
         "Draconic",
         "Ignan"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 143,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

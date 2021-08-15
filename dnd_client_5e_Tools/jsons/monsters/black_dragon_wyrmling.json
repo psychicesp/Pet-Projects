@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+4",
     "name": "Black Dragon Wyrmling",
-    "page": 88,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "dragon",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -41,5 +36,10 @@
     "languages": [
         "Draconic"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 88,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "dragon"
 }

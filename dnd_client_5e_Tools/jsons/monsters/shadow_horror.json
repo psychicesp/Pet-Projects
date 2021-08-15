@@ -9,11 +9,6 @@
     "perception": "+7",
     "stealth": "+11",
     "name": "Shadow Horror",
-    "page": 205,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "aberration",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 205,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "aberration"
 }

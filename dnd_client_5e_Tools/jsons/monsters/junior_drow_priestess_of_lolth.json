@@ -13,11 +13,6 @@
     "persuasion": "+3",
     "religion": "+5",
     "name": "Junior Drow Priestess of Lolth",
-    "page": 149,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "any two languages",
         "Elvish"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 149,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

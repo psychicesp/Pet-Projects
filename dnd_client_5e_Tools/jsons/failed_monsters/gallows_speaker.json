@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "hit": "19d8",
+    "strength": "8",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "18",
+    "perception": "+7",
+    "name": "Gallows Speaker",
+    "AC": 12,
+    "speed": [
+        "0 ft",
+        "fly 40 ft. (hover)"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+    ],
+    "senses": [
+        "truesight 60 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "any languages its component spirits knew in life"
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 234,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

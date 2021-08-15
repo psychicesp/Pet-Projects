@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Tree Blight",
-    "page": 230,
-    "book": "Curse of Strahd",
-    "alignment": "NE",
-    "size": "Huge",
-    "type": "plant",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -28,5 +23,10 @@
     "languages": [
         "understands Common and Druidic but doesn\\'t speak"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 230,
+    "book": "Curse of Strahd",
+    "alignment": "NE",
+    "size": "Huge",
+    "type": "plant"
 }

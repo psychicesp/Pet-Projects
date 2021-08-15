@@ -12,11 +12,6 @@
     "perception": "+2",
     "stealth": "+3",
     "name": "Mongrelfolk",
-    "page": 234,
-    "book": "Curse of Strahd",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 11,
     "speed": [
         "20 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 234,
+    "book": "Curse of Strahd",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

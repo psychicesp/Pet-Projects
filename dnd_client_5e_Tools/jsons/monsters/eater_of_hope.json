@@ -10,11 +10,6 @@
     "intimidation": "+6",
     "persuasion": "+6",
     "name": "Eater of Hope",
-    "page": 220,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -47,5 +42,10 @@
         "Common",
         "Infernal"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 220,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend"
 }

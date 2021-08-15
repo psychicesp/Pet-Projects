@@ -14,11 +14,6 @@
     "insight": "+5",
     "persuasion": "+6",
     "name": "Mind Mage",
-    "page": 233,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -39,5 +34,10 @@
     "languages": [
         "Common plus any four languages"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 233,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

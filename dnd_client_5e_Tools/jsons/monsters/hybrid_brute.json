@@ -9,11 +9,6 @@
     "wisdom": "11",
     "charisma": "9",
     "name": "Hybrid Brute",
-    "page": 217,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NG",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -26,5 +21,10 @@
     "languages": [
         "Common plus any one language"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 217,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NG",
+    "size": "Medium",
+    "type": "humanoid"
 }

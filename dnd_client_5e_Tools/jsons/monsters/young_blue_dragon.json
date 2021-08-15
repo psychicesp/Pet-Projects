@@ -9,11 +9,6 @@
     "perception": "+9",
     "stealth": "+4",
     "name": "Young Blue Dragon",
-    "page": 91,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "dragon",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -42,5 +37,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 91,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "dragon"
 }

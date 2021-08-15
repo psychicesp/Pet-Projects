@@ -7,11 +7,6 @@
     "wisdom": "8",
     "charisma": "3",
     "name": "Needle Blight",
-    "page": 32,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "plant",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -28,5 +23,10 @@
     "languages": [
         "understands Common but can't speak"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 32,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "plant"
 }

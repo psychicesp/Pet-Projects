@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "1",
     "name": "Walking Statue of Waterdeep",
-    "page": 219,
-    "book": "Waterdeep: Dragon Heist",
-    "alignment": "U",
-    "size": "Gargantuan",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "60 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "18 (20,000 XP)"
+    "CR": "18 (20,000 XP)",
+    "page": 219,
+    "book": "Waterdeep: Dragon Heist",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "construct"
 }

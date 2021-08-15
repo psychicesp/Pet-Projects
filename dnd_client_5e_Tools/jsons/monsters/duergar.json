@@ -9,11 +9,6 @@
     "wisdom": "10",
     "charisma": "9",
     "name": "Duergar",
-    "page": 122,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "25 ft"
@@ -31,5 +26,10 @@
         "Dwarvish",
         "Undercommon"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 122,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

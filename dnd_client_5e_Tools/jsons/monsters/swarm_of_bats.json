@@ -10,11 +10,6 @@
     "wisdom": "12",
     "charisma": "4",
     "name": "Swarm of Bats",
-    "page": 337,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "swarm",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 337,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "swarm"
 }

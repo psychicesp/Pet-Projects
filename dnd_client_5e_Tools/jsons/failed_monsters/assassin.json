@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "hit points": "12d8 + 24",
+    "strength": "11 (+0)",
+    "dexterity": "16 (+3)",
+    "constitution": "14 (+2)",
+    "intelligence": "13 (+1)",
+    "wisdom": "11 (+0)",
+    "charisma": "10 (+0)",
+    "dexterity save": "+6",
+    "intelligence save": "+4",
+    "acrobatics": "+6",
+    "deception": "+3",
+    "perception": "+3",
+    "stealth": "+9",
+    "name": "Assassin",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient"
+    },
+    "skills": {
+        "acrobatics": "proficient",
+        "deception": "proficient",
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "resistances": [
+        "poison"
+    ],
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Thieves' cant plus any two languages"
+    ]
+}

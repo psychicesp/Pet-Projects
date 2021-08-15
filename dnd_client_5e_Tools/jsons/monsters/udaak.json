@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "10",
     "name": "Udaak",
-    "page": 301,
-    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
-    "alignment": "NE",
-    "size": "Gargantuan",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "50 ft"
@@ -35,5 +30,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "16 (15,000 XP)"
+    "CR": "16 (15,000 XP)",
+    "page": 301,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "NE",
+    "size": "Gargantuan",
+    "type": "fiend"
 }

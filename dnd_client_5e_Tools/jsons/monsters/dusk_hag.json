@@ -10,11 +10,6 @@
     "insight": "+6",
     "perception": "+6",
     "name": "Dusk Hag",
-    "page": 292,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "fey",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -40,5 +35,10 @@
         "Giant",
         "Infernal"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 292,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fey"
 }

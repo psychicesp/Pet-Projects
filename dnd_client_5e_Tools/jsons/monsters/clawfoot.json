@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+5",
     "name": "Clawfoot",
-    "page": 289,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "beast",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 289,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
 }

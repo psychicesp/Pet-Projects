@@ -9,11 +9,6 @@
     "perception": "+7",
     "stealth": "+8",
     "name": "Skittering Horror",
-    "page": 205,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Huge",
-    "type": "aberration",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "15 (13,000 XP)"
+    "CR": "15 (13,000 XP)",
+    "page": 205,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Huge",
+    "type": "aberration"
 }

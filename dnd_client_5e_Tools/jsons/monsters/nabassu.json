@@ -10,11 +10,6 @@
     "charisma": "17",
     "perception": "+7",
     "name": "Nabassu",
-    "page": 135,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -45,5 +40,10 @@
         "Abyssal",
         "telepathy 120 ft."
     ],
-    "CR": "15 (13,000 XP)"
+    "CR": "15 (13,000 XP)",
+    "page": 135,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend"
 }

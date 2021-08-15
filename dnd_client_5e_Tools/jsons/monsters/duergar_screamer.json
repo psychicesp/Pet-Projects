@@ -7,11 +7,6 @@
     "wisdom": "5",
     "charisma": "5",
     "name": "Duergar Screamer",
-    "page": 190,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "construct",
     "AC": 15,
     "speed": [
         "20 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "understands Dwarvish but can\\'t speak"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 190,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "construct"
 }

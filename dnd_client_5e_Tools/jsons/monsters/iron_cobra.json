@@ -8,11 +8,6 @@
     "charisma": "1",
     "stealth": "+7",
     "name": "Iron Cobra",
-    "page": 125,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
     "languages": [
         "understands one language of its creator but can't speak"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 125,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

@@ -10,11 +10,6 @@
     "wisdom": "11",
     "charisma": "3",
     "name": "Lemure",
-    "page": 76,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 7,
     "speed": [
         "15 ft"
@@ -37,5 +32,10 @@
     "languages": [
         "understands Infernal but can\\'t speak"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 76,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

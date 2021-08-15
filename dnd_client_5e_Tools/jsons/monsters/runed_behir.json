@@ -9,11 +9,6 @@
     "perception": "+6",
     "stealth": "+7",
     "name": "Runed Behir",
-    "page": 158,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "NE",
-    "size": "Huge",
-    "type": "monstrosity",
     "AC": 17,
     "speed": [
         "50 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "Draconic"
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 158,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "NE",
+    "size": "Huge",
+    "type": "monstrosity"
 }

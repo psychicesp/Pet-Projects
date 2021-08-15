@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "12",
     "name": "Salamander",
-    "page": 266,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "elemental",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "Ignan"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 266,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "elemental"
 }

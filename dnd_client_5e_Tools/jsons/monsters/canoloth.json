@@ -11,11 +11,6 @@
     "investigation": "+3",
     "perception": "+9",
     "name": "Canoloth",
-    "page": 247,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 16,
     "speed": [
         "50 ft"
@@ -45,5 +40,10 @@
         "Infernal",
         "telepathy 60 ft."
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 247,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
 }

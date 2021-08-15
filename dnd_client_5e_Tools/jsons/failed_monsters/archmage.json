@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "hit points": "18d8 + 18",
+    "strength": "10 (+0)",
+    "dexterity": "14 (+2)",
+    "constitution": "12 (+1)",
+    "intelligence": "20 (+5)",
+    "wisdom": "15 (+2)",
+    "charisma": "16 (+3)",
+    "intelligence save": "+9",
+    "wisdom save": "+6",
+    "arcana": "+13",
+    "history": "+13",
+    "name": "Archmage",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "expert",
+        "history": "expert"
+    },
+    "resistances": [
+        "damage from spells",
+        "nonmagical bludgeoning, piercing, and slashing (from stoneskin)"
+    ],
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "any six languages"
+    ]
+}

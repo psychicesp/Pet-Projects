@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "16",
+    "intelligence": "11",
+    "wisdom": "15",
+    "charisma": "16",
+    "perception": "+6",
+    "name": "Dullahan",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "resistances": [
+        "cold, lightning, poison"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "understands the languages it knew in life but can't speak"
+    ],
+    "CR": "10 (5,900 XP, or 11,800 XP as a mythic encounter)",
+    "page": 233,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

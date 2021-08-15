@@ -9,11 +9,6 @@
     "wisdom": "18",
     "charisma": "24",
     "name": "Pit Fiend",
-    "page": 77,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -43,5 +38,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "20 (25,000 XP)"
+    "CR": "20 (25,000 XP)",
+    "page": 77,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend"
 }

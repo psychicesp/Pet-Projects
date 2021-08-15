@@ -8,11 +8,6 @@
     "charisma": "30",
     "perception": "+14",
     "name": "Solar",
-    "page": 18,
-    "book": "Monster Manual",
-    "alignment": "LG",
-    "size": "Large",
-    "type": "celestial",
     "AC": 21,
     "speed": [
         "50 ft",
@@ -44,5 +39,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "21 (33,000 XP)"
+    "CR": "21 (33,000 XP)",
+    "page": 18,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Large",
+    "type": "celestial"
 }

@@ -8,11 +8,6 @@
     "wisdom": "11",
     "charisma": "17",
     "name": "Dryad Spirit",
-    "page": 108,
-    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -41,5 +36,10 @@
         "Common",
         "Elvish"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 108,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
 }

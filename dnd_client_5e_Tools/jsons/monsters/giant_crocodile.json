@@ -8,11 +8,6 @@
     "charisma": "7",
     "stealth": "+5",
     "name": "Giant Crocodile",
-    "page": 324,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "beast",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -28,5 +23,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 324,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast"
 }

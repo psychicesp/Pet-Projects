@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "6",
     "name": "Elephant",
-    "page": 322,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -24,5 +19,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 322,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast"
 }

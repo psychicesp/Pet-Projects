@@ -9,11 +9,6 @@
     "wisdom": "12",
     "charisma": "14",
     "name": "Chain Devil",
-    "page": 72,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -42,5 +37,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 72,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

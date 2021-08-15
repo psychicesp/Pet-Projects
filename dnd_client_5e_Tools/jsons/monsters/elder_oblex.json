@@ -13,11 +13,6 @@
     "perception": "+5",
     "religion": "+10",
     "name": "Elder Oblex",
-    "page": 219,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Huge",
-    "type": "ooze",
     "AC": 16,
     "speed": [
         "20 ft"
@@ -44,5 +39,10 @@
     "languages": [
         "Common plus six more"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 219,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "ooze"
 }

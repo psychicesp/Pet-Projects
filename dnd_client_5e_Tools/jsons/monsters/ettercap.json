@@ -10,11 +10,6 @@
     "stealth": "+4",
     "survival": "+3",
     "name": "Ettercap",
-    "page": 131,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 131,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "monstrosity"
 }

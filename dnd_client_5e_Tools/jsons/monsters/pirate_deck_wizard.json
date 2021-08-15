@@ -11,11 +11,6 @@
     "arcana": "+5",
     "perception": "+3",
     "name": "Pirate Deck Wizard",
-    "page": 248,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 248,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -8,11 +8,6 @@
     "charisma": "14",
     "perception": "+4",
     "name": "Sword Wraith Commander",
-    "page": 241,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -38,5 +33,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 241,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
 }

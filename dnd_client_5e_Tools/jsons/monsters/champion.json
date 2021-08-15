@@ -12,11 +12,6 @@
     "intimidation": "+5",
     "perception": "+6",
     "name": "Champion",
-    "page": 212,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 212,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

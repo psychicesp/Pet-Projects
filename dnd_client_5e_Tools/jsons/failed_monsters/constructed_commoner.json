@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "15",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Constructed Commoner",
+    "AC": 15,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 149,
+    "book": "Candlekeep Mysteries"
+}

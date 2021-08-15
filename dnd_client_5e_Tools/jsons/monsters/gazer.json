@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Gazer",
-    "page": 126,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "NE",
-    "size": "Tiny",
-    "type": "aberration",
     "AC": 13,
     "speed": [
         "0 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 126,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Tiny",
+    "type": "aberration"
 }

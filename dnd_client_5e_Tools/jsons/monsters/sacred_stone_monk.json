@@ -12,11 +12,6 @@
     "athletics": "+3",
     "perception": "+4",
     "name": "Sacred Stone Monk",
-    "page": 196,
-    "book": "Princes of the Apocalypse",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 196,
+    "book": "Princes of the Apocalypse",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -9,11 +9,6 @@
     "insight": "+7",
     "perception": "+7",
     "name": "Phylaskia",
-    "page": 239,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "LN",
-    "size": "Large",
-    "type": "undead",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -39,5 +34,10 @@
     "languages": [
         "all"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 239,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LN",
+    "size": "Large",
+    "type": "undead"
 }

@@ -13,11 +13,6 @@
     "intimidation": "+13",
     "persuasion": "+13",
     "name": "Titivilus",
-    "page": 179,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 20,
     "speed": [
         "40 ft",
@@ -53,5 +48,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "16 (15,000 XP)"
+    "CR": "16 (15,000 XP)",
+    "page": 179,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

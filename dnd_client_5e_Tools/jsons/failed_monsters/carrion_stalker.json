@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "16",
+    "constitution": "12",
+    "intelligence": "2",
+    "wisdom": "13",
+    "charisma": "6",
+    "stealth": "+7",
+    "name": "Carrion Stalker",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "burrow 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "expert"
+    },
+    "condition_immunities": [
+        "blinded"
+    ],
+    "senses": [
+        "tremorsense 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 230,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

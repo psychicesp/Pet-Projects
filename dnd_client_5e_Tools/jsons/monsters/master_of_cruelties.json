@@ -13,11 +13,6 @@
     "performance": "+9",
     "persuasion": "+9",
     "name": "Master of Cruelties",
-    "page": 196,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -53,5 +48,10 @@
         "Common",
         "telepathy 120 ft."
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 196,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
 }

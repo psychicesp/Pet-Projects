@@ -9,11 +9,6 @@
     "perception": "+1",
     "stealth": "+6",
     "name": "Kobold Vampire Spawn",
-    "page": 297,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "NE",
-    "size": "Small",
-    "type": "undead",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -39,5 +34,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 297,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "undead"
 }

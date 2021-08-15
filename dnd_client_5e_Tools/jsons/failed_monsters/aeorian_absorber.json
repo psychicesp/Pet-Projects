@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "hit points": "18d10 + 72",
+    "strength": "21 (+5)",
+    "dexterity": "18 (+4)",
+    "constitution": "18 (+4)",
+    "intelligence": "6 (-2)",
+    "wisdom": "14 (+2)",
+    "charisma": "8 (-1)",
+    "wisdom save": "+6",
+    "charisma save": "+3",
+    "perception": "+6",
+    "stealth": "+8",
+    "survival": "+6",
+    "name": "Aeorian Absorber",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient",
+        "survival": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic, radiant"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "understands Draconic but can't speak"
+    ]
+}

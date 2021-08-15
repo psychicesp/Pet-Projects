@@ -12,11 +12,6 @@
     "arcana": "+5",
     "history": "+5",
     "name": "Evil Mage",
-    "page": 57,
-    "book": "Lost Mine of Phandelver",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -38,5 +33,10 @@
         "Dwarvish",
         "Elvish"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 57,
+    "book": "Lost Mine of Phandelver",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

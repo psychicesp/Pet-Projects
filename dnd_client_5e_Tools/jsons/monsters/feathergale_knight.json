@@ -10,11 +10,6 @@
     "charisma": "14",
     "history": "+2",
     "name": "Feathergale Knight",
-    "page": 189,
-    "book": "Princes of the Apocalypse",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
         "Auran",
         "Common"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 189,
+    "book": "Princes of the Apocalypse",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

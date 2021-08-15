@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "9",
     "name": "Stonecloak",
-    "page": 253,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "U",
-    "size": "Large",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -39,5 +34,10 @@
         "Infernal",
         "and Undercommon but can\\'t speak"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 253,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
 }

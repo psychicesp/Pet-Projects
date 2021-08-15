@@ -11,11 +11,6 @@
     "arcana": "+6",
     "perception": "+8",
     "name": "Death Slaad",
-    "page": 278,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "Slaad",
         "telepathy 60 ft."
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 278,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "aberration"
 }

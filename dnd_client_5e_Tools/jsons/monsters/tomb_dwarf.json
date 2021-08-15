@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+4",
     "name": "Tomb Dwarf",
-    "page": 135,
-    "book": "Tomb of Annihilation",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -40,5 +35,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 135,
+    "book": "Tomb of Annihilation",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
 }

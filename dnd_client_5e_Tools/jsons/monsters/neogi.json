@@ -9,11 +9,6 @@
     "intimidation": "+4",
     "perception": "+3",
     "name": "Neogi",
-    "page": 180,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "LE",
-    "size": "Small",
-    "type": "aberration",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -33,5 +28,10 @@
         "Deep Speech",
         "Undercommon"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 180,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "aberration"
 }

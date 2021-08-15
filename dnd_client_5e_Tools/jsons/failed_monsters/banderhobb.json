@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "hit points": "8d10 + 40",
+    "strength": "20 (+5)",
+    "dexterity": "12 (+1)",
+    "constitution": "20 (+5)",
+    "intelligence": "11 (+0)",
+    "wisdom": "14 (+2)",
+    "charisma": "8 (-1)",
+    "athletics": "+8",
+    "stealth": "+7",
+    "name": "Banderhobb",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "stealth": "expert"
+    },
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common and the languages of its creator but can't speak"
+    ]
+}

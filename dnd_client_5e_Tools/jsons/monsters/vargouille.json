@@ -7,11 +7,6 @@
     "wisdom": "7",
     "charisma": "2",
     "name": "Vargouille",
-    "page": 195,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Tiny",
-    "type": "fiend",
     "AC": 12,
     "speed": [
         "5 ft",
@@ -37,5 +32,10 @@
         "Infernal",
         "and any languages it knew before becoming a vargouille but can\\'t speak"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 195,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Tiny",
+    "type": "fiend"
 }

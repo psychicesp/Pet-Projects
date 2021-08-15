@@ -10,11 +10,6 @@
     "insight": "+11",
     "perception": "+11",
     "name": "Niv-Mizzet",
-    "page": 241,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CN",
-    "size": "Gargantuan",
-    "type": "dragon",
     "AC": 22,
     "speed": [
         "40 ft",
@@ -49,5 +44,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "26 (90,000 XP)"
+    "CR": "26 (90,000 XP)",
+    "page": 241,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Gargantuan",
+    "type": "dragon"
 }

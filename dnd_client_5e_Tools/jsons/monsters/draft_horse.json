@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "7",
     "name": "Draft Horse",
-    "page": 321,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Large",
-    "type": "beast",
     "AC": 10,
     "speed": [
         "40 ft"
@@ -24,5 +19,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 321,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
 }

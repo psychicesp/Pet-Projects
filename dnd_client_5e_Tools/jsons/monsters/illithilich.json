@@ -11,11 +11,6 @@
     "insight": "+9",
     "perception": "+9",
     "name": "Illithilich",
-    "page": 172,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "AEA",
-    "size": "Medium",
-    "type": "undead",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -50,5 +45,10 @@
         "Undercommon",
         "telepathy 120 ft."
     ],
-    "CR": "22 (41,000 XP)"
+    "CR": "22 (41,000 XP)",
+    "page": 172,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AEA",
+    "size": "Medium",
+    "type": "undead"
 }

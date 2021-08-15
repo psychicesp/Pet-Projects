@@ -10,11 +10,6 @@
     "wisdom": "11",
     "charisma": "14",
     "name": "Swarm of Cranium Rats",
-    "page": 133,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "swarm",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "telepathy 30 ft."
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 133,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "swarm"
 }

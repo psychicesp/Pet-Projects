@@ -8,11 +8,6 @@
     "wisdom": "5",
     "charisma": "1",
     "name": "Flying Dagger",
-    "page": 30,
-    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
-    "alignment": "U",
-    "size": "Tiny",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "0 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 30,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "construct"
 }

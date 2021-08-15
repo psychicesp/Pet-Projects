@@ -11,11 +11,6 @@
     "intimidation": "+3",
     "religion": "+1",
     "name": "Orc Eye of Gruumsh",
-    "page": 247,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
         "Common",
         "Orc"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 247,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -12,11 +12,6 @@
     "insight": "+6",
     "perception": "+6",
     "name": "Githzerai Zerth",
-    "page": 161,
-    "book": "Monster Manual",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -38,5 +33,10 @@
     "languages": [
         "Gith"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 161,
+    "book": "Monster Manual",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -12,11 +12,6 @@
     "arcana": "+6",
     "history": "+6",
     "name": "Red Wizard",
-    "page": 76,
-    "book": "The Rise of Tiamat",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
     "languages": [
         "any four languages"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 76,
+    "book": "The Rise of Tiamat",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

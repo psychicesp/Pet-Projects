@@ -9,11 +9,6 @@
     "wisdom": "12",
     "charisma": "14",
     "name": "Wastrilith",
-    "page": 139,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -42,5 +37,10 @@
         "Abyssal",
         "telepathy 120 ft."
     ],
-    "CR": "13 (10,000 XP)"
+    "CR": "13 (10,000 XP)",
+    "page": 139,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
 }

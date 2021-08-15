@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "18",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "13",
+    "charisma": "12",
+    "perception": "+4",
+    "stealth": "+10",
+    "name": "Drow Commander",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "5 (1,800 XP)"
+}

@@ -9,11 +9,6 @@
     "insight": "+7",
     "perception": "+7",
     "name": "Cloud Giant",
-    "page": 154,
-    "book": "Monster Manual",
-    "alignment": "NG(ONE(",
-    "size": "Huge",
-    "type": "giant",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -34,5 +29,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 154,
+    "book": "Monster Manual",
+    "alignment": "NG(ONE(",
+    "size": "Huge",
+    "type": "giant"
 }

@@ -1,0 +1,27 @@
+{
+    "tags": [],
+    "hit": "2d8",
+    "strength": "10",
+    "dexterity": "12",
+    "constitution": "10",
+    "intelligence": "15",
+    "wisdom": "14",
+    "charisma": "13",
+    "arcana": "+4",
+    "investigation": "+4",
+    "religion": "+4",
+    "name": "Spellcaster",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "plus one of your choice"
+    ]
+}

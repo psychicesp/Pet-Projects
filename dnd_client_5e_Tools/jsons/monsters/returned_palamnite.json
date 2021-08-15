@@ -10,11 +10,6 @@
     "athletics": "+2",
     "stealth": "+5",
     "name": "Returned Palamnite",
-    "page": 241,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -40,5 +35,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 241,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
 }

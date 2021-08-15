@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "5",
     "name": "Triceratops",
-    "page": 80,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "beast",
     "AC": 13,
     "speed": [
         "50 ft"
@@ -24,5 +19,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 80,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast"
 }

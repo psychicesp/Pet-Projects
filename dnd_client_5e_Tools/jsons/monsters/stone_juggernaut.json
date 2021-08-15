@@ -7,11 +7,6 @@
     "wisdom": "14",
     "charisma": "16",
     "name": "Stone Juggernaut",
-    "page": 231,
-    "book": "Tomb of Annihilation",
-    "alignment": "U",
-    "size": "Large",
-    "type": "construct",
     "AC": 15,
     "speed": [
         "50 ft. (in one direction chosen at the start of its turn)"
@@ -32,5 +27,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "12 (8,400 XP)"
+    "CR": "12 (8,400 XP)",
+    "page": 231,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
 }

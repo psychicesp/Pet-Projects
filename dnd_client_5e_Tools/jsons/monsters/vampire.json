@@ -11,11 +11,6 @@
     "perception": "+7",
     "stealth": "+9",
     "name": "Vampire",
-    "page": 297,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -40,5 +35,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "13 (10,000 XP)"
+    "CR": "13 (10,000 XP)",
+    "page": 297,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
 }

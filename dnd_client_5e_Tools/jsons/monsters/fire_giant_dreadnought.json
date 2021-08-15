@@ -11,11 +11,6 @@
     "athletics": "+13",
     "perception": "+5",
     "name": "Fire Giant Dreadnought",
-    "page": 147,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "LE",
-    "size": "Huge",
-    "type": "giant",
     "AC": 21,
     "speed": [
         "30 ft"
@@ -38,5 +33,10 @@
     "languages": [
         "Giant"
     ],
-    "CR": "14 (11,500 XP)"
+    "CR": "14 (11,500 XP)",
+    "page": 147,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "giant"
 }

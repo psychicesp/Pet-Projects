@@ -1,0 +1,26 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "11",
+    "constitution": "19",
+    "intelligence": "6",
+    "wisdom": "13",
+    "charisma": "6",
+    "name": "Reduced-Threat Otyugh",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Otyugh"
+    ],
+    "CR": "5 (900 XP)"
+}

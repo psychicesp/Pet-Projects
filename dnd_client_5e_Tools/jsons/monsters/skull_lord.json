@@ -11,11 +11,6 @@
     "perception": "+12",
     "stealth": "+8",
     "name": "Skull Lord",
-    "page": 230,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -44,5 +39,10 @@
     "languages": [
         "all the languages it knew in life"
     ],
-    "CR": "15 (13,000 XP)"
+    "CR": "15 (13,000 XP)",
+    "page": 230,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
 }

@@ -10,11 +10,6 @@
     "perception": "+13",
     "persuasion": "+13",
     "name": "Kalaraq Quori",
-    "page": 306,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -45,5 +40,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "19 (22,000 XP)"
+    "CR": "19 (22,000 XP)",
+    "page": 306,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "aberration"
 }

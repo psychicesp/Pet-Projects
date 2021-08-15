@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Fiendish Flesh Golem",
-    "page": 236,
-    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
-    "alignment": "U",
-    "size": "Large",
-    "type": "construct",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "understands the languages of its creator but can't speak"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 236,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
 }

@@ -10,11 +10,6 @@
     "charisma": "16",
     "perception": "+12",
     "name": "Juiblex",
-    "page": 151,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -45,5 +40,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "23 (50,000 XP)"
+    "CR": "23 (50,000 XP)",
+    "page": 151,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend"
 }

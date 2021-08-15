@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "15",
+    "constitution": "20",
+    "intelligence": "1",
+    "wisdom": "9",
+    "charisma": "3",
+    "stealth": "+5",
+    "name": "Huge Giant Crab",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "condition_immunities": [
+        "charmed, frightened, paralyzed"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "8 (3,900 XP)"
+}

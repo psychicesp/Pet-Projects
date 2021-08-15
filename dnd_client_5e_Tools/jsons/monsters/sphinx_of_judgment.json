@@ -11,11 +11,6 @@
     "perception": "+8",
     "religion": "+8",
     "name": "Sphinx of Judgment",
-    "page": 183,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "LN",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -45,5 +40,10 @@
         "Common",
         "Sphinx"
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 183,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LN",
+    "size": "Large",
+    "type": "monstrosity"
 }

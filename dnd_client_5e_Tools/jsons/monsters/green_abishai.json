@@ -13,11 +13,6 @@
     "perception": "+6",
     "persuasion": "+9",
     "name": "Green Abishai",
-    "page": 162,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -52,5 +47,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "15 (13,000 XP)"
+    "CR": "15 (13,000 XP)",
+    "page": 162,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

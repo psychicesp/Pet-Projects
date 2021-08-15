@@ -10,11 +10,6 @@
     "stealth": "+8",
     "survival": "+7",
     "name": "Steel Predator",
-    "page": 239,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "construct",
     "AC": 20,
     "speed": [
         "40 ft"
@@ -43,5 +38,10 @@
     "languages": [
         "understands Modron and the language of its owner but can't speak"
     ],
-    "CR": "16 (15,000 XP)"
+    "CR": "16 (15,000 XP)",
+    "page": 239,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "construct"
 }

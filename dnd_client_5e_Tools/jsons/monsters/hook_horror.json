@@ -8,11 +8,6 @@
     "charisma": "7",
     "perception": "+3",
     "name": "Hook Horror",
-    "page": 189,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "Hook Horror"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 189,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Large",
+    "type": "monstrosity"
 }

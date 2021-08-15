@@ -13,11 +13,6 @@
     "perception": "+12",
     "persuasion": "+15",
     "name": "Graz\\'zt",
-    "page": 149,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "S",
-    "size": "Large",
-    "type": "fiend",
     "AC": 20,
     "speed": [
         "40 ft"
@@ -51,5 +46,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "24 (62,000 XP)"
+    "CR": "24 (62,000 XP)",
+    "page": 149,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "S",
+    "size": "Large",
+    "type": "fiend"
 }

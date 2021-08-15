@@ -11,11 +11,6 @@
     "perception": "+8",
     "persuasion": "+10",
     "name": "Mordakhesh",
-    "page": 301,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -43,5 +38,10 @@
         "Common",
         "Infernal"
     ],
-    "CR": "15 (13,000 XP)"
+    "CR": "15 (13,000 XP)",
+    "page": 301,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

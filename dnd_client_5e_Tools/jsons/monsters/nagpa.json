@@ -14,11 +14,6 @@
     "insight": "+10",
     "perception": "+10",
     "name": "Nagpa",
-    "page": 215,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 19,
     "speed": [
         "30 ft"
@@ -42,5 +37,10 @@
     "languages": [
         "Common plus up to five other languages"
     ],
-    "CR": "17 (18,000 XP)"
+    "CR": "17 (18,000 XP)",
+    "page": 215,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

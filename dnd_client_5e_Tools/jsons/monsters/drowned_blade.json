@@ -7,11 +7,6 @@
     "wisdom": "9",
     "charisma": "5",
     "name": "Drowned Blade",
-    "page": 235,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "understands the languages it knew in life but can\\'t speak"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 235,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
 }

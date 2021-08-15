@@ -7,11 +7,6 @@
     "wisdom": "13",
     "charisma": "14",
     "name": "Dao",
-    "page": 143,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "elemental",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "Terran"
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 143,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "elemental"
 }

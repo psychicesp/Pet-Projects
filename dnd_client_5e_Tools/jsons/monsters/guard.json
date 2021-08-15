@@ -10,11 +10,6 @@
     "charisma": "10",
     "perception": "+2",
     "name": "Guard",
-    "page": 347,
-    "book": "Monster Manual",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 347,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

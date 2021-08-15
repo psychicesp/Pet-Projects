@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "1",
     "name": "Hellfire Engine",
-    "page": 165,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Huge",
-    "type": "construct",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -39,5 +34,10 @@
     "languages": [
         "understands Infernal but can\\'t speak"
     ],
-    "CR": "16 (15,000 XP)"
+    "CR": "16 (15,000 XP)",
+    "page": 165,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "construct"
 }

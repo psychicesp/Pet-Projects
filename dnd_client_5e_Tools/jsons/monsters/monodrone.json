@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Monodrone",
-    "page": 224,
-    "book": "Monster Manual",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "construct",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -26,5 +21,10 @@
     "languages": [
         "Modron"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 224,
+    "book": "Monster Manual",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "construct"
 }

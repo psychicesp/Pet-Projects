@@ -8,11 +8,6 @@
     "charisma": "6",
     "perception": "+8",
     "name": "Howler",
-    "page": 210,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 16,
     "speed": [
         "40 ft"
@@ -35,5 +30,10 @@
     "languages": [
         "understands Abyssal but can\\'t speak"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 210,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
 }

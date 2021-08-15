@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+5",
     "name": "Weasel",
-    "page": 340,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Tiny",
-    "type": "beast",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 340,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast"
 }

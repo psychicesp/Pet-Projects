@@ -12,11 +12,6 @@
     "persuasion": "+5",
     "religion": "+3",
     "name": "Black Earth Priest",
-    "page": 195,
-    "book": "Princes of the Apocalypse",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
         "Common",
         "Terran"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 195,
+    "book": "Princes of the Apocalypse",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -7,11 +7,6 @@
     "wisdom": "14",
     "charisma": "5",
     "name": "Winged Lion",
-    "page": 214,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "U",
-    "size": "Large",
-    "type": "celestial",
     "AC": 13,
     "speed": [
         "60 ft",
@@ -25,5 +20,10 @@
     "languages": [
         "understands Celestial but can\\'t speak"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 214,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Large",
+    "type": "celestial"
 }

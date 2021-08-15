@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+4",
     "name": "Iron Defender",
-    "page": 293,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "understands the languages of its creator but can\\'t speak"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 293,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "construct"
 }

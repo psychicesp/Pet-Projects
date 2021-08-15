@@ -13,11 +13,6 @@
     "perception": "+2",
     "stealth": "+5",
     "name": "Blood Witch",
-    "page": 248,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -42,5 +37,10 @@
     "languages": [
         "Abyssal plus any one language (usually Common)"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 248,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

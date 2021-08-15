@@ -10,11 +10,6 @@
     "charisma": "24",
     "perception": "+21",
     "name": "Molydeus",
-    "page": 134,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "fiend",
     "AC": 19,
     "speed": [
         "40 ft"
@@ -46,5 +41,10 @@
         "Abyssal",
         "telepathy 120 ft."
     ],
-    "CR": "21 (33,000 XP)"
+    "CR": "21 (33,000 XP)",
+    "page": 134,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend"
 }

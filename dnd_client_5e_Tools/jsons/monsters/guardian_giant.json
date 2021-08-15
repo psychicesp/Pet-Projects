@@ -9,11 +9,6 @@
     "insight": "+7",
     "perception": "+10",
     "name": "Guardian Giant",
-    "page": 201,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "LN",
-    "size": "Huge",
-    "type": "giant",
     "AC": 19,
     "speed": [
         "40 ft"
@@ -33,5 +28,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 201,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LN",
+    "size": "Huge",
+    "type": "giant"
 }

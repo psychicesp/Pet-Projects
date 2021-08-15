@@ -1,0 +1,26 @@
+{
+    "tags": [],
+    "hit": "1d6",
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Kobold Commoner",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)",
+        "Draconic"
+    ],
+    "CR": "0 (0 or 10 XP)"
+}

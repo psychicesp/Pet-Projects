@@ -12,11 +12,6 @@
     "stealth": "+11",
     "survival": "+10",
     "name": "Orthon",
-    "page": 169,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -52,5 +47,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 169,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend"
 }

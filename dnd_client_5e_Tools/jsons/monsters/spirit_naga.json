@@ -7,11 +7,6 @@
     "wisdom": "15",
     "charisma": "16",
     "name": "Spirit Naga",
-    "page": 234,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -37,5 +32,10 @@
         "Abyssal",
         "Common"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 234,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity"
 }

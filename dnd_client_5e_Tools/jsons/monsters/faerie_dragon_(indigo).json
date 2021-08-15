@@ -10,11 +10,6 @@
     "perception": "+3",
     "stealth": "+7",
     "name": "Faerie Dragon (Indigo)",
-    "page": 133,
-    "book": "Monster Manual",
-    "alignment": "CG",
-    "size": "Tiny",
-    "type": "dragon",
     "AC": 15,
     "speed": [
         "10 ft",
@@ -34,5 +29,10 @@
         "Draconic",
         "Sylvan"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 133,
+    "book": "Monster Manual",
+    "alignment": "CG",
+    "size": "Tiny",
+    "type": "dragon"
 }

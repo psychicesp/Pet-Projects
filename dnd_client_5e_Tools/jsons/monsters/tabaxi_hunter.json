@@ -14,11 +14,6 @@
     "stealth": "+5",
     "survival": "+6",
     "name": "Tabaxi Hunter",
-    "page": 232,
-    "book": "Tomb of Annihilation",
-    "alignment": "CG",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -38,5 +33,10 @@
     "languages": [
         "Common plus any one language"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 232,
+    "book": "Tomb of Annihilation",
+    "alignment": "CG",
+    "size": "Medium",
+    "type": "humanoid"
 }

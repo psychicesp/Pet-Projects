@@ -1,0 +1,25 @@
+{
+    "tags": [],
+    "strength": "7",
+    "dexterity": "15",
+    "constitution": "9",
+    "intelligence": "8",
+    "wisdom": "7",
+    "charisma": "8",
+    "name": "Young Troglodyte",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "1/8 (25 XP)"
+}

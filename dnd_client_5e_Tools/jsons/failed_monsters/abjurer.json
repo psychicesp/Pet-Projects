@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "hit points": "13d8 + 26",
+    "strength": "9 (-1)",
+    "dexterity": "14 (+2)",
+    "constitution": "14 (+2)",
+    "intelligence": "18 (+4)",
+    "wisdom": "12 (+1)",
+    "charisma": "11 (+0)",
+    "intelligence save": "+8",
+    "wisdom save": "+5",
+    "arcana": "+8",
+    "history": "+8",
+    "name": "Abjurer",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any four languages"
+    ]
+}

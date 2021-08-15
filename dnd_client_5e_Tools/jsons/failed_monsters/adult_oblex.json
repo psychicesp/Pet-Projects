@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "hit points": "10d8 + 30",
+    "strength": "8 (-1)",
+    "dexterity": "19 (+4)",
+    "constitution": "16 (+3)",
+    "intelligence": "19 (+4)",
+    "wisdom": "12 (+1)",
+    "charisma": "15 (+2)",
+    "intelligence save": "+7",
+    "charisma save": "+5",
+    "deception": "+5",
+    "perception": "+4",
+    "arcana": "+7",
+    "history": "+7",
+    "nature": "+7",
+    "religion": "+7",
+    "name": "Adult Oblex",
+    "AC": 14,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "perception": "proficient",
+        "arcana": "proficient",
+        "history": "proficient",
+        "nature": "proficient",
+        "religion": "proficient"
+    },
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, prone"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this distance)",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common plus two more languages"
+    ]
+}

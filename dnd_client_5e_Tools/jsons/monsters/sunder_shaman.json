@@ -9,11 +9,6 @@
     "athletics": "+10",
     "perception": "+5",
     "name": "Sunder Shaman",
-    "page": 202,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CN",
-    "size": "Huge",
-    "type": "giant",
     "AC": 20,
     "speed": [
         "40 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Giant"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 202,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Huge",
+    "type": "giant"
 }

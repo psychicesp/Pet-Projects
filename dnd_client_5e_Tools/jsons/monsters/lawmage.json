@@ -12,11 +12,6 @@
     "perception": "+5",
     "persuasion": "+4",
     "name": "Lawmage",
-    "page": 228,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "Common plus any one language"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 228,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -11,11 +11,6 @@
     "perception": "+5",
     "stealth": "+5",
     "name": "Barlgura",
-    "page": 56,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 15,
     "speed": [
         "40 ft",
@@ -47,5 +42,10 @@
         "Abyssal",
         "telepathy 120 ft."
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 56,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
 }

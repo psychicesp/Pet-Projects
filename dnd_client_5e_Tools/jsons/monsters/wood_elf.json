@@ -13,11 +13,6 @@
     "stealth": "+6",
     "survival": "+5",
     "name": "Wood Elf",
-    "page": 28,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "CG",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "35 ft"
@@ -37,5 +32,10 @@
         "Common",
         "Elvish"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 28,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "CG",
+    "size": "Medium",
+    "type": "humanoid"
 }

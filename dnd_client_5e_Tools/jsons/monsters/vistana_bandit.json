@@ -9,11 +9,6 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Vistana Bandit",
-    "page": 28,
-    "book": "Curse of Strahd",
-    "alignment": "ANA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -26,5 +21,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 28,
+    "book": "Curse of Strahd",
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
 }

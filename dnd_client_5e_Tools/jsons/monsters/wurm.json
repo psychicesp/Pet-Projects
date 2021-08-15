@@ -7,11 +7,6 @@
     "wisdom": "12",
     "charisma": "4",
     "name": "Wurm",
-    "page": 225,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "monstrosity",
     "AC": 18,
     "speed": [
         "50 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "14 (11,500 XP)"
+    "CR": "14 (11,500 XP)",
+    "page": 225,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "monstrosity"
 }

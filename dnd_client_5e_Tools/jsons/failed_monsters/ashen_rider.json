@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "hit points": "21d8 + 84",
+    "strength": "20 (+5)",
+    "dexterity": "16 (+3)",
+    "constitution": "19 (+4)",
+    "intelligence": "15 (+2)",
+    "wisdom": "21 (+5)",
+    "charisma": "18 (+4)",
+    "strength save": "+10",
+    "constitution save": "+9",
+    "wisdom save": "+10",
+    "charisma save": "+9",
+    "history": "+7",
+    "insight": "+10",
+    "perception": "+10",
+    "name": "Ashen Rider",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "history": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "thunder"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "all"
+    ]
+}

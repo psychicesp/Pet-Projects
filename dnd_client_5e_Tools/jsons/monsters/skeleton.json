@@ -7,11 +7,6 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Skeleton",
-    "page": 272,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "understands all languages it spoke in life but can\\'t speak"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 272,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
 }

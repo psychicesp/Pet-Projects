@@ -12,11 +12,6 @@
     "intimidation": "+13",
     "perception": "+10",
     "name": "Geryon",
-    "page": 173,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Huge",
-    "type": "fiend",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -50,5 +45,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "22 (41,000 XP)"
+    "CR": "22 (41,000 XP)",
+    "page": 173,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "fiend"
 }

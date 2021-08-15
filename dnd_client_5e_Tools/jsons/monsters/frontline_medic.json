@@ -11,11 +11,6 @@
     "medicine": "+5",
     "perception": "+3",
     "name": "Frontline Medic",
-    "page": 231,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "LG",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 20,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 231,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "humanoid"
 }

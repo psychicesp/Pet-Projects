@@ -9,11 +9,6 @@
     "deception": "+10",
     "insight": "+8",
     "name": "Rakshasa",
-    "page": 257,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 16,
     "speed": [
         "40 ft"
@@ -34,5 +29,10 @@
         "Common",
         "Infernal"
     ],
-    "CR": "13 (10,000 XP)"
+    "CR": "13 (10,000 XP)",
+    "page": 257,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

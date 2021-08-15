@@ -12,11 +12,6 @@
     "intimidation": "+12",
     "persuasion": "+12",
     "name": "Elder Brain",
-    "page": 173,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "aberration",
     "AC": 10,
     "speed": [
         "5 ft",
@@ -44,5 +39,10 @@
         "and Undercommon but can't speak",
         "telepathy 5 miles"
     ],
-    "CR": "14 (11,500 XP)"
+    "CR": "14 (11,500 XP)",
+    "page": 173,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "aberration"
 }

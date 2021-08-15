@@ -12,11 +12,6 @@
     "intimidation": "+4",
     "perception": "+4",
     "name": "Dybbuk",
-    "page": 132,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 14,
     "speed": [
         "0 ft",
@@ -47,5 +42,10 @@
         "Common",
         "telepathy 120 ft."
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 132,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend"
 }

@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+7",
     "name": "Kamadan",
-    "page": 225,
-    "book": "Tomb of Annihilation",
-    "alignment": "U",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 225,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
 }

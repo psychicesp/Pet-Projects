@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+6",
     "name": "Bodak",
-    "page": 127,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -41,5 +36,10 @@
         "Abyssal",
         "the languages it knew in life"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 127,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
 }

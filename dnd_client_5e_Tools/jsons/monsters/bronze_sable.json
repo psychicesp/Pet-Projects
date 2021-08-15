@@ -8,11 +8,6 @@
     "charisma": "1",
     "stealth": "+5",
     "name": "Bronze Sable",
-    "page": 210,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "understands one language of its creator but can't speak"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 210,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

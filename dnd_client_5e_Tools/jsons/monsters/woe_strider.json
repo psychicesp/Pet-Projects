@@ -9,11 +9,6 @@
     "intimidation": "+5",
     "perception": "+5",
     "name": "Woe Strider",
-    "page": 247,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "aberration",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "telepathy 120 ft."
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 247,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "aberration"
 }

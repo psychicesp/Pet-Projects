@@ -10,11 +10,6 @@
     "perception": "+4",
     "stealth": "+6",
     "name": "Panther",
-    "page": 333,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "50 ft",
@@ -31,5 +26,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 333,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
 }

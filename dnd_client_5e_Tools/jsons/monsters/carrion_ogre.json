@@ -7,11 +7,6 @@
     "wisdom": "7",
     "charisma": "7",
     "name": "Carrion Ogre",
-    "page": 189,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "giant",
     "AC": 11,
     "speed": [
         "40 ft"
@@ -26,5 +21,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 189,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant"
 }

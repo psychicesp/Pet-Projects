@@ -8,11 +8,6 @@
     "wisdom": "12",
     "charisma": "5",
     "name": "Flying Snake",
-    "page": 322,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Tiny",
-    "type": "beast",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -28,5 +23,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 322,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast"
 }

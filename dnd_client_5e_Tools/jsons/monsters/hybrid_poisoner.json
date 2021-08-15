@@ -12,11 +12,6 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Hybrid Poisoner",
-    "page": 217,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NG",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -43,5 +38,10 @@
     "languages": [
         "Common plus any one language"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 217,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NG",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -9,11 +9,6 @@
     "perception": "+6",
     "stealth": "+11",
     "name": "Deep Crow",
-    "page": 210,
-    "book": "Acquisitions Incorporated",
-    "alignment": "U",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 17,
     "speed": [
         "20 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "Deep Crow"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 210,
+    "book": "Acquisitions Incorporated",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
 }

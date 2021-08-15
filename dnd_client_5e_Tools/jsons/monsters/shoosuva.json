@@ -9,11 +9,6 @@
     "wisdom": "14",
     "charisma": "9",
     "name": "Shoosuva",
-    "page": 137,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -43,5 +38,10 @@
         "Gnoll",
         "telepathy 120 ft."
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 137,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
 }

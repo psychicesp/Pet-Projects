@@ -13,11 +13,6 @@
     "stealth": "+5",
     "survival": "+4",
     "name": "Grung Wildling",
-    "page": 157,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "LE",
-    "size": "Small",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "25 ft",
@@ -44,5 +39,10 @@
     "languages": [
         "Grung"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 157,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "humanoid"
 }

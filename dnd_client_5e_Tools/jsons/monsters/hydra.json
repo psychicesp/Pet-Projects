@@ -8,11 +8,6 @@
     "charisma": "7",
     "perception": "+6",
     "name": "Hydra",
-    "page": 190,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "monstrosity",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 190,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "monstrosity"
 }

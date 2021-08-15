@@ -10,11 +10,6 @@
     "charisma": "14",
     "perception": "+5",
     "name": "Kraken Priest",
-    "page": 215,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "AEA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 10,
     "speed": [
         "30 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "any two languages"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 215,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AEA",
+    "size": "Medium",
+    "type": "humanoid"
 }

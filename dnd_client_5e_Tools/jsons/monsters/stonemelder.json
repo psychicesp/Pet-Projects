@@ -11,11 +11,6 @@
     "intimidation": "+5",
     "perception": "+2",
     "name": "Stonemelder",
-    "page": 197,
-    "book": "Princes of the Apocalypse",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
         "Common",
         "Terran"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 197,
+    "book": "Princes of the Apocalypse",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

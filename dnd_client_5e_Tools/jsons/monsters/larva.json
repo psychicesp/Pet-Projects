@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "2",
     "name": "Larva",
-    "page": 63,
-    "book": "Dungeon Master\\xe2\\x80\\x99s Guide",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 9,
     "speed": [
         "20 ft"
@@ -25,5 +20,10 @@
     "languages": [
         "understands the languages it knew in life but can\\'t speak"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 63,
+    "book": "Dungeon Master\\xe2\\x80\\x99s Guide",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
 }

@@ -7,11 +7,6 @@
     "wisdom": "17",
     "charisma": "16",
     "name": "Unicorn",
-    "page": 294,
-    "book": "Monster Manual",
-    "alignment": "LG",
-    "size": "Large",
-    "type": "celestial",
     "AC": 12,
     "speed": [
         "50 ft"
@@ -34,5 +29,10 @@
         "Sylvan",
         "telepathy 60 ft."
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 294,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Large",
+    "type": "celestial"
 }

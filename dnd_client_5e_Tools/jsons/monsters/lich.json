@@ -11,11 +11,6 @@
     "insight": "+9",
     "perception": "+9",
     "name": "Lich",
-    "page": 202,
-    "book": "Monster Manual",
-    "alignment": "AEA",
-    "size": "Medium",
-    "type": "undead",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -48,5 +43,10 @@
     "languages": [
         "Common plus up to five other languages"
     ],
-    "CR": "21 (33,000 XP) or 22 (41,000 XP) when encountered in lair"
+    "CR": "21 (33,000 XP) or 22 (41,000 XP) when encountered in lair",
+    "page": 202,
+    "book": "Monster Manual",
+    "alignment": "AEA",
+    "size": "Medium",
+    "type": "undead"
 }

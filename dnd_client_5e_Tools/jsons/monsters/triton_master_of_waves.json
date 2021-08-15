@@ -12,11 +12,6 @@
     "nature": "+6",
     "survival": "+4",
     "name": "Triton Master of Waves",
-    "page": 245,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -43,5 +38,10 @@
         "Common",
         "Primordial"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 245,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
 }

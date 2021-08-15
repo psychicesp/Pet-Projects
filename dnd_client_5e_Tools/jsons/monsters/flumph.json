@@ -11,11 +11,6 @@
     "history": "+4",
     "religion": "+4",
     "name": "Flumph",
-    "page": 135,
-    "book": "Monster Manual",
-    "alignment": "LG",
-    "size": "Small",
-    "type": "aberration",
     "AC": 12,
     "speed": [
         "5 ft",
@@ -35,5 +30,10 @@
         "understands Undercommon but can\\'t speak",
         "telepathy 60 ft."
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 135,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Small",
+    "type": "aberration"
 }

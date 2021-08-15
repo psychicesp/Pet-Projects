@@ -9,11 +9,6 @@
     "intimidation": "+8",
     "perception": "+8",
     "name": "Hundred-Handed One",
-    "page": 225,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "LN",
-    "size": "Huge",
-    "type": "giant",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "Giant"
     ],
-    "CR": "15 (13,000 XP)"
+    "CR": "15 (13,000 XP)",
+    "page": 225,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LN",
+    "size": "Huge",
+    "type": "giant"
 }

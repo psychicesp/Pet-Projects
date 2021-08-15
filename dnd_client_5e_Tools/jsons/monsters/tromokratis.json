@@ -9,11 +9,6 @@
     "wisdom": "11",
     "charisma": "10",
     "name": "Tromokratis",
-    "page": 254,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "AA",
-    "size": "Gargantuan",
-    "type": "monstrosity",
     "AC": 22,
     "speed": [
         "30 ft",
@@ -41,5 +36,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "26 (90,000 XP, or 180,000 XP as a mythic encounter)"
+    "CR": "26 (90,000 XP, or 180,000 XP as a mythic encounter)",
+    "page": 254,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "AA",
+    "size": "Gargantuan",
+    "type": "monstrosity"
 }

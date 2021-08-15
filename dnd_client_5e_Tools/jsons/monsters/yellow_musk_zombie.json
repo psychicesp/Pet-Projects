@@ -7,11 +7,6 @@
     "wisdom": "6",
     "charisma": "3",
     "name": "Yellow Musk Zombie",
-    "page": 237,
-    "book": "Tomb of Annihilation",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "undead",
     "AC": 9,
     "speed": [
         "20 ft"
@@ -28,5 +23,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 237,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "undead"
 }

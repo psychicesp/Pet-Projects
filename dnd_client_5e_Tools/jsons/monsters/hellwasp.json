@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Hellwasp",
-    "page": 236,
-    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 19,
     "speed": [
         "10 ft",
@@ -33,5 +28,10 @@
         "Infernal",
         "telepathy 300 ft. (with other hellwasps only)"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 236,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend"
 }

@@ -7,11 +7,6 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Camel",
-    "page": 320,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Large",
-    "type": "beast",
     "AC": 9,
     "speed": [
         "50 ft"
@@ -24,5 +19,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 320,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
 }

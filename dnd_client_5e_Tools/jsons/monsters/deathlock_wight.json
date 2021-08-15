@@ -9,11 +9,6 @@
     "arcana": "+3",
     "perception": "+4",
     "name": "Deathlock Wight",
-    "page": 129,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -42,5 +37,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 129,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
 }

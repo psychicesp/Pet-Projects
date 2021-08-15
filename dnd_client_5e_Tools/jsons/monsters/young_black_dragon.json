@@ -9,11 +9,6 @@
     "perception": "+6",
     "stealth": "+5",
     "name": "Young Black Dragon",
-    "page": 88,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "dragon",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -42,5 +37,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 88,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "dragon"
 }

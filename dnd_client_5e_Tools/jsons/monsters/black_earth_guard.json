@@ -11,11 +11,6 @@
     "intimidation": "+1",
     "perception": "+2",
     "name": "Black Earth Guard",
-    "page": 195,
-    "book": "Princes of the Apocalypse",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 195,
+    "book": "Princes of the Apocalypse",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

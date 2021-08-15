@@ -13,11 +13,6 @@
     "perception": "+3",
     "stealth": "+9",
     "name": "Vistana Assassin",
-    "page": 28,
-    "book": "Curse of Strahd",
-    "alignment": "ANA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -41,5 +36,10 @@
     "languages": [
         "Thieves\\' cant plus any two languages"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 28,
+    "book": "Curse of Strahd",
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
 }

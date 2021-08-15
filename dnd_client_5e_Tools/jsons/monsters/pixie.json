@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+7",
     "name": "Pixie",
-    "page": 253,
-    "book": "Monster Manual",
-    "alignment": "NG",
-    "size": "Tiny",
-    "type": "fey",
     "AC": 15,
     "speed": [
         "10 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "Sylvan"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 253,
+    "book": "Monster Manual",
+    "alignment": "NG",
+    "size": "Tiny",
+    "type": "fey"
 }

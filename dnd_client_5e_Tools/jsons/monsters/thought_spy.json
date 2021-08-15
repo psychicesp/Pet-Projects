@@ -15,11 +15,6 @@
     "perception": "+3",
     "stealth": "+4",
     "name": "Thought Spy",
-    "page": 233,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -40,5 +35,10 @@
     "languages": [
         "Common plus any one language"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 233,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

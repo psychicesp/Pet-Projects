@@ -11,11 +11,6 @@
     "perception": "+3",
     "stealth": "+8",
     "name": "Drow Gunslinger",
-    "page": 201,
-    "book": "Waterdeep: Dragon Heist",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "Elvish",
         "Undercommon"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 201,
+    "book": "Waterdeep: Dragon Heist",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

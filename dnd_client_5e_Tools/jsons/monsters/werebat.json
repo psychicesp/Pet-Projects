@@ -12,11 +12,6 @@
     "perception": "+3",
     "stealth": "+5",
     "name": "Werebat",
-    "page": 317,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "S",
-    "size": "Small",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft. (climb 30 ft. fly 60 ft. in bat or hybrid form)"
@@ -36,5 +31,10 @@
     "languages": [
         "Goblin (can't speak in bat form)"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 317,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "S",
+    "size": "Small",
+    "type": "humanoid"
 }

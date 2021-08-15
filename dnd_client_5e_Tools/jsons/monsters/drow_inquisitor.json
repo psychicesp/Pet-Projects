@@ -13,11 +13,6 @@
     "religion": "+8",
     "stealth": "+7",
     "name": "Drow Inquisitor",
-    "page": 184,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -44,5 +39,10 @@
         "Elvish",
         "Undercommon"
     ],
-    "CR": "14 (11,500 XP)"
+    "CR": "14 (11,500 XP)",
+    "page": 184,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

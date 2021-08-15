@@ -9,11 +9,6 @@
     "wisdom": "11",
     "charisma": "7",
     "name": "Orc Nurtured One of Yurtrus",
-    "page": 184,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 9,
     "speed": [
         "30 ft"
@@ -28,5 +23,10 @@
         "Common",
         "Orc"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 184,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

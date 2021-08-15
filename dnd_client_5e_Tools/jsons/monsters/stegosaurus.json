@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "5",
     "name": "Stegosaurus",
-    "page": 140,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "beast",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -24,5 +19,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 140,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast"
 }

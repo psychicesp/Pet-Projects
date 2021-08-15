@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+4",
     "name": "Wolf",
-    "page": 341,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "beast",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 341,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
 }

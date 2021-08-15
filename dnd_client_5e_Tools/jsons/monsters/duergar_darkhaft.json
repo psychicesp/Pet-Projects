@@ -9,11 +9,6 @@
     "wisdom": "10",
     "charisma": "9",
     "name": "Duergar Darkhaft",
-    "page": 226,
-    "book": "Out of the Abyss",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "25 ft"
@@ -31,5 +26,10 @@
         "Dwarvish",
         "Undercommon"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 226,
+    "book": "Out of the Abyss",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

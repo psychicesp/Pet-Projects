@@ -11,11 +11,6 @@
     "perception": "+6",
     "religion": "+3",
     "name": "Sahuagin Priestess",
-    "page": 264,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "Sahuagin"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 264,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

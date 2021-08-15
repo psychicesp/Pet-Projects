@@ -11,11 +11,6 @@
     "intimidation": "+9",
     "perception": "+14",
     "name": "Yeenoghu",
-    "page": 155,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "fiend",
     "AC": 20,
     "speed": [
         "50 ft"
@@ -47,5 +42,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "24 (62,000 XP)"
+    "CR": "24 (62,000 XP)",
+    "page": 155,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend"
 }

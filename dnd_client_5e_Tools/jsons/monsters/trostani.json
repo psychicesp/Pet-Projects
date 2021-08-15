@@ -12,11 +12,6 @@
     "perception": "+16",
     "persuasion": "+13",
     "name": "Trostani",
-    "page": 252,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NG",
-    "size": "Large",
-    "type": "fey",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -46,5 +41,10 @@
         "Elvish",
         "Sylvan"
     ],
-    "CR": "18 (20,000 XP)"
+    "CR": "18 (20,000 XP)",
+    "page": 252,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NG",
+    "size": "Large",
+    "type": "fey"
 }

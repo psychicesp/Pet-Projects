@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Sheep",
-    "page": 142,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "U",
-    "size": "Small",
-    "type": "beast",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -25,5 +20,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 142,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "U",
+    "size": "Small",
+    "type": "beast"
 }

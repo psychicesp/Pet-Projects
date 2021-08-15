@@ -10,11 +10,6 @@
     "insight": "+10",
     "perception": "+10",
     "name": "Jarad Vod Savo",
-    "page": 235,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -48,5 +43,10 @@
         "Elvish",
         "Kraul"
     ],
-    "CR": "22 (41,000 XP)"
+    "CR": "22 (41,000 XP)",
+    "page": 235,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "undead"
 }

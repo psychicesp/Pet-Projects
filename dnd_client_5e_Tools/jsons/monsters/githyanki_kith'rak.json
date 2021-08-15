@@ -11,11 +11,6 @@
     "intimidation": "+7",
     "perception": "+6",
     "name": "Githyanki Kith\\'rak",
-    "page": 205,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
     "languages": [
         "Gith"
     ],
-    "CR": "12 (8,400 XP)"
+    "CR": "12 (8,400 XP)",
+    "page": 205,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

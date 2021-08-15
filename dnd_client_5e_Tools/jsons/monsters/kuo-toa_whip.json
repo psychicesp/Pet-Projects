@@ -11,11 +11,6 @@
     "perception": "+6",
     "religion": "+5",
     "name": "Kuo-toa Whip",
-    "page": 200,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 11,
     "speed": [
         "30 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "Undercommon"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 200,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

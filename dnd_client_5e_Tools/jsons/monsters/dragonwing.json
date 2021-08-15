@@ -11,11 +11,6 @@
     "deception": "+3",
     "stealth": "+5",
     "name": "Dragonwing",
-    "page": 90,
-    "book": "Hoard of the Dragon Queen",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 90,
+    "book": "Hoard of the Dragon Queen",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

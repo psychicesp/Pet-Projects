@@ -14,11 +14,6 @@
     "persuasion": "+5",
     "stealth": "+4",
     "name": "Tabaxi Minstrel",
-    "page": 233,
-    "book": "Tomb of Annihilation",
-    "alignment": "CG",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -38,5 +33,10 @@
     "languages": [
         "Common plus any two languages"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 233,
+    "book": "Tomb of Annihilation",
+    "alignment": "CG",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -7,11 +7,6 @@
     "wisdom": "9",
     "charisma": "8",
     "name": "Nightwalker",
-    "page": 216,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "undead",
     "AC": 14,
     "speed": [
         "40 ft",
@@ -38,5 +33,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "20 (25,000 XP)"
+    "CR": "20 (25,000 XP)",
+    "page": 216,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "undead"
 }

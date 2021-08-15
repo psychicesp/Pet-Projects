@@ -8,11 +8,6 @@
     "charisma": "11",
     "perception": "+6",
     "name": "Tomb Tapper",
-    "page": 310,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "LN",
-    "size": "Huge",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -39,5 +34,10 @@
         "understands Common and Undercommon but doesn\\'t speak",
         "telepathy 60 ft."
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 310,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "LN",
+    "size": "Huge",
+    "type": "construct"
 }

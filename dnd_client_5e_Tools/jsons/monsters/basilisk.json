@@ -7,11 +7,6 @@
     "wisdom": "8",
     "charisma": "7",
     "name": "Basilisk",
-    "page": 24,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 15,
     "speed": [
         "20 ft"
@@ -25,5 +20,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 24,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "monstrosity"
 }

@@ -9,11 +9,6 @@
     "charisma": "2",
     "stealth": "+2",
     "name": "Crab",
-    "page": 320,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Tiny",
-    "type": "beast",
     "AC": 11,
     "speed": [
         "20 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 320,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast"
 }

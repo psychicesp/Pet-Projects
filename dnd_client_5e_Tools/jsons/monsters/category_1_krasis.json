@@ -7,11 +7,6 @@
     "wisdom": "13",
     "charisma": "8",
     "name": "Category 1 Krasis",
-    "page": 210,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -24,5 +19,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 210,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "monstrosity"
 }

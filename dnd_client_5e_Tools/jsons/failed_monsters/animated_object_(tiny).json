@@ -1,0 +1,23 @@
+{
+    "tags": [],
+    "strength": "4 (-3)",
+    "dexterity": "18 (+4)",
+    "constitution": "10 (+0)",
+    "intelligence": "3 (-4)",
+    "wisdom": "3 (-4)",
+    "charisma": "1 (-5)",
+    "name": "Animated Object (Tiny)",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "blindsight 30 ft. (blind beyond this radius)",
+        "passive Perception 6"
+    ],
+    "languages": [
+        "\u2014"
+    ]
+}

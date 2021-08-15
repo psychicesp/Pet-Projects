@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "hit": "12d8",
+    "strength": "8",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "20",
+    "wisdom": "18",
+    "charisma": "11",
+    "arcana": "+11",
+    "history": "+11",
+    "insight": "+7",
+    "investigation": "+11",
+    "medicine": "+10",
+    "nature": "+11",
+    "religion": "+11",
+    "name": "Master Sage",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "expert",
+        "history": "expert",
+        "insight": "proficient",
+        "investigation": "expert",
+        "medicine": "expert",
+        "nature": "expert",
+        "religion": "expert"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common plus any five languages"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 9,
+    "book": "Candlekeep Mysteries"
+}

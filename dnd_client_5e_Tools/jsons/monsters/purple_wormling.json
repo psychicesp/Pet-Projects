@@ -7,11 +7,6 @@
     "wisdom": "6",
     "charisma": "2",
     "name": "Purple Wormling",
-    "page": 242,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "U",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 12,
     "speed": [
         "20 ft"
@@ -26,5 +21,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 242,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
 }

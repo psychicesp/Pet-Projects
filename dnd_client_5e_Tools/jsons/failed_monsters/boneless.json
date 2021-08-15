@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "1",
+    "stealth": "+4",
+    "name": "Boneless",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands the languages it knew in life but can't speak"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 228,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

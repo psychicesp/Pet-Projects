@@ -12,11 +12,6 @@
     "stealth": "+4",
     "survival": "+5",
     "name": "Lizardfolk",
-    "page": 204,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "Draconic"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 204,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
 }

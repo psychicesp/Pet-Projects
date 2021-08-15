@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "hit points": "9d8 + 18",
+    "strength": "16 (+3)",
+    "dexterity": "13 (+1)",
+    "constitution": "14 (+2)",
+    "intelligence": "9 (-1)",
+    "wisdom": "15 (+2)",
+    "charisma": "12 (+1)",
+    "nature": "+1",
+    "stealth": "+3",
+    "survival": "+4",
+    "name": "Anchorite of Talos",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "nature": "proficient",
+        "stealth": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Orc"
+    ]
+}

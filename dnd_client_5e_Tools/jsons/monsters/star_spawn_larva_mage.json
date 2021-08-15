@@ -8,11 +8,6 @@
     "charisma": "16",
     "perception": "+6",
     "name": "Star Spawn Larva Mage",
-    "page": 235,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -42,5 +37,10 @@
     "languages": [
         "Deep Speech"
     ],
-    "CR": "16 (15,000 XP)"
+    "CR": "16 (15,000 XP)",
+    "page": 235,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "aberration"
 }

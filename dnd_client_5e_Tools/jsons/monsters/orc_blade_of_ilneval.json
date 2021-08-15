@@ -12,11 +12,6 @@
     "intimidation": "+4",
     "perception": "+3",
     "name": "Orc Blade of Ilneval",
-    "page": 183,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "Common",
         "Orc"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 183,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

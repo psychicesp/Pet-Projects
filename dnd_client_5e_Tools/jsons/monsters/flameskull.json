@@ -9,11 +9,6 @@
     "arcana": "+5",
     "perception": "+2",
     "name": "Flameskull",
-    "page": 134,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Tiny",
-    "type": "undead",
     "AC": 13,
     "speed": [
         "0 ft",
@@ -40,5 +35,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 134,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Tiny",
+    "type": "undead"
 }

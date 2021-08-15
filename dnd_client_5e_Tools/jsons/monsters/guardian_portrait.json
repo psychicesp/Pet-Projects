@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Guardian Portrait",
-    "page": 227,
-    "book": "Curse of Strahd",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 5,
     "speed": [
         "0 ft"
@@ -33,5 +28,10 @@
         "Common",
         "plus up to two other languages"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 227,
+    "book": "Curse of Strahd",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

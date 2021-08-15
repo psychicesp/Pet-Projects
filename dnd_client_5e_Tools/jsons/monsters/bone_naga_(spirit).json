@@ -7,11 +7,6 @@
     "wisdom": "15",
     "charisma": "16",
     "name": "Bone Naga (Spirit)",
-    "page": 233,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "undead",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "Common plus one other language"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 233,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "undead"
 }

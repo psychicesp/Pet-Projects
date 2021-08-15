@@ -9,11 +9,6 @@
     "athletics": "+16",
     "perception": "+7",
     "name": "Colossus of Akros",
-    "page": 218,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "U",
-    "size": "Gargantuan",
-    "type": "construct",
     "AC": 21,
     "speed": [
         "60 ft"
@@ -40,5 +35,10 @@
     "languages": [
         "understands Common and Celestial but can\\'t speak"
     ],
-    "CR": "23 (50,000 XP)"
+    "CR": "23 (50,000 XP)",
+    "page": 218,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "construct"
 }

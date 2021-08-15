@@ -8,11 +8,6 @@
     "charisma": "7",
     "perception": "+2",
     "name": "Guard Drake",
-    "page": 91,
-    "book": "Hoard of the Dragon Queen",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "dragon",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "understands Draconic but can\\'t speak it"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 91,
+    "book": "Hoard of the Dragon Queen",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "dragon"
 }

@@ -12,11 +12,6 @@
     "arcana": "+4",
     "history": "+4",
     "name": "Rock Gnome Recluse",
-    "page": 62,
-    "book": "Dragon of Icespire Peak",
-    "alignment": "CN",
-    "size": "Small",
-    "type": "humanoid",
     "AC": 10,
     "speed": [
         "25 ft"
@@ -34,5 +29,10 @@
         "Common",
         "Gnomish"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 62,
+    "book": "Dragon of Icespire Peak",
+    "alignment": "CN",
+    "size": "Small",
+    "type": "humanoid"
 }

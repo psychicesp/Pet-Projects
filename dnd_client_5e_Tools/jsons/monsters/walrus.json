@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "4",
     "name": "Walrus",
-    "page": 312,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "U",
-    "size": "Large",
-    "type": "beast",
     "AC": 9,
     "speed": [
         "20 ft",
@@ -25,5 +20,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 312,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
 }

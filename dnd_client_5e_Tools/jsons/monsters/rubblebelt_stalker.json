@@ -12,11 +12,6 @@
     "perception": "+4",
     "stealth": "+4",
     "name": "Rubblebelt Stalker",
-    "page": 239,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 239,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid"
 }

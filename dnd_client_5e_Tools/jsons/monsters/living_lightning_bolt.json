@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "6",
     "name": "Living Lightning Bolt",
-    "page": 299,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "U",
-    "size": "Large",
-    "type": "construct",
     "AC": 15,
     "speed": [
         "25 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 299,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
 }

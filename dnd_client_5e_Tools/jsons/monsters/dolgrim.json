@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "8",
     "name": "Dolgrim",
-    "page": 291,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "CE",
-    "size": "Small",
-    "type": "aberration",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -26,5 +21,10 @@
         "Deep Speech",
         "Goblin"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 291,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "aberration"
 }

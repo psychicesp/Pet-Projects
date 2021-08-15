@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "8",
+    "dexterity": "15",
+    "constitution": "17",
+    "intelligence": "17",
+    "wisdom": "13",
+    "charisma": "10",
+    "arcana": "+9",
+    "name": "Necrichor",
+    "AC": 12,
+    "speed": [
+        "20 ft",
+        "climb 20 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "expert"
+    },
+    "resistances": [
+        "acid, necrotic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, poisoned, prone, restrained"
+    ],
+    "senses": [
+        "blindsight 120 ft. (blind beyond this radius)",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any three languages",
+        "telepathy 120 ft."
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 238,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

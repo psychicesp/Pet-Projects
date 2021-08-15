@@ -9,11 +9,6 @@
     "wisdom": "14",
     "charisma": "8",
     "name": "Spined Devil",
-    "page": 78,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Small",
-    "type": "fiend",
     "AC": 13,
     "speed": [
         "20 ft",
@@ -39,5 +34,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 78,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "fiend"
 }

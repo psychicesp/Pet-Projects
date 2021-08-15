@@ -7,11 +7,6 @@
     "wisdom": "6",
     "charisma": "3",
     "name": "Icewind Kobold Zombie",
-    "page": 297,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "NE",
-    "size": "Small",
-    "type": "undead",
     "AC": 9,
     "speed": [
         "20 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "understands Common and Draconic but can't speak"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 297,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "undead"
 }

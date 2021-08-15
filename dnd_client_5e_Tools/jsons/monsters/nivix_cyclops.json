@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "9",
     "name": "Nivix Cyclops",
-    "page": 216,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "U",
-    "size": "Large",
-    "type": "giant",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 216,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "U",
+    "size": "Large",
+    "type": "giant"
 }

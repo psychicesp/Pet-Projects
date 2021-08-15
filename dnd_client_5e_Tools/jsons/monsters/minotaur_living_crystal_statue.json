@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Minotaur Living Crystal Statue",
-    "page": 245,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "U",
-    "size": "Large",
-    "type": "construct",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "understands the languages of its creator but can't speak"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 245,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
 }

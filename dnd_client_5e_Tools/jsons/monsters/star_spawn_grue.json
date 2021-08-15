@@ -8,11 +8,6 @@
     "wisdom": "11",
     "charisma": "6",
     "name": "Star Spawn Grue",
-    "page": 234,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Small",
-    "type": "aberration",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "Deep Speech"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 234,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "aberration"
 }

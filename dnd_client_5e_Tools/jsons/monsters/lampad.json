@@ -9,11 +9,6 @@
     "deception": "+6",
     "intimidation": "+6",
     "name": "Lampad",
-    "page": 235,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "fey",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -39,5 +34,10 @@
         "Common",
         "Sylvan"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 235,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fey"
 }

@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Fluxcharger",
-    "page": 208,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CN",
-    "size": "Large",
-    "type": "elemental",
     "AC": 16,
     "speed": [
         "0 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "Draconic"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 208,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Large",
+    "type": "elemental"
 }

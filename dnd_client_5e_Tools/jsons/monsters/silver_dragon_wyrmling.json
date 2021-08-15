@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+2",
     "name": "Silver Dragon Wyrmling",
-    "page": 118,
-    "book": "Monster Manual",
-    "alignment": "LG",
-    "size": "Medium",
-    "type": "dragon",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -40,5 +35,10 @@
     "languages": [
         "Draconic"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 118,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "dragon"
 }

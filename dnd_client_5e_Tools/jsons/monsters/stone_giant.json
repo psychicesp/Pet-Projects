@@ -9,11 +9,6 @@
     "athletics": "+12",
     "perception": "+4",
     "name": "Stone Giant",
-    "page": 156,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Huge",
-    "type": "giant",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Giant"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 156,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Huge",
+    "type": "giant"
 }

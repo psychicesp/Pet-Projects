@@ -9,11 +9,6 @@
     "acrobatics": "+5",
     "stealth": "+5",
     "name": "Expeditious Messenger",
-    "page": 293,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "N",
-    "size": "Tiny",
-    "type": "construct",
     "AC": 13,
     "speed": [
         "25 ft",
@@ -37,5 +32,10 @@
     "languages": [
         "one language spoken by its creator"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 293,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "N",
+    "size": "Tiny",
+    "type": "construct"
 }

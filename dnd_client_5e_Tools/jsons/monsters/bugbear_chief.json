@@ -12,11 +12,6 @@
     "stealth": "+6",
     "survival": "+3",
     "name": "Bugbear Chief",
-    "page": 33,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
         "Common",
         "Goblin"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 33,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

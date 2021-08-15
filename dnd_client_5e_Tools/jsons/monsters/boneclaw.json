@@ -9,11 +9,6 @@
     "perception": "+6",
     "stealth": "+7",
     "name": "Boneclaw",
-    "page": 121,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "undead",
     "AC": 16,
     "speed": [
         "40 ft"
@@ -41,5 +36,10 @@
     "languages": [
         "Common plus the main language of its master"
     ],
-    "CR": "12 (8,400 XP)"
+    "CR": "12 (8,400 XP)",
+    "page": 121,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "undead"
 }

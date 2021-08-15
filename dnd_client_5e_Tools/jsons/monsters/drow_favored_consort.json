@@ -13,11 +13,6 @@
     "perception": "+8",
     "stealth": "+11",
     "name": "Drow Favored Consort",
-    "page": 183,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -41,5 +36,10 @@
         "Elvish",
         "Undercommon"
     ],
-    "CR": "18 (20,000 XP)"
+    "CR": "18 (20,000 XP)",
+    "page": 183,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

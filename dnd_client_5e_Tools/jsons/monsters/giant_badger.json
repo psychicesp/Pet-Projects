@@ -7,11 +7,6 @@
     "wisdom": "12",
     "charisma": "5",
     "name": "Giant Badger",
-    "page": 323,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "beast",
     "AC": 10,
     "speed": [
         "30 ft",
@@ -26,5 +21,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 323,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
 }

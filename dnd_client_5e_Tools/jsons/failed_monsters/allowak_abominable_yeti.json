@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "hit points": "11d12 + 66",
+    "strength": "24 (+7)",
+    "dexterity": "10 (+0)",
+    "constitution": "22 (+6)",
+    "intelligence": "16 (+3)",
+    "wisdom": "13 (+1)",
+    "charisma": "10 (+0)",
+    "perception": "+5",
+    "stealth": "+4",
+    "name": "Allowak Abominable Yeti",
+    "AC": 15,
+    "speed": [
+        "40 ft",
+        "climb 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "cold"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Common",
+        "Yeti"
+    ]
+}

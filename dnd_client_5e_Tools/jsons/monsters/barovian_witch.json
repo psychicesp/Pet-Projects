@@ -11,11 +11,6 @@
     "arcana": "+4",
     "perception": "+2",
     "name": "Barovian Witch",
-    "page": 229,
-    "book": "Curse of Strahd",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -32,5 +27,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 229,
+    "book": "Curse of Strahd",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

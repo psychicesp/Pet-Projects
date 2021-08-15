@@ -12,11 +12,6 @@
     "perception": "+7",
     "stealth": "+8",
     "name": "Ultroloth",
-    "page": 314,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -47,5 +42,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "13 (10,000 XP)"
+    "CR": "13 (10,000 XP)",
+    "page": 314,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
 }

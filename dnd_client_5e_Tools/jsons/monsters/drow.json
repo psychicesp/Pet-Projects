@@ -12,11 +12,6 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Drow",
-    "page": 128,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
         "Elvish",
         "Undercommon"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 128,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

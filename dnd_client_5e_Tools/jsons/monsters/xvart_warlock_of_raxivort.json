@@ -10,11 +10,6 @@
     "charisma": "12",
     "stealth": "+4",
     "name": "Xvart Warlock of Raxivort",
-    "page": 200,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Small",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -30,5 +25,10 @@
     "languages": [
         "Abyssal"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 200,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "humanoid"
 }

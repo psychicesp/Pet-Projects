@@ -11,11 +11,6 @@
     "athletics": "+8",
     "intimidation": "+8",
     "name": "Summer Eladrin",
-    "page": 196,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "fey",
     "AC": 19,
     "speed": [
         "50 ft"
@@ -37,5 +32,10 @@
         "Elvish",
         "Sylvan"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 196,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "fey"
 }

@@ -7,11 +7,6 @@
     "wisdom": "12",
     "charisma": "11",
     "name": "Returned Sentry",
-    "page": 241,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 241,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
 }

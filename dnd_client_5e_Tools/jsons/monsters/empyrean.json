@@ -11,11 +11,6 @@
     "insight": "+13",
     "persuasion": "+15",
     "name": "Empyrean",
-    "page": 130,
-    "book": "Monster Manual",
-    "alignment": "CG(ONE(",
-    "size": "Huge",
-    "type": "celestial",
     "AC": 22,
     "speed": [
         "50 ft",
@@ -42,5 +37,10 @@
     "languages": [
         "all"
     ],
-    "CR": "23 (50,000 XP)"
+    "CR": "23 (50,000 XP)",
+    "page": 130,
+    "book": "Monster Manual",
+    "alignment": "CG(ONE(",
+    "size": "Huge",
+    "type": "celestial"
 }

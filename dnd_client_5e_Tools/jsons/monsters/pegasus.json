@@ -8,11 +8,6 @@
     "charisma": "13",
     "perception": "+6",
     "name": "Pegasus",
-    "page": 250,
-    "book": "Monster Manual",
-    "alignment": "CG",
-    "size": "Large",
-    "type": "celestial",
     "AC": 12,
     "speed": [
         "60 ft",
@@ -35,5 +30,10 @@
         "Elvish",
         "and Sylvan but can't speak"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 250,
+    "book": "Monster Manual",
+    "alignment": "CG",
+    "size": "Large",
+    "type": "celestial"
 }

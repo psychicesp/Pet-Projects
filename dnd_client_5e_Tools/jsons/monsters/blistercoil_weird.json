@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Blistercoil Weird",
-    "page": 207,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "elemental",
     "AC": 13,
     "speed": [
         "40 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "Draconic"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 207,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "elemental"
 }

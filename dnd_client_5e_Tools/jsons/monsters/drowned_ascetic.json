@@ -7,11 +7,6 @@
     "wisdom": "9",
     "charisma": "5",
     "name": "Drowned Ascetic",
-    "page": 233,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "understands the languages it knew in life but can't speak"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 233,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
 }

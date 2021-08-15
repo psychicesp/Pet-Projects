@@ -10,11 +10,6 @@
     "charisma": "24",
     "perception": "+11",
     "name": "Zuggtmoy",
-    "page": 157,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -45,5 +40,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "23 (50,000 XP)"
+    "CR": "23 (50,000 XP)",
+    "page": 157,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
 }

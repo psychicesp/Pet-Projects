@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "hit points": "16d12 + 80",
+    "strength": "23 (+6)",
+    "dexterity": "12 (+1)",
+    "constitution": "21 (+5)",
+    "intelligence": "18 (+4)",
+    "wisdom": "15 (+2)",
+    "charisma": "17 (+3)",
+    "dexterity save": "+6",
+    "constitution save": "+10",
+    "wisdom save": "+7",
+    "charisma save": "+8",
+    "deception": "+8",
+    "perception": "+12",
+    "stealth": "+6",
+    "name": "Adult Copper Dragon",
+    "AC": 18,
+    "speed": [
+        "40 ft",
+        "climb 40 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "acid"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 22"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ]
+}

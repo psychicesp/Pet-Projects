@@ -7,11 +7,6 @@
     "wisdom": "16",
     "charisma": "18",
     "name": "Death Knight",
-    "page": 47,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 20,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
         "Abyssal",
         "Common"
     ],
-    "CR": "17 (18,000 XP)"
+    "CR": "17 (18,000 XP)",
+    "page": 47,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
 }

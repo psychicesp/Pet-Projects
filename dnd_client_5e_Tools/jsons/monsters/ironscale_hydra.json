@@ -8,11 +8,6 @@
     "charisma": "7",
     "perception": "+8",
     "name": "Ironscale Hydra",
-    "page": 231,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "U",
-    "size": "Gargantuan",
-    "type": "monstrosity",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -32,5 +27,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "12 (8,400 XP)"
+    "CR": "12 (8,400 XP)",
+    "page": 231,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "monstrosity"
 }

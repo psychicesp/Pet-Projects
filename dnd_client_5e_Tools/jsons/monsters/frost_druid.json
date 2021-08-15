@@ -12,11 +12,6 @@
     "perception": "+6",
     "survival": "+6",
     "name": "Frost Druid",
-    "page": 288,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "40 ft. (wolf form only)",
@@ -44,5 +39,10 @@
         "Common",
         "Druidic"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 288,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

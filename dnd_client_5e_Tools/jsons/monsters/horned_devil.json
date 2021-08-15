@@ -9,11 +9,6 @@
     "wisdom": "16",
     "charisma": "17",
     "name": "Horned Devil",
-    "page": 74,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "20 ft",
@@ -44,5 +39,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 74,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend"
 }

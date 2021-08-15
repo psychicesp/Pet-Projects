@@ -9,11 +9,6 @@
     "charisma": "13",
     "intimidation": "+3",
     "name": "Blood-Toll Harpy",
-    "page": 227,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 11,
     "speed": [
         "20 ft",
@@ -29,5 +24,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 227,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "monstrosity"
 }

@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "10",
+    "constitution": "20",
+    "intelligence": "4",
+    "wisdom": "6",
+    "charisma": "6",
+    "name": "Giant Skeleton",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "understands Giant but can\\'t speak"
+    ],
+    "CR": "7 (2,900 XP)"
+}

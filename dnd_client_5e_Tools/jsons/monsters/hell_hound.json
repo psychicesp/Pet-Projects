@@ -8,11 +8,6 @@
     "charisma": "6",
     "perception": "+5",
     "name": "Hell Hound",
-    "page": 182,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 15,
     "speed": [
         "50 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "understands Infernal but can't speak it"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 182,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

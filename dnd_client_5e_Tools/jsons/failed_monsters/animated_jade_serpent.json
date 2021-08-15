@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "hit points": "2d8 + 2",
+    "strength": "10 (+0)",
+    "dexterity": "18 (+4)",
+    "constitution": "13 (+1)",
+    "intelligence": "2 (-4)",
+    "wisdom": "10 (+0)",
+    "charisma": "3 (-4)",
+    "perception": "+2",
+    "name": "Animated Jade Serpent",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\u2014"
+    ]
+}

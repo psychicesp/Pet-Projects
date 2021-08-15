@@ -8,11 +8,6 @@
     "wisdom": "11",
     "charisma": "17",
     "name": "Banshee",
-    "page": 23,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -41,5 +36,10 @@
         "Common",
         "Elvish"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 23,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
 }

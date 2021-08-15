@@ -13,11 +13,6 @@
     "medicine": "+4",
     "religion": "+2",
     "name": "Orc Hand of Yurtrus",
-    "page": 184,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "understands Common and Orc but can\\'t speak"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 184,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

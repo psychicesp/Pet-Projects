@@ -9,11 +9,6 @@
     "perception": "+6",
     "stealth": "+5",
     "name": "Roper",
-    "page": 261,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 20,
     "speed": [
         "10 ft",
@@ -31,5 +26,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 261,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "monstrosity"
 }

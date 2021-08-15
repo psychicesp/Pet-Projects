@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "18",
+    "constitution": "14",
+    "intelligence": "14",
+    "wisdom": "15",
+    "charisma": "16",
+    "athletics": "+7",
+    "perception": "+5",
+    "survival": "+5",
+    "name": "Relentless Slasher",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "athletics": "expert",
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "understands all languages but can\\'t speak"
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 242,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

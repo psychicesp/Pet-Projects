@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "hit points": "26d20 + 208",
+    "strength": "29 (+9)",
+    "dexterity": "10 (+0)",
+    "constitution": "27 (+8)",
+    "intelligence": "18 (+4)",
+    "wisdom": "17 (+3)",
+    "charisma": "21 (+5)",
+    "dexterity save": "+7",
+    "constitution save": "+15",
+    "wisdom save": "+10",
+    "charisma save": "+12",
+    "perception": "+17",
+    "stealth": "+7",
+    "name": "Ancient Blue Dragon",
+    "AC": 22,
+    "speed": [
+        "40 ft",
+        "burrow 40 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "lightning"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 27"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ]
+}

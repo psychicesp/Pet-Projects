@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "strength": "12 (+1)",
+    "dexterity": "12 (+1)",
+    "constitution": "10 (+0)",
+    "intelligence": "18 (+4)",
+    "wisdom": "14 (+2)",
+    "charisma": "10 (+0)",
+    "name": "Animated Staff",
+    "AC": 17,
+    "speed": [
+        "0 ft",
+        "fly 30 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common"
+    ]
+}

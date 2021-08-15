@@ -10,11 +10,6 @@
     "charisma": "14",
     "perception": "+7",
     "name": "Goristro",
-    "page": 59,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "fiend",
     "AC": 19,
     "speed": [
         "40 ft"
@@ -45,5 +40,10 @@
     "languages": [
         "Abyssal"
     ],
-    "CR": "17 (18,000 XP)"
+    "CR": "17 (18,000 XP)",
+    "page": 59,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend"
 }

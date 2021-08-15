@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "6",
     "name": "Young Kruthik",
-    "page": 211,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "U",
-    "size": "Small",
-    "type": "monstrosity",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -28,5 +23,10 @@
     "languages": [
         "Kruthik"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 211,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "U",
+    "size": "Small",
+    "type": "monstrosity"
 }

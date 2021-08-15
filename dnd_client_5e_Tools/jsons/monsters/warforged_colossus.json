@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "8",
     "name": "Warforged Colossus",
-    "page": 314,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "U",
-    "size": "Gargantuan",
-    "type": "construct",
     "AC": 23,
     "speed": [
         "60 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "understands Common but can\\'t speak"
     ],
-    "CR": "25 (75,000 XP)"
+    "CR": "25 (75,000 XP)",
+    "page": 314,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "construct"
 }

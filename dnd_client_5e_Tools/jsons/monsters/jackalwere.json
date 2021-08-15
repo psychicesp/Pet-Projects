@@ -13,11 +13,6 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Jackalwere",
-    "page": 193,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -37,5 +32,10 @@
     "languages": [
         "Common (can\\'t speak in jackal form)"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 193,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

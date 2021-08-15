@@ -8,11 +8,6 @@
     "charisma": "6",
     "perception": "+4",
     "name": "Wyvern",
-    "page": 303,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Large",
-    "type": "dragon",
     "AC": 13,
     "speed": [
         "20 ft",
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 303,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "dragon"
 }

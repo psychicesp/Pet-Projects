@@ -13,11 +13,6 @@
     "perception": "+4",
     "stealth": "+7",
     "name": "Isolde",
-    "page": 86,
-    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
-    "alignment": "AEA",
-    "size": "Medium",
-    "type": "fey",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -48,5 +43,10 @@
         "Common",
         "Infernal"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 86,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "alignment": "AEA",
+    "size": "Medium",
+    "type": "fey"
 }

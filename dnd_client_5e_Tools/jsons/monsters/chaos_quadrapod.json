@@ -9,11 +9,6 @@
     "acrobatics": "+5",
     "perception": "+4",
     "name": "Chaos Quadrapod",
-    "page": 209,
-    "book": "Acquisitions Incorporated",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "aberration",
     "AC": 14,
     "speed": [
         "40 ft",
@@ -31,5 +26,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 209,
+    "book": "Acquisitions Incorporated",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "aberration"
 }

@@ -11,11 +11,6 @@
     "deception": "+8",
     "persuasion": "+8",
     "name": "Spring Eladrin",
-    "page": 196,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "fey",
     "AC": 19,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "Elvish",
         "Sylvan"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 196,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "fey"
 }

@@ -8,11 +8,6 @@
     "charisma": "5",
     "athletics": "+6",
     "name": "The Lost",
-    "page": 233,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 233,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "monstrosity"
 }

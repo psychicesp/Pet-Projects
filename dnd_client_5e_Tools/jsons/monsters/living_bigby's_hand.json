@@ -9,11 +9,6 @@
     "perception": "+2",
     "stealth": "+2",
     "name": "Living Bigby\\'s Hand",
-    "page": 298,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "U",
-    "size": "Large",
-    "type": "construct",
     "AC": 20,
     "speed": [
         "0 ft",
@@ -40,5 +35,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 298,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
 }

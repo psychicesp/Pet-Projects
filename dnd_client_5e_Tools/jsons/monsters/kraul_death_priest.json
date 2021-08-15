@@ -12,11 +12,6 @@
     "nature": "+3",
     "religion": "+3",
     "name": "Kraul Death Priest",
-    "page": 214,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -40,5 +35,10 @@
         "Common",
         "Kraul"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 214,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -8,11 +8,6 @@
     "wisdom": "11",
     "charisma": "8",
     "name": "Cranium Rat",
-    "page": 133,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "LE",
-    "size": "Tiny",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -26,5 +21,10 @@
     "languages": [
         "telepathy 30 ft."
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 133,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Tiny",
+    "type": "beast"
 }

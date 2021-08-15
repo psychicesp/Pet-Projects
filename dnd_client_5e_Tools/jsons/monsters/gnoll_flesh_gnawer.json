@@ -9,11 +9,6 @@
     "wisdom": "10",
     "charisma": "8",
     "name": "Gnoll Flesh Gnawer",
-    "page": 154,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "Gnoll"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 154,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

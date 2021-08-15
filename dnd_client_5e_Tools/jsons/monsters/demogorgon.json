@@ -11,11 +11,6 @@
     "insight": "+11",
     "perception": "+19",
     "name": "Demogorgon",
-    "page": 144,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "fiend",
     "AC": 22,
     "speed": [
         "50 ft",
@@ -49,5 +44,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "26 (90,000 XP)"
+    "CR": "26 (90,000 XP)",
+    "page": 144,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend"
 }

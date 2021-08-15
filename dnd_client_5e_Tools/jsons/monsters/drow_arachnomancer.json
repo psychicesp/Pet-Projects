@@ -13,11 +13,6 @@
     "perception": "+7",
     "stealth": "+8",
     "name": "Drow Arachnomancer",
-    "page": 182,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -47,5 +42,10 @@
         "Undercommon",
         "can speak with spiders"
     ],
-    "CR": "13 (10,000 XP)"
+    "CR": "13 (10,000 XP)",
+    "page": 182,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

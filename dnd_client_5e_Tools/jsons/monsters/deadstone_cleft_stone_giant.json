@@ -9,11 +9,6 @@
     "athletics": "+12",
     "perception": "+4",
     "name": "Deadstone Cleft Stone Giant",
-    "page": 146,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "N",
-    "size": "Huge",
-    "type": "giant",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -35,5 +30,10 @@
     "languages": [
         "Giant"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 146,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "N",
+    "size": "Huge",
+    "type": "giant"
 }

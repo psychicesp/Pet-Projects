@@ -7,11 +7,6 @@
     "wisdom": "5",
     "charisma": "5",
     "name": "Duergar Hammerer",
-    "page": 188,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "20 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "understands Dwarvish but can\\'t speak"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 188,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "construct"
 }

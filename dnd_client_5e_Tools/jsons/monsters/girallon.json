@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+5",
     "name": "Girallon",
-    "page": 152,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "U",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 13,
     "speed": [
         "40 ft",
@@ -31,5 +26,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 152,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
 }

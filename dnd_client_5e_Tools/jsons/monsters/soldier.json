@@ -11,11 +11,6 @@
     "athletics": "+3",
     "perception": "+2",
     "name": "Soldier",
-    "page": 226,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 226,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

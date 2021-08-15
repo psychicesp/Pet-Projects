@@ -13,11 +13,6 @@
     "religion": "+2",
     "stealth": "+4",
     "name": "Howling Hatred Initiate",
-    "page": 190,
-    "book": "Princes of the Apocalypse",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 190,
+    "book": "Princes of the Apocalypse",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

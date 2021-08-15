@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "1",
     "name": "Warforged Titan",
-    "page": 315,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "LN",
-    "size": "Huge",
-    "type": "construct",
     "AC": 20,
     "speed": [
         "40 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "understands the languages of its creator but can't speak"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 315,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LN",
+    "size": "Huge",
+    "type": "construct"
 }

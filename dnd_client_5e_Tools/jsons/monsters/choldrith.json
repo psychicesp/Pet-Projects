@@ -10,11 +10,6 @@
     "religion": "+2",
     "stealth": "+5",
     "name": "Choldrith",
-    "page": 132,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "Undercommon"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 132,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "monstrosity"
 }

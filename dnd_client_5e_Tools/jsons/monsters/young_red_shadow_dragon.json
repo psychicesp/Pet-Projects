@@ -9,11 +9,6 @@
     "perception": "+10",
     "stealth": "+10",
     "name": "Young Red Shadow Dragon",
-    "page": 85,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "dragon",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -45,5 +40,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "13 (10,000 XP)"
+    "CR": "13 (10,000 XP)",
+    "page": 85,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "dragon"
 }

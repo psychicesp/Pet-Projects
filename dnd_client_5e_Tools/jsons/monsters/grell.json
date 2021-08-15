@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+6",
     "name": "Grell",
-    "page": 172,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 12,
     "speed": [
         "10 ft",
@@ -37,5 +32,10 @@
     "languages": [
         "Grell"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 172,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "aberration"
 }

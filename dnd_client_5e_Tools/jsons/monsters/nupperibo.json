@@ -10,11 +10,6 @@
     "charisma": "1",
     "perception": "+1",
     "name": "Nupperibo",
-    "page": 168,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 13,
     "speed": [
         "20 ft"
@@ -40,5 +35,10 @@
     "languages": [
         "understands Infernal but can't speak"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 168,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

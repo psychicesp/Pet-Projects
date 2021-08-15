@@ -11,11 +11,6 @@
     "insight": "+15",
     "perception": "+15",
     "name": "Isperia",
-    "page": 227,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "LN",
-    "size": "Gargantuan",
-    "type": "monstrosity",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -48,5 +43,10 @@
         "Common",
         "Sphinx"
     ],
-    "CR": "21 (33,000 XP)"
+    "CR": "21 (33,000 XP)",
+    "page": 227,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LN",
+    "size": "Gargantuan",
+    "type": "monstrosity"
 }

@@ -7,11 +7,6 @@
     "wisdom": "21",
     "charisma": "18",
     "name": "Zaratan",
-    "page": 201,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "N",
-    "size": "Gargantuan",
-    "type": "elemental",
     "AC": 21,
     "speed": [
         "40 ft",
@@ -40,5 +35,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "22 (41,000 XP)"
+    "CR": "22 (41,000 XP)",
+    "page": 201,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "N",
+    "size": "Gargantuan",
+    "type": "elemental"
 }

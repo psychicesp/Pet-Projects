@@ -12,11 +12,6 @@
     "insight": "+8",
     "perception": "+8",
     "name": "Githzerai Enlightened",
-    "page": 208,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -38,5 +33,10 @@
     "languages": [
         "Gith"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 208,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid"
 }

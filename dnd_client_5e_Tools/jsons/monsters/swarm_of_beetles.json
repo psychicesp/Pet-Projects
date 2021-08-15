@@ -10,11 +10,6 @@
     "wisdom": "7",
     "charisma": "1",
     "name": "Swarm of Beetles",
-    "page": 338,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "swarm",
     "AC": 12,
     "speed": [
         "20 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 338,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "swarm"
 }

@@ -9,11 +9,6 @@
     "insight": "+8",
     "perception": "+8",
     "name": "Obzedat Ghost",
-    "page": 245,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 14,
     "speed": [
         "0 ft",
@@ -44,5 +39,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 245,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
 }

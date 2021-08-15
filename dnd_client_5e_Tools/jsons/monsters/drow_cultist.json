@@ -13,11 +13,6 @@
     "perception": "+2",
     "religion": "+2",
     "name": "Drow Cultist",
-    "page": 196,
-    "book": "Out of the Abyss",
-    "alignment": "ANA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
         "any one language (usually Common)",
         "Elvish"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 196,
+    "book": "Out of the Abyss",
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -12,11 +12,6 @@
     "intimidation": "+5",
     "survival": "+5",
     "name": "Reghed Great Warrior",
-    "page": 152,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 152,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

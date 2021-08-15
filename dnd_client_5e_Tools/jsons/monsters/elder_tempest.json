@@ -7,11 +7,6 @@
     "wisdom": "21",
     "charisma": "18",
     "name": "Elder Tempest",
-    "page": 200,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "N",
-    "size": "Gargantuan",
-    "type": "elemental",
     "AC": 19,
     "speed": [
         "0 ft",
@@ -38,5 +33,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "23 (50,000 XP)"
+    "CR": "23 (50,000 XP)",
+    "page": 200,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "N",
+    "size": "Gargantuan",
+    "type": "elemental"
 }

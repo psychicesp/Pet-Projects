@@ -12,11 +12,6 @@
     "perception": "+8",
     "survival": "+5",
     "name": "Goliath Werebear",
-    "page": 293,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "S",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 10,
     "speed": [
         "30 ft. (40 ft. swim 30 ft. in bear or hybrid form)"
@@ -40,5 +35,10 @@
         "Common",
         "Giant (can\\'t speak in bear form)"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 293,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "S",
+    "size": "Medium",
+    "type": "humanoid"
 }

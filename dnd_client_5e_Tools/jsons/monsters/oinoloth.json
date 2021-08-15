@@ -12,11 +12,6 @@
     "intimidation": "+8",
     "perception": "+7",
     "name": "Oinoloth",
-    "page": 251,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -50,5 +45,10 @@
         "Infernal",
         "telepathy 60 ft."
     ],
-    "CR": "12 (8,400 XP)"
+    "CR": "12 (8,400 XP)",
+    "page": 251,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
 }

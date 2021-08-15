@@ -7,11 +7,6 @@
     "wisdom": "12",
     "charisma": "6",
     "name": "Giant Strider",
-    "page": 143,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 14,
     "speed": [
         "50 ft"
@@ -27,5 +22,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 143,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "monstrosity"
 }

@@ -1,0 +1,23 @@
+{
+    "tags": [],
+    "hit points": "8d12 + 16",
+    "strength": "19 (+4)",
+    "dexterity": "11 (+0)",
+    "constitution": "15 (+2)",
+    "intelligence": "2 (-4)",
+    "wisdom": "12 (+1)",
+    "charisma": "5 (-3)",
+    "name": "Ankylosaurus",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\u2014"
+    ]
+}

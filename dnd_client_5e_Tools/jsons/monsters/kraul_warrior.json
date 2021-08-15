@@ -9,11 +9,6 @@
     "wisdom": "11",
     "charisma": "8",
     "name": "Kraul Warrior",
-    "page": 213,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -29,5 +24,10 @@
         "Kraul",
         "understands Common but can\\'t speak it"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 213,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

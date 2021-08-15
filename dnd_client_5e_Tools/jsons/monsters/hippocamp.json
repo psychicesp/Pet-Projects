@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "6",
     "name": "Hippocamp",
-    "page": 227,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "CG",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 13,
     "speed": [
         "20 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 227,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "CG",
+    "size": "Large",
+    "type": "monstrosity"
 }

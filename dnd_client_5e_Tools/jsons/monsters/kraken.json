@@ -9,11 +9,6 @@
     "wisdom": "18",
     "charisma": "20",
     "name": "Kraken",
-    "page": 197,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Gargantuan",
-    "type": "monstrosity",
     "AC": 18,
     "speed": [
         "20 ft",
@@ -45,5 +40,10 @@
         "Primordial",
         "telepathy 120 ft. but can\\'t speak"
     ],
-    "CR": "23 (50,000 XP)"
+    "CR": "23 (50,000 XP)",
+    "page": 197,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Gargantuan",
+    "type": "monstrosity"
 }

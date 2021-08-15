@@ -11,11 +11,6 @@
     "athletics": "+3",
     "perception": "+2",
     "name": "Koalinth",
-    "page": 239,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -36,5 +31,10 @@
         "Common",
         "Goblin"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 239,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

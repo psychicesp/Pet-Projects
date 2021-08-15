@@ -11,11 +11,6 @@
     "intimidation": "+4",
     "perception": "+3",
     "name": "Razerblast",
-    "page": 201,
-    "book": "Princes of the Apocalypse",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
         "Common",
         "Ignan"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 201,
+    "book": "Princes of the Apocalypse",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

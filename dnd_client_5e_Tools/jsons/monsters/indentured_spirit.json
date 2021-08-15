@@ -8,11 +8,6 @@
     "wisdom": "12",
     "charisma": "11",
     "name": "Indentured Spirit",
-    "page": 206,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "undead",
     "AC": 11,
     "speed": [
         "0 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 206,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "undead"
 }

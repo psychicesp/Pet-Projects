@@ -8,11 +8,6 @@
     "charisma": "5",
     "stealth": "+2",
     "name": "Shambling Mound",
-    "page": 270,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Large",
-    "type": "plant",
     "AC": 15,
     "speed": [
         "20 ft",
@@ -38,5 +33,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 270,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "plant"
 }

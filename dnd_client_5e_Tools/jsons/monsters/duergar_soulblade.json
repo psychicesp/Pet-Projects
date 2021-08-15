@@ -10,11 +10,6 @@
     "wisdom": "10",
     "charisma": "12",
     "name": "Duergar Soulblade",
-    "page": 190,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "25 ft"
@@ -32,5 +27,10 @@
         "Dwarvish",
         "Undercommon"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 190,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

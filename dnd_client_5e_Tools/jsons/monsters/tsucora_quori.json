@@ -9,11 +9,6 @@
     "insight": "+5",
     "perception": "+5",
     "name": "Tsucora Quori",
-    "page": 307,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 16,
     "speed": [
         "40 ft"
@@ -40,5 +35,10 @@
         "Common",
         "Quori"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 307,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "aberration"
 }

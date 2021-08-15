@@ -13,11 +13,6 @@
     "perception": "+0",
     "performance": "+3",
     "name": "Cackler",
-    "page": 195,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CE",
-    "size": "Small",
-    "type": "fiend",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -46,5 +41,10 @@
         "Abyssal",
         "Common"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 195,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "fiend"
 }

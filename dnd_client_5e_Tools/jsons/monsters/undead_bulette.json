@@ -8,11 +8,6 @@
     "charisma": "5",
     "perception": "+6",
     "name": "Undead Bulette",
-    "page": 90,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "U",
-    "size": "Large",
-    "type": "undead",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -39,5 +34,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 90,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "U",
+    "size": "Large",
+    "type": "undead"
 }

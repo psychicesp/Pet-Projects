@@ -10,11 +10,6 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Commoner",
-    "page": 345,
-    "book": "Monster Manual",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -27,5 +22,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 345,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

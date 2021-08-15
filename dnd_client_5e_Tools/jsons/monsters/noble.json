@@ -13,11 +13,6 @@
     "insight": "+4",
     "persuasion": "+5",
     "name": "Noble",
-    "page": 348,
-    "book": "Monster Manual",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "any two languages"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 348,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

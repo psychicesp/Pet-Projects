@@ -7,11 +7,6 @@
     "wisdom": "5",
     "charisma": "5",
     "name": "Frost Worm",
-    "page": 289,
-    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
-    "alignment": "U",
-    "size": "Gargantuan",
-    "type": "monstrosity",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "17 (18,000 XP)"
+    "CR": "17 (18,000 XP)",
+    "page": 289,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "monstrosity"
 }

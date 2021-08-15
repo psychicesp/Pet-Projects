@@ -11,11 +11,6 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Mind Drinker Vampire",
-    "page": 224,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -42,5 +37,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 224,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "undead"
 }

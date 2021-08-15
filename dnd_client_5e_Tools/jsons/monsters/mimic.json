@@ -10,11 +10,6 @@
     "charisma": "8",
     "stealth": "+5",
     "name": "Mimic",
-    "page": 220,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 12,
     "speed": [
         "15 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 220,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "monstrosity"
 }

@@ -9,11 +9,6 @@
     "wisdom": "12",
     "charisma": "14",
     "name": "Duergar Warlord",
-    "page": 192,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 20,
     "speed": [
         "25 ft"
@@ -31,5 +26,10 @@
         "Dwarvish",
         "Undercommon"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 192,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

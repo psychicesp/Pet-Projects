@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "10",
+    "constitution": "15",
+    "intelligence": "3",
+    "wisdom": "5",
+    "charisma": "5",
+    "name": "Zombie Plague Spreader",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 7"
+    ],
+    "languages": [
+        "understands the languages it knew in life but can\\'t speak"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 255,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

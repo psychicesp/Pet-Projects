@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "8",
+    "wisdom": "14",
+    "charisma": "14",
+    "name": "Carrionette",
+    "AC": 15,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands the languages of its creator"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 231,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

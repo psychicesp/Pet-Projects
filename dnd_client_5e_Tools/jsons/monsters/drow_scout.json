@@ -13,11 +13,6 @@
     "stealth": "+6",
     "survival": "+5",
     "name": "Drow Scout",
-    "page": 191,
-    "book": "Out of the Abyss",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "any one language (usually Common)",
         "Elvish"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 191,
+    "book": "Out of the Abyss",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

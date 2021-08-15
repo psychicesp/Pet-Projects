@@ -9,11 +9,6 @@
     "wisdom": "7",
     "charisma": "8",
     "name": "Kobold",
-    "page": 195,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Small",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -28,5 +23,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 195,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "humanoid"
 }

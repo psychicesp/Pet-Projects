@@ -11,11 +11,6 @@
     "athletics": "+3",
     "perception": "+2",
     "name": "Merfolk Salvager",
-    "page": 244,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "10 ft",
@@ -35,5 +30,10 @@
         "Aquan",
         "Common"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 244,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
 }

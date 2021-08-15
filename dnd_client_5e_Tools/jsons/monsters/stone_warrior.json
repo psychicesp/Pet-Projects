@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "1",
     "name": "Stone Warrior",
-    "page": 97,
-    "book": "Princes of the Apocalypse",
-    "alignment": "U",
-    "size": "Large",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -32,5 +27,10 @@
     "languages": [
         "understands the languages of its creator but can\\'t speak"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 97,
+    "book": "Princes of the Apocalypse",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
 }

@@ -9,11 +9,6 @@
     "wisdom": "7",
     "charisma": "2",
     "name": "Swarm of Quippers",
-    "page": 338,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "swarm",
     "AC": 13,
     "speed": [
         "0 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 338,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "swarm"
 }

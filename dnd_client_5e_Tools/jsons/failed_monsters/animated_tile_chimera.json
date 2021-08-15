@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "hit points": "12d10 + 48",
+    "strength": "19 (+4)",
+    "dexterity": "11 (+0)",
+    "constitution": "19 (+4)",
+    "intelligence": "3 (-4)",
+    "wisdom": "14 (+2)",
+    "charisma": "10 (+0)",
+    "perception": "+8",
+    "name": "Animated Tile Chimera",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "resistances": [
+        "piercing"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "understands Draconic but can't speak"
+    ]
+}

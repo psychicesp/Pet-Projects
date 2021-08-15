@@ -12,11 +12,6 @@
     "perception": "+3",
     "persuasion": "+6",
     "name": "Neogi Master",
-    "page": 180,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -42,5 +37,10 @@
         "Undercommon",
         "telepathy 30 ft."
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 180,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "aberration"
 }

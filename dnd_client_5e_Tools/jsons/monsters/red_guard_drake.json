@@ -8,11 +8,6 @@
     "charisma": "7",
     "perception": "+2",
     "name": "Red Guard Drake",
-    "page": 158,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "dragon",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -32,5 +27,10 @@
     "languages": [
         "understands Draconic but can\\'t speak it"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 158,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "dragon"
 }

@@ -11,11 +11,6 @@
     "athletics": "+6",
     "perception": "+3",
     "name": "Half-Red Dragon Veteran",
-    "page": 180,
-    "book": "Monster Manual",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 180,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

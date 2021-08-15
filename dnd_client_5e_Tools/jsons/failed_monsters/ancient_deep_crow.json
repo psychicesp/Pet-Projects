@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "hit points": "15d12 + 90",
+    "strength": "23 (+6)",
+    "dexterity": "16 (+3)",
+    "constitution": "23 (+6)",
+    "intelligence": "10 (+0)",
+    "wisdom": "15 (+2)",
+    "charisma": "19 (+4)",
+    "constitution save": "+11",
+    "wisdom save": "+7",
+    "perception": "+7",
+    "stealth": "+13",
+    "name": "Ancient Deep Crow",
+    "AC": 18,
+    "speed": [
+        "20 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "Deep Crow"
+    ]
+}

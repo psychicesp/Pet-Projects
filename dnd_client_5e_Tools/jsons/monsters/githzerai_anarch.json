@@ -12,11 +12,6 @@
     "insight": "+10",
     "perception": "+10",
     "name": "Githzerai Anarch",
-    "page": 207,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 20,
     "speed": [
         "30 ft",
@@ -39,5 +34,10 @@
     "languages": [
         "Gith"
     ],
-    "CR": "16 (15,000 XP)"
+    "CR": "16 (15,000 XP)",
+    "page": 207,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid"
 }

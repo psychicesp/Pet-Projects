@@ -7,11 +7,6 @@
     "wisdom": "21",
     "charisma": "18",
     "name": "Phoenix",
-    "page": 199,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "N",
-    "size": "Gargantuan",
-    "type": "elemental",
     "AC": 18,
     "speed": [
         "20 ft",
@@ -38,5 +33,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "16 (15,000 XP)"
+    "CR": "16 (15,000 XP)",
+    "page": 199,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "N",
+    "size": "Gargantuan",
+    "type": "elemental"
 }

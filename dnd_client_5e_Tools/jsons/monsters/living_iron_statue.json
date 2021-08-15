@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Living Iron Statue",
-    "page": 241,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 16,
     "speed": [
         "20 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "understands the languages of its creator but can't speak"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 241,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

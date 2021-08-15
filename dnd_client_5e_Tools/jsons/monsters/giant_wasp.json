@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Giant Wasp",
-    "page": 329,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "10 ft",
@@ -26,5 +21,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 329,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
 }

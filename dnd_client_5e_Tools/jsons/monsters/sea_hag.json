@@ -7,11 +7,6 @@
     "wisdom": "12",
     "charisma": "13",
     "name": "Sea Hag",
-    "page": 179,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "fey",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -28,5 +23,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "2 (450 XP) or 4 (1,100 XP) when part of a cove"
+    "CR": "2 (450 XP) or 4 (1,100 XP) when part of a cove",
+    "page": 179,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fey"
 }

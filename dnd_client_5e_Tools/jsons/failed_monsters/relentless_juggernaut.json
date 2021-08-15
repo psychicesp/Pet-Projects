@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "22",
+    "dexterity": "12",
+    "constitution": "22",
+    "intelligence": "8",
+    "wisdom": "15",
+    "charisma": "16",
+    "perception": "+6",
+    "survival": "+6",
+    "name": "Relentless Juggernaut",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "understands all languages but can\\'t speak"
+    ],
+    "CR": "12 (8,400 XP)",
+    "page": 243,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

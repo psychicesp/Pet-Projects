@@ -12,11 +12,6 @@
     "religion": "+2",
     "stealth": "+2",
     "name": "Crushing Wave Priest",
-    "page": 205,
-    "book": "Princes of the Apocalypse",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
         "Aquan",
         "Common"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 205,
+    "book": "Princes of the Apocalypse",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

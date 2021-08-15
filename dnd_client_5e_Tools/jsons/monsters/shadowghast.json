@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+8",
     "name": "Shadowghast",
-    "page": 299,
-    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 15,
     "speed": [
         "35 ft"
@@ -39,5 +34,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 299,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
 }

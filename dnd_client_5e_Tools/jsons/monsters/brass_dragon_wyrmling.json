@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+2",
     "name": "Brass Dragon Wyrmling",
-    "page": 106,
-    "book": "Monster Manual",
-    "alignment": "CG",
-    "size": "Medium",
-    "type": "dragon",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -41,5 +36,10 @@
     "languages": [
         "Draconic"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 106,
+    "book": "Monster Manual",
+    "alignment": "CG",
+    "size": "Medium",
+    "type": "dragon"
 }

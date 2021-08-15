@@ -12,11 +12,6 @@
     "medicine": "+4",
     "survival": "+4",
     "name": "Orc Claw of Luthic",
-    "page": 183,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
         "Common",
         "Orc"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 183,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

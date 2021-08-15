@@ -11,11 +11,6 @@
     "athletics": "+6",
     "survival": "+2",
     "name": "Lava Child",
-    "page": 313,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 11,
     "speed": [
         "25 ft",
@@ -38,5 +33,10 @@
         "Common",
         "Ignan"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 313,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "hit": "5d8",
+    "strength": "8",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "18",
+    "wisdom": "15",
+    "charisma": "11",
+    "arcana": "+8",
+    "history": "+8",
+    "insight": "+4",
+    "investigation": "+8",
+    "medicine": "+6",
+    "nature": "+8",
+    "religion": "+8",
+    "name": "Sage",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "expert",
+        "history": "expert",
+        "insight": "proficient",
+        "investigation": "expert",
+        "medicine": "expert",
+        "nature": "expert",
+        "religion": "expert"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common plus any four languages"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 9,
+    "book": "Candlekeep Mysteries"
+}

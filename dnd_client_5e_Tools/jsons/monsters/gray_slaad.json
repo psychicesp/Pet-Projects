@@ -11,11 +11,6 @@
     "arcana": "+5",
     "perception": "+7",
     "name": "Gray Slaad",
-    "page": 277,
-    "book": "Monster Manual",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "Slaad",
         "telepathy 60 ft."
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 277,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "aberration"
 }

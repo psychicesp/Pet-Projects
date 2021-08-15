@@ -9,11 +9,6 @@
     "athletics": "+9",
     "perception": "+2",
     "name": "Bloodfray Giant",
-    "page": 200,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "giant",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "Giant"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 200,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "giant"
 }

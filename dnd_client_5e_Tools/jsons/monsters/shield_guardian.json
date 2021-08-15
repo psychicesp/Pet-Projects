@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Shield Guardian",
-    "page": 271,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Large",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -32,5 +27,10 @@
     "languages": [
         "understands commands given in any language but can\\'t speak"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 271,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
 }

@@ -12,11 +12,6 @@
     "insight": "+4",
     "perception": "+6",
     "name": "Wereraven",
-    "page": 242,
-    "book": "Curse of Strahd",
-    "alignment": "S",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft. (fly 50 ft. in raven and hybrid forms)"
@@ -32,5 +27,10 @@
     "languages": [
         "Common (can\\'t speak in raven form)"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 242,
+    "book": "Curse of Strahd",
+    "alignment": "S",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "11",
     "name": "Specter",
-    "page": 279,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -37,5 +32,10 @@
     "languages": [
         "understands all languages it knew in life but can\\'t speak"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 279,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
 }

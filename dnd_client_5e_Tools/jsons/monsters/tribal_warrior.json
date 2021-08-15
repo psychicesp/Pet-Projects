@@ -9,11 +9,6 @@
     "wisdom": "11",
     "charisma": "8",
     "name": "Tribal Warrior",
-    "page": 350,
-    "book": "Monster Manual",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -26,5 +21,10 @@
     "languages": [
         "any one language"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 350,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

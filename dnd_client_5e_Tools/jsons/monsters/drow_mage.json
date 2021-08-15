@@ -14,11 +14,6 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Drow Mage",
-    "page": 129,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -38,5 +33,10 @@
         "Elvish",
         "Undercommon"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 129,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -11,11 +11,6 @@
     "perception": "+5",
     "stealth": "+5",
     "name": "Sahuagin Deep Diver",
-    "page": 250,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "Sahuagin"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 250,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

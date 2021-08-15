@@ -9,11 +9,6 @@
     "wisdom": "12",
     "charisma": "13",
     "name": "Hezrou",
-    "page": 60,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -42,5 +37,10 @@
         "Abyssal",
         "telepathy 120 ft."
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 60,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
 }

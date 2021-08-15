@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "16",
+    "intelligence": "18",
+    "wisdom": "17",
+    "charisma": "11",
+    "name": "Priest of Osybus",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "condition_immunities": [
+        "frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "any three languages"
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 241,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

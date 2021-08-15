@@ -11,11 +11,6 @@
     "arcana": "+8",
     "history": "+8",
     "name": "Storm Giant Quintessent",
-    "page": 151,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CG",
-    "size": "Huge",
-    "type": "giant",
     "AC": 12,
     "speed": [
         "50 ft",
@@ -47,5 +42,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "16 (15,000 XP)"
+    "CR": "16 (15,000 XP)",
+    "page": 151,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CG",
+    "size": "Huge",
+    "type": "giant"
 }

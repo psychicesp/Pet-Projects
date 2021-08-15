@@ -1,0 +1,27 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "9",
+    "constitution": "17",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "7",
+    "stealth": "+3",
+    "name": "Giant Subterranean Lizard",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "expert"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "4 (1,100 XP)"
+}

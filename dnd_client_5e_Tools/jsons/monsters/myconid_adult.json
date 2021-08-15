@@ -7,11 +7,6 @@
     "wisdom": "13",
     "charisma": "7",
     "name": "Myconid Adult",
-    "page": 232,
-    "book": "Monster Manual",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "plant",
     "AC": 12,
     "speed": [
         "20 ft"
@@ -25,5 +20,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 232,
+    "book": "Monster Manual",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "plant"
 }

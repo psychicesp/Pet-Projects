@@ -11,11 +11,6 @@
     "arcana": "+2",
     "medicine": "+1",
     "name": "Kobold Scale Sorcerer",
-    "page": 167,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "LE",
-    "size": "Small",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 167,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "humanoid"
 }

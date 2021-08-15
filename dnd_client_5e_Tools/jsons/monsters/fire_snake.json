@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "8",
     "name": "Fire Snake",
-    "page": 265,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "elemental",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -32,5 +27,10 @@
     "languages": [
         "understands Ignan but can\\'t speak"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 265,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "elemental"
 }

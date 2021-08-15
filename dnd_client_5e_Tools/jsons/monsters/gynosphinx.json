@@ -11,11 +11,6 @@
     "perception": "+8",
     "religion": "+8",
     "name": "Gynosphinx",
-    "page": 282,
-    "book": "Monster Manual",
-    "alignment": "LN",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -45,5 +40,10 @@
         "Common",
         "Sphinx"
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 282,
+    "book": "Monster Manual",
+    "alignment": "LN",
+    "size": "Large",
+    "type": "monstrosity"
 }

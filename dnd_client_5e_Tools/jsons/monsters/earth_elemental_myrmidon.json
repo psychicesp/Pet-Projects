@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Earth Elemental Myrmidon",
-    "page": 202,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "elemental",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
         "Terran",
         "one language of its creator\\'s choice"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 202,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "elemental"
 }

@@ -9,11 +9,6 @@
     "wisdom": "11",
     "charisma": "9",
     "name": "Berserker",
-    "page": 344,
-    "book": "Monster Manual",
-    "alignment": "ACA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -26,5 +21,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 344,
+    "book": "Monster Manual",
+    "alignment": "ACA",
+    "size": "Medium",
+    "type": "humanoid"
 }

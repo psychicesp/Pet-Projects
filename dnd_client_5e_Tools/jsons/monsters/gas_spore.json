@@ -7,11 +7,6 @@
     "wisdom": "1",
     "charisma": "1",
     "name": "Gas Spore",
-    "page": 138,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Large",
-    "type": "plant",
     "AC": 5,
     "speed": [
         "0 ft",
@@ -32,5 +27,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 138,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "plant"
 }

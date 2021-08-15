@@ -16,11 +16,6 @@
     "persuasion": "+5",
     "stealth": "+4",
     "name": "Lords\\' Alliance Spy",
-    "page": 131,
-    "book": "Out of the Abyss",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -42,5 +37,10 @@
         "Common",
         "Dwarvish"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 131,
+    "book": "Out of the Abyss",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
 }

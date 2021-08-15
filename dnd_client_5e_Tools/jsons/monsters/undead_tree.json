@@ -7,11 +7,6 @@
     "wisdom": "16",
     "charisma": "12",
     "name": "Undead Tree",
-    "page": 109,
-    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
-    "alignment": "CG",
-    "size": "Huge",
-    "type": "undead",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -30,5 +25,10 @@
         "Elvish",
         "Sylvan"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 109,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "CG",
+    "size": "Huge",
+    "type": "undead"
 }

@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Galvan Magen",
-    "page": 301,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -31,5 +26,10 @@
     "languages": [
         "understands the languages of its creator but can\\'t speak"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 301,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

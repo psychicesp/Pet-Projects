@@ -11,11 +11,6 @@
     "athletics": "+6",
     "intimidation": "+4",
     "name": "Sahuagin Blademaster",
-    "page": 249,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 20,
     "speed": [
         "30 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "Sahuagin"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 249,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

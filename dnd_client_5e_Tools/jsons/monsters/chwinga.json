@@ -11,11 +11,6 @@
     "perception": "+7",
     "stealth": "+7",
     "name": "Chwinga",
-    "page": 216,
-    "book": "Tomb of Annihilation",
-    "alignment": "N",
-    "size": "Tiny",
-    "type": "elemental",
     "AC": 15,
     "speed": [
         "20 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 216,
+    "book": "Tomb of Annihilation",
+    "alignment": "N",
+    "size": "Tiny",
+    "type": "elemental"
 }

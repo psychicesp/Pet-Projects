@@ -8,11 +8,6 @@
     "charisma": "8",
     "stealth": "+4",
     "name": "Shadow",
-    "page": 269,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -38,5 +33,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 269,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
 }

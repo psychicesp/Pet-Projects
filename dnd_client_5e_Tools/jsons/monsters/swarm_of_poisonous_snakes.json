@@ -10,11 +10,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Swarm of Poisonous Snakes",
-    "page": 338,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "swarm",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 338,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "swarm"
 }

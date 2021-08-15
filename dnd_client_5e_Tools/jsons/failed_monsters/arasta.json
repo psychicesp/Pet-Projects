@@ -1,0 +1,57 @@
+{
+    "tags": [],
+    "hit points": "24d12 + 144",
+    "strength": "24 (+7)",
+    "dexterity": "16 (+3)",
+    "constitution": "23 (+6)",
+    "intelligence": "15 (+2)",
+    "wisdom": "22 (+6)",
+    "charisma": "17 (+3)",
+    "dexterity save": "+10",
+    "constitution save": "+13",
+    "wisdom save": "+13",
+    "arcana": "+9",
+    "deception": "+10",
+    "intimidation": "+10",
+    "nature": "+9",
+    "perception": "+13",
+    "stealth": "+10",
+    "name": "Arasta",
+    "AC": 19,
+    "speed": [
+        "40 ft",
+        "climb 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "intimidation": "proficient",
+        "nature": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "acid, poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 23"
+    ],
+    "languages": [
+        "Celestial",
+        "Common",
+        "Sylvan"
+    ]
+}

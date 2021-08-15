@@ -8,11 +8,6 @@
     "charisma": "10",
     "perception": "+6",
     "name": "Gold-Forged Sentinel",
-    "page": 211,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "U",
-    "size": "Large",
-    "type": "construct",
     "AC": 16,
     "speed": [
         "40 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "understands one language of its creator but can\\'t speak"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 211,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
 }

@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "11",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Podling",
+    "AC": 10,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Deep Speech",
+        "the languages the creature knew in life"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 227,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

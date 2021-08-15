@@ -9,11 +9,6 @@
     "wisdom": "10",
     "charisma": "9",
     "name": "Duergar Stone Guard",
-    "page": 191,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "25 ft"
@@ -31,5 +26,10 @@
         "Dwarvish",
         "Undercommon"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 191,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

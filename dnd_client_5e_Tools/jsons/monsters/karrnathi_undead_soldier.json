@@ -9,11 +9,6 @@
     "athletics": "+5",
     "perception": "+3",
     "name": "Karrnathi Undead Soldier",
-    "page": 295,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 295,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
 }

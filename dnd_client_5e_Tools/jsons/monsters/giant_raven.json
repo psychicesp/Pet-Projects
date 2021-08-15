@@ -8,11 +8,6 @@
     "charisma": "7",
     "perception": "+3",
     "name": "Giant Raven",
-    "page": 66,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "beast",
     "AC": 10,
     "speed": [
         "10 ft",
@@ -28,5 +23,10 @@
     "languages": [
         "understands Common but can\\'t speak"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 66,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "beast"
 }

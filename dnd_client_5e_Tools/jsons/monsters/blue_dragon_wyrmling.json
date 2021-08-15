@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+2",
     "name": "Blue Dragon Wyrmling",
-    "page": 91,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "dragon",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -41,5 +36,10 @@
     "languages": [
         "Draconic"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 91,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "dragon"
 }

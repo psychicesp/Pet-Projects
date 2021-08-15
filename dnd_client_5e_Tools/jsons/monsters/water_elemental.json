@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "8",
     "name": "Water Elemental",
-    "page": 125,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Large",
-    "type": "elemental",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "Aquan"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 125,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Large",
+    "type": "elemental"
 }

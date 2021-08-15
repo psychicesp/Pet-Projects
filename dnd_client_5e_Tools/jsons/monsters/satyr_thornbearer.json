@@ -10,11 +10,6 @@
     "performance": "+6",
     "stealth": "+6",
     "name": "Satyr Thornbearer",
-    "page": 243,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "fey",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -32,5 +27,10 @@
         "Common",
         "Sylvan"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 243,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "fey"
 }

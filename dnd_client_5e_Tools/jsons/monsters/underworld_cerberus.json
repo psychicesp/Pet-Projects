@@ -10,11 +10,6 @@
     "perception": "+9",
     "stealth": "+4",
     "name": "Underworld Cerberus",
-    "page": 215,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 16,
     "speed": [
         "60 ft"
@@ -38,5 +33,10 @@
     "languages": [
         "understands all languages but can\\'t speak"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 215,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "monstrosity"
 }

@@ -10,11 +10,6 @@
     "perception": "+4",
     "stealth": "+4",
     "name": "Wood Woad",
-    "page": 198,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "plant",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -39,5 +34,10 @@
     "languages": [
         "Sylvan"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 198,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "plant"
 }

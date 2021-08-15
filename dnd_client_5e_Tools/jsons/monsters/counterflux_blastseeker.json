@@ -11,11 +11,6 @@
     "arcana": "+6",
     "perception": "+2",
     "name": "Counterflux Blastseeker",
-    "page": 242,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Common plus any one language"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 242,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid"
 }

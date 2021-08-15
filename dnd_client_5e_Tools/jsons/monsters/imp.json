@@ -13,11 +13,6 @@
     "persuasion": "+4",
     "stealth": "+5",
     "name": "Imp",
-    "page": 76,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Tiny",
-    "type": "fiend",
     "AC": 13,
     "speed": [
         "20 ft",
@@ -48,5 +43,10 @@
         "Infernal",
         "Common"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 76,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Tiny",
+    "type": "fiend"
 }

@@ -10,11 +10,6 @@
     "persuasion": "+4",
     "religion": "+5",
     "name": "Oracle",
-    "page": 238,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
         "Celestial",
         "Common"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 238,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

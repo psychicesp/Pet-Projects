@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+4",
     "name": "Vegepygmy Chief",
-    "page": 197,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "N",
-    "size": "Small",
-    "type": "plant",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "Vegepygmy"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 197,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "N",
+    "size": "Small",
+    "type": "plant"
 }

@@ -13,11 +13,6 @@
     "perception": "+11",
     "stealth": "+19",
     "name": "Lazav",
-    "page": 232,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -51,5 +46,10 @@
         "Common",
         "Thieves\\' cant"
     ],
-    "CR": "17 (18,000 XP)"
+    "CR": "17 (18,000 XP)",
+    "page": 232,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "monstrosity"
 }

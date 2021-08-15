@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Homunculus",
-    "page": 188,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Tiny",
-    "type": "construct",
     "AC": 13,
     "speed": [
         "20 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "understands the languages of its creator but can't speak"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 188,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Tiny",
+    "type": "construct"
 }

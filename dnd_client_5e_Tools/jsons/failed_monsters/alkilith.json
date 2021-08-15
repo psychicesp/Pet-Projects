@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "hit points": "15d8 + 90",
+    "strength": "12 (+1)",
+    "dexterity": "19 (+4)",
+    "constitution": "22 (+6)",
+    "intelligence": "6 (-2)",
+    "wisdom": "11 (+0)",
+    "charisma": "7 (-2)",
+    "dexterity save": "+8",
+    "constitution save": "+10",
+    "stealth": "+8",
+    "name": "Alkilith",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "acid, cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Abyssal but can't speak"
+    ]
+}

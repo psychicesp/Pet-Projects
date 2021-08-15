@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Yellow Musk Creeper",
-    "page": 237,
-    "book": "Tomb of Annihilation",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "plant",
     "AC": 6,
     "speed": [
         "5 ft",
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 237,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "plant"
 }

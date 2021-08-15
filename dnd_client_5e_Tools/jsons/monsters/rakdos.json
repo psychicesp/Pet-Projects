@@ -12,11 +12,6 @@
     "performance": "+17",
     "persuasion": "+17",
     "name": "Rakdos",
-    "page": 247,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "fiend",
     "AC": 20,
     "speed": [
         "40 ft",
@@ -51,5 +46,10 @@
         "Abyssal",
         "Common"
     ],
-    "CR": "24 (62,000 XP)"
+    "CR": "24 (62,000 XP)",
+    "page": 247,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend"
 }

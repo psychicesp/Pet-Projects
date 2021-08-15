@@ -10,11 +10,6 @@
     "charisma": "7",
     "athletics": "+5",
     "name": "Quaggoth",
-    "page": 256,
-    "book": "Monster Manual",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -37,5 +32,10 @@
     "languages": [
         "Undercommon"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 256,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid"
 }

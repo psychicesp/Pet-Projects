@@ -8,11 +8,6 @@
     "charisma": "11",
     "perception": "+2",
     "name": "Quadrone",
-    "page": 226,
-    "book": "Monster Manual",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "construct",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -29,5 +24,10 @@
     "languages": [
         "Modron"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 226,
+    "book": "Monster Manual",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "construct"
 }

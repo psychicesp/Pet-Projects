@@ -7,11 +7,6 @@
     "wisdom": "7",
     "charisma": "5",
     "name": "Girallon Zombie",
-    "page": 240,
-    "book": "Tomb of Annihilation",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "undead",
     "AC": 11,
     "speed": [
         "30 ft",
@@ -32,5 +27,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 240,
+    "book": "Tomb of Annihilation",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "undead"
 }

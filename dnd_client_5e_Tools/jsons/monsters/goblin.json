@@ -11,11 +11,6 @@
     "charisma": "8",
     "stealth": "+6",
     "name": "Goblin",
-    "page": 166,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Small",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -32,5 +27,10 @@
         "Common",
         "Goblin"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 166,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "humanoid"
 }

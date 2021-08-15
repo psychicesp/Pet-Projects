@@ -8,11 +8,6 @@
     "charisma": "8",
     "perception": "+2",
     "name": "Skyjek Roc",
-    "page": 219,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "U",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 15,
     "speed": [
         "20 ft",
@@ -31,5 +26,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 219,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
 }

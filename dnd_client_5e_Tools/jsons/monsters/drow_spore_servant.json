@@ -8,11 +8,6 @@
     "wisdom": "6",
     "charisma": "1",
     "name": "Drow Spore Servant",
-    "page": 229,
-    "book": "Out of the Abyss",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "plant",
     "AC": 15,
     "speed": [
         "20 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 229,
+    "book": "Out of the Abyss",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "plant"
 }

@@ -9,11 +9,6 @@
     "wisdom": "10",
     "charisma": "9",
     "name": "Dhergoloth",
-    "page": 248,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -42,5 +37,10 @@
         "Infernal",
         "telepathy 60 ft."
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 248,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
 }

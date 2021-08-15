@@ -10,11 +10,6 @@
     "perception": "+7",
     "stealth": "+8",
     "name": "Nightveil Specter",
-    "page": 215,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -45,5 +40,10 @@
     "languages": [
         "understands Common but can\\'t speak"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 215,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "undead"
 }

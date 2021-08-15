@@ -10,11 +10,6 @@
     "perception": "+4",
     "stealth": "+6",
     "name": "Dolgaunt",
-    "page": 290,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 16,
     "speed": [
         "40 ft"
@@ -36,5 +31,10 @@
         "Deep Speech",
         "Goblin"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 290,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "aberration"
 }

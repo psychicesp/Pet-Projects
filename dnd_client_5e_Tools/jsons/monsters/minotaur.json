@@ -8,11 +8,6 @@
     "charisma": "9",
     "perception": "+7",
     "name": "Minotaur",
-    "page": 223,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -28,5 +23,10 @@
     "languages": [
         "Abyssal"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 223,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity"
 }

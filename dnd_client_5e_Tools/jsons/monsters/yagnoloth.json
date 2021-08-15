@@ -13,11 +13,6 @@
     "perception": "+6",
     "persuasion": "+8",
     "name": "Yagnoloth",
-    "page": 252,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -54,5 +49,10 @@
         "Infernal",
         "telepathy 60 ft."
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 252,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "fiend"
 }

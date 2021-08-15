@@ -9,11 +9,6 @@
     "investigation": "+3",
     "perception": "+6",
     "name": "Battleforce Angel",
-    "page": 189,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "LG",
-    "size": "Medium",
-    "type": "celestial",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -41,5 +36,10 @@
     "languages": [
         "all"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 189,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "celestial"
 }

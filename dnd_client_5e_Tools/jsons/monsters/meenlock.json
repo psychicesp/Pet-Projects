@@ -10,11 +10,6 @@
     "stealth": "+6",
     "survival": "+2",
     "name": "Meenlock",
-    "page": 170,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "NE",
-    "size": "Small",
-    "type": "fey",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
     "languages": [
         "telepathy 120 ft."
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 170,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "fey"
 }

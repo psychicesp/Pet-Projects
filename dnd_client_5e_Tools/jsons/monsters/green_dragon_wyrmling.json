@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+3",
     "name": "Green Dragon Wyrmling",
-    "page": 95,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "dragon",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -44,5 +39,10 @@
     "languages": [
         "Draconic"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 95,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "dragon"
 }

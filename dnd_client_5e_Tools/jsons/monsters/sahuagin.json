@@ -10,11 +10,6 @@
     "charisma": "9",
     "perception": "+5",
     "name": "Sahuagin",
-    "page": 263,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -31,5 +26,10 @@
     "languages": [
         "Sahuagin"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 263,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

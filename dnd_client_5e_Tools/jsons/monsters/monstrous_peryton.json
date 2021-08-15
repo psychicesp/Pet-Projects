@@ -8,11 +8,6 @@
     "charisma": "10",
     "perception": "+6",
     "name": "Monstrous Peryton",
-    "page": 245,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 14,
     "speed": [
         "20 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "understands Common and Elvish but can\\'t speak"
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 245,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity"
 }

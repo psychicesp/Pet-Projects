@@ -9,11 +9,6 @@
     "wisdom": "12",
     "charisma": "13",
     "name": "White Abishai",
-    "page": 163,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -42,5 +37,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 163,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

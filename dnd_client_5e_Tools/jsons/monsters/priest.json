@@ -12,11 +12,6 @@
     "persuasion": "+3",
     "religion": "+5",
     "name": "Priest",
-    "page": 348,
-    "book": "Monster Manual",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "any two languages"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 348,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

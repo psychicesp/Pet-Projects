@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Poisonous Snake",
-    "page": 334,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Tiny",
-    "type": "beast",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -27,5 +22,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 334,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast"
 }

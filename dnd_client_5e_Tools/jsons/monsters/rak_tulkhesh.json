@@ -10,11 +10,6 @@
     "intimidation": "+16",
     "perception": "+14",
     "name": "Rak Tulkhesh",
-    "page": 303,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "NE",
-    "size": "Huge",
-    "type": "fiend",
     "AC": 23,
     "speed": [
         "40 ft",
@@ -50,5 +45,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "28 (120,000 XP)"
+    "CR": "28 (120,000 XP)",
+    "page": 303,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "NE",
+    "size": "Huge",
+    "type": "fiend"
 }

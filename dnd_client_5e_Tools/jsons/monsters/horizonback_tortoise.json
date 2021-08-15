@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Horizonback Tortoise",
-    "page": 292,
-    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
-    "alignment": "U",
-    "size": "Gargantuan",
-    "type": "monstrosity",
     "AC": 17,
     "speed": [
         "20 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "understands Goblin but can't speak"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 292,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "monstrosity"
 }

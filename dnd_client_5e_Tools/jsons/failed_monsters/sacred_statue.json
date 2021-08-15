@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "8",
+    "constitution": "19",
+    "intelligence": "14",
+    "wisdom": "19",
+    "charisma": "16",
+    "name": "Sacred Statue",
+    "AC": 19,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "cold, necrotic, poison"
+    ],
+    "resistances": [
+        "acid, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "the languages the eidolon knew in life"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "13",
+    "wisdom": "15",
+    "charisma": "11",
+    "name": "Wildfire Spirit",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "fly 30 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, grappled, prone, restrained"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands the languages you speak"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "8",
+    "constitution": "16",
+    "intelligence": "5",
+    "wisdom": "7",
+    "charisma": "7",
+    "name": "Ogre Skeleton",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Common",
+        "Giant",
+        "understands all languages it spoke in life but can\\'t speak"
+    ],
+    "CR": "2 (450 XP)"
+}

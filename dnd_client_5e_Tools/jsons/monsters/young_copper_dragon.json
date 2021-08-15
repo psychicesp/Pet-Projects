@@ -10,11 +10,6 @@
     "perception": "+7",
     "stealth": "+4",
     "name": "Young Copper Dragon",
-    "page": 112,
-    "book": "Monster Manual",
-    "alignment": "CG",
-    "size": "Large",
-    "type": "dragon",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -44,5 +39,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 112,
+    "book": "Monster Manual",
+    "alignment": "CG",
+    "size": "Large",
+    "type": "dragon"
 }

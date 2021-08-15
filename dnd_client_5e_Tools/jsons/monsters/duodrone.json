@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Duodrone",
-    "page": 225,
-    "book": "Monster Manual",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "construct",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -25,5 +20,10 @@
     "languages": [
         "Modron"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 225,
+    "book": "Monster Manual",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "construct"
 }

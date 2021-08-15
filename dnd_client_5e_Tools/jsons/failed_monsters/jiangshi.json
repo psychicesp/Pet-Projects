@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "3",
+    "constitution": "18",
+    "intelligence": "17",
+    "wisdom": "14",
+    "charisma": "12",
+    "name": "Jiangshi",
+    "AC": 16,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "any languages it knew in life"
+    ],
+    "CR": "9 (5,000 XP)",
+    "page": 236,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

@@ -8,11 +8,6 @@
     "charisma": "4",
     "stealth": "+2",
     "name": "Trapper",
-    "page": 194,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "U",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 13,
     "speed": [
         "10 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 194,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
 }

@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+7",
     "name": "Crag Cat",
-    "page": 240,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "U",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 13,
     "speed": [
         "40 ft",
@@ -31,5 +26,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 240,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
 }

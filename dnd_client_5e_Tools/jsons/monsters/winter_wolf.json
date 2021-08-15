@@ -9,11 +9,6 @@
     "perception": "+5",
     "stealth": "+3",
     "name": "Winter Wolf",
-    "page": 340,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 13,
     "speed": [
         "50 ft"
@@ -34,5 +29,10 @@
         "Giant",
         "Winter Wolf"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 340,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "monstrosity"
 }

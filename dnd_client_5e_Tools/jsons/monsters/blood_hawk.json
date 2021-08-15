@@ -9,11 +9,6 @@
     "charisma": "5",
     "perception": "+4",
     "name": "Blood Hawk",
-    "page": 319,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Small",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "10 ft",
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 319,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Small",
+    "type": "beast"
 }

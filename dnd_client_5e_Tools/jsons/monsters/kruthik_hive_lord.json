@@ -7,11 +7,6 @@
     "wisdom": "14",
     "charisma": "10",
     "name": "Kruthik Hive Lord",
-    "page": 212,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "U",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 20,
     "speed": [
         "40 ft",
@@ -28,5 +23,10 @@
     "languages": [
         "Kruthik"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 212,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
 }

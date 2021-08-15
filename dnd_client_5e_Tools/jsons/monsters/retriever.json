@@ -9,11 +9,6 @@
     "perception": "+5",
     "stealth": "+8",
     "name": "Retriever",
-    "page": 222,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "construct",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -45,5 +40,10 @@
         "Elvish",
         "and Undercommon but can\\'t speak"
     ],
-    "CR": "14 (11,500 XP)"
+    "CR": "14 (11,500 XP)",
+    "page": 222,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "construct"
 }

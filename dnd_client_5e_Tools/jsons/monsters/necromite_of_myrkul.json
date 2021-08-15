@@ -11,11 +11,6 @@
     "arcana": "+5",
     "religion": "+5",
     "name": "Necromite of Myrkul",
-    "page": 234,
-    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
         "Common",
         "Infernal"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 234,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

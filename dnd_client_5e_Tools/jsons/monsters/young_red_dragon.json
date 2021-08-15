@@ -9,11 +9,6 @@
     "perception": "+8",
     "stealth": "+4",
     "name": "Young Red Dragon",
-    "page": 98,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "dragon",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -42,5 +37,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 98,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "dragon"
 }

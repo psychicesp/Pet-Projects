@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "18",
+    "constitution": "24",
+    "intelligence": "25",
+    "wisdom": "20",
+    "charisma": "23",
+    "arcana": "+19",
+    "deception": "+18",
+    "perception": "+11",
+    "name": "Lesser Star Spawn Emissary",
+    "AC": 19,
+    "speed": [
+        "40 ft",
+        "fly 40 ft. (hover)"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "expert",
+        "deception": "expert",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "acid, force, necrotic, psychic"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 21"
+    ],
+    "languages": [
+        "all",
+        "telepathy 1",
+        "000 ft."
+    ],
+    "CR": "19 (22,000 XP)",
+    "page": 245,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

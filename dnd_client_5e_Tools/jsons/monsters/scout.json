@@ -13,11 +13,6 @@
     "stealth": "+6",
     "survival": "+5",
     "name": "Scout",
-    "page": 349,
-    "book": "Monster Manual",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 349,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

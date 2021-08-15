@@ -9,11 +9,6 @@
     "charisma": "6",
     "perception": "+3",
     "name": "Wild Dog",
-    "page": 96,
-    "book": "Tomb of Annihilation",
-    "alignment": "U",
-    "size": "Small",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -28,5 +23,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 96,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Small",
+    "type": "beast"
 }

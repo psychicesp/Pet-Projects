@@ -11,11 +11,6 @@
     "intimidation": "+7",
     "perception": "+5",
     "name": "Black Gauntlet of Bane",
-    "page": 235,
-    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 235,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

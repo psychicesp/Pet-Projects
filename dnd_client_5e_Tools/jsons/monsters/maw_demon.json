@@ -9,11 +9,6 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Maw Demon",
-    "page": 137,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "understands Abyssal but can\\'t speak"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 137,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend"
 }

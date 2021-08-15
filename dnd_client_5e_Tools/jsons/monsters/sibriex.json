@@ -12,11 +12,6 @@
     "history": "+13",
     "perception": "+13",
     "name": "Sibriex",
-    "page": 137,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "fiend",
     "AC": 19,
     "speed": [
         "0 ft",
@@ -49,5 +44,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "18 (20,000 XP)"
+    "CR": "18 (20,000 XP)",
+    "page": 137,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend"
 }

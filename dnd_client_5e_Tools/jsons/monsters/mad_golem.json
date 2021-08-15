@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "9",
     "name": "Mad Golem",
-    "page": 254,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -39,5 +34,10 @@
         "Infernal",
         "and Undercommon but can\\'t speak"
     ],
-    "CR": "12 (8,400 XP)"
+    "CR": "12 (8,400 XP)",
+    "page": 254,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "construct"
 }

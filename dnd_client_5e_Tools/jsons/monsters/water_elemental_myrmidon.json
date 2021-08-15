@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Water Elemental Myrmidon",
-    "page": 203,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "elemental",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -37,5 +32,10 @@
         "Aquan",
         "one language of its creator\\'s choice"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 203,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "elemental"
 }

@@ -8,11 +8,6 @@
     "charisma": "9",
     "perception": "+4",
     "name": "Giant Four-Armed Gargoyle",
-    "page": 221,
-    "book": "Tomb of Annihilation",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "elemental",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -40,5 +35,10 @@
     "languages": [
         "Terran"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 221,
+    "book": "Tomb of Annihilation",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "elemental"
 }

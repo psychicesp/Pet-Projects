@@ -12,11 +12,6 @@
     "stealth": "+4",
     "survival": "+6",
     "name": "Lizardfolk Shaman",
-    "page": 205,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "Draconic"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 205,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
 }

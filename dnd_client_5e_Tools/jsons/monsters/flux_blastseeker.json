@@ -11,11 +11,6 @@
     "arcana": "+8",
     "perception": "+2",
     "name": "Flux Blastseeker",
-    "page": 242,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Common plus any one language"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 242,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid"
 }

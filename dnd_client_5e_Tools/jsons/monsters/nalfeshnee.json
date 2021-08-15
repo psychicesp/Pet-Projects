@@ -9,11 +9,6 @@
     "wisdom": "12",
     "charisma": "15",
     "name": "Nalfeshnee",
-    "page": 62,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "20 ft",
@@ -44,5 +39,10 @@
         "Abyssal",
         "telepathy 120 ft."
     ],
-    "CR": "13 (10,000 XP)"
+    "CR": "13 (10,000 XP)",
+    "page": 62,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
 }

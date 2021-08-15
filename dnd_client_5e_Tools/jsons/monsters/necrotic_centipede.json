@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Necrotic Centipede",
-    "page": 119,
-    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "monstrosity",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 119,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "monstrosity"
 }

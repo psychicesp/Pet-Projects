@@ -7,11 +7,6 @@
     "wisdom": "12",
     "charisma": "8",
     "name": "Manticore",
-    "page": 213,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -26,5 +21,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 213,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "monstrosity"
 }

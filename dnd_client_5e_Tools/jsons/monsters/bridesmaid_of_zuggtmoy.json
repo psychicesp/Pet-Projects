@@ -8,11 +8,6 @@
     "wisdom": "8",
     "charisma": "18",
     "name": "Bridesmaid of Zuggtmoy",
-    "page": 230,
-    "book": "Out of the Abyss",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "plant",
     "AC": 13,
     "speed": [
         "20 ft"
@@ -26,5 +21,10 @@
     "languages": [
         "understands Abyssal but can\\'t speak"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 230,
+    "book": "Out of the Abyss",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "plant"
 }

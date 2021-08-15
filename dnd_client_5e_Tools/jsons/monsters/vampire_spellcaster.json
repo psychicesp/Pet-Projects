@@ -11,11 +11,6 @@
     "perception": "+7",
     "stealth": "+9",
     "name": "Vampire Spellcaster",
-    "page": 298,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -40,5 +35,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "15 (13,000 XP)"
+    "CR": "15 (13,000 XP)",
+    "page": 298,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
 }

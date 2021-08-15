@@ -9,11 +9,6 @@
     "wisdom": "11",
     "charisma": "8",
     "name": "Firenewt Warrior",
-    "page": 142,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -30,5 +25,10 @@
         "Draconic",
         "Ignan"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 142,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

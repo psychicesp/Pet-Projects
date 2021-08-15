@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "3",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "4",
+    "wisdom": "11",
+    "charisma": "6",
+    "name": "Gingwatzim",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "fly 30 ft. (hover) in its true form only"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "telepathy 60 ft."
+    ],
+    "CR": "2 (450 XP)",
+    "page": 27,
+    "book": "Candlekeep Mysteries"
+}

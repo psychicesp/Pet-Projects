@@ -8,11 +8,6 @@
     "charisma": "5",
     "perception": "+2",
     "name": "Dimetrodon",
-    "page": 139,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -28,5 +23,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 139,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
 }

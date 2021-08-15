@@ -8,11 +8,6 @@
     "wisdom": "5",
     "charisma": "1",
     "name": "Broom of Animated Attack",
-    "page": 226,
-    "book": "Curse of Strahd",
-    "alignment": "U",
-    "size": "Small",
-    "type": "construct",
     "AC": 15,
     "speed": [
         "0 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 226,
+    "book": "Curse of Strahd",
+    "alignment": "U",
+    "size": "Small",
+    "type": "construct"
 }

@@ -8,11 +8,6 @@
     "charisma": "6",
     "perception": "+3",
     "name": "Raven",
-    "page": 335,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Tiny",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "10 ft",
@@ -28,5 +23,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 335,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast"
 }

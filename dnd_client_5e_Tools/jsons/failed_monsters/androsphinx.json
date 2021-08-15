@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "hit points": "19d10 + 95",
+    "strength": "22 (+6)",
+    "dexterity": "10 (+0)",
+    "constitution": "20 (+5)",
+    "intelligence": "16 (+3)",
+    "wisdom": "18 (+4)",
+    "charisma": "23 (+6)",
+    "dexterity save": "+6",
+    "constitution save": "+11",
+    "intelligence save": "+9",
+    "wisdom save": "+10",
+    "arcana": "+9",
+    "perception": "+10",
+    "religion": "+15",
+    "name": "Androsphinx",
+    "AC": 17,
+    "speed": [
+        "40 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient",
+        "religion": "expert"
+    },
+    "damage_immunities": [
+        "psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "Common",
+        "Sphinx"
+    ]
+}

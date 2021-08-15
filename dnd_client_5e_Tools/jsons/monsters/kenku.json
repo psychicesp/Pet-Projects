@@ -13,11 +13,6 @@
     "perception": "+2",
     "stealth": "+5",
     "name": "Kenku",
-    "page": 194,
-    "book": "Monster Manual",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "understands Auran and Common but speaks only through the use of its Mimicry trait"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 194,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid"
 }

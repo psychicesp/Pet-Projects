@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "8",
     "name": "Sea Spawn",
-    "page": 189,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 11,
     "speed": [
         "20 ft",
@@ -26,5 +21,10 @@
     "languages": [
         "understands Aquan and Common but can\\'t speak"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 189,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

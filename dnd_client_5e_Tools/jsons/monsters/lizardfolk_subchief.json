@@ -12,11 +12,6 @@
     "perception": "+5",
     "survival": "+5",
     "name": "Lizardfolk Subchief",
-    "page": 242,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "Draconic"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 242,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
 }

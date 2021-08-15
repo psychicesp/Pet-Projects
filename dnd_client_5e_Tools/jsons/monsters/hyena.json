@@ -8,11 +8,6 @@
     "charisma": "5",
     "perception": "+3",
     "name": "Hyena",
-    "page": 331,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "beast",
     "AC": 11,
     "speed": [
         "50 ft"
@@ -27,5 +22,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 331,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
 }

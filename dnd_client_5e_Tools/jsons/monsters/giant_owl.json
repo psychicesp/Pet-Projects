@@ -9,11 +9,6 @@
     "perception": "+5",
     "stealth": "+4",
     "name": "Giant Owl",
-    "page": 327,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Large",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "5 ft",
@@ -34,5 +29,10 @@
         "Elvish",
         "and Sylvan but can\\'t speak them"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 327,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Large",
+    "type": "beast"
 }

@@ -9,11 +9,6 @@
     "wisdom": "9",
     "charisma": "8",
     "name": "Kobold Underling",
-    "page": 221,
-    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
-    "alignment": "LE",
-    "size": "Small",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -28,5 +23,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 221,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "humanoid"
 }

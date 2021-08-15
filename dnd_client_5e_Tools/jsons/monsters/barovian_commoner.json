@@ -10,11 +10,6 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Barovian Commoner",
-    "page": 29,
-    "book": "Curse of Strahd",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -27,5 +22,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 29,
+    "book": "Curse of Strahd",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

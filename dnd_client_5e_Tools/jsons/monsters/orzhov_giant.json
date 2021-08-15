@@ -7,11 +7,6 @@
     "wisdom": "13",
     "charisma": "8",
     "name": "Orzhov Giant",
-    "page": 202,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "giant",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -30,5 +25,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 202,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "giant"
 }

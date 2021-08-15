@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "8",
     "name": "Ghast",
-    "page": 148,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 148,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
 }

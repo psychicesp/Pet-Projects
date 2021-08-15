@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "1",
     "name": "Jade Giant Spider",
-    "page": 201,
-    "book": "Out of the Abyss",
-    "alignment": "U",
-    "size": "Large",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "understands the languages of its creator but can't speak"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 201,
+    "book": "Out of the Abyss",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
 }

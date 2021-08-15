@@ -1,0 +1,28 @@
+{
+    "tags": [],
+    "hit points": "2d8",
+    "strength": "10 (+0)",
+    "dexterity": "10 (+0)",
+    "constitution": "10 (+0)",
+    "intelligence": "10 (+0)",
+    "wisdom": "14 (+2)",
+    "charisma": "11 (+0)",
+    "medicine": "+4",
+    "religion": "+2",
+    "name": "Acolyte",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "medicine": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ]
+}

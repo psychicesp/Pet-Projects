@@ -11,11 +11,6 @@
     "perception": "+1",
     "stealth": "+4",
     "name": "Jaculi",
-    "page": 225,
-    "book": "Tomb of Annihilation",
-    "alignment": "U",
-    "size": "Large",
-    "type": "beast",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 225,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
 }

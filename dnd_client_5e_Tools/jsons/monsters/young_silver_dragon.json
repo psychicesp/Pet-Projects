@@ -11,11 +11,6 @@
     "perception": "+8",
     "stealth": "+4",
     "name": "Young Silver Dragon",
-    "page": 118,
-    "book": "Monster Manual",
-    "alignment": "LG",
-    "size": "Large",
-    "type": "dragon",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -45,5 +40,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 118,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Large",
+    "type": "dragon"
 }

@@ -11,11 +11,6 @@
     "athletics": "+10",
     "intimidation": "+5",
     "name": "Half-Blue Dragon Gladiator",
-    "page": 55,
-    "book": "The Rise of Tiamat",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -41,5 +36,10 @@
         "any one language (usually Common)",
         "Draconic"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 55,
+    "book": "The Rise of Tiamat",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

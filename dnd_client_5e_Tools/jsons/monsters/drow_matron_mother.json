@@ -13,11 +13,6 @@
     "religion": "+9",
     "stealth": "+10",
     "name": "Drow Matron Mother",
-    "page": 186,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -44,5 +39,10 @@
         "Elvish",
         "Undercommon"
     ],
-    "CR": "20 (25,000 XP)"
+    "CR": "20 (25,000 XP)",
+    "page": 186,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

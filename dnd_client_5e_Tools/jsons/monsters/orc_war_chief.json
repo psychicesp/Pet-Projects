@@ -10,11 +10,6 @@
     "charisma": "16",
     "intimidation": "+5",
     "name": "Orc War Chief",
-    "page": 246,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
         "Common",
         "Orc"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 246,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

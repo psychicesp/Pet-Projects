@@ -10,11 +10,6 @@
     "charisma": "9",
     "perception": "+5",
     "name": "Sahuagin Coral Smasher",
-    "page": 249,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -31,5 +26,10 @@
     "languages": [
         "Sahuagin"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 249,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

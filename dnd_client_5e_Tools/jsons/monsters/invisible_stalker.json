@@ -9,11 +9,6 @@
     "perception": "+8",
     "stealth": "+10",
     "name": "Invisible Stalker",
-    "page": 192,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "elemental",
     "AC": 14,
     "speed": [
         "50 ft",
@@ -41,5 +36,10 @@
         "Auran",
         "understands Common but doesn\\'t speak it"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 192,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "elemental"
 }

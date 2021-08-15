@@ -11,11 +11,6 @@
     "perception": "+6",
     "stealth": "+8",
     "name": "Drow House Captain",
-    "page": 184,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "Elvish",
         "Undercommon"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 184,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

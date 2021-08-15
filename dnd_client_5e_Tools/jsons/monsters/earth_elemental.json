@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Earth Elemental",
-    "page": 124,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Large",
-    "type": "elemental",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "Terran"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 124,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Large",
+    "type": "elemental"
 }

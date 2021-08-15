@@ -9,11 +9,6 @@
     "wisdom": "11",
     "charisma": "9",
     "name": "Gnoll Pack Lord",
-    "page": 163,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -27,5 +22,10 @@
     "languages": [
         "Gnoll"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 163,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "10",
     "name": "Magmin",
-    "page": 212,
-    "book": "Monster Manual",
-    "alignment": "CN",
-    "size": "Small",
-    "type": "elemental",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "Ignan"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 212,
+    "book": "Monster Manual",
+    "alignment": "CN",
+    "size": "Small",
+    "type": "elemental"
 }

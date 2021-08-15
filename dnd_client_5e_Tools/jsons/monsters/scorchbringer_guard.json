@@ -9,11 +9,6 @@
     "wisdom": "9",
     "charisma": "10",
     "name": "Scorchbringer Guard",
-    "page": 243,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -26,5 +21,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 243,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid"
 }

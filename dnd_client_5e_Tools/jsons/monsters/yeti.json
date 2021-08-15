@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+3",
     "name": "Yeti",
-    "page": 305,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 12,
     "speed": [
         "40 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "Yeti"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 305,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity"
 }

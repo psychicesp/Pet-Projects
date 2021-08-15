@@ -10,11 +10,6 @@
     "charisma": "10",
     "perception": "+2",
     "name": "Felbarren Dwarf",
-    "page": 79,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "LG",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "25 ft"
@@ -34,5 +29,10 @@
         "any one language (usually Common)",
         "Dwarvish"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 79,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "humanoid"
 }

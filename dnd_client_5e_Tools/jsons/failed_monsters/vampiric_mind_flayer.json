@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "18",
+    "constitution": "18",
+    "intelligence": "5",
+    "wisdom": "15",
+    "charisma": "18",
+    "perception": "+5",
+    "stealth": "+7",
+    "name": "Vampiric Mind Flayer",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "necrotic, psychic"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "telepathy 120 ft. but can only project emotions"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 252,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

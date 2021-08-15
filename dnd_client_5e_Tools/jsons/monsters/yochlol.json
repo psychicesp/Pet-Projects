@@ -11,11 +11,6 @@
     "deception": "+10",
     "insight": "+6",
     "name": "Yochlol",
-    "page": 65,
-    "book": "Monster Manual",
-    "alignment": "S",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -50,5 +45,10 @@
         "Elvish",
         "Undercommon"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 65,
+    "book": "Monster Manual",
+    "alignment": "S",
+    "size": "Medium",
+    "type": "fiend"
 }

@@ -8,11 +8,6 @@
     "charisma": "7",
     "stealth": "+6",
     "name": "Choker",
-    "page": 123,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Small",
-    "type": "aberration",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -28,5 +23,10 @@
     "languages": [
         "Deep Speech"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 123,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "aberration"
 }

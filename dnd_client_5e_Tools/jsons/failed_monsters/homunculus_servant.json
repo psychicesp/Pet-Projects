@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "strength": "4",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "7",
+    "name": "Homunculus Servant",
+    "AC": 13,
+    "speed": [
+        "20 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10 + (PB \\xc3\\x97 2)"
+    ],
+    "languages": [
+        "understands the languages you speak"
+    ]
+}

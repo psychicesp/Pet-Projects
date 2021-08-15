@@ -8,11 +8,6 @@
     "wisdom": "14",
     "charisma": "11",
     "name": "Will-o\\'-Wisp",
-    "page": 301,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Tiny",
-    "type": "undead",
     "AC": 19,
     "speed": [
         "0 ft",
@@ -37,5 +32,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 301,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Tiny",
+    "type": "undead"
 }

@@ -9,11 +9,6 @@
     "wisdom": "7",
     "charisma": "8",
     "name": "Winged Kobold",
-    "page": 195,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Small",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -29,5 +24,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 195,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "humanoid"
 }

@@ -9,11 +9,6 @@
     "wisdom": "15",
     "charisma": "17",
     "name": "Juvenile Kraken",
-    "page": 238,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "monstrosity",
     "AC": 16,
     "speed": [
         "20 ft",
@@ -47,5 +42,10 @@
         "Primordial",
         "telepathy 60 ft. but can't speak"
     ],
-    "CR": "14 (11,500 XP)"
+    "CR": "14 (11,500 XP)",
+    "page": 238,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "monstrosity"
 }

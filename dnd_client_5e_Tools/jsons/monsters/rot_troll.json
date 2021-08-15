@@ -8,11 +8,6 @@
     "charisma": "4",
     "perception": "+3",
     "name": "Rot Troll",
-    "page": 244,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "giant",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "Giant"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 244,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant"
 }

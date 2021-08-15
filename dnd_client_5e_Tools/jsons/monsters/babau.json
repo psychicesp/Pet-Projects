@@ -11,11 +11,6 @@
     "perception": "+5",
     "stealth": "+5",
     "name": "Babau",
-    "page": 136,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 16,
     "speed": [
         "40 ft"
@@ -42,5 +37,10 @@
     "languages": [
         "Abyssal"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 136,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend"
 }

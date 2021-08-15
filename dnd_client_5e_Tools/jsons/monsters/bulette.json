@@ -8,11 +8,6 @@
     "charisma": "5",
     "perception": "+6",
     "name": "Bulette",
-    "page": 34,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 34,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
 }

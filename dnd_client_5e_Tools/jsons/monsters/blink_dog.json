@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+5",
     "name": "Blink Dog",
-    "page": 318,
-    "book": "Monster Manual",
-    "alignment": "LG",
-    "size": "Medium",
-    "type": "fey",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -30,5 +25,10 @@
         "Blink Dog",
         "understands Sylvan but can\\'t speak it"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 318,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "fey"
 }

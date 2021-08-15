@@ -14,11 +14,6 @@
     "perception": "+2",
     "persuasion": "+5",
     "name": "Changeling",
-    "page": 317,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "S",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -41,5 +36,10 @@
         "Halfling",
         "Thieves\\' cant"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 317,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "S",
+    "size": "Medium",
+    "type": "humanoid"
 }

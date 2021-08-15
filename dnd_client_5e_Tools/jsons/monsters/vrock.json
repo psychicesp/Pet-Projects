@@ -9,11 +9,6 @@
     "wisdom": "13",
     "charisma": "8",
     "name": "Vrock",
-    "page": 64,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 15,
     "speed": [
         "40 ft",
@@ -43,5 +38,10 @@
         "Abyssal",
         "telepathy 120 ft."
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 64,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
 }

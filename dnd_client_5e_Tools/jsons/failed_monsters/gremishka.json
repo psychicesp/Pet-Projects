@@ -1,0 +1,27 @@
+{
+    "tags": [],
+    "hit": "4d4",
+    "strength": "6",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "12",
+    "wisdom": "11",
+    "charisma": "4",
+    "name": "Gremishka",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Common but can\\'t speak"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 235,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

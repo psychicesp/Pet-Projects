@@ -9,11 +9,6 @@
     "acrobatics": "+8",
     "perception": "+2",
     "name": "Nimblewright",
-    "page": 212,
-    "book": "Waterdeep: Dragon Heist",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 18,
     "speed": [
         "60 ft"
@@ -38,5 +33,10 @@
     "languages": [
         "understands one language known to its creator but can\\'t speak"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 212,
+    "book": "Waterdeep: Dragon Heist",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

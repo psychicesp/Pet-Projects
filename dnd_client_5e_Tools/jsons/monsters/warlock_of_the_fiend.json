@@ -13,11 +13,6 @@
     "persuasion": "+7",
     "religion": "+4",
     "name": "Warlock of the Fiend",
-    "page": 219,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -42,5 +37,10 @@
     "languages": [
         "any two languages (usually Abyssal or Infernal)"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 219,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -12,11 +12,6 @@
     "insight": "+7",
     "perception": "+7",
     "name": "Cloud Giant Smiling One",
-    "page": 146,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CN",
-    "size": "Huge",
-    "type": "giant",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -39,5 +34,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 146,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CN",
+    "size": "Huge",
+    "type": "giant"
 }

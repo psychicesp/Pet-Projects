@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "hit points": "17d8 + 68",
+    "strength": "20 (+5)",
+    "dexterity": "15 (+2)",
+    "constitution": "19 (+4)",
+    "intelligence": "15 (+2)",
+    "wisdom": "21 (+5)",
+    "charisma": "18 (+4)",
+    "constitution save": "+9",
+    "wisdom save": "+10",
+    "charisma save": "+9",
+    "insight": "+10",
+    "perception": "+10",
+    "name": "Archon of the Triumvirate",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "all"
+    ]
+}

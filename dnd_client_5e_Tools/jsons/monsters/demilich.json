@@ -8,11 +8,6 @@
     "wisdom": "17",
     "charisma": "20",
     "name": "Demilich",
-    "page": 48,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Tiny",
-    "type": "undead",
     "AC": 20,
     "speed": [
         "0 ft",
@@ -42,5 +37,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "18 (20,000 XP) or 20 (25,000 XP) when encountered in lair"
+    "CR": "18 (20,000 XP) or 20 (25,000 XP) when encountered in lair",
+    "page": 48,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Tiny",
+    "type": "undead"
 }

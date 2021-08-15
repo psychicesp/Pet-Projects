@@ -13,11 +13,6 @@
     "stealth": "+4",
     "survival": "+2",
     "name": "Grung",
-    "page": 156,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "LE",
-    "size": "Small",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "25 ft",
@@ -44,5 +39,10 @@
     "languages": [
         "Grung"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 156,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "LE",
+    "size": "Small",
+    "type": "humanoid"
 }

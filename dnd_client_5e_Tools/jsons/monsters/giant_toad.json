@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Giant Toad",
-    "page": 329,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Large",
-    "type": "beast",
     "AC": 11,
     "speed": [
         "20 ft",
@@ -26,5 +21,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 329,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
 }

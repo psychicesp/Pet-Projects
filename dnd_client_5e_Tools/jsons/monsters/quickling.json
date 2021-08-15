@@ -10,11 +10,6 @@
     "perception": "+5",
     "stealth": "+8",
     "name": "Quickling",
-    "page": 187,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Tiny",
-    "type": "fey",
     "AC": 16,
     "speed": [
         "120 ft"
@@ -34,5 +29,10 @@
         "Common",
         "Sylvan"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 187,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Tiny",
+    "type": "fey"
 }

@@ -7,11 +7,6 @@
     "wisdom": "13",
     "charisma": "7",
     "name": "Vampiric Ixitxachitl Cleric",
-    "page": 226,
-    "book": "Out of the Abyss",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 16,
     "speed": [
         "0 ft",
@@ -27,5 +22,10 @@
         "Abyssal",
         "Ixitxachitl"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 226,
+    "book": "Out of the Abyss",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "aberration"
 }

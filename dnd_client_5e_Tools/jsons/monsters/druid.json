@@ -12,11 +12,6 @@
     "nature": "+3",
     "perception": "+4",
     "name": "Druid",
-    "page": 346,
-    "book": "Monster Manual",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "Druidic plus any two languages"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 346,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

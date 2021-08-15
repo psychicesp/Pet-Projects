@@ -9,11 +9,6 @@
     "wisdom": "11",
     "charisma": "15",
     "name": "Knight",
-    "page": 347,
-    "book": "Monster Manual",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 347,
+    "book": "Monster Manual",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

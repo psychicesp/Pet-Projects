@@ -7,11 +7,6 @@
     "wisdom": "12",
     "charisma": "11",
     "name": "Galeb Duhr",
-    "page": 139,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "elemental",
     "AC": 16,
     "speed": [
         "15 ft. (30 ft. when rolling",
@@ -36,5 +31,10 @@
     "languages": [
         "Terran"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 139,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "elemental"
 }

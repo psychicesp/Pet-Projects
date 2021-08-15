@@ -13,11 +13,6 @@
     "insight": "+2",
     "persuasion": "+7",
     "name": "Inspired",
-    "page": 294,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -44,5 +39,10 @@
         "Common",
         "Quori"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 294,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

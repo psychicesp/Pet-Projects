@@ -10,11 +10,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Swarm of Undead Snakes",
-    "page": 247,
-    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "swarm",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -38,5 +33,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 247,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "swarm"
 }

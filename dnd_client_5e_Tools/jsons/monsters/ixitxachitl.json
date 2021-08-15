@@ -7,11 +7,6 @@
     "wisdom": "13",
     "charisma": "7",
     "name": "Ixitxachitl",
-    "page": 225,
-    "book": "Out of the Abyss",
-    "alignment": "CE",
-    "size": "Small",
-    "type": "aberration",
     "AC": 15,
     "speed": [
         "0 ft",
@@ -27,5 +22,10 @@
         "Abyssal",
         "Ixitxachitl"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 225,
+    "book": "Out of the Abyss",
+    "alignment": "CE",
+    "size": "Small",
+    "type": "aberration"
 }

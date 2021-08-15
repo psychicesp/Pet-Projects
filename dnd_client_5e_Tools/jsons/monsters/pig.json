@@ -7,11 +7,6 @@
     "wisdom": "9",
     "charisma": "5",
     "name": "Pig",
-    "page": 143,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "beast",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -24,5 +19,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 143,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
 }

@@ -12,11 +12,6 @@
     "insight": "+5",
     "perception": "+8",
     "name": "Barbed Devil",
-    "page": 70,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -50,5 +45,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 70,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

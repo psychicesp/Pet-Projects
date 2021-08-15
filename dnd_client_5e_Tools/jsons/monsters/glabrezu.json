@@ -9,11 +9,6 @@
     "wisdom": "17",
     "charisma": "16",
     "name": "Glabrezu",
-    "page": 58,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -43,5 +38,10 @@
         "Abyssal",
         "telepathy 120 ft."
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 58,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
 }

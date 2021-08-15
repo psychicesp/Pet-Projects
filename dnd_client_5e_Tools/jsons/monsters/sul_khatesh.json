@@ -11,11 +11,6 @@
     "insight": "+14",
     "religion": "+18",
     "name": "Sul Khatesh",
-    "page": 304,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 22,
     "speed": [
         "40 ft",
@@ -51,5 +46,10 @@
         "all",
         "telepathy 150 ft."
     ],
-    "CR": "28 (120,000 XP)"
+    "CR": "28 (120,000 XP)",
+    "page": 304,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend"
 }

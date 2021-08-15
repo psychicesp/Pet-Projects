@@ -1,0 +1,54 @@
+{
+    "tags": [],
+    "hit points": "22d20 + 154",
+    "strength": "27 (+8)",
+    "dexterity": "12 (+1)",
+    "constitution": "25 (+7)",
+    "intelligence": "20 (+5)",
+    "wisdom": "17 (+3)",
+    "charisma": "19 (+4)",
+    "dexterity save": "+8",
+    "constitution save": "+14",
+    "wisdom save": "+10",
+    "charisma save": "+11",
+    "deception": "+11",
+    "insight": "+10",
+    "perception": "+17",
+    "persuasion": "+11",
+    "stealth": "+8",
+    "name": "Ancient Green Dragon",
+    "AC": 21,
+    "speed": [
+        "40 ft",
+        "fly 80 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "insight": "proficient",
+        "perception": "expert",
+        "persuasion": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 27"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ]
+}

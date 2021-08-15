@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Boggle",
-    "page": 128,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CN",
-    "size": "Small",
-    "type": "fey",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "Sylvan"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 128,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CN",
+    "size": "Small",
+    "type": "fey"
 }

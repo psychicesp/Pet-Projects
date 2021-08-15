@@ -11,11 +11,6 @@
     "perception": "+4",
     "stealth": "+7",
     "name": "Undercity Medusa",
-    "page": 222,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
         "Common",
         "Elvish"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 222,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "monstrosity"
 }

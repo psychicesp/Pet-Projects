@@ -9,11 +9,6 @@
     "charisma": "18",
     "persuasion": "+6",
     "name": "Naiad",
-    "page": 236,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "fey",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -40,5 +35,10 @@
         "Common",
         "Sylvan"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 236,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "fey"
 }

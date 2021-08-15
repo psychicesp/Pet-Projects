@@ -7,11 +7,6 @@
     "wisdom": "6",
     "charisma": "5",
     "name": "Zombie",
-    "page": 316,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 8,
     "speed": [
         "20 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "understands all languages it spoke in life but can\\'t speak"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 316,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "undead"
 }

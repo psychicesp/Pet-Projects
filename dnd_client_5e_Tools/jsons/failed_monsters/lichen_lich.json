@@ -1,0 +1,51 @@
+{
+    "tags": [],
+    "strength": "11",
+    "dexterity": "16",
+    "constitution": "16",
+    "intelligence": "14",
+    "wisdom": "20",
+    "charisma": "16",
+    "medicine": "+11",
+    "nature": "+14",
+    "perception": "+11",
+    "survival": "+11",
+    "name": "Lichen Lich",
+    "AC": 20,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "medicine": "proficient",
+        "nature": "expert",
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, necrotic"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 21"
+    ],
+    "languages": [
+        "Common",
+        "Druidic",
+        "Sylvan"
+    ],
+    "CR": "18 (20,000 XP)",
+    "page": 223,
+    "book": "Candlekeep Mysteries"
+}

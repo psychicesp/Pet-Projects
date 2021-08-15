@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "hit points": "14d10 + 56",
+    "strength": "21 (+5)",
+    "dexterity": "16 (+3)",
+    "constitution": "18 (+4)",
+    "intelligence": "6 (-2)",
+    "wisdom": "14 (+2)",
+    "charisma": "8 (-1)",
+    "wisdom save": "+5",
+    "charisma save": "+2",
+    "perception": "+5",
+    "stealth": "+6",
+    "survival": "+5",
+    "name": "Aeorian Reverser",
+    "AC": 15,
+    "speed": [
+        "40 ft",
+        "climb 40 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient",
+        "survival": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic, radiant"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "understands Draconic but can't speak"
+    ]
+}

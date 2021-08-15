@@ -8,11 +8,6 @@
     "charisma": "3",
     "stealth": "+2",
     "name": "Hulking Crab",
-    "page": 240,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "beast",
     "AC": 17,
     "speed": [
         "20 ft",
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 240,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast"
 }

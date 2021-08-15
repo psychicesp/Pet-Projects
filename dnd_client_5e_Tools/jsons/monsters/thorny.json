@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+3",
     "name": "Thorny",
-    "page": 197,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "plant",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 197,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "plant"
 }

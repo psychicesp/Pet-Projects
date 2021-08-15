@@ -8,11 +8,6 @@
     "charisma": "7",
     "perception": "+3",
     "name": "Owlbear",
-    "page": 249,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -28,5 +23,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 249,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
 }

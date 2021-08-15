@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Gnome Squidling",
-    "page": 303,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "U",
-    "size": "Small",
-    "type": "aberration",
     "AC": 8,
     "speed": [
         "15 ft"
@@ -27,5 +22,10 @@
         "understands Deep Speech and Gnomish but can\\'t speak",
         "telepathy 60 ft."
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 303,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "U",
+    "size": "Small",
+    "type": "aberration"
 }

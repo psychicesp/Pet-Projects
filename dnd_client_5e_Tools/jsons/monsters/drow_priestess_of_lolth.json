@@ -13,11 +13,6 @@
     "religion": "+4",
     "stealth": "+5",
     "name": "Drow Priestess of Lolth",
-    "page": 129,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -41,5 +36,10 @@
         "Elvish",
         "Undercommon"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 129,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

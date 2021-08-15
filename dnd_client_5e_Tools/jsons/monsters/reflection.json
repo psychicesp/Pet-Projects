@@ -8,11 +8,6 @@
     "charisma": "8",
     "stealth": "+4",
     "name": "Reflection",
-    "page": 158,
-    "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "fey",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -38,5 +33,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 158,
+    "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fey"
 }

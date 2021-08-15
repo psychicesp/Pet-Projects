@@ -11,11 +11,6 @@
     "perception": "+6",
     "stealth": "+7",
     "name": "Darkling Elder",
-    "page": 134,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CN",
-    "size": "Medium",
-    "type": "fey",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
         "Elvish",
         "Sylvan"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 134,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "fey"
 }

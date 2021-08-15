@@ -10,11 +10,6 @@
     "charisma": "8",
     "survival": "+4",
     "name": "Reghed Warrior",
-    "page": 152,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1/8 (25 XP)"
+    "CR": "1/8 (25 XP)",
+    "page": 152,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

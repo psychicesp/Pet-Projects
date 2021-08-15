@@ -8,11 +8,6 @@
     "charisma": "7",
     "perception": "+2",
     "name": "Ice Troll",
-    "page": 30,
-    "book": "The Rise of Tiamat",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "giant",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "Giant"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 30,
+    "book": "The Rise of Tiamat",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant"
 }

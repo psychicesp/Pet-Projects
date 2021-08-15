@@ -9,11 +9,6 @@
     "wisdom": "14",
     "charisma": "15",
     "name": "Githyanki Knight",
-    "page": 160,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -30,5 +25,10 @@
     "languages": [
         "Gith"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 160,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

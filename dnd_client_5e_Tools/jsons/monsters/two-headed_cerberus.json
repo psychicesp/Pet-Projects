@@ -9,11 +9,6 @@
     "perception": "+5",
     "stealth": "+4",
     "name": "Two-Headed Cerberus",
-    "page": 215,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 215,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "monstrosity"
 }

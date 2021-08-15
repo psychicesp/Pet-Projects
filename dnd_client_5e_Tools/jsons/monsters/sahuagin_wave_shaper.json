@@ -12,11 +12,6 @@
     "intimidation": "+4",
     "perception": "+5",
     "name": "Sahuagin Wave Shaper",
-    "page": 251,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -37,5 +32,10 @@
     "languages": [
         "Sahuagin"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 251,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

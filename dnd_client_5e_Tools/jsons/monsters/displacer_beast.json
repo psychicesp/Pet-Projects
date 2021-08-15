@@ -7,11 +7,6 @@
     "wisdom": "12",
     "charisma": "8",
     "name": "Displacer Beast",
-    "page": 81,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -25,5 +20,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 81,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "monstrosity"
 }

@@ -13,11 +13,6 @@
     "persuasion": "+6",
     "stealth": "+4",
     "name": "Mind Flayer",
-    "page": 222,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "aberration",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -44,5 +39,10 @@
         "Undercommon",
         "telepathy 120 ft."
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 222,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "aberration"
 }

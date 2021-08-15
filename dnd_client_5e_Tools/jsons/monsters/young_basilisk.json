@@ -7,11 +7,6 @@
     "wisdom": "8",
     "charisma": "7",
     "name": "Young Basilisk",
-    "page": 100,
-    "book": "Out of the Abyss",
-    "alignment": "U",
-    "size": "Small",
-    "type": "monstrosity",
     "AC": 13,
     "speed": [
         "15 ft"
@@ -25,5 +20,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 100,
+    "book": "Out of the Abyss",
+    "alignment": "U",
+    "size": "Small",
+    "type": "monstrosity"
 }

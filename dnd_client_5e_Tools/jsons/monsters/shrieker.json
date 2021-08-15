@@ -8,11 +8,6 @@
     "wisdom": "3",
     "charisma": "1",
     "name": "Shrieker",
-    "page": 138,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "plant",
     "AC": 5,
     "speed": [
         "0 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 138,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "plant"
 }

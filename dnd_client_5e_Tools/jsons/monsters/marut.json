@@ -12,11 +12,6 @@
     "intimidation": "+12",
     "perception": "+10",
     "name": "Marut",
-    "page": 213,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LN",
-    "size": "Large",
-    "type": "construct",
     "AC": 22,
     "speed": [
         "40 ft",
@@ -49,5 +44,10 @@
     "languages": [
         "all but rarely speaks"
     ],
-    "CR": "25 (75,000 XP)"
+    "CR": "25 (75,000 XP)",
+    "page": 213,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LN",
+    "size": "Large",
+    "type": "construct"
 }

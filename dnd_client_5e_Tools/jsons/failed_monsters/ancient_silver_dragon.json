@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "hit points": "25d20 + 225",
+    "strength": "30 (+10)",
+    "dexterity": "10 (+0)",
+    "constitution": "29 (+9)",
+    "intelligence": "18 (+4)",
+    "wisdom": "15 (+2)",
+    "charisma": "23 (+6)",
+    "dexterity save": "+7",
+    "constitution save": "+16",
+    "wisdom save": "+9",
+    "charisma save": "+13",
+    "arcana": "+11",
+    "history": "+11",
+    "perception": "+16",
+    "stealth": "+7",
+    "name": "Ancient Silver Dragon",
+    "AC": 22,
+    "speed": [
+        "40 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "cold"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 26"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ]
+}

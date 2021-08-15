@@ -8,11 +8,6 @@
     "charisma": "7",
     "stealth": "+3",
     "name": "Mud Mephit",
-    "page": 216,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Small",
-    "type": "elemental",
     "AC": 11,
     "speed": [
         "20 ft",
@@ -37,5 +32,10 @@
         "Aquan",
         "Terran"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 216,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Small",
+    "type": "elemental"
 }

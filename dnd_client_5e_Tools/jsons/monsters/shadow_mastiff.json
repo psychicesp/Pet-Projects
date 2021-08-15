@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Shadow Mastiff",
-    "page": 190,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 190,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "monstrosity"
 }

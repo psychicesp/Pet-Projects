@@ -10,11 +10,6 @@
     "perception": "+5",
     "stealth": "+5",
     "name": "Korred",
-    "page": 168,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CN",
-    "size": "Small",
-    "type": "fey",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -41,5 +36,10 @@
         "Terran",
         "Undercommon"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 168,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CN",
+    "size": "Small",
+    "type": "fey"
 }

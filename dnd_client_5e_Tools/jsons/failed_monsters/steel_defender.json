@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "12",
+    "constitution": "14",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "6",
+    "name": "Steel Defender",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10 + (PB \\xc3\\x97 2)"
+    ],
+    "languages": [
+        "understands the languages you speak"
+    ]
+}

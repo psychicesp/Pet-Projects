@@ -8,11 +8,6 @@
     "charisma": "25",
     "perception": "+11",
     "name": "Planetar",
-    "page": 17,
-    "book": "Monster Manual",
-    "alignment": "LG",
-    "size": "Large",
-    "type": "celestial",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -41,5 +36,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "16 (15,000 XP)"
+    "CR": "16 (15,000 XP)",
+    "page": 17,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Large",
+    "type": "celestial"
 }

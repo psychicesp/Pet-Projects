@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "hit points": "24d8 + 24",
+    "strength": "10 (+0)",
+    "dexterity": "14 (+2)",
+    "constitution": "12 (+1)",
+    "intelligence": "12 (+1)",
+    "wisdom": "20 (+5)",
+    "charisma": "11 (+0)",
+    "intelligence save": "+5",
+    "wisdom save": "+9",
+    "medicine": "+9",
+    "nature": "+5",
+    "perception": "+9",
+    "name": "Archdruid",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "medicine": "proficient",
+        "nature": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 19"
+    ],
+    "languages": [
+        "Druidic plus any two languages"
+    ]
+}

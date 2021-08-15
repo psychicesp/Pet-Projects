@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "hit points": "17d8 + 68",
+    "strength": "20 (+5)",
+    "dexterity": "15 (+2)",
+    "constitution": "19 (+4)",
+    "intelligence": "15 (+2)",
+    "wisdom": "21 (+5)",
+    "charisma": "19 (+4)",
+    "strength save": "+9",
+    "constitution save": "+8",
+    "wisdom save": "+9",
+    "charisma save": "+8",
+    "arcana": "+6",
+    "history": "+6",
+    "insight": "+9",
+    "perception": "+9",
+    "name": "Archon of Falling Stars",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "radiant"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "all"
+    ]
+}

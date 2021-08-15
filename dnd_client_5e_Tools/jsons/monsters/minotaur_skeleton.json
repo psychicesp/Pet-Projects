@@ -7,11 +7,6 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Minotaur Skeleton",
-    "page": 273,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "undead",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "understands Abyssal but can\\'t speak"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 273,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "undead"
 }

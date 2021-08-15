@@ -9,11 +9,6 @@
     "perception": "+4",
     "stealth": "+6",
     "name": "Mantrap",
-    "page": 227,
-    "book": "Tomb of Annihilation",
-    "alignment": "U",
-    "size": "Large",
-    "type": "plant",
     "AC": 12,
     "speed": [
         "5 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 227,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Large",
+    "type": "plant"
 }

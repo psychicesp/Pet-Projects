@@ -12,11 +12,6 @@
     "perception": "+9",
     "religion": "+7",
     "name": "Undying Councilor",
-    "page": 311,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "NG",
-    "size": "Medium",
-    "type": "undead",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -47,5 +42,10 @@
         "Common",
         "Elvish"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 311,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "NG",
+    "size": "Medium",
+    "type": "undead"
 }

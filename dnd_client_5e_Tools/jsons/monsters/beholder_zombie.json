@@ -7,11 +7,6 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Beholder Zombie",
-    "page": 316,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "undead",
     "AC": 15,
     "speed": [
         "0 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "understands Deep Speech and Undercommon but can\\'t speak"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 316,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "undead"
 }

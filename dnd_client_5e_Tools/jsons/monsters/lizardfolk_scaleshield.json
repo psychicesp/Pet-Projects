@@ -12,11 +12,6 @@
     "perception": "+3",
     "survival": "+5",
     "name": "Lizardfolk Scaleshield",
-    "page": 242,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -34,5 +29,10 @@
     "languages": [
         "Draconic"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 242,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
 }

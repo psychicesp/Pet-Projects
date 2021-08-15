@@ -11,11 +11,6 @@
     "athletics": "+4",
     "perception": "+2",
     "name": "Koalinth Sergeant",
-    "page": 239,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -37,5 +32,10 @@
         "Common",
         "Goblin"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 239,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

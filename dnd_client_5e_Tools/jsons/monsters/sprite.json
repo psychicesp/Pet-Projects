@@ -10,11 +10,6 @@
     "perception": "+3",
     "stealth": "+8",
     "name": "Sprite",
-    "page": 283,
-    "book": "Monster Manual",
-    "alignment": "NG",
-    "size": "Tiny",
-    "type": "fey",
     "AC": 15,
     "speed": [
         "10 ft",
@@ -33,5 +28,10 @@
         "Elvish",
         "Sylvan"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 283,
+    "book": "Monster Manual",
+    "alignment": "NG",
+    "size": "Tiny",
+    "type": "fey"
 }

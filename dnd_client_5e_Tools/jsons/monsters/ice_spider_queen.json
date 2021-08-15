@@ -8,11 +8,6 @@
     "charisma": "4",
     "stealth": "+7",
     "name": "Ice Spider Queen",
-    "page": 128,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "U",
-    "size": "Large",
-    "type": "beast",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 128,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
 }

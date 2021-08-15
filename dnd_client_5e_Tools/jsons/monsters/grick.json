@@ -8,11 +8,6 @@
     "wisdom": "14",
     "charisma": "5",
     "name": "Grick",
-    "page": 173,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 173,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "monstrosity"
 }

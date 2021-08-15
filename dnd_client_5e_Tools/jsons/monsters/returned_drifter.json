@@ -7,11 +7,6 @@
     "wisdom": "12",
     "charisma": "11",
     "name": "Returned Drifter",
-    "page": 240,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "undead",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 240,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "undead"
 }

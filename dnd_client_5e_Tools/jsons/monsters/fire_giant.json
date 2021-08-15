@@ -9,11 +9,6 @@
     "athletics": "+11",
     "perception": "+6",
     "name": "Fire Giant",
-    "page": 154,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Huge",
-    "type": "giant",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "Giant"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 154,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "giant"
 }

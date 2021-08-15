@@ -11,11 +11,6 @@
     "arcana": "+13",
     "perception": "+13",
     "name": "Orcus",
-    "page": 153,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "fiend",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -48,5 +43,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "26 (90,000 XP)"
+    "CR": "26 (90,000 XP)",
+    "page": 153,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend"
 }

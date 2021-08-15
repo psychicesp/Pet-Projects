@@ -7,11 +7,6 @@
     "wisdom": "12",
     "charisma": "5",
     "name": "Thunderbeast Skeleton",
-    "page": 99,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "U",
-    "size": "Huge",
-    "type": "undead",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 99,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "U",
+    "size": "Huge",
+    "type": "undead"
 }

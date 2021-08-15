@@ -7,11 +7,6 @@
     "wisdom": "3",
     "charisma": "1",
     "name": "Terracotta Warrior",
-    "page": 161,
-    "book": "Tomb of Annihilation",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 18,
     "speed": [
         "25 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 161,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

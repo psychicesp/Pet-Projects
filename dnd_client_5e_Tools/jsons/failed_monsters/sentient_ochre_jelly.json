@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "6",
+    "constitution": "14",
+    "intelligence": "5",
+    "wisdom": "6",
+    "charisma": "1",
+    "name": "Sentient Ochre Jelly",
+    "AC": 8,
+    "speed": [
+        "10 ft",
+        "climb 10 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "lightning, slashing"
+    ],
+    "resistances": [
+        "acid"
+    ],
+    "condition_immunities": [
+        "blinded, deafened, exhaustion, frightened, prone"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "2 (450 XP)"
+}

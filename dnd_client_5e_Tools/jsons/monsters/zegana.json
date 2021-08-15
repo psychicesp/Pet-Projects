@@ -12,11 +12,6 @@
     "nature": "+10",
     "perception": "+9",
     "name": "Zegana",
-    "page": 255,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -43,5 +38,10 @@
         "Elvish",
         "Merfolk"
     ],
-    "CR": "16 (15,000 XP)"
+    "CR": "16 (15,000 XP)",
+    "page": 255,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid"
 }

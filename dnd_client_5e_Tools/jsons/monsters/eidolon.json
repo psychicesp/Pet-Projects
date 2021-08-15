@@ -8,11 +8,6 @@
     "charisma": "16",
     "perception": "+8",
     "name": "Eidolon",
-    "page": 194,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "undead",
     "AC": 9,
     "speed": [
         "0 ft",
@@ -41,5 +36,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "12 (8,400 XP)"
+    "CR": "12 (8,400 XP)",
+    "page": 194,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "undead"
 }

@@ -9,11 +9,6 @@
     "insight": "+4",
     "perception": "+4",
     "name": "Young Cloud Giant",
-    "page": 112,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "giant",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -30,5 +25,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 112,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "giant"
 }

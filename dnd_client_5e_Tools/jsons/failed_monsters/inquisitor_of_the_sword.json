@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "15",
+    "wisdom": "18",
+    "charisma": "16",
+    "acrobatics": "+5",
+    "athletics": "+4",
+    "insight": "+7",
+    "perception": "+7",
+    "name": "Inquisitor of the Sword",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "acrobatics": "proficient",
+        "athletics": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "truesight 30 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "any two languages",
+        "telepathy 120 ft."
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 249,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

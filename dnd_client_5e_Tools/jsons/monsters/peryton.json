@@ -8,11 +8,6 @@
     "charisma": "10",
     "perception": "+5",
     "name": "Peryton",
-    "page": 251,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 13,
     "speed": [
         "20 ft",
@@ -31,5 +26,10 @@
     "languages": [
         "understands Common and Elvish but can\\'t speak"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 251,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "monstrosity"
 }

@@ -13,11 +13,6 @@
     "perception": "+4",
     "survival": "+6",
     "name": "Uthgardt Shaman",
-    "page": 243,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
         "Bothii",
         "Common"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 243,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "15",
     "name": "Brain in a Jar",
-    "page": 278,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "AA",
-    "size": "Small",
-    "type": "undead",
     "AC": 11,
     "speed": [
         "0 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 278,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "AA",
+    "size": "Small",
+    "type": "undead"
 }

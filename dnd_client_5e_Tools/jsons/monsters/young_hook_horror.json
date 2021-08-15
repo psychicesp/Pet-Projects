@@ -8,11 +8,6 @@
     "charisma": "7",
     "perception": "+3",
     "name": "Young Hook Horror",
-    "page": 34,
-    "book": "Out of the Abyss",
-    "alignment": "N",
-    "size": "Small",
-    "type": "monstrosity",
     "AC": 11,
     "speed": [
         "15 ft",
@@ -30,5 +25,10 @@
     "languages": [
         "Hook Horror"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 34,
+    "book": "Out of the Abyss",
+    "alignment": "N",
+    "size": "Small",
+    "type": "monstrosity"
 }

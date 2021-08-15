@@ -10,11 +10,6 @@
     "history": "+5",
     "perception": "+3",
     "name": "Meletian Hoplite",
-    "page": 229,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -34,5 +29,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 229,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

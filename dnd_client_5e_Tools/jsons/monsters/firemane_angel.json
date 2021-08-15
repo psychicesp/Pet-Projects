@@ -9,11 +9,6 @@
     "insight": "+6",
     "perception": "+6",
     "name": "Firemane Angel",
-    "page": 190,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CG",
-    "size": "Medium",
-    "type": "celestial",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -42,5 +37,10 @@
     "languages": [
         "all"
     ],
-    "CR": "12 (8,400 XP)"
+    "CR": "12 (8,400 XP)",
+    "page": 190,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CG",
+    "size": "Medium",
+    "type": "celestial"
 }

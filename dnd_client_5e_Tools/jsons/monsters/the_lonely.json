@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "6",
     "name": "The Lonely",
-    "page": 232,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -28,5 +23,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 232,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "monstrosity"
 }

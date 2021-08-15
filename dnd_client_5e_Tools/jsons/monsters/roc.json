@@ -8,11 +8,6 @@
     "charisma": "9",
     "perception": "+4",
     "name": "Roc",
-    "page": 260,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Gargantuan",
-    "type": "monstrosity",
     "AC": 15,
     "speed": [
         "20 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 260,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "monstrosity"
 }

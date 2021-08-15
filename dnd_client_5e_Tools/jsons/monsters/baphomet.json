@@ -11,11 +11,6 @@
     "intimidation": "+17",
     "perception": "+14",
     "name": "Baphomet",
-    "page": 143,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "fiend",
     "AC": 22,
     "speed": [
         "40 ft"
@@ -47,5 +42,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "23 (50,000 XP)"
+    "CR": "23 (50,000 XP)",
+    "page": 143,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend"
 }

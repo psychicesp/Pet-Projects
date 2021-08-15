@@ -7,11 +7,6 @@
     "wisdom": "13",
     "charisma": "15",
     "name": "Nightmare",
-    "page": 235,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 13,
     "speed": [
         "60 ft",
@@ -30,5 +25,10 @@
         "Common",
         "and Infernal but can't speak"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 235,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "fiend"
 }

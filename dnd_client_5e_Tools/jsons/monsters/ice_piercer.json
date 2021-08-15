@@ -8,11 +8,6 @@
     "charisma": "3",
     "stealth": "+5",
     "name": "Ice Piercer",
-    "page": 226,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 15,
     "speed": [
         "5 ft",
@@ -33,5 +28,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 226,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "monstrosity"
 }

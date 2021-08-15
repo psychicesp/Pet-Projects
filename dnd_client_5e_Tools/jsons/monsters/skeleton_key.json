@@ -7,11 +7,6 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Skeleton Key",
-    "page": 126,
-    "book": "Tomb of Annihilation",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "undead",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -32,5 +27,10 @@
     "languages": [
         "understands all languages it spoke in life but can\\'t speak"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 126,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "undead"
 }

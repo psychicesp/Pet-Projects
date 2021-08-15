@@ -10,11 +10,6 @@
     "insight": "+9",
     "survival": "+9",
     "name": "Borborygmos",
-    "page": 238,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "CN",
-    "size": "Huge",
-    "type": "giant",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -43,5 +38,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "18 (20,000 XP)"
+    "CR": "18 (20,000 XP)",
+    "page": 238,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "CN",
+    "size": "Huge",
+    "type": "giant"
 }

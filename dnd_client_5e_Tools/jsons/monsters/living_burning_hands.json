@@ -7,11 +7,6 @@
     "wisdom": "6",
     "charisma": "6",
     "name": "Living Burning Hands",
-    "page": 298,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 15,
     "speed": [
         "25 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 298,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

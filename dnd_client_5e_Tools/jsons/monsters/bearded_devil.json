@@ -9,11 +9,6 @@
     "wisdom": "11",
     "charisma": "11",
     "name": "Bearded Devil",
-    "page": 70,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -42,5 +37,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 70,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

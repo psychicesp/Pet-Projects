@@ -9,11 +9,6 @@
     "wisdom": "12",
     "charisma": "8",
     "name": "Merregon",
-    "page": 166,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -38,5 +33,10 @@
         "understands Infernal but can\\'t speak",
         "telepathy 120 ft."
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 166,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

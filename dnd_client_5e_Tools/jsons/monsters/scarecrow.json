@@ -8,11 +8,6 @@
     "wisdom": "10",
     "charisma": "13",
     "name": "Scarecrow",
-    "page": 268,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "construct",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -35,5 +30,10 @@
     "languages": [
         "understands the languages of its creator but can't speak"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 268,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "construct"
 }

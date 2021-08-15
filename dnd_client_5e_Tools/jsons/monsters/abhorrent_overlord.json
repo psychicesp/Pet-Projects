@@ -10,11 +10,6 @@
     "intimidation": "+7",
     "persuasion": "+7",
     "name": "Abhorrent Overlord",
-    "page": 219,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -47,5 +42,10 @@
         "Common",
         "Infernal"
     ],
-    "CR": "9 (5,000 XP)"
+    "CR": "9 (5,000 XP)",
+    "page": 219,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend"
 }

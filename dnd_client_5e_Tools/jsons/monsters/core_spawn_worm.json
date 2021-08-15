@@ -8,11 +8,6 @@
     "charisma": "4",
     "perception": "+4",
     "name": "Core Spawn Worm",
-    "page": 287,
-    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
-    "alignment": "CE",
-    "size": "Gargantuan",
-    "type": "aberration",
     "AC": 18,
     "speed": [
         "60 ft",
@@ -39,5 +34,10 @@
     "languages": [
         "understands Deep Speech but can\\'t speak"
     ],
-    "CR": "15 (13,000 XP)"
+    "CR": "15 (13,000 XP)",
+    "page": 287,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "alignment": "CE",
+    "size": "Gargantuan",
+    "type": "aberration"
 }

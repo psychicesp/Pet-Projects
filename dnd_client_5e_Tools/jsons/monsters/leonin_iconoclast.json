@@ -14,11 +14,6 @@
     "stealth": "+7",
     "survival": "+6",
     "name": "Leonin Iconoclast",
-    "page": 232,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -42,5 +37,10 @@
         "Common",
         "Leonin"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 232,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

@@ -8,11 +8,6 @@
     "charisma": "7",
     "athletics": "+6",
     "name": "Shell Shark",
-    "page": 252,
-    "book": "Ghosts of Saltmarsh",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 18,
     "speed": [
         "0 ft",
@@ -31,5 +26,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 252,
+    "book": "Ghosts of Saltmarsh",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "monstrosity"
 }

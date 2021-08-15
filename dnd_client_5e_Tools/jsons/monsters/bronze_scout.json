@@ -10,11 +10,6 @@
     "perception": "+6",
     "stealth": "+7",
     "name": "Bronze Scout",
-    "page": 125,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -39,5 +34,10 @@
     "languages": [
         "understands one language of its creator but can't speak"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 125,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

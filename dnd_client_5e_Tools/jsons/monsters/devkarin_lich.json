@@ -10,11 +10,6 @@
     "insight": "+8",
     "perception": "+8",
     "name": "Devkarin Lich",
-    "page": 198,
-    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -48,5 +43,10 @@
         "Elvish",
         "Kraul"
     ],
-    "CR": "14 (11,500 XP)"
+    "CR": "14 (11,500 XP)",
+    "page": 198,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "undead"
 }

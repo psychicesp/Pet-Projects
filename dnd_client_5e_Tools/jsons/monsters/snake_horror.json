@@ -8,11 +8,6 @@
     "charisma": "10",
     "perception": "+4",
     "name": "Snake Horror",
-    "page": 46,
-    "book": "The Rise of Tiamat",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 20,
     "speed": [
         "30 ft",
@@ -38,5 +33,10 @@
     "languages": [
         "understands the languages of its creator but can\\'t speak"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 46,
+    "book": "The Rise of Tiamat",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

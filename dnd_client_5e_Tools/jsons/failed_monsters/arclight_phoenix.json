@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "hit points": "19d8 + 57",
+    "strength": "15 (+2)",
+    "dexterity": "22 (+6)",
+    "constitution": "17 (+3)",
+    "intelligence": "5 (-3)",
+    "wisdom": "12 (+1)",
+    "charisma": "7 (-2)",
+    "dexterity save": "+10",
+    "name": "Arclight Phoenix",
+    "AC": 16,
+    "speed": [
+        "0 ft",
+        "fly 120 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "lightning, poison"
+    ],
+    "resistances": [
+        "thunder",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "exhaustion, grappled, paralyzed, petrified, poisoned, restrained, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\u2014"
+    ]
+}

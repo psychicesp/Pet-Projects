@@ -8,11 +8,6 @@
     "wisdom": "6",
     "charisma": "1",
     "name": "Knucklehead Trout",
-    "page": 295,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "U",
-    "size": "Small",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -27,5 +22,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "0 (0 or 10 XP)"
+    "CR": "0 (0 or 10 XP)",
+    "page": 295,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "U",
+    "size": "Small",
+    "type": "beast"
 }

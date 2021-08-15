@@ -7,11 +7,6 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Frost Giant Skeleton",
-    "page": 288,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "LE",
-    "size": "Huge",
-    "type": "undead",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -31,5 +26,10 @@
     "languages": [
         "understands Giant but can\\'t speak"
     ],
-    "CR": "6 (2,300 XP)"
+    "CR": "6 (2,300 XP)",
+    "page": 288,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "undead"
 }

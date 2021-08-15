@@ -11,11 +11,6 @@
     "perception": "+9",
     "stealth": "+9",
     "name": "Hythonia",
-    "page": 252,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -46,5 +41,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "17 (18,000 XP, or 36,000 XP as a mythic encounter)"
+    "CR": "17 (18,000 XP, or 36,000 XP as a mythic encounter)",
+    "page": 252,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "monstrosity"
 }

@@ -14,11 +14,6 @@
     "perception": "+4",
     "survival": "+4",
     "name": "Merrenoloth",
-    "page": 250,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -54,5 +49,10 @@
         "Infernal",
         "telepathy 60 ft."
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 250,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
 }

@@ -13,11 +13,6 @@
     "perception": "+5",
     "stealth": "+4",
     "name": "Barghest",
-    "page": 123,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 17,
     "speed": [
         "60 ft. (30 ft. in goblin form)"
@@ -51,5 +46,10 @@
         "Infernal",
         "telepathy 60 ft."
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 123,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "fiend"
 }

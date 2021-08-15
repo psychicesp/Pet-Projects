@@ -8,11 +8,6 @@
     "charisma": "5",
     "perception": "+4",
     "name": "Chuul",
-    "page": 40,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "aberration",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "understands Deep Speech but can\\'t speak"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 40,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "aberration"
 }

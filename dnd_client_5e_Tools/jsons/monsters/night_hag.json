@@ -11,11 +11,6 @@
     "perception": "+6",
     "stealth": "+6",
     "name": "Night Hag",
-    "page": 178,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -44,5 +39,10 @@
         "Infernal",
         "Primordial"
     ],
-    "CR": "5 (1,800 XP) or 7 (2,900 XP) when part of a cove"
+    "CR": "5 (1,800 XP) or 7 (2,900 XP) when part of a cove",
+    "page": 178,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
 }

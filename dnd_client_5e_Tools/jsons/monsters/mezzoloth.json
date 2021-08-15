@@ -10,11 +10,6 @@
     "charisma": "11",
     "perception": "+3",
     "name": "Mezzoloth",
-    "page": 313,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -43,5 +38,10 @@
         "Infernal",
         "telepathy 60 ft."
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 313,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
 }

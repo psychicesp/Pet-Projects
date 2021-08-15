@@ -9,11 +9,6 @@
     "wisdom": "15",
     "charisma": "18",
     "name": "Ice Devil",
-    "page": 75,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "fiend",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -43,5 +38,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "14 (11,500 XP)"
+    "CR": "14 (11,500 XP)",
+    "page": 75,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend"
 }

@@ -1,0 +1,30 @@
+{
+    "tags": [],
+    "hit points": "8d12 + 16",
+    "strength": "19 (+4)",
+    "dexterity": "9 (-1)",
+    "constitution": "15 (+2)",
+    "intelligence": "2 (-4)",
+    "wisdom": "6 (-2)",
+    "charisma": "3 (-4)",
+    "name": "Ankylosaurus Zombie",
+    "AC": 14,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\u2014"
+    ]
+}

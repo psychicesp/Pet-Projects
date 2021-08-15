@@ -11,11 +11,6 @@
     "athletics": "+14",
     "perception": "+3",
     "name": "Stone Giant Dreamwalker",
-    "page": 150,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CN",
-    "size": "Huge",
-    "type": "giant",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -40,5 +35,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 150,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CN",
+    "size": "Huge",
+    "type": "giant"
 }

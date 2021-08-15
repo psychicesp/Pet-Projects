@@ -10,11 +10,6 @@
     "arcana": "+4",
     "history": "+4",
     "name": "Deathlock",
-    "page": 128,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -44,5 +39,10 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 128,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
 }

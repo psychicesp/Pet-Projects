@@ -9,11 +9,6 @@
     "insight": "+9",
     "perception": "+9",
     "name": "Deva",
-    "page": 16,
-    "book": "Monster Manual",
-    "alignment": "LG",
-    "size": "Medium",
-    "type": "celestial",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -42,5 +37,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 16,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "celestial"
 }

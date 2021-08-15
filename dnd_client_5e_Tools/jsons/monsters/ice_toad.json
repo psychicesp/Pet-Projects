@@ -8,11 +8,6 @@
     "charisma": "6",
     "perception": "+2",
     "name": "Ice Toad",
-    "page": 90,
-    "book": "The Rise of Tiamat",
-    "alignment": "N",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -32,5 +27,10 @@
     "languages": [
         "Ice Toad"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 90,
+    "book": "The Rise of Tiamat",
+    "alignment": "N",
+    "size": "Medium",
+    "type": "monstrosity"
 }

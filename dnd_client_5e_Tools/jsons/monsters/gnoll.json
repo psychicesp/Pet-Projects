@@ -10,11 +10,6 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Gnoll",
-    "page": 163,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -28,5 +23,10 @@
     "languages": [
         "Gnoll"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 163,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
 }

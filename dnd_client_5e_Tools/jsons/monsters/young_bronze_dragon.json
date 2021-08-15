@@ -10,11 +10,6 @@
     "perception": "+7",
     "stealth": "+3",
     "name": "Young Bronze Dragon",
-    "page": 108,
-    "book": "Monster Manual",
-    "alignment": "LG",
-    "size": "Large",
-    "type": "dragon",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -44,5 +39,10 @@
         "Common",
         "Draconic"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 108,
+    "book": "Monster Manual",
+    "alignment": "LG",
+    "size": "Large",
+    "type": "dragon"
 }

@@ -1,0 +1,27 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "13",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "11",
+    "perception": "+2",
+    "name": "Thayan Warrior",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Thayan"
+    ],
+    "CR": "2 (450 XP)"
+}

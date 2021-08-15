@@ -7,11 +7,6 @@
     "wisdom": "9",
     "charisma": "10",
     "name": "Half-Ogre (Ogrillon)",
-    "page": 238,
-    "book": "Monster Manual",
-    "alignment": "ACA",
-    "size": "Large",
-    "type": "giant",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -26,5 +21,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 238,
+    "book": "Monster Manual",
+    "alignment": "ACA",
+    "size": "Large",
+    "type": "giant"
 }

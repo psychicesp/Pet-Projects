@@ -14,11 +14,6 @@
     "persuasion": "+9",
     "stealth": "+7",
     "name": "Succubus",
-    "page": 285,
-    "book": "Monster Manual",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -46,5 +41,10 @@
         "Infernal",
         "telepathy 60 ft."
     ],
-    "CR": "4 (1,100 XP)"
+    "CR": "4 (1,100 XP)",
+    "page": 285,
+    "book": "Monster Manual",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
 }

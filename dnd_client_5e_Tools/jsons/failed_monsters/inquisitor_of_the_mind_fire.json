@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "17",
+    "wisdom": "16",
+    "charisma": "19",
+    "insight": "+6",
+    "perception": "+6",
+    "name": "Inquisitor of the Mind Fire",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "truesight 30 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "any three languages",
+        "telepathy 120 ft."
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 248,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

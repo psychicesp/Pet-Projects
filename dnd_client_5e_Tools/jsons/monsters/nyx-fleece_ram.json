@@ -7,11 +7,6 @@
     "wisdom": "13",
     "charisma": "10",
     "name": "Nyx-Fleece Ram",
-    "page": 233,
-    "book": "Mythic Odysseys of Theros",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -24,5 +19,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 233,
+    "book": "Mythic Odysseys of Theros",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "monstrosity"
 }

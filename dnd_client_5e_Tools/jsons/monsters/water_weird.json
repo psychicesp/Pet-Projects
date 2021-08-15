@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Water Weird",
-    "page": 299,
-    "book": "Monster Manual",
-    "alignment": "N",
-    "size": "Large",
-    "type": "elemental",
     "AC": 13,
     "speed": [
         "0 ft",
@@ -36,5 +31,10 @@
     "languages": [
         "understands Aquan but doesn\\'t speak"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 299,
+    "book": "Monster Manual",
+    "alignment": "N",
+    "size": "Large",
+    "type": "elemental"
 }

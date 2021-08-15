@@ -11,11 +11,6 @@
     "perception": "+6",
     "stealth": "+6",
     "name": "Black Abishai",
-    "page": 160,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -48,5 +43,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 160,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

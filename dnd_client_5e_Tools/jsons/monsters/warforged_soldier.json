@@ -12,11 +12,6 @@
     "perception": "+4",
     "survival": "+4",
     "name": "Warforged Soldier",
-    "page": 320,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 320,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

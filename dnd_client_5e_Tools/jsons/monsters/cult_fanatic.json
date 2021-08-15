@@ -12,11 +12,6 @@
     "persuasion": "+4",
     "religion": "+2",
     "name": "Cult Fanatic",
-    "page": 345,
-    "book": "Monster Manual",
-    "alignment": "ANA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -33,5 +28,10 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 345,
+    "book": "Monster Manual",
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
 }

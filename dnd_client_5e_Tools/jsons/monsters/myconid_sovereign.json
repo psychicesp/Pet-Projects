@@ -7,11 +7,6 @@
     "wisdom": "15",
     "charisma": "10",
     "name": "Myconid Sovereign",
-    "page": 232,
-    "book": "Monster Manual",
-    "alignment": "LN",
-    "size": "Large",
-    "type": "plant",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -25,5 +20,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 232,
+    "book": "Monster Manual",
+    "alignment": "LN",
+    "size": "Large",
+    "type": "plant"
 }

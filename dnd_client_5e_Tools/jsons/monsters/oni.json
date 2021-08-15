@@ -10,11 +10,6 @@
     "deception": "+8",
     "perception": "+4",
     "name": "Oni",
-    "page": 239,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "giant",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -39,5 +34,10 @@
         "Common",
         "Giant"
     ],
-    "CR": "7 (2,900 XP)"
+    "CR": "7 (2,900 XP)",
+    "page": 239,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "giant"
 }

@@ -11,11 +11,6 @@
     "athletics": "+11",
     "perception": "+4",
     "name": "Frost Giant Everlasting One",
-    "page": 148,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "giant",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -39,5 +34,10 @@
     "languages": [
         "Giant"
     ],
-    "CR": "12 (8,400 XP)"
+    "CR": "12 (8,400 XP)",
+    "page": 148,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "giant"
 }

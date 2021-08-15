@@ -9,11 +9,6 @@
     "wisdom": "14",
     "charisma": "13",
     "name": "Duergar Despot",
-    "page": 188,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 21,
     "speed": [
         "25 ft"
@@ -37,5 +32,10 @@
         "Dwarvish",
         "Undercommon"
     ],
-    "CR": "12 (8,400 XP)"
+    "CR": "12 (8,400 XP)",
+    "page": 188,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

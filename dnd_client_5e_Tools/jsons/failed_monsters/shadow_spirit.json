@@ -1,0 +1,29 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "16",
+    "name": "Shadow Spirit",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "necrotic"
+    ],
+    "condition_immunities": [
+        "frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands the languages you speak"
+    ]
+}

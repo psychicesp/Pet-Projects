@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "13",
     "name": "Harpy",
-    "page": 181,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Medium",
-    "type": "monstrosity",
     "AC": 11,
     "speed": [
         "20 ft",
@@ -25,5 +20,10 @@
     "languages": [
         "Common"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 181,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "monstrosity"
 }

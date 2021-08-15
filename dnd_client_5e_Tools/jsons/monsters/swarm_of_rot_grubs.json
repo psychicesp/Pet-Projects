@@ -10,11 +10,6 @@
     "wisdom": "2",
     "charisma": "1",
     "name": "Swarm of Rot Grubs",
-    "page": 208,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "swarm",
     "AC": 8,
     "speed": [
         "5 ft",
@@ -35,5 +30,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 208,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "swarm"
 }

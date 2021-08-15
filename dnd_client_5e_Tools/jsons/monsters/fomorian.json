@@ -9,11 +9,6 @@
     "perception": "+8",
     "stealth": "+3",
     "name": "Fomorian",
-    "page": 136,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Huge",
-    "type": "giant",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -31,5 +26,10 @@
         "Giant",
         "Undercommon"
     ],
-    "CR": "8 (3,900 XP)"
+    "CR": "8 (3,900 XP)",
+    "page": 136,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "giant"
 }

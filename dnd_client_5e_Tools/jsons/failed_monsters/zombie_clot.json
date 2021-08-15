@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "10",
+    "constitution": "16",
+    "intelligence": "3",
+    "wisdom": "8",
+    "charisma": "10",
+    "name": "Zombie Clot",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, paralyzed, petrified, poisoned, stunned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "understands the languages it knew in life but can't speak"
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 255,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

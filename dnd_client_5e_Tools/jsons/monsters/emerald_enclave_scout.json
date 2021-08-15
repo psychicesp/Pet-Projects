@@ -13,11 +13,6 @@
     "stealth": "+6",
     "survival": "+5",
     "name": "Emerald Enclave Scout",
-    "page": 130,
-    "book": "Out of the Abyss",
-    "alignment": "LN",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 16,
     "speed": [
         "25 ft"
@@ -40,5 +35,10 @@
         "Common",
         "Dwarvish"
     ],
-    "CR": "1/2 (100 XP)"
+    "CR": "1/2 (100 XP)",
+    "page": 130,
+    "book": "Out of the Abyss",
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid"
 }

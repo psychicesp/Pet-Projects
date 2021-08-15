@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "8",
+    "constitution": "20",
+    "intelligence": "14",
+    "wisdom": "14",
+    "charisma": "18",
+    "name": "Bodytaker Plant",
+    "AC": 16,
+    "speed": [
+        "10 ft",
+        "climb 10 ft",
+        "swim 10 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "condition_immunities": [
+        "blinded, charmed, frightened, prone"
+    ],
+    "senses": [
+        "blindsight 120 ft. (blind beyond this radius)",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Deep Speech",
+        "telepathy 120 ft."
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 226,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft"
+}

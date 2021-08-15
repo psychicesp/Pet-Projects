@@ -9,11 +9,6 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Intellect Devourer",
-    "page": 191,
-    "book": "Monster Manual",
-    "alignment": "LE",
-    "size": "Tiny",
-    "type": "aberration",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -37,5 +32,10 @@
         "understands Deep Speech but can\\'t speak",
         "telepathy 60 ft."
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 191,
+    "book": "Monster Manual",
+    "alignment": "LE",
+    "size": "Tiny",
+    "type": "aberration"
 }

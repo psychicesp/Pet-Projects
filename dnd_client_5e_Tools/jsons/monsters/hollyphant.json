@@ -7,11 +7,6 @@
     "wisdom": "19",
     "charisma": "16",
     "name": "Hollyphant",
-    "page": 237,
-    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
-    "alignment": "LG",
-    "size": "Small",
-    "type": "celestial",
     "AC": 18,
     "speed": [
         "20 ft",
@@ -39,5 +34,10 @@
         "Celestial",
         "telepathy 120 ft."
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 237,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "LG",
+    "size": "Small",
+    "type": "celestial"
 }

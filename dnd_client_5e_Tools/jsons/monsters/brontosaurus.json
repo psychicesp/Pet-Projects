@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Brontosaurus",
-    "page": 139,
-    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
-    "alignment": "U",
-    "size": "Gargantuan",
-    "type": "beast",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -26,5 +21,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 139,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "beast"
 }

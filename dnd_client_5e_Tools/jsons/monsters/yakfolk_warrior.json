@@ -9,11 +9,6 @@
     "deception": "+4",
     "survival": "+4",
     "name": "Yakfolk Warrior",
-    "page": 244,
-    "book": "Storm King\\xe2\\x80\\x99s Thunder",
-    "alignment": "NE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -30,5 +25,10 @@
         "Common",
         "Yikaria"
     ],
-    "CR": "3 (700 XP)"
+    "CR": "3 (700 XP)",
+    "page": 244,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "alignment": "NE",
+    "size": "Large",
+    "type": "monstrosity"
 }

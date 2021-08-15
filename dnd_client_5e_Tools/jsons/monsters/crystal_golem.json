@@ -7,11 +7,6 @@
     "wisdom": "11",
     "charisma": "1",
     "name": "Crystal Golem",
-    "page": 210,
-    "book": "Waterdeep: Dungeon of the Mad Mage",
-    "alignment": "U",
-    "size": "Large",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -32,5 +27,10 @@
     "languages": [
         "understands the languages of its creator but can't speak"
     ],
-    "CR": "10 (5,900 XP)"
+    "CR": "10 (5,900 XP)",
+    "page": 210,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
 }

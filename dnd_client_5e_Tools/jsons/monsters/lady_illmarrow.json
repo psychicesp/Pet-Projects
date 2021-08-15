@@ -11,11 +11,6 @@
     "insight": "+12",
     "perception": "+12",
     "name": "Lady Illmarrow",
-    "page": 296,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "NE",
-    "size": "Medium",
-    "type": "undead",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -51,5 +46,10 @@
         "Draconic",
         "Elvish"
     ],
-    "CR": "22 (41,000 XP)"
+    "CR": "22 (41,000 XP)",
+    "page": 296,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "undead"
 }

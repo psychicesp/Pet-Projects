@@ -11,11 +11,6 @@
     "perception": "+9",
     "persuasion": "+9",
     "name": "Radiant Idol",
-    "page": 308,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "LE",
-    "size": "Large",
-    "type": "celestial",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -45,5 +40,10 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "11 (7,200 XP)"
+    "CR": "11 (7,200 XP)",
+    "page": 308,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Large",
+    "type": "celestial"
 }

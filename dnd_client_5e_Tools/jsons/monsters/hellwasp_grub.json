@@ -7,11 +7,6 @@
     "wisdom": "7",
     "charisma": "3",
     "name": "Hellwasp Grub",
-    "page": 95,
-    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
-    "alignment": "U",
-    "size": "Small",
-    "type": "beast",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -26,5 +21,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 95,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "alignment": "U",
+    "size": "Small",
+    "type": "beast"
 }

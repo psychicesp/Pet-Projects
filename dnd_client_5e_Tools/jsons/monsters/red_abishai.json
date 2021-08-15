@@ -11,11 +11,6 @@
     "intimidation": "+10",
     "perception": "+8",
     "name": "Red Abishai",
-    "page": 160,
-    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "fiend",
     "AC": 22,
     "speed": [
         "30 ft",
@@ -49,5 +44,10 @@
         "Infernal",
         "telepathy 120 ft."
     ],
-    "CR": "19 (22,000 XP)"
+    "CR": "19 (22,000 XP)",
+    "page": 160,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
 }

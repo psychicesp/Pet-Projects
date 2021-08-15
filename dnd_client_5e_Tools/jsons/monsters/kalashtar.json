@@ -12,11 +12,6 @@
     "insight": "+4",
     "persuasion": "+6",
     "name": "Kalashtar",
-    "page": 317,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -37,5 +32,10 @@
         "Common",
         "telepathy 20 ft."
     ],
-    "CR": "1/4 (50 XP)"
+    "CR": "1/4 (50 XP)",
+    "page": 317,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

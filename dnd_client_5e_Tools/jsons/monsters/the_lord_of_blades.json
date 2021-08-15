@@ -13,11 +13,6 @@
     "history": "+10",
     "perception": "+9",
     "name": "The Lord of Blades",
-    "page": 300,
-    "book": "Eberron: Rising from the Last War",
-    "alignment": "LE",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 19,
     "speed": [
         "40 ft"
@@ -49,5 +44,10 @@
         "Dwarvish",
         "Elvish"
     ],
-    "CR": "18 (20,000 XP)"
+    "CR": "18 (20,000 XP)",
+    "page": 300,
+    "book": "Eberron: Rising from the Last War",
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
 }

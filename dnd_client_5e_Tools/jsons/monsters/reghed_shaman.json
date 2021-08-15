@@ -13,11 +13,6 @@
     "perception": "+4",
     "survival": "+4",
     "name": "Reghed Shaman",
-    "page": 152,
-    "book": "Icewind Dale: Rime of the Frostmaiden",
-    "alignment": "AA",
-    "size": "Medium",
-    "type": "humanoid",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -36,5 +31,10 @@
         "Common",
         "Druidic"
     ],
-    "CR": "2 (450 XP)"
+    "CR": "2 (450 XP)",
+    "page": 152,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
 }

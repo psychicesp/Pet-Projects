@@ -9,11 +9,6 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Lion",
-    "page": 331,
-    "book": "Monster Manual",
-    "alignment": "U",
-    "size": "Large",
-    "type": "beast",
     "AC": 12,
     "speed": [
         "50 ft"
@@ -29,5 +24,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "1 (200 XP)"
+    "CR": "1 (200 XP)",
+    "page": 331,
+    "book": "Monster Manual",
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
 }

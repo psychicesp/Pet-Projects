@@ -9,11 +9,6 @@
     "athletics": "+10",
     "intimidation": "+5",
     "name": "Clay Gladiator",
-    "page": 100,
-    "book": "Tomb of Annihilation",
-    "alignment": "U",
-    "size": "Medium",
-    "type": "construct",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -40,5 +35,10 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 100,
+    "book": "Tomb of Annihilation",
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
 }

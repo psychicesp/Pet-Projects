@@ -7,11 +7,6 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Umber Hulk",
-    "page": 292,
-    "book": "Monster Manual",
-    "alignment": "CE",
-    "size": "Large",
-    "type": "monstrosity",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -27,5 +22,10 @@
     "languages": [
         "Umber Hulk"
     ],
-    "CR": "5 (1,800 XP)"
+    "CR": "5 (1,800 XP)",
+    "page": 292,
+    "book": "Monster Manual",
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity"
 }
