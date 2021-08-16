@@ -1,0 +1,57 @@
+{
+    "tags": [
+        "any"
+    ],
+    "hit points": "2d8",
+    "strength": "10 (+0)",
+    "dexterity": "10 (+0)",
+    "constitution": "10 (+0)",
+    "intelligence": "14 (+2)",
+    "wisdom": "10 (+0)",
+    "charisma": "11 (+0)",
+    "arcana": "+4",
+    "history": "+4",
+    "name": "Apprentice Wizard",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "variable",
+    "page": 209,
+    "book": "Volo\u00ef\u00bf\u00bds Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "level": 1,
+            "type": "wizard",
+            "spells": [
+                "fire bolt",
+                "mending",
+                "prestidigitation",
+                "burning hands",
+                "disguise self",
+                "shield"
+            ]
+        }
+    },
+    "actions": {
+        "Dagger": "Melee or Ranged Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 2 (1d4) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

@@ -1,0 +1,81 @@
+{
+    "tags": [
+        "goblinoid"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "12",
+    "wisdom": "12",
+    "charisma": "18",
+    "arcana": "+4",
+    "deception": "+7",
+    "persuasion": "+7",
+    "religion": "+4",
+    "name": "Booyahg Slave of the Fiend",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "persuasion": "proficient",
+        "religion": "proficient"
+    },
+    "resistances": [
+        "slashing from nonmagical attacks not made with silvered\n            weapons"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any two languages (usually Abyssal or Infernal)",
+        "Goblin"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 42,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Dark One's Own Luck (Recharges after a Short or Long Rest)": "When the goblin makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur.",
+        "spellcasting": {
+            "level": 17,
+            "type": "The goblin is a 17th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15+1d6 + 12, +7+1d6 + 4 to hit with spell attacks). It\n                        regains its expended spell slots when it finishes a short or long rest. It knows the following\n                        warlock",
+            "spells": [
+                "eldritch blast",
+                "fire bolt",
+                "friends",
+                "mage hand",
+                "minor illusion",
+                "prestidigitation",
+                "shocking grasp",
+                "banishment",
+                "burning hands",
+                "flame strike",
+                "hellish rebuke",
+                "magic circle",
+                "scorching ray",
+                "scrying",
+                "stinking cloud",
+                "suggestion",
+                "wall of fire"
+            ]
+        },
+        "Nimble Escape": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns."
+    },
+    "actions": {
+        "Mace": "Melee Weapon Attack: +3+1d6 + 0 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage plus 10 (3d6) fire damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Small",
+    "type": "humanoid"
+}

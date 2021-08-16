@@ -1,0 +1,57 @@
+{
+    "tags": [
+        "any"
+    ],
+    "hit points": "2d8",
+    "strength": "10 (+0)",
+    "dexterity": "10 (+0)",
+    "constitution": "10 (+0)",
+    "intelligence": "10 (+0)",
+    "wisdom": "14 (+2)",
+    "charisma": "11 (+0)",
+    "medicine": "+4",
+    "religion": "+2",
+    "name": "Acolyte",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "medicine": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "variable",
+    "page": 342,
+    "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "level": 1,
+            "type": "The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12+1d4 + 10, +4+1d4 + 2 to hit with spell attacks). The acolyte has following cleric",
+            "spells": [
+                "light",
+                "sacred flame",
+                "thaumaturgy",
+                "bless",
+                "cure wounds",
+                "sanctuary"
+            ]
+        }
+    },
+    "actions": {
+        "Club": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

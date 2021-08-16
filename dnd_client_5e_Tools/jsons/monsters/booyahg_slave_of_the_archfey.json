@@ -1,0 +1,82 @@
+{
+    "tags": [
+        "goblinoid"
+    ],
+    "hit": "11d8",
+    "strength": "9",
+    "dexterity": "13",
+    "constitution": "11",
+    "intelligence": "11",
+    "wisdom": "12",
+    "charisma": "18",
+    "arcana": "+2",
+    "deception": "+6",
+    "nature": "+2",
+    "persuasion": "+6",
+    "name": "Booyahg Slave of the Archfey",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "nature": "proficient",
+        "persuasion": "proficient"
+    },
+    "condition_immunities": [
+        "charmed"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any two languages (usually Sylvan)",
+        "Goblin"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 42,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "level": 11,
+            "type": "The goblin is an 11th-level spellcaster. Its spellcasting ability is Charisma (spell save DC\n                        14+1d4 + 12, +6+1d4 + 4 to hit with spell attacks). It\n                        regains its expended spell slots when it finishes a short or long rest. It knows the following\n                        warlock",
+            "spells": [
+                "dancing lights",
+                "eldritch blast",
+                "friends",
+                "mage hand",
+                "minor illusion",
+                "prestidigitation",
+                "vicious mockery",
+                "blink",
+                "charm person",
+                "dimension door",
+                "dominate beast",
+                "faerie fire",
+                "fear",
+                "hold monster",
+                "misty step",
+                "phantasmal force",
+                "seeming",
+                "sleep"
+            ]
+        },
+        "Nimble Escape": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns."
+    },
+    "actions": {
+        "Dagger": "Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Small",
+    "type": "humanoid"
+}

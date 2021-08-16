@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "any"
+    ],
+    "hit": "1d8",
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Barovian Commoner",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 29,
+    "book": "Curse of Strahd",
+    "actions": {
+        "Pitchfork": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

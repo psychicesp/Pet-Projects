@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "hit points": "6d10 + 6",
+    "strength": "18 (+4)",
+    "dexterity": "8 (-1)",
+    "constitution": "13 (+1)",
+    "intelligence": "1 (-5)",
+    "wisdom": "3 (-4)",
+    "charisma": "1 (-5)",
+    "name": "Animated Table",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 6"
+    ],
+    "languages": [
+        "\u2014"
+    ],
+    "CR": "variable",
+    "page": 230,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Antimagic Susceptibility": "The table is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the table must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+        "Charge": "If the table moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15+1d4 + 13 Strength saving throw or be knocked prone.",
+        "False Appearance": "While the table remains motionless, it is indistinguishable from a normal table."
+    },
+    "actions": {
+        "Ram": "Melee Weapon Attack: +6+1d4 + 4, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
+}

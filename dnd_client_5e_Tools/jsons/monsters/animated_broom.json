@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "hit points": "5d6",
+    "strength": "10 (+0)",
+    "dexterity": "17 (+3)",
+    "constitution": "10 (+0)",
+    "intelligence": "1 (-5)",
+    "wisdom": "5 (-3)",
+    "charisma": "1 (-5)",
+    "name": "Animated Broom",
+    "AC": 15,
+    "speed": [
+        "0 ft",
+        "fly 50 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone"
+    ],
+    "senses": [
+        "blindsight 120 ft. (blind beyond this radius)",
+        "passive Perception 7"
+    ],
+    "languages": [
+        "\u00ef\u00bf\u00bd"
+    ],
+    "CR": "variable",
+    "page": 20,
+    "book": "Candlekeep Mysteries",
+    "traits": {
+        "False Object": "If the broom is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the broom move or act, that creature must succeed on a DC 15+1d4 + 13 Wisdom (Perception) check to discern that the broom is animate.",
+        "Flyby": "The broom doesn't provoke opportunity attacks when it flies out of an enemy's reach."
+    },
+    "actions": {
+        "Multiattack": "The broom makes two melee attacks.",
+        "Broomstick": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Small",
+    "type": "construct"
+}

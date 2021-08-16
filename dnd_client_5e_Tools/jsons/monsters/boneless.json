@@ -1,0 +1,51 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "1",
+    "stealth": "+4",
+    "name": "Boneless",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands the languages it knew in life but can't speak"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 228,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Compression": "The boneless can move through any opening at least 1 inch wide without squeezing. It can also squeeze to fit into a space that a Tiny creature could fit in.",
+        "Unusual Nature": "The boneless doesn't require sleep."
+    },
+    "actions": {
+        "Multiattack": "The boneless makes two Slam attacks. If both attacks hit a Large or smaller creature, the creature is grappled (escape DC 13+1d4 + 11), and the boneless can use Crushing Embrace.",
+        "Slam": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.",
+        "Crushing Embrace": "The boneless wraps its body around a Large or smaller creature grappled by it. While the boneless is attached, the target is blinded and is unable to breathe. The target must succeed on a DC 13+1d4 + 11 Strength saving throw at the start of each of the boneless' turns or take 5 (1d4 + 3) bludgeoning damage. If something moves the target, the boneless moves with it. The boneless can detach itself by spending 5 feet of its movement. A creature, including the target, can use its action to try to detach the boneless and force it to move into the nearest unoccupied space, doing so with a successful DC 13+1d4 + 11 Strength check. When the boneless dies, it detaches from any creature it is attached to."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "undead"
+}

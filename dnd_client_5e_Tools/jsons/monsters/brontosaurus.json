@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "9",
+    "constitution": "17",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "7",
+    "name": "Brontosaurus",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 139,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "actions": {
+        "Stomp": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 20 ft., one target. Hit: 27 (5d8 + 5) bludgeoning damage, and the target must succeed on a DC 14+1d6 + 11 Strength saving throw or be knocked prone.",
+        "Tail": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 20 ft., one target. Hit: 32 (6d8 + 5) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "beast"
+}

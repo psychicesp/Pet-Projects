@@ -1,0 +1,79 @@
+{
+    "tags": [
+        "goblinoid"
+    ],
+    "strength": "9",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "12",
+    "wisdom": "12",
+    "charisma": "18",
+    "arcana": "+4",
+    "history": "+4",
+    "name": "Booyahg\n                        Slave of the Great Old One",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "resistances": [
+        "psychic"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any two languages",
+        "telepathy 30 ft.",
+        "Goblin"
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 42,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "level": 14,
+            "type": "The goblin is a 14th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15+1d6 + 12, +7+1d6 + 4 to hit with spell attacks). It\n                        regains its expended spell slots when it finishes a short or long rest. It knows the following\n                        warlock",
+            "spells": [
+                "chill touch",
+                "eldritch blast",
+                "guidance",
+                "mage hand",
+                "minor illusion",
+                "prestidigitation",
+                "shocking grasp",
+                "armor of Agathys",
+                "arms of Hadar",
+                "crown of madness",
+                "clairvoyance",
+                "contact other plane",
+                "detect thoughts",
+                "dimension door",
+                "dissonant whispers",
+                "dominate beast",
+                "telekinesis",
+                "vampiric touch"
+            ]
+        },
+        "Nimble Escape": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns.",
+        "Whispering Aura": "At the start of each of the goblin's turns, each creature of its choice within 5 feet of it must succeed on a DC 15+1d6 + 12 Wisdom saving throw or take 10 (3d6) psychic damage, provided that the goblin isn't incapacitated."
+    },
+    "actions": {
+        "Dagger": "Melee or Ranged Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Small",
+    "type": "humanoid"
+}

@@ -1,0 +1,55 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "18",
+    "constitution": "17",
+    "intelligence": "16",
+    "wisdom": "13",
+    "charisma": "19",
+    "intimidation": "+7",
+    "perception": "+4",
+    "stealth": "+7",
+    "name": "Blood Drinker Vampire",
+    "AC": 16,
+    "speed": [
+        "40 ft",
+        "fly 40 ft. (hover)"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 223,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "actions": {
+        "Multiattack": "The vampire makes three melee attacks, only one of which can be a bite attack.",
+        "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. If the target is humanoid, it must succeed on a DC 15+1d6 + 12 Charisma saving throw or be charmed by the vampire for 1 minute. While charmed in this way, the target is infatuated with the vampire. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.",
+        "Rapier": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.",
+        "Unarmed Strike": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. The vampire can also grapple the target (escape DC 14+1d6 + 11) if it is a creature and the vampire has a hand free."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "hit points": "3d8 + 6",
+    "strength": "16 (+3)",
+    "dexterity": "14 (+2)",
+    "constitution": "14 (+2)",
+    "intelligence": "6 (-2)",
+    "wisdom": "12 (+1)",
+    "charisma": "7 (-2)",
+    "athletics": "+5",
+    "perception": "+3",
+    "name": "Ape",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\u2014"
+    ],
+    "CR": "variable",
+    "page": 317,
+    "book": "Monster Manual",
+    "actions": {
+        "Multiattack": "The ape makes two fist attacks.",
+        "Fist": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.",
+        "Rock": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 25/50 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
+}

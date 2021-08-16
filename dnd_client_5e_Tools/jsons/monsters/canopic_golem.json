@@ -1,0 +1,52 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "10",
+    "constitution": "20",
+    "intelligence": "7",
+    "wisdom": "11",
+    "charisma": "1",
+    "name": "Canopic Golem",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "13 (10,000 XP)",
+    "page": 179,
+    "book": "Candlekeep Mysteries",
+    "traits": {
+        "Limited Spell Immunity": "The golem automatically succeeds on saving throws against spells of 7th level or lower, and the attack rolls of such spells always miss it.",
+        "Unusual Nature": "The golem doesn't require air, food, drink, or sleep."
+    },
+    "actions": {
+        "Multiattack": "The golem makes two attacks.",
+        "Slam": "Melee Weapon Attack: +10+1d10 + 5 to hit, reach 5 ft., one target. Hit: 27 (4d10 + 5) force damage.",
+        "Crystal Dart": "Ranged Weapon Attack: +10+1d10 + 5 to hit, range 120 ft., one target. Hit: 14 (2d8 + 5) force damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
+}
