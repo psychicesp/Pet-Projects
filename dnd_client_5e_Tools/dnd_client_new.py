@@ -81,9 +81,12 @@ def html_to_json(file_name, save = True):
     # meal['hit_dice_type'] = 'd'+meal['hit'].split('d')[1]
     # meal['num_hit_dice'] = int(meal['hit'].split('d')[0])
     # meal.pop('hit')
-    meal['AC'] = None
+    meal['AC'] =  mon_soup.find('div',{"class":"mon__wrp-avoid-token"})
 
-    meal['AC'] =  mon_soup.find('div',{"class":"mon__wrp-avoid-token"}).text
+    if meal['AC'] is None:
+        meal['AC'] = mon_soup.find_all("td", {'colspan':"6"})[1]
+
+    meal['AC'] = meal['AC'].text
 
     for word in meal['AC'].split(' '):
         if word.isnumeric():
@@ -197,10 +200,10 @@ def html_to_json(file_name, save = True):
             action_text = action.p.text
             meal['actions'][sterilizer(action_name)] = sterilizer(action_text)
 
-        legendary_dict = {
-            'number': 0,
-            'options': {}
-        }
+    legendary_dict = {
+        'number': 0,
+        'options': {}
+    }
 
     try:
         legendary_soup = mon_soup.find_all('tr', {'class': 'legendary'})

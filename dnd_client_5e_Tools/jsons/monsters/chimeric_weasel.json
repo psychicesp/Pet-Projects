@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "3",
+    "dexterity": "16",
+    "constitution": "8",
+    "intelligence": "2",
+    "wisdom": "12",
+    "charisma": "3",
+    "perception": "+3",
+    "stealth": "+5",
+    "name": "Chimeric Weasel",
+    "AC": "",
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 246,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Chimeric Creation": "The weasel has glowing eyes that emit bright light out in a 20-foot radius and dim light for an additional 20 feet.",
+        "Keen Hearing and Smell": "The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 1 piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast"
+}

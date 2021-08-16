@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "15",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Constructed Commoner",
+    "AC": 15,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 149,
+    "book": "Candlekeep Mysteries",
+    "traits": {
+        "Unusual Nature": "The commoner doesn't require air, food, drink, or sleep, and it gains no benefit from finishing a short or long rest. When it drops to 0 hit points, it becomes a lifeless object."
+    },
+    "actions": {
+        "Club": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
+}

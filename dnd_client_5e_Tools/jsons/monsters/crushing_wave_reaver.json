@@ -1,0 +1,43 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "15",
+    "dexterity": "14",
+    "constitution": "13",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "8",
+    "athletics": "+4",
+    "stealth": "+4",
+    "name": "Crushing Wave Reaver",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 205,
+    "book": "Princes of the Apocalypse",
+    "actions": {
+        "Sharktoothed Longsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands. Against a target is wearing no armor, the reaver deals an extra die of damage with this sword.",
+        "Javelin": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

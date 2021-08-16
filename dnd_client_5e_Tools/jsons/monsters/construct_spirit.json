@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "10",
+    "constitution": "18",
+    "intelligence": "14",
+    "wisdom": "11",
+    "charisma": "5",
+    "name": "Construct Spirit",
+    "AC": "",
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands the languages you speak"
+    ],
+    "CR": "variable",
+    "page": 111,
+    "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
+    "traits": {
+        "Heated Body (Metal Only)": "A creature that touches the construct or hits it with a melee attack while within 5 feet of it takes 1d10 fire damage.",
+        "Stony Lethargy (Stone Only)": "When a creature the construct can see starts its turn within 10 feet of the construct, the construct can force it to make a Wisdom saving throw against your spell save DC. On a failed save, the target can't use reactions and its speed is halved until the start of its next turn."
+    },
+    "actions": {
+        "Multiattack": "The construct makes a number of attacks equal to half this spell's level (rounded down).",
+        "Slam": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 4 + the spell's level bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
+}
