@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "18",
+    "constitution": "18",
+    "intelligence": "12",
+    "wisdom": "10",
+    "charisma": "7",
+    "name": "Galvan Magen",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "fly 30 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "lightning, poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands the languages of its creator but can\\'t speak"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 301,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Fiery End": "If the magen dies, its body disintegrates in a harmless burst of fire and smoke, leaving behind anything it was wearing or carrying.",
+        "Magic Resistance": "The magen has advantage on saving throws against spells and other magical effects.",
+        "Unusual Nature": "The magen doesn't require air, food, drink, or sleep."
+    },
+    "actions": {
+        "Multiattack": "The magen makes two Shocking Touch attacks.",
+        "Shocking Touch": "Melee Spell Attack: +6+1d4 + 4 to hit, reach 5 ft., one target (the magen has advantage on the attack roll if the target is wearing armor made of metal). Hit: 7 (1d6 + 4) lightning damage.",
+        "Static Discharge (Recharge 5xe2x80x936)": "The magen discharges a lightning bolt in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 14+1d4 + 12 Dexterity saving throw (with disadvantage if the creature is wearing armor made of metal), taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
+}

@@ -1,0 +1,64 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "10",
+    "dexterity": "12",
+    "constitution": "13",
+    "intelligence": "12",
+    "wisdom": "15",
+    "charisma": "11",
+    "medicine": "+4",
+    "nature": "+3",
+    "perception": "+4",
+    "survival": "+4",
+    "name": "Reghed Shaman",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "medicine": "proficient",
+        "nature": "proficient",
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common",
+        "Druidic"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 152,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "spellcasting": {
+            "level": 4,
+            "type": "druid",
+            "spells": [
+                "druidcraft",
+                "produce flame",
+                "shillelagh",
+                "entangle",
+                "longstrider",
+                "speak with animals",
+                "thunderwave",
+                "animal messenger",
+                "barkskin"
+            ]
+        }
+    },
+    "actions": {
+        "Quarterstaff": "Melee Weapon Attack: +2+1d4 + 0 to hit (+4+1d4 + 2 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

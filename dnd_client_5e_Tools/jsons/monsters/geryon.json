@@ -69,13 +69,18 @@
         "Magic Weapons": "Geryon's weapon attacks are magical.",
         "Regeneration": "Geryon regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Geryon dies only if he starts his turn with 0 hit points and doesn't regenerate."
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "Geryon makes two attacks: one with his claws and one with his stinger.",
+        "Claws": "Melee Weapon Attack: +16+1d14 + 9 to hit, reach 15 ft., one target. Hit: 23 (4d6 + 9) slashing damage. If the target is Large or smaller, it is grappled (DC 24+1d14 + 17) and is restrained until the grapple ends. Geryon can grapple one creature at a time. If the target is already grappled by Geryon, the target takes an extra 27 (6d8) slashing damage.",
+        "Stinger": "Melee Weapon Attack: +16+1d14 + 9 to hit, reach 20 ft., one creature. Hit: 14 (2d4 + 9) piercing damage, and the target must succeed on a DC 21+1d14 + 14 Constitution saving throw or take 13 (2d12) poison damage and become poisoned until it finishes a short or long rest. The target's hit point maximum is reduced by an amount equal to half the poison damage it takes. If its hit point maximum drops to 0, it dies. This reduction lasts until the poisoned condition is removed.",
+        "Teleport": "Geryon magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Infernal Glare": "Geryon targets one creature he can see within 60 feet of him. If the target can see Geryon, the target must succeed on a DC 23+1d14 + 16 Wisdom saving throw or become frightened of Geryon until the end of its next turn.",
-            "Swift Sting (Costs 2 Actions)": "Geryon attacks with his stinger.",
-            "Teleport": "Geryon uses his Teleport action."
+            "Infernal Glare": " Geryon targets one creature he can see within 60 feet of him. If the target can see Geryon, the target must succeed on a DC 23+1d14 + 16 Wisdom saving throw or become frightened of Geryon until the end of its next turn.",
+            "Swift Sting (Costs 2 Actions)": " Geryon attacks with his stinger.",
+            "Teleport": " Geryon uses his Teleport action."
         }
     },
     "in_lair": {

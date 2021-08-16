@@ -1,0 +1,69 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "9",
+    "dexterity": "14",
+    "constitution": "13",
+    "intelligence": "16",
+    "wisdom": "11",
+    "charisma": "12",
+    "arcana": "+5",
+    "history": "+5",
+    "name": "Illusionist",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any four languages"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 214,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Displacement (Recharges after the Illusionist Casts an Illusion Spell of 1st Level or Higher)": "As a bonus action, the illusionist projects an illusion that makes the illusionist appear to be standing in a place a few inches from its actual location, causing any creature to have disadvantage on attack rolls against the illusionist. The effect ends if the illusionist takes damage, it is incapacitated, or its speed becomes 0.",
+        "spellcasting": {
+            "level": 7,
+            "type": "wizard",
+            "spells": [
+                "dancing lights",
+                "mage hand",
+                "minor illusion",
+                "poison spray",
+                "color spray",
+                "disguise self",
+                "mage armor",
+                "magic missile",
+                "invisibility",
+                "mirror image",
+                "phantasmal force",
+                "major image",
+                "phantom steed",
+                "phantasmal killer"
+            ]
+        },
+        "*Illusion spell of 1st level or higher": "*Illusion spell of 1st level or higher"
+    },
+    "actions": {
+        "Quarterstaff": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

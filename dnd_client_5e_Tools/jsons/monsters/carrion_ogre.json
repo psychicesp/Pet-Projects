@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "8",
+    "constitution": "16",
+    "intelligence": "1",
+    "wisdom": "7",
+    "charisma": "7",
+    "name": "Carrion Ogre",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Common",
+        "Giant"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 189,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Tied Down": "While lashed to the floor, the creature is prone and restrained. It also suffers from two levels of exhaustion."
+    },
+    "actions": {
+        "Multiattack": "The creature makes two attacks: one with its tentacles and one with its bite.",
+        "Tentacles": "Melee Weapon Attack: +8+1d4 + 6 to hit, reach 10 ft., one creature. Hit: 4 (1d4 + 2) poison damage, and the target must succeed on a DC 13+1d4 + 11 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant"
+}

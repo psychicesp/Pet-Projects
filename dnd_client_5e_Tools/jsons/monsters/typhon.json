@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "10",
+    "constitution": "20",
+    "intelligence": "7",
+    "wisdom": "12",
+    "charisma": "13",
+    "name": "Typhon",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "acid, necrotic"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "15 (13,000 XP)",
+    "page": 246,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Keen Smell": "The typhon has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Regeneration": "The typhon regains 20 hit points at the start of its turn. If it takes radiant damage, this trait doesn't function at the start of its next turn. The typhon dies only if it starts its turn with 0 hit points and doesn't regenerate."
+    },
+    "actions": {
+        "Multiattack": "The typhon makes three attacks: one with its Flurry of Bites, one to constrict, and one with its maw.",
+        "Flurry of Bites": "Melee Weapon Attack: +12+1d10 + 7 to hit, reach 10 ft., one target. Hit: 35 (8d6 + 7) piercing damage.",
+        "Constrict": "Melee Weapon Attack: +12+1d10 + 7 to hit, reach 15 ft., one Large or smaller creature. Hit: 17 (3d6 + 7) bludgeoning damage, and the target is grappled (escape DC 19+1d10 + 14). Until this grapple ends, the target is restrained and takes 17 (3d6 + 7) bludgeoning damage at the start of each of its turns. The typhon can have up to two creatures constricted.",
+        "Maw": "Melee Weapon Attack: +12+1d10 + 7 to hit, reach 10 ft., one target. Hit: 26 (3d12 + 7) piercing damage plus 19 (3d12) acid damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "monstrosity"
+}

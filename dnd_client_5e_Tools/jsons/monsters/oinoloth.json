@@ -1,0 +1,83 @@
+{
+    "tags": [
+        "yugoloth"
+    ],
+    "strength": "19",
+    "dexterity": "17",
+    "constitution": "18",
+    "intelligence": "17",
+    "wisdom": "16",
+    "charisma": "19",
+    "deception": "+8",
+    "intimidation": "+8",
+    "perception": "+7",
+    "name": "Oinoloth",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "acid, poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "Abyssal",
+        "Infernal",
+        "telepathy 60 ft."
+    ],
+    "CR": "12 (8,400 XP)",
+    "page": 251,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Bringer of Plagues (Recharge 5xe2x80x936)": "As a bonus action, the oinoloth blights the area within 30 feet of it. The blight lasts for 24 hours. While blighted, all normal plants in the area wither and die, and the number of hit points restored by a spell to a creature in that area is halved.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "darkness",
+                "detect magic",
+                "dispel magic",
+                "invisibility",
+                "feeblemind",
+                "globe of invulnerability",
+                "wall of fire",
+                "wall of ice"
+            ]
+        },
+        "Magic Resistance": "The oinoloth has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The oinoloth's weapon attacks are magical."
+    },
+    "actions": {
+        "Multiattack": "The oinoloth uses its Transfixing Gaze and makes two claw attacks.",
+        "Claw": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) slashing damage plus 22 (4d10) necrotic damage.",
+        "Corrupted Healing (Recharge 6)": "The oinoloth touches one willing creature within 5 feet of it. The target regains all its hit points. In addition, the oinoloth can end one disease on the target or remove one of the following conditions from it: blinded, deafened, paralyzed, or poisoned. The target then gains 1 level of exhaustion, and its hit point maximum is reduced by 7 (2d6). This reduction can be removed only by a wish spell or by casting greater restoration on the target three times within the same hour. The target dies if its hit point maximum is reduced to 0.",
+        "Teleport": "The oinoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.",
+        "Transfixing Gaze": "The oinoloth targets one creature it can see within 30 feet of it. The target must succeed on a DC 16+1d8 + 12 Wisdom saving throw against this magic or be charmed until the end of the oinoloth's next turn. While charmed in this way, the target is restrained. If the target's saving throw is successful, the target is immune to the oinoloth's gaze for the next 24 hours."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
+}

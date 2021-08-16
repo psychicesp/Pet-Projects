@@ -1,0 +1,60 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "14",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "18",
+    "wisdom": "9",
+    "charisma": "12",
+    "arcana": "+6",
+    "intimidation": "+3",
+    "perception": "+1",
+    "name": "Cosmotronic Blastseeker",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 242,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Empowered Spell (3/Day)": "When the blastseeker rolls damage for a spell, it can reroll up to four dice of damage. It must use the new dice.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "scorching ray",
+                "shield",
+                "thunderwave",
+                "fireball"
+            ]
+        },
+        "Tides of Chaos (1/Day)": "The blastseeker makes one attack roll, ability check, or saving throw with advantage."
+    },
+    "actions": {
+        "Warhammer": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, or 7 (1d10 + 2) bludgeoning damage if used with two hands."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid"
+}

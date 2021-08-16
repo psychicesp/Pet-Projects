@@ -1,0 +1,55 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "10",
+    "perception": "+5",
+    "name": "Death Kiss",
+    "AC": 16,
+    "speed": [
+        "0 ft",
+        "fly 30 ft. (hover)"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "lightning"
+    ],
+    "condition_immunities": [
+        "prone"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Deep Speech",
+        "Undercommon"
+    ],
+    "CR": "10 (5,900 XP)",
+    "page": 124,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Lightning Blood": "A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage."
+    },
+    "actions": {
+        "Multiattack": "The death kiss makes three tentacle attacks. Up to three of these attacks can be replaced by Blood Drain, one replacement per tentacle grappling a creature",
+        "Tentacle": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 20 ft., one target. Hit: 14 (3d6 + 4) piercing damage, and the target is grappled (escape DC 14+1d8 + 10) if it is a Huge or smaller creature. Until this grapple ends, the target is restrained, and the death kiss can't use the same tentacle on another target. The death kiss has ten tentacles.",
+        "Blood Drain": "One creature grappled by a tentacle of the death kiss must make a DC 16+1d8 + 12 Constitution saving throw. On a failed save, the target takes 22 (4d10) lightning damage, and the death kiss regains half as many hit points."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Large",
+    "type": "aberration"
+}

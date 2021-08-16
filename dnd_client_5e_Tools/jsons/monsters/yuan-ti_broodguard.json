@@ -1,0 +1,59 @@
+{
+    "tags": [
+        "yuan-ti"
+    ],
+    "strength": "15",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "6",
+    "wisdom": "11",
+    "charisma": "4",
+    "perception": "+2",
+    "name": "Yuan-ti Broodguard",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Draconic"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 203,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Mental Resistance": "The broodguard has advantage on saving throws against being charmed, and magic can't paralyze it.",
+        "Reckless": "At the start of its turn, the broodguard can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn."
+    },
+    "actions": {
+        "Multiattack": "The broodguard makes three attacks: one with its bite and two with its claws.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.",
+        "Claws": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

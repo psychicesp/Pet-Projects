@@ -1,0 +1,58 @@
+{
+    "tags": [],
+    "hit points": "14d10 + 56",
+    "strength": "21 (+5)",
+    "dexterity": "16 (+3)",
+    "constitution": "18 (+4)",
+    "intelligence": "6 (-2)",
+    "wisdom": "14 (+2)",
+    "charisma": "8 (-1)",
+    "wisdom save": "+5",
+    "charisma save": "+2",
+    "perception": "+5",
+    "stealth": "+6",
+    "survival": "+5",
+    "name": "Aeorian Reverser",
+    "AC": 15,
+    "speed": [
+        "40 ft",
+        "climb 40 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient",
+        "survival": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic, radiant"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "understands Draconic but can't speak"
+    ],
+    "CR": "variable",
+    "page": 284,
+    "book": "Explorer\u2019s Guide to Wildemount",
+    "traits": {
+        "Magic Resistance": "The reverser has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The reverser makes three attacks: one with its bite and two with its claws.",
+        "Bite": "Melee Weapon Attack: +8+1d6 + 5 to hit, range 5 ft., one creature. Hit: 11 (1d12 + 5) piercing damage plus 6 (1d12) force damage.",
+        "Claws": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage plus 7 (2d6) force damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Large",
+    "type": "monstrosity"
+}

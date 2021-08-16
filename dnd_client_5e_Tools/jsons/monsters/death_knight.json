@@ -1,0 +1,69 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "11",
+    "constitution": "20",
+    "intelligence": "12",
+    "wisdom": "16",
+    "charisma": "18",
+    "name": "Death Knight",
+    "AC": 20,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common"
+    ],
+    "CR": "17 (18,000 XP)",
+    "page": 47,
+    "book": "Monster Manual",
+    "traits": {
+        "Magic Resistance": "The death knight has advantage on saving throws against spells and other magical effects.",
+        "Marshal Undead": "Unless the death knight is incapacitated, it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.",
+        "spellcasting": {
+            "level": 19,
+            "type": "paladin",
+            "spells": [
+                "command",
+                "compelled duel",
+                "searing smite",
+                "hold person",
+                "magic weapon",
+                "dispel magic",
+                "elemental weapon",
+                "banishment",
+                "staggering smite",
+                "destructive wave"
+            ]
+        }
+    },
+    "actions": {
+        "Multiattack": "The death knight makes three longsword attacks.",
+        "Longsword": "Melee Weapon Attack: +11+1d12 + 5 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands, plus 18 (4d8) necrotic damage.",
+        "Hellfire Orb (1/Day)": "The death knight hurls a magical ball of fire that explodes at a point it can see within 120 feet of it. Each creature in a 20-foot-radius sphere centered on that point must make a DC 18+1d12 + 12 Dexterity saving throw. The sphere spreads around corners. A creature takes 35 (10d6) fire damage and 35 (10d6) necrotic damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
+}

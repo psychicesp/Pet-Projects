@@ -1,0 +1,69 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "hit": "3d6",
+    "strength": "9",
+    "dexterity": "16",
+    "constitution": "11",
+    "intelligence": "11",
+    "wisdom": "7",
+    "charisma": "12",
+    "deception": "+3",
+    "perception": "+0",
+    "performance": "+3",
+    "name": "Cackler",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "perception": "proficient",
+        "performance": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 195,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "fire bolt",
+                "Tasha's hideous laughter"
+            ]
+        },
+        "Last Laugh": "When the cackler dies, it releases a dying laugh that scars the minds of other nearby creatures. Each creature within 10 feet of the cackler must succeed on a DC 11+1d4 + 9 Wisdom saving throw or take 2 (1d4) psychic damage.",
+        "Mimicry": "The cackler can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 11+1d4 + 9 Wisdom (Insight) check."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.",
+        "Spiked Chain": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Small",
+    "type": "fiend"
+}

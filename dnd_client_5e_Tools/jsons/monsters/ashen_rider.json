@@ -1,0 +1,78 @@
+{
+    "tags": [],
+    "hit points": "21d8 + 84",
+    "strength": "20 (+5)",
+    "dexterity": "16 (+3)",
+    "constitution": "19 (+4)",
+    "intelligence": "15 (+2)",
+    "wisdom": "21 (+5)",
+    "charisma": "18 (+4)",
+    "strength save": "+10",
+    "constitution save": "+9",
+    "wisdom save": "+10",
+    "charisma save": "+9",
+    "history": "+7",
+    "insight": "+10",
+    "perception": "+10",
+    "name": "Ashen Rider",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "history": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "thunder"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "all"
+    ],
+    "CR": "variable",
+    "page": 213,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Aura of Silence": "When a creature starts its turn within 30 feet of the ashen rider, the rider can force that creature to make a DC 18+1d10 + 13 Wisdom saving throw if the rider can see it. On a successful save, the creature is immune to this aura for the next 24 hours. On a failed save, the creature can't speak and is deafened until the start of its next turn.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "command",
+                "compelled duel",
+                "banishment",
+                "blade barrier"
+            ]
+        },
+        "Mount": "If the ashen rider isn't mounted, it can use a bonus action to magically teleport onto the creature serving as its mount, provided the ashen rider and its mount are on the same plane of existence. When it teleports, the ashen rider appears astride the mount along with any equipment it is wearing or carrying."
+    },
+    "actions": {
+        "Multiattack": "The ashen rider makes three attacks with its ashen blade or two attacks with its bolt of ash.",
+        "Ashen Blade": "Melee Weapon Attack: +10+1d10 + 5 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) slashing damage plus 13 (2d12) radiant damage.",
+        "Bolt of Ash": "Ranged Spell Attack: +10+1d10 + 5 to hit, range 120 ft., one creature. Hit: 22 (4d10) necrotic damage, and the target can't regain hit points until the start of the ashen rider's next turn."
+    },
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Attack": " The ashen rider makes an attack using its ashen blade or bolt of ash.",
+            "Coordinated Assault (Costs 2 Actions)": " The ashen rider makes an attack using its ashen blade or bolt of ash, and then its mount can use its reaction to make a melee weapon attack.",
+            "Reduce to Ash (Costs 3 Actions)": " The ashen rider targets a creature it can see within 60 feet of it. The target must succeed on a DC 18+1d10 + 13 Constitution saving throw, or it takes 27 (5d10) necrotic damage and its hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. If the target's hit point maximum is reduced to 0, its body and everything it is wearing and carrying, except for magic items, are reduced to ash. A creature reduced to ash can't be revived by any means short of a wish spell."
+        }
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "celestial"
+}

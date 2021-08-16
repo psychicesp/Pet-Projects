@@ -1,0 +1,67 @@
+{
+    "tags": [
+        "sahuagin"
+    ],
+    "hit": "5d8",
+    "strength": "14",
+    "dexterity": "10",
+    "constitution": "11",
+    "intelligence": "8",
+    "wisdom": "8",
+    "charisma": "16",
+    "arcana": "+1",
+    "persuasion": "+5",
+    "name": "Sahuagin Warlock of Uk\\'otoa",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "persuasion": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "Common",
+        "Sahuagin"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 297,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Blood Frenzy": "The warlock has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "eldritch blast",
+                "minor illusion",
+                "armor of Agathys",
+                "arms of Hadar",
+                "counterspell",
+                "crown of madness",
+                "invisibility",
+                "hunger of Hadar"
+            ]
+        },
+        "Limited Amphibiousness": "The warlock can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.",
+        "Shark Telepathy": "The warlock can magically command any shark within 120 feet of it, using a limited telepathy."
+    },
+    "actions": {
+        "Multiattack": "The warlock makes two attacks: one with its bite and one with its Sword of Fathoms.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.",
+        "Sword of Fathoms": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) slashing damage, and if the target is a creature, it must succeed on a DC 13+1d4 + 11 Constitution saving throw or begin choking. The choking creature is incapacitated until the end of its next turn, when the effect ends on it.",
+        "Eldritch Blast (Cantrip)": "Ranged Spell Attack: +5+1d4 + 3 to hit, range 120 ft., one creature. Hit: 5 (1d10) force damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

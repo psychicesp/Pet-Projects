@@ -1,0 +1,52 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "15",
+    "constitution": "21",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "9",
+    "athletics": "+10",
+    "perception": "+5",
+    "name": "Sunder Shaman",
+    "AC": 20,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "10 (5,900 XP)",
+    "page": 202,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Reckless": "At the start of its turn, the giant can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.",
+        "Siege Monster": "The giant deals double damage to objects and structures.",
+        "Stone Camouflage": "The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain."
+    },
+    "actions": {
+        "Multiattack": "The giant makes two slam attacks. The first of those attacks that hits deals an extra 18 (4d8) damage if the giant has taken damage since its last turn.",
+        "Slam": "Melee Weapon Attack: +10+1d8 + 6 to hit, reach 15 ft., one target. Hit: 24 (4d8 + 6) bludgeoning damage.",
+        "Rock": "Ranged Weapon Attack: +10+1d8 + 6 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 18+1d8 + 14 Strength saving throw or be knocked prone."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CN",
+    "size": "Huge",
+    "type": "giant"
+}

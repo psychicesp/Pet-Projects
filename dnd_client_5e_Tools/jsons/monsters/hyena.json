@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "11",
+    "dexterity": "13",
+    "constitution": "12",
+    "intelligence": "2",
+    "wisdom": "12",
+    "charisma": "5",
+    "perception": "+3",
+    "name": "Hyena",
+    "AC": 11,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 331,
+    "book": "Monster Manual",
+    "traits": {
+        "Pack Tactics": "The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
+}

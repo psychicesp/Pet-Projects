@@ -1,0 +1,53 @@
+{
+    "tags": [],
+    "strength": "30",
+    "dexterity": "8",
+    "constitution": "27",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "1",
+    "name": "Walking Statue of Waterdeep",
+    "AC": 17,
+    "speed": [
+        "60 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "cold, fire, poison, psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine weapons"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "18 (20,000 XP)",
+    "page": 219,
+    "book": "Waterdeep: Dragon Heist",
+    "traits": {
+        "Crumbling Colossus": "When the statue drops to 0 hit points, it crumbles and is destroyed. Any creature on the ground within 30 feet of the crumbling statue must make a DC 22+1d12 + 16 Dexterity saving throw, taking 22 (4d10) bludgeoning damage on a failed save, or half as much damage on a successful one.",
+        "Immutable Form": "The statue is immune to any spell or effect that would alter its form.",
+        "Magic Resistance": "The statue has advantage on saving throws against spells and other magical effects.",
+        "Siege Monster": "The statue deals double damage to objects and structures."
+    },
+    "actions": {
+        "Multiattack": "The statue makes two melee attacks.",
+        "Slam": "Melee Weapon Attack: +16+1d12 + 10 to hit, reach 5 ft., one target. Hit: 29 (3d12 + 10) bludgeoning damage.",
+        "Hurled Stone": "Ranged Weapon Attack: +16+1d12 + 10 to hit, range 200/800 ft., one target. Hit: 43 (6d10 + 10) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Gargantuan",
+    "type": "construct"
+}

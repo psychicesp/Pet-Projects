@@ -44,5 +44,12 @@
         "Incorporeal Movement": "The gallows speaker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends it turn inside an object.",
         "Unusual Nature": "The gallows speaker doesn't require air, food, drink, or sleep."
     },
-    "actions": {}
+    "actions": {
+        "Foretelling Touch": "Melee Spell Attack: +7+1d6 + 4 to hit, reach 5 ft., one creature. Hit: 15 (2d10 + 4) psychic damage, and the target must roll a d4 and subtract the number rolled from the next attack roll or saving throw it makes before the start of the gallows speaker's next turn.",
+        "Suffering Echoes": "The gallows speaker targets a creature it can see within 30 feet of it. The target must make a DC 15+1d6 + 12 Wisdom saving throw. On a failed save, the target takes 19 (3d12) psychic damage, and waves of painful memories leap from the target to up to three other creatures of the gallows speaker's choice that are within 30 feet of the target, each of which takes 13 (3d8) psychic damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    }
 }

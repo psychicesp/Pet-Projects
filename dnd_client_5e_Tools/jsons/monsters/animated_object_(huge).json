@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "18 (+4)",
+    "dexterity": "6 (-2)",
+    "constitution": "10 (+0)",
+    "intelligence": "3 (-4)",
+    "wisdom": "3 (-4)",
+    "charisma": "1 (-5)",
+    "name": "Animated Object (Huge)",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "blindsight 30 ft. (blind beyond this radius)",
+        "passive Perception 6"
+    ],
+    "languages": [
+        "\u2014"
+    ],
+    "CR": "variable",
+    "page": 213,
+    "book": "Player\u2019s Handbook",
+    "traits": {
+        "Animated": "If the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or larger object, such as a chain bolted to a wall, its speed is 0."
+    },
+    "actions": {
+        "Slam": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d12 + 4) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Huge",
+    "type": "construct"
+}

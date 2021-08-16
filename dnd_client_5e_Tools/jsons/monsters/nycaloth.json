@@ -1,0 +1,76 @@
+{
+    "tags": [
+        "yugoloth"
+    ],
+    "strength": "20",
+    "dexterity": "11",
+    "constitution": "19",
+    "intelligence": "12",
+    "wisdom": "10",
+    "charisma": "15",
+    "intimidation": "+6",
+    "perception": "+4",
+    "stealth": "+4",
+    "name": "Nycaloth",
+    "AC": 18,
+    "speed": [
+        "40 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "acid, poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Abyssal",
+        "Infernal",
+        "telepathy 60 ft."
+    ],
+    "CR": "9 (5,000 XP)",
+    "page": 314,
+    "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "darkness",
+                "detect magic",
+                "dispel magic",
+                "invisibility",
+                "mirror image"
+            ]
+        },
+        "Magic Resistance": "The nycaloth has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The nycaloth's weapon attacks are magical."
+    },
+    "actions": {
+        "Multiattack": "The nycaloth makes two melee attacks, or it makes one melee attack and teleports before or after the attack.",
+        "Claw": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage. If the target is a creature, it must succeed on a DC 16+1d8 + 12 Constitution saving throw or take 5 (2d4) slashing damage at the start of each of its turns due to a fiendish wound. Each time the nycaloth hits the wounded target with this attack, the damage dealt by the wound increases by 5 (2d4). Any creature can take an action to stanch the wound with a successful DC 13+1d8 + 9 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.",
+        "Greataxe": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 18 (2d12 + 5) slashing damage.",
+        "Teleport": "The nycaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Large",
+    "type": "fiend"
+}

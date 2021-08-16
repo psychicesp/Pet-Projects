@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "17",
+    "dexterity": "13",
+    "constitution": "13",
+    "intelligence": "2",
+    "wisdom": "12",
+    "charisma": "8",
+    "perception": "+5",
+    "name": "Hippogriff",
+    "AC": 11,
+    "speed": [
+        "40 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 184,
+    "book": "Monster Manual",
+    "traits": {
+        "Keen Sight": "The hippogriff has advantage on Wisdom (Perception) checks that rely on sight."
+    },
+    "actions": {
+        "Multiattack": "The hippogriff makes two attacks: one with its beak and one with its claws.",
+        "Beak": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.",
+        "Claws": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
+}

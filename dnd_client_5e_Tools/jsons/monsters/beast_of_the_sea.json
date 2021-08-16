@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "8",
+    "wisdom": "14",
+    "charisma": "11",
+    "name": "Beast of the Sea",
+    "AC": 13,
+    "speed": [
+        "5 ft",
+        "swim 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands the languages you speak"
+    ],
+    "CR": "variable",
+    "page": 61,
+    "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
+    "traits": {
+        "Amphibious": "The beast can breathe both air and water.",
+        "Primal Bond": "You can add your proficiency bonus to any ability check or saving throw that the beast makes."
+    },
+    "actions": {
+        "Binding Strike": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d6 + 2 + PB piercing damage or 1d6 + 2 + PB bludgeoning damage (your choice), and the target is grappled (escape DC equal to your spellcasting save DC). Until this grapple ends, the beast can't use this attack on another target."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
+}

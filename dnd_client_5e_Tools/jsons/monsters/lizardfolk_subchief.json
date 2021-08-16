@@ -1,0 +1,69 @@
+{
+    "tags": [
+        "lizardfolk"
+    ],
+    "strength": "14",
+    "dexterity": "12",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "16",
+    "charisma": "12",
+    "athletics": "+4",
+    "perception": "+5",
+    "survival": "+5",
+    "name": "Lizardfolk Subchief",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Draconic"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 242,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Hold Breath": "The subchief can hold its breath for 15 minutes.",
+        "spellcasting": {
+            "level": 5,
+            "type": "cleric",
+            "spells": [
+                "light",
+                "sacred flame",
+                "spare the dying",
+                "thaumaturgy",
+                "command",
+                "guiding bolt",
+                "purify food and drink",
+                "hold person",
+                "lesser restoration",
+                "silence",
+                "bestow curse",
+                "dispel magic"
+            ]
+        }
+    },
+    "actions": {
+        "Tooth Dagger": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+        "Jaws of Semuanya (Recharge 5xe2x80x936)": "The subchief invokes the primal magic of Semuanya, summoning a spectral maw around a target it can see within 60 feet of it. The target must make a DC 13+1d4 + 11 Dexterity saving throw, taking 22 (5d8) piercing damage on a failed save, or half as much damage on a successful one. A creature that fails this saving throw is also frightened until the end of its next turn."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
+}

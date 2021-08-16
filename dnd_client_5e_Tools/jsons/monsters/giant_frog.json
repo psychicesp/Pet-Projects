@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "hit": "4d8",
+    "strength": "12",
+    "dexterity": "13",
+    "constitution": "11",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "3",
+    "perception": "+2",
+    "stealth": "+3",
+    "name": "Giant Frog",
+    "AC": 11,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 325,
+    "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The frog can breathe air and water.",
+        "Standing Leap": "The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11+1d4 + 9). Until this grapple ends, the target is restrained, and the frog can't bite another target.",
+        "Swallow": "The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
+}

@@ -1,0 +1,75 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "18",
+    "dexterity": "18",
+    "constitution": "16",
+    "intelligence": "14",
+    "wisdom": "12",
+    "charisma": "16",
+    "deception": "+6",
+    "intimidation": "+6",
+    "perception": "+4",
+    "stealth": "+7",
+    "name": "Isolde",
+    "AC": 19,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "cold, fire, lightning, poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Infernal"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 86,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Fiendish Blessing": "The AC of Isolde includes her Charisma bonus.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "alter self",
+                "command",
+                "detect magic",
+                "plane shift"
+            ]
+        },
+        "Magic Resistance Aura": "While holding Nepenthe, Isolde creates an aura in a 10-foot radius around her. While this aura is active, Isolde and all creatures friendly to her in the aura have advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "Isolde makes two melee attacks or uses its Fire Ray twice.",
+        "Nepenthe": "Melee Weapon Attack: +10+1d6 + 7 to hit, reach 5 ft.., one target. Hit: 11 (1d8 + 7) slashing damage, or 12 (1d10 + 7) slashing damage if used with two hands to make a melee attack. If the target is a fiend or an undead, it takes an extra 11 (2d10) radiant damage.",
+        "Fire Ray": "Ranged Spell Attack: +7+1d6 + 4 to hit, range 120 ft., one target. Hit: 10 (3d6) fire damage.",
+        "Fiendish Charm": "One humanoid Isolde can see within 30 feet of it must succeed on a DC 14+1d6 + 11 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys Isolde's spoken commands. If the target suffers any harm from Isolde or another creature or receives a suicidal command from Isolde, the target can repeat the saving throw, ending the effect on itself on a success. If a target's saving throw is successful, or if the effect ends for it, the creature is immune to Isolde's Fiendish Charm for the next 24 hours."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AEA",
+    "size": "Medium",
+    "type": "fey"
+}

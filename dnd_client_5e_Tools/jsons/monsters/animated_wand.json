@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "4 (-3)",
+    "dexterity": "18 (+4)",
+    "constitution": "10 (+0)",
+    "intelligence": "3 (-4)",
+    "wisdom": "3 (-4)",
+    "charisma": "1 (-5)",
+    "name": "Animated Wand",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "blindsight 30 ft. (blind beyond this radius)",
+        "passive Perception 6"
+    ],
+    "languages": [
+        "\u2014"
+    ],
+    "CR": "variable",
+    "page": 299,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Animated": "If the wand lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the wand is securely attached to a surface or larger wand, such as a chain bolted to a wall, its speed is 0."
+    },
+    "actions": {
+        "Wand of Wonder": "The animated wand can expend 1 of its charges and target a random creature with one of its randomly determined effects. Any such effect that would target the wand's user targets the wand instead. If reduced to 0 hit points, the wand crumbles into dust and is destroyed.",
+        "Slam": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "construct"
+}

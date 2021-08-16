@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "8",
+    "constitution": "15",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "8",
+    "name": "Sea Spawn",
+    "AC": 11,
+    "speed": [
+        "20 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Aquan and Common but can\\'t speak"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 189,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Limited Amphibiousness": "The sea spawn can breathe air and water, but needs to be submerged in the sea at least once a day for 1 minute to avoid suffocating."
+    },
+    "actions": {
+        "Multiattack": "The sea spawn makes three attacks: two unarmed strikes and one with its Piscine Anatomy.",
+        "Unarmed Strike": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.",
+        "Piscine Anatomy": "The sea spawn has one or more of the following attack options, provided it has the appropriate anatomy:"
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

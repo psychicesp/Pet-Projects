@@ -1,0 +1,51 @@
+{
+    "tags": [
+        "merfolk"
+    ],
+    "strength": "12",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "13",
+    "athletics": "+3",
+    "perception": "+2",
+    "name": "Merfolk Salvager",
+    "AC": 12,
+    "speed": [
+        "10 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Aquan",
+        "Common"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 244,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Amphibious": "The salvager can breathe air and water."
+    },
+    "actions": {
+        "Multiattack": "The salvager makes two attacks with its coral rapier.",
+        "Coral Rapier": "Melee Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.",
+        "Inject Toxin (2/Day)": "Melee Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage, and the creature must succeed on a DC 12+1d4 + 10 Constitution saving throw or be paralyzed until the end of its next turn."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
+}

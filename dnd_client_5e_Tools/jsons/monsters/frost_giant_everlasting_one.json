@@ -1,0 +1,57 @@
+{
+    "tags": [
+        "frost"
+    ],
+    "strength": "25",
+    "dexterity": "9",
+    "constitution": "24",
+    "intelligence": "9",
+    "wisdom": "10",
+    "charisma": "12",
+    "athletics": "+11",
+    "perception": "+4",
+    "name": "Frost Giant Everlasting One",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "cold"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "12 (8,400 XP)",
+    "page": 148,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Extra Heads": "The giant has a 25 percent chance of having more than one head. If it has more than one, it has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.",
+        "Regeneration": "The giant regains 10 hit points at the start of its turn. If the giant takes acid or fire damage, this trait doesn't function at the start of its next turn. The giant dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+        "Vaprak's Rage (Recharges after a Short or Long Rest)": "As a bonus action, the giant can enter a rage at the start of its turn. The rage lasts for 1 minute or until the giant is incapacitated. While raging, the giant gains the following benefits:"
+    },
+    "actions": {
+        "Multiattack": "The giant makes two attacks with its greataxe.",
+        "Greataxe": "Melee Weapon Attack: +11+1d8 + 7 to hit, reach 10 ft., one target. Hit: 26 (3d12 + 7) slashing damage, or 30 (3d12 + 11) slashing damage while raging.",
+        "Rock": "Ranged Weapon Attack: +11+1d8 + 7 to hit, range 60/240 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "giant"
+}

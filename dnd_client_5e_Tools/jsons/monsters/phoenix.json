@@ -44,13 +44,17 @@
         "Legendary Resistance (3/Day)": "If the phoenix fails a saving throw, it can choose to succeed instead.",
         "Siege Monster": "The phoenix deals double damage to objects and structures."
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "The phoenix makes two attacks: one with its beak and one with its fiery talons.",
+        "Beak": "Melee Weapon Attack: +13+1d10 + 8 to hit, reach 15 ft., one target. Hit: 15 (2d6 + 8) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.",
+        "Fiery Talons": "Melee Weapon Attack: +13+1d10 + 8 to hit, reach 15 ft., one target. Hit: 17 (2d8 + 8) fire damage."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Peck": "The phoenix makes one beak attack.",
-            "Move": "The phoenix moves up to its speed.",
-            "Swoop (Costs 2 Actions)": "The phoenix moves up to its speed and attacks with its fiery talons."
+            "Peck": " The phoenix makes one beak attack.",
+            "Move": " The phoenix moves up to its speed.",
+            "Swoop (Costs 2 Actions)": " The phoenix moves up to its speed and attacks with its fiery talons."
         }
     },
     "alignment": "N",

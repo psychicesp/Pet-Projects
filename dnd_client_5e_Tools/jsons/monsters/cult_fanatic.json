@@ -1,0 +1,62 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "11",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "13",
+    "charisma": "14",
+    "deception": "+4",
+    "persuasion": "+4",
+    "religion": "+2",
+    "name": "Cult Fanatic",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "persuasion": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 345,
+    "book": "Monster Manual",
+    "traits": {
+        "Dark Devotion": "The fanatic has advantage on saving throws against being charmed or frightened.",
+        "spellcasting": {
+            "level": 4,
+            "type": "cleric",
+            "spells": [
+                "light",
+                "sacred flame",
+                "thaumaturgy",
+                "command",
+                "inflict wounds",
+                "shield of faith",
+                "hold person",
+                "spiritual weapon"
+            ]
+        }
+    },
+    "actions": {
+        "Multiattack": "The fanatic makes two melee attacks.",
+        "Dagger": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
+}

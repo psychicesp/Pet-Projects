@@ -33,5 +33,13 @@
     "traits": {
         "Unusual Nature": "The kiddywidget doesn't require air, food, drink, or sleep."
     },
-    "actions": {}
+    "actions": {
+        "Multiattack": "The kiddywidget makes two attacks: one with its bite and one with its tail.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a creature, it is grappled by the kiddywidget (escape DC 8+1d4 + 6).",
+        "Tail": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 2 (1d4) lightning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    }
 }

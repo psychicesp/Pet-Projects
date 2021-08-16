@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "8",
+    "constitution": "16",
+    "intelligence": "5",
+    "wisdom": "7",
+    "charisma": "7",
+    "name": "Ogre Battering Ram",
+    "AC": 14,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Common",
+        "Giant"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 220,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Siege Monster": "The ogre deals double damage to objects and structures."
+    },
+    "actions": {
+        "Bash": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage, and the ogre can push the target 5 feet away if the target is Huge or smaller.",
+        "Block the Path": "Until the start of the ogre's next turn, attack rolls against the ogre have disadvantage, it has advantage on the attack roll it makes for an opportunity attack, and that attack deals an extra 16 (3d10) bludgeoning damage on a hit. Also, each enemy that tries to move out of the ogre's reach without teleporting must succeed on a DC 14+1d4 + 12 Strength saving throw or have its speed reduced to 0 until the start of the ogre's next turn."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant"
+}

@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "orc"
+    ],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "16",
+    "intelligence": "7",
+    "wisdom": "11",
+    "charisma": "10",
+    "intimidation": "+2",
+    "name": "Orc",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Orc"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 246,
+    "book": "Monster Manual",
+    "traits": {
+        "Aggressive": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see."
+    },
+    "actions": {
+        "Greataxe": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.",
+        "Javelin": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
+}

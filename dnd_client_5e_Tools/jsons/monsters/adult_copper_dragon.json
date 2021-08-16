@@ -1,0 +1,79 @@
+{
+    "tags": [],
+    "hit points": "16d12 + 80",
+    "strength": "23 (+6)",
+    "dexterity": "12 (+1)",
+    "constitution": "21 (+5)",
+    "intelligence": "18 (+4)",
+    "wisdom": "15 (+2)",
+    "charisma": "17 (+3)",
+    "dexterity save": "+6",
+    "constitution save": "+10",
+    "wisdom save": "+7",
+    "charisma save": "+8",
+    "deception": "+8",
+    "perception": "+12",
+    "stealth": "+6",
+    "name": "Adult Copper Dragon",
+    "AC": 18,
+    "speed": [
+        "40 ft",
+        "climb 40 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "acid"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 22"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "variable",
+    "page": 112,
+    "book": "Monster Manual",
+    "traits": {
+        "Legendary Resistance (3/Day)": "If the dragon fails a saving throw, it can choose to succeed instead."
+    },
+    "actions": {
+        "Multiattack": "The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.",
+        "Bite": "Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.",
+        "Claw": "Melee Weapon Attack: +11+1d10 + 6 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.",
+        "Tail": "Melee Weapon Attack: +11+1d10 + 6 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.",
+        "Frightful Presence": "Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16+1d10 + 11 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.",
+        "Breath Weapons (Recharge 5\u20136)": "The dragon uses one of the following breath weapons."
+    },
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Detect": " The dragon makes a Wisdom (Perception) check.",
+            "Tail Attack": " The dragon makes a tail attack.",
+            "Wing Attack (Costs 2 Actions)": " The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19+1d10 + 14 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "The dragon chooses a point on the ground that it can see within 120 feet of it. Stone spikes sprout from the ground in a 20-foot radius centered on that point. The effect is otherwise identical to the spike growth spell and lasts until the dragon uses this lair action again or until the dragon dies.",
+            "The dragon chooses a 10-foot-square area on the ground that it can see within 120 feet of it. The ground in that area turns into 3-foot-deep mud. Each creature on the ground in that area when the mud appears must succeed on a DC 15+1d10 + 10 Dexterity saving throw or sink into the mud and become restrained. A creature can take an action to attempt a DC 15+1d10 + 10 Strength check, freeing itself or another creature within its reach and ending the restrained condition on a success. Moving 1 foot in the mud costs 2 feet of movement. On initiative count 20 on the next round, the mud hardens, and the Strength DC to work free increases to 20."
+        ]
+    },
+    "alignment": "CG",
+    "size": "Huge",
+    "type": "dragon"
+}

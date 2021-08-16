@@ -1,0 +1,65 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "14",
+    "dexterity": "19",
+    "constitution": "15",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "13",
+    "perception": "+6",
+    "stealth": "+8",
+    "name": "Drow House Captain",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "9 (5,000 XP)",
+    "page": 184,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Battle Command": "As a bonus action, the drow targets one ally he can see within 30 feet of him. If the target can see or hear the drow, the target can use its reaction to make one melee attack or to take the Dodge or Hide action.",
+        "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights",
+                "darkness",
+                "faerie fire",
+                "levitate"
+            ]
+        },
+        "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
+    "actions": {
+        "Multiattack": "The drow makes three attacks: two with his scimitar and one with his whip or his hand crossbow.",
+        "Scimitar": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 14 (4d6) poison damage.",
+        "Whip": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) slashing damage. If the target is an ally, it has advantage on attack rolls until the end of its next turn.",
+        "Hand Crossbow": "Ranged Weapon Attack: +8+1d8 + 4 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13+1d8 + 9 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

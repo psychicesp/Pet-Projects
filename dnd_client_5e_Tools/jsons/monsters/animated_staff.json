@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "strength": "12 (+1)",
+    "dexterity": "12 (+1)",
+    "constitution": "10 (+0)",
+    "intelligence": "18 (+4)",
+    "wisdom": "14 (+2)",
+    "charisma": "10 (+0)",
+    "name": "Animated Staff",
+    "AC": 17,
+    "speed": [
+        "0 ft",
+        "fly 30 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "variable",
+    "page": 262,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Wielder Domination": "A creature can grab the staff out of the air with a successful grapple check against the staff, and grappling the staff does not reduce the creature's speed. Any creature that successfully grapples the staff must succeed on a DC 12 Charisma saving throw or be charmed by the staff until the staff is no longer in its grasp. While the creature is charmed, the staff can issue commands to it, which the creature does its best to obey. The creature can repeat the saving throw each time it takes damage, ending the effect on itself on a success. A creature that successfully resists the staff's control can't be charmed by it for 24 hours."
+    },
+    "actions": {
+        "Staff of Frost": "The staff has 10 charges. It can expend 1 or more of its charges to cast one of the following spells (save DC 12): cone of cold (5 charges), fog cloud (1 charge), ice storm (4 charges), or wall of ice (4 charges). It regains 1d6 + 4 expended charges daily at dawn. If the staff expends its last charge, roll a d20. On a 1, the staff turns to water and is destroyed.",
+        "Staff": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (2d6) bludgeoning damage plus 1 cold damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "construct"
+}

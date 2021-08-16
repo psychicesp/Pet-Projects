@@ -1,0 +1,57 @@
+{
+    "tags": [],
+    "strength": "26",
+    "dexterity": "5",
+    "constitution": "20",
+    "intelligence": "6",
+    "wisdom": "8",
+    "charisma": "4",
+    "perception": "+4",
+    "name": "Core Spawn Worm",
+    "AC": 18,
+    "speed": [
+        "60 ft",
+        "burrow 40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "fire, psychic"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "understands Deep Speech but can\\'t speak"
+    ],
+    "CR": "15 (13,000 XP)",
+    "page": 287,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Illumination": "The worm sheds dim light in a 20-foot radius.",
+        "Radiant Mirror": "If the worm takes radiant damage, each creature within 20 feet of it takes that damage as well.",
+        "Tunneler": "The worm can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake."
+    },
+    "actions": {
+        "Multiattack": "The worm makes two attacks: one with its barbed tentacles and one with its bite.",
+        "Barbed Tentacles": "Melee Weapon Attack: +13+1d10 + 8 to hit, reach 10 ft., one creature. Hit: 25 (5d6 + 8) piercing damage, and the target is grappled (escape DC 18+1d10 + 13). Until this grapple ends, the target is restrained. The tentacles can grapple only one creature at a time.",
+        "Bite": "Melee Weapon Attack: +13+1d10 + 8 to hit, reach 10 ft., one target. Hit: 30 (5d8 + 8) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 18+1d10 + 13 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the worm, and takes 21 (6d6) fire damage at the start of each of the worm's turns."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Gargantuan",
+    "type": "aberration"
+}

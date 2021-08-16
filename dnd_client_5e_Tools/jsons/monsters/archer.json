@@ -1,0 +1,48 @@
+{
+    "tags": [
+        "any"
+    ],
+    "hit points": "10d8 + 30",
+    "strength": "11 (+0)",
+    "dexterity": "18 (+4)",
+    "constitution": "16 (+3)",
+    "intelligence": "11 (+0)",
+    "wisdom": "13 (+1)",
+    "charisma": "10 (+0)",
+    "acrobatics": "+6",
+    "perception": "+5",
+    "name": "Archer",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient",
+        "perception": "expert"
+    },
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "variable",
+    "page": 210,
+    "book": "Volo\u2019s Guide to Monsters",
+    "traits": {
+        "Archer's Eye (3/Day)": "As a bonus action, the archer can add 1d10 to its next attack or damage roll with a longbow or shortbow."
+    },
+    "actions": {
+        "Multiattack": "The archer makes two attacks with its longbow.",
+        "Shortsword": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.",
+        "Longbow": "Ranged Weapon Attack: +6+1d4 + 4 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

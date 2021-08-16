@@ -1,0 +1,59 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "18",
+    "dexterity": "13",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "14",
+    "deception": "+6",
+    "insight": "+3",
+    "stealth": "+3",
+    "name": "Deep Scion",
+    "AC": 11,
+    "speed": [
+        "30 ft. (20 ft. and swim 40 ft. in hybrid form)"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "expert",
+        "insight": "proficient",
+        "sleight of hand": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Aquan",
+        "Common",
+        "Thieves\\' cant"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 135,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Shapechanger": "The deep scion can use its action to polymorph into a humanoid-piscine hybrid form, or back into its true form. Its statistics, other than its speed, are the same in each form. Any equipment it is wearing or carrying isn't transformed. The deep scion reverts to its true form if it dies.",
+        "Amphibious (Hybrid Form Only)": "The deep scion can breathe air and water."
+    },
+    "actions": {
+        "Multiattack": "In humanoid form, the deep scion makes two melee attacks. In hybrid form, the deep scion makes three attacks: one with its bite and two with its claws.",
+        "Battleaxe (Humanoid Form Only)": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.",
+        "Bite (Hybrid Form Only)": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one creature. Hit: 6 (1d4 + 4) piercing damage.",
+        "Claw (Hybrid Form Only)": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.",
+        "Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest)": "The deep scion emits a terrible scream audible within 300 feet. Creatures within 30 feet of the deep scion must succeed on a DC 13+1d4 + 11 Wisdom saving throw or be stunned until the end of the deep scion's next turn. In water, the psychic screech also telepathically transmits the deep scion's memories of the last 24 hours to its master, regardless of distance, so long as it and its master are in the same body of water."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

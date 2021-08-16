@@ -1,0 +1,81 @@
+{
+    "tags": [],
+    "hit points": "25d20 + 225",
+    "strength": "30 (+10)",
+    "dexterity": "10 (+0)",
+    "constitution": "29 (+9)",
+    "intelligence": "18 (+4)",
+    "wisdom": "15 (+2)",
+    "charisma": "23 (+6)",
+    "dexterity save": "+7",
+    "constitution save": "+16",
+    "wisdom save": "+9",
+    "charisma save": "+13",
+    "arcana": "+11",
+    "history": "+11",
+    "perception": "+16",
+    "stealth": "+7",
+    "name": "Ancient Silver Dragon",
+    "AC": 22,
+    "speed": [
+        "40 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "cold"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 26"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "variable",
+    "page": 116,
+    "book": "Monster Manual",
+    "traits": {
+        "Legendary Resistance (3/Day)": "If the dragon fails a saving throw, it can choose to succeed instead."
+    },
+    "actions": {
+        "Multiattack": "The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.",
+        "Bite": "Melee Weapon Attack: +17+1d14 + 10 to hit, reach 15 ft., one target. Hit: 21 (2d10 + 10) piercing damage.",
+        "Claw": "Melee Weapon Attack: +17+1d14 + 10 to hit, reach 10 ft., one target. Hit: 17 (2d6 + 10) slashing damage.",
+        "Tail": "Melee Weapon Attack: +17+1d14 + 10 to hit, reach 20 ft., one target. Hit: 19 (2d8 + 10) bludgeoning damage.",
+        "Frightful Presence": "Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21+1d14 + 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.",
+        "Breath Weapons (Recharge 5\u20136)": "The dragon uses one of the following breath weapons.",
+        "Change Shape": "The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice)."
+    },
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Detect": " The dragon makes a Wisdom (Perception) check.",
+            "Tail Attack": " The dragon makes a tail attack.",
+            "Wing Attack (Costs 2 Actions)": " The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25+1d14 + 18 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "The dragon creates fog as if it had cast the fog cloud spell. The fog lasts until initiative count 20 on the next round.",
+            "A blisteringly cold wind blows through the lair near the dragon. Each creature within 120 feet of the dragon must succeed on a DC 15+1d14 + 8 Constitution saving throw or take 5 (1d10) cold damage. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished."
+        ]
+    },
+    "alignment": "LG",
+    "size": "Gargantuan",
+    "type": "dragon"
+}

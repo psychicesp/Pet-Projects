@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "hit": "2d6",
+    "strength": "14",
+    "dexterity": "14",
+    "constitution": "11",
+    "intelligence": "1",
+    "wisdom": "6",
+    "charisma": "1",
+    "name": "Knucklehead Trout",
+    "AC": 12,
+    "speed": [
+        "0 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 295,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Water Breathing": "The trout can breathe only underwater."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+        "Tail": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Small",
+    "type": "beast"
+}

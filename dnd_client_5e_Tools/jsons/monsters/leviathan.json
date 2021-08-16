@@ -42,12 +42,17 @@
         "Siege Monster": "The leviathan deals double damage to objects and structures (included in Tidal Wave).",
         "Water Form": "The leviathan can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "The leviathan makes two attacks: one with its slam and one with its tail.",
+        "Slam": "Melee Weapon Attack: +16+1d12 + 10 to hit, reach 20 ft., one target. Hit: 15 (1d10 + 10) bludgeoning damage plus 5 (1d10) acid damage.",
+        "Tail": "Melee Weapon Attack: +16+1d12 + 10 to hit, reach 20 ft., one target. Hit: 16 (1d12 + 10) bludgeoning damage plus 6 (1d12) acid damage.",
+        "Tidal Wave (Recharge 6)": "While submerged, the leviathan magically creates a wall of water centered on itself. The wall is up 250 feet long, up to 250 feet high, and up to 50 feet thick. When the wall appears, all other creatures within its area must each make a DC 24+1d12 + 18 Strength saving throw. A creature takes 33 (6d10) bludgeoning damage on failed save, or half as much damage on a successful one."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Slam (Costs 2 Actions)": "The leviathan makes one slam attack.",
-            "Move": "The leviathan moves up to its speed."
+            "Slam (Costs 2 Actions)": " The leviathan makes one slam attack.",
+            "Move": " The leviathan moves up to its speed."
         }
     },
     "alignment": "N",

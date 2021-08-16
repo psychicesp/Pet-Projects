@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "hit points": "8d10 + 24",
+    "strength": "19 (+4)",
+    "dexterity": "11 (+0)",
+    "constitution": "16 (+3)",
+    "intelligence": "10 (+0)",
+    "wisdom": "12 (+1)",
+    "charisma": "6 (-2)",
+    "name": "Awakened White Moose",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Druidic"
+    ],
+    "CR": "variable",
+    "page": 82,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Charge": "If the moose moves at least 20 feet straight toward a target and then hits it with an antlers attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 14+1d4 + 12 Strength saving throw or be knocked prone.",
+        "Sure-Footed": "The moose has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
+    },
+    "actions": {
+        "Multiattack": "The moose makes two attacks: one with its antlers and one with its hooves.",
+        "Antlers": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.",
+        "Hooves": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Large",
+    "type": "beast"
+}

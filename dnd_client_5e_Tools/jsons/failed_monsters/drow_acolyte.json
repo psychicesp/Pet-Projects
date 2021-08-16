@@ -41,8 +41,6 @@
                 "darkness",
                 "faerie fire"
             ]
-        },
-        "Sunlight Sensitivity": "While in sunlight, the drow acolyte has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
-    },
-    "actions": {}
+        }
+    }
 }

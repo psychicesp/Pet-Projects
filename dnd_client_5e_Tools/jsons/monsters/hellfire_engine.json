@@ -1,0 +1,55 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "16",
+    "constitution": "24",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "1",
+    "name": "Hellfire Engine",
+    "AC": 18,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "resistances": [
+        "cold, psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "charmed, deafened, exhaustion, frightened, paralyzed, poisoned, unconscious"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Infernal but can\\'t speak"
+    ],
+    "CR": "16 (15,000 XP)",
+    "page": 165,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Immutable Form": "The hellfire engine is immune to any spell or effect that would alter its form.",
+        "Magic Resistance": "The hellfire engine has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Flesh-Crushing Stride": "The hellfire engine moves up to its speed in a straight line. During this move, it can enter Large or smaller creatures' spaces. A creature whose space the hellfire engine enters must make a DC 18+1d10 + 13 Dexterity saving throw. On a successful save, the creature is pushed to the nearest space out of the hellfire engine's path. On a failed save, the creature falls prone and takes 28 (8d6) bludgeoning damage.",
+        "Hellfire Weapons": "The hellfire engine uses one of the following options:"
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "construct"
+}

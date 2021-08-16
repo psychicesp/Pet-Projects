@@ -1,0 +1,64 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "hit points": "15d8 + 90",
+    "strength": "12 (+1)",
+    "dexterity": "19 (+4)",
+    "constitution": "22 (+6)",
+    "intelligence": "6 (-2)",
+    "wisdom": "11 (+0)",
+    "charisma": "7 (-2)",
+    "dexterity save": "+8",
+    "constitution save": "+10",
+    "stealth": "+8",
+    "name": "Alkilith",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "acid, cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Abyssal but can't speak"
+    ],
+    "CR": "variable",
+    "page": 130,
+    "book": "Mordenkainen\u2019s Tome of Foes",
+    "traits": {
+        "Amorphous": "The alkilith can move through a space as narrow as 1 inch wide without squeezing.",
+        "False Appearance": "While the alkilith is motionless, it is indistinguishable from an ordinary slime or fungus.",
+        "Foment Madness": "Any creature that isn't a demon that starts its turn within 30 feet of the alkilith must succeed on a DC 18+1d8 + 14 Wisdom saving throw, or it hears a faint buzzing in its head for a moment and has disadvantage on its next attack roll, saving throw, or ability check.",
+        "Magic Resistance": "The alkilith has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The alkilith makes three tentacle attacks.",
+        "Tentacle": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 15 ft., one target. Hit: 18 (4d6 + 4) acid damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend"
+}

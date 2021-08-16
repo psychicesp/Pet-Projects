@@ -1,0 +1,49 @@
+{
+    "tags": [
+        "tortle"
+    ],
+    "strength": "15",
+    "dexterity": "10",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "13",
+    "charisma": "12",
+    "athletics": "+4",
+    "survival": "+3",
+    "name": "Tortle",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Aquan",
+        "Common"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 242,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Hold Breath": "The tortle can hold its breath for 1 hour."
+    },
+    "actions": {
+        "Claws": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.",
+        "Quarterstaff": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.",
+        "Light Crossbow": "Ranged Weapon Attack: +2+1d4 + 0 to hit, range 80/320 ft., one target. Hit: 4 (1d8) piercing damage.",
+        "Shell Defense": "The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in its shell, the tortle is prone, its speed is 0 and can't increase, it has disadvantage on Dexterity saving throws, it can't take reactions, and the only action it can take is a bonus action to emerge."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "humanoid"
+}

@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "14",
+    "dexterity": "11",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "13",
+    "athletics": "+4",
+    "intimidation": "+3",
+    "name": "Pirate First Mate",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 248,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Sea Legs": "The first mate has advantage on ability checks and saving throws to resist being knocked prone."
+    },
+    "actions": {
+        "Multiattack": "The first mate makes two attacks with its longsword.",
+        "Longsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands. If the target is a creature, the first mate can choose to deal no damage with the attack to disarm the target. The target must succeed on a DC 14+1d4 + 12 Strength saving throw or drop one item it is holding on the ground."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

@@ -1,0 +1,57 @@
+{
+    "tags": [],
+    "hit points": "12d10 + 48",
+    "strength": "19 (+4)",
+    "dexterity": "11 (+0)",
+    "constitution": "19 (+4)",
+    "intelligence": "3 (-4)",
+    "wisdom": "14 (+2)",
+    "charisma": "10 (+0)",
+    "perception": "+8",
+    "name": "Animated Tile Chimera",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "resistances": [
+        "piercing"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 18"
+    ],
+    "languages": [
+        "understands Draconic but can't speak"
+    ],
+    "CR": "variable",
+    "page": 42,
+    "book": "The Rise of Tiamat",
+    "traits": {
+        "Rejuvenation": "If destroyed, the tile creature regains all its hit points and becomes active again in 24 hours unless at least half its tiles are collected and kept separate from the rest of the creature's tiles."
+    },
+    "actions": {
+        "Multiattack": "The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.",
+        "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.",
+        "Horns": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) bludgeoning damage.",
+        "Claws": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.",
+        "Fire Breath (Recharge 5\u20136)": "The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15+1d6 + 12 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity"
+}

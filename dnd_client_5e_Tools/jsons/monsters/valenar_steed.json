@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "16",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "15",
+    "charisma": "11",
+    "perception": "+4",
+    "name": "Valenar Steed",
+    "AC": 13,
+    "speed": [
+        "60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "understands Common",
+        "Elvish",
+        "and Sylvan but can't speak"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 313,
+    "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Bonding": "The steed can magically bond with one creature it can see, immediately after spending at least 1 hour observing that creature while within 30 feet of it. The bond lasts until the steed bonds with a different creature or until the bonded creature dies. While bonded, the steed and the bonded creature can communicate telepathically with each other at a distance of up to 100 feet."
+    },
+    "actions": {
+        "Hooves": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "N",
+    "size": "Large",
+    "type": "fey"
+}

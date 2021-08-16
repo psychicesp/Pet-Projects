@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "13",
+    "constitution": "21",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Necrotic Centipede",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "burrow 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "necrotic, fire"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "11 (7,200 XP)",
+    "page": 119,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "traits": {
+        "Necrotic Body": "A creature that touches the centipede or hits it with a melee attack while within 5 feet of it takes 10 (3d6) necrotic damage."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +11+1d8 + 7 to hit, reach 10 ft., one target. Hit: 40 (6d10 + 7) piercing damage plus 10 (3d6) necrotic damage. If the target is a creature, it is grappled (escape DC 17+1d8 + 13). Until this grapple ends, the target is restrained, and the centipede can't bite another target.",
+        "Swallow": "The centipede makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the centipede, and it takes 21 (6d6) acid damage at the start of each of the centipede's turns."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Huge",
+    "type": "monstrosity"
+}

@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "14",
+    "constitution": "13",
+    "intelligence": "4",
+    "wisdom": "12",
+    "charisma": "6",
+    "perception": "+3",
+    "name": "Velociraptor",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 140,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Pack Tactics": "The velociraptor has advantage on an attack roll against a creature if at least one of the velociraptor's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {
+        "Multiattack": "The velociraptor makes two attacks: one with its bite and one with its claws.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.",
+        "Claws": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast"
+}

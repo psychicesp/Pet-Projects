@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "hit points": "8d8 + 16",
+    "strength": "16 (+3)",
+    "dexterity": "16 (+3)",
+    "constitution": "14 (+2)",
+    "intelligence": "11 (+0)",
+    "wisdom": "14 (+2)",
+    "charisma": "13 (+1)",
+    "strength save": "+5",
+    "dexterity save": "+5",
+    "name": "Akroan Hoplite",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient"
+    },
+    "skills": {},
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "variable",
+    "page": 228,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Hold the Line": "While the hoplite is holding a spear, other creatures provoke an opportunity attack from the hoplite when they move within 5 feet of it. When the hoplite hits a creature with an opportunity attack using its spear, the creature takes an extra 4 (1d8) piercing damage, and the creature's speed becomes 0 for the rest of the turn."
+    },
+    "actions": {
+        "Multiattack": "The hoplite makes three melee attacks or two ranged attacks.",
+        "Spear": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack.",
+        "Shield Bash": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 13+1d4 + 11 Strength saving throw or be knocked prone."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

@@ -1,0 +1,50 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "15",
+    "constitution": "20",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "9",
+    "athletics": "+12",
+    "perception": "+4",
+    "name": "Stone Giant",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "athletics": "expert",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 156,
+    "book": "Monster Manual",
+    "traits": {
+        "Stone Camouflage": "The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain."
+    },
+    "actions": {
+        "Multiattack": "The giant makes two greatclub attacks.",
+        "Greatclub": "Melee Weapon Attack: +9+1d6 + 6 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.",
+        "Rock": "Ranged Weapon Attack: +9+1d6 + 6 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17+1d6 + 14 Strength saving throw or be knocked prone."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "N",
+    "size": "Huge",
+    "type": "giant"
+}

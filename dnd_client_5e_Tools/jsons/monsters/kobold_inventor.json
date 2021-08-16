@@ -1,0 +1,48 @@
+{
+    "tags": [
+        "kobold"
+    ],
+    "strength": "7",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "8",
+    "wisdom": "7",
+    "charisma": "8",
+    "perception": "+0",
+    "name": "Kobold Inventor",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 166,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Pack Tactics": "The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+        "Sunlight Sensitivity": "While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
+    "actions": {
+        "Dagger": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+        "Sling": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.",
+        "Weapon Invention": "The kobold uses one of the following options (roll a d8 or choose one); the kobold can use each one no more than once per day:"
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Small",
+    "type": "humanoid"
+}

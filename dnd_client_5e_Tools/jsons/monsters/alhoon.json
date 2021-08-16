@@ -1,0 +1,104 @@
+{
+    "tags": [],
+    "hit points": "16d8 + 48",
+    "strength": "11 (+0)",
+    "dexterity": "12 (+1)",
+    "constitution": "16 (+3)",
+    "intelligence": "19 (+4)",
+    "wisdom": "17 (+3)",
+    "charisma": "17 (+3)",
+    "constitution save": "+7",
+    "intelligence save": "+8",
+    "wisdom save": "+7",
+    "charisma save": "+7",
+    "arcana": "+8",
+    "deception": "+7",
+    "history": "+8",
+    "insight": "+7",
+    "perception": "+7",
+    "stealth": "+5",
+    "name": "Alhoon",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "history": "proficient",
+        "insight": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "poison",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "resistances": [
+        "cold, lightning, necrotic"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "Deep Speech",
+        "Undercommon",
+        "telepathy 120 ft."
+    ],
+    "CR": "variable",
+    "page": 172,
+    "book": "Volo\u2019s Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "level": 12,
+            "type": "wizard",
+            "spells": [
+                "chill touch",
+                "dancing lights",
+                "mage hand",
+                "prestidigitation",
+                "shocking grasp",
+                "detect magic",
+                "disguise self",
+                "magic missile",
+                "shield",
+                "invisibility",
+                "mirror image",
+                "scorching ray",
+                "counterspell",
+                "fly",
+                "lightning bolt",
+                "confusion",
+                "Evard's black tentacles",
+                "phantasmal killer",
+                "modify memory",
+                "wall of force",
+                "disintegrate",
+                "globe of invulnerability"
+            ]
+        },
+        "Magic Resistance": "The alhoon has advantage on saving throws against spells and other magical effects.",
+        "Turn Resistance": "The alhoon has advantage on saving throws against any effect that turns undead."
+    },
+    "actions": {
+        "Chilling Grasp": "Melee Spell Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 10 (3d6) cold damage.",
+        "Mind Blast (Recharge 5\u20136)": "The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16+1d8 + 12 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AEA",
+    "size": "Medium",
+    "type": "undead"
+}

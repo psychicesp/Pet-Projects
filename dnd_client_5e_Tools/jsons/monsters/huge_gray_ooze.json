@@ -1,0 +1,54 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "6",
+    "constitution": "16",
+    "intelligence": "1",
+    "wisdom": "6",
+    "charisma": "2",
+    "stealth": "+2",
+    "name": "Huge Gray Ooze",
+    "AC": 8,
+    "speed": [
+        "10 ft",
+        "climb 10 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "acid, cold, fire"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, prone"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 243,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Amorphous": "The ooze can move through a space as narrow as 1 inch wide without squeezing.",
+        "Corrode Metal": "Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative xe2x88x921 penalty to damage rolls. If its penalty drops to xe2x88x925, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.",
+        "False Appearance": "While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock."
+    },
+    "actions": {
+        "Multiattack": "As an action, it can make two attacks with its pseudopods.",
+        "Pseudopod": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 21 (6d6) acid damage, or 42 (12d6) acid damage while the ooze is enlarged. If the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative xe2x88x921 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.",
+        "Enlarge (Recharges after a Short or Long Rest)": "For 1 minute, the ooze magically increases in size. While enlarged, the ooze is Gargantuan, doubles its damage dice with its pseudopod attack, and makes Strength checks and Strength saving throws with advantage.",
+        "Invisibility (Recharges after a Short or Long Rest)": "The ooze magically turns invisible for up to 1 hour until it attacks, it uses its Enlarge, or its concentration is broken (as if concentrating on a spell)."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Huge",
+    "type": "ooze"
+}

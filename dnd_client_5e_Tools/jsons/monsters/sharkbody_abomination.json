@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "13",
+    "constitution": "15",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "4",
+    "perception": "+2",
+    "name": "Sharkbody Abomination",
+    "AC": 12,
+    "speed": [
+        "20 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 215,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Blood Frenzy": "The abomination has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+        "Limited Amphibiousness": "The abomination can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.",
+        "Water Breathing": "The abomination can breathe only underwater."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "aberration"
+}

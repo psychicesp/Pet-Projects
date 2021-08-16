@@ -1,0 +1,64 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "15",
+    "intelligence": "15",
+    "wisdom": "12",
+    "charisma": "10",
+    "arcana": "+4",
+    "intimidation": "+2",
+    "perception": "+3",
+    "name": "Reckoner",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 231,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "First Strike": "The reckoner has advantage on initiative rolls.",
+        "spellcasting": {
+            "level": 5,
+            "type": "wizard",
+            "spells": [
+                "blade ward",
+                "light",
+                "message",
+                "shocking grasp",
+                "guiding bolt",
+                "shield",
+                "thunderwave",
+                "witch bolt",
+                "blur",
+                "levitate",
+                "lightning bolt"
+            ]
+        }
+    },
+    "actions": {
+        "Longsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid"
+}

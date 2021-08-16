@@ -1,0 +1,53 @@
+{
+    "tags": [
+        "dwarf"
+    ],
+    "hit": "2d8",
+    "strength": "11",
+    "dexterity": "12",
+    "constitution": "11",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "16",
+    "deception": "+5",
+    "insight": "+4",
+    "persuasion": "+5",
+    "name": "Shield Dwarf Noble",
+    "AC": 15,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "insight": "proficient",
+        "persuasion": "proficient"
+    },
+    "resistances": [
+        "poison"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "any two languages",
+        "Dwarvish"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 78,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Dwarven Resilience": "The shield dwarf noble has advantage on saving throws against poison, and has resistance against poison damage."
+    },
+    "actions": {
+        "Rapier": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) bludgeoning damage, or 6 (1d10 + 1) bludgeoning damage if used with two hands."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "humanoid"
+}

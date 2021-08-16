@@ -34,6 +34,5 @@
     "book": "Waterdeep: Dragon Heist",
     "traits": {
         "Dwarven Resilience": "The dwarf has advantage on saving throws against poison and resistance to poison damage."
-    },
-    "actions": {}
+    }
 }

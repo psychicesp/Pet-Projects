@@ -1,0 +1,61 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "15",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "14",
+    "charisma": "10",
+    "perception": "+5",
+    "name": "Chasme",
+    "AC": 15,
+    "speed": [
+        "20 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Abyssal",
+        "telepathy 120 ft."
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 57,
+    "book": "Monster Manual",
+    "traits": {
+        "Drone": "The chasme produces a horrid droning sound to which demons are immune. Any other creature that starts its turn with in 30 feet of the chasme must succeed on a DC 12+1d6 + 9 Constitution saving throw or fall unconscious for 10 minutes. A creature that can't hear the drone automatically succeeds on the save. The effect on the creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours.",
+        "Magic Resistance": "The chasme has advantage on saving throws against spells and other magical effects.",
+        "Spider Climb": "The chasme can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
+    "actions": {
+        "Proboscis": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one creature. Hit: 16 (4d6 + 2) piercing damage plus 24 (7d6) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like greater restoration."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
+}

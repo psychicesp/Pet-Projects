@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "10",
+    "constitution": "15",
+    "intelligence": "6",
+    "wisdom": "12",
+    "charisma": "7",
+    "perception": "+3",
+    "name": "Giant Raven",
+    "AC": 10,
+    "speed": [
+        "10 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "understands Common but can\\'t speak"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 66,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Keen Sight and Smell": "The raven has advantage on Wisdom (Perception) checks that rely on sight or smell.",
+        "Pack Tactics": "The raven has advantage on an attack roll against a creature if at least one of the raven's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {
+        "Multiattack": "The raven makes two attacks: one with its beak and one with its talons.",
+        "Beak": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.",
+        "Talons": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Large",
+    "type": "beast"
+}

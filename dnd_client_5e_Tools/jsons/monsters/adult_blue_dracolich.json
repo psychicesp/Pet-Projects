@@ -1,0 +1,85 @@
+{
+    "tags": [],
+    "hit points": "18d12 + 108",
+    "strength": "25 (+7)",
+    "dexterity": "10 (+0)",
+    "constitution": "23 (+6)",
+    "intelligence": "16 (+3)",
+    "wisdom": "15 (+2)",
+    "charisma": "19 (+4)",
+    "dexterity save": "+6",
+    "constitution save": "+12",
+    "wisdom save": "+8",
+    "charisma save": "+10",
+    "perception": "+14",
+    "stealth": "+6",
+    "name": "Adult Blue Dracolich",
+    "AC": 19,
+    "speed": [
+        "40 ft",
+        "burrow 30 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "lightning, poison"
+    ],
+    "resistances": [
+        "necrotic"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 24"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "variable",
+    "page": 84,
+    "book": "Monster Manual",
+    "traits": {
+        "Legendary Resistance (3/Day)": "If the dracolich fails a saving throw, it can choose to succeed instead.",
+        "Magic Resistance": "The dracolich has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The dracolich can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.",
+        "Bite": "Melee Weapon Attack: +13+1d12 + 7 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage.",
+        "Claw": "Melee Weapon Attack: +13+1d12 + 7 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage.",
+        "Tail": "Melee Weapon Attack: +13+1d12 + 7 to hit, reach 15 ft., one target. Hit: 16 (2d8 + 7) bludgeoning damage.",
+        "Frightful Presence": "Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 18+1d12 + 12 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours.",
+        "Lightning Breath (Recharge 5\u20136)": "The dracolich exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 20+1d12 + 14 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Detect": " The dracolich makes a Wisdom (Perception) check.",
+            "Tail Attack": " The dracolich makes a tail attack.",
+            "Wing Attack (Costs 2 Actions)": " The dracolich beats its tattered wings. Each creature within 10 feet of the dracolich must succeed on a DC 21+1d12 + 15 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. After beating its wings this way, the dracolich can fly up to half its flying speed."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Part of the ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature must succeed on a DC 15+1d12 + 9 Dexterity saving throw or take 10 (3d6) bludgeoning damage and be knocked prone and buried. The buried target is restrained and unable to breathe or stand up. A creature can take an action to make a DC 10+1d12 + 4 Strength check, ending the buried state on a success.",
+            "A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15+1d12 + 9 Constitution saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+            "Lightning arcs, forming a 5-foot-wide line between two of the lair's solid surfaces that the dragon can see. They must be within 120 feet of the dragon and 120 feet of each other. Each creature in that line must succeed on a DC 15+1d12 + 9 Dexterity saving throw or take 10 (3d6) lightning damage."
+        ]
+    },
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "undead"
+}

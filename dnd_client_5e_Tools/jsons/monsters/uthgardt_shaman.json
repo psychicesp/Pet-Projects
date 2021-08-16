@@ -1,0 +1,67 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "14",
+    "dexterity": "12",
+    "constitution": "13",
+    "intelligence": "10",
+    "wisdom": "15",
+    "charisma": "12",
+    "medicine": "+4",
+    "nature": "+4",
+    "perception": "+4",
+    "survival": "+6",
+    "name": "Uthgardt Shaman",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "medicine": "proficient",
+        "nature": "expert",
+        "perception": "proficient",
+        "survival": "expert"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Bothii",
+        "Common"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 243,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights",
+                "message",
+                "mage hand",
+                "thaumaturgy",
+                "augury",
+                "bestow curse",
+                "cordon of arrows",
+                "detect magic",
+                "hex",
+                "prayer of healing",
+                "speak with dead",
+                "spirit guardians"
+            ]
+        }
+    },
+    "actions": {
+        "Spear": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if wielded with two hands.",
+        "Shortbow": "Ranged Weapon Attack: +3+1d4 + 1 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

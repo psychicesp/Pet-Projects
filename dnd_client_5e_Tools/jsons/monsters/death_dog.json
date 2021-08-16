@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "3",
+    "wisdom": "13",
+    "charisma": "6",
+    "perception": "+5",
+    "stealth": "+4",
+    "name": "Death Dog",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 321,
+    "book": "Monster Manual",
+    "traits": {
+        "Two-Headed": "The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious."
+    },
+    "actions": {
+        "Multiattack": "The dog makes two bite attacks.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12+1d4 + 10 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "monstrosity"
+}

@@ -1,0 +1,64 @@
+{
+    "tags": [
+        "human"
+    ],
+    "hit": "5d8",
+    "strength": "9",
+    "dexterity": "14",
+    "constitution": "11",
+    "intelligence": "17",
+    "wisdom": "12",
+    "charisma": "11",
+    "arcana": "+5",
+    "history": "+5",
+    "name": "Evil Mage",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common",
+        "Draconic",
+        "Dwarvish",
+        "Elvish"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 57,
+    "book": "Lost Mine of Phandelver",
+    "traits": {
+        "spellcasting": {
+            "level": 4,
+            "type": "spells from the wizard\\'s spell list:",
+            "spells": [
+                "light",
+                "mage hand",
+                "shocking grasp",
+                "charm person",
+                "magic missile",
+                "hold person",
+                "misty step"
+            ]
+        }
+    },
+    "actions": {
+        "Quarterstaff": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 3 (1d8 - 1) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
+}

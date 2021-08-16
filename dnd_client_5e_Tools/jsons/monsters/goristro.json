@@ -1,0 +1,65 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "25",
+    "dexterity": "11",
+    "constitution": "25",
+    "intelligence": "6",
+    "wisdom": "13",
+    "charisma": "14",
+    "perception": "+7",
+    "name": "Goristro",
+    "AC": 19,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "Abyssal"
+    ],
+    "CR": "17 (18,000 XP)",
+    "page": 59,
+    "book": "Monster Manual",
+    "traits": {
+        "Charge": "If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (7d10) piercing damage. If the target is a creature, it must succeed on a DC 21+1d12 + 15 Strength saving throw or be pushed up to 20 feet away and knocked prone.",
+        "Labyrinthine Recall": "The goristro can perfectly recall any path it has traveled.",
+        "Magic Resistance": "The goristro has advantage on saving throws against spells and other magical effects.",
+        "Siege Monster": "The goristro deals double damage to objects and structures."
+    },
+    "actions": {
+        "Multiattack": "The goristro makes three attacks: two with its fists and one with its hoof.",
+        "Fist": "Melee Weapon Attack: +13+1d12 + 7 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.",
+        "Hoof": "Melee Weapon Attack: +13+1d12 + 7 to hit, reach 5 ft., one target. Hit: 23 (3d10 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 21+1d12 + 15 Strength saving throw or be knocked prone.",
+        "Gore": "Melee Weapon Attack: +13+1d12 + 7 to hit, reach 10 ft., one target. Hit: 45 (7d10 + 7) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "fiend"
+}

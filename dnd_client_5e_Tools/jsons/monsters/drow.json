@@ -1,0 +1,58 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "hit": "3d8",
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "11",
+    "wisdom": "11",
+    "charisma": "12",
+    "perception": "+2",
+    "stealth": "+4",
+    "name": "Drow",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 128,
+    "book": "Monster Manual",
+    "traits": {
+        "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights",
+                "darkness",
+                "faerie fire"
+            ]
+        },
+        "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
+    "actions": {
+        "Shortsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "Hand Crossbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13+1d4 + 11 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

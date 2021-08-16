@@ -44,16 +44,22 @@
         "Magic Weapons": "The zaratan's weapon attacks are magical.",
         "Siege Monster": "The elemental deals double damage to objects and structures (included in Earth-Shaking Movement)."
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "The zaratan makes two attacks: one with its bite and one with its stomp.",
+        "Bite": "Melee Weapon Attack: +17+1d14 + 10 to hit, reach 20 ft., one target. Hit: 28 (4d8 + 10) piercing damage.",
+        "Stomp": "Melee Weapon Attack: +17+1d14 + 10 to hit, reach 20 ft., one target. Hit: 26 (3d10 + 10) bludgeoning damage.",
+        "Spit Rock": "Ranged Weapon Attack: +17+1d14 + 10 to hit, range 120/240 ft., one target. Hit: 31 (6d8 + 10) bludgeoning damage.",
+        "Spew Debris (Recharge 5xe2x80x936)": "The zaratan exhales rocky debris in a 90-foot cube. Each creature in that area must make a DC 25+1d14 + 18 Dexterity saving throw. A creature takes 33 (6d10) bludgeoning damage on a failed save, or half as much damage on a successful one. A creature that fails the save by 5 or more is knocked prone."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Stomp": "The zaratan makes one stomp attack.",
-            "Move": "The zaratan moves up to its speed.",
-            "Spit (Costs 2 Actions)": "The zaratan uses Spit Rock.",
-            "Retract (Costs 2 Actions)": "The zaratan retracts into its shell. Until it takes its Emerge action, it has resistance to all damage, and it is restrained. The next time it takes a legendary action, it must take its Revitalize or Emerge action.",
-            "Revitalize (Costs 2 Actions)": "The zaratan can use this option only if it is retracted in its shell. It regains 52 (5d20) hit points. The next time it takes a legendary action, it must take its Emerge action.",
-            "Emerge (Costs 2 Actions)": "The zaratan emerges from its shell and uses Spit Rock. It can use this option only if it is retracted in its shell."
+            "Stomp": " The zaratan makes one stomp attack.",
+            "Move": " The zaratan moves up to its speed.",
+            "Spit (Costs 2 Actions)": " The zaratan uses Spit Rock.",
+            "Retract (Costs 2 Actions)": " The zaratan retracts into its shell. Until it takes its Emerge action, it has resistance to all damage, and it is restrained. The next time it takes a legendary action, it must take its Revitalize or Emerge action.",
+            "Revitalize (Costs 2 Actions)": " The zaratan can use this option only if it is retracted in its shell. It regains 52 (5d20) hit points. The next time it takes a legendary action, it must take its Emerge action.",
+            "Emerge (Costs 2 Actions)": " The zaratan emerges from its shell and uses Spit Rock. It can use this option only if it is retracted in its shell."
         }
     },
     "alignment": "N",

@@ -1,0 +1,69 @@
+{
+    "tags": [
+        "gith"
+    ],
+    "strength": "14",
+    "dexterity": "19",
+    "constitution": "16",
+    "intelligence": "17",
+    "wisdom": "19",
+    "charisma": "13",
+    "arcana": "+7",
+    "insight": "+8",
+    "perception": "+8",
+    "name": "Githzerai Enlightened",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 18"
+    ],
+    "languages": [
+        "Gith"
+    ],
+    "CR": "10 (5,900 XP)",
+    "page": 208,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage hand",
+                "blur",
+                "expeditious retreat",
+                "feather fall",
+                "jump",
+                "see invisibility",
+                "shield",
+                "haste",
+                "plane shift",
+                "teleport"
+            ]
+        },
+        "Psychic Defense": "While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+    },
+    "actions": {
+        "Multiattack": "The githzerai makes three unarmed strikes.",
+        "Unarmed Strike": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 13 (3d8) psychic damage.",
+        "Temporal Strike (Recharge 6)": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage plus 52 (8d12) psychic damage. The target must succeed on a DC 16+1d8 + 12 Wisdom saving throw or move 1 round forward in time. A target moved forward in time vanishes for the duration. When the effect ends, the target reappears in the space it left or in an unoccupied space nearest to that space if it's occupied."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid"
+}

@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "hit points": "8d12 + 16",
+    "strength": "19 (+4)",
+    "dexterity": "9 (-1)",
+    "constitution": "15 (+2)",
+    "intelligence": "2 (-4)",
+    "wisdom": "6 (-2)",
+    "charisma": "3 (-4)",
+    "name": "Ankylosaurus Zombie",
+    "AC": 14,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\u2014"
+    ],
+    "CR": "variable",
+    "page": 240,
+    "book": "Tomb of Annihilation",
+    "traits": {
+        "Undead Fortitude": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+    },
+    "actions": {
+        "Tail": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 10 ft., one target Hit: 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14+1d4 + 12 Strength saving throw or be knocked prone."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Huge",
+    "type": "undead"
+}

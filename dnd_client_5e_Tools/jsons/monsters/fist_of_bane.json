@@ -1,0 +1,44 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "16",
+    "dexterity": "11",
+    "constitution": "13",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "11",
+    "name": "Fist of Bane",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "condition_immunities": [
+        "frightened"
+    ],
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 232,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "traits": {
+        "Tactical Discipline": "The fist of Bane has advantage on all ability checks and saving throws made during combat."
+    },
+    "actions": {
+        "Mace": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.",
+        "Longbow": "Ranged Weapon Attack: +2+1d4 + 0 to hit, range 150/600 ft., one target. Hit: 4 (1d8) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
+}

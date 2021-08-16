@@ -1,0 +1,43 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "13",
+    "dexterity": "11",
+    "constitution": "12",
+    "intelligence": "8",
+    "wisdom": "11",
+    "charisma": "8",
+    "survival": "+4",
+    "name": "Reghed Warrior",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "survival": "expert"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 152,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Pack Tactics": "The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {
+        "Spear": "Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

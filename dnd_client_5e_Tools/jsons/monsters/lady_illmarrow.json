@@ -94,14 +94,18 @@
             ]
         }
     },
-    "actions": {},
+    "actions": {
+        "Chill Touch (Cantrip)": "Ranged Spell Attack: +15+1d14 + 8 to hit, range 120 ft., one creature. Hit: 18 (4d8) necrotic damage, and the target can't regain hit points until the start of Illmarrow's next turn. If the target is undead, it also has disadvantage on attack rolls against Illmarrow until the end of her next turn.",
+        "Paralyzing Claw": "Melee Weapon Attack: +10+1d14 + 3 to hit, reach 5 ft., one creature. Hit: 13 (3d6 + 3) slashing damage plus 10 (3d6) cold damage, and the target must succeed on a DC 20+1d14 + 13 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+        "Poison Breath (Recharge 5xe2x80x936)": "Illmarrow exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 20+1d14 + 13 Constitution saving throw. On a failed save, a creature takes 35 (10d6) poison damage and is poisoned for 1 minute. While poisoned in this way, the creature can't regain hit points. On a successful save, the creature takes half as much damage and isn't poisoned."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Cantrip": "Illmarrow casts a cantrip.",
-            "Paralyzing Claw": "Illmarrow uses her",
-            "Frightening Presence (Costs 2 Actions)": "Illmarrow targets up to three creatures she can see within 30 feet of her. Each target must succeed on a DC 20+1d14 + 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Illmarrow's Frightening Presence for the next 24 hours.",
-            "Poison Breath (Costs 3 Actions)": "Illmarrow recharges her Poison Breath and uses it."
+            "Cantrip": " Illmarrow casts a cantrip.",
+            "Paralyzing Claw": " Illmarrow uses her ",
+            "Frightening Presence (Costs 2 Actions)": " Illmarrow targets up to three creatures she can see within 30 feet of her. Each target must succeed on a DC 20+1d14 + 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Illmarrow's Frightening Presence for the next 24 hours.",
+            "Poison Breath (Costs 3 Actions)": " Illmarrow recharges her Poison Breath and uses it."
         }
     },
     "alignment": "NE",

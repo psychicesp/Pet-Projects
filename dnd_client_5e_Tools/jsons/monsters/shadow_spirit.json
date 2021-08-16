@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "16",
+    "name": "Shadow Spirit",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "necrotic"
+    ],
+    "condition_immunities": [
+        "frightened"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands the languages you speak"
+    ],
+    "CR": "variable",
+    "page": 114,
+    "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
+    "traits": {
+        "Terror Frenzy (Fury Only)": "The spirit has advantage on attack rolls against frightened creatures.",
+        "Weight of Sorrow (Despair Only)": "Any creature, other than you, that starts its turn within 5 feet of the spirit has its speed reduced by 20 feet until the start of that creature's next turn."
+    },
+    "actions": {
+        "Multiattack": "The spirit makes a number of attacks equal to half this spell's level (rounded down).",
+        "Chilling Rend": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d12 + 3 + the spell's level cold damage.",
+        "Dreadful Scream (1/Day)": "The spirit screams. Each creature within 30 feet of it must succeed on a Wisdom saving throw against your spell save DC or be frightened for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "monstrosity"
+}

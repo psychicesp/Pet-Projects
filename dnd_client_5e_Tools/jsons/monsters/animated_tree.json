@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "hit points": "12d12 + 60",
+    "strength": "23 (+6)",
+    "dexterity": "8 (-1)",
+    "constitution": "21 (+5)",
+    "intelligence": "12 (+1)",
+    "wisdom": "16 (+3)",
+    "charisma": "12 (+1)",
+    "name": "Animated Tree",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "bludgeoning, piercing, necrotic, radiant"
+    ],
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "understands Common",
+        "Druidic",
+        "Elvish",
+        "and Sylvan but cannot speak"
+    ],
+    "CR": "variable",
+    "page": 130,
+    "book": "Explorer\u2019s Guide to Wildemount",
+    "traits": {
+        "False Appearance": "While the tree remains motionless, it is indistinguishable from a normal tree.",
+        "Siege Monster": "The tree deals double damage to objects and structures."
+    },
+    "actions": {
+        "Multiattack": "The tree makes two slam attacks.",
+        "Slam": "Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage.",
+        "Rock": "Ranged Weapon Attack: +10+1d8 + 6 to hit, range 60/180 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage.",
+        "Animate Trees (1/Day)": "The tree magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the tree. The tree remains animate for 1 day or until it dies; until the tree dies or is more than 120 feet from the tree; or until the tree takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Huge",
+    "type": "plant"
+}

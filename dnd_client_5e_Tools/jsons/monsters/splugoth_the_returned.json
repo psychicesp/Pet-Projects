@@ -1,0 +1,54 @@
+{
+    "tags": [
+        "goblinoid"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "14",
+    "wisdom": "11",
+    "charisma": "10",
+    "stealth": "+6",
+    "name": "Splugoth the Returned",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Draconic",
+        "Elvish",
+        "Goblin"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 213,
+    "book": "Acquisitions Incorporated",
+    "traits": {
+        "Defensive Advantage": "As long as two or more of Splugoth's allies are within 5 feet of him and are not incapacitated, attack rolls against him are made with disadvantage.",
+        "Nimble Escape": "Splugoth can take the Disengage or Hide action as a bonus action on each of his turns.",
+        "Touch of Madness": "Splugoth has advantage on saving throws against being charmed or frightened."
+    },
+    "actions": {
+        "Multiattack": "Splugoth makes two attacks with his dagger.",
+        "Dagger": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.",
+        "Word From Beyond (1/Day)": "Splugoth remembers and repeats aloud a few words from a place he entered while walking back from the next world to this one. Each creature of his choice within 30 feet of him that can hear him must succeed on a DC 12+1d4 + 10 Wisdom saving throw or be stunned until the end of its next turn."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Small",
+    "type": "humanoid"
+}

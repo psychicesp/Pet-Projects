@@ -1,0 +1,51 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "10",
+    "constitution": "17",
+    "intelligence": "8",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Earth Elemental Myrmidon",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "paralyzed, petrified, poisoned, prone"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Terran",
+        "one language of its creator\\'s choice"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 202,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Magic Weapons": "The myrmidon's weapon attacks are magical."
+    },
+    "actions": {
+        "Multiattack": "The myrmidon makes two maul attacks.",
+        "Maul": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.",
+        "Thunderous Strike (Recharge 6)": "The myrmidon makes one maul attack. On a hit, the target takes an extra 16 (3d10) thunder damage, and the target must succeed on a DC 14+1d6 + 11 Strength saving throw or be knocked prone."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "N",
+    "size": "Medium",
+    "type": "elemental"
+}

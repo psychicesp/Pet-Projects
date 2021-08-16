@@ -1,0 +1,58 @@
+{
+    "tags": [
+        "shapechanger"
+    ],
+    "strength": "20",
+    "dexterity": "18",
+    "constitution": "18",
+    "intelligence": "6",
+    "wisdom": "12",
+    "charisma": "9",
+    "name": "Gnoll Vampire",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "Gnoll"
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 290,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Shapechanger": "If the vampire isn't in sunlight, it can use its action to polymorph into a Large hyena or a Medium cloud of mist, or back into its true form.",
+        "Keen Smell": "The vampire has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Rampage": "When it reduces a creature to 0 hit points with a melee attack on its turn, the vampire can take a bonus action to move up to half its speed and make a bite attack.",
+        "Regeneration": "The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.",
+        "Unusual Nature": "The vampire doesn't require air.",
+        "Vampire Weaknesses": "The vampire has the following flaws:"
+    },
+    "actions": {
+        "Multiattack (Vampire Form Only)": "The vampire makes two attacks: one with its bite and one with its claws.",
+        "Bite (Hyena or Vampire Form Only)": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one creature. Hit: 12 (2d6 + 5) piercing damage plus 9 (2d8) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. the target dies if its hit point maximum is reduced to 0.",
+        "Claws (Vampire Form Only)": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) slashing damage.",
+        "Frightful Cackle (Hyena or Vampire Form Only)": "The vampire emits a bone-chilling cackle. Each creature of the vampire's choice that is within 120 feet of the vampire and can hear its cackle must succeed on a DC 15+1d6 + 12 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the vampire's Frightful Cackle for the next 24 hours.",
+        "Sickening Gaze (Hyena or Vampire Form Only)": "The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 15+1d6 + 12 Constitution saving throw against this magic or be poisoned for 24 hours. A creature whose saving throw is successful is immune to this vampire's Sickening Gaze for 24 hours."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "undead"
+}

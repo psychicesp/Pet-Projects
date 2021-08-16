@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "hit points": "2d10 + 2",
+    "strength": "16 (+3)",
+    "dexterity": "10 (+0)",
+    "constitution": "12 (+1)",
+    "intelligence": "10 (+0)",
+    "wisdom": "10 (+0)",
+    "charisma": "6 (-2)",
+    "name": "Awakened Elk",
+    "AC": 10,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "one language known by its creator"
+    ],
+    "CR": "variable",
+    "page": 72,
+    "book": "Waterdeep: Dungeon of the Mad Mage",
+    "traits": {
+        "Charge": "If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13+1d4 + 11 Strength saving throw or be knocked prone."
+    },
+    "actions": {
+        "Ram": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.",
+        "Hooves": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one prone creature. Hit: 8 (2d4 + 3) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
+}

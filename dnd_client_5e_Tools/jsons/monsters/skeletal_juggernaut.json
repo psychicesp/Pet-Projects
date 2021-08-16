@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "6",
+    "wisdom": "8",
+    "charisma": "5",
+    "name": "Skeletal Juggernaut",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 253,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Disassemble": "If the juggernaut is reduced to 0 hit points, twelve skeletons rise from its remains.",
+        "Falling Apart": "If the juggernaut does not have all of its hit points at the start of its turn, it loses 10 hit points."
+    },
+    "actions": {
+        "Multiattack": "The juggernaut makes two claws attacks.",
+        "Claws": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 10 ft., one target. Hit: 12 (2d8 + 3) slashing damage.",
+        "Avalanche of Bones (Recharge 5xe2x80x936)": "The juggernaut collapses into a large heap before quickly reforming. Each creature within 10 feet of the juggernaut must make a DC 14+1d6 + 11 Dexterity saving throw, taking 18 (4d8) bludgeoning damage on a failed save, or half as much damage on a successful one. A creature that fails this saving throw is also knocked prone."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Large",
+    "type": "undead"
+}

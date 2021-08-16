@@ -68,13 +68,16 @@
             ]
         }
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "The sphinx makes two claw attacks.",
+        "Claw": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Claw Attack": "The sphinx makes one claw attack.",
-            "Teleport (Costs 2 Actions)": "The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.",
-            "Cast a Spell (Costs 3 Actions)": "The sphinx casts a spell from its list of prepared spells, using a spell slot as normal."
+            "Claw Attack": " The sphinx makes one claw attack.",
+            "Teleport (Costs 2 Actions)": " The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.",
+            "Cast a Spell (Costs 3 Actions)": " The sphinx casts a spell from its list of prepared spells, using a spell slot as normal."
         }
     },
     "in_lair": {

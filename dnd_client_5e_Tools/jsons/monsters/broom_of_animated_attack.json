@@ -1,0 +1,50 @@
+{
+    "tags": [],
+    "hit": "5d6",
+    "strength": "10",
+    "dexterity": "17",
+    "constitution": "10",
+    "intelligence": "1",
+    "wisdom": "5",
+    "charisma": "1",
+    "name": "Broom of Animated Attack",
+    "AC": 15,
+    "speed": [
+        "0 ft",
+        "fly 50 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone"
+    ],
+    "senses": [
+        "blindsight 30 ft. (blind beyond this radius)",
+        "passive Perception 7"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 226,
+    "book": "Curse of Strahd",
+    "traits": {
+        "Antimagic Susceptibility": "The broom is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the broom must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+        "Constructed Nature": "An animated object doesn't require air, food, drink, or sleep.",
+        "False Appearance": "While the broom remains motionless and isn't flying, it is indistinguishable from a normal broom."
+    },
+    "actions": {
+        "Multiattack": "The broom makes two melee attacks.",
+        "Broomstick": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Small",
+    "type": "construct"
+}

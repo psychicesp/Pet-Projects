@@ -1,0 +1,60 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "12",
+    "wisdom": "13",
+    "charisma": "11",
+    "athletics": "+7",
+    "perception": "+4",
+    "name": "Zakya Rakshasa",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common",
+        "Infernal"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 309,
+    "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect thoughts",
+                "disguise self",
+                "shield"
+            ]
+        },
+        "Limited Magic Immunity": "The rakshasa can't be affected or detected by spells of 1st level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.",
+        "Magic Weapons": "The rakshasa's weapon attacks are magical.",
+        "Martial Prowess (1/Turn)": "When the rakshasa hits a creature with a melee weapon attack, the attack deals an extra 11 (2d10) damage of the weapon's type, and the creature must make a DC 15+1d6 + 12 Strength saving throw. On a failure, the rakshasa can push the creature up to 10 feet away from it, knock the creature prone, or make the creature drop one item it is holding of the rakshasa's choice."
+    },
+    "actions": {
+        "Multiattack": "The rakshasa makes three melee weapon attacks. Alternatively, it can make two ranged attacks with its javelins.",
+        "Longsword": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.",
+        "Javelin": "Melee or Ranged Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
+}

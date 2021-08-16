@@ -1,0 +1,59 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "15",
+    "athletics": "+10",
+    "intimidation": "+5",
+    "name": "Half-Red Dragon Gladiator",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "athletics": "expert",
+        "intimidation": "proficient"
+    },
+    "resistances": [
+        "fire"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any one language (usually Common)",
+        "Draconic"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 56,
+    "book": "The Rise of Tiamat",
+    "traits": {
+        "Brave": "The half-dragon has advantage on saving throws against being frightened.",
+        "Brute": "A melee weapon deals one extra die of its damage when the half-dragon hits with it (included in the attack)."
+    },
+    "actions": {
+        "Multiattack": "The half-dragon makes three melee attacks or two ranged attacks.",
+        "Spear": "Melee or Ranged Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft. and range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.",
+        "Shield Bash": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one creature. Hit: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15+1d6 + 12 Strength saving throw or be knocked prone.",
+        "Fire Breath (Recharge 5xe2x80x936)": "The half-dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

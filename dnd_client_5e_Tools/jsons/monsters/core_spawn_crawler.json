@@ -1,0 +1,53 @@
+{
+    "tags": [],
+    "hit": "6d6",
+    "strength": "7",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "9",
+    "wisdom": "12",
+    "charisma": "6",
+    "perception": "+5",
+    "name": "Core Spawn Crawler",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "psychic"
+    ],
+    "condition_immunities": [
+        "blinded"
+    ],
+    "senses": [
+        "blindsight 30 ft. (blind beyond this radius)",
+        "tremorsense 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "understands Deep Speech but can\\'t speak"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 286,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Pack Tactics": "The crawler has advantage on an attack roll against a creature if at least one of the crawler's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {
+        "Multiattack": "The crawler makes four attacks: one with its bite, two with its claws, and one with its tail.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage and the target must succeed on a DC 11+1d4 + 9 Wisdom saving throw or become frightened until the start of the crawler's next turn.",
+        "Claws": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 15 ft., one target. Hit: 4 (1d4 + 2) slashing damage.",
+        "Tail": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 15 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Small",
+    "type": "aberration"
+}

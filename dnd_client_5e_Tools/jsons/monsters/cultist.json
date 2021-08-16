@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "any"
+    ],
+    "hit": "2d8",
+    "strength": "11",
+    "dexterity": "12",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "10",
+    "deception": "+2",
+    "religion": "+2",
+    "name": "Cultist",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 345,
+    "book": "Monster Manual",
+    "traits": {
+        "Dark Devotion": "The cultist has advantage on saving throws against being charmed or frightened."
+    },
+    "actions": {
+        "Scimitar": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
+}

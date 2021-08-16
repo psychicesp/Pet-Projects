@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "8",
+    "constitution": "16",
+    "intelligence": "3",
+    "wisdom": "11",
+    "charisma": "3",
+    "stealth": "+2",
+    "name": "Hulking Crab",
+    "AC": 17,
+    "speed": [
+        "20 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 240,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Amphibious": "The crab can breathe air and water.",
+        "Shell Camouflage": "While the crab remains motionless with its eyestalks and pincers tucked close to its body, it resembles a natural formation or a pile of detritus. A creature within 30 feet of it can discern its true nature with a successful DC 15+1d6 + 12 Intelligence (Nature) check."
+    },
+    "actions": {
+        "Multiattack": "The crab makes two attacks with its claws.",
+        "Claw": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one target. Hit: 20 (3d10 + 4) bludgeoning damage, and the target is grappled (escape DC 15+1d6 + 12). The crab has two claws, each of which can grapple only one target"
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Huge",
+    "type": "beast"
+}

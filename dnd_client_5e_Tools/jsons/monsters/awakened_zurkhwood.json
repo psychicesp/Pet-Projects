@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "hit points": "7d12 + 14",
+    "strength": "19 (+4)",
+    "dexterity": "6 (-2)",
+    "constitution": "15 (+2)",
+    "intelligence": "10 (+0)",
+    "wisdom": "10 (+0)",
+    "charisma": "7 (-2)",
+    "name": "Awakened Zurkhwood",
+    "AC": 13,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "bludgeoning, piercing"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "one language known by its creator"
+    ],
+    "CR": "variable",
+    "page": 230,
+    "book": "Out of the Abyss",
+    "traits": {
+        "False Appearance": "While the tree remains motionless, it is indistinguishable from a normal zurkhwood mushroom.",
+        "Mute": "If the awakened zurkhwood was created by a myconid sovereign, it can't speak."
+    },
+    "actions": {
+        "Slam": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Huge",
+    "type": "plant"
+}

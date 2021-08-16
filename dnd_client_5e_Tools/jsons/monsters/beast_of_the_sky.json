@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "16",
+    "constitution": "13",
+    "intelligence": "8",
+    "wisdom": "14",
+    "charisma": "11",
+    "name": "Beast of the Sky",
+    "AC": 13,
+    "speed": [
+        "10 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands the languages you speak"
+    ],
+    "CR": "variable",
+    "page": 61,
+    "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
+    "traits": {
+        "Flyby": "The beast doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+        "Primal Bond": "You can add your proficiency bonus to any ability check or saving throw that the beast makes."
+    },
+    "actions": {
+        "Shred": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d4 + 3 + PB slashing damage"
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "N",
+    "size": "Small",
+    "type": "beast"
+}

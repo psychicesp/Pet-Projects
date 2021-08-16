@@ -1,0 +1,71 @@
+{
+    "tags": [],
+    "hit points": "10d10 + 20",
+    "strength": "21 (+5)",
+    "dexterity": "12 (+1)",
+    "constitution": "14 (+2)",
+    "intelligence": "13 (+1)",
+    "wisdom": "14 (+2)",
+    "charisma": "15 (+2)",
+    "constitution save": "+5",
+    "deception": "+5",
+    "perception": "+5",
+    "name": "Annis Hag",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Common",
+        "Giant",
+        "Sylvan"
+    ],
+    "CR": "variable",
+    "page": 159,
+    "book": "Volo\u2019s Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "disguise self",
+                "fog cloud"
+            ]
+        }
+    },
+    "actions": {
+        "Multiattack": "The annis makes three attacks: one with her bite and two with her claws.",
+        "Bite": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) piercing damage.",
+        "Claw": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) slashing damage.",
+        "Crushing Hug": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 36 (9d6 + 5) bludgeoning damage, and the target is grappled (escape DC 15+1d6 + 12) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Until initiative count 20 on the next round, the hag can pass through solid walls, doors, ceilings, and floors as if the surfaces weren't there.",
+            "The hag targets any number of doors and windows that she can see, causing each one to either open or close as she wishes. Closed doors can be magically locked (requiring a successful DC 20+1d6 + 17 Strength check to force open) until she chooses to make them unlocked, or until she uses this lair action again to open them.",
+            "The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius sphere centered on a point she can see within 120 feet her. The cloud lasts until initiative count 20 on the next round. Creatures and objects in or behind the smoke are heavily obscured. A creature that enters the cloud for the first time on a turn or starts its turn there takes 10 (3d6) acid damage."
+        ]
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fey"
+}

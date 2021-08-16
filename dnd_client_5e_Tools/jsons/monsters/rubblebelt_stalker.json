@@ -1,0 +1,52 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "14",
+    "charisma": "8",
+    "athletics": "+2",
+    "perception": "+4",
+    "stealth": "+4",
+    "name": "Rubblebelt Stalker",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 239,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Ambusher": "In the first round of a combat, the stalker has advantage on attack rolls against any creature that hasn't taken a turn yet.",
+        "Nimble Escape": "The stalker can take the Disengage or Hide action as a bonus action on each of its turns.",
+        "Ruin Dweller": "The stalker has advantage on Dexterity (Stealth) checks made to hide in ruins, and its speed is not reduced in difficult terrain composed of rubble.",
+        "Siege Monster": "The stalker deals double damage to objects and structures."
+    },
+    "actions": {
+        "Multiattack": "The stalker makes three attacks with its shortsword.",
+        "Shortsword": "Melee Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid"
+}

@@ -27,5 +27,20 @@
     ],
     "languages": [
         "\u2014"
-    ]
+    ],
+    "CR": "variable",
+    "page": 20,
+    "book": "Candlekeep Mysteries",
+    "traits": {
+        "False Object": "If the broom is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the broom move or act, that creature must succeed on a DC 15+1d4 + 13 Wisdom (Perception) check to discern that the broom is animate.",
+        "Flyby": "The broom doesn't provoke opportunity attacks when it flies out of an enemy's reach."
+    },
+    "actions": {
+        "Multiattack": "The broom makes two melee attacks.",
+        "Broomstick": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    }
 }

@@ -1,0 +1,53 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "16",
+    "intelligence": "12",
+    "wisdom": "13",
+    "charisma": "5",
+    "athletics": "+5",
+    "perception": "+3",
+    "name": "Karrnathi Undead Soldier",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "cold, poison"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 295,
+    "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Pack Tactics": "The soldier has advantage on an attack roll against a creature if at least one of the soldier's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+        "Undead Fortitude": "If damage reduces the soldier to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the soldier drops to 1 hit point instead."
+    },
+    "actions": {
+        "Multiattack": "The soldier attacks three times with one of its weapons.",
+        "Longsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
+        "Longbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
+}

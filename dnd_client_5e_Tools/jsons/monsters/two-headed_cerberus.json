@@ -1,0 +1,54 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "3",
+    "wisdom": "13",
+    "charisma": "6",
+    "perception": "+5",
+    "stealth": "+4",
+    "name": "Two-Headed Cerberus",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "fire, necrotic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, stunned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 215,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Aggressive": "As a bonus action, the cerberus can move up to its speed toward a hostile creature that it can see.",
+        "Multiheaded": "The cerberus can't be surprised, and it has advantage on saving throws against being knocked unconscious.",
+        "Pack Tactics": "The cerberus has advantage on an attack roll against a creature if at least one of the cerberus's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {
+        "Multiattack": "The cerberus makes two bite attacks.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 2 (1d4) fire damage.",
+        "Breath Weapon (Recharge 5xe2x80x936)": "The cerberus exhales a 15-foot cone of molten rock. Each creature in the cone must make a DC 12+1d4 + 10 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one. On a failed save, a creature is also restrained by the hardening rock. A creature can make a DC 12+1d4 + 10 Strength (Athletics) check as an action, freeing itself or a creature within reach from the rock on a success. The rock has AC 17 and 10 hit points, and it is immune to fire, poison, and psychic damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "monstrosity"
+}

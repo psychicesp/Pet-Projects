@@ -1,0 +1,61 @@
+{
+    "tags": [
+        "gith"
+    ],
+    "strength": "12",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "13",
+    "wisdom": "14",
+    "charisma": "10",
+    "insight": "+4",
+    "perception": "+4",
+    "name": "Githzerai Monk",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Gith"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 161,
+    "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage hand",
+                "feather fall",
+                "jump",
+                "see invisibility",
+                "shield"
+            ]
+        },
+        "Psychic Defense": "While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+    },
+    "actions": {
+        "Multiattack": "The githzerai makes two unarmed strikes.",
+        "Unarmed Strike": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage plus 9 (2d8) psychic damage. This is a magic weapon attack."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid"
+}

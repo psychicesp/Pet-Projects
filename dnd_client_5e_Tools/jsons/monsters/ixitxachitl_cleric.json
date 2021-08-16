@@ -1,0 +1,54 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "16",
+    "constitution": "13",
+    "intelligence": "12",
+    "wisdom": "13",
+    "charisma": "7",
+    "name": "Ixitxachitl Cleric",
+    "AC": 15,
+    "speed": [
+        "0 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "Ixitxachitl"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 225,
+    "book": "Out of the Abyss",
+    "traits": {
+        "spellcasting": {
+            "level": 5,
+            "type": "cleric",
+            "spells": [
+                "guidance",
+                "thaumaturgy",
+                "charm person",
+                "create or destroy water",
+                "hold person",
+                "silence",
+                "dispel magic",
+                "tongues"
+            ]
+        }
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Small",
+    "type": "aberration"
+}

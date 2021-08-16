@@ -1,0 +1,51 @@
+{
+    "tags": [],
+    "hit points": "8d10 + 40",
+    "strength": "18 (+4)",
+    "dexterity": "13 (+1)",
+    "constitution": "20 (+5)",
+    "intelligence": "7 (-2)",
+    "wisdom": "9 (-1)",
+    "charisma": "7 (-2)",
+    "perception": "+2",
+    "name": "Aquatic Troll",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "resistances": [
+        "cold"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "variable",
+    "page": 36,
+    "book": "The Rise of Tiamat",
+    "traits": {
+        "Keen Smell": "The troll has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Regeneration": "The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.",
+        "Water Breathing": "The troll can breathe underwater."
+    },
+    "actions": {
+        "Multiattack": "The troll makes three attacks: one with its bite and two with its claws.",
+        "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.",
+        "Claw": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant"
+}

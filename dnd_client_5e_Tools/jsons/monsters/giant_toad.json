@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "13",
+    "constitution": "13",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "3",
+    "name": "Giant Toad",
+    "AC": 11,
+    "speed": [
+        "20 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 329,
+    "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The toad can breathe air and water.",
+        "Standing Leap": "The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13+1d4 + 11). Until this grapple ends, the target is restrained, and the toad can't bite another target.",
+        "Swallow": "The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
+}

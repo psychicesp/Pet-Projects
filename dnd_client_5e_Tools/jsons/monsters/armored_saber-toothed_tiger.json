@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "hit points": "7d10 + 14",
+    "strength": "18 (+4)",
+    "dexterity": "14 (+2)",
+    "constitution": "15 (+2)",
+    "intelligence": "3 (-4)",
+    "wisdom": "12 (+1)",
+    "charisma": "8 (-1)",
+    "perception": "+3",
+    "stealth": "+6",
+    "name": "Armored Saber-Toothed Tiger",
+    "AC": 17,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\u2014"
+    ],
+    "CR": "variable",
+    "page": 115,
+    "book": "Curse of Strahd",
+    "traits": {
+        "Keen Smell": "The tiger has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Pounce": "If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14+1d4 + 12 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) piercing damage.",
+        "Claw": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
+}

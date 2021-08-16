@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "hit": "3d4",
+    "strength": "3",
+    "dexterity": "13",
+    "constitution": "10",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "9",
+    "name": "Neogi Hatchling",
+    "AC": 11,
+    "speed": [
+        "20 ft",
+        "climb 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 179,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Mental Fortitude": "The hatchling has advantage on saving throws against being charmed or frightened, and magic can't put the hatchling to sleep.",
+        "Spider Climb": "The hatchling can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage plus 7 (2d6) poison damage, and the target must succeed on a DC 10+1d4 + 8 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Tiny",
+    "type": "aberration"
+}

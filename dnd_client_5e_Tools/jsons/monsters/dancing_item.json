@@ -1,0 +1,49 @@
+{
+    "tags": [
+        "smaller"
+    ],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "16",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "6",
+    "name": "Dancing Item",
+    "AC": 16,
+    "speed": [
+        "30 ft",
+        "fly 30 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands the languages you speak"
+    ],
+    "CR": "variable",
+    "page": 29,
+    "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
+    "traits": {
+        "Immutable Form": "The item is immune to any spell or effect that would alter its form.",
+        "Irrepressible Dance": "When any creature starts its turn within 10 feet of the item, the item can increase or decrease (your choice) the walking speed of that creature by 10 feet until the end of the turn, provided the item isn't incapacitated."
+    },
+    "actions": {
+        "Force-Empowered Slam": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d10 + PB force damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "or"
+}

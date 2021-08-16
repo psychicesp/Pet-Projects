@@ -1,0 +1,56 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "12",
+    "constitution": "22",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "16",
+    "intimidation": "+7",
+    "perception": "+6",
+    "name": "Doomwake Giant",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "condition_immunities": [
+        "frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "11 (7,200 XP)",
+    "page": 224,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Aura of Erebos": "Any creature that starts its turn within 10 feet of the giant must succeed on a DC 18+1d8 + 14 Constitution saving throw, or it takes 10 (3d6) necrotic damage and can't regain hit points until the start of its next turn. On a successful saving throw, the creature is immune to the giant's Aura of Erebos for 24 hours.",
+        "Magic Resistance": "The giant has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The giant makes two slam attacks.",
+        "Slam": "Melee Weapon Attack: +11+1d8 + 7 to hit, reach 15 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage plus 10 (3d6) necrotic damage.",
+        "Noxious Gust (Recharge 5xe2x80x936)": "The giant exhales a mighty gust that creates a blast of deadly mist in a 60-foot line that is 10 feet wide. Each creature in that line must make a DC 18+1d8 + 14 Constitution saving throw. On a failed save, the creature takes 36 (8d8) necrotic damage and is knocked prone. On a successful save, a creature takes half as much damage and isn't knocked prone."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "giant"
+}

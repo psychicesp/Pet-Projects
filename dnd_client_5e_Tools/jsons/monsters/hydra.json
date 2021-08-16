@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "12",
+    "constitution": "20",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "7",
+    "perception": "+6",
+    "name": "Hydra",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 190,
+    "book": "Monster Manual",
+    "traits": {
+        "Hold Breath": "The hydra can hold its breath for 1 hour.",
+        "Multiple Heads": "The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.",
+        "Reactive Heads": "For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.",
+        "Wakeful": "While the hydra sleeps, at least one of its heads is awake."
+    },
+    "actions": {
+        "Multiattack": "The hydra makes as many bite attacks as it has heads.",
+        "Bite": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 5) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Huge",
+    "type": "monstrosity"
+}

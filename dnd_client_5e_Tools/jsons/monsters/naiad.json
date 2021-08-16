@@ -1,0 +1,66 @@
+{
+    "tags": [],
+    "hit": "7d8",
+    "strength": "10",
+    "dexterity": "16",
+    "constitution": "11",
+    "intelligence": "15",
+    "wisdom": "10",
+    "charisma": "18",
+    "persuasion": "+6",
+    "name": "Naiad",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "persuasion": "proficient",
+        "sleight of hand": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "psychic"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Sylvan"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 236,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Amphibious": "The naiad can breathe air and water.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "minor illusion",
+                "phantasmal force",
+                "fly",
+                "hypnotic pattern"
+            ]
+        },
+        "Invisible in Water": "The naiad is invisible while fully immersed in water.",
+        "Magic Resistance": "The naiad has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The naiad makes two psychic touch attacks.",
+        "Psychic Touch": "Melee Spell Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) psychic damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "fey"
+}

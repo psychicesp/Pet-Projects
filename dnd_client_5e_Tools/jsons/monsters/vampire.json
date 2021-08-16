@@ -46,13 +46,19 @@
         "Spider Climb": "The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
         "Vampire Weaknesses": "The vampire has the following flaws:"
     },
-    "actions": {},
+    "actions": {
+        "Multiattack (Vampire Form Only)": "The vampire makes two attacks, only one of which can be a bite attack.",
+        "Unarmed Strike (Vampire Form Only)": "Melee Weapon Attack: +9+1d10 + 4 to hit, reach 5 ft., one creature. Hit: 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18+1d10 + 13).",
+        "Bite (Bat or Vampire Form Only)": "Melee Weapon Attack: +9+1d10 + 4 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.",
+        "Charm": "The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17+1d10 + 12 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.",
+        "Children of the Night (1/Day)": "The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Move": "The vampire moves up to its speed without provoking opportunity attacks.",
-            "Unarmed Strike": "The vampire makes one unarmed strike.",
-            "Bite (Costs 2 Actions)": "The vampire makes one bite attack."
+            "Move": " The vampire moves up to its speed without provoking opportunity attacks.",
+            "Unarmed Strike": " The vampire makes one unarmed strike.",
+            "Bite (Costs 2 Actions)": " The vampire makes one bite attack."
         }
     },
     "alignment": "LE",

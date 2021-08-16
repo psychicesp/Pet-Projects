@@ -1,0 +1,80 @@
+{
+    "tags": [],
+    "strength": "11",
+    "dexterity": "16",
+    "constitution": "12",
+    "intelligence": "15",
+    "wisdom": "12",
+    "charisma": "17",
+    "arcana": "+5",
+    "history": "+5",
+    "perception": "+4",
+    "name": "Deathlock Mastermind",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft. (including magical darkness)",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 129,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "level": 10,
+            "type": "warlock",
+            "spells": [
+                "chill touch",
+                "mage hand",
+                "minor illusion",
+                "poison spray",
+                "arms of Hadar",
+                "blight",
+                "counterspell",
+                "crown of madness",
+                "darkness",
+                "dimension door",
+                "dispel magic",
+                "fly",
+                "hold monster",
+                "invisibility"
+            ]
+        },
+        "Turn Resistance": "The deathlock has advantage on saving throws against any effect that turns undead."
+    },
+    "actions": {
+        "Deathly Claw": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) necrotic damage).",
+        "Grave Bolts": "Ranged Spell Attack: +6+1d6 + 3 to hit, range 120 ft., one or two targets. Hit: 18 (4d8) necrotic damage. If the target is Large or smaller, it must succeed on a DC 16+1d6 + 13 Strength saving throw or become restrained as shadowy tendrils wrap around it for 1 minute. A restrained target can use its action to repeat the saving throw, ending the effect on itself on a success."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
+}

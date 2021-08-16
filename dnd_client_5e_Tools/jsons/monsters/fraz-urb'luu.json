@@ -72,12 +72,16 @@
         "Magic Weapons": "Fraz-Urb'luu's weapon attacks are magical.",
         "Undetectable": "Fraz-Urb'luu can't be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or fiends."
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "Fraz-Urb'luu makes three attacks: one with his bite and two with his fists.",
+        "Bite": "Melee Weapon Attack: +16+1d14 + 9 to hit, reach 10 ft., one target. Hit: 19 (3d6 + 9) piercing damage.",
+        "Fist": "Melee Weapon Attack: +16+1d14 + 9 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) bludgeoning damage."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Tail": "Melee Weapon Attack: +16+1d14 + 9 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) bludgeoning damage. If the target is a Large or smaller creature, it is also grappled (escape DC 24+1d14 + 17). The grappled target is also restrained. Fraz-Urb'luu can grapple only one creature with his tail at a time.",
-            "Phantasmal Killer (Costs 2 Actions)": "Fraz-Urb'luu casts phantasmal killer, no concentration required."
+            "Tail": " Melee Weapon Attack: +16+1d14 + 9 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) bludgeoning damage. If the target is a Large or smaller creature, it is also grappled (escape DC 24+1d14 + 17). The grappled target is also restrained. Fraz-Urb'luu can grapple only one creature with his tail at a time.",
+            "Phantasmal Killer (Costs 2 Actions)": " Fraz-Urb'luu casts phantasmal killer, no concentration required."
         }
     },
     "in_lair": {

@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "11",
+    "constitution": "12",
+    "intelligence": "2",
+    "wisdom": "9",
+    "charisma": "5",
+    "name": "Boar",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 319,
+    "book": "Monster Manual",
+    "traits": {
+        "Charge": "If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11+1d4 + 9 Strength saving throw or be knocked prone.",
+        "Relentless (Recharges after a Short or Long Rest)": "If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead."
+    },
+    "actions": {
+        "Tusk": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
+}

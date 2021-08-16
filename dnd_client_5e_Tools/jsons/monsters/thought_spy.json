@@ -1,0 +1,67 @@
+{
+    "tags": [
+        "any"
+    ],
+    "hit": "6d8",
+    "strength": "11",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "16",
+    "wisdom": "13",
+    "charisma": "14",
+    "deception": "+6",
+    "insight": "+3",
+    "investigation": "+5",
+    "perception": "+3",
+    "stealth": "+4",
+    "name": "Thought Spy",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "insight": "proficient",
+        "investigation": "proficient",
+        "perception": "proficient",
+        "sleight of hand": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 233,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Cunning Action": "On each of its turns, the thought spy can use a bonus action to take the Dash, Disengage, or Hide action.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "charm person",
+                "disguise self",
+                "encode thoughts",
+                "blur",
+                "detect thoughts",
+                "gaseous form"
+            ]
+        }
+    },
+    "actions": {
+        "Multiattack": "The thought spy makes two melee attacks, or it makes three ranged attacks with its daggers.",
+        "Dagger": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+        "Rapier": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

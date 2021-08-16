@@ -1,0 +1,73 @@
+{
+    "tags": [],
+    "hit": "8d8",
+    "strength": "11",
+    "dexterity": "15",
+    "constitution": "10",
+    "intelligence": "14",
+    "wisdom": "12",
+    "charisma": "16",
+    "arcana": "+4",
+    "history": "+4",
+    "name": "Deathlock",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "the languages it knew in life"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 128,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "spellcasting": {
+            "level": 5,
+            "type": "warlock",
+            "spells": [
+                "chill touch",
+                "eldritch blast",
+                "mage hand",
+                "arms of Hadar",
+                "dispel magic",
+                "hold person",
+                "hunger of Hadar",
+                "invisibility",
+                "spider climb"
+            ]
+        },
+        "Turn Resistance": "The deathlock has advantage on saving throws against any effect that turns undead."
+    },
+    "actions": {
+        "Deathly Claw": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) necrotic damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "undead"
+}

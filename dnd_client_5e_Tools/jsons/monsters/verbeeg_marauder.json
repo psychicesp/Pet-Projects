@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "11",
+    "constitution": "16",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "9",
+    "athletics": "+6",
+    "stealth": "+2",
+    "name": "Verbeeg Marauder",
+    "AC": 14,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient"
+    },
+    "skills": {
+        "animal handling": "proficient",
+        "athletics": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Giant"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 311,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Simple Weapon Wielder": "A simple weapon deals one extra die of its damage when the verbeeg hits with it (included in the attack)."
+    },
+    "actions": {
+        "Multiattack": "The verbeeg makes two melee attacks.",
+        "Spear": "Melee or Ranged Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 14 (3d6 + 4) piercing damage, or 17 (3d8 + 4) piercing damage if used to make a ranged attack or used with two hands to make a melee attack."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Large",
+    "type": "giant"
+}

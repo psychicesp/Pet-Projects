@@ -1,0 +1,50 @@
+{
+    "tags": [],
+    "hit": "5d6",
+    "strength": "12",
+    "dexterity": "15",
+    "constitution": "11",
+    "intelligence": "1",
+    "wisdom": "5",
+    "charisma": "1",
+    "name": "Flying Staff",
+    "AC": 17,
+    "speed": [
+        "0 ft",
+        "fly 50 ft. (hover)"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 7"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 152,
+    "book": "Waterdeep: Dragon Heist",
+    "traits": {
+        "Antimagic Susceptibility": "The staff is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the staff must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+        "False Appearance": "While the staff remains motionless and isn't flying, it is indistinguishable from a normal staff."
+    },
+    "actions": {
+        "Knife": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Small",
+    "type": "construct"
+}

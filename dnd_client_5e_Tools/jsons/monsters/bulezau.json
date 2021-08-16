@@ -1,0 +1,53 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "15",
+    "dexterity": "14",
+    "constitution": "17",
+    "intelligence": "8",
+    "wisdom": "9",
+    "charisma": "6",
+    "name": "Bulezau",
+    "AC": 14,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "Abyssal",
+        "telepathy 60 ft."
+    ],
+    "CR": "3 (700 XP)",
+    "page": 131,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Rotting Presence": "When any creature that isn't a demon starts its turn within 30 feet one or more bulezaus, that creature must succeed on a DC 13+1d4 + 11 Constitution saving throw or take 1d6 necrotic damage plus 1 necrotic damage for each bulezau within 30 feet of it.",
+        "Standing Leap": "The bulezau's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.",
+        "Sure-Footed": "The bulezau has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
+    },
+    "actions": {
+        "Barbed Tail": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 8 (1d12 + 2) piercing damage. If the target is a creature, it must succeed on a DC 13+1d4 + 11 Constitution saving throw against disease or become poisoned until the disease ends. While poisoned in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (1d8). The target dies if its hit point maximum is reduced to 0."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend"
+}

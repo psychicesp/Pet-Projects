@@ -1,0 +1,53 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "11",
+    "constitution": "18",
+    "intelligence": "7",
+    "wisdom": "12",
+    "charisma": "9",
+    "perception": "+4",
+    "name": "Skum",
+    "AC": 14,
+    "speed": [
+        "20 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "resistances": [
+        "psychic"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common",
+        "Deep Speech",
+        "telepathy 60 ft."
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 254,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Abolethic Vassal": "The skum is permanently charmed by its aboleth master.",
+        "Amphibious": "The skum can breathe air and water.",
+        "Psychic Conditioning": "The skum is immune to the frightened and charmed conditions unless they are from effects created by an aboleth.",
+        "Water Dependency": "The skum takes 6 (1d12) acid damage every 10 minutes it goes without exposure to water."
+    },
+    "actions": {
+        "Multiattack": "The skum makes three attacks: two with its trident and one with its Mind-Breaking Touch.",
+        "Trident": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.",
+        "Mind-Breaking Touch": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 18 (4d8) psychic damage, and the target has disadvantage on Wisdom saving throws until the end of the skum's next turn."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "aberration"
+}

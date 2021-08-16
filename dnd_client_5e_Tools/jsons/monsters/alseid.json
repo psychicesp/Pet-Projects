@@ -1,0 +1,65 @@
+{
+    "tags": [],
+    "hit points": "4d8 + 4",
+    "strength": "15 (+2)",
+    "dexterity": "10 (+0)",
+    "constitution": "12 (+1)",
+    "intelligence": "13 (+1)",
+    "wisdom": "14 (+2)",
+    "charisma": "18 (+4)",
+    "persuasion": "+6",
+    "name": "Alseid",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "persuasion": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "radiant"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Sylvan"
+    ],
+    "CR": "variable",
+    "page": 235,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Hide in Plain Sight": "The alseid has advantage on Dexterity (Stealth) checks made to hide while it is in grassland.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "cure wounds",
+                "charm person",
+                "sleep",
+                "calm emotions",
+                "lesser restoration",
+                "plant growth"
+            ]
+        },
+        "Magic Resistance": "The alseid has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The alseid makes two radiant touch attacks.",
+        "Radiant Touch": "Melee Spell Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) radiant damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CG",
+    "size": "Medium",
+    "type": "fey"
+}

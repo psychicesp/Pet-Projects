@@ -43,11 +43,14 @@
     "traits": {
         "Negative Energy Cone": "The death tyrant's central eye emits an invisible, magical 150-foot cone of negative energy. At the start of each of its turns, the tyrant decides which way the cone faces and whether the cone is active."
     },
-    "actions": {},
+    "actions": {
+        "Bite": "Melee Weapon Attack: +5+1d10 + 0 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.",
+        "Eye Rays": "The death tyrant shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:"
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Eye Ray": "The death tyrant uses one random eye ray."
+            "Eye Ray": " The death tyrant uses one random eye ray."
         }
     },
     "in_lair": {

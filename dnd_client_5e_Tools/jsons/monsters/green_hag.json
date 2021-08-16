@@ -1,0 +1,69 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "12",
+    "constitution": "16",
+    "intelligence": "13",
+    "wisdom": "14",
+    "charisma": "14",
+    "arcana": "+3",
+    "deception": "+4",
+    "perception": "+4",
+    "stealth": "+3",
+    "name": "Green Hag",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common",
+        "Draconic",
+        "Sylvan"
+    ],
+    "CR": "3 (700 XP) or 5 (1,800 XP) when part of a cove",
+    "page": 177,
+    "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The hag can breathe air and water.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights",
+                "minor illusion",
+                "vicious mockery"
+            ]
+        },
+        "Mimicry": "The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14+1d4 + 12 Wisdom (Insight) check."
+    },
+    "actions": {
+        "Claws": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
+        "Illusory Appearance": "The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.",
+        "Invisible Passage": "The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Until initiative count 20 on the next round, the hag can pass through solid walls, doors, ceilings, and floors as if the surfaces weren't there.",
+            "The hag targets any number of doors and windows that she can see, causing each one to either open or close as she wishes. Closed doors can be magically locked (requiring a successful DC 20+1d4 + 18 Strength check to force open) until she chooses to make them unlocked, or until she uses this lair action again to open them.",
+            "The hag creates an illusory duplicate of herself, which appears in its own space. As long as she can see her duplicate, the hag can move it a distance equal to her walking speed as well as make the illusion speak on her turn (no action required). The illusion has the same statistics as the hag but can't take actions or reactions. It can interact with its environment and even pick up and hold real objects. The illusion seems real in every way but disappears if it takes any amount of damage. Otherwise, it lasts until the hag dismisses it (no action required) or can no longer see it. If the hag uses this lair action to create a new duplicate, the previous one vanishes, dropping any real objects in its possession."
+        ]
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fey"
+}

@@ -59,13 +59,16 @@
         "Magic Resistance": "The empyrean has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The empyrean's weapon attacks are magical."
     },
-    "actions": {},
+    "actions": {
+        "Maul": "Melee Weapon Attack: +17+1d14 + 10 to hit, reach 10 ft., one target. Hit: 31 (6d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 15+1d14 + 8 Constitution saving throw or be stunned until the end of the empyrean's next turn.",
+        "Bolt": "Ranged Spell Attack: +15+1d14 + 8 to hit, range 600 ft., one target. Hit: 24 (7d6) damage of one of the following types (empyrean's choice): acid, cold, fire, force, lightning, radiant, or thunder."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Attack": "The empyrean makes one attack.",
-            "Bolster": "The empyrean bolsters all nonhostile creatures within 120 feet of it until the end of its next turn. Bolstered creatures can't be charmed or frightened, and they gain advantage on ability checks and saving throws until the end of the empyrean's next turn.",
-            "Trembling Strike (Costs 2 Actions)": "The empyrean strikes the ground with its maul, triggering an earth tremor. All other creatures on the ground within 60 feet of the empyrean must succeed on a DC 25+1d14 + 18 Strength saving throw or be knocked prone."
+            "Attack": " The empyrean makes one attack.",
+            "Bolster": " The empyrean bolsters all nonhostile creatures within 120 feet of it until the end of its next turn. Bolstered creatures can't be charmed or frightened, and they gain advantage on ability checks and saving throws until the end of the empyrean's next turn.",
+            "Trembling Strike (Costs 2 Actions)": " The empyrean strikes the ground with its maul, triggering an earth tremor. All other creatures on the ground within 60 feet of the empyrean must succeed on a DC 25+1d14 + 18 Strength saving throw or be knocked prone."
         }
     },
     "alignment": "CG(ONE(",

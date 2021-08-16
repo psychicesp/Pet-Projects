@@ -1,0 +1,52 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "18",
+    "intelligence": "3",
+    "wisdom": "10",
+    "charisma": "6",
+    "name": "Living Lightning Bolt",
+    "AC": 15,
+    "speed": [
+        "25 ft",
+        "fly 25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "lightning"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 299,
+    "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Amorphous": "The living spell can move through a space as narrow as 1 inch wide without squeezing.",
+        "Magic Resistance": "The living spell has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The living spell makes two Magical Strike attacks.",
+        "Magical Strike": "Melee Spell Attack: +7+1d6 + 4 to hit, reach 10 ft., one target. Hit: 21 (5d6 + 4) lightning damage.",
+        "Spell Mimicry (Recharge 5xe2x80x936)": "The living spell unleashes a stroke of lightning in a line 100 feet long and 5 feet wide. Each creature in the line must make a DC 15+1d6 + 12 Dexterity saving throw, taking 28 (8d6) lightning damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
+}

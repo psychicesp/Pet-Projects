@@ -1,0 +1,52 @@
+{
+    "tags": [
+        "warforged"
+    ],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "14",
+    "charisma": "11",
+    "athletics": "+5",
+    "perception": "+4",
+    "survival": "+4",
+    "name": "Warforged Soldier",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "resistances": [
+        "poison"
+    ],
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 320,
+    "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Warforged Resilience": "The warforged has advantage on saving throws against being poisoned and is immune to disease. Magic can't put it to sleep."
+    },
+    "actions": {
+        "Multiattack": "The warforged makes two armblade attacks.",
+        "Armblade": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
+        "Javelin": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

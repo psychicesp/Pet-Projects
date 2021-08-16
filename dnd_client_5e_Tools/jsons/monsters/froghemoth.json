@@ -1,0 +1,55 @@
+{
+    "tags": [],
+    "strength": "23",
+    "dexterity": "13",
+    "constitution": "20",
+    "intelligence": "2",
+    "wisdom": "12",
+    "charisma": "5",
+    "perception": "+9",
+    "stealth": "+5",
+    "name": "Froghemoth",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "fire, lightning"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "10 (5,900 XP)",
+    "page": 145,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Amphibious": "The froghemoth can breathe air and water.",
+        "Shock Susceptibility": "If the froghemoth takes lightning damage, it suffers several effects until the end of its next turn: its speed is halved, it takes a xe2x88x922 penalty to AC and Dexterity saving throws, it can't use reactions or Multiattack, and on its turn, it can use either an action or a bonus action, not both."
+    },
+    "actions": {
+        "Multiattack": "The froghemoth makes two attacks with its tentacles. It can also use its tongue or bite.",
+        "Tentacle": "Melee Weapon Attack: +10+1d8 + 6 to hit, reach 20 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage, and the target is grappled (escape DC 16+1d8 + 12) if it is a Huge or smaller creature. Until the grapple ends, the froghemoth can't use this tentacle on another target. The froghemoth has four tentacles.",
+        "Bite": "Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage, and the target is swallowed if it is a Medium or smaller creature. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the froghemoth, and takes 10 (3d6) acid damage at the start of each of the froghemoth's turns.",
+        "Tongue": "The Froghemoth targets one Medium or smaller creature that it can see within 20 feet of it. The target must make a DC 18+1d8 + 14 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the froghemoth, and the froghemoth can make a bite attack against it as a bonus action."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Huge",
+    "type": "monstrosity"
+}

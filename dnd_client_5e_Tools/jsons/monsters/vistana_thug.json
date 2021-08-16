@@ -1,0 +1,47 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "15",
+    "dexterity": "11",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "11",
+    "intimidation": "+2",
+    "name": "Vistana Thug",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 28,
+    "book": "Curse of Strahd",
+    "traits": {
+        "Pack Tactics": "The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {
+        "Multiattack": "The thug makes two melee attacks.",
+        "Mace": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) bludgeoning damage.",
+        "Heavy Crossbow": "Ranged Weapon Attack: +2+1d4 + 0 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.",
+        "Curse (Recharges After a Long Rest)": "The Vistana targets one creature that it can see within 30 feet of it. The target must succeed on a DC 10+1d4 + 8 Wisdom saving throw or be cursed. The Vistana chooses the curse's effect from the options that follow; other Vistani curses are possible. All such effects deal psychic damage to the Vistani who uttered them when they end:",
+        "Evil Eye (Recharges after a Short or Long Rest)": "As an action, a Vistana can target a creature within 10 feet that the Vistana can see. This magical ability, which the Vistani call the Evil Eye, duplicates the duration and effect of the animal friendship, charm person, or hold person spell (Vistana's choice; spell DC 10+1d4 + 8), but requires neither somatic nor material components. If the target succeeds on the save, the Vistana is blinded until the end of the Vistana's next turn."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
+}

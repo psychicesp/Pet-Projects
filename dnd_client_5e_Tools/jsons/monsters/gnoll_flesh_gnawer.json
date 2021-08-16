@@ -1,0 +1,46 @@
+{
+    "tags": [
+        "gnoll"
+    ],
+    "strength": "12",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "8",
+    "wisdom": "10",
+    "charisma": "8",
+    "name": "Gnoll Flesh Gnawer",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Gnoll"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 154,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Rampage": "When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack."
+    },
+    "actions": {
+        "Multiattack": "The gnoll makes three attacks: one with its bite and two with its shortsword.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+        "Shortsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "Sudden Rush": "Until the end of the turn, the gnoll's speed increases by 60 feet and it doesn't provoke opportunity attacks."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
+}

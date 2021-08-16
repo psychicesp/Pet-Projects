@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "hit points": "3d6",
+    "strength": "3 (-4)",
+    "dexterity": "8 (-1)",
+    "constitution": "11 (+0)",
+    "intelligence": "10 (+0)",
+    "wisdom": "10 (+0)",
+    "charisma": "6 (-2)",
+    "name": "Awakened Shrub",
+    "AC": 9,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "piercing"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "one language known by its creator"
+    ],
+    "CR": "variable",
+    "page": 317,
+    "book": "Monster Manual",
+    "traits": {
+        "False Appearance": "While the shrub remains motionless, it is indistinguishable from a normal shrub."
+    },
+    "actions": {
+        "Rake": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Small",
+    "type": "plant"
+}

@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "hit": "6d8",
+    "strength": "14",
+    "dexterity": "14",
+    "constitution": "11",
+    "intelligence": "3",
+    "wisdom": "14",
+    "charisma": "5",
+    "name": "Grick",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 173,
+    "book": "Monster Manual",
+    "traits": {
+        "Stone Camouflage": "The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain."
+    },
+    "actions": {
+        "Multiattack": "The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.",
+        "Tentacles": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.",
+        "Beak": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "N",
+    "size": "Medium",
+    "type": "monstrosity"
+}

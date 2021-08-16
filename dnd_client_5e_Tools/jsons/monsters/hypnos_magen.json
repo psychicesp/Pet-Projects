@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "14",
+    "wisdom": "10",
+    "charisma": "7",
+    "name": "Hypnos Magen",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands the languages of its creator but can't speak",
+        "telepathy 30 ft."
+    ],
+    "CR": "1 (200 XP)",
+    "page": 301,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Fiery End": "If the magen dies, its body disintegrates in a harmless burst of fire and smoke, leaving behind anything it was wearing or carrying.",
+        "Magic Resistance": "The magen has advantage on saving throws against spells and other magical effects.",
+        "Unusual Nature": "The magen doesn't require air, food, drink, or sleep."
+    },
+    "actions": {
+        "Psychic Lash": "The magen's eyes glow silver as it targets one creature that it can see within 60 feet of it. The target must succeed on a DC 12+1d4 + 10 Wisdom saving throw or take 11 (2d10) psychic damage.",
+        "Suggestion": "The magen casts the suggestion spell (save DC 12+1d4 + 10), requiring no material components. The target must be a creature that the magen can communicate with telepathically. If it succeeds on its saving throw, the target is immune to this magen's suggestion spell for the next 24 hours. The magen's spellcasting ability is Intelligence."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
+}

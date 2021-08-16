@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "3",
+    "dexterity": "13",
+    "constitution": "8",
+    "intelligence": "2",
+    "wisdom": "12",
+    "charisma": "7",
+    "perception": "+3",
+    "stealth": "+3",
+    "name": "Owl",
+    "AC": 11,
+    "speed": [
+        "5 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 333,
+    "book": "Monster Manual",
+    "traits": {
+        "Flyby": "The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.",
+        "Keen Hearing and Sight": "The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+    },
+    "actions": {
+        "Talons": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 1 slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast"
+}

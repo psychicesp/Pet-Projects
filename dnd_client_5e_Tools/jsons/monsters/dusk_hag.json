@@ -1,0 +1,68 @@
+{
+    "tags": [],
+    "strength": "11",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "17",
+    "wisdom": "16",
+    "charisma": "18",
+    "deception": "+7",
+    "insight": "+6",
+    "perception": "+6",
+    "name": "Dusk Hag",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "condition_immunities": [
+        "blinded, charmed, frightened"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Common",
+        "Giant",
+        "Infernal"
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 292,
+    "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect magic",
+                "disguise self",
+                "dream",
+                "hypnotic pattern",
+                "sleep",
+                "legend lore",
+                "scrying"
+            ]
+        },
+        "Magic Resistance": "The hag has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The hag makes two Nightmare Touch attacks.",
+        "Claws": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.",
+        "Nightmare Touch": "Melee Spell Attack: +7+1d6 + 4 to hit, reach 5 ft., one creature. Hit: 18 (4d6 + 4) psychic damage. If the target is unconscious, it takes an extra 10 (3d6) psychic damage and is cursed until the hag dies or the curse is removed. The cursed creature's hit point maximum decreases by 5 (1d10) whenever it finishes a long rest."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fey"
+}

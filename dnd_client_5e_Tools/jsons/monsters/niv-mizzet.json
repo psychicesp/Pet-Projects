@@ -95,14 +95,20 @@
             ]
         }
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "Niv-Mizzet makes three attacks: one with his bite and two with his claws.",
+        "Bite": "Melee Weapon Attack: +17+1d16 + 9 to hit, reach 15 ft., one target. Hit: 18 (2d8 + 9) piercing damage plus 14 (4d6) fire damage.",
+        "Claw": "Melee Weapon Attack: +17+1d16 + 9 to hit, reach 10 ft., one target. Hit: 14 (2d4 + 9) slashing damage.",
+        "Tail": "Melee Weapon Attack: +17+1d16 + 9 to hit, reach 20 ft., one target. Hit: 16 (2d6 + 9) bludgeoning damage.",
+        "Fire Breath (Recharge 5xe2x80x936)": "Niv-Mizzet exhales fire in a 90-foot cone. Each creature in that area must make a DC 25+1d16 + 17 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Cantrip": "Niv-Mizzet casts one of his cantrips.",
-            "Tail Attack": "Niv-Mizzet makes a tail attack.",
-            "Wing Attack (Costs 2 Actions)": "Niv-Mizzet beats his wings. Each creature within 15 feet of him must succeed on a DC 25+1d16 + 17 Dexterity saving throw or take 14 (2d4 + 9) bludgeoning damage and be knocked prone. Niv-Mizzet can then fly up to half his flying speed.",
-            "Dracogenius (Costs 3 Actions)": "Niv-Mizzet regains a spell slot of 3rd level or lower."
+            "Cantrip": " Niv-Mizzet casts one of his cantrips.",
+            "Tail Attack": " Niv-Mizzet makes a tail attack.",
+            "Wing Attack (Costs 2 Actions)": " Niv-Mizzet beats his wings. Each creature within 15 feet of him must succeed on a DC 25+1d16 + 17 Dexterity saving throw or take 14 (2d4 + 9) bludgeoning damage and be knocked prone. Niv-Mizzet can then fly up to half his flying speed.",
+            "Dracogenius (Costs 3 Actions)": " Niv-Mizzet regains a spell slot of 3rd level or lower."
         }
     },
     "alignment": "CN",

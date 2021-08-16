@@ -36,7 +36,6 @@
         },
         "Low Cunning": "The xvart can take the Disengage action as a bonus action on each of its turns.",
         "Overbearing Pack": "The xvart has advantage on Strength (Athletics) checks to shove a creature if at least one of the xvart's allies is within 5 feet of the target and the ally isn't incapacitated.",
-        "Raxivort\\'s Tongue": "The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats."
-    },
-    "actions": {}
+        "Raxivort's Tongue": "The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats."
+    }
 }

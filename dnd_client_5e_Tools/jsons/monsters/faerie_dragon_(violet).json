@@ -1,0 +1,66 @@
+{
+    "tags": [],
+    "strength": "3",
+    "dexterity": "20",
+    "constitution": "13",
+    "intelligence": "14",
+    "wisdom": "12",
+    "charisma": "16",
+    "arcana": "+4",
+    "perception": "+3",
+    "stealth": "+7",
+    "name": "Faerie Dragon (Violet)",
+    "AC": 15,
+    "speed": [
+        "10 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Draconic",
+        "Sylvan"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 133,
+    "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "color spray",
+                "dancing lights",
+                "hallucinatory terrain",
+                "mage hand",
+                "major image",
+                "minor illusion",
+                "mirror image",
+                "polymorph",
+                "suggestion"
+            ]
+        },
+        "Limited Telepathy": "Using telepathy, the dragon can magically communicate with any other faerie dragon within 60 feet of it.",
+        "Magic Resistance": "The faerie dragon has advantage on saving throws against spells and other magical effects.",
+        "Superior Invisibility": "As a bonus action, the dragon can magically turn invisible until its concentration ends (as if concentrating on a spell). Any equipment the dragon wears or carries is invisible with it.",
+        "The Colors of Age": "A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.",
+        "Euphoria Breath (Recharge 5xe2x80x936)": "The dragon exhales a puff of euphoria gas at one creature within 5 feet of it. The target must succeed on a DC 11+1d4 + 9 Wisdom saving throw, or for 1 minute, the target can't take reactions and must roll a d6 at the start of each of its turns to determine its behavior during the turn:"
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CG",
+    "size": "Tiny",
+    "type": "dragon"
+}

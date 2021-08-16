@@ -1,0 +1,70 @@
+{
+    "tags": [
+        "any"
+    ],
+    "hit": "9d8",
+    "strength": "9",
+    "dexterity": "14",
+    "constitution": "11",
+    "intelligence": "17",
+    "wisdom": "12",
+    "charisma": "11",
+    "arcana": "+6",
+    "history": "+6",
+    "name": "Red Wizard",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any four languages"
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 76,
+    "book": "The Rise of Tiamat",
+    "traits": {
+        "spellcasting": {
+            "level": 9,
+            "type": "wizard",
+            "spells": [
+                "fire bolt",
+                "light",
+                "mage hand",
+                "prestidigitation",
+                "detect magic",
+                "mage armor",
+                "magic missile",
+                "shield",
+                "misty step",
+                "suggestion",
+                "counterspell",
+                "fireball",
+                "fly",
+                "greater invisibility",
+                "ice storm",
+                "cone of cold"
+            ]
+        }
+    },
+    "actions": {
+        "Dagger": "Melee or Ranged Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

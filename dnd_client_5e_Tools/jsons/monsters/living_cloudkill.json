@@ -1,0 +1,52 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "20",
+    "intelligence": "3",
+    "wisdom": "11",
+    "charisma": "6",
+    "name": "Living Cloudkill",
+    "AC": 15,
+    "speed": [
+        "25 ft",
+        "fly 25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 299,
+    "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Amorphous": "The living spell can move through a space as narrow as 1 inch wide without squeezing.",
+        "Magic Resistance": "The living spell has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The living spell makes two Magical Strike attacks.",
+        "Magical Strike": "Melee Spell Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit: 22 (5d6 + 5) poison damage.",
+        "Spell Mimicry (Recharge 5xe2x80x936)": "The living spell creates a 40-foot-diameter sphere of fog within 60 feet of it (the fog spreads around corners). When a creature enters the fog for the first time on a turn or starts its turn there, it must make a DC 16+1d6 + 13 Constitution saving throw, taking 22 (5d8) poison damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "construct"
+}

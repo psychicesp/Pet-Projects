@@ -1,0 +1,64 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "13",
+    "charisma": "18",
+    "acrobatics": "+4",
+    "athletics": "+4",
+    "performance": "+6",
+    "name": "Oread",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient",
+        "athletics": "proficient",
+        "performance": "proficient"
+    },
+    "damage_immunities": [
+        "fire, poison"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common",
+        "Sylvan"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 237,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "fire bolt",
+                "burning hands",
+                "hellish rebuke",
+                "scorching ray"
+            ]
+        },
+        "Invisible in Fire": "The oread is invisible while fully immersed in fire.",
+        "Magic Resistance": "The oread has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The oread attacks twice with its fiery touch or fire bolt.",
+        "Fiery Touch": "Melee Spell Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) fire damage.",
+        "Fire Bolt (Cantrip)": "Ranged Spell Attack: +6+1d4 + 4 to hit, range 120 ft., one target. Hit: 5 (1d10) fire damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fey"
+}

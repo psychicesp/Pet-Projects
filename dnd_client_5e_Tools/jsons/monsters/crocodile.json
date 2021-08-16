@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "10",
+    "constitution": "13",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "5",
+    "stealth": "+2",
+    "name": "Crocodile",
+    "AC": 12,
+    "speed": [
+        "20 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 320,
+    "book": "Monster Manual",
+    "traits": {
+        "Hold Breath": "The crocodile can hold its breath for 15 minutes."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12+1d4 + 10). Until this grapple ends, the target is restrained, and the crocodile can't bite another target"
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
+}

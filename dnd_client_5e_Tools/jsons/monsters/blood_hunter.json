@@ -1,0 +1,61 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "18",
+    "dexterity": "12",
+    "constitution": "15",
+    "intelligence": "9",
+    "wisdom": "16",
+    "charisma": "11",
+    "acrobatics": "+4",
+    "insight": "+6",
+    "perception": "+6",
+    "name": "Blood Hunter",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "acrobatics": "proficient",
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 284,
+    "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
+    "traits": {
+        "Blood Curse of Binding (1/Day)": "As a bonus action, the blood hunter targets one creature it can see within 30 feet of it. The target must succeed on a DC 14+1d6 + 11 Strength saving throw or have its speed reduced to 0 and be unable to take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+        "Blood Frenzy": "The blood hunter has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "hex"
+            ]
+        },
+        "Magic Resistance": "The blood hunter has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The blood hunter attacks twice with a weapon.",
+        "Greatsword": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 3 (1d6) fire damage.",
+        "Heavy Crossbow": "Ranged Weapon Attack: +4+1d6 + 1 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

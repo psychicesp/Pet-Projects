@@ -1,0 +1,80 @@
+{
+    "tags": [],
+    "hit points": "16d12 + 96",
+    "strength": "22 (+6)",
+    "dexterity": "10 (+0)",
+    "constitution": "22 (+6)",
+    "intelligence": "8 (-1)",
+    "wisdom": "12 (+1)",
+    "charisma": "12 (+1)",
+    "dexterity save": "+5",
+    "constitution save": "+11",
+    "wisdom save": "+6",
+    "charisma save": "+6",
+    "perception": "+11",
+    "stealth": "+5",
+    "name": "Adult White Dragon",
+    "AC": 18,
+    "speed": [
+        "40 ft",
+        "burrow 30 ft",
+        "fly 80 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "cold"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 21"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "variable",
+    "page": 101,
+    "book": "Monster Manual",
+    "traits": {
+        "Ice Walk": "The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement.",
+        "Legendary Resistance (3/Day)": "If the dragon fails a saving throw, it can choose to succeed instead."
+    },
+    "actions": {
+        "Multiattack": "The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.",
+        "Bite": "Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 4 (1d8) cold damage.",
+        "Claw": "Melee Weapon Attack: +11+1d10 + 6 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.",
+        "Tail": "Melee Weapon Attack: +11+1d10 + 6 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.",
+        "Frightful Presence": "Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14+1d10 + 9 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.",
+        "Cold Breath (Recharge 5\u20136)": "The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19+1d10 + 14 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Detect": " The dragon makes a Wisdom (Perception) check.",
+            "Tail Attack": " The dragon makes a tail attack.",
+            "Wing Attack (Costs 2 Actions)": " The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19+1d10 + 14 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Freezing fog fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The fog spreads around corners, and its area is heavily obscured. Each creature in the fog when it appears must make a DC 10+1d10 + 5 Constitution saving throw, taking 10 (3d6) cold damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the fog takes 10 (3d6) cold damage. A wind of at least 20 miles per hour disperses the fog. The fog otherwise lasts until the dragon uses this lair action again or until the dragon dies.",
+            "Jagged ice shards fall from the ceiling, striking up to three creatures underneath that the dragon can see within 120 feet of it. The dragon makes one ranged attack roll (+7+1d10 + 2 to hit) against each target. On a hit, the target takes 10 (3d6) piercing damage.",
+            "The dragon creates an opaque wall of ice on a solid surface it can see within 120 feet of it. The wall can be up to 30 feet long, 30 feet high, and 1 foot thick. When the wall appears, each creature within its area is pushed 5 feet out of the wall's space; appearing on whichever side of the wall it wants. Each 10-foot section of the wall has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. The wall disappears when the dragon uses this lair action again or when the dragon dies."
+        ]
+    },
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "dragon"
+}

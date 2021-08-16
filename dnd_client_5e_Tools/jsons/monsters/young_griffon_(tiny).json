@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "2",
+    "dexterity": "15",
+    "constitution": "16",
+    "intelligence": "2",
+    "wisdom": "13",
+    "charisma": "8",
+    "perception": "+5",
+    "name": "Young Griffon (Tiny)",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 163,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Keen Sight": "The griffon has advantage on Wisdom (Perception) checks that rely on sight."
+    },
+    "actions": {
+        "Multiattack": "The griffon makes two attacks: one with its beak and one with its claws.",
+        "Beak": "Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one target. Hit: 1 piercing damage.",
+        "Claws": "Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one target. Hit: 1 slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "monstrosity"
+}

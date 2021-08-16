@@ -1,0 +1,59 @@
+{
+    "tags": [
+        "bullywug"
+    ],
+    "strength": "16",
+    "dexterity": "12",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "14",
+    "athletics": "+5",
+    "intimidation": "+4",
+    "stealth": "+3",
+    "name": "Bullywug Royal",
+    "AC": 15,
+    "speed": [
+        "20 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "dexterity": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "intimidation": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Bullywug"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 232,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Amphibious": "The royal can breathe air and water.",
+        "Brute": "A melee weapon deals one extra die of its damage when the royal hits with it (included in the attack).",
+        "Frog Rider": "The royal has advantage on melee attacks made while riding a frog mount.",
+        "Speak with Frogs and Toads": "The royal can communicate simple concepts to frogs and toads when it speaks in Bullywug.",
+        "Standing Leap": "The royal's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.",
+        "Swamp Camouflage": "The royal has advantage on Dexterity (Stealth) checks made to hide in swampy terrain."
+    },
+    "actions": {
+        "Multiattack": "The royal makes two attacks: one with its royal spear and one with its bite.",
+        "Royal Spear": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft. or range 20/60 ft., one target. Hit: 10 (2d6 + 3) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack. If the target is a Medium or smaller creature, it must succeed on a DC 13+1d4 + 11 Strength saving throw or be knocked prone.",
+        "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+        "Croaked Decree (1/Day)": "The royal makes a loud pronouncement. Each bullywug within 60 feet of the royal that can hear the pronouncement has advantage on its next attack roll."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

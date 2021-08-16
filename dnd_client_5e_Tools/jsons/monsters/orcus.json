@@ -63,13 +63,17 @@
         "Master of Undeath": "When Orcus casts animate dead or create undead, he chooses the level at which the spell is cast, and the creatures created by the spells remain under his control indefinitely. Additionally, he can cast create undead even when it isn't night.",
         "Wand of Orcus": "The wand has 7 charges, and any of its properties that require a saving throw have a save DC of 18. While holding it, Orcus can use an action to cast animate dead, blight, or speak with dead. Alternatively, he can expend 1 or more of the wand's charges to cast one of the following spells from it: circle of death (1 charge), finger of death (1 charge), or power word kill (2 charges). The wand regains 1d4 + 3 charges daily at dawn."
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "Orcus makes two Wand of Orcus attacks.",
+        "Wand of Orcus": "Melee Weapon Attack: +19+1d16 + 11 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) bludgeoning damage plus 13 (2d12) necrotic damage.",
+        "Tail": "Melee Weapon Attack: +16+1d16 + 8 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) piercing damage plus 9 (2d8) poison damage."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Tail": "Orcus makes one tail attack.",
-            "A Taste of Undeath": "Orcus casts chill touch (17th level).",
-            "Creeping Death (Costs 2 Actions)": "Orcus chooses a point on the ground that he can see within 100 feet of him. A cylinder of swirling necrotic energy 60 feet tall and with a 10-foot radius rises from that point and lasts until the end of Orcus's next turn. Creatures in that area have vulnerability to necrotic damage."
+            "Tail": " Orcus makes one tail attack.",
+            "A Taste of Undeath": " Orcus casts chill touch (17th level).",
+            "Creeping Death (Costs 2 Actions)": " Orcus chooses a point on the ground that he can see within 100 feet of him. A cylinder of swirling necrotic energy 60 feet tall and with a 10-foot radius rises from that point and lasts until the end of Orcus's next turn. Creatures in that area have vulnerability to necrotic damage."
         }
     },
     "in_lair": {

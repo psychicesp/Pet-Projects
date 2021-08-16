@@ -1,0 +1,56 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "12",
+    "constitution": "18",
+    "intelligence": "10",
+    "wisdom": "16",
+    "charisma": "9",
+    "athletics": "+7",
+    "perception": "+9",
+    "stealth": "+4",
+    "name": "Underworld Cerberus",
+    "AC": 16,
+    "speed": [
+        "60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "fire, necrotic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, stunned"
+    ],
+    "senses": [
+        "truesight 30 ft.",
+        "passive Perception 19"
+    ],
+    "languages": [
+        "understands all languages but can\\'t speak"
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 215,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Aggressive": "As a bonus action, the cerberus can move up to its speed toward a hostile creature that it can see.",
+        "Multiheaded": "The cerberus can't be surprised, and it has advantage on saving throws against being knocked unconscious.",
+        "Pack Tactics": "The cerberus has advantage on an attack roll against a creature if at least one of the cerberus's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {
+        "Multiattack": "The cerberus makes three bite attacks.",
+        "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage plus 3 (1d6) fire damage.",
+        "Breath Weapon (Recharge 5xe2x80x936)": "The cerberus exhales a 30-foot cone of molten rock. Each creature in the cone must make a DC 15+1d6 + 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one. On a failed save, a creature is also restrained by the hardening rock. A creature can make a DC 15+1d6 + 12 Strength (Athletics) check as an action, freeing itself or a creature within reach from the rock on a success. The rock has AC 17 and 20 hit points, and it is immune to fire, poison, and psychic damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Large",
+    "type": "monstrosity"
+}

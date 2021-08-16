@@ -61,13 +61,17 @@
         "Magic Weapons": "Yeenoghu's weapon attacks are magical.",
         "Rampage": "When Yeenoghu reduces a creature to 0 hit points with a melee attack on his turn, Yeenoghu can take a bonus action to move up to half his speed and make a bite attack."
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "Yeenoghu makes three flail attacks. If an attack hits, he can cause it to create an additional effect of his choice or at random (each effect can be used only once per Multiattack):",
+        "Flail": "Melee Weapon Attack: +16+1d14 + 9 to hit, reach 15 ft., one target. Hit: 15 (1d12 + 9) bludgeoning damage.",
+        "Bite": "Melee Weapon Attack: +16+1d14 + 9 to hit, reach 10 ft., one target. Hit: 14 (1d10 + 9) piercing damage."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Charge": "Yeenoghu moves up to his speed.",
-            "Swat Away": "Yeenoghu makes a flail attack. If the attack hits, the target must succeed on a DC 24+1d14 + 17 Strength saving throw or be pushed 15 feet in a straight line away from Yeenoghu. If the saving throw fails by 5 or more, the target falls prone.",
-            "Savage (Costs 2 Actions)": "Yeenoghu makes a bite attack against each creature within 10 feet of him."
+            "Charge": " Yeenoghu moves up to his speed.",
+            "Swat Away": " Yeenoghu makes a flail attack. If the attack hits, the target must succeed on a DC 24+1d14 + 17 Strength saving throw or be pushed 15 feet in a straight line away from Yeenoghu. If the saving throw fails by 5 or more, the target falls prone.",
+            "Savage (Costs 2 Actions)": " Yeenoghu makes a bite attack against each creature within 10 feet of him."
         }
     },
     "in_lair": {

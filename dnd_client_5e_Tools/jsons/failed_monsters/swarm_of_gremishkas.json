@@ -37,5 +37,11 @@
         "Limited Spell Immunity": "The swarm automatically succeeds on saving throws against spells of 3rd level or lower, and the attack rolls of such spells always miss it.",
         "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny gremishka. The swarm can't regain hit points or gain temporary hit points."
     },
-    "actions": {}
+    "actions": {
+        "Bites": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 0 ft., one target in the swarm's space. Hit: 12 (3d6 + 2) piercing damage, or 5 (1d6 + 2) piercing damage if the swarm has half of its hit points or fewer, plus 7 (2d6) force damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    }
 }

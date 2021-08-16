@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "8",
+    "constitution": "15",
+    "intelligence": "2",
+    "wisdom": "12",
+    "charisma": "6",
+    "name": "Young Bulette",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 139,
+    "book": "Princes of the Apocalypse",
+    "traits": {
+        "Charge": "If the bulette moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15+1d4 + 13 Strength saving throw or be knocked prone."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
+}

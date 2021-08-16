@@ -1,0 +1,50 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "14",
+    "dexterity": "8",
+    "constitution": "13",
+    "intelligence": "5",
+    "wisdom": "8",
+    "charisma": "5",
+    "name": "Maw Demon",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "understands Abyssal but can\\'t speak"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 137,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Rampage": "When it reduces a creature to 0 hit points with a melee attack on its turn, the maw demon can take a bonus action to move up to half its speed and make a bite attack."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend"
+}

@@ -1,0 +1,51 @@
+{
+    "tags": [],
+    "hit": "8d8",
+    "strength": "11",
+    "dexterity": "13",
+    "constitution": "11",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "13",
+    "name": "Scarecrow",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands the languages of its creator but can't speak"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 268,
+    "book": "Monster Manual",
+    "traits": {
+        "False Appearance": "While the scarecrow remains motionless, it is indistinguishable from an ordinary, inanimate scarecrow."
+    },
+    "actions": {
+        "Multiattack": "The scarecrow makes two claw attacks.",
+        "Claw": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage. If the target is a creature, it must succeed on a DC 11+1d4 + 9 Wisdom saving throw or be frightened until the end of the scarecrow's next turn.",
+        "Terrifying Glare": "The scarecrow targets one creature it can see within 30 feet of it. If the target can see the scarecrow, the target must succeed on a DC 11+1d4 + 9 Wisdom saving throw or be magically frightened until the end of the scarecrow's next turn. The frightened target is paralyzed."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "construct"
+}

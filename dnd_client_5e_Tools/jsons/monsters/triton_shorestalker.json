@@ -1,0 +1,63 @@
+{
+    "tags": [
+        "triton"
+    ],
+    "strength": "11",
+    "dexterity": "16",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "15",
+    "charisma": "11",
+    "nature": "+4",
+    "perception": "+4",
+    "stealth": "+5",
+    "name": "Triton Shorestalker",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "nature": "expert",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "cold"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common",
+        "Primordial"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 244,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "Amphibious": "The triton can breathe air and water.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "fog cloud",
+                "gust of wind"
+            ]
+        },
+        "Nimble Escape": "The triton can take the Disengage or Hide actions as a bonus action on each of its turns."
+    },
+    "actions": {
+        "Multiattack": "The triton makes two urchin-spine shortsword attacks.",
+        "Urchin-Spine Shortsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 10 (3d6) poison damage. If the damage reduces a creature to 0 hit points, that creature is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
+        "Poisoned Spine": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 30/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

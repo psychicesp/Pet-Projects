@@ -1,0 +1,73 @@
+{
+    "tags": [
+        "angel"
+    ],
+    "hit points": "25d8 + 175",
+    "strength": "26 (+8)",
+    "dexterity": "24 (+7)",
+    "constitution": "25 (+7)",
+    "intelligence": "17 (+3)",
+    "wisdom": "25 (+7)",
+    "charisma": "30 (+10)",
+    "dexterity save": "+14",
+    "constitution save": "+14",
+    "charisma save": "+17",
+    "insight": "+14",
+    "perception": "+14",
+    "name": "Aurelia",
+    "AC": 22,
+    "speed": [
+        "50 ft",
+        "fly 150 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "necrotic, radiant",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 24"
+    ],
+    "languages": [
+        "all"
+    ],
+    "CR": "variable",
+    "page": 230,
+    "book": "Guildmasters\u2019 Guide to Ravnica",
+    "traits": {
+        "Legendary Resistance (3/Day)": "If Aurelia fails a saving throw, she can choose to succeed instead.",
+        "Magic Resistance": "Aurelia has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "Aurelia makes three longsword attacks and uses Leadership.",
+        "Longsword": "Melee Weapon Attack: +15+1d14 + 8 to hit, reach 5 ft., one target. Hit: 12 (1d8 + 8) slashing damage, or 13 (1d10 + 8) slashing damage when used with two hands, plus 27 (6d8) radiant damage.",
+        "Leadership": "Aurelia utters a few inspiring words to one creature she can see within 30 feet of her. If the creature can hear her, it can add a d10 to one attack roll or saving throw it makes before the start of Aurelia's next turn.",
+        "Warleader's Helix (Recharge 5\u20136)": "Ranged Spell Attack: +17+1d14 + 10 to hit, range 60 ft., one creature. Hit: 54 (12d8) radiant damage, and Aurelia can choose another creature she can see within 10 feet of the target. The second creature regains 27 (6d8) hit points."
+    },
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Command Allies": " Aurelia chooses up to three creatures she can see within 30 feet of her. If a chosen creature can see or hear Aurelia, it can immediately use its reaction to make one weapon attack, with advantage on the attack roll.",
+            "Longsword Attack (Costs 2 Actions)": " Aurelia makes one longsword attack.",
+            "Frighten Foes (Costs 3 Actions)": " Aurelia targets up to five creatures she can see within 30 feet of her. Each target must succeed on a DC 25+1d14 + 18 Wisdom saving throw or be frightened of her until the end of her next turn. Any target within 5 feet of Aurelia has disadvantage on the saving throw."
+        }
+    },
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "celestial"
+}

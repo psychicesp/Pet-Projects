@@ -32,17 +32,20 @@
         "Deep Speech",
         "Undercommon"
     ],
-    "CR": "13 (10,000 XP) or 14 (11,500 XP) when encountered in lair",
+    "CR": "13 (10,000 XP) or 14 (11,500 XP) when encountered in\n                lair",
     "page": 28,
     "book": "Monster Manual",
     "traits": {
         "Antimagic Cone": "The beholder's central eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot cone. At the start of each of its turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays."
     },
-    "actions": {},
+    "actions": {
+        "Bite": "Melee Weapon Attack: +5+1d10 + 0 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.",
+        "Eye Rays": "The beholder shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:"
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Eye Ray": "The beholder uses one random eye ray."
+            "Eye Ray": " The beholder uses one random eye ray."
         }
     },
     "in_lair": {

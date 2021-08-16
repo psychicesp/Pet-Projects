@@ -1,0 +1,48 @@
+{
+    "tags": [
+        "dwarf"
+    ],
+    "strength": "13",
+    "dexterity": "12",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "10",
+    "perception": "+2",
+    "name": "Shield Dwarf Guard",
+    "AC": 16,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "resistances": [
+        "poison"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "any one language (usually Common)",
+        "Dwarvish"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 78,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "traits": {
+        "Dwarven Resilience": "The shield dwarf guard has advantage on saving throws against poison, and has resistance against poison damage."
+    },
+    "actions": {
+        "Warhammer": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) bludgeoning damage, or 6 (1d10 + 1) bludgeoning damage if used with two hands."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "humanoid"
+}

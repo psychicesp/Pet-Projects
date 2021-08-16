@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "14",
+    "constitution": "16",
+    "intelligence": "2",
+    "wisdom": "13",
+    "charisma": "8",
+    "name": "Category 2 Krasis",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 211,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Amphibious": "The krasis can breathe air and water."
+    },
+    "actions": {
+        "Multiattack": "The krasis makes two attacks: one with its bite and one with its claws.",
+        "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one creature. Hit: 17 (2d12 + 4) piercing damage.",
+        "Claws": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
+}

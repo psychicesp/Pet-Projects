@@ -1,0 +1,52 @@
+{
+    "tags": [
+        "lizardfolk"
+    ],
+    "strength": "15",
+    "dexterity": "10",
+    "constitution": "13",
+    "intelligence": "7",
+    "wisdom": "12",
+    "charisma": "7",
+    "perception": "+3",
+    "stealth": "+4",
+    "survival": "+5",
+    "name": "Lizardfolk",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert",
+        "survival": "expert"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Draconic"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 204,
+    "book": "Monster Manual",
+    "traits": {
+        "Hold Breath": "The lizardfolk can hold its breath for 15 minutes."
+    },
+    "actions": {
+        "Multiattack": "The lizardfolk makes two melee attacks, each one with a different weapon.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "Heavy Club": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.",
+        "Javelin": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "Spiked Shield": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
+}

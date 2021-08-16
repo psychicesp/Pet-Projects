@@ -1,0 +1,54 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "13",
+    "constitution": "16",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "10",
+    "perception": "+4",
+    "name": "Snake Horror",
+    "AC": 20,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "force, necrotic, poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "understands the languages of its creator but can\\'t speak"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 46,
+    "book": "The Rise of Tiamat",
+    "traits": {
+        "Magic Resistance": "The snake horror has advantage on saving throws against spells and other magical effects.",
+        "Spell Immunity": "The snake horror is immune to three spells chosen by its creator. Typical immunities include fireball, heat metal, and lightning bolt."
+    },
+    "actions": {
+        "Multiattack": "The snake horror makes two longsword attacks.",
+        "Longsword": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, and the target must make a DC 12 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
+}

@@ -1,0 +1,72 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "18",
+    "constitution": "16",
+    "intelligence": "15",
+    "wisdom": "14",
+    "charisma": "16",
+    "deception": "+7",
+    "intimidation": "+7",
+    "persuasion": "+7",
+    "name": "Abhorrent Overlord",
+    "AC": 16,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "deception": "proficient",
+        "intimidation": "proficient",
+        "persuasion": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, necrotic"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Infernal"
+    ],
+    "CR": "9 (5,000 XP)",
+    "page": 219,
+    "book": "Mythic Odysseys of Theros",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "confusion",
+                "crown of madness",
+                "suggestion"
+            ]
+        },
+        "Insatiable Greed": "The abhorrent overlord can sense the presence of gold within 1,000 feet of itself. It can determine which location has the greatest amount of gold and can sense the direction to that site. If the gold is being moved, it knows the direction of the movement. It can't locate gold if any thickness of clay or lead, even a thin sheet, blocks a direct path between it and the gold.",
+        "Magic Resistance": "The abhorrent overlord has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The abhorrent overlord makes two attacks with its claws.",
+        "Claws": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage plus 14 (4d6) necrotic damage. The abhorrent overlord regains hit points equal to half the amount of necrotic damage dealt if the target is a creature.",
+        "Storm of Crows (Recharge 6)": "The abhorrent overlord conjures a swarm of spectral crows and harpies in a 20-foot-radius sphere centered on a point the overlord can see within 120 feet of it. The sphere remains for 1 minute or until the overlord loses concentration (as if concentrating on a spell), and its area is lightly obscured and difficult terrain."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Large",
+    "type": "fiend"
+}

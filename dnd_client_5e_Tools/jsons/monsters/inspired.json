@@ -1,0 +1,72 @@
+{
+    "tags": [
+        "human"
+    ],
+    "hit": "9d8",
+    "strength": "11",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "16",
+    "wisdom": "10",
+    "charisma": "16",
+    "deception": "+7",
+    "insight": "+2",
+    "persuasion": "+7",
+    "name": "Inspired",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "deception": "expert",
+        "insight": "proficient",
+        "persuasion": "expert"
+    },
+    "resistances": [
+        "psychic"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Quori"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 294,
+    "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "Dual Mind": "The Inspired has advantage on Wisdom saving throws.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "mage hand",
+                "vicious mockery",
+                "charm person",
+                "dissonant whispers",
+                "hex",
+                "hold person",
+                "mage armor"
+            ]
+        }
+    },
+    "actions": {
+        "Multiattack": "The Inspired makes two crysteel dagger attacks. It can replace one attack with vicious mockery.",
+        "Crysteel Dagger": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 10 (3d6) force damage.",
+        "Vicious Mockery (Cantrip)": "The Inspired unleashes a string of insults laced with subtle enchantments at one creature it can see within 60 feet of it. If the target can hear the Inspired, the target must succeed on a DC 13+1d4 + 11 Wisdom saving throw or take 2 (1d4) psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
+}

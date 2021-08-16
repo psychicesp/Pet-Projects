@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "13",
+    "constitution": "13",
+    "intelligence": "6",
+    "wisdom": "12",
+    "charisma": "7",
+    "perception": "+3",
+    "name": "Dolphin",
+    "AC": 12,
+    "speed": [
+        "0 ft",
+        "swim 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "blindsight 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 208,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Charge": "If the dolphin moves at least 30 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 3 (1d6) bludgeoning damage.",
+        "Hold Breath": "The dolphin can hold its breath for 20 minutes."
+    },
+    "actions": {
+        "Slam": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
+}

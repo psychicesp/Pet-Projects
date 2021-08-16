@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "13",
+    "constitution": "16",
+    "intelligence": "1",
+    "wisdom": "12",
+    "charisma": "5",
+    "perception": "+3",
+    "name": "Carrion Crawler",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 37,
+    "book": "Monster Manual",
+    "traits": {
+        "Keen Smell": "The carrion crawler has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Spider Climb": "The carrion crawler can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
+    "actions": {
+        "Multiattack": "The carrion crawler makes two attacks: one with its tentacles and one with its bite.",
+        "Tentacles": "Melee Weapon Attack: +8+1d4 + 6 to hit, reach 10 ft., one creature. Hit: 4 (1d4 + 2) poison damage, and the target must succeed on a DC 13+1d4 + 11 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
+}

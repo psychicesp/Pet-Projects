@@ -41,13 +41,18 @@
         "Legendary Resistance (2/Day)": "When the loup garou fails a saving throw, it can choose to succeed instead.",
         "Regeneration": "The loup garou regains 10 hit points at the start of each of its turns. If the loup garou takes damage from a silver weapon, this trait doesn't function at the start of the loup garou's next turn. The loup garou dies only if it starts its turn with 0 hit points and doesn't regenerate."
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "The loup garou makes two attacks: two with its Longsword (humanoid form) or one with its Bite and one with its Claws (dire wolf or hybrid form).",
+        "Bite (Dire Wolf or Hybrid Form Only)": "Melee Weapon Attack: +9+1d10 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 14 (4d6) necrotic damage. If the target is a Humanoid, it must succeed on a DC 17+1d10 + 12 Constitution saving throw or be cursed with loup garou lycanthropy.",
+        "Claws (Dire Wolf or Hybrid Form Only)": "Melee Weapon Attack: +9+1d10 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage. If the target is a creature, it must succeed on a DC 17+1d10 + 12 Strength saving throw or be knocked prone.",
+        "Longsword (Humanoid Form Only)": "Melee Weapon Attack: +9+1d10 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two hands."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Swipe": "The loup garou makes one Claws attack (dire wolf or hybrid form only) or one Longsword attack (humanoid form only).",
-            "Mauling Pounce (Costs 2 Actions)": "The loup garou moves up to its speed without provoking opportunity attacks, and it can make one Claws attack (dire wolf or hybrid form only) or one Longsword attack (humanoid form only) against each creature it moves past.",
-            "Bite (Costs 3 Actions)": "The loup garou changes into hybrid or dire wolf form and then makes one Bite attack."
+            "Swipe": " The loup garou makes one Claws attack (dire wolf or hybrid form only) or one Longsword attack (humanoid form only).",
+            "Mauling Pounce (Costs 2 Actions)": " The loup garou moves up to its speed without provoking opportunity attacks, and it can make one Claws attack (dire wolf or hybrid form only) or one Longsword attack (humanoid form only) against each creature it moves past.",
+            "Bite (Costs 3 Actions)": " The loup garou changes into hybrid or dire wolf form and then makes one Bite attack."
         }
     }
 }

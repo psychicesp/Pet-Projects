@@ -1,0 +1,53 @@
+{
+    "tags": [
+        "kuo-toa"
+    ],
+    "strength": "14",
+    "dexterity": "10",
+    "constitution": "14",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "11",
+    "perception": "+6",
+    "religion": "+5",
+    "name": "Kuo-toa Monitor",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert",
+        "religion": "expert"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Undercommon"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 198,
+    "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The kuo-toa can breathe air and water.",
+        "Otherworldly Perception": "The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.",
+        "Slippery": "The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.",
+        "Sunlight Sensitivity": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+        "Unarmored Defense": "The kuo-toa adds its Wisdom modifier to its armor class."
+    },
+    "actions": {
+        "Multiattack": "The kuo-toa makes one bite attack and two unarmed strikes.",
+        "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+        "Unarmed Strike": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 3 (1d6) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

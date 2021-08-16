@@ -1,0 +1,83 @@
+{
+    "tags": [
+        "yugoloth"
+    ],
+    "strength": "12",
+    "dexterity": "21",
+    "constitution": "16",
+    "intelligence": "19",
+    "wisdom": "10",
+    "charisma": "14",
+    "insight": "+4",
+    "perception": "+4",
+    "name": "Hydroloth",
+    "AC": 15,
+    "speed": [
+        "20 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "insight": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "acid, poison"
+    ],
+    "resistances": [
+        "cold, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Abyssal",
+        "Infernal",
+        "telepathy 60 ft."
+    ],
+    "CR": "9 (5,000 XP)",
+    "page": 249,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Amphibious": "The hydroloth can breathe air and water.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "darkness",
+                "detect magic",
+                "dispel magic",
+                "invisibility",
+                "water walk",
+                "control water",
+                "crown of madness",
+                "fear",
+                "phantasmal killer",
+                "suggestion"
+            ]
+        },
+        "Magic Resistance": "The hydroloth has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The hydroloth's weapon attacks are magical.",
+        "Secure Memory": "The hydroloth is immune to the waters of the River Styx as well as any effect that would steal or modify its memories or detect or read its thoughts.",
+        "Watery Advantage": "While submerged in liquid, the hydroloth has advantage on attack rolls."
+    },
+    "actions": {
+        "Multiattack": "The hydroloth makes two melee attacks. In place of one of these attacks, it can cast one spell that takes 1 action to cast.",
+        "Claws": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.",
+        "Bite": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage.",
+        "Steal Memory (1/Day)": "The hydroloth targets one creature it can see within 60 feet of it. The target takes 4d6 psychic damage, and it must make a DC 16+1d8 + 12 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies, it can't cast spells, it can't understand language, and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A greater restoration or remove curse spell cast on the target ends this effect early.",
+        "Teleport": "The hydroloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
+}

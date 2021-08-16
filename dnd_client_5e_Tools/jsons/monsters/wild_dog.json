@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "hit": "1d6",
+    "strength": "8",
+    "dexterity": "15",
+    "constitution": "11",
+    "intelligence": "3",
+    "wisdom": "12",
+    "charisma": "6",
+    "perception": "+3",
+    "name": "Wild Dog",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 96,
+    "book": "Tomb of Annihilation",
+    "traits": {
+        "Keen Hearing and Smell": "The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+        "Pack Tactics": "The dog has advantage on an attack roll against a creature if at least one of the dog's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Small",
+    "type": "beast"
+}

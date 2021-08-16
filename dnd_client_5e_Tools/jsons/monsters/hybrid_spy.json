@@ -1,0 +1,49 @@
+{
+    "tags": [
+        "Simic"
+    ],
+    "strength": "11",
+    "dexterity": "17",
+    "constitution": "12",
+    "intelligence": "13",
+    "wisdom": "14",
+    "charisma": "9",
+    "perception": "+4",
+    "stealth": "+5",
+    "name": "Hybrid Spy",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 218,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Chameleon Skin": "The hybrid has advantage on Dexterity (Stealth) checks made to hide.",
+        "Spider Climb": "The hybrid can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
+    "actions": {
+        "Multiattack": "The hybrid makes two shortsword attacks.",
+        "Shortsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NG",
+    "size": "Medium",
+    "type": "humanoid"
+}

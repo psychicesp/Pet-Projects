@@ -1,0 +1,54 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "18",
+    "constitution": "13",
+    "intelligence": "12",
+    "wisdom": "13",
+    "charisma": "7",
+    "name": "Vampiric Ixitxachitl Cleric",
+    "AC": 16,
+    "speed": [
+        "0 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "Ixitxachitl"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 226,
+    "book": "Out of the Abyss",
+    "traits": {
+        "spellcasting": {
+            "level": 5,
+            "type": "cleric",
+            "spells": [
+                "guidance",
+                "thaumaturgy",
+                "charm person",
+                "create or destroy water",
+                "hold person",
+                "silence",
+                "dispel magic",
+                "tongues"
+            ]
+        }
+    },
+    "actions": {
+        "Vampiric Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. The target must succeed on a DC 11+1d4 + 9 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken, and the ixitxachitl regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "aberration"
+}

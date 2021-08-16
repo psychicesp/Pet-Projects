@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "17",
+    "constitution": "22",
+    "intelligence": "10",
+    "wisdom": "18",
+    "charisma": "12",
+    "insight": "+7",
+    "perception": "+10",
+    "name": "Guardian Giant",
+    "AC": 19,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "perception": "expert"
+    },
+    "senses": [
+        "passive Perception 20"
+    ],
+    "languages": [
+        "Common",
+        "Giant"
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 201,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Vigilant": "The giant can't be surprised."
+    },
+    "actions": {
+        "Multiattack": "The giant makes three spear attacks.",
+        "Spear": "Melee or Ranged Weapon Attack: +10+1d6 + 7 to hit, reach 10 ft. or range 60/240 ft., one target. Hit: 17 (3d6 + 7) piercing damage, or 20 (3d8 + 7) piercing damage if used with two hands to make a melee attack."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LN",
+    "size": "Huge",
+    "type": "giant"
+}

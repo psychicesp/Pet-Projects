@@ -1,0 +1,53 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "20",
+    "dexterity": "20",
+    "constitution": "20",
+    "intelligence": "14",
+    "wisdom": "13",
+    "charisma": "16",
+    "intimidation": "+6",
+    "perception": "+4",
+    "persuasion": "+6",
+    "stealth": "+11",
+    "name": "Death\\'s Head of Bhaal",
+    "AC": 15,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 233,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "traits": {
+        "Aura of Murder": "As long as the death's head is not incapacitated, hostile creatures within 5 feet of it gain vulnerability to piercing damage unless they have resistance or immunity to such damage.",
+        "Magic Resistance": "The death's head has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The death's head uses Stunning Gaze and makes two dagger attacks.",
+        "Dagger": "Melee or Ranged Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d4 + 5) piercing damage.",
+        "Stunning Gaze": "The death's head targets one creature it can see within 30 feet of it. The target must succeed on a DC 14+1d6 + 11 Wisdom saving throw or be stunned until the end of its next turn."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
+}

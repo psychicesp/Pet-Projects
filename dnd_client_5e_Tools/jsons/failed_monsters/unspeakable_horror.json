@@ -35,5 +35,13 @@
         "Bile Body (Oozing Organs Only)": "Any creature that touches the horror or hits it with a melee attack takes 5 (1d10) acid damage.",
         "Relentless Stride (Loathsome Limbs Only)": "The horror can move through the space of another creature. The first time on a turn that the horror enters a creature's space during this move, the creature must succeed on a DC 16+1d6 + 13 Strength saving throw or be knocked prone."
     },
-    "actions": {}
+    "actions": {
+        "Multiattack": "The horror makes two Limbs attacks.",
+        "Limbs": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage.",
+        "Hex Blast (Recharge 5xe2x80x936)": "The horror expels necrotic energy in a 30-foot cone. Each creature in that area must make a DC 15+1d6 + 12 Constitution saving throw, taking 45 (7d12) necrotic damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    }
 }

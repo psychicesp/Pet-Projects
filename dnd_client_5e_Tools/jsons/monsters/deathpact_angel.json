@@ -1,0 +1,75 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "18",
+    "constitution": "14",
+    "intelligence": "19",
+    "wisdom": "20",
+    "charisma": "23",
+    "insight": "+10",
+    "intimidation": "+11",
+    "perception": "+10",
+    "persuasion": "+11",
+    "name": "Deathpact Angel",
+    "AC": 18,
+    "speed": [
+        "30 ft",
+        "fly 90 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "insight": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient",
+        "persuasion": "proficient"
+    },
+    "resistances": [
+        "necrotic, radiant",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, frightened"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "all"
+    ],
+    "CR": "14 (11,500 XP)",
+    "page": 192,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Exploitation of the Debtors": "As a bonus action, the angel targets a creature charmed by it that it can see within 30 feet of it. The angel deals 11 (2d10) necrotic damage to the target, and the angel gains temporary hit points equal to the damage dealt.",
+        "Flyby": "The angel doesn't provoke an opportunity attack when it flies out of an enemy's reach.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "command",
+                "detect evil and good",
+                "charm person",
+                "darkness",
+                "suggestion",
+                "raise dead"
+            ]
+        },
+        "Magic Resistance": "The angel has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The angel makes two attacks with its scythe. It can substitute Chains of Obligation for one of these attacks.",
+        "Scythe": "Melee Weapon Attack: +9+1d10 + 4 to hit, reach 10 ft., one target. Hit: 9 (2d4 + 4) slashing damage plus 27 (6d8) necrotic damage.",
+        "Chains of Obligation": "The angel targets one creature charmed by it that it can see within 90 feet of it. The target must succeed on a DC 19+1d10 + 14 Charisma saving throw or become paralyzed for 1 minute or until it takes any damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "celestial"
+}

@@ -1,0 +1,54 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "18",
+    "dexterity": "13",
+    "constitution": "20",
+    "intelligence": "9",
+    "wisdom": "9",
+    "charisma": "9",
+    "intimidation": "+2",
+    "perception": "+2",
+    "name": "Tanarukk",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "fire, poison"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Orc"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 186,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Aggressive": "As a bonus action, the tanarukk can move up to its speed toward a hostile creature that it can see.",
+        "Magic Resistance": "The tanarukk has advantage on saving throws against spells and other magical effects."
+    },
+    "actions": {
+        "Multiattack": "The tanarukk makes two attacks: one with its bite and one with its greatsword.",
+        "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.",
+        "Greatsword": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "O",
+    "size": "Medium",
+    "type": "fiend"
+}

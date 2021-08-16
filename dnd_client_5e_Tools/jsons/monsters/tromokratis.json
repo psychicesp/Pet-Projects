@@ -47,13 +47,19 @@
         "Siege Monster": "Tromokratis deals double damage to objects and structures.",
         "Spell-Resistant Carapace": "Tromokratis has advantage on saving throws against spells, and any creature that makes a spell attack against Tromokratis has disadvantage on the attack roll."
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "Tromokratis makes three attacks: one with its pincer, one with its tail, and one with its tentacle grasp.",
+        "Pincer": "Melee Weapon Attack: +18+1d16 + 10 to hit, reach 20 ft., one target. Hit: 20 (3d6 + 10) bludgeoning damage, and if the target is a creature, it is grappled (escape DC 26+1d16 + 18). Until the grapple ends, the target is restrained, and Tromokratis can't use this attack on anyone else.",
+        "Tail": "Melee Weapon Attack: +18+1d16 + 10 to hit, reach 20 ft., one target. Hit: 23 (3d8 + 10) bludgeoning damage, and if the target is a creature, it is knocked prone.",
+        "Tentacle Grasp": "Melee Weapon Attack: +18+1d16 + 10 to hit, reach 20 ft., one creature. Hit: 20 (3d6 + 10) bludgeoning damage, and the target is grappled (escape DC 26+1d16 + 18). If the target doesn't escape by the end of its next turn, Tromokratis throws the target up to 60 feet in a straight line. The target lands prone and takes 21 (6d6) bludgeoning damage.",
+        "Bite": "Melee Weapon Attack: +18+1d16 + 10 to hit, reach 5 ft., one target. Hit: 29 (3d12 + 10) piercing damage. If the target is a Large or smaller creature grappled by Tromokratis, that creature is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside Tromokratis, and it takes 42 (12d6) acid damage at the start of each of Tromokratis's turns. If Tromokratis takes 50 damage or more on a single turn from a creature inside it, Tromokratis must succeed on a DC 20+1d16 + 12 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of Tromokratis. If Tromokratis dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Move": "Tromokratis moves up to half its speed.",
-            "Tail": "Tromokratis makes one tail attack.",
-            "Bite (Costs 3 Actions)": "Tromokratis makes one bite attack."
+            "Move": " Tromokratis moves up to half its speed.",
+            "Tail": " Tromokratis makes one tail attack.",
+            "Bite (Costs 3 Actions)": " Tromokratis makes one bite attack."
         }
     },
     "alignment": "AA",

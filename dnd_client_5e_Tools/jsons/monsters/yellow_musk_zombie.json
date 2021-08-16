@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "9",
+    "constitution": "12",
+    "intelligence": "1",
+    "wisdom": "6",
+    "charisma": "3",
+    "name": "Yellow Musk Zombie",
+    "AC": 9,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "condition_immunities": [
+        "charmed, exhaustion"
+    ],
+    "senses": [
+        "blindsight 30 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 237,
+    "book": "Tomb of Annihilation",
+    "traits": {
+        "Undead Fortitude": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 +the damage taken, unless the damage is fire or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+    },
+    "actions": {
+        "Slam": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) bludgeoning damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "undead"
+}

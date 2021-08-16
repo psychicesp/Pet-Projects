@@ -1,0 +1,51 @@
+{
+    "tags": [
+        "thri-kreen"
+    ],
+    "strength": "12",
+    "dexterity": "15",
+    "constitution": "13",
+    "intelligence": "8",
+    "wisdom": "12",
+    "charisma": "7",
+    "perception": "+3",
+    "stealth": "+4",
+    "survival": "+3",
+    "name": "Thri-kreen",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Thri-kreen"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 288,
+    "book": "Monster Manual",
+    "traits": {
+        "Chameleon Carapace": "The thri-kreen can change the color of its carapace to match the color and texture of its surroundings. As a result, it has advantage on Dexterity (Stealth) checks made to hide.",
+        "Standing Leap": "The thri-kreen's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start."
+    },
+    "actions": {
+        "Multiattack": "The thri-kreen makes two attacks: one with its bite and one with its claws.",
+        "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) piercing damage, and the target must succeed on a DC 11+1d4 + 9 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is also paralyzed while poisoned in this way. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+        "Claws": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CN",
+    "size": "Medium",
+    "type": "humanoid"
+}

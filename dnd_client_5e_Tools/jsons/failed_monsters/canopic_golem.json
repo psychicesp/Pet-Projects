@@ -37,5 +37,13 @@
         "Limited Spell Immunity": "The golem automatically succeeds on saving throws against spells of 7th level or lower, and the attack rolls of such spells always miss it.",
         "Unusual Nature": "The golem doesn't require air, food, drink, or sleep."
     },
-    "actions": {}
+    "actions": {
+        "Multiattack": "The golem makes two attacks.",
+        "Slam": "Melee Weapon Attack: +10+1d10 + 5 to hit, reach 5 ft., one target. Hit: 27 (4d10 + 5) force damage.",
+        "Crystal Dart": "Ranged Weapon Attack: +10+1d10 + 5 to hit, range 120 ft., one target. Hit: 14 (2d8 + 5) force damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    }
 }

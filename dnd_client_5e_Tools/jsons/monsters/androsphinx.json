@@ -1,0 +1,102 @@
+{
+    "tags": [],
+    "hit points": "19d10 + 95",
+    "strength": "22 (+6)",
+    "dexterity": "10 (+0)",
+    "constitution": "20 (+5)",
+    "intelligence": "16 (+3)",
+    "wisdom": "18 (+4)",
+    "charisma": "23 (+6)",
+    "dexterity save": "+6",
+    "constitution save": "+11",
+    "intelligence save": "+9",
+    "wisdom save": "+10",
+    "arcana": "+9",
+    "perception": "+10",
+    "religion": "+15",
+    "name": "Androsphinx",
+    "AC": 17,
+    "speed": [
+        "40 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "perception": "proficient",
+        "religion": "expert"
+    },
+    "damage_immunities": [
+        "psychic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, frightened"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 20"
+    ],
+    "languages": [
+        "Common",
+        "Sphinx"
+    ],
+    "CR": "variable",
+    "page": 281,
+    "book": "Monster Manual",
+    "traits": {
+        "Inscrutable": "The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.",
+        "Magic Weapons": "The sphinx's weapon attacks are magical.",
+        "spellcasting": {
+            "level": 12,
+            "type": "cleric",
+            "spells": [
+                "sacred flame",
+                "spare the dying",
+                "thaumaturgy",
+                "command",
+                "detect evil and good",
+                "detect magic",
+                "lesser restoration",
+                "zone of truth",
+                "dispel magic",
+                "tongues",
+                "banishment",
+                "freedom of movement",
+                "flame strike",
+                "greater restoration",
+                "heroes' feast"
+            ]
+        }
+    },
+    "actions": {
+        "Multiattack": "The sphinx makes two claw attacks.",
+        "Claw": "Melee Weapon Attack: +12+1d12 + 6 to hit, reach 5 ft., one target. Hit: 17 (2d10 + 6) slashing damage.",
+        "Roar (3/Day)": "The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw."
+    },
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Claw Attack": " The sphinx makes one claw attack.",
+            "Teleport (Costs 2 Actions)": " The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.",
+            "Cast a Spell (Costs 3 Actions)": " The sphinx casts a spell from its list of prepared spells, using a spell slot as normal."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "The flow of time is altered such that every creature in the lair must reroll initiative. The sphinx can choose not to reroll.",
+            "The effects of time are altered such that every creature in the lair must succeed on a DC 15+1d12 + 9 Constitution saving throw or become 1d20 years older or younger (the sphinx's choice), but never any younger than 1 year old. A greater restoration spell can restore a creature's age to normal.",
+            "The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx's choice). Only the sphinx is immediately aware of the time change. A wish spell can return the caster and up to seven other creatures designated by the caster to their normal time.",
+            "The sphinx shifts itself and up to seven other creatures it can see within in its lair to another plane of existence. Once outside its lair, the sphinx can't use lair actions, but it can return to its lair as a bonus action on its turn, taking up to seven creatures with it."
+        ]
+    },
+    "alignment": "LN",
+    "size": "Large",
+    "type": "monstrosity"
+}

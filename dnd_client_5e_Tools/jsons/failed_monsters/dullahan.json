@@ -39,13 +39,17 @@
         "Legendary Resistance (2/Day)": "If the dullahan fails a saving throw, it can choose to succeed instead.",
         "Unusual Nature": "The dullahan doesn't require air, food, drink, or sleep."
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "The dullahan makes two attacks.",
+        "Battleaxe": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 11 (2d10) necrotic damage. If the dullahan scores a critical hit against a creature, the target must succeed on a DC 15+1d8 + 11 Constitution saving throw or the dullahan cuts off the target's head. The target dies if it can't survive without the lost head. A creature that doesn't have or need a head, or has legendary actions, instead takes an extra 27 (6d8) slashing damage.",
+        "Fiery Skull": "Ranged Spell Attack: +7+1d8 + 3 to hit, range 120 ft., one target. Hit: 14 (2d10 + 3) fire damage."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Attack": "The dullahan makes one attack.",
-            "Frightful Presence (Costs 2 Actions)": "Each creature of the dullahan's choice within 30 feet of it must succeed on a DC 15+1d8 + 11 Wisdom saving throw or become frightened of the dullahan until the end of its next turn.",
-            "Head Hunt (Costs 3 Actions)": "The dullahan moves up to its speed without provoking opportunity attacks and makes one Battleaxe attack with advantage. If the attack hits, but is not a critical hit, the attack deals an extra 27 (6d8) necrotic damage."
+            "Attack": " The dullahan makes one attack.",
+            "Frightful Presence (Costs 2 Actions)": " Each creature of the dullahan's choice within 30 feet of it must succeed on a DC 15+1d8 + 11 Wisdom saving throw or become frightened of the dullahan until the end of its next turn.",
+            "Head Hunt (Costs 3 Actions)": " The dullahan moves up to its speed without provoking opportunity attacks and makes one Battleaxe attack with advantage. If the attack hits, but is not a critical hit, the attack deals an extra 27 (6d8) necrotic damage."
         }
     }
 }

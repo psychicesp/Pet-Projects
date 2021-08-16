@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "hit": "3d8",
+    "strength": "1",
+    "dexterity": "1",
+    "constitution": "10",
+    "intelligence": "1",
+    "wisdom": "3",
+    "charisma": "1",
+    "name": "Shrieker",
+    "AC": 5,
+    "speed": [
+        "0 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "condition_immunities": [
+        "blinded, deafened, frightened"
+    ],
+    "senses": [
+        "blindsight 30 ft. (blind beyond this radius)",
+        "passive Perception 6"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 138,
+    "book": "Monster Manual",
+    "traits": {
+        "False Appearance": "While the shrieker remains motionless, it is indistinguishable from an ordinary fungus."
+    },
+    "actions": {
+        "Shriek": "When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "plant"
+}

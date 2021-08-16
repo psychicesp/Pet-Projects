@@ -1,0 +1,61 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "11",
+    "dexterity": "16",
+    "constitution": "14",
+    "intelligence": "13",
+    "wisdom": "11",
+    "charisma": "10",
+    "acrobatics": "+6",
+    "deception": "+3",
+    "perception": "+3",
+    "stealth": "+9",
+    "name": "Vistana Assassin",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient"
+    },
+    "skills": {
+        "acrobatics": "proficient",
+        "deception": "proficient",
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "resistances": [
+        "poison"
+    ],
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Thieves\\' cant plus any two languages"
+    ],
+    "CR": "8 (3,900 XP)",
+    "page": 28,
+    "book": "Curse of Strahd",
+    "traits": {
+        "Assassinate": "During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.",
+        "Evasion": "If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+        "Sneak Attack (1/Turn)": "The assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll."
+    },
+    "actions": {
+        "Multiattack": "The assassin makes two shortsword attacks.",
+        "Shortsword": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 15+1d6 + 12 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.",
+        "Light Crossbow": "Ranged Weapon Attack: +6+1d6 + 3 to hit, range 80/320 ft., one target. Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 15+1d6 + 12 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.",
+        "Curse (Recharges After a Long Rest)": "The Vistana targets one creature that it can see within 30 feet of it. The target must succeed on a DC 11+1d6 + 8 Wisdom saving throw or be cursed. The Vistana chooses the curse's effect from the options that follow; other Vistani curses are possible. All such effects deal psychic damage to the Vistani who uttered them when they end:",
+        "Evil Eye (Recharges after a Short or Long Rest)": "As an action, a Vistana can target a creature within 10 feet that the Vistana can see. This magical ability, which the Vistani call the Evil Eye, duplicates the duration and effect of the animal friendship, charm person, or hold person spell (Vistana's choice; spell DC 11+1d6 + 8), but requires neither somatic nor material components. If the target succeeds on the save, the Vistana is blinded until the end of the Vistana's next turn."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
+}

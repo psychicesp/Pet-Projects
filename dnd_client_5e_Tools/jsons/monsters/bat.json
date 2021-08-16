@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "2",
+    "dexterity": "15",
+    "constitution": "8",
+    "intelligence": "2",
+    "wisdom": "12",
+    "charisma": "4",
+    "name": "Bat",
+    "AC": 12,
+    "speed": [
+        "5 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "blindsight 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 318,
+    "book": "Monster Manual",
+    "traits": {
+        "Echolocation": "The bat can't use its blindsight while deafened.",
+        "Keen Hearing": "The bat has advantage on Wisdom (Perception) checks that rely on hearing."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one creature. Hit: 1 piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast"
+}

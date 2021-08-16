@@ -1,0 +1,57 @@
+{
+    "tags": [
+        "halfling"
+    ],
+    "strength": "10",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "8",
+    "perception": "+2",
+    "stealth": "+4",
+    "name": "Shard Shunner",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+    ],
+    "senses": [
+        "darkvision 60 ft. (rat form only)",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Halfling",
+        "Thieves\\' cant"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 42,
+    "book": "Waterdeep: Dragon Heist",
+    "traits": {
+        "Shapechanger": "The Shard Shunner can use their action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into their true form, which is humanoid. Their statistics, other than their size, are the same in each form. Any equipment they are wearing or carrying isn't transformed. They revert to their true form if they die.",
+        "Brave": "The Shard Shunner has advantage on saving throws against being frightened.",
+        "Halfling Nimbleness": "The Shard Shunner can move through the space of creatures that is of a size larger than them.",
+        "Keen Smell": "The Shard Shunner has advantage on Wisdom (Perception) checks that rely on smell."
+    },
+    "actions": {
+        "Multiattack (Humanoid or Hybrid Form Only)": "The Shard Shunner makes two attacks, only one of which can be a bite.",
+        "Bite (Rat or Hybrid Form Only)": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11+1d4 + 9 Constitution saving throw or be cursed with wererat lycanthropy.",
+        "Shortsword (Humanoid or Hybrid Form Only)": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "Hand Crossbow (Humanoid or Hybrid Form Only)": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "S",
+    "size": "Small",
+    "type": "humanoid"
+}

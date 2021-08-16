@@ -1,0 +1,48 @@
+{
+    "tags": [
+        "gnoll"
+    ],
+    "strength": "17",
+    "dexterity": "15",
+    "constitution": "15",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "13",
+    "name": "Gnoll Fang of Yeenoghu",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Abyssal",
+        "Gnoll"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 163,
+    "book": "Monster Manual",
+    "traits": {
+        "Rampage": "When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack."
+    },
+    "actions": {
+        "Multiattack": "The gnoll makes three attacks: one with its bite and two with its claws.",
+        "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, and the target must succeed on a DC 12+1d4 + 10 Constitution saving throw or take 7 (2d6) poison damage.",
+        "Claw": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "fiend"
+}

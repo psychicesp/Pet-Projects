@@ -45,6 +45,5 @@
             ]
         },
         "Mimicry": "The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14+1d6 + 11 Wisdom (Insight) check."
-    },
-    "actions": {}
+    }
 }

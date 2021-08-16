@@ -1,0 +1,68 @@
+{
+    "tags": [
+        "devil"
+    ],
+    "strength": "14",
+    "dexterity": "17",
+    "constitution": "14",
+    "intelligence": "13",
+    "wisdom": "16",
+    "charisma": "11",
+    "perception": "+6",
+    "stealth": "+6",
+    "name": "Black Abishai",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "fly 40 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "acid, fire, poison"
+    ],
+    "resistances": [
+        "cold",
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t silvered"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Draconic",
+        "Infernal",
+        "telepathy 120 ft."
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 160,
+    "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
+    "traits": {
+        "Devil's Sight": "Magical darkness doesn't impede the abishai's darkvision.",
+        "Magic Resistance": "The abishai has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The abishai's weapon attacks are magical.",
+        "Shadow Stealth": "While in dim light or darkness, the abishai can take the Hide action as a bonus action."
+    },
+    "actions": {
+        "Multiattack": "The abishai makes three attacks: two with its scimitar and one with its bite.",
+        "Scimitar": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
+        "Bite": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 9 (2d8) acid damage.",
+        "Creeping Darkness (Recharge 6)": "The abishai casts darkness at a point within 120 feet of it, requiring no components. Wisdom is its spellcasting ability for this spell. While the spell persists, the abishai can move the area of darkness up to 60 feet as a bonus action."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "fiend"
+}

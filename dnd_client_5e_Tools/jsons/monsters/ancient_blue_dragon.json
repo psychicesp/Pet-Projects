@@ -1,0 +1,78 @@
+{
+    "tags": [],
+    "hit points": "26d20 + 208",
+    "strength": "29 (+9)",
+    "dexterity": "10 (+0)",
+    "constitution": "27 (+8)",
+    "intelligence": "18 (+4)",
+    "wisdom": "17 (+3)",
+    "charisma": "21 (+5)",
+    "dexterity save": "+7",
+    "constitution save": "+15",
+    "wisdom save": "+10",
+    "charisma save": "+12",
+    "perception": "+17",
+    "stealth": "+7",
+    "name": "Ancient Blue Dragon",
+    "AC": 22,
+    "speed": [
+        "40 ft",
+        "burrow 40 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "expert",
+        "stealth": "proficient"
+    },
+    "damage_immunities": [
+        "lightning"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 27"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "variable",
+    "page": 90,
+    "book": "Monster Manual",
+    "traits": {
+        "Legendary Resistance (3/Day)": "If the dragon fails a saving throw, it can choose to succeed instead."
+    },
+    "actions": {
+        "Multiattack": "The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.",
+        "Bite": "Melee Weapon Attack: +16+1d14 + 9 to hit, reach 15 ft., one target. Hit: 20 (2d10 + 9) piercing damage plus 11 (2d10) lightning damage.",
+        "Claw": "Melee Weapon Attack: +16+1d14 + 9 to hit, reach 10 ft., one target. Hit: 16 (2d6 + 9) slashing damage.",
+        "Tail": "Melee Weapon Attack: +16+1d14 + 9 to hit, reach 20 ft., one target. Hit: 18 (2d8 + 9) bludgeoning damage.",
+        "Frightful Presence": "Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20+1d14 + 13 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.",
+        "Lightning Breath (Recharge 5\u20136)": "The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23+1d14 + 16 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Detect": " The dragon makes a Wisdom (Perception) check.",
+            "Tail Attack": " The dragon makes a tail attack.",
+            "Wing Attack (Costs 2 Actions)": " The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24+1d14 + 17 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed."
+        }
+    },
+    "in_lair": {
+        "CR_increase": 1,
+        "actions": [
+            "Part of the ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature must succeed on a DC 15+1d14 + 8 Dexterity saving throw or take 10 (3d6) bludgeoning damage and be knocked prone and buried. The buried target is restrained and unable to breathe or stand up. A creature can take an action to make a DC 10+1d14 + 3 Strength check, ending the buried state on a success.",
+            "A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15+1d14 + 8 Constitution saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+            "Lightning arcs, forming a 5-foot-wide line between two of the lair's solid surfaces that the dragon can see. They must be within 120 feet of the dragon and 120 feet of each other. Each creature in that line must succeed on a DC 15+1d14 + 8 Dexterity saving throw or take 10 (3d6) lightning damage."
+        ]
+    },
+    "alignment": "LE",
+    "size": "Gargantuan",
+    "type": "dragon"
+}

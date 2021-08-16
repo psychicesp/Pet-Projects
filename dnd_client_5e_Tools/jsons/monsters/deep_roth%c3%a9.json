@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "10",
+    "constitution": "14",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "4",
+    "name": "Deep Roth\\xc3\\xa9",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 208,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Charge": "If the rothxc3xa9 moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights"
+            ]
+        }
+    },
+    "actions": {
+        "Gore": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
+}

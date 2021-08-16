@@ -1,0 +1,51 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "13",
+    "dexterity": "17",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "8",
+    "charisma": "15",
+    "acrobatics": "+7",
+    "performance": "+4",
+    "name": "Rakdos Performer, Fire Eater",
+    "AC": 13,
+    "speed": [
+        "40 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "acrobatics": "expert",
+        "performance": "proficient"
+    },
+    "senses": [
+        "passive Perception 9"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 249,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "Nimble": "The performer can take the Disengage action as a bonus action on each of its turns."
+    },
+    "actions": {
+        "Multiattack": "The fire eater makes two attacks with its bladed chain.",
+        "Bladed Chain": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
+        "Spew Flame (Recharge 4xe2x80x936)": "The fire eater exhales flames. Each creature in a 15-foot cone must make a DC 13+1d4 + 11 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Medium",
+    "type": "humanoid"
+}

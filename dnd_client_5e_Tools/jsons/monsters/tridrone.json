@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "13",
+    "constitution": "12",
+    "intelligence": "9",
+    "wisdom": "10",
+    "charisma": "9",
+    "name": "Tridrone",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Modron"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 225,
+    "book": "Monster Manual",
+    "traits": {
+        "Axiomatic Mind": "The tridrone can't be compelled to act in a manner contrary to its nature or its instructions.",
+        "Disintegration": "If the tridrone dies, its body disintegrates into dust, leaving behind its weapons and anything else it was carrying."
+    },
+    "actions": {
+        "Multiattack": "The tridrone makes three fist attacks or three javelin attacks.",
+        "Fist": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.",
+        "Javelin": "Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 4 (1d6 + 1) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "construct"
+}

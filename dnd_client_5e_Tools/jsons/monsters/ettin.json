@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "8",
+    "constitution": "17",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "8",
+    "perception": "+4",
+    "name": "Ettin",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Giant",
+        "Orc"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 132,
+    "book": "Monster Manual",
+    "traits": {
+        "Two Heads": "The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.",
+        "Wakeful": "When one of the ettin's heads is asleep, its other head is awake."
+    },
+    "actions": {
+        "Multiattack": "The ettin makes two attacks: one with its battleaxe and one with its morningstar.",
+        "Battleaxe": "Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.",
+        "Morningstar": "Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant"
+}

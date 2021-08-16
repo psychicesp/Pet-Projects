@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "10",
+    "constitution": "15",
+    "intelligence": "8",
+    "wisdom": "10",
+    "charisma": "9",
+    "name": "Merrow",
+    "AC": 13,
+    "speed": [
+        "10 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Abyssal",
+        "Aquan"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 219,
+    "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The merrow can breathe air and water."
+    },
+    "actions": {
+        "Multiattack": "The merrow makes two attacks: one with its bite and one with its claws or harpoon.",
+        "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.",
+        "Claws": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.",
+        "Harpoon": "Melee or Ranged Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity"
+}

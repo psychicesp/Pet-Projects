@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "10",
+    "constitution": "15",
+    "intelligence": "6",
+    "wisdom": "12",
+    "charisma": "7",
+    "perception": "+3",
+    "name": "Young Hook Horror",
+    "AC": 11,
+    "speed": [
+        "15 ft",
+        "climb 15 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "blindsight 60 ft.",
+        "darkvision 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Hook Horror"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 34,
+    "book": "Out of the Abyss",
+    "traits": {
+        "Echolocation": "The hook horror can't use its blindsight while deafened.",
+        "Keen Hearing": "The hook horror has advantage on Wisdom (Perception) checks that rely on hearing."
+    },
+    "actions": {
+        "Multiattack": "The hook horror makes two hook attacks.",
+        "Hook": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "N",
+    "size": "Small",
+    "type": "monstrosity"
+}

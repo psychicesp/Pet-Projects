@@ -33,13 +33,17 @@
         "Immutable Form": "The statue is immune to any spell or effect that would alter its form.",
         "Legendary Resistance (3/Day)": "If the statue fails a saving throw, it can choose to succeed instead."
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "The statue makes three attacks: one with its bite and two with its claws.",
+        "Bite": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, that creature becomes cursed by the statue. The curse lasts for 10 minutes. While the creature is cursed, the statue has advantage on all attacks against it.",
+        "Claws": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Bite": "The statue makes one bite attack.",
-            "Blood Reaper": "All creatures currently cursed by the statue and within 20 feet of it take 5 necrotic damage.",
-            "Move": "The statue moves up to its speed without provoking opportunity attacks."
+            "Bite": " The statue makes one bite attack.",
+            "Blood Reaper": " All creatures currently cursed by the statue and within 20 feet of it take 5 necrotic damage.",
+            "Move": " The statue moves up to its speed without provoking opportunity attacks."
         }
     },
     "alignment": "U",

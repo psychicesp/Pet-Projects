@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "hit points": "1d6",
+    "strength": "2 (-4)",
+    "dexterity": "16 (+3)",
+    "constitution": "10 (+0)",
+    "intelligence": "2 (-4)",
+    "wisdom": "14 (+2)",
+    "charisma": "10 (+0)",
+    "perception": "+4",
+    "stealth": "+5",
+    "name": "Almiraj",
+    "AC": 13,
+    "speed": [
+        "50 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "\u2014"
+    ],
+    "CR": "variable",
+    "page": 211,
+    "book": "Tomb of Annihilation",
+    "traits": {
+        "Familiar": "With the DM's permission, the find familiar spell can summon an almiraj.",
+        "Keen Senses": "The almiraj has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+    },
+    "actions": {
+        "Horn": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Small",
+    "type": "beast"
+}

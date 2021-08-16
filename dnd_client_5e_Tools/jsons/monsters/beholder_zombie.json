@@ -1,0 +1,49 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "8",
+    "constitution": "16",
+    "intelligence": "3",
+    "wisdom": "8",
+    "charisma": "5",
+    "name": "Beholder Zombie",
+    "AC": 15,
+    "speed": [
+        "0 ft",
+        "fly 20 ft. (hover)"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned, prone"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "understands Deep Speech and Undercommon but can\\'t speak"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 316,
+    "book": "Monster Manual",
+    "traits": {
+        "Undead Fortitude": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +3+1d6 + 0 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.",
+        "Eye Ray": "The zombie uses a random magical eye ray, choosing a target that it can see within 60 feet of it."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Large",
+    "type": "undead"
+}

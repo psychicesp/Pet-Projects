@@ -1,0 +1,61 @@
+{
+    "tags": [
+        "half-orc"
+    ],
+    "hit points": "9d8 + 18",
+    "strength": "16 (+3)",
+    "dexterity": "13 (+1)",
+    "constitution": "14 (+2)",
+    "intelligence": "9 (-1)",
+    "wisdom": "15 (+2)",
+    "charisma": "12 (+1)",
+    "nature": "+1",
+    "stealth": "+3",
+    "survival": "+4",
+    "name": "Anchorite of Talos",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "nature": "proficient",
+        "stealth": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Orc"
+    ],
+    "CR": "variable",
+    "page": 51,
+    "book": "Dragon of Icespire Peak",
+    "traits": {
+        "Shapechanger": "The anchorite can use its action to polymorph into a boar or back into its true form, which is humanoid. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "thunderwave",
+                "augury",
+                "bless",
+                "lightning bolt",
+                "revivify"
+            ]
+        }
+    },
+    "actions": {
+        "Clawed Gauntlet (Humanoid Form Only)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.",
+        "Tusk (Boar Form Only)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "S",
+    "size": "Medium",
+    "type": "humanoid"
+}

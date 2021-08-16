@@ -1,0 +1,79 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "12",
+    "wisdom": "12",
+    "charisma": "18",
+    "arcana": "+4",
+    "deception": "+7",
+    "persuasion": "+7",
+    "religion": "+4",
+    "name": "Warlock of the Fiend",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "persuasion": "proficient",
+        "religion": "proficient"
+    },
+    "resistances": [
+        "slashing from nonmagical attacks not made with silvered weapons"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "any two languages (usually Abyssal or Infernal)"
+    ],
+    "CR": "7 (2,900 XP)",
+    "page": 219,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "Dark One's Own Luck (Recharges after a Short or Long Rest)": "When the warlock makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur.",
+        "spellcasting": {
+            "level": 17,
+            "type": "warlock",
+            "spells": [
+                "eldritch blast",
+                "fire bolt",
+                "friends",
+                "mage hand",
+                "minor illusion",
+                "prestidigitation",
+                "shocking grasp",
+                "banishment",
+                "burning hands",
+                "flame strike",
+                "hellish rebuke",
+                "magic circle",
+                "scorching ray",
+                "scrying",
+                "stinking cloud",
+                "suggestion",
+                "wall of fire"
+            ]
+        }
+    },
+    "actions": {
+        "Mace": "Melee Weapon Attack: +3+1d6 + 0 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage plus 10 (3d6) fire damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

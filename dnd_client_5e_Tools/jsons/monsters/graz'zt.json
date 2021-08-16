@@ -73,14 +73,18 @@
         "Magic Resistance": "Graz'zt has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "Graz'zt's weapon attacks are magical."
     },
-    "actions": {},
+    "actions": {
+        "Multiattack": "Graz'zt attacks twice with Wave of Sorrow.",
+        "Wave of Sorrow (Greatsword)": "Melee Weapon Attack: +13+1d14 + 6 to hit, reach 10 ft., one target. Hit: 20 (4d6 + 6) slashing damage plus 10 (3d6) acid damage.",
+        "Teleport": "Graz'zt magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see."
+    },
     "legendary_actions": {
         "number": 3,
         "options": {
-            "Attack": "Graz'zt attacks once with Wave of Sorrow.",
-            "Dance, My Puppet": "One creature charmed by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.",
-            "Sow Discord": "Graz'zt casts crown of madness or dissonant whispers.",
-            "Teleport": "Graz'zt uses his Teleport action."
+            "Attack": " Graz'zt attacks once with Wave of Sorrow.",
+            "Dance, My Puppet": " One creature charmed by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.",
+            "Sow Discord": " Graz'zt casts crown of madness or dissonant whispers.",
+            "Teleport": " Graz'zt uses his Teleport action."
         }
     },
     "in_lair": {

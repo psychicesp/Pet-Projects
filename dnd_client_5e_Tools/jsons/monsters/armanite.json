@@ -1,0 +1,57 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "hit points": "8d10 + 40",
+    "strength": "21 (+5)",
+    "dexterity": "18 (+4)",
+    "constitution": "21 (+5)",
+    "intelligence": "8 (-1)",
+    "wisdom": "12 (+1)",
+    "charisma": "13 (+1)",
+    "name": "Armanite",
+    "AC": 16,
+    "speed": [
+        "60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "telepathy 120 ft."
+    ],
+    "CR": "variable",
+    "page": 131,
+    "book": "Mordenkainen\u2019s Tome of Foes",
+    "traits": {
+        "Magic Resistance": "The armanite has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The armanite's weapon attacks are magical."
+    },
+    "actions": {
+        "Multiattack": "The armanite makes three attacks: one with its hooves, one with its claws, and one with its serrated tail.",
+        "Hooves": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage.",
+        "Claws": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) slashing damage.",
+        "Serrated Tail": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) slashing damage.",
+        "Lightning Lance (Recharge 5\u20136)": "The armanite looses a bolt of lightning in a line 60 feet long and 10 feet wide. Each creature in the line must make a DC 15+1d6 + 12 Dexterity saving throw, taking 27 (6d8) lightning damage on a failed save, or half as much damage on a successful one."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
+}

@@ -1,0 +1,61 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "13",
+    "constitution": "15",
+    "intelligence": "14",
+    "wisdom": "15",
+    "charisma": "16",
+    "deception": "+7",
+    "insight": "+4",
+    "stealth": "+3",
+    "name": "Lamia",
+    "AC": 13,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "expert",
+        "insight": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 201,
+    "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "disguise self",
+                "major image",
+                "charm person",
+                "mirror image",
+                "scrying",
+                "suggestion",
+                "geas"
+            ]
+        }
+    },
+    "actions": {
+        "Multiattack": "The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.",
+        "Claws": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) slashing damage.",
+        "Dagger": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.",
+        "Intoxicating Touch": "Melee Spell Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "monstrosity"
+}

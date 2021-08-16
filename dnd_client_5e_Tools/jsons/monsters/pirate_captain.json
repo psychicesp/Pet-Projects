@@ -1,0 +1,48 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "14",
+    "athletics": "+5",
+    "intimidation": "+4",
+    "name": "Pirate Captain",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 247,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Flourish": "The captain adds its Charisma modifier to the damage roll for its longsword attacks (included in the attack).",
+        "Sea Legs": "The captain has advantage on ability checks and saving throws to resist being knocked prone."
+    },
+    "actions": {
+        "Multiattack": "The captain makes two attacks: one with its hand crossbow and one with its longsword.",
+        "Hand Crossbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+        "Longsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

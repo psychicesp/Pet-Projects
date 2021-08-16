@@ -1,0 +1,49 @@
+{
+    "tags": [
+        "bullywug"
+    ],
+    "strength": "12",
+    "dexterity": "12",
+    "constitution": "13",
+    "intelligence": "7",
+    "wisdom": "10",
+    "charisma": "7",
+    "stealth": "+3",
+    "name": "Bullywug",
+    "AC": 15,
+    "speed": [
+        "20 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Bullywug"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 35,
+    "book": "Monster Manual",
+    "traits": {
+        "Amphibious": "The bullywug can breathe air and water.",
+        "Speak with Frogs and Toads": "The bullywug can communicate simple concepts to frogs and toads when it speaks in Bullywug.",
+        "Standing Leap": "The bullywug's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.",
+        "Swamp Camouflage": "The bullywug has advantage on Dexterity (Stealth) checks made to hide in swampy terrain."
+    },
+    "actions": {
+        "Multiattack": "The bullywug makes two melee attacks: one with its bite and one with its spear.",
+        "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.",
+        "Spear": "Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

@@ -1,0 +1,103 @@
+{
+    "tags": [
+        "yugoloth"
+    ],
+    "hit points": "16d8 + 32",
+    "strength": "17 (+3)",
+    "dexterity": "12 (+1)",
+    "constitution": "14 (+2)",
+    "intelligence": "20 (+5)",
+    "wisdom": "16 (+3)",
+    "charisma": "17 (+3)",
+    "dexterity save": "+5",
+    "intelligence save": "+9",
+    "wisdom save": "+7",
+    "charisma save": "+7",
+    "arcana": "+13",
+    "deception": "+11",
+    "insight": "+11",
+    "perception": "+7",
+    "40% summoning chance": "40 percent",
+    "name": "Arcanaloth",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "arcana": "expert",
+        "deception": "expert",
+        "insight": "expert",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "acid, poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "charmed, poisoned"
+    ],
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 17"
+    ],
+    "languages": [
+        "all",
+        "telepathy 120 ft."
+    ],
+    "CR": "variable",
+    "page": 313,
+    "book": "Monster Manual",
+    "traits": {
+        "spellcasting": {
+            "level": 16,
+            "type": "wizard",
+            "spells": [
+                "fire bolt",
+                "mage hand",
+                "minor illusion",
+                "prestidigitation",
+                "detect magic",
+                "identify",
+                "shield",
+                "Tenser's floating disk",
+                "detect thoughts",
+                "mirror image",
+                "phantasmal force",
+                "suggestion",
+                "counterspell",
+                "fear",
+                "fireball",
+                "banishment",
+                "dimension door",
+                "contact other plane",
+                "hold monster",
+                "chain lightning",
+                "finger of death",
+                "mind blank"
+            ]
+        },
+        "Magic Resistance": "The arcanaloth has advantage on saving throws against spells and other magical effects.",
+        "Magic Weapons": "The arcanaloth's weapon attacks are magical."
+    },
+    "actions": {
+        "Claws": "Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage. The target must make a DC 14+1d8 + 10 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.",
+        "Teleport": "The arcanaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
+}

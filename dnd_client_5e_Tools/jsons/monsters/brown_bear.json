@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "10",
+    "constitution": "16",
+    "intelligence": "2",
+    "wisdom": "13",
+    "charisma": "7",
+    "perception": "+3",
+    "name": "Brown Bear",
+    "AC": 11,
+    "speed": [
+        "40 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 319,
+    "book": "Monster Manual",
+    "traits": {
+        "Keen Smell": "The bear has advantage on Wisdom (Perception) checks that rely on smell."
+    },
+    "actions": {
+        "Multiattack": "The bear makes two attacks: one with its bite and one with its claws.",
+        "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.",
+        "Claws": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
+}

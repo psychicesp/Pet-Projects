@@ -1,0 +1,66 @@
+{
+    "tags": [
+        "lizardfolk"
+    ],
+    "strength": "15",
+    "dexterity": "10",
+    "constitution": "13",
+    "intelligence": "10",
+    "wisdom": "15",
+    "charisma": "8",
+    "perception": "+4",
+    "stealth": "+4",
+    "survival": "+6",
+    "name": "Lizardfolk Shaman",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert",
+        "survival": "expert"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Draconic"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 205,
+    "book": "Monster Manual",
+    "traits": {
+        "Hold Breath": "The lizardfolk can hold its breath for 15 minutes.",
+        "spellcasting": {
+            "level": 5,
+            "type": "druid",
+            "spells": [
+                "druidcraft",
+                "produce flame",
+                "thorn whip",
+                "entangle",
+                "fog cloud",
+                "heat metal",
+                "spike growth",
+                "conjure animals",
+                "plant growth"
+            ]
+        }
+    },
+    "actions": {
+        "Multiattack (Lizardfolk Form Only)": "The lizardfolk makes two attacks: one with its bite and one with its claws.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 7 (1d10 + 2) piercing damage in crocodile form. If the lizardfolk is in crocodile form and the target is a Large or smaller creature, the target is grappled (escape DC 12+1d4 + 10). Until this grapple ends, the target is restrained, and the lizardfolk can't bite another target. If the lizardfolk reverts to its true form, the grapple ends.",
+        "Claws (Lizardfolk Form Only)": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.",
+        "Change Shape (Recharges after a Short or Long Rest)": "The lizardfolk magically polymorphs into a crocodile, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+    },
+    "legendary_actions": {
+        "number": 0,
+        "options": {}
+    },
+    "alignment": "N",
+    "size": "Medium",
+    "type": "humanoid"
+}
