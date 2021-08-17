@@ -38,14 +38,19 @@
     "traits": {
         "Shapechanger": "The anchorite can use its action to polymorph into a boar or back into its true form, which is humanoid. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "thunderwave",
-                "augury",
-                "bless",
-                "lightning bolt",
-                "revivify"
-            ]
+            "spells": {
+                "3/day": [
+                    "thunderwave"
+                ],
+                "1/day": [
+                    "augury",
+                    "bless",
+                    "lightning bolt",
+                    "revivify"
+                ]
+            }
         }
     },
     "actions": {

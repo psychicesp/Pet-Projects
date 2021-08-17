@@ -39,16 +39,23 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom. it can innately cast the following spells, requiring no components:at will: mage hand (the hand is invisible)3/day each: feather fall, jump, see invisibility, shield1/day each: phantasmal killer, plane shift",
             "type": "innate",
-            "spells": [
-                "mage hand",
-                "feather fall",
-                "jump",
-                "see invisibility",
-                "shield",
-                "phantasmal killer",
-                "plane shift"
-            ]
+            "spells": {
+                "At": [
+                    "mage hand"
+                ],
+                "3/day": [
+                    "feather fall",
+                    "jump",
+                    "see invisibility",
+                    "shield"
+                ],
+                "1/day": [
+                    "phantasmal killer",
+                    "plane shift"
+                ]
+            }
         },
         "Psychic Defense": "While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
     },

@@ -35,6 +35,7 @@
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "level": 9,
             "type": "cleric",
             "spells": [

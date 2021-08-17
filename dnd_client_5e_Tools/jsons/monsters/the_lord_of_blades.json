@@ -53,6 +53,7 @@
         "Bladed Armor": "A creature that grapples the Lord of Blades or is grappled by him takes 13 (3d8) slashing damage. A creature takes 13 (3d8) slashing damage if it starts its turn grappling or being grappled by the Lord of Blades.",
         "Charge": "If the Lord of Blades moves at least 10 feet straight toward a target and then hits it with his adamantine sixblade on the same turn, the target takes an extra 11 (2d10) slashing damage. If the target is a creature, it must succeed on a DC 19+1d12 + 13 Strength saving throw or be pushed up to 10 feet away and knocked prone.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 20,
             "type": "artificer",
             "spells": [

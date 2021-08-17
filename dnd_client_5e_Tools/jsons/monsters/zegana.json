@@ -47,6 +47,7 @@
         "Legendary Resistance (3/Day)": "If Zegana fails a saving throw, she can choose to succeed instead.",
         "Magic Resistance": "Zegana has advantage on saving throws against spells and other magical effects.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 15,
             "type": "wizard",
             "spells": [

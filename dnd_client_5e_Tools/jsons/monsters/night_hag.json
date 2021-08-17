@@ -45,14 +45,19 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect magic",
-                "magic missile",
-                "plane shift",
-                "ray of enfeeblement",
-                "sleep"
-            ]
+            "spells": {
+                "At": [
+                    "detect magic",
+                    "magic missile"
+                ],
+                "2/day": [
+                    "plane shift",
+                    "ray of enfeeblement",
+                    "sleep"
+                ]
+            }
         },
         "Magic Resistance": "The hag has advantage on saving throws against spells and other magical effects.",
         "Night Hag Items": "A night hag carries two very rare magic items that she must craft for herself. If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort."

@@ -34,15 +34,22 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "druidcraft",
-                "entangle",
-                "goodberry",
-                "barkskin",
-                "pass without trace",
-                "shillelagh"
-            ]
+            "spells": {
+                "At": [
+                    "druidcraft"
+                ],
+                "3/day": [
+                    "entangle",
+                    "goodberry"
+                ],
+                "1/day": [
+                    "barkskin",
+                    "pass without trace",
+                    "shillelagh"
+                ]
+            }
         },
         "Magic Resistance": "The dryad has advantage on saving throws against spells and other magical effects.",
         "Speak with Beasts and Plants": "The dryad can communicate with beasts and plants as if they shared a language.",

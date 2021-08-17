@@ -31,16 +31,23 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "mage hand",
-                "jump",
-                "misty step",
-                "nondetection",
-                "tongues",
-                "plane shift",
-                "telekinesis"
-            ]
+            "spells": {
+                "At": [
+                    "mage hand"
+                ],
+                "3/day": [
+                    "jump",
+                    "misty step",
+                    "nondetection",
+                    "tongues"
+                ],
+                "1/day": [
+                    "plane shift",
+                    "telekinesis"
+                ]
+            }
         }
     },
     "actions": {

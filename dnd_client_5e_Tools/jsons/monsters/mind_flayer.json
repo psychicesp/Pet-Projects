@@ -45,13 +45,18 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "detect thoughts",
-                "levitate",
-                "dominate monster",
-                "plane shift"
-            ]
+            "spells": {
+                "At": [
+                    "detect thoughts",
+                    "levitate"
+                ],
+                "1/day": [
+                    "dominate monster",
+                    "plane shift"
+                ]
+            }
         },
         "Magic Resistance": "The mind flayer has advantage on saving throws against spells and other magical effects."
     },

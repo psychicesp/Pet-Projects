@@ -47,11 +47,14 @@
     "traits": {
         "Faultless Tracker": "The retriever is given a quarry by its master. The quarry can be a specific creature or object the master is personally acquainted with, or it can be a general type of creature or object the master has seen before. The retriever knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The retriever can have only one such quarry at a time. The retriever also always knows the location of its master.",
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "plane shift",
-                "web"
-            ]
+            "spells": {
+                "3/day": [
+                    "plane shift",
+                    "web"
+                ]
+            }
         }
     },
     "actions": {

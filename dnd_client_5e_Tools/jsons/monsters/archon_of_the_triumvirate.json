@@ -46,12 +46,15 @@
     "traits": {
         "Eye of the Law": "As a bonus action, the archon can target a creature it can see within 120 feet of it and determine which laws that creature has broken in the last 24 hours.",
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "calm emotions",
-                "command",
-                "compelled duel"
-            ]
+            "spells": {
+                "At": [
+                    "calm emotions",
+                    "command",
+                    "compelled duel"
+                ]
+            }
         },
         "Mount": "If the archon isn't mounted, it can use a bonus action to magically teleport onto the creature serving as its mount, provided the archon and its mount are on the same plane of existence. When it teleports, the archon appears astride the mount along with any equipment it is wearing or carrying. While mounted and not incapacitated, the archon can't be surprised, and both it and its mount gain advantage on Dexterity saving throws. If the archon is reduced to 0 hit points while riding its mount, the mount is reduced to 0 hit points as well."
     },

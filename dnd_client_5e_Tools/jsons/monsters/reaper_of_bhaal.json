@@ -38,12 +38,15 @@
     "traits": {
         "Aura of Murder": "As long as the reaper is not incapacitated, hostile creatures within 5 feet of it gain vulnerability to piercing damage unless they have resistance or immunity to such damage.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "charm person",
-                "disguise self",
-                "sanctuary"
-            ]
+            "spells": {
+                "1/day": [
+                    "charm person",
+                    "disguise self",
+                    "sanctuary"
+                ]
+            }
         }
     },
     "actions": {

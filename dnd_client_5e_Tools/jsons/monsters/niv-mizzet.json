@@ -54,6 +54,7 @@
         "Magic Resistance": "Niv-Mizzet has advantage on saving throws against spells and other magical effects.",
         "Master Chemister": "When Niv-Mizzet casts a spell that deals damage, he can change the spell's damage to cold, fire, force, lightning, or thunder.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 20,
             "type": "wizard",
             "spells": [

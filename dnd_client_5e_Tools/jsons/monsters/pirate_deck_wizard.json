@@ -33,6 +33,7 @@
     "traits": {
         "Sea Legs": "The deck wizard has advantage on ability checks and saving throws to resist being knocked prone.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 4,
             "type": "wizard",
             "spells": [

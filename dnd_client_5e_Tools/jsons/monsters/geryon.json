@@ -51,19 +51,24 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "alter self",
-                "detect magic",
-                "geas",
-                "ice storm",
-                "invisibility",
-                "locate object",
-                "suggestion",
-                "wall of ice",
-                "divine word",
-                "symbol"
-            ]
+            "spells": {
+                "At": [
+                    "alter self",
+                    "detect magic",
+                    "geas",
+                    "ice storm",
+                    "invisibility",
+                    "locate object",
+                    "suggestion",
+                    "wall of ice"
+                ],
+                "1/day": [
+                    "divine word",
+                    "symbol"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Geryon fails a saving throw, he can choose to succeed instead.",
         "Magic Resistance": "Geryon has advantage on saving throws against spells and other magical effects.",

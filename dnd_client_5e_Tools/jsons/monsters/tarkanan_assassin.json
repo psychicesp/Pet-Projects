@@ -39,11 +39,16 @@
     "book": "Eberron: Rising from the Last War",
     "traits": {
         "spellcasting": {
+            "ability": "constitution (+4+1d4 + 2 to hit with spell attacks). it can innately cast the following spells, requiring no material components:at will: fire bolt1/day: chromatic orb",
             "type": "innate",
-            "spells": [
-                "fire bolt",
-                "chromatic orb"
-            ]
+            "spells": {
+                "At": [
+                    "fire bolt"
+                ],
+                "1/day": [
+                    "chromatic orb"
+                ]
+            }
         },
         "Unstable Mark": "When the assassin casts an innate spell, each creature within 10 feet of the assassin must make a DC 12+1d4 + 10 Constitution saving throw, taking 4 (1d8) force damage on a failed save, or half as much damage on a successful one."
     },

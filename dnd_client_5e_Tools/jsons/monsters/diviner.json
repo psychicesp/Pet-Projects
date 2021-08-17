@@ -38,6 +38,7 @@
     "traits": {
         "Portent (Recharges after the Diviner Casts a Divination Spell of 1st Level or Higher)": "When the diviner or a creature it can see makes an attack roll, a saving throw, or an ability check, the diviner can roll a d20 and choose to use this roll in place of the attack roll, saving throw, or ability check.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 15,
             "type": "wizard",
             "spells": [

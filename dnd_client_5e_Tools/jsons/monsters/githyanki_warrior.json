@@ -31,13 +31,18 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence. it can innately cast the following spells, requiring no components:at will: mage hand (the hand is invisible)3/day each: jump, misty step, nondetection (self only)",
             "type": "innate",
-            "spells": [
-                "mage hand",
-                "jump",
-                "misty step",
-                "nondetection"
-            ]
+            "spells": {
+                "At": [
+                    "mage hand"
+                ],
+                "3/day": [
+                    "jump",
+                    "misty step",
+                    "nondetection"
+                ]
+            }
         }
     },
     "actions": {

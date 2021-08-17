@@ -38,6 +38,7 @@
     "traits": {
         "Aggressive": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
         "spellcasting": {
+            "ability": "wisdom",
             "level": 4,
             "type": "cleric",
             "spells": [

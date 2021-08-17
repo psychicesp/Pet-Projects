@@ -47,20 +47,27 @@
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "dispel magic",
-                "druidcraft",
-                "bless",
-                "conjure animals",
-                "giant insect",
-                "moonbeam",
-                "plant growth",
-                "spike growth",
-                "suggestion",
-                "conjure fey",
-                "mass cure wounds"
-            ]
+            "spells": {
+                "At": [
+                    "dispel magic",
+                    "druidcraft"
+                ],
+                "3/day": [
+                    "bless",
+                    "conjure animals",
+                    "giant insect",
+                    "moonbeam",
+                    "plant growth",
+                    "spike growth",
+                    "suggestion"
+                ],
+                "1/day": [
+                    "conjure fey",
+                    "mass cure wounds"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Trostani fails a saving throw, she can choose to succeed instead.",
         "Magic Resistance": "Trostani has advantage on saving throws against spells and other magical effects.",

@@ -32,6 +32,7 @@
     "book": "Eberron: Rising from the Last War",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "ritualist",
             "spells": [
                 "mage hand",

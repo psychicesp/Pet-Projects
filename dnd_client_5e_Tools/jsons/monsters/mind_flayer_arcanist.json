@@ -45,27 +45,40 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence (save dc 15+1d6 + 12, +7+1d6 + 4 to hit with spell attacks). the mind flayer has the following wizard spells prepared:cantrips (at will): blade ward, dancing lights, mage hand, shocking grasp1st level (4 slots): detect magic, disguise self, shield, sleep2nd level (3 slots): blur, invisibility, ray of enfeeblement3rd level (3 slots): clairvoyance, lightning bolt, sending4th level (3 slots): confusion, hallucinatory terrain5th level (2 slots): telekinesis, wall of force",
             "type": "innate",
-            "spells": [
-                "blade ward",
-                "dancing lights",
-                "mage hand",
-                "shocking grasp",
-                "detect magic",
-                "disguise self",
-                "shield",
-                "sleep",
-                "blur",
-                "invisibility",
-                "ray of enfeeblement",
-                "clairvoyance",
-                "lightning bolt",
-                "sending",
-                "confusion",
-                "hallucinatory terrain",
-                "telekinesis",
-                "wall of force"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "blade ward",
+                    "dancing lights",
+                    "mage hand",
+                    "shocking grasp"
+                ],
+                "1st": [
+                    "detect magic",
+                    "disguise self",
+                    "shield",
+                    "sleep"
+                ],
+                "2nd": [
+                    "blur",
+                    "invisibility",
+                    "ray of enfeeblement"
+                ],
+                "3rd": [
+                    "clairvoyance",
+                    "lightning bolt",
+                    "sending"
+                ],
+                "4th": [
+                    "confusion",
+                    "hallucinatory terrain"
+                ],
+                "5th": [
+                    "telekinesis",
+                    "wall of force"
+                ]
+            }
         },
         "Magic Resistance": "The mind flayer has advantage on saving throws against spells and other magical effects."
     },

@@ -40,13 +40,18 @@
         "Battle Command": "As a bonus action, the drow targets one ally he can see within 30 feet of him. If the target can see or hear the drow, the target can use its reaction to make one melee attack or to take the Dodge or Hide action.",
         "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "dancing lights",
-                "darkness",
-                "faerie fire",
-                "levitate"
-            ]
+            "spells": {
+                "At": [
+                    "dancing lights"
+                ],
+                "1/day": [
+                    "darkness",
+                    "faerie fire",
+                    "levitate"
+                ]
+            }
         },
         "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },

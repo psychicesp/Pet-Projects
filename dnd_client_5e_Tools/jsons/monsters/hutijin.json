@@ -50,20 +50,27 @@
     "traits": {
         "Infernal Despair": "Each creature within 15 feet of Hutijin that isn't a devil makes saving throws with disadvantage.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "alter self",
-                "animate dead",
-                "detect magic",
-                "hold monster",
-                "invisibility",
-                "lightning bolt",
-                "suggestion",
-                "wall of fire",
-                "dispel magic",
-                "heal",
-                "symbol"
-            ]
+            "spells": {
+                "At": [
+                    "alter self",
+                    "animate dead",
+                    "detect magic",
+                    "hold monster",
+                    "invisibility",
+                    "lightning bolt",
+                    "suggestion",
+                    "wall of fire"
+                ],
+                "3/day": [
+                    "dispel magic"
+                ],
+                "1/day": [
+                    "heal",
+                    "symbol"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Hutijin fails a saving throw, he can choose to succeed instead.",
         "Magic Resistance": "Hutijin has advantage on saving throws against spells and other magical effects.",

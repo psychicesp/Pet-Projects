@@ -36,13 +36,18 @@
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "detect thoughts",
-                "mage armor",
-                "clairvoyance",
-                "locate object"
-            ]
+            "spells": {
+                "3/day": [
+                    "detect thoughts",
+                    "mage armor"
+                ],
+                "1/day": [
+                    "clairvoyance",
+                    "locate object"
+                ]
+            }
         }
     },
     "actions": {

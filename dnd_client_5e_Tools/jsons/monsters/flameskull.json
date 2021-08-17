@@ -44,6 +44,7 @@
         "Magic Resistance": "The flameskull has advantage on saving throws against spells and other magical effects.",
         "Rejuvenation": "If the flameskull is destroyed, it regains all its hit points in 1 hour unless holy water is sprinkled on its remains or a dispel magic or remove curse spell is cast on them.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 5,
             "type": "wizard",
             "spells": [

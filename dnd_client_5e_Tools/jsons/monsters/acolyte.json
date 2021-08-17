@@ -33,6 +33,7 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "level": 1,
             "type": "The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12+1d4 + 10, +4+1d4 + 2 to hit with spell attacks). The acolyte has following cleric",
             "spells": [

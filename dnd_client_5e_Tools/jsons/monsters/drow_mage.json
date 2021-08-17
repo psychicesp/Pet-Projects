@@ -41,25 +41,38 @@
     "traits": {
         "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "mage hand",
-                "minor illusion",
-                "poison spray",
-                "ray of frost",
-                "mage armor",
-                "magic missile",
-                "shield",
-                "witch bolt",
-                "alter self",
-                "misty step",
-                "web",
-                "fly",
-                "lightning bolt",
-                "Evard's black tentacles",
-                "greater invisibility",
-                "cloudkill"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "mage hand",
+                    "minor illusion",
+                    "poison spray",
+                    "ray of frost"
+                ],
+                "1st": [
+                    "mage armor",
+                    "magic missile",
+                    "shield",
+                    "witch bolt"
+                ],
+                "2nd": [
+                    "alter self",
+                    "misty step",
+                    "web"
+                ],
+                "3rd": [
+                    "fly",
+                    "lightning bolt"
+                ],
+                "4th": [
+                    "Evard\\'s black tentacles",
+                    "greater invisibility"
+                ],
+                "5th": [
+                    "cloudkill"
+                ]
+            }
         },
         "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },

@@ -48,19 +48,24 @@
     "traits": {
         "Amphibious": "The hydroloth can breathe air and water.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "darkness",
-                "detect magic",
-                "dispel magic",
-                "invisibility",
-                "water walk",
-                "control water",
-                "crown of madness",
-                "fear",
-                "phantasmal killer",
-                "suggestion"
-            ]
+            "spells": {
+                "At": [
+                    "darkness",
+                    "detect magic",
+                    "dispel magic",
+                    "invisibility",
+                    "water walk"
+                ],
+                "3/day": [
+                    "control water",
+                    "crown of madness",
+                    "fear",
+                    "phantasmal killer",
+                    "suggestion"
+                ]
+            }
         },
         "Magic Resistance": "The hydroloth has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The hydroloth's weapon attacks are magical.",

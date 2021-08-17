@@ -39,15 +39,20 @@
     "traits": {
         "Fey Ancestry": "The drow acolyte has advantage on saving throws against being charmed, and magic can't put the drow acolyte to sleep.",
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "light",
-                "sacred flame",
-                "thaumaturgy",
-                "bless",
-                "cure wounds",
-                "sanctuary"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "light",
+                    "sacred flame",
+                    "thaumaturgy"
+                ],
+                "1st": [
+                    "bless",
+                    "cure wounds",
+                    "sanctuary"
+                ]
+            }
         },
         "Sunlight Sensitivity": "While in sunlight, the drow acolyte has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },

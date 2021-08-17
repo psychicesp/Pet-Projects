@@ -55,15 +55,20 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "darkness",
-                "detect magic",
-                "dispel magic",
-                "invisibility",
-                "suggestion",
-                "lightning bolt"
-            ]
+            "spells": {
+                "At": [
+                    "darkness",
+                    "detect magic",
+                    "dispel magic",
+                    "invisibility",
+                    "suggestion"
+                ],
+                "3/day": [
+                    "lightning bolt"
+                ]
+            }
         },
         "Magic Resistance": "The yagnoloth has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The yagnoloth's weapon attacks are magical."

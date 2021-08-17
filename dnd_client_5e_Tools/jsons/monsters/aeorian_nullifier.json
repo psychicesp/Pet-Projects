@@ -41,14 +41,19 @@
     "traits": {
         "Horrid Gnashing": "The nullifier's mouths gnash incoherently while it can see any enemies. Each creature that starts its turn within 20 feet of the nullifier and can hear it must make a DC 16+1d8 + 12 Wisdom saving throw. Unless the save succeeds, the creature rolls a d8 to determine what it does during the current turn:",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "counterspell",
-                "detect magic",
-                "dispel magic",
-                "see invisibility",
-                "antimagic field"
-            ]
+            "spells": {
+                "At": [
+                    "counterspell",
+                    "detect magic",
+                    "dispel magic",
+                    "see invisibility"
+                ],
+                "1/day": [
+                    "antimagic field"
+                ]
+            }
         },
         "Magic Resistance": "The nullifier has advantage on saving throws against spells and other magical effects."
     },

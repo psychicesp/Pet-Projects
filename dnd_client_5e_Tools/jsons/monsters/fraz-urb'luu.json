@@ -52,21 +52,28 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "alter self",
-                "detect magic",
-                "dispel magic",
-                "phantasmal force",
-                "confusion",
-                "dream",
-                "mislead",
-                "programmed illusion",
-                "seeming",
-                "mirage arcane",
-                "modify memory",
-                "project image"
-            ]
+            "spells": {
+                "At": [
+                    "alter self",
+                    "detect magic",
+                    "dispel magic",
+                    "phantasmal force"
+                ],
+                "3/day": [
+                    "confusion",
+                    "dream",
+                    "mislead",
+                    "programmed illusion",
+                    "seeming"
+                ],
+                "1/day": [
+                    "mirage arcane",
+                    "modify memory",
+                    "project image"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Fraz-Urb'luu fails a saving throw, he can choose to succeed instead.",
         "Magic Resistance": "Fraz-Urb'luu has advantage on saving throws against spells and other magical effects.",

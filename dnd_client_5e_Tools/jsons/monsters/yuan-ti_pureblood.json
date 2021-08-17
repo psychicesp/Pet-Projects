@@ -45,12 +45,17 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "animal friendship",
-                "poison spray",
-                "suggestion"
-            ]
+            "spells": {
+                "At": [
+                    "animal friendship"
+                ],
+                "3/day": [
+                    "poison spray",
+                    "suggestion"
+                ]
+            }
         },
         "Magic Resistance": "The yuan-ti has advantage on saving throws against spells and other magical effects."
     },

@@ -36,6 +36,7 @@
     "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "level": 3,
             "type": "wizard",
             "spells": [

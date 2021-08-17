@@ -50,13 +50,18 @@
     "traits": {
         "Fiendish Blessing": "The AC of Isolde includes her Charisma bonus.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "alter self",
-                "command",
-                "detect magic",
-                "plane shift"
-            ]
+            "spells": {
+                "3/day": [
+                    "alter self",
+                    "command",
+                    "detect magic"
+                ],
+                "1/day": [
+                    "plane shift"
+                ]
+            }
         },
         "Magic Resistance Aura": "While holding Nepenthe, Isolde creates an aura in a 10-foot radius around her. While this aura is active, Isolde and all creatures friendly to her in the aura have advantage on saving throws against spells and other magical effects."
     },

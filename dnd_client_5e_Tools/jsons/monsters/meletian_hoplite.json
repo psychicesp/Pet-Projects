@@ -35,6 +35,7 @@
     "book": "Mythic Odysseys of Theros",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "level": 3,
             "type": "wizard",
             "spells": [

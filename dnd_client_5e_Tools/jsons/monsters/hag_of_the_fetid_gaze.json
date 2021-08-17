@@ -38,21 +38,34 @@
     "traits": {
         "Amphibious": "The hag can breathe air and water.",
         "spellcasting": {
+            "ability": " shared spellcasting. while all three members of the fetid gaze are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:1st level (4 slots): charm person, witch bolt2nd level (3 slots): alter self, suggestion3rd level (3 slots): dispel magic, glyph of warding, slow4th level (3 slots): blight, polymorph5th level (2 slots): dominate person, seeming6th level (1 slot): otto\\'s irresistible dance",
             "type": "innate",
-            "spells": [
-                "charm person",
-                "witch bolt",
-                "alter self",
-                "suggestion",
-                "dispel magic",
-                "glyph of warding",
-                "slow",
-                "blight",
-                "polymorph",
-                "dominate person",
-                "seeming",
-                "Otto's irresistible dance"
-            ]
+            "spells": {
+                "1st": [
+                    "charm person",
+                    "witch bolt"
+                ],
+                "2nd": [
+                    "alter self",
+                    "suggestion"
+                ],
+                "3rd": [
+                    "dispel magic",
+                    "glyph of warding",
+                    "slow"
+                ],
+                "4th": [
+                    "blight",
+                    "polymorph"
+                ],
+                "5th": [
+                    "dominate person",
+                    "seeming"
+                ],
+                "6th": [
+                    "Otto\\'s irresistible dance"
+                ]
+            }
         },
         "Mimicry": "The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14+1d6 + 11 Wisdom (Insight) check.",
         "For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability": "For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier."

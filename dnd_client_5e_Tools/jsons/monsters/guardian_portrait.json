@@ -38,13 +38,16 @@
         "Constructed Nature": "An animated object doesn't require air, food, drink, or sleep.",
         "False Appearance": "While the figure in the portrait remains motionless, the portrait is indistinguishable from a normal painting.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "counterspell",
-                "crown of madness",
-                "hypnotic pattern",
-                "telekinesis"
-            ]
+            "spells": {
+                "3/day": [
+                    "counterspell",
+                    "crown of madness",
+                    "hypnotic pattern",
+                    "telekinesis"
+                ]
+            }
         }
     },
     "actions": {},

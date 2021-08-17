@@ -52,15 +52,20 @@
     "traits": {
         "Deadly Critical": "Rak Tulkhesh scores a critical hit on a roll of 19 or 20 and rolls the damage dice three times, instead of twice.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect thoughts",
-                "dispel magic",
-                "spirit guardians",
-                "banishing smite",
-                "blinding smite",
-                "staggering smite"
-            ]
+            "spells": {
+                "At": [
+                    "detect thoughts",
+                    "dispel magic",
+                    "spirit guardians"
+                ],
+                "1/day": [
+                    "banishing smite",
+                    "blinding smite",
+                    "staggering smite"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Rak Tulkhesh fails a saving throw, he can choose to succeed instead.",
         "Magic Resistance": "Rak Tulkhesh has advantage on saving throws against spells and other magical effects.",

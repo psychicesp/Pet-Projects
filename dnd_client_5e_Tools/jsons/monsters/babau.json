@@ -43,14 +43,17 @@
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "darkness",
-                "dispel magic",
-                "fear",
-                "heat metal",
-                "levitate"
-            ]
+            "spells": {
+                "At": [
+                    "darkness",
+                    "dispel magic",
+                    "fear",
+                    "heat metal",
+                    "levitate"
+                ]
+            }
         }
     },
     "actions": {

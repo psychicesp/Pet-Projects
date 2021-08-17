@@ -35,6 +35,7 @@
     "traits": {
         "Nimble Escape": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns.",
         "spellcasting": {
+            "ability": " spellcasting.\nthe goblin can cast a randomly determined 1st-level wizard spell\n                        once per day. intelligence is its spellcasting ability",
             "level": 1,
             "type": "The goblin can cast a randomly determined 1st-level wizard spell\n                        once per day. Intelligence is its spellcasting ability (spell save DC 10+1d4 + 8, +2+1d4 + 0 to hit with spell attacks).\n                    ",
             "spells": []

@@ -39,11 +39,16 @@
     "traits": {
         "Blood Frenzy": "The wave shaper has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "message",
-                "comprehend languages"
-            ]
+            "spells": {
+                "At": [
+                    "message"
+                ],
+                "1/day": [
+                    "comprehend languages"
+                ]
+            }
         },
         "Limited Amphibiousness": "The wave shaper can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.",
         "Shark Telepathy": "The wave shaper can magically command any shark within 120 feet of it, using a limited telepathy."

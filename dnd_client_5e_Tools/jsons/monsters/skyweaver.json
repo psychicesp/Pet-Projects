@@ -33,6 +33,7 @@
     "book": "Princes of the Apocalypse",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "level": 6,
             "type": "sorcerer",
             "spells": [

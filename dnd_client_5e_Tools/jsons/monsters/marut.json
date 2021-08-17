@@ -51,10 +51,13 @@
     "traits": {
         "Immutable Form": "The marut is immune to any spell or effect that would alter its form.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "plane shift"
-            ]
+            "spells": {
+                "At": [
+                    "plane shift"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If the marut fails a saving throw, it can choose to succeed instead.",
         "Magic Resistance": "The marut has advantage on saving throws against spells and other magical effects."

@@ -55,6 +55,7 @@
         "Magic Resistance": "Illmarrow has advantage on saving throws against spells and other magical effects.",
         "Rejuvenation": "Illmarrow's body turns to dust when she drops to 0 hit points, and her equipment is left behind. She gains a new body after 1d10 days, regaining all her hit points and becoming active again. The new body appears within two hundred miles of the location at which she was destroyed.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 20,
             "type": "wizard",
             "spells": [

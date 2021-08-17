@@ -40,10 +40,9 @@
         "Blood Curse of Binding (1/Day)": "As a bonus action, the blood hunter targets one creature it can see within 30 feet of it. The target must succeed on a DC 14+1d6 + 11 Strength saving throw or have its speed reduced to 0 and be unable to take reactions. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
         "Blood Frenzy": "The blood hunter has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
         "spellcasting": {
+            "ability": "intelligence.",
             "type": "innate",
-            "spells": [
-                "hex"
-            ]
+            "spells": {}
         },
         "Magic Resistance": "The blood hunter has advantage on saving throws against spells and other magical effects."
     },

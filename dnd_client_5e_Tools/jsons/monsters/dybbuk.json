@@ -49,12 +49,17 @@
     "traits": {
         "Incorporeal Movement": "The dybbuk can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "dimension door",
-                "fear",
-                "phantasmal force"
-            ]
+            "spells": {
+                "At": [
+                    "dimension door"
+                ],
+                "3/day": [
+                    "fear",
+                    "phantasmal force"
+                ]
+            }
         },
         "Magic Resistance": "The dybbuk has advantage on saving throws against spells and other magical effects.",
         "Violate Corpse": "The dybbuk can use a bonus action while it is possessing a corpse to make it do something unnatural, such as vomit blood, twist its head all the way around, or cause a quadruped to move as a biped. Any beast or humanoid that sees this behavior must succeed on a DC 12+1d4 + 10 Wisdom saving throw or become frightened for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on a saving throw against this ability is immune to Violate Corpse for 24 hours."

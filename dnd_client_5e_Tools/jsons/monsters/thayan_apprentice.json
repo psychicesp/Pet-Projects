@@ -32,6 +32,7 @@
     "traits": {
         "Doomvault Devotion": "Within the Doomvault, the apprentice has advantage on saving throws against being charmed or frightened.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 4,
             "type": "wizard",
             "spells": [

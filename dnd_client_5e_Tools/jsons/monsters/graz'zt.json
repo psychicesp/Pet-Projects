@@ -53,22 +53,29 @@
     "traits": {
         "Shapechanger": "Graz'zt can use his action to polymorph into a form that resembles a Medium humanoid, or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "charm person",
-                "crown of madness",
-                "detect magic",
-                "dispel magic",
-                "dissonant whispers",
-                "counterspell",
-                "darkness",
-                "dominate person",
-                "sanctuary",
-                "telekinesis",
-                "teleport",
-                "dominate monster",
-                "greater invisibility"
-            ]
+            "spells": {
+                "At": [
+                    "charm person",
+                    "crown of madness",
+                    "detect magic",
+                    "dispel magic",
+                    "dissonant whispers"
+                ],
+                "3/day": [
+                    "counterspell",
+                    "darkness",
+                    "dominate person",
+                    "sanctuary",
+                    "telekinesis",
+                    "teleport"
+                ],
+                "1/day": [
+                    "dominate monster",
+                    "greater invisibility"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Graz'zt fails a saving throw, he can choose to succeed instead.",
         "Magic Resistance": "Graz'zt has advantage on saving throws against spells and other magical effects.",

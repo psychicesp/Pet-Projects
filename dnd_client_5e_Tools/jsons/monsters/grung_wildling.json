@@ -47,6 +47,7 @@
         "Amphibious": "The grung can breathe air and water.",
         "Poisonous Skin": "Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12+1d4 + 10 Constitution saving throw or become poisoned for 1 minute. A poisoned creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
         "spellcasting": {
+            "ability": "wisdom",
             "level": 9,
             "type": "ranger",
             "spells": [

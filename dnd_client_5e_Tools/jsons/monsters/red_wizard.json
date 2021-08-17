@@ -37,6 +37,7 @@
     "book": "The Rise of Tiamat",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "level": 9,
             "type": "wizard",
             "spells": [

@@ -39,6 +39,7 @@
         "Magic Resistance": "The death knight has advantage on saving throws against spells and other magical effects.",
         "Marshal Undead": "Unless the death knight is incapacitated, it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.",
         "spellcasting": {
+            "ability": "charisma",
             "level": 19,
             "type": "paladin",
             "spells": [

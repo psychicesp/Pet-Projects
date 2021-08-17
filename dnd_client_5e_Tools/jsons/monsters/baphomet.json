@@ -49,16 +49,23 @@
     "traits": {
         "Charge": "If Baphomet moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 16 (3d10) piercing damage. If the target is a creature, it must succeed on a DC 25+1d14 + 18 Strength saving throw or be pushed up to 10 feet away and knocked prone.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect magic",
-                "dispel magic",
-                "dominate beast",
-                "hunter's mark",
-                "maze",
-                "wall of stone",
-                "teleport"
-            ]
+            "spells": {
+                "At": [
+                    "detect magic"
+                ],
+                "3/day": [
+                    "dispel magic",
+                    "dominate beast",
+                    "hunter\\'s mark",
+                    "maze",
+                    "wall of stone"
+                ],
+                "1/day": [
+                    "teleport"
+                ]
+            }
         },
         "Labyrinthine Recall": "Baphomet can perfectly recall any path he has traveled, and he is immune to the maze spell.",
         "Legendary Resistance (3/Day)": "If Baphomet fails a saving throw, he can choose to succeed instead.",

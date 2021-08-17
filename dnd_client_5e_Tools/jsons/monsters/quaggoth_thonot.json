@@ -38,15 +38,20 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "feather fall",
-                "mage hand",
-                "cure wounds",
-                "enlarge/reduce",
-                "heat metal",
-                "mirror image"
-            ]
+            "spells": {
+                "At": [
+                    "feather fall",
+                    "mage hand"
+                ],
+                "1/day": [
+                    "cure wounds",
+                    "enlarge/reduce",
+                    "heat metal",
+                    "mirror image"
+                ]
+            }
         },
         "Wounded Fury": "While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack."
     },

@@ -38,6 +38,7 @@
     "traits": {
         "Hold Breath": "The priest can hold its breath for 30 minutes.",
         "spellcasting": {
+            "ability": "charisma",
             "level": 5,
             "type": "sorcerer",
             "spells": [

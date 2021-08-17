@@ -56,12 +56,17 @@
         "Aura of Blood Lust": "When any other creature starts its turn within 30 feet of the master, that creature must succeed on a DC 17+1d8 + 13 Wisdom saving throw, or it must immediately take the Attack action, making one melee attack against a random creature within reach. If no creatures are within reach, it makes a ranged attack against a random creature within range, throwing its weapon if necessary.",
         "Feed on the Crowd": "Whenever a creature within 60 feet of the master dies, the master gains 15 temporary hit points and has advantage on all attack rolls, ability checks, and saving throws until the end of its next turn.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "charm person",
-                "crown of madness",
-                "dominate person"
-            ]
+            "spells": {
+                "At": [
+                    "charm person",
+                    "crown of madness"
+                ],
+                "1/day": [
+                    "dominate person"
+                ]
+            }
         },
         "Magic Resistance": "The master has advantage on saving throws against spells and other magical effects."
     },

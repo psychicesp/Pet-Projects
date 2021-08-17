@@ -49,14 +49,17 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "charisma. the nycaloth can innately cast the following spells, requiring no material components:at will: darkness, detect magic, dispel magic, invisibility (self only), mirror image",
             "type": "innate",
-            "spells": [
-                "darkness",
-                "detect magic",
-                "dispel magic",
-                "invisibility",
-                "mirror image"
-            ]
+            "spells": {
+                "At": [
+                    "darkness",
+                    "detect magic",
+                    "dispel magic",
+                    "invisibility",
+                    "mirror image"
+                ]
+            }
         },
         "Magic Resistance": "The nycaloth has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The nycaloth's weapon attacks are magical."

@@ -46,18 +46,23 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "chill touch",
-                "eldritch blast",
-                "mage hand",
-                "arms of Hadar",
-                "dispel magic",
-                "hold person",
-                "hunger of Hadar",
-                "invisibility",
-                "spider climb"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "chill touch",
+                    "eldritch blast",
+                    "mage hand"
+                ],
+                "1st-3rd": [
+                    "arms of Hadar",
+                    "dispel magic",
+                    "hold person",
+                    "hunger of Hadar",
+                    "invisibility",
+                    "spider climb"
+                ]
+            }
         },
         "Turn Resistance": "The deathlock has advantage on saving throws against any effect that turns undead."
     },

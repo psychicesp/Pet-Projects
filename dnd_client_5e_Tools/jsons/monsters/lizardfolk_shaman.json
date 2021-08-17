@@ -36,6 +36,7 @@
     "traits": {
         "Hold Breath": "The lizardfolk can hold its breath for 15 minutes.",
         "spellcasting": {
+            "ability": "wisdom",
             "level": 5,
             "type": "druid",
             "spells": [

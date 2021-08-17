@@ -32,6 +32,7 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": " spellcasting. the naga is a 5th-level spellcaster",
             "level": 5,
             "type": "cleric",
             "spells": [

@@ -39,22 +39,29 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect evil and good",
-                "detect magic",
-                "detect thoughts",
-                "bless",
-                "create food and water",
-                "cure wounds",
-                "lesser restoration",
-                "protection from poison",
-                "sanctuary",
-                "shield",
-                "dream",
-                "greater restoration",
-                "scrying"
-            ]
+            "spells": {
+                "At": [
+                    "detect evil and good",
+                    "detect magic",
+                    "detect thoughts"
+                ],
+                "3/day": [
+                    "bless",
+                    "create food and water",
+                    "cure wounds",
+                    "lesser restoration",
+                    "protection from poison",
+                    "sanctuary",
+                    "shield"
+                ],
+                "1/day": [
+                    "dream",
+                    "greater restoration",
+                    "scrying"
+                ]
+            }
         },
         "Magic Weapons": "The couatl's weapon attacks are magical.",
         "Shielded Mind": "The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location."

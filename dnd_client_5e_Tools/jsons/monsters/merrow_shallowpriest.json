@@ -29,6 +29,7 @@
     "traits": {
         "Amphibious": "The merrow can breathe air and water.",
         "spellcasting": {
+            "ability": "wisdom",
             "level": 6,
             "type": "druid",
             "spells": [

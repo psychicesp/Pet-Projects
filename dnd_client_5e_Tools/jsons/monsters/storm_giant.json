@@ -48,15 +48,20 @@
     "traits": {
         "Amphibious": "The giant can breathe air and water.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect magic",
-                "feather fall",
-                "levitate",
-                "light",
-                "control weather",
-                "water breathing"
-            ]
+            "spells": {
+                "At": [
+                    "detect magic",
+                    "feather fall",
+                    "levitate",
+                    "light"
+                ],
+                "3/day": [
+                    "control weather",
+                    "water breathing"
+                ]
+            }
         }
     },
     "actions": {

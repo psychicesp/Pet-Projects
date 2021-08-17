@@ -37,10 +37,9 @@
     "traits": {
         "Death Burst": "When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10+1d4 + 8 Dexterity saving throw or take 4 (1d8) fire damage.",
         "spellcasting": {
+            "ability": "charisma.",
             "type": "innate",
-            "spells": [
-                "blur"
-            ]
+            "spells": {}
         }
     },
     "actions": {

@@ -35,21 +35,28 @@
     "traits": {
         "Elemental Demise": "If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect evil and                                    good",
-                "detect magic",
-                "thunderwave",
-                "create food and                                    water",
-                "tongues",
-                "wind walk",
-                "conjure elemental",
-                "creation",
-                "gaseous form",
-                "invisibility",
-                "major image",
-                "plane shift"
-            ]
+            "spells": {
+                "At": [
+                    "detect evil and\n                                    good",
+                    "detect magic",
+                    "thunderwave"
+                ],
+                "3/day": [
+                    "create food and\n                                    water",
+                    "tongues",
+                    "wind walk"
+                ],
+                "1/day": [
+                    "conjure elemental",
+                    "creation",
+                    "gaseous form",
+                    "invisibility",
+                    "major image",
+                    "plane shift"
+                ]
+            }
         }
     },
     "actions": {

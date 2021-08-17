@@ -43,13 +43,18 @@
         "Gust-Propelled Leap": "The blastseeker can use a bonus action to fly up to 10 feet without provoking opportunity attacks.",
         "Heart of the Storm": "When the blastseeker casts lightning bolt or thunderwave, all other creatures within 10 feet of the blastseeker each take 3 lightning damage.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "levitate",
-                "lightning bolt",
-                "thunderwave",
-                "stoneskin"
-            ]
+            "spells": {
+                "3/day": [
+                    "levitate",
+                    "lightning bolt",
+                    "thunderwave"
+                ],
+                "1/day": [
+                    "stoneskin"
+                ]
+            }
         }
     },
     "actions": {

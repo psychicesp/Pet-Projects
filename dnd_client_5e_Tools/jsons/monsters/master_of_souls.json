@@ -37,6 +37,7 @@
     "traits": {
         "Grave Magic": "When the master of souls cast a spell that deals damage, it can change the spell's damage type to necrotic.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 5,
             "type": "wizard",
             "spells": [

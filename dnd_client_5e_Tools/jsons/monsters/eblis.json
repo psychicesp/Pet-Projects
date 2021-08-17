@@ -30,12 +30,15 @@
     "book": "Tomb of Annihilation",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "blur",
-                "hypnotic pattern",
-                "minor illusion"
-            ]
+            "spells": {
+                "1/day": [
+                    "blur",
+                    "hypnotic pattern",
+                    "minor illusion"
+                ]
+            }
         }
     },
     "actions": {

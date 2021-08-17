@@ -33,11 +33,14 @@
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "bless",
-                "conjure animals"
-            ]
+            "spells": {
+                "1/day": [
+                    "bless",
+                    "conjure animals"
+                ]
+            }
         },
         "Speak with Beasts": "The horncaller can communicate with beasts as if they shared a language."
     },

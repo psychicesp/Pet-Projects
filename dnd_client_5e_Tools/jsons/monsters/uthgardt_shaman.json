@@ -37,21 +37,26 @@
     "book": "Storm King\\xe2\\x80\\x99s Thunder",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "dancing lights",
-                "message",
-                "mage hand",
-                "thaumaturgy",
-                "augury",
-                "bestow curse",
-                "cordon of arrows",
-                "detect magic",
-                "hex",
-                "prayer of healing",
-                "speak with dead",
-                "spirit guardians"
-            ]
+            "spells": {
+                "At": [
+                    "dancing lights",
+                    "message",
+                    "mage hand",
+                    "thaumaturgy"
+                ],
+                "1/day": [
+                    "augury",
+                    "bestow curse",
+                    "cordon of arrows",
+                    "detect magic",
+                    "hex",
+                    "prayer of healing",
+                    "speak with dead",
+                    "spirit guardians"
+                ]
+            }
         }
     },
     "actions": {

@@ -35,6 +35,7 @@
     "traits": {
         "Hold Breath": "The tortle can hold its breath for 1 hour.",
         "spellcasting": {
+            "ability": "wisdom",
             "level": 4,
             "type": "druid",
             "spells": [

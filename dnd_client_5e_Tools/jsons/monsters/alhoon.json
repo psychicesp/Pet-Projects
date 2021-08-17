@@ -61,31 +61,46 @@
     "book": "Volo\u2019s Guide to Monsters",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "chill touch",
-                "dancing lights",
-                "mage hand",
-                "prestidigitation",
-                "shocking grasp",
-                "detect magic",
-                "disguise self",
-                "magic missile",
-                "shield",
-                "invisibility",
-                "mirror image",
-                "scorching ray",
-                "counterspell",
-                "fly",
-                "lightning bolt",
-                "confusion",
-                "Evard's black tentacles",
-                "phantasmal killer",
-                "modify memory",
-                "wall of force",
-                "disintegrate",
-                "globe of invulnerability"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "chill touch",
+                    "dancing lights",
+                    "mage hand",
+                    "prestidigitation",
+                    "shocking grasp"
+                ],
+                "1st": [
+                    "detect magic",
+                    "disguise self",
+                    "magic missile",
+                    "shield"
+                ],
+                "2nd": [
+                    "invisibility",
+                    "mirror image",
+                    "scorching ray"
+                ],
+                "3rd": [
+                    "counterspell",
+                    "fly",
+                    "lightning bolt"
+                ],
+                "4th": [
+                    "confusion",
+                    "Evard's black tentacles",
+                    "phantasmal killer"
+                ],
+                "5th": [
+                    "modify memory",
+                    "wall of force"
+                ],
+                "6th": [
+                    "disintegrate",
+                    "globe of invulnerability"
+                ]
+            }
         },
         "Magic Resistance": "The alhoon has advantage on saving throws against spells and other magical effects.",
         "Turn Resistance": "The alhoon has advantage on saving throws against any effect that turns undead."

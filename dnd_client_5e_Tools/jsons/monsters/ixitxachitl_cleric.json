@@ -28,6 +28,7 @@
     "book": "Out of the Abyss",
     "traits": {
         "spellcasting": {
+            "ability": " spellcasting. the ixitxachitl is a 5th-level spellcaster that uses wisdom as its spellcasting ability",
             "level": 5,
             "type": "cleric",
             "spells": [

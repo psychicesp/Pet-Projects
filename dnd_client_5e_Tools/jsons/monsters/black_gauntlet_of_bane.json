@@ -38,6 +38,7 @@
     "traits": {
         "Aura of Terror": "When a hostile creature within 5 feet of the black gauntlet makes an attack roll or a saving throw, it has disadvantage on the roll. Creatures that are immune to the frightened condition are immune to this trait.",
         "spellcasting": {
+            "ability": "charisma",
             "level": 5,
             "type": "cleric",
             "spells": [

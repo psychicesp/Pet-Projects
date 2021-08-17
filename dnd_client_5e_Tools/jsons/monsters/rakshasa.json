@@ -35,22 +35,29 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect thoughts",
-                "disguise self",
-                "mage hand",
-                "minor illusion",
-                "charm person",
-                "detect magic",
-                "invisibility",
-                "major image",
-                "suggestion",
-                "dominate person",
-                "fly",
-                "plane shift",
-                "true seeing"
-            ]
+            "spells": {
+                "At": [
+                    "detect thoughts",
+                    "disguise self",
+                    "mage hand",
+                    "minor illusion"
+                ],
+                "3/day": [
+                    "charm person",
+                    "detect magic",
+                    "invisibility",
+                    "major image",
+                    "suggestion"
+                ],
+                "1/day": [
+                    "dominate person",
+                    "fly",
+                    "plane shift",
+                    "true seeing"
+                ]
+            }
         },
         "Limited Magic Immunity": "The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects."
     },

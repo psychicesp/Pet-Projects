@@ -50,13 +50,18 @@
     "traits": {
         "Aura of Silence": "When a creature starts its turn within 30 feet of the ashen rider, the rider can force that creature to make a DC 18+1d10 + 13 Wisdom saving throw if the rider can see it. On a successful save, the creature is immune to this aura for the next 24 hours. On a failed save, the creature can't speak and is deafened until the start of its next turn.",
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "command",
-                "compelled duel",
-                "banishment",
-                "blade barrier"
-            ]
+            "spells": {
+                "At": [
+                    "command",
+                    "compelled duel"
+                ],
+                "1/day": [
+                    "banishment",
+                    "blade barrier"
+                ]
+            }
         },
         "Mount": "If the ashen rider isn't mounted, it can use a bonus action to magically teleport onto the creature serving as its mount, provided the ashen rider and its mount are on the same plane of existence. When it teleports, the ashen rider appears astride the mount along with any equipment it is wearing or carrying."
     },

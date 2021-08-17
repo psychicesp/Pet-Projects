@@ -35,6 +35,7 @@
     "traits": {
         "Fey Ancestry": "The choldrith has advantage on saving throws against being charmed, and magic can't put the choldrith to sleep.",
         "spellcasting": {
+            "ability": "wisdom",
             "level": 4,
             "type": "cleric",
             "spells": [

@@ -41,11 +41,14 @@
     "book": "Volo\u2019s Guide to Monsters",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "disguise self",
-                "fog cloud"
-            ]
+            "spells": {
+                "3/day": [
+                    "disguise self",
+                    "fog cloud"
+                ]
+            }
         }
     },
     "actions": {

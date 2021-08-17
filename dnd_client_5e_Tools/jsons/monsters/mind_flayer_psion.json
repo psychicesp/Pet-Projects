@@ -45,27 +45,40 @@
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "guidance",
-                "mage hand",
-                "vicious mockery",
-                "true strike",
-                "charm person",
-                "command",
-                "comprehend languages",
-                "sanctuary",
-                "crown of madness",
-                "phantasmal force",
-                "see invisibility",
-                "clairvoyance",
-                "fear",
-                "meld into stone",
-                "confusion",
-                "stone shape",
-                "scrying",
-                "telekinesis"
-            ]
+            "spells": {
+                "At": [
+                    "guidance",
+                    "mage hand",
+                    "vicious mockery",
+                    "true strike"
+                ],
+                "1st": [
+                    "charm person",
+                    "command",
+                    "comprehend languages",
+                    "sanctuary"
+                ],
+                "2nd": [
+                    "crown of madness",
+                    "phantasmal force",
+                    "see invisibility"
+                ],
+                "3rd": [
+                    "clairvoyance",
+                    "fear",
+                    "meld into stone"
+                ],
+                "4th": [
+                    "confusion",
+                    "stone shape"
+                ],
+                "5th": [
+                    "scrying",
+                    "telekinesis"
+                ]
+            }
         },
         "Magic Resistance": "The mind flayer has advantage on saving throws against spells and other magical effects."
     },

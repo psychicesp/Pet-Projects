@@ -39,17 +39,24 @@
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "druidcraft",
-                "dispel magic",
-                "entangle",
-                "plant growth",
-                "spike growth",
-                "moonbeam",
-                "grasping vine",
-                "wall of thorns"
-            ]
+            "spells": {
+                "At": [
+                    "druidcraft"
+                ],
+                "3/day": [
+                    "dispel magic",
+                    "entangle",
+                    "plant growth",
+                    "spike growth"
+                ],
+                "1/day": [
+                    "moonbeam",
+                    "grasping vine",
+                    "wall of thorns"
+                ]
+            }
         },
         "Magic Resistance": "The dryad has advantage on saving throws against spells and other magical effects.",
         "Speak with Beasts and Plants": "The dryad can communicate with beasts and plants as if they and the dryad shared a language."

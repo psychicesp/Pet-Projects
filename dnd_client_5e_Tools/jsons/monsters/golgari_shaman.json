@@ -42,6 +42,7 @@
     "traits": {
         "Fey Ancestry": "The shaman has advantage on saving throws against being charmed, and magic can't put it to sleep.",
         "spellcasting": {
+            "ability": "wisdom",
             "level": 8,
             "type": "druid",
             "spells": [

@@ -36,15 +36,20 @@
     "traits": {
         "Counterflux Overcast (Recharge 5xe2x80x936)": "The blastseeker can create an additional effect immediately after casting a spell. Roll a d6 to determine the effect: 1-3. The blastseeker creates a 15-foot-radius invisible sphere centered on itself that lasts until the end of its next turn. Creatures in the sphere have disadvantage on saving throws against spells and other magical effects. 4-6. The blastseeker creates a 15-foot-radius invisible sphere centered on itself that lasts until the end of its next turn. Creatures in the sphere have advantage on saving throws against spells and other magical effects.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "enlarge/reduce",
-                "mage armor",
-                "scorching ray",
-                "counterspell",
-                "dispel magic",
-                "protection from energy"
-            ]
+            "spells": {
+                "3/day": [
+                    "enlarge/reduce",
+                    "mage armor",
+                    "scorching ray"
+                ],
+                "1/day": [
+                    "counterspell",
+                    "dispel magic",
+                    "protection from energy"
+                ]
+            }
         }
     },
     "actions": {

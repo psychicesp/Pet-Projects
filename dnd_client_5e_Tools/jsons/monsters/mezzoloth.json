@@ -44,12 +44,17 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "darkness",
-                "dispel magic",
-                "cloudkill"
-            ]
+            "spells": {
+                "2/day": [
+                    "darkness",
+                    "dispel magic"
+                ],
+                "1/day": [
+                    "cloudkill"
+                ]
+            }
         },
         "Magic Resistance": "The mezzoloth has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The mezzoloth's weapon attacks are magical."

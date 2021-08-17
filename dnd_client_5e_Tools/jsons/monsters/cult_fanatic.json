@@ -35,6 +35,7 @@
     "traits": {
         "Dark Devotion": "The fanatic has advantage on saving throws against being charmed or frightened.",
         "spellcasting": {
+            "ability": "wisdom",
             "level": 4,
             "type": "cleric",
             "spells": [

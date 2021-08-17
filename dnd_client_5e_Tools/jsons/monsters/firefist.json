@@ -35,6 +35,7 @@
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "level": 9,
             "type": "cleric",
             "spells": [

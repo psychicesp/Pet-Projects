@@ -44,11 +44,16 @@
         "Magic Resistance": "The yuan-ti has advantage on saving throws against spells and other magical effects.",
         "Malison Type": "The yuan-ti has one of the following types:",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "animal friendship",
-                "suggestion"
-            ]
+            "spells": {
+                "At": [
+                    "animal friendship"
+                ],
+                "3/day": [
+                    "suggestion"
+                ]
+            }
         }
     },
     "actions": {

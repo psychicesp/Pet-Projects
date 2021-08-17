@@ -37,21 +37,28 @@
         "Earth Glide": "The dao can burrow through nonmagical, unworked earth and stone. While doing so, the dao doesn't disturb the material it moves through.",
         "Elemental Demise": "If the dao dies, its body disintegrates into crystalline powder, leaving behind only equipment the dao was wearing or carrying.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect evil and good",
-                "detect magic",
-                "stone shape",
-                "passwall",
-                "move earth",
-                "tongues",
-                "conjure elemental",
-                "gaseous form",
-                "invisibility",
-                "phantasmal killer",
-                "plane shift",
-                "wall of stone"
-            ]
+            "spells": {
+                "At": [
+                    "detect evil and good",
+                    "detect magic",
+                    "stone shape"
+                ],
+                "3/day": [
+                    "passwall",
+                    "move earth",
+                    "tongues"
+                ],
+                "1/day": [
+                    "conjure elemental",
+                    "gaseous form",
+                    "invisibility",
+                    "phantasmal killer",
+                    "plane shift",
+                    "wall of stone"
+                ]
+            }
         },
         "Sure-Footed": "The dao has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
     },

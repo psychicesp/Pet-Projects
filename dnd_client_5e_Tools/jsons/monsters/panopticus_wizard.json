@@ -39,6 +39,7 @@
     "traits": {
         "Dwarven Resilience": "The dwarf has advantage on saving throws against poison and resistance to poison damage.",
         "spellcasting": {
+            "ability": "intelligence. it has the following wizard spells prepared:cantrips (at will): fire bolt, mending, prestidigitation1st level (2 slots): burning hands, disguise self, shield",
             "level": 1,
             "type": "wizard",
             "spells": [

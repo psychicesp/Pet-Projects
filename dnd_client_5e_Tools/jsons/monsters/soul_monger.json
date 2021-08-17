@@ -43,17 +43,22 @@
     "traits": {
         "Fey Ancestry": "The soul monger has advantage on saving throws against being charmed, and magic can't put it to sleep.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "chill touch",
-                "poison spray",
-                "bestow curse",
-                "chain lightning",
-                "finger of death",
-                "gaseous form",
-                "phantasmal killer",
-                "seeming"
-            ]
+            "spells": {
+                "At": [
+                    "chill touch",
+                    "poison spray"
+                ],
+                "1/day": [
+                    "bestow curse",
+                    "chain lightning",
+                    "finger of death",
+                    "gaseous form",
+                    "phantasmal killer",
+                    "seeming"
+                ]
+            }
         },
         "Magic Resistance": "The soul monger has advantage on saving throws against spells and other magical effects.",
         "Soul Thirst": "When the soul monger reduces a creature to 0 hit points, the soul monger can gain temporary hit points equal to half the creature's hit point maximum. While the soul monger has temporary hit points from this ability, it has advantage on attack rolls.",

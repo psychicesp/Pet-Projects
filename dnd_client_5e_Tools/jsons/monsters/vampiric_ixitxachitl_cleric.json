@@ -28,6 +28,7 @@
     "book": "Out of the Abyss",
     "traits": {
         "spellcasting": {
+            "ability": " spellcasting. the ixitxachitl is a 5th-level spellcaster that uses wisdom as its spellcasting ability (spell save dc 11+1d4 + 9, +3+1d4 + 1 to hit with spell attacks). the ixitxachitl has the following cleric spells prepared:cantrips (at will): guidance, thaumaturgy1st level (4 slots): charm person, create or destroy water2nd level (3 slots): hold person, silence3rd level (2 slots): dispel magic, tongues",
             "level": 5,
             "type": "cleric",
             "spells": [

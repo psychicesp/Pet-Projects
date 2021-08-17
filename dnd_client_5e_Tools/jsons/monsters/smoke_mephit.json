@@ -40,10 +40,9 @@
     "traits": {
         "Death Burst": "When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius sphere centered on its space. The sphere is heavily obscured. Wind disperses the cloud, which otherwise lasts for 1 minute.",
         "spellcasting": {
+            "ability": "charisma.",
             "type": "innate",
-            "spells": [
-                "dancing lights"
-            ]
+            "spells": {}
         }
     },
     "actions": {

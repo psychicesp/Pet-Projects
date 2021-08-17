@@ -39,10 +39,9 @@
         "Death Burst": "When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11+1d4 + 9 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.",
         "False Appearance": "While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.",
         "spellcasting": {
+            "ability": " innate spellcasting (1/day). the mephit can innately cast heat metal",
             "type": "innate",
-            "spells": [
-                "heat metal"
-            ]
+            "spells": {}
         }
     },
     "actions": {

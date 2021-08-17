@@ -45,13 +45,18 @@
     "traits": {
         "Fey Ancestry": "The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "darkness",
-                "confusion",
-                "dancing lights",
-                "faerie fire"
-            ]
+            "spells": {
+                "At": [
+                    "darkness"
+                ],
+                "1/day": [
+                    "confusion",
+                    "dancing lights",
+                    "faerie fire"
+                ]
+            }
         }
     },
     "actions": {

@@ -35,18 +35,25 @@
     "traits": {
         "Elemental Demise": "If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the djinni was wearing or carrying.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect magic",
-                "enlarge/reduce",
-                "tongues",
-                "conjure elemental",
-                "gaseous form",
-                "invisibility",
-                "major image",
-                "plane shift",
-                "wall of fire"
-            ]
+            "spells": {
+                "At": [
+                    "detect magic"
+                ],
+                "3/day": [
+                    "enlarge/reduce",
+                    "tongues"
+                ],
+                "1/day": [
+                    "conjure elemental",
+                    "gaseous form",
+                    "invisibility",
+                    "major image",
+                    "plane shift",
+                    "wall of fire"
+                ]
+            }
         }
     },
     "actions": {

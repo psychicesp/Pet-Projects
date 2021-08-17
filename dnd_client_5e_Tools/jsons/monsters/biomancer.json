@@ -37,6 +37,7 @@
         "Bolstering Presence": "The biomancer magically emanates life-giving energy within 30 feet of itself. Any ally of the biomancer that starts its turn there regains 5 (1d10) hit points.",
         "Magic Resistance": "The biomancer has advantage on saving throws against spells and other magical effects.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 16,
             "type": "wizard",
             "spells": [

@@ -39,6 +39,7 @@
         "Limited Amphibiousness": "The high priestess can breathe air and water, but she needs to be submerged at least once every 4 hours to avoid suffocating.",
         "Shark Telepathy": "The high priestess can magically command any shark within 120 feet of her, using a limited telepathy.",
         "spellcasting": {
+            "ability": "wisdom",
             "level": 7,
             "type": "cleric",
             "spells": [

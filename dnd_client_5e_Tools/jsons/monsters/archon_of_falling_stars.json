@@ -51,14 +51,19 @@
     "book": "Mythic Odysseys of Theros",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "command",
-                "guiding bolt",
-                "spare the dying",
-                "crusader's mantle",
-                "spirit guardians"
-            ]
+            "spells": {
+                "At": [
+                    "command",
+                    "guiding bolt",
+                    "spare the dying"
+                ],
+                "1/day": [
+                    "crusader's mantle",
+                    "spirit guardians"
+                ]
+            }
         },
         "Magic Resistance": "The archon has advantage on saving throws against spells and other magical effects.",
         "Mount": "If the archon isn't mounted, it can use a bonus action to magically teleport onto the creature serving as its mount, provided the archon and its mount are on the same plane of existence. When it teleports, the archon appears astride the mount, along with any equipment it is wearing or carrying. While mounted and not incapacitated, the archon can't be surprised, and both it and its mount have advantage on Dexterity saving throws. If the archon is reduced to 0 hit points while riding its mount, the mount is reduced to 0 hit points as well.",

@@ -48,13 +48,18 @@
     "traits": {
         "Fiendish Blessing": "The AC of the cambion includes its Charisma bonus.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "alter self",
-                "command",
-                "detect magic",
-                "plane shift"
-            ]
+            "spells": {
+                "3/day": [
+                    "alter self",
+                    "command",
+                    "detect magic"
+                ],
+                "1/day": [
+                    "plane shift"
+                ]
+            }
         }
     },
     "actions": {

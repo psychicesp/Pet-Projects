@@ -38,6 +38,7 @@
     "traits": {
         "Song of Rest": "The bard can perform a song while taking a short rest. Any ally who hears the song regains an extra 1d6 hit points if it spends any Hit Dice to regain hit points at the end of that rest. The bard can confer this benefit on itself as well.",
         "spellcasting": {
+            "ability": "charisma",
             "level": 4,
             "type": "bard",
             "spells": [

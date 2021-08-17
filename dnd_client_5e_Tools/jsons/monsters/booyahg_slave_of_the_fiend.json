@@ -45,26 +45,31 @@
     "traits": {
         "Dark One's Own Luck (Recharges after a Short or Long Rest)": "When the goblin makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "eldritch blast",
-                "fire bolt",
-                "friends",
-                "mage hand",
-                "minor illusion",
-                "prestidigitation",
-                "shocking grasp",
-                "banishment",
-                "burning hands",
-                "flame strike",
-                "hellish rebuke",
-                "magic circle",
-                "scorching ray",
-                "scrying",
-                "stinking cloud",
-                "suggestion",
-                "wall of fire"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "eldritch blast",
+                    "fire bolt",
+                    "friends",
+                    "mage hand",
+                    "minor illusion",
+                    "prestidigitation",
+                    "shocking grasp"
+                ],
+                "1st-5th": [
+                    "banishment",
+                    "burning hands",
+                    "flame strike",
+                    "hellish rebuke",
+                    "magic circle",
+                    "scorching ray",
+                    "scrying",
+                    "stinking cloud",
+                    "suggestion",
+                    "wall of fire"
+                ]
+            }
         },
         "Nimble Escape": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns."
     },

@@ -44,18 +44,25 @@
         "Angelic Weapons": "The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).",
         "Divine Awareness": "The planetar knows if it hears a lie.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect evil and good",
-                "invisibility",
-                "blade barrier",
-                "dispel evil and good",
-                "flame strike",
-                "raise dead",
-                "commune",
-                "control weather",
-                "insect plague"
-            ]
+            "spells": {
+                "At": [
+                    "detect evil and good",
+                    "invisibility"
+                ],
+                "3/day": [
+                    "blade barrier",
+                    "dispel evil and good",
+                    "flame strike",
+                    "raise dead"
+                ],
+                "1/day": [
+                    "commune",
+                    "control weather",
+                    "insect plague"
+                ]
+            }
         },
         "Magic Resistance": "The planetar has advantage on saving throws against spells and other magical effects."
     },

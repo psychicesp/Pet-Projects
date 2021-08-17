@@ -180,7 +180,6 @@ def html_to_json(file_name, save = True):
     trait_soup = mon_soup.find('tr', {'class', 'trait'})
     if trait_soup is not None:
         traits = trait_soup.find_all('div', {'class': 'rd__b rd__b--3'})
-        print('     ', len(traits))
         meal['traits'] = {}
         for trait in traits:
             try:
@@ -191,10 +190,10 @@ def html_to_json(file_name, save = True):
                 meal['traits']['legendary_resistance'] = int(trait_name.split("/Day")[0].split('(')[-1])
             elif "Spellcasting" in trait_name:
                 spellcasting_dict = {}
+                spellcasting_dict['ability'] = trait.text.split(' (spell save DC')[0].split('spellcasting ability is ')[-1].lower()
                 if 'innately' in trait.p.text or 'innate spellcasting' in mon_text.lower():
                     spellcasting_dict['type']= "innate"
                 elif 'magewright' in file_name:
-                    
                     spellcasting_dict['type']= "ritualist"
                 else:
                     try:
@@ -209,7 +208,17 @@ def html_to_json(file_name, save = True):
                                 spellcasting_dict['level']= int(trait.p.text.split('nd-level')[0].split(' ')[-1])
 
                     spellcasting_dict['type'] = trait.p.text.split('the following ')[-1].split(' spells')[0]
-                spellcasting_dict['spells'] = [x.text.replace('\n', '').replace('\\', '') for x in trait.find_all('a', {'data-vet-page':"spells.html"})]
+                if spellcasting_dict['type'] == 'innate':
+                    spell_dict = {}
+                    for box in trait.find_all("li", {"class":"rd__li rd__li-spell"}):
+                        print(box.p.text)
+                        par_diem = box.p.text.replace(':', '').strip().split(' ')[0]
+                        spell_dict[par_diem] = []
+                        for a in box.find_all('a'):
+                            spell_dict[par_diem].append(a.text)
+                    spellcasting_dict['spells'] = spell_dict
+                else:
+                    spellcasting_dict['spells'] = [x.text.replace('\n', '').replace('\\', '') for x in trait.find_all('a', {'data-vet-page':"spells.html"})]
                 meal['traits']['spellcasting'] = spellcasting_dict
             else:
                 meal['traits'][sterilizer(trait_name).strip('.')] = sterilizer(trait.p.text)

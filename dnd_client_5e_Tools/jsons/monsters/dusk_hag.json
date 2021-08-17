@@ -41,16 +41,23 @@
     "book": "Eberron: Rising from the Last War",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect magic",
-                "disguise self",
-                "dream",
-                "hypnotic pattern",
-                "sleep",
-                "legend lore",
-                "scrying"
-            ]
+            "spells": {
+                "At": [
+                    "detect magic",
+                    "disguise self"
+                ],
+                "3/day": [
+                    "dream",
+                    "hypnotic pattern",
+                    "sleep"
+                ],
+                "1/day": [
+                    "legend lore",
+                    "scrying"
+                ]
+            }
         },
         "Magic Resistance": "The hag has advantage on saving throws against spells and other magical effects."
     },

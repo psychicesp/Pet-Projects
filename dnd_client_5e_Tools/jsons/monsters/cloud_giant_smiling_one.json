@@ -40,20 +40,29 @@
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "minor illusion",
-                "prestidigitation",
-                "vicious mockery",
-                "cure wounds",
-                "disguise self",
-                "silent image",
-                "Tasha's hideous laughter",
-                "invisibility",
-                "suggestion",
-                "major image",
-                "tongues"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "minor illusion",
+                    "prestidigitation",
+                    "vicious mockery"
+                ],
+                "1st": [
+                    "cure wounds",
+                    "disguise self",
+                    "silent image",
+                    "Tasha\\'s hideous laughter"
+                ],
+                "2nd": [
+                    "invisibility",
+                    "suggestion"
+                ],
+                "3rd": [
+                    "major image",
+                    "tongues"
+                ]
+            }
         },
         "Keen Smell": "The giant has advantage on Wisdom (Perception) checks that rely on smell."
     },

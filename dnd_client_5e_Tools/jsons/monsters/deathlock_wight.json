@@ -43,15 +43,20 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect magic",
-                "disguise self",
-                "mage armor",
-                "fear",
-                "hold person",
-                "misty step"
-            ]
+            "spells": {
+                "At": [
+                    "detect magic",
+                    "disguise self",
+                    "mage armor"
+                ],
+                "1/day": [
+                    "fear",
+                    "hold person",
+                    "misty step"
+                ]
+            }
         },
         "Sunlight Sensitivity": "While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },

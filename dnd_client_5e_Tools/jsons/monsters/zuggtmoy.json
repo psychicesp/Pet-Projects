@@ -46,18 +46,25 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect magic",
-                "locate animals or plants",
-                "ray of sickness",
-                "dispel magic",
-                "ensnaring strike",
-                "entangle",
-                "plant growth",
-                "etherealness",
-                "teleport"
-            ]
+            "spells": {
+                "At": [
+                    "detect magic",
+                    "locate animals or plants",
+                    "ray of sickness"
+                ],
+                "3/day": [
+                    "dispel magic",
+                    "ensnaring strike",
+                    "entangle",
+                    "plant growth"
+                ],
+                "1/day": [
+                    "etherealness",
+                    "teleport"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Zuggtmoy fails a saving throw, she can choose to succeed instead.",
         "Magic Resistance": "Zuggtmoy has advantage on saving throws against spells and other magical effects.",

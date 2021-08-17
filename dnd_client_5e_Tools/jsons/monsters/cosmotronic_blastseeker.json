@@ -38,13 +38,18 @@
     "traits": {
         "Empowered Spell (3/Day)": "When the blastseeker rolls damage for a spell, it can reroll up to four dice of damage. It must use the new dice.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "scorching ray",
-                "shield",
-                "thunderwave",
-                "fireball"
-            ]
+            "spells": {
+                "3/day": [
+                    "scorching ray",
+                    "shield",
+                    "thunderwave"
+                ],
+                "2/day": [
+                    "fireball"
+                ]
+            }
         },
         "Tides of Chaos (1/Day)": "The blastseeker makes one attack roll, ability check, or saving throw with advantage."
     },

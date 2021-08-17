@@ -48,14 +48,19 @@
         "All-Around Vision": "The quori can't be surprised while it isn't incapacitated.",
         "Incorporeal Movement": "The quori can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "arcane eye",
-                "clairvoyance",
-                "confusion",
-                "dream",
-                "eyebite"
-            ]
+            "spells": {
+                "At": [
+                    "arcane eye"
+                ],
+                "3/day": [
+                    "clairvoyance",
+                    "confusion",
+                    "dream",
+                    "eyebite"
+                ]
+            }
         },
         "Magic Resistance": "The quori has advantage on saving throws against spells and other magical effects."
     },

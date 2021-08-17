@@ -40,15 +40,20 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "darkness",
-                "invisibility",
-                "charm person",
-                "cone of cold",
-                "gaseous form",
-                "sleep"
-            ]
+            "spells": {
+                "At": [
+                    "darkness",
+                    "invisibility"
+                ],
+                "1/day": [
+                    "charm person",
+                    "cone of cold",
+                    "gaseous form",
+                    "sleep"
+                ]
+            }
         },
         "Magic Weapons": "The oni's weapon attacks are magical.",
         "Regeneration": "The oni regains 10 hit points at the start of its turn if it has at least 1 hit point."

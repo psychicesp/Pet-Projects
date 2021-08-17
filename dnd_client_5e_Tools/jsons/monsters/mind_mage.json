@@ -42,19 +42,26 @@
     "traits": {
         "Special Equipment": "The mage wears a spies' murmur (see chapter 5).",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "encode thoughts",
-                "friends",
-                "charm person",
-                "detect thoughts",
-                "mage armor",
-                "sleep",
-                "suggestion",
-                "dominate person",
-                "mass suggestion",
-                "modify memory"
-            ]
+            "spells": {
+                "At": [
+                    "encode thoughts",
+                    "friends"
+                ],
+                "3/day": [
+                    "charm person",
+                    "detect thoughts",
+                    "mage armor",
+                    "sleep",
+                    "suggestion"
+                ],
+                "1/day": [
+                    "dominate person",
+                    "mass suggestion",
+                    "modify memory"
+                ]
+            }
         }
     },
     "actions": {

@@ -47,15 +47,22 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "dispel magic",
-                "polymorph",
-                "telekinesis",
-                "teleport",
-                "lightning bolt",
-                "imprisonment"
-            ]
+            "spells": {
+                "At": [
+                    "dispel magic",
+                    "polymorph",
+                    "telekinesis",
+                    "teleport"
+                ],
+                "3/day": [
+                    "lightning bolt"
+                ],
+                "1/day": [
+                    "imprisonment"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If the molydeus fails a saving throw, it can choose to succeed instead.",
         "Magic Resistance": "The molydeus has advantage on saving throws against spells and other magical effects.",

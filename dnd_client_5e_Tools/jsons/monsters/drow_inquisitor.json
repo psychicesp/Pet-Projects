@@ -47,31 +47,46 @@
         "Discern Lie": "The drow knows when she hears a creature speak a lie in a language she knows.",
         "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "guidance",
-                "message",
-                "poison spray",
-                "resistance",
-                "thaumaturgy",
-                "bane",
-                "cure wounds",
-                "inflict wounds",
-                "blindness/deafness",
-                "silence",
-                "spiritual weapon",
-                "bestow curse",
-                "dispel magic",
-                "magic circle",
-                "banishment",
-                "divination",
-                "freedom of movement",
-                "contagion",
-                "dispel evil and good",
-                "insect plague",
-                "harm",
-                "true seeing"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "guidance",
+                    "message",
+                    "poison spray",
+                    "resistance",
+                    "thaumaturgy"
+                ],
+                "1st": [
+                    "bane",
+                    "cure wounds",
+                    "inflict wounds"
+                ],
+                "2nd": [
+                    "blindness/deafness",
+                    "silence",
+                    "spiritual weapon"
+                ],
+                "3rd": [
+                    "bestow curse",
+                    "dispel magic",
+                    "magic circle"
+                ],
+                "4th": [
+                    "banishment",
+                    "divination",
+                    "freedom of movement"
+                ],
+                "5th": [
+                    "contagion",
+                    "dispel evil and good",
+                    "insect plague"
+                ],
+                "6th": [
+                    "harm",
+                    "true seeing"
+                ]
+            }
         },
         "Magic Resistance": "The drow has advantage on saving throws against spells and other magical effects.",
         "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."

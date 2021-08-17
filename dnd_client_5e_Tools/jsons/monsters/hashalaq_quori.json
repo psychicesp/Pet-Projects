@@ -45,15 +45,22 @@
     "book": "Eberron: Rising from the Last War",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "charm person",
-                "detect thoughts",
-                "disguise self",
-                "suggestion",
-                "dominate person",
-                "dream"
-            ]
+            "spells": {
+                "At": [
+                    "charm person"
+                ],
+                "3/day": [
+                    "detect thoughts",
+                    "disguise self",
+                    "suggestion"
+                ],
+                "1/day": [
+                    "dominate person",
+                    "dream"
+                ]
+            }
         }
     },
     "actions": {

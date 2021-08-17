@@ -40,15 +40,20 @@
     "traits": {
         "Hide in Plain Sight": "The alseid has advantage on Dexterity (Stealth) checks made to hide while it is in grassland.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "cure wounds",
-                "charm person",
-                "sleep",
-                "calm emotions",
-                "lesser restoration",
-                "plant growth"
-            ]
+            "spells": {
+                "3/day": [
+                    "cure wounds",
+                    "charm person",
+                    "sleep"
+                ],
+                "1/day": [
+                    "calm emotions",
+                    "lesser restoration",
+                    "plant growth"
+                ]
+            }
         },
         "Magic Resistance": "The alseid has advantage on saving throws against spells and other magical effects."
     },

@@ -38,12 +38,15 @@
     "traits": {
         "Amphibious": "The hag can breathe air and water.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "dancing lights",
-                "minor illusion",
-                "vicious mockery"
-            ]
+            "spells": {
+                "At": [
+                    "dancing lights",
+                    "minor illusion",
+                    "vicious mockery"
+                ]
+            }
         },
         "Mimicry": "The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14+1d4 + 12 Wisdom (Insight) check."
     },

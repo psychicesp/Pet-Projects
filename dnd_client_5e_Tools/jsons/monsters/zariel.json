@@ -50,17 +50,22 @@
     "traits": {
         "Devil's Sight": "Magical darkness doesn't impede Zariel's darkvision.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "alter self",
-                "detect evil and good",
-                "fireball",
-                "invisibility",
-                "wall of fire",
-                "blade barrier",
-                "dispel evil and good",
-                "finger of death"
-            ]
+            "spells": {
+                "At": [
+                    "alter self",
+                    "detect evil and good",
+                    "fireball",
+                    "invisibility",
+                    "wall of fire"
+                ],
+                "3/day": [
+                    "blade barrier",
+                    "dispel evil and good",
+                    "finger of death"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Zariel fails a saving throw, she can choose to succeed instead.",
         "Magic Resistance": "Zariel has advantage on saving throws against spells and other magical effects.",

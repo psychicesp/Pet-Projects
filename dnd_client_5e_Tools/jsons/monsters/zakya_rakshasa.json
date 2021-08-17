@@ -35,12 +35,17 @@
     "book": "Eberron: Rising from the Last War",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect thoughts",
-                "disguise self",
-                "shield"
-            ]
+            "spells": {
+                "At": [
+                    "detect thoughts",
+                    "disguise self"
+                ],
+                "1/day": [
+                    "shield"
+                ]
+            }
         },
         "Limited Magic Immunity": "The rakshasa can't be affected or detected by spells of 1st level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.",
         "Magic Weapons": "The rakshasa's weapon attacks are magical.",

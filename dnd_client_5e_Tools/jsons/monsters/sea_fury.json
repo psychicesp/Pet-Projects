@@ -46,13 +46,18 @@
     "traits": {
         "Amphibious": "The sea fury can breathe air and water.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "witch bolt",
-                "bestow curse",
-                "fear",
-                "thunderwave"
-            ]
+            "spells": {
+                "At": [
+                    "witch bolt"
+                ],
+                "1/day": [
+                    "bestow curse",
+                    "fear",
+                    "thunderwave"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If the sea fury fails a saving throw, it can choose to succeed instead.",
         "Magic Resistance": "The sea fury has advantage on saving throws against spells and other magical effects."

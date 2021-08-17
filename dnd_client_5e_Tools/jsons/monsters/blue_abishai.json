@@ -50,6 +50,7 @@
         "Magic Resistance": "The abishai has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The abishai's weapon attacks are magical.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 13,
             "type": "wizard",
             "spells": [

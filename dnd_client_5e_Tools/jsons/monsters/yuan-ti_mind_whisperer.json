@@ -48,22 +48,27 @@
         "Mind Fangs (2/Day)": "The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) psychic damage to the target.",
         "Sseth's Blessing": "When the yuan-ti reduces an enemy to 0 hit points, the yuan-ti gains 9 temporary hit points.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "eldritch blast",
-                "friends",
-                "message",
-                "minor illusion",
-                "poison spray",
-                "prestidigitation",
-                "charm person",
-                "crown of madness",
-                "detect thoughts",
-                "expeditious retreat",
-                "fly",
-                "hypnotic pattern",
-                "illusory script"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "eldritch blast",
+                    "friends",
+                    "message",
+                    "minor illusion",
+                    "poison spray",
+                    "prestidigitation"
+                ],
+                "1st-3rd": [
+                    "charm person",
+                    "crown of madness",
+                    "detect thoughts",
+                    "expeditious retreat",
+                    "fly",
+                    "hypnotic pattern",
+                    "illusory script"
+                ]
+            }
         }
     },
     "actions": {

@@ -38,6 +38,7 @@
     "traits": {
         "Benign Transportation (Recharges after the Conjurer Casts a Conjuration Spell of 1st Level or Higher)": "As a bonus action, the conjurer teleports up to 30 feet to an unoccupied space that it can see. If it instead chooses a space within range that is occupied by a willing Small or Medium creature, they both teleport, swapping places.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 9,
             "type": "wizard",
             "spells": [

@@ -44,12 +44,17 @@
     "traits": {
         "Angelic Weapons": "The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect evil and good",
-                "commune",
-                "raise dead"
-            ]
+            "spells": {
+                "At": [
+                    "detect evil and good"
+                ],
+                "1/day": [
+                    "commune",
+                    "raise dead"
+                ]
+            }
         },
         "Magic Resistance": "The deva has advantage on saving throws against spells and other magical effects."
     },

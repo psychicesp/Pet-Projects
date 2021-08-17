@@ -47,14 +47,19 @@
     "traits": {
         "Foul": "Any creature, other than an ooze, that starts its turn within 10 feet of Juiblex must succeed on a DC 21+1d14 + 14 Constitution saving throw or be poisoned until the start of the creature's next turn.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "acid splash",
-                "detect magic",
-                "blight",
-                "contagion",
-                "gaseous form"
-            ]
+            "spells": {
+                "At": [
+                    "acid splash",
+                    "detect magic"
+                ],
+                "3/day": [
+                    "blight",
+                    "contagion",
+                    "gaseous form"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Juiblex fails a saving throw, it can choose to succeed instead.",
         "Magic Resistance": "Juiblex has advantage on saving throws against spells and other magical effects.",

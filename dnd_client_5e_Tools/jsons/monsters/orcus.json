@@ -49,14 +49,21 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "chill touch",
-                "detect magic",
-                "create undead",
-                "dispel magic",
-                "time stop"
-            ]
+            "spells": {
+                "At": [
+                    "chill touch",
+                    "detect magic"
+                ],
+                "3/day": [
+                    "create undead",
+                    "dispel magic"
+                ],
+                "1/day": [
+                    "time stop"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Orcus fails a saving throw, he can choose to succeed instead.",
         "Magic Resistance": "Orcus has advantage on saving throws against spells and other magical effects.",

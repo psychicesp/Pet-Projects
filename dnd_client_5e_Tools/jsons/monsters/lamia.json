@@ -34,16 +34,23 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "disguise self",
-                "major image",
-                "charm person",
-                "mirror image",
-                "scrying",
-                "suggestion",
-                "geas"
-            ]
+            "spells": {
+                "At": [
+                    "disguise self",
+                    "major image"
+                ],
+                "3/day": [
+                    "charm person",
+                    "mirror image",
+                    "scrying",
+                    "suggestion"
+                ],
+                "1/day": [
+                    "geas"
+                ]
+            }
         }
     },
     "actions": {

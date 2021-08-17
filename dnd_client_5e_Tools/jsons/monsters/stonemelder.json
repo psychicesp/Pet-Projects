@@ -35,6 +35,7 @@
     "traits": {
         "Death Burst": "When the Stonemelder dies, it turns to stone and explodes in a burst of rock shards, becoming a smoking pile of rubble. Each creature within 10 feet of the exploding Stonemelder must make a DC 14+1d4 + 12 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failed save, or half as much damage on a successful one.",
         "spellcasting": {
+            "ability": "charisma",
             "level": 7,
             "type": "sorcerer",
             "spells": [

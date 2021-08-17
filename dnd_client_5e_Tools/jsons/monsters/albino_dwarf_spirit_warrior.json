@@ -41,14 +41,17 @@
     "traits": {
         "Dwarven Resilience": "The dwarf has advantage on saving throws against poison.",
         "spellcasting": {
+            "ability": "wisdom. it can innately cast the following spells, requiring no material components:1/day each: hunter's mark, jump, pass without trace, speak with animals, speak with plants",
             "type": "innate",
-            "spells": [
-                "hunter's mark",
-                "jump",
-                "pass without trace",
-                "speak with animals",
-                "speak with plants"
-            ]
+            "spells": {
+                "1/day": [
+                    "hunter's mark",
+                    "jump",
+                    "pass without trace",
+                    "speak with animals",
+                    "speak with plants"
+                ]
+            }
         }
     },
     "actions": {

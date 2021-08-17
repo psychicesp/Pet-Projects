@@ -40,13 +40,18 @@
         "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "Gunslinger": "Being within 5 feet of a hostile creature or attacking at long range doesn't impose disadvantage on the drow's ranged attack rolls with a pistol. In addition, the drow ignores half cover and three-quarters cover when making ranged attacks with a pistol.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "dancing lights",
-                "darkness",
-                "faerie fire",
-                "levitate"
-            ]
+            "spells": {
+                "At": [
+                    "dancing lights"
+                ],
+                "1/day": [
+                    "darkness",
+                    "faerie fire",
+                    "levitate"
+                ]
+            }
         },
         "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },

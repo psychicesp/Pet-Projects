@@ -37,12 +37,17 @@
     "traits": {
         "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "dancing lights",
-                "darkness",
-                "faerie fire"
-            ]
+            "spells": {
+                "At": [
+                    "dancing lights"
+                ],
+                "1/day": [
+                    "darkness",
+                    "faerie fire"
+                ]
+            }
         },
         "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },

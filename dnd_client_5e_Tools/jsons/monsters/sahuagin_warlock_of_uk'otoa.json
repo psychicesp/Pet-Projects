@@ -38,17 +38,22 @@
     "traits": {
         "Blood Frenzy": "The warlock has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "eldritch blast",
-                "minor illusion",
-                "armor of Agathys",
-                "arms of Hadar",
-                "counterspell",
-                "crown of madness",
-                "invisibility",
-                "hunger of Hadar"
-            ]
+            "spells": {
+                "At": [
+                    "eldritch blast",
+                    "minor illusion"
+                ],
+                "1/day": [
+                    "armor of Agathys",
+                    "arms of Hadar",
+                    "counterspell",
+                    "crown of madness",
+                    "invisibility",
+                    "hunger of Hadar"
+                ]
+            }
         },
         "Limited Amphibiousness": "The warlock can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.",
         "Shark Telepathy": "The warlock can magically command any shark within 120 feet of it, using a limited telepathy."

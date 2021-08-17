@@ -43,29 +43,44 @@
     "traits": {
         "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "mage hand",
-                "message",
-                "poison spray",
-                "shocking grasp",
-                "ray of frost",
-                "burning hands",
-                "mage armor",
-                "magic missile",
-                "shield",
-                "gust of wind",
-                "invisibility",
-                "misty step",
-                "shatter",
-                "counterspell",
-                "fireball",
-                "haste",
-                "dimension door",
-                "Otiluke's resilient sphere",
-                "cone of cold",
-                "chain lightning"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "mage hand",
+                    "message",
+                    "poison spray",
+                    "shocking grasp",
+                    "ray of frost"
+                ],
+                "1st": [
+                    "burning hands",
+                    "mage armor",
+                    "magic missile",
+                    "shield"
+                ],
+                "2nd": [
+                    "gust of wind",
+                    "invisibility",
+                    "misty step",
+                    "shatter"
+                ],
+                "3rd": [
+                    "counterspell",
+                    "fireball",
+                    "haste"
+                ],
+                "4th": [
+                    "dimension door",
+                    "Otiluke\\'s resilient sphere"
+                ],
+                "5th": [
+                    "cone of cold"
+                ],
+                "6th": [
+                    "chain lightning"
+                ]
+            }
         },
         "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
         "War Magic": "When the drow uses its action to cast a spell, it can make one weapon attack as a bonus action."

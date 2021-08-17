@@ -39,13 +39,18 @@
     "traits": {
         "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "dancing lights",
-                "darkness",
-                "faerie fire",
-                "levitate"
-            ]
+            "spells": {
+                "At": [
+                    "dancing lights"
+                ],
+                "1/day": [
+                    "darkness",
+                    "faerie fire",
+                    "levitate"
+                ]
+            }
         },
         "Shadow Step": "While in dim light or darkness, the drow can teleport as a bonus action up to 60 feet to an unoccupied space it can see that is also in dim light or darkness. It then has advantage on the first melee attack it makes before the end of the turn.",
         "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."

@@ -36,13 +36,18 @@
         "Create Soulblade": "As a bonus action, the duergar can create a shortsword-sized, visible blade of psionic energy. The weapon appears in the duergar's hand and vanishes if it leaves the duergar's grip, or if the duergar dies or is incapacitated.",
         "Duergar Resilience": "The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.",
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "blade ward",
-                "true strike",
-                "jump",
-                "hunter's mark"
-            ]
+            "spells": {
+                "At": [
+                    "blade ward",
+                    "true strike"
+                ],
+                "3/day": [
+                    "jump",
+                    "hunter\\'s mark"
+                ]
+            }
         },
         "Sunlight Sensitivity": "While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },

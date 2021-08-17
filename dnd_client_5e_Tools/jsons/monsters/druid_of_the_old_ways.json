@@ -41,6 +41,7 @@
         "Siege Monster": "The druid deals double damage to objects and structures.",
         "Speak with Beasts and Plants": "The druid can communicate with beasts and plants as if they shared a language.",
         "spellcasting": {
+            "ability": "wisdom",
             "level": 12,
             "type": "druid",
             "spells": [

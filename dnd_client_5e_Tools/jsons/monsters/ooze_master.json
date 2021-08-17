@@ -49,6 +49,7 @@
         "Corrosive Form": "A creature that touches the Ooze Master or hits it with a melee attack while within 5 feet of it takes 9 (2d8) acid damage. Any nonmagical weapon that hits the Ooze Master corrodes. After dealing damage, the weapon takes a permanent and cumulative xe2x88x921 penalty to damage rolls. If its penalty drops to xe2x88x925, the weapon is destroyed. Nonmagical ammunition that hits the Ooze Master is destroyed after dealing damage.",
         "Instinctive Attack": "When the Ooze Master casts a spell with a casting time of 1 action, it can make one pseudopod attack as a bonus action.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 9,
             "type": "wizard",
             "spells": [

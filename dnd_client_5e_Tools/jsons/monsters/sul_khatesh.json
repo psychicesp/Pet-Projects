@@ -52,27 +52,34 @@
     "book": "Eberron: Rising from the Last War",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "counterspell",
-                "detect magic",
-                "detect thoughts",
-                "dispel magic",
-                "eyebite",
-                "fireball",
-                "lightning bolt",
-                "shield",
-                "chain lightning",
-                "create undead",
-                "dream",
-                "hold monster",
-                "mass suggestion",
-                "scrying",
-                "foresight",
-                "gate",
-                "power word kill",
-                "teleport"
-            ]
+            "spells": {
+                "At": [
+                    "counterspell",
+                    "detect magic",
+                    "detect thoughts",
+                    "dispel magic",
+                    "eyebite",
+                    "fireball",
+                    "lightning bolt",
+                    "shield"
+                ],
+                "3/day": [
+                    "chain lightning",
+                    "create undead",
+                    "dream",
+                    "hold monster",
+                    "mass suggestion",
+                    "scrying"
+                ],
+                "1/day": [
+                    "foresight",
+                    "gate",
+                    "power word kill",
+                    "teleport"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Sul Khatesh fails a saving throw, she can choose to succeed instead.",
         "Magic Resistance": "Sul Khatesh has advantage on saving throws against spells and other magical effects.",

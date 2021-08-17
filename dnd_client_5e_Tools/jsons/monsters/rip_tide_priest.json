@@ -35,6 +35,7 @@
     "book": "Ghosts of Saltmarsh",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "level": 5,
             "type": "sorcerer",
             "spells": [

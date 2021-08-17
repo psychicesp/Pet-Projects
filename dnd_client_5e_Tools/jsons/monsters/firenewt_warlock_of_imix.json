@@ -34,18 +34,23 @@
         "Amphibious": "The firenewt can breathe air and water.",
         "Imix's Blessing": "When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "fire bolt",
-                "guidance",
-                "light",
-                "mage hand",
-                "prestidigitation",
-                "burning hands",
-                "flaming sphere",
-                "hellish rebuke",
-                "scorching ray"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "fire bolt",
+                    "guidance",
+                    "light",
+                    "mage hand",
+                    "prestidigitation"
+                ],
+                "1st-2nd": [
+                    "burning hands",
+                    "flaming sphere",
+                    "hellish rebuke",
+                    "scorching ray"
+                ]
+            }
         }
     },
     "actions": {

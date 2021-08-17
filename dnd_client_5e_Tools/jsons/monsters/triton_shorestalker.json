@@ -41,11 +41,14 @@
     "traits": {
         "Amphibious": "The triton can breathe air and water.",
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "fog cloud",
-                "gust of wind"
-            ]
+            "spells": {
+                "1/day": [
+                    "fog cloud",
+                    "gust of wind"
+                ]
+            }
         },
         "Nimble Escape": "The triton can take the Disengage or Hide actions as a bonus action on each of its turns."
     },

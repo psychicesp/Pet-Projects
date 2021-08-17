@@ -48,14 +48,21 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect magic",
-                "dispel magic",
-                "fear",
-                "invisibility",
-                "teleport"
-            ]
+            "spells": {
+                "At": [
+                    "detect magic"
+                ],
+                "3/day": [
+                    "dispel magic",
+                    "fear",
+                    "invisibility"
+                ],
+                "1/day": [
+                    "teleport"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Yeenoghu fails a saving throw, he can choose to succeed instead.",
         "Magic Resistance": "Yeenoghu has advantage on saving throws against spells and other magical effects.",

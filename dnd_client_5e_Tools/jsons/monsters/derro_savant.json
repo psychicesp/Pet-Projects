@@ -33,6 +33,7 @@
     "traits": {
         "Magic Resistance": "The derro savant has advantage on saving throws against spells and other magical effects.",
         "spellcasting": {
+            "ability": "charisma",
             "level": 5,
             "type": "sorcerer",
             "spells": [

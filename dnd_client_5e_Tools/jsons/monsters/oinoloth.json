@@ -52,17 +52,22 @@
     "traits": {
         "Bringer of Plagues (Recharge 5xe2x80x936)": "As a bonus action, the oinoloth blights the area within 30 feet of it. The blight lasts for 24 hours. While blighted, all normal plants in the area wither and die, and the number of hit points restored by a spell to a creature in that area is halved.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "darkness",
-                "detect magic",
-                "dispel magic",
-                "invisibility",
-                "feeblemind",
-                "globe of invulnerability",
-                "wall of fire",
-                "wall of ice"
-            ]
+            "spells": {
+                "At": [
+                    "darkness",
+                    "detect magic",
+                    "dispel magic",
+                    "invisibility"
+                ],
+                "1/day": [
+                    "feeblemind",
+                    "globe of invulnerability",
+                    "wall of fire",
+                    "wall of ice"
+                ]
+            }
         },
         "Magic Resistance": "The oinoloth has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The oinoloth's weapon attacks are magical."

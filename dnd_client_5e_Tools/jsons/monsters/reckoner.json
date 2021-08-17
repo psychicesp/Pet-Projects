@@ -35,6 +35,7 @@
     "traits": {
         "First Strike": "The reckoner has advantage on initiative rolls.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 5,
             "type": "wizard",
             "spells": [

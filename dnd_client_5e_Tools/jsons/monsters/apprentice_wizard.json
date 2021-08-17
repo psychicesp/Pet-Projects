@@ -33,6 +33,7 @@
     "book": "Volo\u00ef\u00bf\u00bds Guide to Monsters",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence (spell save\n                        dc 12+1d4 + 10, +4+1d4 + 2 to hit with spell attacks). it\n                        has the following wizard spells prepared:\n\n\n\ncantrips (at will): fire bolt, mending, prestidigitation\n\n\n1st level (2 slots): burning hands, disguise self, shield\n\n\n",
             "level": 1,
             "type": "wizard",
             "spells": [

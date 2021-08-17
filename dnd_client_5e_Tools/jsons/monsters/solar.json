@@ -47,16 +47,23 @@
         "Angelic Weapons": "The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).",
         "Divine Awareness": "The solar knows if it hears a lie.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect evil and good",
-                "invisibility",
-                "blade barrier",
-                "dispel evil and good",
-                "resurrection",
-                "commune",
-                "control weather"
-            ]
+            "spells": {
+                "At": [
+                    "detect evil and good",
+                    "invisibility"
+                ],
+                "3/day": [
+                    "blade barrier",
+                    "dispel evil and good",
+                    "resurrection"
+                ],
+                "1/day": [
+                    "commune",
+                    "control weather"
+                ]
+            }
         },
         "Magic Resistance": "The solar has advantage on saving throws against spells and other magical effects."
     },

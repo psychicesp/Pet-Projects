@@ -51,22 +51,27 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "alter self",
-                "animate dead",
-                "burning hands",
-                "confusion",
-                "detect magic",
-                "fly",
-                "geas",
-                "major image",
-                "stinking cloud",
-                "suggestion",
-                "wall of fire",
-                "flame strike",
-                "symbol"
-            ]
+            "spells": {
+                "At": [
+                    "alter self",
+                    "animate dead",
+                    "burning hands",
+                    "confusion",
+                    "detect magic",
+                    "fly",
+                    "geas",
+                    "major image",
+                    "stinking cloud",
+                    "suggestion",
+                    "wall of fire"
+                ],
+                "1/day": [
+                    "flame strike",
+                    "symbol"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Moloch fails a saving throw, he can choose to succeed instead.",
         "Magic Resistance": "Moloch has advantage on saving throws against spells and other magical effects.",

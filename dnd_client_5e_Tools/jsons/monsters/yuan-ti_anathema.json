@@ -51,17 +51,24 @@
         "Ophidiophobia Aura": "Any creature of the anathema's choice, other than a snake or a yuan-ti, that starts its turn within 30 feet of the anathema and can see or hear it must succeed on a DC 17+1d8 + 13 Wisdom saving throw or become frightened of snakes and yuan-ti. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this aura for the next 24 hours.",
         "Six Heads": "The anathema has advantage on Wisdom (Perception) checks and on saving throws against being blinded. charmed, deafened, frightened, stunned, or knocked unconscious.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "animal friendship",
-                "darkness",
-                "entangle",
-                "fear",
-                "haste",
-                "suggestion",
-                "polymorph",
-                "divine word"
-            ]
+            "spells": {
+                "At": [
+                    "animal friendship"
+                ],
+                "3/day": [
+                    "darkness",
+                    "entangle",
+                    "fear",
+                    "haste",
+                    "suggestion",
+                    "polymorph"
+                ],
+                "1/day": [
+                    "divine word"
+                ]
+            }
         }
     },
     "actions": {

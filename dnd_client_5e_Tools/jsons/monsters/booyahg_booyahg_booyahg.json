@@ -40,6 +40,7 @@
     "traits": {
         "Nimble Escape": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 9,
             "type": "wizard",
             "spells": [

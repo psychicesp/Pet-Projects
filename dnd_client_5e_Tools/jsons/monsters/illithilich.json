@@ -51,35 +51,56 @@
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "mage hand",
-                "prestidigitation",
-                "ray of frost",
-                "detect magic",
-                "magic missile",
-                "shield",
-                "thunderwave",
-                "detect thoughts",
-                "invisibility",
-                "Melf's acid arrow",
-                "mirror image",
-                "animate dead",
-                "counterspell",
-                "dispel magic",
-                "fireball",
-                "blight",
-                "dimension door",
-                "cloudkill",
-                "scrying",
-                "disintegrate",
-                "globe of invulnerability",
-                "finger of death",
-                "plane shift",
-                "dominate monster",
-                "power word stun",
-                "power word kill"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "mage hand",
+                    "prestidigitation",
+                    "ray of frost"
+                ],
+                "1st": [
+                    "detect magic",
+                    "magic missile",
+                    "shield",
+                    "thunderwave"
+                ],
+                "2nd": [
+                    "detect thoughts",
+                    "invisibility",
+                    "Melf\\'s acid arrow",
+                    "mirror image"
+                ],
+                "3rd": [
+                    "animate dead",
+                    "counterspell",
+                    "dispel magic",
+                    "fireball"
+                ],
+                "4th": [
+                    "blight",
+                    "dimension door"
+                ],
+                "5th": [
+                    "cloudkill",
+                    "scrying"
+                ],
+                "6th": [
+                    "disintegrate",
+                    "globe of invulnerability"
+                ],
+                "7th": [
+                    "finger of death",
+                    "plane shift"
+                ],
+                "8th": [
+                    "dominate monster",
+                    "power word stun"
+                ],
+                "9th": [
+                    "power word kill"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If the illithilich fails a saving throw, it can choose to succeed instead.",
         "Magic Resistance": "The illithilich has advantage on saving throws against spells and other magical effects.",

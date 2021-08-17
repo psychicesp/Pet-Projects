@@ -48,12 +48,15 @@
     "book": "Mythic Odysseys of Theros",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "confusion",
-                "crown of madness",
-                "suggestion"
-            ]
+            "spells": {
+                "1/day": [
+                    "confusion",
+                    "crown of madness",
+                    "suggestion"
+                ]
+            }
         },
         "Insatiable Greed": "The abhorrent overlord can sense the presence of gold within 1,000 feet of itself. It can determine which location has the greatest amount of gold and can sense the direction to that site. If the gold is being moved, it knows the direction of the movement. It can't locate gold if any thickness of clay or lead, even a thin sheet, blocks a direct path between it and the gold.",
         "Magic Resistance": "The abhorrent overlord has advantage on saving throws against spells and other magical effects."

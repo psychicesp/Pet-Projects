@@ -31,20 +31,25 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "druidcraft",
-                "confusion",
-                "dancing lights",
-                "detect evil and good",
-                "detect thoughts",
-                "dispel magic",
-                "entangle",
-                "fly",
-                "phantasmal force",
-                "polymorph",
-                "sleep"
-            ]
+            "spells": {
+                "At": [
+                    "druidcraft"
+                ],
+                "1/day": [
+                    "confusion",
+                    "dancing lights",
+                    "detect evil and good",
+                    "detect thoughts",
+                    "dispel magic",
+                    "entangle",
+                    "fly",
+                    "phantasmal force",
+                    "polymorph",
+                    "sleep"
+                ]
+            }
         },
         "Magic Resistance": "The pixie has advantage on saving throws against spells and other magical effects."
     },

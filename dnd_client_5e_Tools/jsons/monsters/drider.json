@@ -34,12 +34,17 @@
     "traits": {
         "Fey Ancestry": "The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.",
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "dancing lights",
-                "darkness",
-                "faerie fire"
-            ]
+            "spells": {
+                "At": [
+                    "dancing lights"
+                ],
+                "1/day": [
+                    "darkness",
+                    "faerie fire"
+                ]
+            }
         },
         "Spider Climb": "The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
         "Sunlight Sensitivity": "While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",

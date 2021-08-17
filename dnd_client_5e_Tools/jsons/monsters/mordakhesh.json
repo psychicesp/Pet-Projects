@@ -44,19 +44,24 @@
     "book": "Eberron: Rising from the Last War",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "chromatic orb",
-                "detect thoughts",
-                "disguise self",
-                "banishing smite",
-                "destructive wave",
-                "fly",
-                "mass suggestion",
-                "staggering smite",
-                "suggestion",
-                "true seeing"
-            ]
+            "spells": {
+                "At": [
+                    "chromatic orb",
+                    "detect thoughts",
+                    "disguise self"
+                ],
+                "1/day": [
+                    "banishing smite",
+                    "destructive wave",
+                    "fly",
+                    "mass suggestion",
+                    "staggering smite",
+                    "suggestion",
+                    "true seeing"
+                ]
+            }
         },
         "Limited Magic Immunity": "Mordakhesh can't be affected or detected by spells of 6th level or lower unless he wishes to be. Mordakhesh has advantage on saving throws against all other spells and magical effects."
     },

@@ -47,16 +47,21 @@
     "traits": {
         "Dual Mind": "The Inspired has advantage on Wisdom saving throws.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "mage hand",
-                "vicious mockery",
-                "charm person",
-                "dissonant whispers",
-                "hex",
-                "hold person",
-                "mage armor"
-            ]
+            "spells": {
+                "At": [
+                    "mage hand",
+                    "vicious mockery"
+                ],
+                "1/day": [
+                    "charm person",
+                    "dissonant whispers",
+                    "hex",
+                    "hold person",
+                    "mage armor"
+                ]
+            }
         }
     },
     "actions": {

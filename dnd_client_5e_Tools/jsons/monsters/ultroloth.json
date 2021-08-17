@@ -48,22 +48,29 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "alter self",
-                "clairvoyance",
-                "darkness",
-                "detect magic",
-                "detect thoughts",
-                "dispel magic",
-                "invisibility",
-                "suggestion",
-                "dimension door",
-                "fear",
-                "wall of fire",
-                "fire storm",
-                "mass suggestion"
-            ]
+            "spells": {
+                "At": [
+                    "alter self",
+                    "clairvoyance",
+                    "darkness",
+                    "detect magic",
+                    "detect thoughts",
+                    "dispel magic",
+                    "invisibility",
+                    "suggestion"
+                ],
+                "3/day": [
+                    "dimension door",
+                    "fear",
+                    "wall of fire"
+                ],
+                "1/day": [
+                    "fire storm",
+                    "mass suggestion"
+                ]
+            }
         },
         "Magic Resistance": "The ultroloth has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The ultroloth's weapon attacks are magical."

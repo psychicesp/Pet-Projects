@@ -42,37 +42,58 @@
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "light",
-                "mending",
-                "sacred flame",
-                "spare the dying",
-                "thaumaturgy",
-                "command",
-                "cure wounds",
-                "detect evil and good",
-                "protection from evil and good",
-                "sanctuary",
-                "calm emotions",
-                "lesser restoration",
-                "silence",
-                "dispel magic",
-                "remove curse",
-                "sending",
-                "banishment",
-                "freedom of movement",
-                "guardian of faith",
-                "greater restoration",
-                "mass cure wounds",
-                "scrying",
-                "heroes' feast",
-                "true seeing",
-                "etherealness",
-                "plane shift",
-                "control weather",
-                "true resurrection"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "light",
+                    "mending",
+                    "sacred flame",
+                    "spare the dying",
+                    "thaumaturgy"
+                ],
+                "1st": [
+                    "command",
+                    "cure wounds",
+                    "detect evil and good",
+                    "protection from evil and good",
+                    "sanctuary"
+                ],
+                "2nd": [
+                    "calm emotions",
+                    "lesser restoration",
+                    "silence"
+                ],
+                "3rd": [
+                    "dispel magic",
+                    "remove curse",
+                    "sending"
+                ],
+                "4th": [
+                    "banishment",
+                    "freedom of movement",
+                    "guardian of faith"
+                ],
+                "5th": [
+                    "greater restoration",
+                    "mass cure wounds",
+                    "scrying"
+                ],
+                "6th": [
+                    "heroes\\' feast",
+                    "true seeing"
+                ],
+                "7th": [
+                    "etherealness",
+                    "plane shift"
+                ],
+                "8th": [
+                    "control weather"
+                ],
+                "9th": [
+                    "true resurrection"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If the ki-rin fails a saving throw, it can choose to succeed instead.",
         "Magic Resistance": "The ki-rin has advantage on saving throws against spells and other magical effects.",

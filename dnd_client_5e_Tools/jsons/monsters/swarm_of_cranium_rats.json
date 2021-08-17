@@ -37,14 +37,19 @@
     "traits": {
         "Illumination": "As a bonus action, the swarm can shed dim light from its brains in a 5-foot radius, increase the illumination to bright light in a 5 to 20-foot radius (and dim light for an additional number of feet equal to the chosen radius), or extinguish the light.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "command",
-                "comprehend languages",
-                "detect thoughts",
-                "confusion",
-                "dominate monster"
-            ]
+            "spells": {
+                "At": [
+                    "command",
+                    "comprehend languages",
+                    "detect thoughts"
+                ],
+                "1/day": [
+                    "confusion",
+                    "dominate monster"
+                ]
+            }
         },
         "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.",
         "Telepathic Shroud": "The swarm is immune to any effect that would sense its emotions or read its thoughts. as well as to all divination spells."

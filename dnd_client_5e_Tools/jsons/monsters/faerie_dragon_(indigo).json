@@ -35,17 +35,20 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "color spray",
-                "dancing lights",
-                "hallucinatory terrain",
-                "mage hand",
-                "major image",
-                "minor illusion",
-                "mirror image",
-                "suggestion"
-            ]
+            "spells": {
+                "1/day": [
+                    "color spray",
+                    "dancing lights",
+                    "hallucinatory terrain",
+                    "mage hand",
+                    "major image",
+                    "minor illusion",
+                    "mirror image",
+                    "suggestion"
+                ]
+            }
         },
         "Limited Telepathy": "Using telepathy, the dragon can magically communicate with any other faerie dragon within 60 feet of it.",
         "Magic Resistance": "The faerie dragon has advantage on saving throws against spells and other magical effects.",

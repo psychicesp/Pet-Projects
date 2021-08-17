@@ -34,6 +34,7 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "level": 4,
             "type": "druid",
             "spells": [

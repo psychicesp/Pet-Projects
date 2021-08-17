@@ -54,22 +54,29 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "alter self",
-                "animate dead",
-                "bestow curse",
-                "confusion",
-                "major image",
-                "modify memory",
-                "nondetection",
-                "sending",
-                "suggestion",
-                "greater invisibility",
-                "mislead",
-                "feeblemind",
-                "symbol"
-            ]
+            "spells": {
+                "At": [
+                    "alter self",
+                    "animate dead",
+                    "bestow curse",
+                    "confusion",
+                    "major image",
+                    "modify memory",
+                    "nondetection",
+                    "sending",
+                    "suggestion"
+                ],
+                "3/day": [
+                    "greater invisibility",
+                    "mislead"
+                ],
+                "1/day": [
+                    "feeblemind",
+                    "symbol"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Titivilus fails a saving throw, he can choose to succeed instead.",
         "Magic Resistance": "Titivilus has advantage on saving throws against spells and other magical effects.",

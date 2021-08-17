@@ -56,16 +56,23 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "charm person",
-                "darkness",
-                "detect magic",
-                "dispel magic",
-                "gust of wind",
-                "control water",
-                "control weather"
-            ]
+            "spells": {
+                "At": [
+                    "charm person",
+                    "darkness",
+                    "detect magic",
+                    "dispel magic",
+                    "gust of wind"
+                ],
+                "3/day": [
+                    "control water"
+                ],
+                "1/day": [
+                    "control weather"
+                ]
+            }
         },
         "Magic Resistance": "The merrenoloth has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The merrenoloth's weapon attacks are magical.",

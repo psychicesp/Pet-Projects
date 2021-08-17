@@ -38,24 +38,35 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "blade ward",
-                "light",
-                "message",
-                "true strike",
-                "expeditious retreat",
-                "magic missile",
-                "sleep",
-                "thunderwave",
-                "blur",
-                "invisibility",
-                "levitate",
-                "counterspell",
-                "fireball",
-                "haste",
-                "dimension door"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "blade ward",
+                    "light",
+                    "message",
+                    "true strike"
+                ],
+                "1st": [
+                    "expeditious retreat",
+                    "magic missile",
+                    "sleep",
+                    "thunderwave"
+                ],
+                "2nd": [
+                    "blur",
+                    "invisibility",
+                    "levitate"
+                ],
+                "3rd": [
+                    "counterspell",
+                    "fireball",
+                    "haste"
+                ],
+                "4th": [
+                    "dimension door"
+                ]
+            }
         },
         "War Magic": "When the githyanki uses its action to cast a spell, it can make one weapon attack as a bonus action."
     },

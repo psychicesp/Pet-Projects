@@ -40,6 +40,7 @@
     "book": "Lost Mine of Phandelver",
     "traits": {
         "spellcasting": {
+            "ability": " spellcasting. the mage is a 4th-level spellcaster that uses intelligence as its spellcasting ability",
             "level": 4,
             "type": "spells from the wizard\\'s spell list:",
             "spells": [

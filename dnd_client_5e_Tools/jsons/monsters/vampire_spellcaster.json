@@ -45,6 +45,7 @@
         "Misty Escape": "When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.",
         "Regeneration": "The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 9,
             "type": "wizard",
             "spells": [

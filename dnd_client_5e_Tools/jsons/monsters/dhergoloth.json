@@ -43,12 +43,17 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "darkness",
-                "fear",
-                "sleep"
-            ]
+            "spells": {
+                "At": [
+                    "darkness",
+                    "fear"
+                ],
+                "3/day": [
+                    "sleep"
+                ]
+            }
         },
         "Magic Resistance": "The dhergoloth has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The dhergoloth's weapon attacks are magical."

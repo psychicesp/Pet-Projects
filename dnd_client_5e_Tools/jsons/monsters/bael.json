@@ -57,23 +57,30 @@
     "traits": {
         "Dreadful": "Bael can use a bonus action to appear dreadful until the start of his next turn. Each creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22+1d12 + 16 Wisdom saving throw or be frightened until the start of the creature's next turn.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "alter self",
-                "animate dead",
-                "charm person",
-                "detect magic",
-                "inflict wounds",
-                "invisibility",
-                "major image",
-                "counterspell",
-                "dispel magic",
-                "fly",
-                "suggestion",
-                "wall of fire",
-                "dominate monster",
-                "symbol"
-            ]
+            "spells": {
+                "At": [
+                    "alter self",
+                    "animate dead",
+                    "charm person",
+                    "detect magic",
+                    "inflict wounds",
+                    "invisibility",
+                    "major image"
+                ],
+                "3/day": [
+                    "counterspell",
+                    "dispel magic",
+                    "fly",
+                    "suggestion",
+                    "wall of fire"
+                ],
+                "1/day": [
+                    "dominate monster",
+                    "symbol"
+                ]
+            }
         },
         "Legendary Resistance (3/Day)": "If Bael fails a saving throw, he can choose to succeed instead.",
         "Magic Resistance": "Bael has advantage on saving throws against spells and other magical effects.",

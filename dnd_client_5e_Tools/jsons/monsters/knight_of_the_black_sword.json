@@ -37,6 +37,7 @@
         "Dark Devotion": "The fanatic has advantage on saving throws against being charmed or frightened.",
         "Icy Doom": "When the cultist dies, its corpse freezes for 9 days, during which time it can't be thawed, harmed by fire, animated, or raised from the dead.",
         "spellcasting": {
+            "ability": "wisdom",
             "level": 4,
             "type": "cleric",
             "spells": [

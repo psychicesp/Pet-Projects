@@ -40,6 +40,7 @@
     "book": "Volo\u2019s Guide to Monsters",
     "traits": {
         "spellcasting": {
+            "ability": "wisdom",
             "level": 18,
             "type": "druid",
             "spells": [

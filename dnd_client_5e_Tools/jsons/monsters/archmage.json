@@ -43,6 +43,7 @@
     "traits": {
         "Magic Resistance": "The archmage has advantage on saving throws against spells and other magical effects.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 18,
             "type": "wizard",
             "spells": [

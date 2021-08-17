@@ -36,6 +36,7 @@
         "Pack Tactics": "The kobold has advantage on an attack roll against a creature it at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.",
         "Sorcery Points": "The kobold has 3 sorcery points. It regains all its spent sorcery points when it finishes a long rest. It can spend its sorcery points on the following options:",
         "spellcasting": {
+            "ability": "charisma",
             "level": 3,
             "type": "sorcerer",
             "spells": [

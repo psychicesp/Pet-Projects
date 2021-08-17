@@ -36,15 +36,20 @@
     "traits": {
         "Charge": "If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15+1d6 + 12 Strength saving throw or be knocked prone.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect evil and good",
-                "druidcraft",
-                "pass without trace",
-                "calm emotions",
-                "dispel evil and good",
-                "entangle"
-            ]
+            "spells": {
+                "At": [
+                    "detect evil and good",
+                    "druidcraft",
+                    "pass without trace"
+                ],
+                "1/day": [
+                    "calm emotions",
+                    "dispel evil and good",
+                    "entangle"
+                ]
+            }
         },
         "Magic Resistance": "The unicorn has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The unicorn's weapon attacks are magical."

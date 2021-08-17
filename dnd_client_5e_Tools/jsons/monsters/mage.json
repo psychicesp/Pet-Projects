@@ -37,6 +37,7 @@
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "level": 9,
             "type": "wizard",
             "spells": [

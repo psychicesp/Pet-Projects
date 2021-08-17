@@ -27,10 +27,9 @@
     "traits": {
         "Charge": "If the rothxc3xa9 moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.",
         "spellcasting": {
+            "ability": "charisma. it can innately cast dancing lights at will, requiring no components.",
             "type": "innate",
-            "spells": [
-                "dancing lights"
-            ]
+            "spells": {}
         }
     },
     "actions": {

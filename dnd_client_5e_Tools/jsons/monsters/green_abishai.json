@@ -54,17 +54,24 @@
     "traits": {
         "Devil's Sight": "Magical darkness doesn't impede the abishai's darkvision.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "alter self",
-                "major image",
-                "charm person",
-                "detect thoughts",
-                "fear",
-                "confusion",
-                "dominate person",
-                "mass suggestion"
-            ]
+            "spells": {
+                "At": [
+                    "alter self",
+                    "major image"
+                ],
+                "3/day": [
+                    "charm person",
+                    "detect thoughts",
+                    "fear"
+                ],
+                "1/day": [
+                    "confusion",
+                    "dominate person",
+                    "mass suggestion"
+                ]
+            }
         },
         "Magic Resistance": "The abishai has advantage on saving throws against spells and other magical effects.",
         "Magic Weapons": "The abishai's weapon attacks are magical."

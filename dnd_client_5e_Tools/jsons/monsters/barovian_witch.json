@@ -33,6 +33,7 @@
     "book": "Curse of Strahd",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "level": 3,
             "type": "wizard",
             "spells": [

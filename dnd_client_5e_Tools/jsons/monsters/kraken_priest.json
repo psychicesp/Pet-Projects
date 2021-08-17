@@ -35,17 +35,24 @@
     "traits": {
         "Amphibious": "The priest can breathe air and water.",
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "command",
-                "create or destroy water",
-                "control water",
-                "darkness",
-                "water breathing",
-                "water walk",
-                "call lightning",
-                "Evard's black tentacles"
-            ]
+            "spells": {
+                "At": [
+                    "command",
+                    "create or destroy water"
+                ],
+                "3/day": [
+                    "control water",
+                    "darkness",
+                    "water breathing",
+                    "water walk"
+                ],
+                "1/day": [
+                    "call lightning",
+                    "Evard\\'s black tentacles"
+                ]
+            }
         }
     },
     "actions": {

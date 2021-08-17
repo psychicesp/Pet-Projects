@@ -44,15 +44,20 @@
     "book": "Tales from the Yawning Portal",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "darkness",
-                "detect magic",
-                "dispel magic",
-                "confusion",
-                "fly",
-                "power word stun"
-            ]
+            "spells": {
+                "At": [
+                    "darkness",
+                    "detect magic",
+                    "dispel magic"
+                ],
+                "1/day": [
+                    "confusion",
+                    "fly",
+                    "power word stun"
+                ]
+            }
         },
         "Magic Resistance": "The glabrezu has advantage on saving throws against spells and other magical effects."
     },

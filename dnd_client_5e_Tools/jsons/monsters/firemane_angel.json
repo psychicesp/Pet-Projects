@@ -44,13 +44,18 @@
     "traits": {
         "Flyby": "The angel doesn't provoke an opportunity attack when it flies out of an enemy's reach.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "compelled duel",
-                "guiding bolt",
-                "daylight",
-                "fireball"
-            ]
+            "spells": {
+                "3/day": [
+                    "compelled duel",
+                    "guiding bolt"
+                ],
+                "1/day": [
+                    "daylight",
+                    "fireball"
+                ]
+            }
         },
         "Magic Resistance": "The angel has advantage on saving throws against spells and other magical effects.",
         "Relentless (Recharges after a Short or Long Rest)": "If the angel takes 21 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead."

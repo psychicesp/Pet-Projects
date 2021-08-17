@@ -41,11 +41,16 @@
     "book": "Eberron: Rising from the Last War",
     "traits": {
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "charm person",
-                "fear"
-            ]
+            "spells": {
+                "At": [
+                    "charm person"
+                ],
+                "1/day": [
+                    "fear"
+                ]
+            }
         }
     },
     "actions": {

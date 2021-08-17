@@ -38,18 +38,25 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "mage hand",
-                "jump",
-                "levitate",
-                "misty step",
-                "nondetection",
-                "Bigby's hand",
-                "mass suggestion",
-                "plane shift",
-                "telekinesis"
-            ]
+            "spells": {
+                "At": [
+                    "mage hand"
+                ],
+                "3/day": [
+                    "jump",
+                    "levitate",
+                    "misty step",
+                    "nondetection"
+                ],
+                "1/day": [
+                    "Bigby\\'s hand",
+                    "mass suggestion",
+                    "plane shift",
+                    "telekinesis"
+                ]
+            }
         }
     },
     "actions": {

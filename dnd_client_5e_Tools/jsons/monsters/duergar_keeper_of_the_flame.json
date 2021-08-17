@@ -33,17 +33,24 @@
     "traits": {
         "Duergar Resilience": "The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.",
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "guidance",
-                "mending",
-                "sacred flame",
-                "bane",
-                "inflict wounds",
-                "shield of faith",
-                "enhance ability",
-                "spiritual weapon"
-            ]
+            "spells": {
+                "Cantrips": [
+                    "guidance",
+                    "mending",
+                    "sacred flame"
+                ],
+                "1st": [
+                    "bane",
+                    "inflict wounds",
+                    "shield of faith"
+                ],
+                "2nd": [
+                    "enhance ability",
+                    "spiritual weapon"
+                ]
+            }
         },
         "Sunlight Sensitivity": "While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
     },

@@ -52,6 +52,7 @@
         "Magic Resistance": "Jarad has advantage on saving throws against spells and other magical effects.",
         "Regeneration": "Jarad regains 25 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. He dies only if he starts its turn with 0 hit points and doesn't regenerate.",
         "spellcasting": {
+            "ability": "intelligence",
             "level": 14,
             "type": "wizard",
             "spells": [

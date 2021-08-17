@@ -48,6 +48,7 @@
         "Legendary Resistance (3/Day)": "If the skull lord fails a saving throw, it can choose to succeed instead.",
         "Master of the Grave": "While within 30 feet of the skull lord, any undead ally of the skull lord makes saving throws with advantage, and that ally regains 1d6 hit points whenever it starts its turn there.",
         "spellcasting": {
+            "ability": "charisma",
             "level": 13,
             "type": "sorcerer",
             "spells": [

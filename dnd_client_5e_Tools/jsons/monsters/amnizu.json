@@ -56,15 +56,22 @@
     "traits": {
         "Devil's Sight": "Magical darkness doesn't impede the amnizu's darkvision.",
         "spellcasting": {
+            "ability": "intelligence",
             "type": "innate",
-            "spells": [
-                "charm person",
-                "command",
-                "dominate person",
-                "fireball",
-                "dominate monster",
-                "feeblemind"
-            ]
+            "spells": {
+                "At": [
+                    "charm person",
+                    "command"
+                ],
+                "3/day": [
+                    "dominate person",
+                    "fireball"
+                ],
+                "1/day": [
+                    "dominate monster",
+                    "feeblemind"
+                ]
+            }
         },
         "Magic Resistance": "The amnizu has advantage on saving throws against spells and other magical effects."
     },

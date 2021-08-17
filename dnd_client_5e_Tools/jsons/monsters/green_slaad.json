@@ -39,15 +39,22 @@
     "traits": {
         "Shapechanger": "The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
         "spellcasting": {
+            "ability": "charisma",
             "type": "innate",
-            "spells": [
-                "detect magic",
-                "detect thoughts",
-                "mage hand",
-                "fear",
-                "invisibility",
-                "fireball"
-            ]
+            "spells": {
+                "At": [
+                    "detect magic",
+                    "detect thoughts",
+                    "mage hand"
+                ],
+                "2/day": [
+                    "fear",
+                    "invisibility"
+                ],
+                "1/day": [
+                    "fireball"
+                ]
+            }
         },
         "Magic Resistance": "The slaad has advantage on saving throws against spells and other magical effects.",
         "Regeneration": "The slaad regains 10 hit points at the start of its turn if it has at least 1 hit point."

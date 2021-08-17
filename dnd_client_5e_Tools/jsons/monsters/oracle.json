@@ -37,18 +37,25 @@
     "traits": {
         "Blessings of the Gods": "While the oracle is wearing no armor and wielding no shield, its AC includes its Wisdom modifier. In addition, a creature that hits the oracle with a melee attack while within 5 feet of it takes 9 (2d8) force damage.",
         "spellcasting": {
+            "ability": "wisdom",
             "type": "innate",
-            "spells": [
-                "guidance",
-                "light",
-                "thaumaturgy",
-                "bless",
-                "guiding bolt",
-                "healing word",
-                "hold person",
-                "augury",
-                "scrying"
-            ]
+            "spells": {
+                "At": [
+                    "guidance",
+                    "light",
+                    "thaumaturgy"
+                ],
+                "3/day": [
+                    "bless",
+                    "guiding bolt",
+                    "healing word",
+                    "hold person"
+                ],
+                "1/day": [
+                    "augury",
+                    "scrying"
+                ]
+            }
         }
     },
     "actions": {

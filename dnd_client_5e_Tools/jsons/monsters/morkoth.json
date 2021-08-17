@@ -45,6 +45,7 @@
     "traits": {
         "Amphibious": "The morkoth can breathe air and water.",
         "spellcasting": {
+            "ability": "intelligence (save dc 17+1d8 + 13, +9+1d8 + 5 to hit with spell attacks). the morkoth has the following wizard spells prepared:cantrips (at will): acid splash, mage hand, mending, ray of frost, shocking grasp1st level (4 slots): detect magic, identify, shield, witch bolt2nd level (3 slots): darkness, detect thoughts, shatter3rd level (3 slots): dispel magic, lightning bolt, sending4th level (3 slots): dimension door, evard\\'s black tentacles5th level (3 slots): geas, scrying6th level (1 slot): chain lightning",
             "level": 11,
             "type": "wizard",
             "spells": [
