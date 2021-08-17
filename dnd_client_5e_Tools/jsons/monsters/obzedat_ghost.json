@@ -51,7 +51,7 @@
             "ability": "wisdom",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "chill touch"
                 ],
                 "1/day": [

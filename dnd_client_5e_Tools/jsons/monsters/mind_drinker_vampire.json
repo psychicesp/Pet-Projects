@@ -46,7 +46,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "message"
                 ],
                 "3/day": [

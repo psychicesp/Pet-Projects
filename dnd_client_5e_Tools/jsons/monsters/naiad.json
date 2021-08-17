@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "7d8",
     "strength": "10",
     "dexterity": "16",
     "constitution": "11",
@@ -8,8 +9,6 @@
     "charisma": "18",
     "persuasion": "+6",
     "name": "Naiad",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 7,
     "HP": "31 (7d8)",
     "AC": 15,
     "speed": [
@@ -46,7 +45,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "minor illusion"
                 ],
                 "3/day": [

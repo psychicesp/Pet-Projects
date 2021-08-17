@@ -41,7 +41,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "create or destroy water",
                     "detect evil and good",
                     "detect magic",

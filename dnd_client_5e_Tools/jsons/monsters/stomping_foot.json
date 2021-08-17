@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "1d4",
     "strength": "13",
     "dexterity": "14",
     "constitution": "11",
@@ -7,8 +8,6 @@
     "wisdom": "10",
     "charisma": "4",
     "name": "Stomping Foot",
-    "hit_dice_type": "d4",
-    "num_hit_dice": 1,
     "HP": "2 (1d4)",
     "AC": "",
     "speed": [

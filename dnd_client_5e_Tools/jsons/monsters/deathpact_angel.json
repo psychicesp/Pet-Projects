@@ -52,7 +52,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "command",
                     "detect evil and good"
                 ],

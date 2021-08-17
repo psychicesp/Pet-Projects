@@ -41,7 +41,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "dancing lights",
                     "minor illusion",
                     "vicious mockery"

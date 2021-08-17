@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "10d8",
     "strength": "7",
     "dexterity": "13",
     "constitution": "10",
@@ -7,8 +8,6 @@
     "wisdom": "12",
     "charisma": "17",
     "name": "Ghost",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 10,
     "HP": "45 (10d8)",
     "AC": 11,
     "speed": [

@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "2d6",
     "strength": "6",
     "dexterity": "15",
     "constitution": "10",
@@ -10,8 +11,6 @@
     "history": "+4",
     "religion": "+4",
     "name": "Flumph",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 2,
     "HP": "7 (2d6)",
     "AC": 12,
     "speed": [

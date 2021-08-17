@@ -47,7 +47,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "chromatic orb",
                     "detect thoughts",
                     "disguise self"

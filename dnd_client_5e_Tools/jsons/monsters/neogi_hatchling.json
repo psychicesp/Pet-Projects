@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "3d4",
     "strength": "3",
     "dexterity": "13",
     "constitution": "10",
@@ -7,8 +8,6 @@
     "wisdom": "10",
     "charisma": "9",
     "name": "Neogi Hatchling",
-    "hit_dice_type": "d4",
-    "num_hit_dice": 3,
     "HP": "7 (3d4)",
     "AC": 11,
     "speed": [

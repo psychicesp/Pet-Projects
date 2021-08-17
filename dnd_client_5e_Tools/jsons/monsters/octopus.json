@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "1d6",
     "strength": "4",
     "dexterity": "15",
     "constitution": "11",
@@ -9,8 +10,6 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Octopus",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 1,
     "HP": "3 (1d6)",
     "AC": 12,
     "speed": [

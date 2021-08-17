@@ -57,7 +57,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "levitate",
                     "minor illusion",
                     "pass without trace"

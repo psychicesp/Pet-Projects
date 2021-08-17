@@ -46,7 +46,7 @@
             "ability": "wisdom (save dc 13+1d6 + 10). it can innately cast the following spells, requiring no components:at will: commune with nature, meld into stone, stone shape1/day each: conjure elemental (as 6th-level spell; galeb duhr, gargoyle, earth elemental, or xorn only), otto\\'s irresistible dance",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "commune with nature",
                     "meld into stone",
                     "stone shape"

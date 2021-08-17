@@ -47,7 +47,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "animal friendship",
                     "eldritch blast",
                     "minor illusion",

@@ -2,6 +2,7 @@
     "tags": [
         "of"
     ],
+    "hit": "8d8",
     "strength": "9",
     "dexterity": "14",
     "constitution": "10",
@@ -9,8 +10,6 @@
     "wisdom": "11",
     "charisma": "14",
     "name": "Swarm of Cranium Rats",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 8,
     "HP": "36 (8d8)",
     "AC": 12,
     "speed": [
@@ -40,7 +39,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "command",
                     "comprehend languages",
                     "detect thoughts"

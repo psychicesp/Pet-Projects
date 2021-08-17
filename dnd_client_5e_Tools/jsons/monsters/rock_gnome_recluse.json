@@ -2,6 +2,7 @@
     "tags": [
         "gnome"
     ],
+    "hit": "2d6",
     "strength": "6",
     "dexterity": "11",
     "constitution": "10",
@@ -11,8 +12,6 @@
     "arcana": "+4",
     "history": "+4",
     "name": "Rock Gnome Recluse",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 2,
     "HP": "7 (2d6)",
     "AC": 10,
     "speed": [

@@ -36,7 +36,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "friends",
                     "mage hand"
                 ],

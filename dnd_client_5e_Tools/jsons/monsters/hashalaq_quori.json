@@ -48,7 +48,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "charm person"
                 ],
                 "3/day": [

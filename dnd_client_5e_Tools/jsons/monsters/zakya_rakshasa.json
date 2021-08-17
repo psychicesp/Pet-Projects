@@ -38,7 +38,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "detect thoughts",
                     "disguise self"
                 ],

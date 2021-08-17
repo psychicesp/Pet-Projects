@@ -42,7 +42,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "dancing lights"
                 ],
                 "1/day": [

@@ -2,6 +2,7 @@
     "tags": [
         "any"
     ],
+    "hit": "1d8",
     "strength": "10",
     "dexterity": "10",
     "constitution": "10",
@@ -9,8 +10,6 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Commoner",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 1,
     "HP": "4 (1d8)",
     "AC": 10,
     "speed": [

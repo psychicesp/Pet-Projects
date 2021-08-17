@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "5d6",
     "strength": "5",
     "dexterity": "14",
     "constitution": "10",
@@ -9,8 +10,6 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Dust Mephit",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 5,
     "HP": "17 (5d6)",
     "AC": 12,
     "speed": [

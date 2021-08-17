@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "4d8",
     "strength": "3",
     "dexterity": "1",
     "constitution": "10",
@@ -7,8 +8,6 @@
     "wisdom": "3",
     "charisma": "1",
     "name": "Violet Fungus",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 4,
     "HP": "18 (4d8)",
     "AC": 5,
     "speed": [

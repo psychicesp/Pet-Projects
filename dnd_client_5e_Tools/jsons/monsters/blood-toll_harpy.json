@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "2d8",
     "strength": "12",
     "dexterity": "13",
     "constitution": "10",
@@ -8,8 +9,6 @@
     "charisma": "13",
     "intimidation": "+3",
     "name": "Blood-Toll Harpy",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 2,
     "HP": "9 (2d8)",
     "AC": 11,
     "speed": [

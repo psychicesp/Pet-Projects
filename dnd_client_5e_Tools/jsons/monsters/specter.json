@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "5d8",
     "strength": "1",
     "dexterity": "14",
     "constitution": "11",
@@ -7,8 +8,6 @@
     "wisdom": "10",
     "charisma": "11",
     "name": "Specter",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 5,
     "HP": "22 (5d8)",
     "AC": 12,
     "speed": [

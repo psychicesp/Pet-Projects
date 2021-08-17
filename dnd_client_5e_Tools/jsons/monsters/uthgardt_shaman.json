@@ -40,7 +40,7 @@
             "ability": "wisdom",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "dancing lights",
                     "message",
                     "mage hand",

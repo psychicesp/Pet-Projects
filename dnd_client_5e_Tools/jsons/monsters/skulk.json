@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "4d8",
     "strength": "6",
     "dexterity": "19",
     "constitution": "10",
@@ -8,8 +9,6 @@
     "charisma": "1",
     "stealth": "+8",
     "name": "Skulk",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 4,
     "HP": "18 (4d8)",
     "AC": 14,
     "speed": [

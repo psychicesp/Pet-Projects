@@ -2,6 +2,7 @@
     "tags": [
         "any"
     ],
+    "hit": "9d8",
     "strength": "9",
     "dexterity": "14",
     "constitution": "11",
@@ -11,8 +12,6 @@
     "arcana": "+6",
     "history": "+6",
     "name": "Conjurer",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 9,
     "HP": "40 (9d8)",
     "AC": 12,
     "speed": [

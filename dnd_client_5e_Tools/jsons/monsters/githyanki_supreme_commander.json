@@ -41,7 +41,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "mage hand"
                 ],
                 "3/day": [

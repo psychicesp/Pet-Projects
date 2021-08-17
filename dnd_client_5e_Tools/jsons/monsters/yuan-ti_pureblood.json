@@ -2,6 +2,7 @@
     "tags": [
         "yuan-ti"
     ],
+    "hit": "9d8",
     "strength": "11",
     "dexterity": "12",
     "constitution": "11",
@@ -12,8 +13,6 @@
     "perception": "+3",
     "stealth": "+3",
     "name": "Yuan-ti Pureblood",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 9,
     "HP": "40 (9d8)",
     "AC": 11,
     "speed": [
@@ -48,7 +47,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "animal friendship"
                 ],
                 "3/day": [

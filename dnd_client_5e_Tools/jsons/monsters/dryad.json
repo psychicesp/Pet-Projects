@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "5d8",
     "strength": "10",
     "dexterity": "12",
     "constitution": "11",
@@ -9,8 +10,6 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Dryad",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 5,
     "HP": "22 (5d8)",
     "AC": 11,
     "speed": [
@@ -37,7 +36,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "druidcraft"
                 ],
                 "3/day": [

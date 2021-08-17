@@ -34,7 +34,7 @@
             "ability": "charisma. it can innately cast the following spells, requiring no material components:at will: detect magic, fog cloud, light3/day each: feather fall, fly, misty step, telekinesis1/day each: control weather, gaseous form",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "detect magic",
                     "fog cloud",
                     "light"

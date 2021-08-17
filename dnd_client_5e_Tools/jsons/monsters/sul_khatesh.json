@@ -55,7 +55,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "counterspell",
                     "detect magic",
                     "detect thoughts",

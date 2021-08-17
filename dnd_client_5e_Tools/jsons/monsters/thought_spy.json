@@ -2,6 +2,7 @@
     "tags": [
         "any"
     ],
+    "hit": "6d8",
     "strength": "11",
     "dexterity": "14",
     "constitution": "10",
@@ -14,8 +15,6 @@
     "perception": "+3",
     "stealth": "+4",
     "name": "Thought Spy",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 6,
     "HP": "27 (6d8)",
     "AC": 13,
     "speed": [
@@ -46,7 +45,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "charm person",
                     "disguise self",
                     "encode thoughts"

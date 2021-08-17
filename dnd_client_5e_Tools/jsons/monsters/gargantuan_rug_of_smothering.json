@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "6d20",
     "strength": "17",
     "dexterity": "14",
     "constitution": "10",
@@ -7,8 +8,6 @@
     "wisdom": "3",
     "charisma": "1",
     "name": "Gargantuan Rug of Smothering",
-    "hit_dice_type": "d20",
-    "num_hit_dice": 6,
     "HP": "63 (6d20)",
     "AC": 12,
     "speed": [

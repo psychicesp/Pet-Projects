@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "1d8",
     "strength": "11",
     "dexterity": "16",
     "constitution": "11",
@@ -7,8 +8,6 @@
     "wisdom": "14",
     "charisma": "5",
     "name": "Deer",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 1,
     "HP": "4 (1d8)",
     "AC": 13,
     "speed": [

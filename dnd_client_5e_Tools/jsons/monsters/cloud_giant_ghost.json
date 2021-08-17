@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "16d12",
     "strength": "27",
     "dexterity": "11",
     "constitution": "10",
@@ -8,8 +9,6 @@
     "charisma": "17",
     "perception": "+7",
     "name": "Cloud Giant Ghost",
-    "hit_dice_type": "d12",
-    "num_hit_dice": 16,
     "HP": "104 (16d12)",
     "AC": 15,
     "speed": [

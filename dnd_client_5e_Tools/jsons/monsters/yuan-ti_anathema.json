@@ -54,7 +54,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "animal friendship"
                 ],
                 "3/day": [

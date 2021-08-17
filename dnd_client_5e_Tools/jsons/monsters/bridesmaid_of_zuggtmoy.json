@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "5d8",
     "strength": "14",
     "dexterity": "11",
     "constitution": "11",
@@ -7,8 +8,6 @@
     "wisdom": "8",
     "charisma": "18",
     "name": "Bridesmaid of Zuggtmoy",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 5,
     "HP": "22 (5d8)",
     "AC": 13,
     "speed": [

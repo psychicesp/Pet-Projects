@@ -38,7 +38,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "dancing lights",
                     "mage hand"
                 ],

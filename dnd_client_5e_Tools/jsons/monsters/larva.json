@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "2d8",
     "strength": "9",
     "dexterity": "9",
     "constitution": "10",
@@ -7,8 +8,6 @@
     "wisdom": "10",
     "charisma": "2",
     "name": "Larva",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 2,
     "HP": "9 (2d8)",
     "AC": 9,
     "speed": [

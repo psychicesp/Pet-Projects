@@ -58,7 +58,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "darkness",
                     "detect magic",
                     "dispel magic",

@@ -213,6 +213,8 @@ def html_to_json(file_name, save = True):
                     for box in trait.find_all("li", {"class":"rd__li rd__li-spell"}):
                         print(box.p.text)
                         par_diem = box.p.text.replace(':', '').strip().split(' ')[0]
+                        if par_diem == 'At':
+                            par_diem = 'at will' 
                         spell_dict[par_diem] = []
                         for a in box.find_all('a'):
                             spell_dict[par_diem].append(a.text)

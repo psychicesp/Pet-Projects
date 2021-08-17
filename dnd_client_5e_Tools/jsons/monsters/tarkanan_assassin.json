@@ -42,7 +42,7 @@
             "ability": "constitution (+4+1d4 + 2 to hit with spell attacks). it can innately cast the following spells, requiring no material components:at will: fire bolt1/day: chromatic orb",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "fire bolt"
                 ],
                 "1/day": [

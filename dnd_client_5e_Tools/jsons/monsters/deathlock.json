@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "8d8",
     "strength": "11",
     "dexterity": "15",
     "constitution": "10",
@@ -9,8 +10,6 @@
     "arcana": "+4",
     "history": "+4",
     "name": "Deathlock",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 8,
     "HP": "36 (8d8)",
     "AC": 12,
     "speed": [

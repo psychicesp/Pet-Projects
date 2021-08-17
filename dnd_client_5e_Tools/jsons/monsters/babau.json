@@ -46,7 +46,7 @@
             "ability": "wisdom",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "darkness",
                     "dispel magic",
                     "fear",

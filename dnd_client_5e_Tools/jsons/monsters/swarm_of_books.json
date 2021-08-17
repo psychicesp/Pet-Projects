@@ -2,6 +2,7 @@
     "tags": [
         "of"
     ],
+    "hit": "5d8",
     "strength": "5",
     "dexterity": "15",
     "constitution": "10",
@@ -9,8 +10,6 @@
     "wisdom": "12",
     "charisma": "4",
     "name": "Swarm of Books",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 5,
     "HP": "22 (5d8)",
     "AC": 12,
     "speed": [

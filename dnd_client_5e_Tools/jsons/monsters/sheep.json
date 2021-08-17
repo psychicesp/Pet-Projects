@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "1d6",
     "strength": "12",
     "dexterity": "10",
     "constitution": "11",
@@ -7,8 +8,6 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Sheep",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 1,
     "HP": "3 (1d6)",
     "AC": 10,
     "speed": [

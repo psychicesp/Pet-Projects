@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "3d8",
     "strength": "10",
     "dexterity": "14",
     "constitution": "10",
@@ -7,8 +8,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Metal Wasp",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 3,
     "HP": "13 (3d8)",
     "AC": 16,
     "speed": [

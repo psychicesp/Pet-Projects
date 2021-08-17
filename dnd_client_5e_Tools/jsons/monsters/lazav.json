@@ -56,7 +56,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "detect thoughts",
                     "encode thoughts",
                     "freedom of movement",

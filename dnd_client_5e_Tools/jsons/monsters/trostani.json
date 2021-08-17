@@ -50,7 +50,7 @@
             "ability": "wisdom",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "dispel magic",
                     "druidcraft"
                 ],

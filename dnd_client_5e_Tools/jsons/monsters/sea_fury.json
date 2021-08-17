@@ -49,7 +49,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "witch bolt"
                 ],
                 "1/day": [

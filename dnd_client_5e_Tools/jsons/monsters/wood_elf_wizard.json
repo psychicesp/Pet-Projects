@@ -2,6 +2,7 @@
     "tags": [
         "elf"
     ],
+    "hit": "10d8",
     "strength": "9",
     "dexterity": "14",
     "constitution": "10",
@@ -13,8 +14,6 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Wood Elf Wizard",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 10,
     "HP": "45 (10d8)",
     "AC": 12,
     "speed": [

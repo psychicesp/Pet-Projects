@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "32d4",
     "strength": "1",
     "dexterity": "20",
     "constitution": "10",
@@ -7,8 +8,6 @@
     "wisdom": "17",
     "charisma": "20",
     "name": "Demilich",
-    "hit_dice_type": "d4",
-    "num_hit_dice": 32,
     "HP": "80 (32d4)",
     "AC": 20,
     "speed": [

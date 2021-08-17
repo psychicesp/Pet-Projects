@@ -46,7 +46,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "detect magic",
                     "disguise self",
                     "mage armor"

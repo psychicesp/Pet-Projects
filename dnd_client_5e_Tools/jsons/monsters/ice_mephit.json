@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "6d6",
     "strength": "7",
     "dexterity": "13",
     "constitution": "10",
@@ -9,8 +10,6 @@
     "perception": "+2",
     "stealth": "+3",
     "name": "Ice Mephit",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 6,
     "HP": "21 (6d6)",
     "AC": 11,
     "speed": [

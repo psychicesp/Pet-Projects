@@ -40,7 +40,7 @@
             "ability": "wisdom",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "guidance",
                     "light",
                     "thaumaturgy"

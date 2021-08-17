@@ -2,6 +2,7 @@
     "tags": [
         "goblinoid"
     ],
+    "hit": "2d6",
     "strength": "8",
     "dexterity": "14",
     "constitution": "10",
@@ -10,8 +11,6 @@
     "charisma": "8",
     "stealth": "+6",
     "name": "Goblin",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 2,
     "HP": "7 (2d6)",
     "AC": 15,
     "speed": [

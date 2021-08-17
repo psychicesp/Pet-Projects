@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "6d6",
     "strength": "5",
     "dexterity": "11",
     "constitution": "10",
@@ -7,8 +8,6 @@
     "wisdom": "10",
     "charisma": "12",
     "name": "Steam Mephit",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 6,
     "HP": "21 (6d6)",
     "AC": 10,
     "speed": [

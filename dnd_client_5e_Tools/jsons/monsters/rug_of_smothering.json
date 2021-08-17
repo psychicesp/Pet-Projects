@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "6d10",
     "strength": "17",
     "dexterity": "14",
     "constitution": "10",
@@ -7,8 +8,6 @@
     "wisdom": "3",
     "charisma": "1",
     "name": "Rug of Smothering",
-    "hit_dice_type": "d10",
-    "num_hit_dice": 6,
     "HP": "33 (6d10)",
     "AC": 12,
     "speed": [

@@ -2,6 +2,7 @@
     "tags": [
         "kenku"
     ],
+    "hit": "3d8",
     "strength": "10",
     "dexterity": "16",
     "constitution": "10",
@@ -12,8 +13,6 @@
     "perception": "+2",
     "stealth": "+5",
     "name": "Kenku",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 3,
     "HP": "13 (3d8)",
     "AC": 13,
     "speed": [

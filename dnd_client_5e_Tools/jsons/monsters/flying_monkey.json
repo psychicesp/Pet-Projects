@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "1d6",
     "strength": "8",
     "dexterity": "14",
     "constitution": "11",
@@ -7,8 +8,6 @@
     "wisdom": "12",
     "charisma": "6",
     "name": "Flying Monkey",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 1,
     "HP": "3 (1d6)",
     "AC": 12,
     "speed": [

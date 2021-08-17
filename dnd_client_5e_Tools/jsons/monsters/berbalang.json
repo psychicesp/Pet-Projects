@@ -44,7 +44,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "speak with dead"
                 ],
                 "1/day": [

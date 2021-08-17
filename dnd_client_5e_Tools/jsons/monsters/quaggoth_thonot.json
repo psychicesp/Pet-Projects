@@ -41,7 +41,7 @@
             "ability": "wisdom",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "feather fall",
                     "mage hand"
                 ],

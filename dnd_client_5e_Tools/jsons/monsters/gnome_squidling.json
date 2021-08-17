@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "3d6",
     "strength": "4",
     "dexterity": "7",
     "constitution": "10",
@@ -7,8 +8,6 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Gnome Squidling",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 3,
     "HP": "10 (3d6)",
     "AC": 8,
     "speed": [

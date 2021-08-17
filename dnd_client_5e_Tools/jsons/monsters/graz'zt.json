@@ -56,7 +56,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "charm person",
                     "crown of madness",
                     "detect magic",

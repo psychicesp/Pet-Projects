@@ -2,6 +2,7 @@
     "tags": [
         "any"
     ],
+    "hit": "11d8",
     "strength": "10",
     "dexterity": "14",
     "constitution": "10",
@@ -13,8 +14,6 @@
     "insight": "+5",
     "persuasion": "+6",
     "name": "Mind Mage",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 11,
     "HP": "49 (11d8)",
     "AC": 12,
     "speed": [
@@ -45,7 +44,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "encode thoughts",
                     "friends"
                 ],

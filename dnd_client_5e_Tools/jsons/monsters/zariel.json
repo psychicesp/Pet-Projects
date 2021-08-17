@@ -53,7 +53,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "alter self",
                     "detect evil and good",
                     "fireball",

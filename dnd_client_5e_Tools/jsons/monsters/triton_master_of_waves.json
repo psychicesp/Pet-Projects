@@ -48,7 +48,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "ray of frost"
                 ],
                 "2/day": [

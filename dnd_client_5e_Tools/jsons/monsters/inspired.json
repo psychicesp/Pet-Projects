@@ -2,6 +2,7 @@
     "tags": [
         "human"
     ],
+    "hit": "9d8",
     "strength": "11",
     "dexterity": "14",
     "constitution": "10",
@@ -12,8 +13,6 @@
     "insight": "+2",
     "persuasion": "+7",
     "name": "Inspired",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 9,
     "HP": "40 (9d8)",
     "AC": 12,
     "speed": [
@@ -50,7 +49,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "mage hand",
                     "vicious mockery"
                 ],

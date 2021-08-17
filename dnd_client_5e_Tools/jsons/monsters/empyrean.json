@@ -46,7 +46,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "greater restoration",
                     "pass without trace",
                     "water breathing",

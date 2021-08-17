@@ -53,7 +53,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "detect magic",
                     "major image"
                 ],

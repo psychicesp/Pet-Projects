@@ -45,7 +45,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "detect thoughts",
                     "levitate"
                 ],

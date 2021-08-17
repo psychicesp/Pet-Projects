@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "5d6",
     "strength": "6",
     "dexterity": "13",
     "constitution": "10",
@@ -7,8 +8,6 @@
     "wisdom": "11",
     "charisma": "6",
     "name": "Star Spawn Grue",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 5,
     "HP": "17 (5d6)",
     "AC": 11,
     "speed": [

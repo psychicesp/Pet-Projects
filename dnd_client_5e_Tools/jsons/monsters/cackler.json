@@ -2,6 +2,7 @@
     "tags": [
         "demon"
     ],
+    "hit": "3d6",
     "strength": "9",
     "dexterity": "16",
     "constitution": "11",
@@ -12,8 +13,6 @@
     "perception": "+0",
     "performance": "+3",
     "name": "Cackler",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 3,
     "HP": "10 (3d6)",
     "AC": 15,
     "speed": [
@@ -51,7 +50,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "fire bolt"
                 ],
                 "1/day": [

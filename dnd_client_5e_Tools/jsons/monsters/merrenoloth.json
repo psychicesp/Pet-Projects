@@ -2,6 +2,7 @@
     "tags": [
         "yugoloth"
     ],
+    "hit": "9d8",
     "strength": "8",
     "dexterity": "17",
     "constitution": "10",
@@ -13,8 +14,6 @@
     "perception": "+4",
     "survival": "+4",
     "name": "Merrenoloth",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 9,
     "HP": "40 (9d8)",
     "AC": 13,
     "speed": [
@@ -59,7 +58,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "charm person",
                     "darkness",
                     "detect magic",

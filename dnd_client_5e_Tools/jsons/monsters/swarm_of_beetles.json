@@ -2,6 +2,7 @@
     "tags": [
         "of"
     ],
+    "hit": "5d8",
     "strength": "3",
     "dexterity": "13",
     "constitution": "10",
@@ -9,8 +10,6 @@
     "wisdom": "7",
     "charisma": "1",
     "name": "Swarm of Beetles",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 5,
     "HP": "22 (5d8)",
     "AC": 12,
     "speed": [

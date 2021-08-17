@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "6d8",
     "strength": "14",
     "dexterity": "14",
     "constitution": "11",
@@ -7,8 +8,6 @@
     "wisdom": "14",
     "charisma": "5",
     "name": "Grick",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 6,
     "HP": "27 (6d8)",
     "AC": 14,
     "speed": [

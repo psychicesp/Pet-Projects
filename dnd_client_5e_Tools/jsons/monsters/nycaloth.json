@@ -52,7 +52,7 @@
             "ability": "charisma. the nycaloth can innately cast the following spells, requiring no material components:at will: darkness, detect magic, dispel magic, invisibility (self only), mirror image",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "darkness",
                     "detect magic",
                     "dispel magic",

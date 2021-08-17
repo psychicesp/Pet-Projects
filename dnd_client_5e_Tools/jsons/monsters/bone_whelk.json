@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "5d10",
     "strength": "10",
     "dexterity": "5",
     "constitution": "11",
@@ -7,8 +8,6 @@
     "wisdom": "9",
     "charisma": "3",
     "name": "Bone Whelk",
-    "hit_dice_type": "d10",
-    "num_hit_dice": 5,
     "HP": "27 (5d10)",
     "AC": 12,
     "speed": [

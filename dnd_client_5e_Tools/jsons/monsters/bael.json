@@ -60,7 +60,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "alter self",
                     "animate dead",
                     "charm person",

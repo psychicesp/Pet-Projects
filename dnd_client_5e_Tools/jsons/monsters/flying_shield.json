@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "5d6",
     "strength": "12",
     "dexterity": "15",
     "constitution": "11",
@@ -7,8 +8,6 @@
     "wisdom": "5",
     "charisma": "1",
     "name": "Flying Shield",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 5,
     "HP": "17 (5d6)",
     "AC": 17,
     "speed": [

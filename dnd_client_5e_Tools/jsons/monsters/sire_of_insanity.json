@@ -54,7 +54,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "clairvoyance",
                     "crown of madness",
                     "major image",

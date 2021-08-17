@@ -38,7 +38,7 @@
             "ability": "wisdom",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "command",
                     "create or destroy water"
                 ],

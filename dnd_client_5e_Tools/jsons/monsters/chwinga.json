@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "2d4",
     "strength": "1",
     "dexterity": "20",
     "constitution": "10",
@@ -10,8 +11,6 @@
     "perception": "+7",
     "stealth": "+7",
     "name": "Chwinga",
-    "hit_dice_type": "d4",
-    "num_hit_dice": 2,
     "HP": "5 (2d4)",
     "AC": 15,
     "speed": [
@@ -41,7 +40,7 @@
             "ability": "wisdom. it can innately cast the following spells, requiring no material or verbal components:at will: druidcraft, guidance, pass without trace, resistance",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "druidcraft",
                     "guidance",
                     "pass without trace",

@@ -49,7 +49,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "detect magic",
                     "locate animals or plants",
                     "ray of sickness"

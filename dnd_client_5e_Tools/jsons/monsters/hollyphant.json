@@ -44,7 +44,7 @@
             "ability": "wisdom",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "light"
                 ],
                 "2/day": [

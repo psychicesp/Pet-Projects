@@ -2,6 +2,7 @@
     "tags": [
         "dwarf"
     ],
+    "hit": "4d8",
     "strength": "11",
     "dexterity": "16",
     "constitution": "10",
@@ -9,8 +10,6 @@
     "wisdom": "10",
     "charisma": "12",
     "name": "Duergar Soulblade",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 4,
     "HP": "18 (4d8)",
     "AC": 14,
     "speed": [
@@ -39,7 +38,7 @@
             "ability": "wisdom",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "blade ward",
                     "true strike"
                 ],

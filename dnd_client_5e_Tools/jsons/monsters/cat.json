@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "1d4",
     "strength": "3",
     "dexterity": "15",
     "constitution": "10",
@@ -9,8 +10,6 @@
     "perception": "+3",
     "stealth": "+4",
     "name": "Cat",
-    "hit_dice_type": "d4",
-    "num_hit_dice": 1,
     "HP": "2 (1d4)",
     "AC": 12,
     "speed": [

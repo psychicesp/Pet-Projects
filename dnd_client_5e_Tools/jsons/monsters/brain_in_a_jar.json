@@ -40,7 +40,7 @@
             "ability": "intelligence",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "chill touch",
                     "detect thoughts",
                     "mage hand",

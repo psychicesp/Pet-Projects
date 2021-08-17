@@ -2,6 +2,7 @@
     "tags": [
         "goblinoid"
     ],
+    "hit": "7d6",
     "strength": "8",
     "dexterity": "17",
     "constitution": "10",
@@ -11,8 +12,6 @@
     "perception": "+3",
     "stealth": "+5",
     "name": "Werebat",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 7,
     "HP": "24 (7d6)",
     "AC": 13,
     "speed": [

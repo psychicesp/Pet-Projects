@@ -34,7 +34,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "druidcraft"
                 ],
                 "1/day": [

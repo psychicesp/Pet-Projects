@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "3d10",
     "strength": "15",
     "dexterity": "14",
     "constitution": "11",
@@ -10,8 +11,6 @@
     "perception": "+1",
     "stealth": "+4",
     "name": "Jaculi",
-    "hit_dice_type": "d10",
-    "num_hit_dice": 3,
     "HP": "16 (3d10)",
     "AC": 14,
     "speed": [

@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "6d6",
     "strength": "7",
     "dexterity": "14",
     "constitution": "10",
@@ -8,8 +9,6 @@
     "charisma": "6",
     "perception": "+5",
     "name": "Core Spawn Crawler",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 6,
     "HP": "21 (6d6)",
     "AC": 12,
     "speed": [

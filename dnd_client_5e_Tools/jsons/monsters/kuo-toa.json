@@ -2,6 +2,7 @@
     "tags": [
         "kuo-toa"
     ],
+    "hit": "4d8",
     "strength": "13",
     "dexterity": "10",
     "constitution": "11",
@@ -10,8 +11,6 @@
     "charisma": "8",
     "perception": "+4",
     "name": "Kuo-toa",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 4,
     "HP": "18 (4d8)",
     "AC": 13,
     "speed": [

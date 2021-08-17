@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "2d6",
     "strength": "7",
     "dexterity": "15",
     "constitution": "11",
@@ -7,8 +8,6 @@
     "wisdom": "10",
     "charisma": "4",
     "name": "Giant Rat",
-    "hit_dice_type": "d6",
-    "num_hit_dice": 2,
     "HP": "7 (2d6)",
     "AC": 12,
     "speed": [

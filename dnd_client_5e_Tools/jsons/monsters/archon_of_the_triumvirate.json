@@ -49,7 +49,7 @@
             "ability": "wisdom",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "calm emotions",
                     "command",
                     "compelled duel"

@@ -2,6 +2,7 @@
     "tags": [
         "human"
     ],
+    "hit": "6d8",
     "strength": "10",
     "dexterity": "15",
     "constitution": "10",
@@ -15,8 +16,6 @@
     "persuasion": "+5",
     "stealth": "+4",
     "name": "Lords\\' Alliance Spy",
-    "hit_dice_type": "d8",
-    "num_hit_dice": 6,
     "HP": "27 (6d8)",
     "AC": 13,
     "speed": [

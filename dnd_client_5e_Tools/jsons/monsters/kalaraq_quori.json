@@ -51,7 +51,7 @@
             "ability": "charisma",
             "type": "innate",
             "spells": {
-                "At": [
+                "at will": [
                     "arcane eye"
                 ],
                 "3/day": [

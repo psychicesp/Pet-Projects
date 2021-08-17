@@ -1,5 +1,6 @@
 {
     "tags": [],
+    "hit": "9d4",
     "strength": "1",
     "dexterity": "28",
     "constitution": "10",
@@ -7,8 +8,6 @@
     "wisdom": "14",
     "charisma": "11",
     "name": "Will-o\\'-Wisp",
-    "hit_dice_type": "d4",
-    "num_hit_dice": 9,
     "HP": "22 (9d4)",
     "AC": 19,
     "speed": [
