@@ -2,7 +2,6 @@
     "tags": [
         "any"
     ],
-    "hit": "6d8",
     "strength": "10",
     "dexterity": "15",
     "constitution": "10",
@@ -16,6 +15,9 @@
     "persuasion": "+5",
     "stealth": "+4",
     "name": "Vistana Spy",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 6,
+    "HP": "27 (6d8)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -49,10 +51,6 @@
         "Hand Crossbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
         "Curse (Recharges After a Long Rest)": "The Vistana targets one creature that it can see within 30 feet of it. The target must succeed on a DC 13+1d4 + 11 Wisdom saving throw or be cursed. The Vistana chooses the curse's effect from the options that follow; other Vistani curses are possible. All such effects deal psychic damage to the Vistani who uttered them when they end:",
         "Evil Eye (Recharges after a Short or Long Rest)": "As an action, a Vistana can target a creature within 10 feet that the Vistana can see. This magical ability, which the Vistani call the Evil Eye, duplicates the duration and effect of the animal friendship, charm person, or hold person spell (Vistana's choice; spell DC 13+1d4 + 11), but requires neither somatic nor material components. If the target succeeds on the save, the Vistana is blinded until the end of the Vistana's next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

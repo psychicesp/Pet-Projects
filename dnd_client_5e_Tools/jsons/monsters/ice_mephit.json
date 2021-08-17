@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "6d6",
     "strength": "7",
     "dexterity": "13",
     "constitution": "10",
@@ -10,6 +9,9 @@
     "perception": "+2",
     "stealth": "+3",
     "name": "Ice Mephit",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 6,
+    "HP": "21 (6d6)",
     "AC": 11,
     "speed": [
         "30 ft",
@@ -50,10 +52,6 @@
     "actions": {
         "Claws": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one creature. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.",
         "Frost Breath (Recharge 6)": "The mephit exhales a 15-foot cone of cold air. Each creature in that area must succeed on a DC 10+1d4 + 8 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Small",

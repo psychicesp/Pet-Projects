@@ -10,6 +10,7 @@
     "charisma": "5",
     "perception": "+1",
     "name": "Mouth of Grolantor",
+    "HP": "105 (10d12 + 40)",
     "AC": 14,
     "speed": [
         "50 ft"
@@ -36,10 +37,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one creature. Hit: 15 (3d6 + 5) piercing damage, and the giant magically regains hit points equal to the damage dealt.",
         "Fist": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Huge",

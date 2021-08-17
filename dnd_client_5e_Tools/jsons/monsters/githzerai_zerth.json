@@ -12,6 +12,7 @@
     "insight": "+6",
     "perception": "+6",
     "name": "Githzerai Zerth",
+    "HP": "84 (13d8 + 26)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -54,10 +55,6 @@
     "actions": {
         "Multiattack": "The githzerai makes two unarmed strikes.",
         "Unarmed Strike": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage plus 13 (3d8) psychic damage. This is a magic weapon attack."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Medium",

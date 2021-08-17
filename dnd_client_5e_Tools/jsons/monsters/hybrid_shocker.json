@@ -9,6 +9,7 @@
     "wisdom": "12",
     "charisma": "9",
     "name": "Hybrid Shocker",
+    "HP": "39 (6d8 + 12)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -35,10 +36,6 @@
         "Multiattack": "The hybrid makes two attacks: one with its shocking touch and one with its tentacles.",
         "Shocking Touch": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d8) lightning damage.",
         "Tentacles": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 15 ft., one creature. Hit: The target is grappled (escape DC 11+1d4 + 9), and the hybrid pulls the target up to 15 feet straight toward it. Until this grapple ends, the target takes 5 (1d10) lightning damage at the start of each of its turns, and the hybrid shocker can't use its tentacles on another creature."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NG",
     "size": "Medium",

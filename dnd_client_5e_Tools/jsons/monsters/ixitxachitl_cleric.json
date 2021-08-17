@@ -7,6 +7,7 @@
     "wisdom": "13",
     "charisma": "7",
     "name": "Ixitxachitl Cleric",
+    "HP": "18 (4d6 + 4)",
     "AC": 15,
     "speed": [
         "0 ft",
@@ -43,10 +44,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Small",

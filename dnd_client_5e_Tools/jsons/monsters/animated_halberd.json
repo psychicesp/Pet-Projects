@@ -9,6 +9,7 @@
     "charisma": "1 (-5)",
     "dexterity save": "+4",
     "name": "Animated Halberd",
+    "HP": "17 (5d6)",
     "AC": 15,
     "speed": [
         "0 ft",
@@ -31,7 +32,7 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "1/4 (50 XP)",
     "page": 59,
     "book": "Curse of Strahd",
     "traits": {
@@ -40,10 +41,6 @@
     },
     "actions": {
         "Halberd": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 5 (1d10 + 1) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

@@ -10,6 +10,7 @@
     "charisma": "14",
     "stealth": "+7",
     "name": "Shadow Demon",
+    "HP": "66 (12d8 + 12)",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -50,10 +51,6 @@
     },
     "actions": {
         "Claws": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit: 10 (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll, 17 (4d6 + 3) psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

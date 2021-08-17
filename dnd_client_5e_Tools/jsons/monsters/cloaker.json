@@ -8,6 +8,7 @@
     "charisma": "14",
     "stealth": "+5",
     "name": "Cloaker",
+    "HP": "78 (12d10 + 12)",
     "AC": 14,
     "speed": [
         "10 ft",
@@ -39,10 +40,6 @@
         "Tail": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 10 ft., one creature. Hit: 7 (1d8 + 3) slashing damage.",
         "Moan": "Each creature within 60 feet of the cloaker that can hear its moan and that isn't an aberration must succeed on a DC 13+1d6 + 10 Wisdom saving throw or become frightened until the end of the cloaker's next turn. If a creature's saving throw is successful, the creature is immune to the cloaker's moan for the next 24 hours.",
         "Phantasms (Recharges after a Short or Long Rest)": "The cloaker magically creates three illusory duplicates of itself if it isn't in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Large",

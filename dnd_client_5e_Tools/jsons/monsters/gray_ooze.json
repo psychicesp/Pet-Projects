@@ -8,6 +8,7 @@
     "charisma": "2",
     "stealth": "+2",
     "name": "Gray Ooze",
+    "HP": "22 (3d8 + 9)",
     "AC": 8,
     "speed": [
         "10 ft",
@@ -40,10 +41,6 @@
     },
     "actions": {
         "Pseudopod": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative xe2x88x921 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

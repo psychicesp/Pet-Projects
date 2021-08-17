@@ -15,6 +15,7 @@
     "charisma save": "+10",
     "perception": "+7",
     "name": "Amnizu",
+    "HP": "202 (27d8 + 81)",
     "AC": 21,
     "speed": [
         "30 ft",
@@ -49,7 +50,7 @@
         "telepathy 1",
         "000 ft."
     ],
-    "CR": "variable",
+    "CR": "18 (20,000 XP)",
     "page": 164,
     "book": "Mordenkainen\u2019s Tome of Foes",
     "traits": {
@@ -73,10 +74,6 @@
         "Disruptive Touch": "Melee Spell Attack: +11+1d12 + 5 to hit, reach 5 ft., one target. Hit: 44 (8d10) necrotic damage.",
         "Poison Mind": "The amnizu targets one or two creatures that it can see within 60 feet of it. Each target must succeed on a DC 19+1d12 + 13 Wisdom saving throw or take 26 (4d12) necrotic damage and is blinded until the start of the amnizu's next turn.",
         "Forgetfulness (Recharge 6)": "The amnizu targets one creature it can see within 60 feet of it. That creature must make a DC 18+1d12 + 12 Intelligence saving throw and on a failure the target is stunned for 1 minute. A stunned creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target remains stunned for the full minute, it forgets everything it sensed, experienced, and learned during the last 5 hours."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

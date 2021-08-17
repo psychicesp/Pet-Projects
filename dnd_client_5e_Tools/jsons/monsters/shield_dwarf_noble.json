@@ -2,7 +2,6 @@
     "tags": [
         "dwarf"
     ],
-    "hit": "2d8",
     "strength": "11",
     "dexterity": "12",
     "constitution": "11",
@@ -13,6 +12,9 @@
     "insight": "+4",
     "persuasion": "+5",
     "name": "Shield Dwarf Noble",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 2,
+    "HP": "9 (2d8)",
     "AC": 15,
     "speed": [
         "25 ft"
@@ -42,10 +44,6 @@
     },
     "actions": {
         "Rapier": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) bludgeoning damage, or 6 (1d10 + 1) bludgeoning damage if used with two hands."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LG",
     "size": "Medium",

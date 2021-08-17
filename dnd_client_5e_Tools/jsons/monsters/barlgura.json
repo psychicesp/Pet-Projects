@@ -11,6 +11,7 @@
     "perception": "+5",
     "stealth": "+5",
     "name": "Barlgura",
+    "HP": "68 (8d10 + 24)",
     "AC": 15,
     "speed": [
         "40 ft",
@@ -62,10 +63,6 @@
         "Multiattack": "The barlgura makes three attacks: one with its bite and two with its fists.",
         "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.",
         "Fist": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

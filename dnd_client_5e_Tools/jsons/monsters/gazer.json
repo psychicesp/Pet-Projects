@@ -9,6 +9,7 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Gazer",
+    "HP": "13 (3d4 + 6)",
     "AC": 13,
     "speed": [
         "0 ft",
@@ -41,10 +42,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 1 piercing damage.",
         "Eye Rays": "The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it:"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Tiny",

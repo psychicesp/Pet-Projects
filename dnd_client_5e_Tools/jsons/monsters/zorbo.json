@@ -8,6 +8,7 @@
     "charisma": "7",
     "athletics": "+3",
     "name": "Zorbo",
+    "HP": "27 (6d6 + 6)",
     "AC": 10,
     "speed": [
         "30 ft",
@@ -32,10 +33,6 @@
     },
     "actions": {
         "Destructive Claws": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 1) slashing damage, and if the target is a creature wearing armor, carrying a shield, or in possession of a magic item that improves its AC, it must make a DC 11+1d4 + 9 Dexterity saving throw. On a failed save, one such item worn or carried by the creature (the target's choice) magically deteriorates, taking a permanent and cumulative xe2x88x921 penalty to the AC it offers, and the zorbo gains a +1 bonus to AC until the start of its next turn. Armor reduced to an AC of 10 or a shield or magic item that drops to a 0 AC increase is destroyed."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

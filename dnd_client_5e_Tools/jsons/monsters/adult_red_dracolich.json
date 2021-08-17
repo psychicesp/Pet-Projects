@@ -14,6 +14,7 @@
     "perception": "+13",
     "stealth": "+6",
     "name": "Adult Red Dracolich",
+    "HP": "256 (19d12 + 133)",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -48,7 +49,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "17 (18,000 XP)",
     "page": 137,
     "book": "Tasha\u00ef\u00bf\u00bds Cauldron of Everything",
     "traits": {

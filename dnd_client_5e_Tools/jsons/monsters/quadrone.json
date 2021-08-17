@@ -8,6 +8,7 @@
     "charisma": "11",
     "perception": "+2",
     "name": "Quadrone",
+    "HP": "22 (4d8 + 4)",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -35,10 +36,6 @@
         "Multiattack": "The quadrone makes two fist attacks or four shortbow attacks.",
         "Fist": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.",
         "Shortbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Medium",

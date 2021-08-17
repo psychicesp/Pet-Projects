@@ -9,6 +9,7 @@
     "wisdom": "12",
     "charisma": "11",
     "name": "Fist of Bane",
+    "HP": "22 (4d8 + 4)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -33,10 +34,6 @@
     "actions": {
         "Mace": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.",
         "Longbow": "Ranged Weapon Attack: +2+1d4 + 0 to hit, range 150/600 ft., one target. Hit: 4 (1d8) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "7d8",
     "strength": "12",
     "dexterity": "16",
     "constitution": "11",
@@ -11,6 +10,9 @@
     "performance": "+6",
     "stealth": "+5",
     "name": "Satyr",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 7,
+    "HP": "31 (7d8)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -39,10 +41,6 @@
         "Ram": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) bludgeoning damage.",
         "Shortsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
         "Shortbow": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

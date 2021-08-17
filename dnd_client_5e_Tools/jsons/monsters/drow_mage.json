@@ -2,7 +2,6 @@
     "tags": [
         "elf"
     ],
-    "hit": "10d8",
     "strength": "9",
     "dexterity": "14",
     "constitution": "10",
@@ -14,6 +13,9 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Drow Mage",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 10,
+    "HP": "45 (10d8)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -39,8 +41,7 @@
     "traits": {
         "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
-            "level": 10,
-            "type": "wizard",
+            "type": "innate",
             "spells": [
                 "mage hand",
                 "minor illusion",
@@ -65,10 +66,6 @@
     "actions": {
         "Staff": "Melee Weapon Attack: +2+1d6 - 1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands, plus 3 (1d6) poison damage.",
         "Summon Demon (1/Day)": "The drow magically summons a quasit, or attempts to summon a shadow demon with a 50 percent chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

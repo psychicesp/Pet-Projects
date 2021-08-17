@@ -1,0 +1,44 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "16",
+    "dexterity": "13",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "11",
+    "perception": "+2",
+    "name": "Thayan Warrior",
+    "HP": "52 (8d8 + 16)",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Thayan"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 246,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Doomvault Devotion": "Within the Doomvault, the warrior has advantage on saving throws against being charmed or frightened.",
+        "Pack Tactics": "The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated."
+    },
+    "actions": {
+        "Multiattack": "The warrior makes two melee attacks.",
+        "Longsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
+        "Javelin": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+    },
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
+}

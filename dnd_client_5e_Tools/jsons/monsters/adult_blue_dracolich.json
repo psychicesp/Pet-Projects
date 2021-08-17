@@ -14,6 +14,7 @@
     "perception": "+14",
     "stealth": "+6",
     "name": "Adult Blue Dracolich",
+    "HP": "225 (18d12 + 108)",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -48,7 +49,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "17 (18,000 XP)",
     "page": 84,
     "book": "Monster Manual",
     "traits": {

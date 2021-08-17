@@ -7,6 +7,7 @@
     "wisdom": "12",
     "charisma": "6",
     "name": "Young Bulette",
+    "HP": "45 (6d10 + 12)",
     "AC": 11,
     "speed": [
         "40 ft"
@@ -27,10 +28,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

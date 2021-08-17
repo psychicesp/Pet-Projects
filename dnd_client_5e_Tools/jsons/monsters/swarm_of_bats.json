@@ -2,7 +2,6 @@
     "tags": [
         "of"
     ],
-    "hit": "5d8",
     "strength": "5",
     "dexterity": "15",
     "constitution": "10",
@@ -10,6 +9,9 @@
     "wisdom": "12",
     "charisma": "4",
     "name": "Swarm of Bats",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 5,
+    "HP": "22 (5d8)",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -40,10 +42,6 @@
     },
     "actions": {
         "Bites": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 0 ft., one creature in the swarm's space. Hit: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

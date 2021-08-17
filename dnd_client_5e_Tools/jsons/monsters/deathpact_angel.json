@@ -11,6 +11,7 @@
     "perception": "+10",
     "persuasion": "+11",
     "name": "Deathpact Angel",
+    "HP": "175 (27d8 + 54)",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -64,10 +65,6 @@
         "Multiattack": "The angel makes two attacks with its scythe. It can substitute Chains of Obligation for one of these attacks.",
         "Scythe": "Melee Weapon Attack: +9+1d10 + 4 to hit, reach 10 ft., one target. Hit: 9 (2d4 + 4) slashing damage plus 27 (6d8) necrotic damage.",
         "Chains of Obligation": "The angel targets one creature charmed by it that it can see within 90 feet of it. The target must succeed on a DC 19+1d10 + 14 Charisma saving throw or become paralyzed for 1 minute or until it takes any damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

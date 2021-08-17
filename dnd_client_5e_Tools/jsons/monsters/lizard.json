@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "2",
+    "dexterity": "11",
+    "constitution": "10",
+    "intelligence": "1",
+    "wisdom": "8",
+    "charisma": "3",
+    "name": "Lizard",
+    "hit_dice_type": "d4",
+    "num_hit_dice": 1,
+    "HP": "2 (1d4)",
+    "AC": 10,
+    "speed": [
+        "20 ft",
+        "climb 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 332,
+    "book": "Monster Manual",
+    "actions": {
+        "Bite": "Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one target. Hit: 1 piercing damage."
+    },
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "beast"
+}

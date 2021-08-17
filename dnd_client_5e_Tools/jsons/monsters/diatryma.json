@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Diatryma",
+    "HP": "19 (3d10 + 3)",
     "AC": 11,
     "speed": [
         "50 ft"
@@ -24,10 +25,6 @@
     "book": "Waterdeep: Dragon Heist",
     "actions": {
         "Beak": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

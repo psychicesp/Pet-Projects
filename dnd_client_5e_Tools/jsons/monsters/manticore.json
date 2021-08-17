@@ -7,6 +7,7 @@
     "wisdom": "12",
     "charisma": "8",
     "name": "Manticore",
+    "HP": "68 (8d10 + 24)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -32,10 +33,6 @@
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.",
         "Claw": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
         "Tail Spike": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 100/200 ft., one target. Hit: 7 (1d8 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

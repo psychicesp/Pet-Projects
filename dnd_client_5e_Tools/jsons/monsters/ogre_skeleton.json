@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "8",
+    "constitution": "16",
+    "intelligence": "5",
+    "wisdom": "7",
+    "charisma": "7",
+    "name": "Ogre Skeleton",
+    "HP": "59 (7d10 + 21)",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Common",
+        "Giant",
+        "understands all languages it spoke in life but can\\'t speak"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 54,
+    "book": "Tales from the Yawning Portal",
+    "actions": {
+        "Greatclub": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.",
+        "Javelin": "Melee or Ranged Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage."
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "undead"
+}

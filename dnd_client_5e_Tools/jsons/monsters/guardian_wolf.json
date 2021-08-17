@@ -9,6 +9,7 @@
     "perception": "+5",
     "stealth": "+4",
     "name": "Guardian Wolf",
+    "HP": "66 (7d12 + 21)",
     "AC": 14,
     "speed": [
         "60 ft"
@@ -36,10 +37,6 @@
         "Multiattack": "The wolf makes two attacks: one with its bite and one with its claws.",
         "Bite": "Melee Weapon Attack: +8+1d4 + 6 to hit, reach 5 ft., one target. Hit: 11 (1d10 + 6) piercing damage. If the target is a creature, it must succeed on a DC 16+1d4 + 14 Strength saving throw or be knocked prone.",
         "Claws": "Melee Weapon Attack: +8+1d4 + 6 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

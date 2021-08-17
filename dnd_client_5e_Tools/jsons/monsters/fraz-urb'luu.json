@@ -12,6 +12,7 @@
     "perception": "+14",
     "stealth": "+8",
     "name": "Fraz-Urb\\'luu",
+    "HP": "337 (27d10 + 189)",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -46,7 +47,7 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "23 (50,000 XP) or 24 (62,000 XP) when encountered in lair",
+    "CR": "23 (50,000 XP) or 24 (62,000 XP) whe ecoutered i lair",
     "page": 146,
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {

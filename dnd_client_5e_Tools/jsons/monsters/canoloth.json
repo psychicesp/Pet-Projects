@@ -11,6 +11,7 @@
     "investigation": "+3",
     "perception": "+9",
     "name": "Canoloth",
+    "HP": "120 (16d8 + 48)",
     "AC": 16,
     "speed": [
         "50 ft"
@@ -54,10 +55,6 @@
         "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 25 (6d6 + 4) piercing damage.",
         "Claws": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) slashing damage.",
         "Tongue": "Ranged Weapon Attack: +7+1d6 + 4 to hit, range 30 ft., one target. Hit: 17 (2d12 + 4) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 15+1d6 + 12), pulled up to 30 feet toward the canoloth, and is restrained until the grapple ends. The canoloth can grapple one target at a time with its tongue."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

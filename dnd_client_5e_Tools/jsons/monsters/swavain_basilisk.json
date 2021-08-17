@@ -7,6 +7,7 @@
     "wisdom": "8",
     "charisma": "7",
     "name": "Swavain Basilisk",
+    "HP": "85 (10d12 + 20)",
     "AC": 16,
     "speed": [
         "15 ft",
@@ -38,10 +39,6 @@
         "Multiattack": "The basilisk makes two attacks: one with its bite and one with its tail.",
         "Bite": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one creature. Hit: 13 (3d6 + 3) piercing damage plus 10 (3d6) poison damage.",
         "Tail": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 15 ft., one target. Hit: 14 (2d10 + 3) bludgeoning damage. If the target is a Large or smaller creature, it is grappled (escape DC 12+1d6 + 9)."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

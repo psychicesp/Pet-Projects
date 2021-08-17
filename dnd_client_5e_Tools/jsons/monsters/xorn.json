@@ -9,6 +9,7 @@
     "perception": "+6",
     "stealth": "+3",
     "name": "Xorn",
+    "HP": "73 (7d8 + 42)",
     "AC": 19,
     "speed": [
         "20 ft",
@@ -42,10 +43,6 @@
         "Multiattack": "The xorn makes three claw attacks and one bite attack.",
         "Bite": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) piercing damage.",
         "Claw": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

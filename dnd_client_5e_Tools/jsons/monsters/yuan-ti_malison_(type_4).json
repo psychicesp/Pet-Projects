@@ -11,6 +11,7 @@
     "deception": "+5",
     "stealth": "+4",
     "name": "Yuan-ti Malison (Type 4)",
+    "HP": "66 (12d8 + 12)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -55,10 +56,6 @@
         "Bite (Snake Form Only)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.",
         "Scimitar (Yuan-ti Form Only)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
         "Longbow (Yuan-ti Form Only)": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "Y",
     "size": "Medium",

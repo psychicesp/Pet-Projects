@@ -11,6 +11,7 @@
     "deception": "+3",
     "stealth": "+5",
     "name": "Dragonclaw",
+    "HP": "16 (3d8 + 3)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -40,10 +41,6 @@
     "actions": {
         "Multiattack": "The dragonclaw attacks twice with its scimitar.",
         "Scimitar": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

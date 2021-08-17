@@ -7,6 +7,7 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Beholder Zombie",
+    "HP": "93 (11d10 + 33)",
     "AC": 15,
     "speed": [
         "0 ft",
@@ -38,10 +39,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +3+1d6 + 0 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.",
         "Eye Ray": "The zombie uses a random magical eye ray, choosing a target that it can see within 60 feet of it."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

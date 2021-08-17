@@ -1,0 +1,62 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "15",
+    "intelligence": "16",
+    "wisdom": "13",
+    "charisma": "10",
+    "arcana": "+5",
+    "religion": "+5",
+    "name": "Skull Lasher of Myrkul",
+    "HP": "32 (5d8 + 10)",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Infernal"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 234,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "traits": {
+        "spellcasting": {
+            "level": 3,
+            "type": "wizard",
+            "spells": [
+                "mage hand",
+                "message",
+                "prestidigitation",
+                "detect magic",
+                "protection from evil and good",
+                "ray of sickness",
+                "shield",
+                "darkness",
+                "misty step"
+            ]
+        }
+    },
+    "actions": {
+        "Multiattack": "The skull lasher makes two attacks with its flail.",
+        "Iron Skull Flail": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 4 (1d8) bludgeoning damage plus 7 (2d6) necrotic damage, and the target has disadvantage on all saving throws until the end of the skull lasher's next turn.",
+        "Ray of Sickness (1st-Level Spell; Requires a Spell Slot)": "Ranged Spell Attack: +5+1d4 + 3 to hit, range 60 ft., one creature. Hit: 9 (2d8) poison damage, and the target must succeed on a DC 13+1d4 + 11 Constitution saving throw or be poisoned until the end of the skull lasher's next turn. If the skull lasher casts this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st."
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

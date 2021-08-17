@@ -7,6 +7,7 @@
     "wisdom": "18",
     "charisma": "17",
     "name": "Leviathan",
+    "HP": "328 (16d20 + 160)",
     "AC": 17,
     "speed": [
         "40 ft",

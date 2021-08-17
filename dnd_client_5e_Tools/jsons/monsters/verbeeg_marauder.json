@@ -9,6 +9,7 @@
     "athletics": "+6",
     "stealth": "+2",
     "name": "Verbeeg Marauder",
+    "HP": "85 (10d10 + 30)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -38,10 +39,6 @@
     "actions": {
         "Multiattack": "The verbeeg makes two melee attacks.",
         "Spear": "Melee or Ranged Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 14 (3d6 + 4) piercing damage, or 17 (3d8 + 4) piercing damage if used to make a ranged attack or used with two hands to make a melee attack."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

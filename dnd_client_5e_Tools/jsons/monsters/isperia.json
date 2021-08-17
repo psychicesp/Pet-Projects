@@ -11,6 +11,7 @@
     "insight": "+15",
     "perception": "+15",
     "name": "Isperia",
+    "HP": "261 (18d20 + 72)",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -48,8 +49,7 @@
     "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
     "traits": {
         "spellcasting": {
-            "level": 15,
-            "type": "cleric",
+            "type": "innate",
             "spells": [
                 "guidance",
                 "light",

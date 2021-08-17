@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "8d8",
     "strength": "11",
     "dexterity": "13",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "10",
     "charisma": "13",
     "name": "Scarecrow",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 8,
+    "HP": "36 (8d8)",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -40,10 +42,6 @@
         "Multiattack": "The scarecrow makes two claw attacks.",
         "Claw": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage. If the target is a creature, it must succeed on a DC 11+1d4 + 9 Wisdom saving throw or be frightened until the end of the scarecrow's next turn.",
         "Terrifying Glare": "The scarecrow targets one creature it can see within 30 feet of it. If the target can see the scarecrow, the target must succeed on a DC 11+1d4 + 9 Wisdom saving throw or be magically frightened until the end of the scarecrow's next turn. The frightened target is paralyzed."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

@@ -14,6 +14,7 @@
     "stealth": "+7",
     "survival": "+6",
     "name": "Leonin Iconoclast",
+    "HP": "67 (9d8 + 27)",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -55,10 +56,6 @@
         "Multiattack": "The leonin makes three weapon attacks.",
         "Claws": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 7 (2d6) force damage.",
         "Dart": "Ranged Weapon Attack: +7+1d6 + 4 to hit, range 20/60 ft., one target. Hit: 6 (1d4 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

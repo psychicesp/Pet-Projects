@@ -1,0 +1,49 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "16",
+    "dexterity": "13",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "10",
+    "athletics": "+6",
+    "perception": "+3",
+    "name": "Half-Red Dragon Veteran",
+    "HP": "65 (10d8 + 20)",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "resistances": [
+        "fire"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 180,
+    "book": "Monster Manual",
+    "actions": {
+        "Multiattack": "The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.",
+        "Longsword": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
+        "Shortsword": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+        "Heavy Crossbow": "Ranged Weapon Attack: +3+1d6 + 0 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.",
+        "Fire Breath (Recharge 5xe2x80x936)": "The veteran exhales fire in a 15-foot cone. Each creature in that area must make a DC 15+1d6 + 12 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one."
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

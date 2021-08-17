@@ -10,6 +10,7 @@
     "insight": "+9",
     "survival": "+9",
     "name": "Borborygmos",
+    "HP": "270 (20d12 + 140)",
     "AC": 14,
     "speed": [
         "40 ft"

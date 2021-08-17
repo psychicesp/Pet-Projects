@@ -8,6 +8,7 @@
     "charisma": "10",
     "perception": "+5",
     "name": "Peryton",
+    "HP": "33 (6d8 + 6)",
     "AC": 13,
     "speed": [
         "20 ft",
@@ -38,10 +39,6 @@
         "Multiattack": "The peryton makes one gore attack and one talon attack.",
         "Gore": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.",
         "Talons": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

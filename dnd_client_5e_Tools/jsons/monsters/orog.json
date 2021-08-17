@@ -11,6 +11,7 @@
     "intimidation": "+5",
     "survival": "+2",
     "name": "Orog",
+    "HP": "42 (5d8 + 20)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -38,10 +39,6 @@
         "Multiattack": "The orog makes two greataxe attacks.",
         "Greataxe": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.",
         "Javelin": "Melee or Ranged Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "4d10",
     "strength": "15",
     "dexterity": "16",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "12",
     "charisma": "6",
     "name": "Giant Bat",
+    "hit_dice_type": "d10",
+    "num_hit_dice": 4,
+    "HP": "22 (4d10)",
     "AC": 13,
     "speed": [
         "10 ft",
@@ -31,10 +33,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

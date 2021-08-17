@@ -9,6 +9,7 @@
     "insight": "+5",
     "perception": "+5",
     "name": "Tsucora Quori",
+    "HP": "68 (8d8 + 32)",
     "AC": 16,
     "speed": [
         "40 ft"
@@ -53,10 +54,6 @@
         "Claws": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 13 (4d4 + 3) slashing damage.",
         "Stinger": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 10 ft., one creature. Hit: 8 (1d10 + 3) piercing damage plus 10 (3d6) psychic damage, and the target must succeed on a DC 14+1d6 + 11 Wisdom saving throw or be frightened of the quori for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
         "Possession (Recharge 6)": "One humanoid that the quori can see within 5 feet of it must succeed on a DC 14+1d6 + 11 Charisma saving throw or be possessed by the quori; the quori then disappears, and the target is incapacitated and loses control of its body. The quori now controls the body but doesn't deprive the target of awareness. The quori can't be targeted by any attack, spell, or other effect, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

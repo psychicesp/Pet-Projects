@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "orc"
+    ],
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Orc Commoner",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 1,
+    "HP": "4 (1d8)",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)",
+        "Orc"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 167,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Aggressive": "As a bonus action, The orc commoner can move up to your speed toward a hostile creature that they can see."
+    },
+    "actions": {
+        "Club": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage."
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

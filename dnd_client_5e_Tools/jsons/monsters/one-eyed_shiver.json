@@ -12,6 +12,7 @@
     "intimidation": "+5",
     "perception": "+3",
     "name": "One-Eyed Shiver",
+    "HP": "49 (9d8 + 9)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -54,10 +55,6 @@
     "actions": {
         "Dagger": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
         "Eye of Frost": "The one-eyed shiver casts ray of frost from its missing eye. If it hits, the target is also restrained. A target restrained in this way can end the condition by using an action, succeeding on a DC 13+1d4 + 11 Strength check."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

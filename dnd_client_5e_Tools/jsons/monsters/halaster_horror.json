@@ -8,6 +8,7 @@
     "charisma": "10",
     "perception": "+4",
     "name": "Halaster Horror",
+    "HP": "60 (8d8 + 24)",
     "AC": 20,
     "speed": [
         "30 ft",
@@ -43,10 +44,6 @@
     "actions": {
         "Multiattack": "The Halaster horror makes two staff attacks.",
         "Staff": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

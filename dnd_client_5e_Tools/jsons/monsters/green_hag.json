@@ -11,6 +11,7 @@
     "perception": "+4",
     "stealth": "+3",
     "name": "Green Hag",
+    "HP": "82 (11d8 + 33)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -31,7 +32,7 @@
         "Draconic",
         "Sylvan"
     ],
-    "CR": "3 (700 XP) or 5 (1,800 XP) when part of a cove",
+    "CR": "3 (700 XP) or 5 (1,800 XP) whe part of a cove",
     "page": 177,
     "book": "Monster Manual",
     "traits": {
@@ -50,10 +51,6 @@
         "Claws": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
         "Illusory Appearance": "The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.",
         "Invisible Passage": "The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "in_lair": {
         "CR_increase": 1,

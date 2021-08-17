@@ -9,6 +9,7 @@
     "wisdom": "12",
     "charisma": "13",
     "name": "Hezrou",
+    "HP": "136 (13d10 + 65)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -48,10 +49,6 @@
         "Multiattack": "The hezrou makes three attacks: one with its bite and two with its claws.",
         "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.",
         "Claws": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

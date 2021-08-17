@@ -13,6 +13,7 @@
     "stealth": "+3",
     "survival": "+4",
     "name": "Anchorite of Talos",
+    "HP": "58 (9d8 + 18)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -31,7 +32,7 @@
         "Common",
         "Orc"
     ],
-    "CR": "variable",
+    "CR": "3 (700 XP)",
     "page": 51,
     "book": "Dragon of Icespire Peak",
     "traits": {
@@ -50,10 +51,6 @@
     "actions": {
         "Clawed Gauntlet (Humanoid Form Only)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.",
         "Tusk (Boar Form Only)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "S",
     "size": "Medium",

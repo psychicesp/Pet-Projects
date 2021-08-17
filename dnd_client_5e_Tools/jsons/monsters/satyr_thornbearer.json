@@ -10,6 +10,7 @@
     "performance": "+6",
     "stealth": "+6",
     "name": "Satyr Thornbearer",
+    "HP": "38 (7d8 + 7)",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -39,10 +40,6 @@
         "Ram": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) bludgeoning damage.",
         "Shortbow": "Ranged Weapon Attack: +6+1d4 + 4 to hit, range 80/320 ft., one target. Hit: 7 (1d6 + 4) piercing damage.",
         "Hail of Arrows (Recharges after a Short or Long Rest)": "The satyr fires an arrow that magically transforms into a flurry of missiles in a 30-foot cone. Each creature in that area must make a DC 14+1d4 + 12 Dexterity saving throw, taking 17 (5d6) piercing damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

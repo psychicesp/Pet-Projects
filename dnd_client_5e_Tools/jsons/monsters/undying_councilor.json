@@ -12,6 +12,7 @@
     "perception": "+9",
     "religion": "+7",
     "name": "Undying Councilor",
+    "HP": "104 (16d8 + 32)",
     "AC": 17,
     "speed": [
         "30 ft"

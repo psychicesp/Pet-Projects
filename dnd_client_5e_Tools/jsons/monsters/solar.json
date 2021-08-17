@@ -8,6 +8,7 @@
     "charisma": "30",
     "perception": "+14",
     "name": "Solar",
+    "HP": "243 (18d10 + 144)",
     "AC": 21,
     "speed": [
         "50 ft",

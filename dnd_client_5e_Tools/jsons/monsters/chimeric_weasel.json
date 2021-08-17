@@ -9,6 +9,7 @@
     "perception": "+3",
     "stealth": "+5",
     "name": "Chimeric Weasel",
+    "HP": "1 (1d4 - 1)",
     "AC": "",
     "speed": [
         "30 ft"
@@ -33,10 +34,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 1 piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Tiny",

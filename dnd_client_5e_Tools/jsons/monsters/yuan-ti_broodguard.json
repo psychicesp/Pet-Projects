@@ -10,6 +10,7 @@
     "charisma": "4",
     "perception": "+2",
     "name": "Yuan-ti Broodguard",
+    "HP": "45 (7d8 + 14)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -48,10 +49,6 @@
         "Multiattack": "The broodguard makes three attacks: one with its bite and two with its claws.",
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.",
         "Claws": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

@@ -1,0 +1,57 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "15",
+    "wisdom": "13",
+    "charisma": "11",
+    "arcana": "+4",
+    "name": "Thayan Apprentice",
+    "HP": "27 (5d8 + 5)",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common",
+        "Thayan"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 245,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Doomvault Devotion": "Within the Doomvault, the apprentice has advantage on saving throws against being charmed or frightened.",
+        "spellcasting": {
+            "level": 4,
+            "type": "wizard",
+            "spells": [
+                "fire bolt",
+                "mage hand",
+                "prestidigitation",
+                "shocking grasp",
+                "burning hands",
+                "detect magic",
+                "mage armor",
+                "shield",
+                "blur",
+                "scorching ray"
+            ]
+        }
+    },
+    "actions": {
+        "Dagger": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+    },
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
+}

@@ -17,6 +17,7 @@
     "persuasion": "+8",
     "stealth": "+6",
     "name": "Adult Green Dragon",
+    "HP": "207 (18d12 + 90)",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -51,7 +52,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "15 (13,000 XP)",
     "page": 94,
     "book": "Monster Manual",
     "traits": {

@@ -8,6 +8,7 @@
     "charisma": "9",
     "perception": "+4",
     "name": "Giant Four-Armed Gargoyle",
+    "HP": "147 (14d10 + 70)",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -45,10 +46,6 @@
         "Multiattack": "The gargoyle makes five attacks: one with its bite and four with its claws.",
         "Bite": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.",
         "Claw": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

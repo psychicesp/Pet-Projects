@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "9",
+    "name": "Undead Spirit",
+    "HP": "30 (Ghostly and Putrid only) or 20 (Skeletal only) + 10 for each spell level above 3rd",
+    "AC": "",
+    "speed": [
+        "30 ft",
+        "fly 40 ft. (ghostly only; hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "necrotic, poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, frightened, paralyzed, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands the languages you speak"
+    ],
+    "page": 114,
+    "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
+    "traits": {
+        "Festering Aura (Putrid Only)": "Any creature, other than you, that starts its turn within 5 feet of the spirit must succeed on a Constitution saving throw against your spell save DC or be poisoned until the start of its next turn.",
+        "Incorporeal Passage (Ghostly Only)": "The spirit can move through other creatures and objects as if they were difficult terrain. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 force damage for every 5 feet traveled."
+    },
+    "actions": {
+        "Multiattack": "The spirit makes a number of attacks equal to half this spell's level (rounded down).",
+        "Deathly Touch (Ghostly Only)": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one creature. Hit: 1d8 + 3 + the spell's level necrotic damage, and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of the undead until the end of the target's next turn.",
+        "Grave Bolt (Skeletal Only)": "Ranged Spell Attack: your spell attack modifier to hit, range 150 ft., one target. Hit: 2d4 + 3 + the spell's level necrotic damage.",
+        "Rotting Claw (Putrid Only)": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d6 + 3 + the spell's level slashing damage. If the target is poisoned, it must succeed on a Constitution saving throw against your spell save DC or be paralyzed until the end of its next turn."
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "undead"
+}

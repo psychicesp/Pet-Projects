@@ -10,6 +10,7 @@
     "stealth": "+4",
     "survival": "+3",
     "name": "Ettercap",
+    "HP": "44 (8d8 + 8)",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -41,10 +42,6 @@
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11+1d4 + 9 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
         "Claws": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage.",
         "Web (Recharge 5xe2x80x936)": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/60 ft., one Large or smaller creature. Hit: The creature is restrained by webbing. As an action, the restrained creature can make a DC 11+1d4 + 9 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, is vulnerable to fire damage and immune to bludgeoning, poison and psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

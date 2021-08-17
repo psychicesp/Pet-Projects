@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "1",
     "name": "Canopic Golem",
+    "HP": "252 (24d10 + 120)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -41,10 +42,6 @@
         "Multiattack": "The golem makes two attacks.",
         "Slam": "Melee Weapon Attack: +10+1d10 + 5 to hit, reach 5 ft., one target. Hit: 27 (4d10 + 5) force damage.",
         "Crystal Dart": "Ranged Weapon Attack: +10+1d10 + 5 to hit, range 120 ft., one target. Hit: 14 (2d8 + 5) force damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

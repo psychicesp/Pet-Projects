@@ -12,6 +12,7 @@
     "perception": "+3",
     "persuasion": "+6",
     "name": "Neogi Master",
+    "HP": "71 (11d8 + 22)",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -69,10 +70,6 @@
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed on a DC 12+1d4 + 10 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
         "Claws": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage.",
         "Enslave (Recharges after a Short or Long Rest)": "The neogi targets one creature it can see within 30 feet of it. The target must succeed on a DC 14+1d4 + 12 Wisdom saving throw or be magically charmed by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The charmed target obeys the neogi's commands and can't take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the charmed target takes damage, it can repeat the saving throw, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

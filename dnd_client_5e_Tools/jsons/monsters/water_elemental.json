@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "8",
     "name": "Water Elemental",
+    "HP": "114 (12d10 + 48)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -42,10 +43,6 @@
         "Multiattack": "The elemental makes two slam attacks.",
         "Slam": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.",
         "Whelm (Recharge 4xe2x80x936)": "Each creature in the elemental's space must make a DC 15+1d6 + 12 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14+1d6 + 11). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Large",

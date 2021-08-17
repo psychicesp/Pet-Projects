@@ -2,7 +2,6 @@
     "tags": [
         "any"
     ],
-    "hit": "11d8",
     "strength": "10",
     "dexterity": "14",
     "constitution": "10",
@@ -14,6 +13,9 @@
     "insight": "+5",
     "persuasion": "+6",
     "name": "Mind Mage",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 11,
+    "HP": "49 (11d8)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -57,10 +59,6 @@
     },
     "actions": {
         "Dagger": "Melee or Ranged Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

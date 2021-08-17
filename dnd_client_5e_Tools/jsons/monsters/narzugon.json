@@ -10,6 +10,7 @@
     "charisma": "19",
     "perception": "+7",
     "name": "Narzugon",
+    "HP": "112 (15d8 + 45)",
     "AC": 20,
     "speed": [
         "30 ft"
@@ -55,10 +56,6 @@
         "Infernal Command": "Each ally of the narzugon within 60 feet of it can't be charmed or frightened until the end of the narzugon's next turn.",
         "Terrifying Command": "Each creature that isn't a fiend within 60 feet of the narzugon that can hear it must succeed on a DC 17+1d10 + 12 Charisma saving throw or become frightened of it for 1 minute.",
         "Healing (1/Day)": "The narzugon, or one creature it touches, regains up to 100 hit points."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

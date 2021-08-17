@@ -7,6 +7,7 @@
     "wisdom": "6",
     "charisma": "1",
     "name": "Snow Golem",
+    "HP": "39 (6d8 + 12)",
     "AC": 8,
     "speed": [
         "10 ft"
@@ -40,10 +41,6 @@
         "Multiattack": "The golem makes three melee attacks.",
         "Slam": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 7 (2d6) cold damage.",
         "Snowball": "Ranged Weapon Attack: +0+1d4 - 2 to hit, range 60 ft., one target. Hit: 9 (2d6 + 2) cold damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

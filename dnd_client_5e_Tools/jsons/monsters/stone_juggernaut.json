@@ -7,6 +7,7 @@
     "wisdom": "14",
     "charisma": "16",
     "name": "Stone Juggernaut",
+    "HP": "157 (15d10 + 75)",
     "AC": 15,
     "speed": [
         "50 ft. (in one direction chosen at the start of its turn)"
@@ -38,10 +39,6 @@
     },
     "actions": {
         "Slam": "Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one target. Hit: 25 (3d12 + 6) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 17+1d8 + 13 Strength saving throw or be knocked prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

@@ -11,6 +11,7 @@
     "perception": "+3",
     "religion": "+4",
     "name": "Undying Soldier",
+    "HP": "26 (4d8 + 8)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -50,10 +51,6 @@
     "actions": {
         "Multiattack": "The soldier makes two spear attacks.",
         "Spear": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack, plus 9 (2d8) radiant damage if the target is a fiend or undead."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NG",
     "size": "Medium",

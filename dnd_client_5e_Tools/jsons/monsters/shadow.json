@@ -8,6 +8,7 @@
     "charisma": "8",
     "stealth": "+4",
     "name": "Shadow",
+    "HP": "16 (3d8 + 3)",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -43,10 +44,6 @@
     },
     "actions": {
         "Strength Drain": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

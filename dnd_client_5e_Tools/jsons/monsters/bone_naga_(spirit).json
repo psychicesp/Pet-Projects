@@ -7,6 +7,7 @@
     "wisdom": "15",
     "charisma": "16",
     "name": "Bone Naga (Spirit)",
+    "HP": "58 (9d10 + 9)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -47,10 +48,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft., one creature. Hit: 10 (2d6 + 3) piercing damage plus 10 (3d6) poison damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

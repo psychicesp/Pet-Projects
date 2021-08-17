@@ -10,6 +10,7 @@
     "perception": "+7",
     "stealth": "+3",
     "name": "Young Bronze Dragon",
+    "HP": "142 (15d10 + 60)",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -50,10 +51,6 @@
         "Bite": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) piercing damage.",
         "Claw": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.",
         "Breath Weapons (Recharge 5xe2x80x936)": "The dragon uses one of the following breath weapons."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LG",
     "size": "Large",

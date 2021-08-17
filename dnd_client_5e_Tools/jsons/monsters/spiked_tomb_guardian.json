@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Spiked Tomb Guardian",
+    "HP": "93 (11d8 + 44)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -42,10 +43,6 @@
     "actions": {
         "Multiattack": "The tomb guardian makes two spiked gauntlet attacks.",
         "Spiked Gauntlet": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 9 (2d6) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

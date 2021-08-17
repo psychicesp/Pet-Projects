@@ -14,6 +14,7 @@
     "perception": "+11",
     "stealth": "+7",
     "name": "Adult Black Dragon",
+    "HP": "195 (17d12 + 85)",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -42,7 +43,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "14 (11,500 XP)",
     "page": 88,
     "book": "Monster Manual",
     "traits": {

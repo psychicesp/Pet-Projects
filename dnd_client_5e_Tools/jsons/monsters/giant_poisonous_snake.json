@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "18",
+    "constitution": "13",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "3",
+    "perception": "+2",
+    "name": "Giant Poisonous Snake",
+    "HP": "11 (2d8 + 2)",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "blindsight 10 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 327,
+    "book": "Monster Manual",
+    "actions": {
+        "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 10 ft., one target. Hit: 6 (1d4 + 4) piercing damage, and the target must make a DC 11+1d4 + 9 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one."
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
+}

@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Umber Hulk",
+    "HP": "93 (11d10 + 33)",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -33,10 +34,6 @@
         "Multiattack": "The umber hulk makes three attacks: two with its claws and one with its mandibles.",
         "Claw": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage.",
         "Mandibles": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

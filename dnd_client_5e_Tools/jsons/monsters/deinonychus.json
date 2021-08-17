@@ -8,6 +8,7 @@
     "charisma": "6",
     "perception": "+3",
     "name": "Deinonychus",
+    "HP": "26 (4d8 + 8)",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -32,10 +33,6 @@
         "Multiattack": "The deinonychus makes three attacks: one with its bite and two with its claws.",
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.",
         "Claw": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

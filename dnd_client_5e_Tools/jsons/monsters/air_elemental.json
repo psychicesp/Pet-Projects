@@ -8,6 +8,7 @@
     "wisdom": "10 (+0)",
     "charisma": "6 (-2)",
     "name": "Air Elemental",
+    "HP": "90 (12d10 + 24)",
     "AC": 15,
     "speed": [
         "0 ft",
@@ -32,7 +33,7 @@
     "languages": [
         "Auran"
     ],
-    "CR": "variable",
+    "CR": "5 (1,800 XP)",
     "page": 124,
     "book": "Monster Manual",
     "traits": {
@@ -42,10 +43,6 @@
         "Multiattack": "The elemental makes two slam attacks.",
         "Slam": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.",
         "Whirlwind (Recharge 4\u20136)": "Each creature in the elemental's space must make a DC 13+1d6 + 10 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13+1d6 + 10 Dexterity saving throw or take the same damage and be knocked prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Large",

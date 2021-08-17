@@ -9,6 +9,7 @@
     "wisdom": "11",
     "charisma": "11",
     "name": "Tarrasque",
+    "HP": "676 (33d20 + 330)",
     "AC": 25,
     "speed": [
         "40 ft"

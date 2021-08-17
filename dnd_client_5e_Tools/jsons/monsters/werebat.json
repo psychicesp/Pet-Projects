@@ -2,7 +2,6 @@
     "tags": [
         "goblinoid"
     ],
-    "hit": "7d6",
     "strength": "8",
     "dexterity": "17",
     "constitution": "10",
@@ -12,6 +11,9 @@
     "perception": "+3",
     "stealth": "+5",
     "name": "Werebat",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 7,
+    "HP": "24 (7d6)",
     "AC": 13,
     "speed": [
         "30 ft. (climb 30 ft. fly 60 ft. in bat or hybrid form)"
@@ -46,10 +48,6 @@
         "Bite (Bat or Hybrid Form Only)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, and the werebat gains temporary hit points equal to the damage dealt. If the target is a humanoid, it must succeed on a DC 10+1d4 + 8 Constitution saving throw or be cursed with werebat lycanthropy.",
         "Scimitar (Humanoid or Hybrid Form Only)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
         "Shortbow (Humanoid or Hybrid Form Only)": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "S",
     "size": "Small",

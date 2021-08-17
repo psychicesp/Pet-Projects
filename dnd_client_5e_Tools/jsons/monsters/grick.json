@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "6d8",
     "strength": "14",
     "dexterity": "14",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "14",
     "charisma": "5",
     "name": "Grick",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 6,
+    "HP": "27 (6d8)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -35,10 +37,6 @@
         "Multiattack": "The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.",
         "Tentacles": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.",
         "Beak": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

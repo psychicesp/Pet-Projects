@@ -12,6 +12,7 @@
     "intimidation": "+2",
     "perception": "+3",
     "name": "Reckoner",
+    "HP": "52 (8d8 + 16)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -53,10 +54,6 @@
     },
     "actions": {
         "Longsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Medium",

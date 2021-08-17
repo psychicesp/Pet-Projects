@@ -10,6 +10,7 @@
     "perception": "+5",
     "stealth": "+8",
     "name": "Quickling",
+    "HP": "10 (3d4 + 3)",
     "AC": 16,
     "speed": [
         "120 ft"
@@ -39,10 +40,6 @@
     "actions": {
         "Multiattack": "The quickling makes three dagger attacks.",
         "Dagger": "Melee or Ranged Weapon Attack: +8+1d4 + 6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 8 (1d4 + 6) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Tiny",

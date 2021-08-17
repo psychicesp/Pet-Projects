@@ -9,6 +9,7 @@
     "athletics": "+16",
     "perception": "+7",
     "name": "Colossus of Akros",
+    "HP": "350 (20d20 + 140)",
     "AC": 21,
     "speed": [
         "60 ft"
@@ -50,10 +51,6 @@
         "Spear": "Melee or Ranged Weapon Attack: +16+1d14 + 9 to hit, reach 15 ft., or range 200/600 ft., one target. Hit: 23 (4d6 + 9) piercing damage, or 27 (4d8 + 9) piercing damage if used with two hands to make a melee attack. If the colossus makes a ranged attack with this spear, the spear magically returns to its hand after the attack.",
         "Sword": "Melee Weapon Attack: +16+1d14 + 9 to hit, reach 15 ft., one target. Hit: 36 (6d8 + 9) slashing damage.",
         "Flames of Akros (Recharge 6)": "Magical flames issue from the colossus toward up to three creatures the colossus can see within 90 feet of it. Each target must make a DC 24+1d14 + 17 Dexterity saving throw, taking 36 (8d8) fire damage on a failed save, or half as much damage on a successful one. On a failed save, a target also magically catches fire for 1 minute. At the end of each of its turns thereafter, the burning target repeats the saving throw. It takes 18 (4d8) fire damage on a failed save, and the effect ends on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Gargantuan",

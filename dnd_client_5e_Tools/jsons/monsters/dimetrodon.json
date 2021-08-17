@@ -8,6 +8,7 @@
     "charisma": "5",
     "perception": "+2",
     "name": "Dimetrodon",
+    "HP": "19 (3d8 + 6)",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -28,10 +29,6 @@
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

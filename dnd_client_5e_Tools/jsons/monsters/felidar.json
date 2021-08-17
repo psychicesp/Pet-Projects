@@ -9,6 +9,7 @@
     "insight": "+6",
     "perception": "+6",
     "name": "Felidar",
+    "HP": "93 (11d10 + 33)",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -41,10 +42,6 @@
         "Multiattack": "The felidar makes two attacks: one with its bite and one with its claws.",
         "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 17 (3d8 + 4) piercing damage.",
         "Claws": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Large",

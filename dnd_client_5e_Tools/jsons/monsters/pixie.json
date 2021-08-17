@@ -9,6 +9,7 @@
     "perception": "+4",
     "stealth": "+7",
     "name": "Pixie",
+    "HP": "1 (1d4 - 1)",
     "AC": 15,
     "speed": [
         "10 ft",
@@ -49,10 +50,6 @@
     },
     "actions": {
         "Superior Invisibility": "The pixie magically turns invisible until its concentration ends (as if concentrating on a spell). Any equipment the pixie wears or carries is invisible with it."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NG",
     "size": "Tiny",

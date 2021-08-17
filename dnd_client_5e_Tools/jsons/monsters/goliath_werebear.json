@@ -12,6 +12,7 @@
     "perception": "+8",
     "survival": "+5",
     "name": "Goliath Werebear",
+    "HP": "161 (19d8 + 76)",
     "AC": 10,
     "speed": [
         "30 ft. (40 ft. swim 30 ft. in bear or hybrid form)"
@@ -49,10 +50,6 @@
         "Bite (Bear or Hybrid Form Only)": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one creature. Hit: 16 (2d10 + 5) piercing damage. If the target is a humanoid, it must succeed on a DC 15+1d6 + 12 Constitution saving throw or be cursed with werebear lycanthropy, as described in the Monster Manual.",
         "Claw (Bear or Hybrid Form Only)": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage.",
         "Greataxe (Humanoid or Hybrid Form Only)": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 11 (1d12 + 5) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "S",
     "size": "Medium",

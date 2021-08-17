@@ -13,6 +13,7 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Tarkanan Assassin",
+    "HP": "45 (7d8 + 14)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -51,10 +52,6 @@
         "Shortsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) poison damage.",
         "Fire Bolt (Cantrip)": "Ranged Spell Attack: +4+1d4 + 2 to hit, range 120 ft., one target. Hit: 11 (2d10) fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.",
         "Chromatic Orb (1/Day)": "Ranged Spell Attack: +4+1d4 + 2 to hit, range 90 ft., one creature. Hit: 18 (4d8) damage of a type chosen by the assassin: acid, cold, fire, lightning, poison, or thunder."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "ANA",
     "size": "Medium",

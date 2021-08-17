@@ -2,7 +2,6 @@
     "tags": [
         "of"
     ],
-    "hit": "8d8",
     "strength": "9",
     "dexterity": "14",
     "constitution": "10",
@@ -10,6 +9,9 @@
     "wisdom": "11",
     "charisma": "14",
     "name": "Swarm of Cranium Rats",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 8,
+    "HP": "36 (8d8)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -49,10 +51,6 @@
     },
     "actions": {
         "Bites": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 0 ft., one target in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

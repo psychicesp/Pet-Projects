@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "8",
     "name": "Coldlight Walker",
+    "HP": "82 (11d8 + 33)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -41,10 +42,6 @@
         "Multiattack": "The walker makes two attacks.",
         "Slam": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) bludgeoning damage plus 14 (4d6) cold damage.",
         "Cold Ray": "Ranged Spell Attack: +3+1d6 + 0 to hit, range 60 ft., one target. Hit: 25 (4d10 + 3) cold damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

@@ -2,7 +2,6 @@
     "tags": [
         "tabaxi"
     ],
-    "hit": "5d8",
     "strength": "10",
     "dexterity": "15",
     "constitution": "11",
@@ -14,6 +13,9 @@
     "persuasion": "+5",
     "stealth": "+4",
     "name": "Tabaxi Minstrel",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 5,
+    "HP": "22 (5d8)",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -44,10 +46,6 @@
         "Multiattack": "The tabaxi makes two claws attacks or two dart attacks.",
         "Claws": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 2 (1d4) slashing damage.",
         "Dart": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 20/ 60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CG",
     "size": "Medium",

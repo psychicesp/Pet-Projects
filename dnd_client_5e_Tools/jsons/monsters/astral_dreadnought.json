@@ -13,6 +13,7 @@
     "wisdom save": "+9",
     "perception": "+9",
     "name": "Astral Dreadnought",
+    "HP": "297 (17d20 + 119)",
     "AC": 20,
     "speed": [
         "15 ft",
@@ -38,7 +39,7 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "21 (33,000 XP)",
     "page": 117,
     "book": "Mordenkainen\u2019s Tome of Foes",
     "traits": {

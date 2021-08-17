@@ -8,6 +8,7 @@
     "wisdom": "5 (-3)",
     "charisma": "1 (-5)",
     "name": "Animated Broom",
+    "HP": "17 (5d6)",
     "AC": 15,
     "speed": [
         "0 ft",
@@ -28,7 +29,7 @@
     "languages": [
         "\u00ef\u00bf\u00bd"
     ],
-    "CR": "variable",
+    "CR": "1/4 (50 XP)",
     "page": 20,
     "book": "Candlekeep Mysteries",
     "traits": {
@@ -38,10 +39,6 @@
     "actions": {
         "Multiattack": "The broom makes two melee attacks.",
         "Broomstick": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

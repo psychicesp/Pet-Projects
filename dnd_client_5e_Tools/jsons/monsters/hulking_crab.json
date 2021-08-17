@@ -8,6 +8,7 @@
     "charisma": "3",
     "stealth": "+2",
     "name": "Hulking Crab",
+    "HP": "76 (8d12 + 24)",
     "AC": 17,
     "speed": [
         "20 ft",
@@ -34,10 +35,6 @@
     "actions": {
         "Multiattack": "The crab makes two attacks with its claws.",
         "Claw": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one target. Hit: 20 (3d10 + 4) bludgeoning damage, and the target is grappled (escape DC 15+1d6 + 12). The crab has two claws, each of which can grapple only one target"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

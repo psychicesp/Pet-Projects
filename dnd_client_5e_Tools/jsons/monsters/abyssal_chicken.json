@@ -10,6 +10,7 @@
     "wisdom": "9 (-1)",
     "charisma": "5 (-3)",
     "name": "Abyssal Chicken",
+    "HP": "10 (3d4 + 3)",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -33,7 +34,7 @@
     "languages": [
         "understands Abyssal but can't speak"
     ],
-    "CR": "variable",
+    "CR": "1/4 (50 XP)",
     "page": 97,
     "book": "Baldur\u2019s Gate: Descent Into Avernus",
     "traits": {
@@ -43,10 +44,6 @@
         "Multiattack": "The abyssal chicken makes two attacks: one with its bite and one with its claws.",
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.",
         "Claws": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Tiny",

@@ -11,6 +11,7 @@
     "deception": "+5",
     "perception": "+5",
     "name": "Annis Hag",
+    "HP": "75 (10d10 + 20)",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -35,7 +36,7 @@
         "Giant",
         "Sylvan"
     ],
-    "CR": "variable",
+    "CR": "6 (2,300 XP) or 8 (3,900 XP) whe part of a cove",
     "page": 159,
     "book": "Volo\u2019s Guide to Monsters",
     "traits": {
@@ -52,10 +53,6 @@
         "Bite": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) piercing damage.",
         "Claw": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 15 (3d6 + 5) slashing damage.",
         "Crushing Hug": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 36 (9d6 + 5) bludgeoning damage, and the target is grappled (escape DC 15+1d6 + 12) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "in_lair": {
         "CR_increase": 1,

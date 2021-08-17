@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "5d8",
     "strength": "10",
     "dexterity": "12",
     "constitution": "11",
@@ -10,6 +9,9 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Dryad",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 5,
+    "HP": "22 (5d8)",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -49,10 +51,6 @@
     "actions": {
         "Club": "Melee Weapon Attack: +2+1d4 + 0 to hit (+6+1d4 + 4 to hit with shillelagh), reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh.",
         "Fey Charm": "The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14+1d4 + 12 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

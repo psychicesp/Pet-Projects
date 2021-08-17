@@ -11,6 +11,7 @@
     "deception": "+6",
     "stealth": "+7",
     "name": "Dragonsoul",
+    "HP": "110 (17d8 + 34)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -46,10 +47,6 @@
         "Multiattack": "The Dragonsoul attacks twice with its shortsword.",
         "Shortsword": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 10 (3d6) damage of the type to which the dragonsoul has resistance.",
         "Orb of Dragon's Breath (3/Day)": "Ranged Spell Attack: +7+1d6 + 4 to hit, range 90 ft., one target. Hit: 27 (6d8) damage of the type to which the dragonsoul has damage resistance."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

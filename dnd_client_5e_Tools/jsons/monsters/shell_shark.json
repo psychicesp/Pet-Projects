@@ -8,6 +8,7 @@
     "charisma": "7",
     "athletics": "+6",
     "name": "Shell Shark",
+    "HP": "32 (5d8 + 10)",
     "AC": 18,
     "speed": [
         "0 ft",
@@ -37,10 +38,6 @@
     "actions": {
         "Multiattack": "The shark makes two bite attacks.",
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 13 (2d10 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

@@ -10,6 +10,7 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Armored Saber-Toothed Tiger",
+    "HP": "84 (7d10 + 14)",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -25,7 +26,7 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "3 (700 XP)",
     "page": 115,
     "book": "Curse of Strahd",
     "traits": {
@@ -35,10 +36,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) piercing damage.",
         "Claw": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

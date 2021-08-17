@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "32d4",
     "strength": "1",
     "dexterity": "20",
     "constitution": "10",
@@ -8,6 +7,9 @@
     "wisdom": "17",
     "charisma": "20",
     "name": "Demilich",
+    "hit_dice_type": "d4",
+    "num_hit_dice": 32,
+    "HP": "80 (32d4)",
     "AC": 20,
     "speed": [
         "0 ft",
@@ -37,7 +39,7 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "18 (20,000 XP) or 20 (25,000 XP) when encountered in lair",
+    "CR": "18 (20,000 XP) or 20 (25,000 XP) whe ecoutered i lair",
     "page": 48,
     "book": "Monster Manual",
     "traits": {

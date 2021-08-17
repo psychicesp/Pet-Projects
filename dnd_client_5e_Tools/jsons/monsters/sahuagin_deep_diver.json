@@ -11,6 +11,7 @@
     "perception": "+5",
     "stealth": "+5",
     "name": "Sahuagin Deep Diver",
+    "HP": "91 (14d8 + 28)",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -47,10 +48,6 @@
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.",
         "Claws": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.",
         "Light of Sekolah": "The deep diver pulses magical light from its lure. Any creature within 30 feet of the deep diver that can see the light must succeed on a DC 11+1d4 + 9 Wisdom saving throw or be charmed until the end of its next turn. A creature charmed in this way is incapacitated as it stares at the light."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

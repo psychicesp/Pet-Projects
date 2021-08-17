@@ -10,6 +10,7 @@
     "insight": "+8",
     "perception": "+8",
     "name": "Devkarin Lich",
+    "HP": "97 (15d8 + 30)",
     "AC": 14,
     "speed": [
         "30 ft"

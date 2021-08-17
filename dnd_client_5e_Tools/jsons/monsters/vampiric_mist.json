@@ -7,6 +7,7 @@
     "wisdom": "12",
     "charisma": "7",
     "name": "Vampiric Mist",
+    "HP": "30 (4d8 + 12)",
     "AC": 13,
     "speed": [
         "0 ft",
@@ -44,10 +45,6 @@
     },
     "actions": {
         "Life Drain": "The mist touches one creature in its space. The target must succeed on a DC 13+1d4 + 11 Constitution saving throw (undead and constructs automatically succeed), or it takes 10 (2d6 + 3) necrotic damage, the mist regains 10 hit points, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

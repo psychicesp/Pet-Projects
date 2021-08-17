@@ -7,6 +7,7 @@
     "wisdom": "14",
     "charisma": "16",
     "name": "Celestial Spirit",
+    "HP": "40 + 10 for each spell level above 5th",
     "AC": 11,
     "speed": [
         "30 ft",
@@ -28,7 +29,6 @@
         "Celestial",
         "understands the languages you speak"
     ],
-    "CR": "variable",
     "page": 110,
     "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
     "actions": {
@@ -36,10 +36,6 @@
         "Radiant Bow (Avenger Only)": "Ranged Weapon Attack: your spell attack modifier to hit, range 150/600 ft., one target. Hit: 2d6 + 2 + the spell's level radiant damage.",
         "Radiant Mace (Defender Only)": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 3 + the spell's level radiant damage, and the celestial can choose itself or another creature it can see within 10 feet of the target. The chosen creature gains 1d10 temporary hit points.",
         "Healing Touch (1/Day)": "The celestial touches another creature. The target magically regains hit points equal to 2d8 + the spell's level."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "16",
+    "constitution": "14",
+    "intelligence": "14",
+    "wisdom": "11",
+    "charisma": "16",
+    "name": "Fey Spirit",
+    "HP": "30 + 10 for each spell level above 3rd",
+    "AC": "",
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "condition_immunities": [
+        "charmed"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Sylvan",
+        "understands the languages you speak"
+    ],
+    "page": 112,
+    "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
+    "actions": {
+        "Multiattack": "The fey makes a number of attacks equal to half this spell's level (rounded down).",
+        "Shortsword": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d6 + 3 + the spell's level piercing damage + 1d6 force damage."
+    },
+    "alignment": "U",
+    "size": "Small",
+    "type": "fey"
+}

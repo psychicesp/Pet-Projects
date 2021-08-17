@@ -13,6 +13,7 @@
     "perception": "+5",
     "religion": "+10",
     "name": "Elder Oblex",
+    "HP": "115 (10d12 + 50)",
     "AC": 16,
     "speed": [
         "20 ft"
@@ -67,10 +68,6 @@
         "Multiattack": "The elder oblex makes two pseudopod attacks and uses Eat Memories.",
         "Pseudopod": "Melee Weapon Attack: +7+1d8 + 3 to hit, reach 10 ft., one target. Hit: 17 (4d6 + 3) bludgeoning damage plus 7 (2d6) psychic damage.",
         "Eat Memories": "The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 18+1d8 + 14 Wisdom saving throw or take 44 (8d10) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the greater restoration or heal spell. Constructs, oozes, plants, and undead succeed on the save automatically."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Huge",

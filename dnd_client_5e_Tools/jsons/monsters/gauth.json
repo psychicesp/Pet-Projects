@@ -8,6 +8,7 @@
     "charisma": "13",
     "perception": "+5",
     "name": "Gauth",
+    "HP": "67 (9d8 + 27)",
     "AC": 15,
     "speed": [
         "0 ft",
@@ -42,10 +43,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 9 (2d8) piercing damage.",
         "Eye Rays": "The gauth shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

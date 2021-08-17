@@ -1,0 +1,41 @@
+{
+    "tags": [],
+    "strength": "4",
+    "dexterity": "16",
+    "constitution": "10",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "1",
+    "name": "Tiny Servant",
+    "hit_dice_type": "d4",
+    "num_hit_dice": 4,
+    "HP": "10 (4d4)",
+    "AC": 15,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "page": 169,
+    "book": "Xanathar\\xe2\\x80\\x99s Guide to Everything",
+    "actions": {
+        "Slam": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage."
+    },
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "construct"
+}

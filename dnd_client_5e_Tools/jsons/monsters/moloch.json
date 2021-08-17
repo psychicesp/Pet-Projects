@@ -12,6 +12,7 @@
     "intimidation": "+13",
     "perception": "+11",
     "name": "Moloch",
+    "HP": "253 (22d10 + 132)",
     "AC": 19,
     "speed": [
         "30 ft"

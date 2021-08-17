@@ -15,6 +15,7 @@
     "perception": "+10",
     "religion": "+15",
     "name": "Androsphinx",
+    "HP": "199 (19d10 + 95)",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -46,7 +47,7 @@
         "Common",
         "Sphinx"
     ],
-    "CR": "variable",
+    "CR": "17 (18,000 XP)",
     "page": 281,
     "book": "Monster Manual",
     "traits": {

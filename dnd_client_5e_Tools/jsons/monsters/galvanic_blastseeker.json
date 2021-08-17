@@ -12,6 +12,7 @@
     "arcana": "+7",
     "perception": "+3",
     "name": "Galvanic Blastseeker",
+    "HP": "52 (8d8 + 16)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -53,10 +54,6 @@
     },
     "actions": {
         "Spear": "Melee or Ranged Weapon Attack: +3+1d6 + 0 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

@@ -9,6 +9,7 @@
     "wisdom": "10",
     "charisma": "9",
     "name": "Duergar Alchemist",
+    "HP": "26 (4d8 + 4)",
     "AC": 16,
     "speed": [
         "25 ft"
@@ -39,10 +40,6 @@
         "Acid Vial": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 20 ft., one target. Hit: 7 (2d6) acid damage.",
         "Alchemist's Fire": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 20 ft., one target. Hit: 2 (1d4) fire damage at the start of each of the target's turns. A creature can end this damage by using its action to make a successful DC 10+1d4 + 8 Dexterity check to extinguish the flames.",
         "Invisibility (Recharges after a Short or Long Rest)": "The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

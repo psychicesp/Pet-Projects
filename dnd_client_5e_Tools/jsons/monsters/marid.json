@@ -7,6 +7,7 @@
     "wisdom": "17",
     "charisma": "18",
     "name": "Marid",
+    "HP": "229 (17d10 + 136)",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -59,10 +60,6 @@
         "Multiattack": "The marid makes two trident attacks.",
         "Trident": "Melee or Ranged Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing damage if used with two hands to make a melee attack.",
         "Water Jet": "The marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16+1d8 + 12 Dexterity saving throw. On a failure, a target takes 21 (6d6) bludgeoning damage and, if it is Huge or smaller, is pushed up to 20 feet away from the marid and knocked prone. On a success, a target takes half the bludgeoning damage, but is neither pushed nor knocked prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Large",

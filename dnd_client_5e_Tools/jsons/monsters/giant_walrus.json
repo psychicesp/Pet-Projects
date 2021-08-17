@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "4",
     "name": "Giant Walrus",
+    "HP": "85 (9d12 + 27)",
     "AC": 9,
     "speed": [
         "20 ft",
@@ -31,10 +32,6 @@
         "Multiattack": "The walrus makes two attacks: one with its body flop and one with its tusks.",
         "Body Flop": "Melee Weapon Attack: +8+1d4 + 6 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.",
         "Tusks": "Melee Weapon Attack: +8+1d4 + 6 to hit, reach 5 ft., one target. Hit: 16 (3d6 + 6) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

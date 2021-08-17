@@ -13,6 +13,7 @@
     "perception": "+3",
     "stealth": "+9",
     "name": "Half-Green Dragon Assassin",
+    "HP": "78 (12d8 + 24)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -52,10 +53,6 @@
         "Shortsword": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 15+1d6 + 12 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.",
         "Light Crossbow": "Ranged Weapon Attack: +6+1d6 + 3 to hit, range 80/320 ft., one target. Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 15+1d6 + 12 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.",
         "Poison Breath (Recharge 5xe2x80x936)": "The half-dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "ANA",
     "size": "Medium",

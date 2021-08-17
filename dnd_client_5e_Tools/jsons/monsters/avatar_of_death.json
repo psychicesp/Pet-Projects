@@ -7,6 +7,7 @@
     "wisdom": "16 (+3)",
     "charisma": "16 (+3)",
     "name": "Avatar of Death",
+    "HP": "half the hit point maximum of its summoner",
     "AC": 20,
     "speed": [
         "60 ft",
@@ -28,7 +29,6 @@
     "languages": [
         "all languages known to its summoner"
     ],
-    "CR": "variable",
     "page": 164,
     "book": "Dungeon Master\u2019s Guide",
     "traits": {
@@ -37,10 +37,6 @@
     },
     "actions": {
         "Reaping Scythe": "The avatar sweeps its spectral scythe through a creature within 5 feet of it, dealing 7 (1d8 + 3) slashing damage plus 4 (1d8) necrotic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

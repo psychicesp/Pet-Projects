@@ -10,6 +10,7 @@
     "charisma": "11",
     "arcana": "+5",
     "name": "Hobgoblin Devastator",
+    "HP": "45 (7d8 + 14)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -55,10 +56,6 @@
     },
     "actions": {
         "Quarterstaff": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

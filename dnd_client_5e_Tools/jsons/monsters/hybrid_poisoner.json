@@ -12,6 +12,7 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Hybrid Poisoner",
+    "HP": "26 (4d8 + 8)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -47,10 +48,6 @@
     },
     "actions": {
         "Toxic Touch": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7 (2d6) bludgeoning damage, and the target must succeed on a DC 12+1d4 + 10 Constitution saving throw or become poisoned for 1 minute. At the end of each of the poisoned target's turns, it must repeat the save, taking 3 (1d6) poison damage on a failed save, or ending the effect on itself on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NG",
     "size": "Medium",

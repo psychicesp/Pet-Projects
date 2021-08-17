@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "8d8",
     "strength": "16",
     "dexterity": "17",
     "constitution": "10",
@@ -8,6 +7,9 @@
     "wisdom": "10",
     "charisma": "8",
     "name": "Ghast",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 8,
+    "HP": "36 (8d8)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -40,10 +42,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one creature. Hit: 12 (2d8 + 3) piercing damage.",
         "Claws": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10+1d4 + 8 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

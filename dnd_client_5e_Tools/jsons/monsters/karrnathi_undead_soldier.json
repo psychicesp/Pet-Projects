@@ -9,6 +9,7 @@
     "athletics": "+5",
     "perception": "+3",
     "name": "Karrnathi Undead Soldier",
+    "HP": "52 (7d8 + 21)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -42,10 +43,6 @@
         "Multiattack": "The soldier attacks three times with one of its weapons.",
         "Longsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
         "Longbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

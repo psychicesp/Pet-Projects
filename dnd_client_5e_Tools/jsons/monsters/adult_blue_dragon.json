@@ -14,6 +14,7 @@
     "perception": "+12",
     "stealth": "+5",
     "name": "Adult Blue Dragon",
+    "HP": "225 (18d12 + 108)",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -42,7 +43,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "16 (15,000 XP)",
     "page": 91,
     "book": "Monster Manual",
     "traits": {

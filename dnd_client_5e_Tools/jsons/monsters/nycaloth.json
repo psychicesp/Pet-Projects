@@ -12,6 +12,7 @@
     "perception": "+4",
     "stealth": "+4",
     "name": "Nycaloth",
+    "HP": "123 (13d10 + 52)",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -65,10 +66,6 @@
         "Claw": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage. If the target is a creature, it must succeed on a DC 16+1d8 + 12 Constitution saving throw or take 5 (2d4) slashing damage at the start of each of its turns due to a fiendish wound. Each time the nycaloth hits the wounded target with this attack, the damage dealt by the wound increases by 5 (2d4). Any creature can take an action to stanch the wound with a successful DC 13+1d8 + 9 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.",
         "Greataxe": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 18 (2d12 + 5) slashing damage.",
         "Teleport": "The nycaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

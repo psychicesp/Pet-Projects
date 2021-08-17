@@ -7,6 +7,7 @@
     "wisdom": "12",
     "charisma": "7",
     "name": "Warhorse",
+    "HP": "19 (3d10 + 3)",
     "AC": 11,
     "speed": [
         "60 ft"
@@ -27,10 +28,6 @@
     },
     "actions": {
         "Hooves": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

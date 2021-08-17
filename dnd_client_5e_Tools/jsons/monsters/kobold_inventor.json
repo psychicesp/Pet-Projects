@@ -10,6 +10,7 @@
     "charisma": "8",
     "perception": "+0",
     "name": "Kobold Inventor",
+    "HP": "13 (3d6 + 3)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -37,10 +38,6 @@
         "Dagger": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
         "Sling": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.",
         "Weapon Invention": "The kobold uses one of the following options (roll a d8 or choose one); the kobold can use each one no more than once per day:"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Small",

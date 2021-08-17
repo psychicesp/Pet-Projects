@@ -9,6 +9,7 @@
     "wisdom": "14",
     "charisma": "8",
     "name": "Spined Devil",
+    "HP": "22 (5d6 + 5)",
     "AC": 13,
     "speed": [
         "20 ft",
@@ -48,10 +49,6 @@
         "Bite": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.",
         "Fork": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.",
         "Tail Spine": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 20/80 ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 3 (1d6) fire damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Small",

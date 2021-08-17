@@ -7,6 +7,7 @@
     "wisdom": "12",
     "charisma": "11",
     "name": "Returned Drifter",
+    "HP": "11 (2d8 + 2)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -38,10 +39,6 @@
     "actions": {
         "Scimitar": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage plus 3 (1d6) poison damage.",
         "Sling": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Medium",

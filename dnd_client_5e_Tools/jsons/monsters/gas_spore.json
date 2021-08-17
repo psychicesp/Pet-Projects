@@ -7,6 +7,7 @@
     "wisdom": "1",
     "charisma": "1",
     "name": "Gas Spore",
+    "HP": "1 (1d10 - 4)",
     "AC": 5,
     "speed": [
         "0 ft",
@@ -36,10 +37,6 @@
     },
     "actions": {
         "Touch": "Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one creature. Hit: 1 poison damage, and the creature must succeed on a DC 10+1d4 + 8 Constitution saving throw or become infected with the disease described in the Death Burst trait."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

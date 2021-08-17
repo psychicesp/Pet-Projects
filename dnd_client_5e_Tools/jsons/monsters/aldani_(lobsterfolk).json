@@ -10,6 +10,7 @@
     "perception": "+4",
     "survival": "+4",
     "name": "Aldani (Lobsterfolk)",
+    "HP": "49 (9d8 + 9)",
     "AC": 14,
     "speed": [
         "20 ft",
@@ -27,7 +28,7 @@
     "languages": [
         "Common"
     ],
-    "CR": "variable",
+    "CR": "1 (200 XP)",
     "page": 210,
     "book": "Tomb of Annihilation",
     "traits": {
@@ -36,10 +37,6 @@
     "actions": {
         "Multiattack": "The aldani makes two attacks with its claws.",
         "Claw": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, and the target is grappled (escape DC 11+1d4 + 9). The aldani has two claws, each of which can grapple only one target."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Medium",

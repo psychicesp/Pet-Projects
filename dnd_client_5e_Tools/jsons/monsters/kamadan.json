@@ -9,6 +9,7 @@
     "perception": "+4",
     "stealth": "+7",
     "name": "Kamadan",
+    "HP": "67 (9d10 + 18)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -37,10 +38,6 @@
         "Claw": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
         "Snakes": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 12+1d4 + 10 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.",
         "Sleep Breath (Recharges after a Short or Long Rest)": "The kamadan exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 12+1d4 + 10 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if it takes damage or someone uses an action to wake it."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

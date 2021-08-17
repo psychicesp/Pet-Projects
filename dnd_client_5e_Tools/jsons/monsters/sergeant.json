@@ -1,0 +1,37 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "13",
+    "dexterity": "12",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "11",
+    "charisma": "10",
+    "perception": "+2",
+    "name": "Sergeant",
+    "HP": "11 (2d8 + 2)",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 197,
+    "book": "Waterdeep: Dragon Heist",
+    "actions": {
+        "Spear": "Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack."
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

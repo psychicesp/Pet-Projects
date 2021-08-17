@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "12",
+    "constitution": "13",
+    "intelligence": "4",
+    "wisdom": "8",
+    "charisma": "3",
+    "name": "Needle Blight",
+    "HP": "11 (2d8 + 2)",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "condition_immunities": [
+        "blinded, deafened"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "understands Common but can't speak"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 32,
+    "book": "Monster Manual",
+    "actions": {
+        "Claws": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) piercing damage.",
+        "Needles": "Ranged Weapon Attack: +3+1d4 + 1 to hit, range 30/60 ft., one target. Hit: 8 (2d6 + 1) piercing damage."
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "plant"
+}

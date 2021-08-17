@@ -11,6 +11,7 @@
     "deception": "+10",
     "insight": "+6",
     "name": "Yochlol",
+    "HP": "136 (16d8 + 64)",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -66,10 +67,6 @@
         "Multiattack": "The yochlol makes two melee attacks.",
         "Slam (Bite in Spider Form)": "Melee Weapon Attack: +6+1d8 + 2 to hit, reach 5 ft. (10 feet in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage.",
         "Mist Form": "The yochlol transforms into toxic mist or reverts to its true form. Any equipment it is wearing or carrying is also transformed. It reverts to its true form if it dies."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "S",
     "size": "Medium",

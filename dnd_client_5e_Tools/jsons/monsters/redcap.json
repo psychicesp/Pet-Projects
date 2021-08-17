@@ -9,6 +9,7 @@
     "athletics": "+6",
     "perception": "+3",
     "name": "Redcap",
+    "HP": "45 (6d6 + 24)",
     "AC": 13,
     "speed": [
         "25 ft"
@@ -37,10 +38,6 @@
         "Multiattack": "The redcap makes three attacks with its wicked sickle.",
         "Wicked Sickle": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.",
         "Ironbound Pursuit": "The redcap moves up to its speed to a creature it can see and kicks with its iron boots. The target must succeed on a DC 14+1d4 + 12 Dexterity saving throw or take 20 (3d10 + 4) bludgeoning damage and be knocked prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Small",

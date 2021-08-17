@@ -12,6 +12,7 @@
     "perception": "+3",
     "survival": "+5",
     "name": "Lizardfolk Render",
+    "HP": "52 (7d10 + 14)",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -41,10 +42,6 @@
         "Claws": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft., one target. Hit: 12 (2d8 + 3) slashing damage.",
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.",
         "Rend the Field (Recharge 5xe2x80x936)": "The render makes a claw attack against each creature of its choice within 10 feet of it. A creature hit by this attack must succeed on a DC 13+1d4 + 11 Strength saving throw or be knocked prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Large",

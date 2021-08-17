@@ -10,6 +10,7 @@
     "charisma": "10",
     "intimidation": "+2",
     "name": "Orc",
+    "HP": "15 (2d8 + 6)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -35,10 +36,6 @@
     "actions": {
         "Greataxe": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.",
         "Javelin": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

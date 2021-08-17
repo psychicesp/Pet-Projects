@@ -11,6 +11,7 @@
     "arcana": "+13",
     "perception": "+13",
     "name": "Orcus",
+    "HP": "405 (30d12 + 210)",
     "AC": 17,
     "speed": [
         "40 ft",

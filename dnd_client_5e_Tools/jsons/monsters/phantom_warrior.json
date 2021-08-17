@@ -9,6 +9,7 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Phantom Warrior",
+    "HP": "45 (6d8 + 18)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -46,10 +47,6 @@
         "Multiattack": "The phantom warrior makes two attacks with its spectral longsword.",
         "Spectral Longsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) force damage.",
         "Etherealness": "The phantom warrior enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

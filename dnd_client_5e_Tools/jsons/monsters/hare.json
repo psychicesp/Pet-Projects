@@ -9,6 +9,7 @@
     "perception": "+2",
     "stealth": "+5",
     "name": "Hare",
+    "HP": "1 (1d4 - 1)",
     "AC": 13,
     "speed": [
         "20 ft",
@@ -32,10 +33,6 @@
         "Escape": "The hare can take the Dash, Disengage, or Hide action as a bonus action on each of its turns."
     },
     "actions": {},
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
-    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

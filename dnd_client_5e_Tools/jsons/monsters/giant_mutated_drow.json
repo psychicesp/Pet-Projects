@@ -9,6 +9,7 @@
     "insight": "+7",
     "perception": "+7",
     "name": "Giant Mutated Drow",
+    "HP": "200 (16d12 + 96)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -50,10 +51,6 @@
         "Multiattack": "The drow makes two morningstar attacks.",
         "Morningstar": "Melee Weapon Attack: +12+1d8 + 8 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) piercing damage.",
         "Rock": "Ranged Weapon Attack: +12+1d8 + 8 to hit, range 60/240 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Huge",

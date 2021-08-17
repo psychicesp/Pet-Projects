@@ -8,6 +8,7 @@
     "charisma": "6",
     "perception": "+5",
     "name": "Hell Hound",
+    "HP": "45 (7d8 + 14)",
     "AC": 15,
     "speed": [
         "50 ft"
@@ -36,10 +37,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.",
         "Fire Breath (Recharge 5xe2x80x936)": "The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12+1d4 + 10 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

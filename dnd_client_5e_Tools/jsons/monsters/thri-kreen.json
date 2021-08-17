@@ -12,6 +12,7 @@
     "stealth": "+4",
     "survival": "+3",
     "name": "Thri-kreen",
+    "HP": "33 (6d8 + 6)",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -40,10 +41,6 @@
         "Multiattack": "The thri-kreen makes two attacks: one with its bite and one with its claws.",
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) piercing damage, and the target must succeed on a DC 11+1d4 + 9 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is also paralyzed while poisoned in this way. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
         "Claws": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

@@ -12,6 +12,7 @@
     "intimidation": "+4",
     "perception": "+4",
     "name": "Dybbuk",
+    "HP": "37 (5d8 + 15)",
     "AC": 14,
     "speed": [
         "0 ft",
@@ -61,10 +62,6 @@
     "actions": {
         "Tendril": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) necrotic damage. If the target is a creature, its hit point maximum is also reduced by 3 (1d6). This reduction lasts until the target finishes a short or long rest. The target dies if this effect reduces its hit point maximum to 0.",
         "Possess Corpse (Recharge 6)": "The dybbuk disappears into an intact corpse it can see within 5 feet of it. The corpse must be Large or smaller and be that of a beast or a humanoid. The dybbuk is now effectively the possessed creature. Its type becomes undead, though it now looks alive, and it gains a number of temporary hit points equal to the corpse's hit point maximum in life."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

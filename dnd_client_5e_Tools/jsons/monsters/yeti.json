@@ -9,6 +9,7 @@
     "perception": "+3",
     "stealth": "+3",
     "name": "Yeti",
+    "HP": "51 (6d10 + 18)",
     "AC": 12,
     "speed": [
         "40 ft",
@@ -41,10 +42,6 @@
         "Multiattack": "The yeti can use its Chilling Gaze and makes two claw attacks.",
         "Claw": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.",
         "Chilling Gaze": "The yeti targets one creature it can see within 30 feet of it. If the target can see the yeti, the target must succeed on a DC 13+1d4 + 11 Constitution saving throw against this magic or take 10 (3d6) cold damage and then be paralyzed for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target's saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

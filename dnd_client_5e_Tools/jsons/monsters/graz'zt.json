@@ -13,6 +13,7 @@
     "perception": "+12",
     "persuasion": "+15",
     "name": "Graz\\'zt",
+    "HP": "346 (33d10 + 165)",
     "AC": 20,
     "speed": [
         "40 ft"

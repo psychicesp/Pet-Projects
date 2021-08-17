@@ -8,6 +8,7 @@
     "charisma": "3",
     "perception": "+2",
     "name": "Enormous Tentacle",
+    "HP": "60 (8d12 + 8)",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -32,10 +33,6 @@
     },
     "actions": {
         "Constrict": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 35 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16+1d4 + 14). Until this grapple ends, the creature is restrained, and the tentacle can't constrict another target."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

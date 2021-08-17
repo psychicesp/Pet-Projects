@@ -9,6 +9,7 @@
     "arcana": "+14",
     "perception": "+13",
     "name": "Belashyrra",
+    "HP": "304 (32d8 + 160)",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -37,7 +38,7 @@
         "Deep Speech",
         "telepathy 120 ft."
     ],
-    "CR": "22 (41,000 XP) or 23 (50,000 XP) when encountered in lair",
+    "CR": "22 (41,000 XP) or 23 (50,000 XP) whe ecoutered i lair",
     "page": 286,
     "book": "Eberron: Rising from the Last War",
     "traits": {

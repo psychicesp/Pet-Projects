@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "5d6",
     "strength": "10",
     "dexterity": "17",
     "constitution": "10",
@@ -8,6 +7,9 @@
     "wisdom": "5",
     "charisma": "1",
     "name": "Broom of Animated Attack",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 5,
+    "HP": "17 (5d6)",
     "AC": 15,
     "speed": [
         "0 ft",
@@ -39,10 +41,6 @@
     "actions": {
         "Multiattack": "The broom makes two melee attacks.",
         "Broomstick": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

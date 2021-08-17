@@ -9,6 +9,7 @@
     "perception": "+3",
     "stealth": "+8",
     "name": "Shadowghast",
+    "HP": "49 (9d8 + 9)",
     "AC": 15,
     "speed": [
         "35 ft"
@@ -45,10 +46,6 @@
         "Multiattack": "The shadowghast makes two attacks: one with its bite and one with its claws.",
         "Bite": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one creature. Hit: 11 (2d8 + 2) slashing damage plus 5 (1d10) necrotic damage.",
         "Claws": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 12+1d6 + 9 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

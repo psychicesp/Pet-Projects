@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "8",
+    "constitution": "16",
+    "intelligence": "5",
+    "wisdom": "7",
+    "charisma": "7",
+    "name": "Ogre Goblin Hucker",
+    "HP": "59 (7d10 + 21)",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Common",
+        "Giant"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 50,
+    "book": "Storm King\\xe2\\x80\\x99s Thunder",
+    "actions": {
+        "Greatclub": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.",
+        "Javelin": "Melee or Ranged Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.",
+        "Goblin Projectile": "Ranged Weapon Attack: +3+1d4 + 1 to hit, range 150/600 ft. (can't hit targets within 30 feet of the hucker), one target. Hit: 5 (2d4) bludgeoning damage, or 10 (4d4) piercing damage if the projectile is wearing a spiked helmet. Hit or Miss: The goblin projectile takes 1d6 bludgeoning damage per 10 feet it travels through the air (maximum 20d6)."
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "giant"
+}

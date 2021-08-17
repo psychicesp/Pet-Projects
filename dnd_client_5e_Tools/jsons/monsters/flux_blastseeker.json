@@ -11,6 +11,7 @@
     "arcana": "+8",
     "perception": "+2",
     "name": "Flux Blastseeker",
+    "HP": "55 (10d8 + 10)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -49,10 +50,6 @@
     },
     "actions": {
         "Quarterstaff": "Melee Weapon Attack: +3+1d6 + 0 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

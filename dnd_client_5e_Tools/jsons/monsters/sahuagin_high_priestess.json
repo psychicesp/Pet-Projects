@@ -11,6 +11,7 @@
     "insight": "+6",
     "perception": "+6",
     "name": "Sahuagin High Priestess",
+    "HP": "71 (11d8 + 22)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -63,10 +64,6 @@
         "Toothsome Staff": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage.",
         "Bite": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
         "Claws": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

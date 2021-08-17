@@ -13,6 +13,7 @@
     "religion": "+8",
     "stealth": "+7",
     "name": "Drow Inquisitor",
+    "HP": "143 (22d8 + 44)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -46,8 +47,7 @@
         "Discern Lie": "The drow knows when she hears a creature speak a lie in a language she knows.",
         "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
-            "level": 12,
-            "type": "cleric",
+            "type": "innate",
             "spells": [
                 "guidance",
                 "message",
@@ -79,10 +79,6 @@
     "actions": {
         "Multiattack": "The drow makes three death lance attacks.",
         "Death Lance": "Melee Weapon Attack: +10+1d10 + 5 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) piercing damage plus 18 (4d8) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage it takes. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

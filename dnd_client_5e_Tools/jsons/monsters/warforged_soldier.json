@@ -12,6 +12,7 @@
     "perception": "+4",
     "survival": "+4",
     "name": "Warforged Soldier",
+    "HP": "30 (4d8 + 12)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -41,10 +42,6 @@
         "Multiattack": "The warforged makes two armblade attacks.",
         "Armblade": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
         "Javelin": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

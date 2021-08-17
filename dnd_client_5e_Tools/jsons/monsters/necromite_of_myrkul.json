@@ -1,0 +1,42 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "10",
+    "dexterity": "13",
+    "constitution": "15",
+    "intelligence": "16",
+    "wisdom": "11",
+    "charisma": "10",
+    "arcana": "+5",
+    "religion": "+5",
+    "name": "Necromite of Myrkul",
+    "HP": "13 (2d8 + 4)",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Abyssal",
+        "Common",
+        "Infernal"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 234,
+    "book": "Baldur\\xe2\\x80\\x99s Gate: Descent Into Avernus",
+    "actions": {
+        "Skull Flail": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 4 (1d8) bludgeoning damage.",
+        "Claws of the Grave": "Ranged Spell Attack: +5+1d4 + 3 to hit, range 90 ft., one target. Hit: 8 (2d4 + 3) necrotic damage."
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

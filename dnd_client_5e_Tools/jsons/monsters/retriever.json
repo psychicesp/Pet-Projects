@@ -9,6 +9,7 @@
     "perception": "+5",
     "stealth": "+8",
     "name": "Retriever",
+    "HP": "210 (20d10 + 100)",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -58,10 +59,6 @@
         "Foreleg": "Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) slashing damage.",
         "Force Beam": "The retriever targets one creature it can see within 60 feet of it. The target must make a DC 16+1d10 + 11 Dexterity saving throw, taking 27 (5d10) force damage on a failed save, or half as much damage on a successful one.",
         "Paralyzing Beam (Recharge 5xe2x80x936)": "The retriever targets one creature it can see within 60 feet of it. The target must succeed on a DC 18+1d10 + 13 Constitution saving throw or be paralyzed for 1 minute. The paralyzed target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

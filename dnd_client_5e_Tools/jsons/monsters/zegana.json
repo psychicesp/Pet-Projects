@@ -12,6 +12,7 @@
     "nature": "+10",
     "perception": "+9",
     "name": "Zegana",
+    "HP": "130 (20d8 + 40)",
     "AC": 16,
     "speed": [
         "30 ft",

@@ -16,6 +16,7 @@
     "persuasion": "+16",
     "stealth": "+9",
     "name": "Ancient Gold Dragon",
+    "HP": "546 (28d20 + 252)",
     "AC": 22,
     "speed": [
         "40 ft",
@@ -46,7 +47,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "24 (62,000 XP)",
     "page": 113,
     "book": "Monster Manual",
     "traits": {

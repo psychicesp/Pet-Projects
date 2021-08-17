@@ -9,6 +9,7 @@
     "wisdom": "9",
     "charisma": "10",
     "name": "Scorchbringer Guard",
+    "HP": "11 (2d8 + 2)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -30,10 +31,6 @@
     "actions": {
         "Light Hammer": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.",
         "Scorchbringer (Recharge 4xe2x80x936)": "The guard's scorchbringer spouts a stream of flame in a line that is 30 feet long and 5 feet wide. Each creature in the line must make a DC 12+1d4 + 10 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

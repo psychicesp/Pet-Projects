@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Giant Riding Lizard",
+    "HP": "19 (3d10 + 3)",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -29,10 +30,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

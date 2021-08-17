@@ -9,6 +9,7 @@
     "wisdom": "10",
     "charisma": "9",
     "name": "Dhergoloth",
+    "HP": "119 (14d8 + 56)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -57,10 +58,6 @@
         "Claw": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage.",
         "Flailing Claws (Recharge 5xe2x80x936)": "The dhergoloth moves up to its walking speed in a straight line and targets each creature within 5 feet of it during its movement. Each target must succeed on a DC 14+1d6 + 11 Dexterity saving throw or take 22 (3d12 + 3) slashing damage.",
         "Teleport": "The dhergoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

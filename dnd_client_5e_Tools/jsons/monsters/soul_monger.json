@@ -10,6 +10,7 @@
     "charisma": "13",
     "perception": "+6",
     "name": "Soul Monger",
+    "HP": "123 (19d8 + 38)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -62,10 +63,6 @@
         "Multiattack": "The soul monger makes two phantasmal dagger attacks.",
         "Phantasmal Dagger": "Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one target. Hit: 13 (4d4 + 3) piercing damage plus 19 (3d12) necrotic damage, and the target has disadvantage on saving throws until the start of the soul monger's next turn.",
         "Wave of Weariness (Recharge 4xe2x80x936)": "The soul monger emits weariness in a 60-foot cube. Each creature in that area must make a DC 16+1d8 + 12 Constitution saving throw. On a failed save, a creature takes 45 (10d8) psychic damage and suffers 1 level of exhaustion. On a successful save, it takes 22 (5d8) psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

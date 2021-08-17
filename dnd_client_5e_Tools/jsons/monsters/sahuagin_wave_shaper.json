@@ -1,0 +1,60 @@
+{
+    "tags": [
+        "sahuagin"
+    ],
+    "strength": "10",
+    "dexterity": "12",
+    "constitution": "12",
+    "intelligence": "16",
+    "wisdom": "14",
+    "charisma": "12",
+    "arcana": "+6",
+    "intimidation": "+4",
+    "perception": "+5",
+    "name": "Sahuagin Wave Shaper",
+    "HP": "60 (11d8 + 11)",
+    "AC": 14,
+    "speed": [
+        "30 ft",
+        "swim 40 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "intimidation": "proficient",
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Sahuagin"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 251,
+    "book": "Ghosts of Saltmarsh",
+    "traits": {
+        "Blood Frenzy": "The wave shaper has advantage on melee attack rolls against any creature that doesn't have all its hit points.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "message",
+                "comprehend languages"
+            ]
+        },
+        "Limited Amphibiousness": "The wave shaper can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.",
+        "Shark Telepathy": "The wave shaper can magically command any shark within 120 feet of it, using a limited telepathy."
+    },
+    "actions": {
+        "Multiattack": "The wave shaper makes two attacks: one with its bite and one with its claws.",
+        "Bite": "Melee Weapon Attack: +4+1d6 + 1 to hit, reach 5 ft., one target. Hit: 10 (2d8 + 1) piercing damage plus 13 (3d8) cold damage.",
+        "Claws": "Melee Weapon Attack: +4+1d6 + 1 to hit, reach 5 ft., one target. Hit: 10 (2d8 + 1) slashing damage plus 13 (3d8) cold damage.",
+        "Whirlpool (1/Day)": "The wave shaper targets a body of water at least 50 feet square and 25 feet deep, causing a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 5 feet wide at the base, up to 50 feet wide at the top, 25 feet tall, and lasts for 1 minute or until the wave shaper is incapacitated. Any creature or object in the water and within 25 feet of the vortex is pulled 10 feet toward it. A creature can swim away from the vortex by succeeding on a DC 14+1d6 + 11 Strength (Athletics) check."
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
+}

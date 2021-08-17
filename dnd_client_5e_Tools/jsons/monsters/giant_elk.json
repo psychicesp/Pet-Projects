@@ -8,6 +8,7 @@
     "charisma": "10",
     "perception": "+4",
     "name": "Giant Elk",
+    "HP": "42 (5d12 + 10)",
     "AC": 14,
     "speed": [
         "60 ft"
@@ -34,10 +35,6 @@
     "actions": {
         "Ram": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.",
         "Hooves": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one prone creature. Hit: 22 (4d8 + 4) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

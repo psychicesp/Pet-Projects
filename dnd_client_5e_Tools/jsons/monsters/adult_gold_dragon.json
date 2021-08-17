@@ -16,6 +16,7 @@
     "persuasion": "+13",
     "stealth": "+8",
     "name": "Adult Gold Dragon",
+    "HP": "256 (19d12 + 133)",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -46,7 +47,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "17 (18,000 XP)",
     "page": 114,
     "book": "Monster Manual",
     "traits": {

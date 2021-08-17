@@ -14,6 +14,7 @@
     "insight": "+10",
     "perception": "+10",
     "name": "Nagpa",
+    "HP": "187 (34d8 + 34)",
     "AC": 19,
     "speed": [
         "30 ft"
@@ -78,10 +79,6 @@
     },
     "actions": {
         "Staff": "Melee Weapon Attack: +8+1d12 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

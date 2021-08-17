@@ -9,6 +9,7 @@
     "wisdom": "12",
     "charisma": "13",
     "name": "White Abishai",
+    "HP": "68 (8d8 + 32)",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -51,10 +52,6 @@
         "Longsword": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
         "Claw": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage.",
         "Bite": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) cold damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

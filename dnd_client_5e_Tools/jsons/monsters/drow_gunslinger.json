@@ -11,6 +11,7 @@
     "perception": "+3",
     "stealth": "+8",
     "name": "Drow Gunslinger",
+    "HP": "84 (13d8 + 26)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -53,10 +54,6 @@
         "Multiattack": "The drow makes two shortsword attacks.",
         "Shortsword": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.",
         "Poisonous Pistol": "Ranged Weapon Attack: +6+1d4 + 4 to hit, range 30/90 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 11 (2d10) poison damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

@@ -10,6 +10,7 @@
     "intimidation": "+16",
     "perception": "+14",
     "name": "Rak Tulkhesh",
+    "HP": "478 (33d12 + 264)",
     "AC": 23,
     "speed": [
         "40 ft",

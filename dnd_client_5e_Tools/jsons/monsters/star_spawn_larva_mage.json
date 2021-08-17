@@ -8,6 +8,7 @@
     "charisma": "16",
     "perception": "+6",
     "name": "Star Spawn Larva Mage",
+    "HP": "168 (16d8 + 96)",
     "AC": 16,
     "speed": [
         "30 ft"

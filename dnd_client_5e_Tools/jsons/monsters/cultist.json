@@ -2,7 +2,6 @@
     "tags": [
         "any"
     ],
-    "hit": "2d8",
     "strength": "11",
     "dexterity": "12",
     "constitution": "10",
@@ -12,6 +11,9 @@
     "deception": "+2",
     "religion": "+2",
     "name": "Cultist",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 2,
+    "HP": "9 (2d8)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -35,10 +37,6 @@
     },
     "actions": {
         "Scimitar": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one creature. Hit: 4 (1d6 + 1) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "ANA",
     "size": "Medium",

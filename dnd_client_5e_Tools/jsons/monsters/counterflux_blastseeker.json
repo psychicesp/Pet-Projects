@@ -11,6 +11,7 @@
     "arcana": "+6",
     "perception": "+2",
     "name": "Counterflux Blastseeker",
+    "HP": "39 (6d8 + 12)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -48,10 +49,6 @@
     },
     "actions": {
         "Rapier": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

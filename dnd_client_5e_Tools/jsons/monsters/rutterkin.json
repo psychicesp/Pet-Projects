@@ -9,6 +9,7 @@
     "wisdom": "12",
     "charisma": "6",
     "name": "Rutterkin",
+    "HP": "37 (5d8 + 15)",
     "AC": 12,
     "speed": [
         "20 ft"
@@ -39,10 +40,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 12 (3d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 13+1d4 + 11 Constitution saving throw against disease or become poisoned. At the end of each long rest, the poisoned target can repeat the saving throw, ending the effect on itself on a success. If the target is reduced to 0 hit points while poisoned in this way, it dies and instantly transforms into a living abyssal wretch. The transformation of the body can be undone only by a wish spell. (See notes)"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

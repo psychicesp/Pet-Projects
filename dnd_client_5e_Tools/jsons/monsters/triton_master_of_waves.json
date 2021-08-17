@@ -12,6 +12,7 @@
     "nature": "+6",
     "survival": "+4",
     "name": "Triton Master of Waves",
+    "HP": "105 (14d8 + 42)",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -59,10 +60,6 @@
         "Multiattack": "The triton makes two attacks using Wave Touch and casts ray of frost.",
         "Wave Touch": "Melee Spell Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 22 (4d10) cold damage.",
         "Ray of Frost (Cantrip)": "Ranged Spell Attack: +7+1d6 + 4 to hit, range 60 ft., one creature. Hit: 13 (3d8) cold damage, and the target's speed is reduced by 10 feet until the start of the triton's next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

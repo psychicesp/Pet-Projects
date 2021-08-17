@@ -9,6 +9,7 @@
     "perception": "+3",
     "stealth": "+8",
     "name": "Flitterstep Eidolon",
+    "HP": "44 (8d8 + 8)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -47,10 +48,6 @@
         "Multiattack": "The eidolon makes two melee attacks. Immediately before or after one of its attacks, it can use Flitterstep if it is available.",
         "Flickering Dagger": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage plus 3 (1d6) psychic damage.",
         "Flitterstep (Recharge 5xe2x80x936)": "The eidolon magically teleports to an unoccupied space it can see within 30 feet of it. If it makes an attack immediately after teleporting, it has advantage on the attack roll."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

@@ -13,6 +13,7 @@
     "persuasion": "+4",
     "stealth": "+5",
     "name": "Imp",
+    "HP": "10 (3d4 + 3)",
     "AC": 13,
     "speed": [
         "20 ft",
@@ -54,10 +55,6 @@
     "actions": {
         "Sting (Bite in Beast Form)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must make a DC 11+1d4 + 9 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.",
         "Invisibility": "The imp magically turns invisible until it attacks, or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Tiny",

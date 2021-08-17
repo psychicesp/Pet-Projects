@@ -10,6 +10,7 @@
     "nature": "+8",
     "perception": "+9",
     "name": "Conclave Dryad",
+    "HP": "143 (22d8 + 44)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -59,10 +60,6 @@
         "Longbow": "Ranged Weapon Attack: +8+1d8 + 4 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage.",
         "Summon Mount (1/Day)": "The dryad magically summons a mount, which appears in an unoccupied space within 60 feet of the dryad. The mount remains for 8 hours, until it or the dryad dies, or until the dryad dismisses it as an action. The mount uses the stat block of an elk (see the Monster Manual) with these changes: it is a plant instead of a beast, it has an Intelligence of 6, and it understands Sylvan but can't speak. While within 1 mile of the mount, the dryad can communicate with it telepathically.",
         "Suppress Magic (Recharge 5xe2x80x936)": "The dryad targets one magic item it can see within 120 feet of it. If the magic item isn't an artifact, its magical properties are suppressed for 10 minutes, until the dryad is incapacitated or dies, or until the dryad uses a bonus action to end the effect."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LG",
     "size": "Medium",

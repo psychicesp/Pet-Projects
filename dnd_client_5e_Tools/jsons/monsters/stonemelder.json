@@ -11,6 +11,7 @@
     "intimidation": "+5",
     "perception": "+2",
     "name": "Stonemelder",
+    "HP": "75 (10d8 + 30)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -55,10 +56,6 @@
     },
     "actions": {
         "Black Earth Rod": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage. The Stonemelder can also expend a spell slot to deal extra damage, dealing 2d8 bludgeoning damage for a 1st level slot, plus an additional 1d8 for each level of the slot above 1st."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

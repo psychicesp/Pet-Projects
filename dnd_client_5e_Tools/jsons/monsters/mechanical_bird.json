@@ -1,0 +1,38 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Mechanical Bird",
+    "HP": "1",
+    "AC": 15,
+    "speed": [
+        "0 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "page": 46,
+    "book": "Waterdeep: Dragon Heist",
+    "actions": {
+        "Slam": "Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 2 (1d3) piercing damage, and the bird is destroyed by the impact."
+    },
+    "alignment": "N",
+    "size": "Tiny",
+    "type": "construct"
+}

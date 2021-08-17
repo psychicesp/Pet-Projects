@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "1d6",
     "strength": "8",
     "dexterity": "15",
     "constitution": "11",
@@ -9,6 +8,9 @@
     "charisma": "6",
     "perception": "+3",
     "name": "Jackal",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 1,
+    "HP": "3 (1d6)",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -32,10 +34,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

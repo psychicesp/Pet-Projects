@@ -13,6 +13,7 @@
     "persuasion": "+7",
     "religion": "+4",
     "name": "Booyahg Slave of the Fiend",
+    "HP": "78 (12d8 + 24)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -44,8 +45,7 @@
     "traits": {
         "Dark One's Own Luck (Recharges after a Short or Long Rest)": "When the goblin makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur.",
         "spellcasting": {
-            "level": 17,
-            "type": "The goblin is a 17th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15+1d6 + 12, +7+1d6 + 4 to hit with spell attacks). It\n                        regains its expended spell slots when it finishes a short or long rest. It knows the following\n                        warlock",
+            "type": "innate",
             "spells": [
                 "eldritch blast",
                 "fire bolt",
@@ -70,10 +70,6 @@
     },
     "actions": {
         "Mace": "Melee Weapon Attack: +3+1d6 + 0 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage plus 10 (3d6) fire damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Small",

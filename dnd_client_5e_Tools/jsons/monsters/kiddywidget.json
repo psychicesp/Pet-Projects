@@ -1,0 +1,45 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "1",
+    "wisdom": "10",
+    "charisma": "1",
+    "name": "Kiddywidget",
+    "HP": "15 (2d6 + 8)",
+    "AC": 16,
+    "speed": [
+        "20 ft",
+        "climb 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "lightning, poison"
+    ],
+    "condition_immunities": [
+        "blinded, deafened, exhaustion, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Skitterwidget"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 136,
+    "book": "Candlekeep Mysteries",
+    "traits": {
+        "Unusual Nature": "The kiddywidget doesn't require air, food, drink, or sleep."
+    },
+    "actions": {
+        "Multiattack": "The kiddywidget makes two attacks: one with its bite and one with its tail.",
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a creature, it is grappled by the kiddywidget (escape DC 8+1d4 + 6).",
+        "Tail": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage plus 2 (1d4) lightning damage."
+    },
+    "alignment": "U",
+    "size": "Small",
+    "type": "construct"
+}

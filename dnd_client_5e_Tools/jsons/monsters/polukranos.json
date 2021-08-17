@@ -8,6 +8,7 @@
     "charisma": "10",
     "perception": "+14",
     "name": "Polukranos",
+    "HP": "232 (15d20 + 75)",
     "AC": 17,
     "speed": [
         "50 ft",

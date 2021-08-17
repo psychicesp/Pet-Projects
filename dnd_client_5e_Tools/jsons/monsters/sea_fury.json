@@ -11,6 +11,7 @@
     "perception": "+5",
     "stealth": "+6",
     "name": "Sea Fury",
+    "HP": "105 (14d8 + 42)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -39,7 +40,7 @@
         "Common",
         "Giant"
     ],
-    "CR": "12 (8,400 XP) or 14 (11,500 XP) when encountered in lair",
+    "CR": "12 (8,400 XP) or 14 (11,500 XP) whe ecoutered i lair",
     "page": 299,
     "book": "Explorer\\xe2\\x80\\x99s Guide to Wildemount",
     "traits": {

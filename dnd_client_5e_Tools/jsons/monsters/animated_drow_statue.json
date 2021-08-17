@@ -8,6 +8,7 @@
     "wisdom": "3 (-4)",
     "charisma": "1 (-5)",
     "name": "Animated Drow Statue",
+    "HP": "33 (6d8 + 6)",
     "AC": 18,
     "speed": [
         "25 ft"
@@ -27,7 +28,7 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "1 (200 XP)",
     "page": 96,
     "book": "Out of the Abyss",
     "traits": {
@@ -37,10 +38,6 @@
     "actions": {
         "Multiattack": "The statue makes two melee attacks.",
         "Slam": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

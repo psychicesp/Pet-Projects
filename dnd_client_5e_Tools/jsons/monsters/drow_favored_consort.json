@@ -13,6 +13,7 @@
     "perception": "+8",
     "stealth": "+11",
     "name": "Drow Favored Consort",
+    "HP": "225 (30d8 + 90)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -42,8 +43,7 @@
     "traits": {
         "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
-            "level": 11,
-            "type": "wizard",
+            "type": "innate",
             "spells": [
                 "mage hand",
                 "message",
@@ -74,10 +74,6 @@
         "Multiattack": "The drow makes three scimitar attacks.",
         "Scimitar": "Melee Weapon Attack: +11+1d12 + 5 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage plus 18 (4d8) poison damage. In addition, the target has disadvantage on the next saving throw it makes against a spell the drow casts before the end of the drow's next turn.",
         "Hand Crossbow": "Ranged Weapon Attack: +11+1d12 + 5 to hit, range 30/120 ft., one target. Hit: 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13+1d12 + 7 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

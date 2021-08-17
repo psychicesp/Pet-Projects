@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "5d8",
     "strength": "1",
     "dexterity": "14",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "10",
     "charisma": "11",
     "name": "Poltergeist",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 5,
+    "HP": "22 (5d8)",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -43,10 +45,6 @@
     "actions": {
         "Forceful Slam": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 10 (3d6) force damage.",
         "Telekinetic Thrust": "The poltergeist targets a creature or unattended object within 30 feet of it. A creature must be Medium or smaller to be affected by this magic, and an object can weigh up to 150 pounds."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

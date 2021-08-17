@@ -8,6 +8,7 @@
     "charisma": "7",
     "perception": "+3",
     "name": "Mastiff",
+    "HP": "5 (1d8 + 1)",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -30,10 +31,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11+1d4 + 9 Strength saving throw or be knocked prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

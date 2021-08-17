@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "6",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "12",
+    "wisdom": "11",
+    "charisma": "4",
+    "name": "Gremishka",
+    "hit_dice_type": "d4",
+    "num_hit_dice": 4,
+    "HP": "10 (4d4)",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Common but can\\'t speak"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 235,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "actions": {
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 2) piercing damage plus 3 (1d6) force damage."
+    },
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "monstrosity"
+}

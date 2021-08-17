@@ -12,6 +12,7 @@
     "perception": "+16",
     "persuasion": "+13",
     "name": "Trostani",
+    "HP": "252 (24d10 + 120)",
     "AC": 17,
     "speed": [
         "30 ft"

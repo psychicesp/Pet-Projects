@@ -10,6 +10,7 @@
     "charisma": "14",
     "stealth": "+4",
     "name": "Derro Savant",
+    "HP": "36 (8d6 + 8)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -52,10 +53,6 @@
     },
     "actions": {
         "Quarterstaff": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Small",

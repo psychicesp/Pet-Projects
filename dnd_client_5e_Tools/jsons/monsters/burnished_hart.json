@@ -7,6 +7,7 @@
     "wisdom": "15",
     "charisma": "1",
     "name": "Burnished Hart",
+    "HP": "45 (6d8 + 18)",
     "AC": 14,
     "speed": [
         "50 ft"
@@ -38,10 +39,6 @@
         "Multiattack": "The hart makes two attacks: one with its antlers and one with its hooves.",
         "Antlers": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.",
         "Hooves": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) fire damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

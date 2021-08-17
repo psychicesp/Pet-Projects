@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "5d8",
     "strength": "1",
     "dexterity": "1",
     "constitution": "10",
@@ -8,6 +7,9 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Guardian Portrait",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 5,
+    "HP": "22 (5d8)",
     "AC": 5,
     "speed": [
         "0 ft"
@@ -46,10 +48,6 @@
         }
     },
     "actions": {},
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
-    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

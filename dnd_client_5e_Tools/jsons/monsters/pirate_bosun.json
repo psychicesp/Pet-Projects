@@ -11,6 +11,7 @@
     "athletics": "+5",
     "intimidation": "+3",
     "name": "Pirate Bosun",
+    "HP": "27 (5d8 + 5)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -36,10 +37,6 @@
     "actions": {
         "Light Hammer": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.",
         "Hook": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage, and the target is grappled (escape DC 13+1d4 + 11)."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

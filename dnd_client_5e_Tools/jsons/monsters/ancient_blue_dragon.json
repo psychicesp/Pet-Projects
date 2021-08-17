@@ -14,6 +14,7 @@
     "perception": "+17",
     "stealth": "+7",
     "name": "Ancient Blue Dragon",
+    "HP": "481 (26d20 + 208)",
     "AC": 22,
     "speed": [
         "40 ft",
@@ -42,7 +43,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "23 (50,000 XP)",
     "page": 90,
     "book": "Monster Manual",
     "traits": {

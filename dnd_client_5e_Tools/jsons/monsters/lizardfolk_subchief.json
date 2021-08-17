@@ -12,6 +12,7 @@
     "perception": "+5",
     "survival": "+5",
     "name": "Lizardfolk Subchief",
+    "HP": "52 (8d8 + 16)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -58,10 +59,6 @@
     "actions": {
         "Tooth Dagger": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
         "Jaws of Semuanya (Recharge 5xe2x80x936)": "The subchief invokes the primal magic of Semuanya, summoning a spectral maw around a target it can see within 60 feet of it. The target must make a DC 13+1d4 + 11 Dexterity saving throw, taking 22 (5d8) piercing damage on a failed save, or half as much damage on a successful one. A creature that fails this saving throw is also frightened until the end of its next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

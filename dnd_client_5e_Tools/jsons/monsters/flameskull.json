@@ -9,6 +9,7 @@
     "arcana": "+5",
     "perception": "+2",
     "name": "Flameskull",
+    "HP": "40 (9d4 + 18)",
     "AC": 13,
     "speed": [
         "0 ft",
@@ -58,10 +59,6 @@
     "actions": {
         "Multiattack": "The flameskull uses Fire Ray twice.",
         "Fire Ray": "Ranged Spell Attack: +5+1d4 + 3 to hit, range 30 ft., one target. Hit: 10 (3d6) fire damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Tiny",

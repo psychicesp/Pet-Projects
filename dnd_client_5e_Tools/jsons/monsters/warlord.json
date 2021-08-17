@@ -13,6 +13,7 @@
     "perception": "+5",
     "persuasion": "+8",
     "name": "Warlord",
+    "HP": "229 (27d8 + 108)",
     "AC": 18,
     "speed": [
         "30 ft"

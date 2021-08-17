@@ -9,6 +9,7 @@
     "wisdom": "12",
     "charisma": "18",
     "name": "Gloom Weaver",
+    "HP": "104 (16d8 + 32)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -39,8 +40,7 @@
         "Burden of Time": "Beasts and humanoids, other than shadar-kai, have disadvantage on saving throws while within 10 feet of the gloom weaver.",
         "Fey Ancestry": "The gloom weaver has advantage on saving throws against being charmed, and magic can't put it to sleep.",
         "spellcasting": {
-            "level": 12,
-            "type": "warlock",
+            "type": "innate",
             "spells": [
                 "minor illusion",
                 "prestidigitation",
@@ -64,10 +64,6 @@
     "actions": {
         "Multiattack": "The gloom weaver makes two spear attacks and casts one spell that takes 1 action to cast.",
         "Shadow Spear": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 26 (4d12) necrotic damage, or 8 (1d8 + 4) piercing damage plus 26 (4d12) necrotic damage if used with two hands."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

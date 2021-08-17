@@ -17,6 +17,7 @@
     "perception": "+13",
     "persuasion": "+13",
     "name": "Bael",
+    "HP": "189 (18d10 + 90)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -50,7 +51,7 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "variable",
+    "CR": "19 (22,000 XP)",
     "page": 170,
     "book": "Mordenkainen\u2019s Tome of Foes",
     "traits": {

@@ -9,6 +9,7 @@
     "perception": "+4",
     "stealth": "+3",
     "name": "Copper Dragon Wyrmling",
+    "HP": "22 (4d8 + 4)",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -42,10 +43,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.",
         "Breath Weapons (Recharge 5xe2x80x936)": "The dragon uses one of the following breath weapons."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CG",
     "size": "Medium",

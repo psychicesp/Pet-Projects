@@ -1,0 +1,55 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "9",
+    "dexterity": "13",
+    "constitution": "10",
+    "intelligence": "18",
+    "wisdom": "13",
+    "charisma": "11",
+    "perception": "+3",
+    "name": "Precognitive Mage",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 14,
+    "HP": "63 (14d8)",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "truesight 120 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common plus any one language"
+    ],
+    "CR": "3 (700 XP)",
+    "page": 228,
+    "book": "Guildmasters\\xe2\\x80\\x99 Guide to Ravnica",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "detect thoughts",
+                "mage armor",
+                "clairvoyance",
+                "locate object"
+            ]
+        }
+    },
+    "actions": {
+        "Quarterstaff": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.",
+        "Glimpse the Temporal Flood (Recharge 5xe2x80x936)": "The mage targets one creature within 120 feet of it that it can see. The target takes 18 (4d8) psychic damage, and it must succeed on a DC 14+1d4 + 12 Intelligence saving throw or be stunned until the end of its next turn."
+    },
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "humanoid"
+}

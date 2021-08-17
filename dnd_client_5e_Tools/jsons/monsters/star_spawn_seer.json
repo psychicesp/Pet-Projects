@@ -8,6 +8,7 @@
     "charisma": "16",
     "perception": "+9",
     "name": "Star Spawn Seer",
+    "HP": "153 (18d8 + 72)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -51,10 +52,6 @@
         "Comet Staff": "Melee Weapon Attack: +11+1d10 + 6 to hit, reach 5 ft., one target. Hit: 9 (1d6 + 6) bludgeoning damage plus 18 (4d8) psychic damage, or 10 (1d8 + 6) bludgeoning damage plus 18 (4d8) psychic damage, if used with two hands, and the target must succeed on a DC 19+1d10 + 14 Constitution saving throw or be incapacitated until the end of its next turn.",
         "Psychic Orb": "Ranged Spell Attack: +11+1d10 + 6 to hit, range 120 feet, one target. Hit: 27 (5d10) psychic damage.",
         "Collapse Distance (Recharge 6)": "The seer warps space around a creature it can see within 30 feet of it. That creature must make a DC 19+1d10 + 14 Wisdom saving throw. On a failed save, the target, along with any equipment it is wearing or carrying, is magically teleported up to 60 feet to an unoccupied space the seer can see, and all other creatures within 10 feet of the target's original space each takes 39 (6d12) psychic damage. On a successful save, the target takes 19 (3d12) psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

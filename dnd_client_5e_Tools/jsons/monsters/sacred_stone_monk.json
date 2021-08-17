@@ -12,6 +12,7 @@
     "athletics": "+3",
     "perception": "+4",
     "name": "Sacred Stone Monk",
+    "HP": "22 (4d8 + 4)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -39,10 +40,6 @@
     "actions": {
         "Multiattack": "The monk makes two melee attacks.",
         "Unarmed Strike": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

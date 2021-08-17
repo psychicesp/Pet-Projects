@@ -1,0 +1,47 @@
+{
+    "tags": [
+        "of"
+    ],
+    "strength": "3",
+    "dexterity": "12",
+    "constitution": "10",
+    "intelligence": "1",
+    "wisdom": "7",
+    "charisma": "1",
+    "name": "Swarm of Maggots",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 5,
+    "HP": "22 (5d8)",
+    "AC": 11,
+    "speed": [
+        "20 ft",
+        "swim 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "resistances": [
+        "bludgeoning, piercing, slashing"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+    ],
+    "senses": [
+        "blindsight 10 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 247,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny maggot. The swarm can't regain hit points or gain temporary hit points."
+    },
+    "actions": {
+        "Infestation": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. A creature damaged by the swarm must succeed on a DC 12+1d4 + 10 Constitution saving throw or contract a disease."
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "swarm"
+}

@@ -9,6 +9,7 @@
     "wisdom": "9",
     "charisma": "8",
     "name": "Kobold Underling",
+    "HP": "7 (3d6 - 3)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -34,10 +35,6 @@
     "actions": {
         "Shortsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
         "Hand Crossbow": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Small",

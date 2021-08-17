@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "1",
     "name": "Walking Statue of Waterdeep",
+    "HP": "314 (17d20 + 136)",
     "AC": 17,
     "speed": [
         "60 ft"
@@ -42,10 +43,6 @@
         "Multiattack": "The statue makes two melee attacks.",
         "Slam": "Melee Weapon Attack: +16+1d12 + 10 to hit, reach 5 ft., one target. Hit: 29 (3d12 + 10) bludgeoning damage.",
         "Hurled Stone": "Ranged Weapon Attack: +16+1d12 + 10 to hit, range 200/800 ft., one target. Hit: 43 (6d10 + 10) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Gargantuan",

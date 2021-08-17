@@ -8,6 +8,7 @@
     "charisma": "7",
     "perception": "+8",
     "name": "Ironscale Hydra",
+    "HP": "181 (11d20 + 66)",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -40,10 +41,6 @@
     "actions": {
         "Multiattack": "The hydra makes as many bite attacks as it has heads.",
         "Bite": "Melee Weapon Attack: +10+1d8 + 6 to hit, reach 15 ft., one target. Hit: 17 (2d10 + 6) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Gargantuan",

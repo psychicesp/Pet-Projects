@@ -11,6 +11,7 @@
     "intimidation": "+9",
     "perception": "+14",
     "name": "Yeenoghu",
+    "HP": "333 (23d12 + 184)",
     "AC": 20,
     "speed": [
         "50 ft"

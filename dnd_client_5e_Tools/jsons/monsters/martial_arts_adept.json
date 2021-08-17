@@ -12,6 +12,7 @@
     "insight": "+5",
     "stealth": "+5",
     "name": "Martial Arts Adept",
+    "HP": "60 (11d8 + 11)",
     "AC": 16,
     "speed": [
         "40 ft"
@@ -38,10 +39,6 @@
         "Multiattack": "The adept makes three unarmed strikes or three dart attacks.",
         "Unarmed Strike": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the target is a creature, the adept can choose one of the following additional effects:",
         "Dart": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

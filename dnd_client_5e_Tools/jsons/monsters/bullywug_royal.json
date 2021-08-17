@@ -12,6 +12,7 @@
     "intimidation": "+4",
     "stealth": "+3",
     "name": "Bullywug Royal",
+    "HP": "52 (8d8 + 16)",
     "AC": 15,
     "speed": [
         "20 ft",
@@ -48,10 +49,6 @@
         "Royal Spear": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft. or range 20/60 ft., one target. Hit: 10 (2d6 + 3) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack. If the target is a Medium or smaller creature, it must succeed on a DC 13+1d4 + 11 Strength saving throw or be knocked prone.",
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
         "Croaked Decree (1/Day)": "The royal makes a loud pronouncement. Each bullywug within 60 feet of the royal that can hear the pronouncement has advantage on its next attack roll."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

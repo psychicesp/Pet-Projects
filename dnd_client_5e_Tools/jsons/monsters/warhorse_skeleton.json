@@ -1,0 +1,39 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "12",
+    "constitution": "15",
+    "intelligence": "2",
+    "wisdom": "8",
+    "charisma": "5",
+    "name": "Warhorse Skeleton",
+    "HP": "22 (3d10 + 6)",
+    "AC": 13,
+    "speed": [
+        "60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 273,
+    "book": "Monster Manual",
+    "actions": {
+        "Hooves": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage."
+    },
+    "alignment": "LE",
+    "size": "Large",
+    "type": "undead"
+}

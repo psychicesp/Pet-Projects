@@ -9,6 +9,7 @@
     "perception": "+5",
     "stealth": "+4",
     "name": "Two-Headed Cerberus",
+    "HP": "39 (6d8 + 12)",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -43,10 +44,6 @@
         "Multiattack": "The cerberus makes two bite attacks.",
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 2 (1d4) fire damage.",
         "Breath Weapon (Recharge 5xe2x80x936)": "The cerberus exhales a 15-foot cone of molten rock. Each creature in the cone must make a DC 12+1d4 + 10 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one. On a failed save, a creature is also restrained by the hardening rock. A creature can make a DC 12+1d4 + 10 Strength (Athletics) check as an action, freeing itself or a creature within reach from the rock on a success. The rock has AC 17 and 10 hit points, and it is immune to fire, poison, and psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

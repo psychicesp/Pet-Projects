@@ -13,6 +13,7 @@
     "nature": "+2",
     "perception": "+4",
     "name": "Shifter",
+    "HP": "19 (3d8 + 6)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -40,10 +41,6 @@
     "actions": {
         "Shortsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

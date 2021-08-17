@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Demos Magen",
+    "HP": "51 (6d8 + 24)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -37,10 +38,6 @@
         "Multiattack": "The magen makes two melee attacks.",
         "Greatsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.",
         "Light Crossbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

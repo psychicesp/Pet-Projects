@@ -9,6 +9,7 @@
     "wisdom": "18",
     "charisma": "20",
     "name": "Kraken",
+    "HP": "472 (27d20 + 189)",
     "AC": 18,
     "speed": [
         "20 ft",

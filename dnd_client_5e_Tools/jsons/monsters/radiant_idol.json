@@ -11,6 +11,7 @@
     "perception": "+9",
     "persuasion": "+9",
     "name": "Radiant Idol",
+    "HP": "142 (15d10 + 60)",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -65,10 +66,6 @@
         "Multiattack": "The radiant idol makes two melee attacks.",
         "Flail": "Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) bludgeoning damage plus 18 (4d8) radiant damage.",
         "Radiant Strike (1/Day)": "The radiant idol chooses a point on the ground it can see within 60 feet of it. A 30-foot-radius, 40-foot-high cylinder of bright light appears there until the start of the radiant idol's next turn. Each creature in the cylinder when it appears or that ends its turn there must make a DC 17+1d8 + 13 Constitution saving throw, taking 36 (8d8) radiant damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

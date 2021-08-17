@@ -8,6 +8,7 @@
     "charisma": "7",
     "perception": "+3",
     "name": "Dolphin",
+    "HP": "11 (2d8 + 2)",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -33,10 +34,6 @@
     },
     "actions": {
         "Slam": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

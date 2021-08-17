@@ -8,6 +8,7 @@
     "charisma": "9",
     "survival": "+4",
     "name": "Chardalyn Berserker",
+    "HP": "90 (12d8 + 36)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -33,10 +34,6 @@
         "Multiattack": "The berserker attacks three times with a melee weapon.",
         "Chardalyn Flail": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 13+1d4 + 11 Constitution saving throw or be poisoned until the end of its next turn.",
         "Chardalyn Javelin": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must succeed on a DC 13+1d4 + 11 Constitution saving throw or be poisoned until the end of its next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

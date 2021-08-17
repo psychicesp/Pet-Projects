@@ -13,6 +13,7 @@
     "perception": "+4",
     "stealth": "+7",
     "name": "Isolde",
+    "HP": "82 (11d8 + 33)",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -64,10 +65,6 @@
         "Nepenthe": "Melee Weapon Attack: +10+1d6 + 7 to hit, reach 5 ft.., one target. Hit: 11 (1d8 + 7) slashing damage, or 12 (1d10 + 7) slashing damage if used with two hands to make a melee attack. If the target is a fiend or an undead, it takes an extra 11 (2d10) radiant damage.",
         "Fire Ray": "Ranged Spell Attack: +7+1d6 + 4 to hit, range 120 ft., one target. Hit: 10 (3d6) fire damage.",
         "Fiendish Charm": "One humanoid Isolde can see within 30 feet of it must succeed on a DC 14+1d6 + 11 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys Isolde's spoken commands. If the target suffers any harm from Isolde or another creature or receives a suicidal command from Isolde, the target can repeat the saving throw, ending the effect on itself on a success. If a target's saving throw is successful, or if the effect ends for it, the creature is immune to Isolde's Fiendish Charm for the next 24 hours."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AEA",
     "size": "Medium",

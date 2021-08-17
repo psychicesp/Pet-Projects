@@ -9,6 +9,7 @@
     "wisdom": "11",
     "charisma": "8",
     "name": "Kraul Warrior",
+    "HP": "27 (5d8 + 5)",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -34,10 +35,6 @@
     },
     "actions": {
         "Spear": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

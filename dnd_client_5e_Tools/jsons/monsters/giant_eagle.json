@@ -8,6 +8,7 @@
     "charisma": "10",
     "perception": "+4",
     "name": "Giant Eagle",
+    "HP": "26 (4d10 + 4)",
     "AC": 13,
     "speed": [
         "10 ft",
@@ -34,10 +35,6 @@
         "Multiattack": "The eagle makes two attacks: one with its beak and one with its talons.",
         "Beak": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
         "Talons": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NG",
     "size": "Large",

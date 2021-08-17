@@ -8,6 +8,7 @@
     "charisma": "10",
     "perception": "+6",
     "name": "Gold-Forged Sentinel",
+    "HP": "76 (8d10 + 32)",
     "AC": 16,
     "speed": [
         "40 ft",
@@ -41,10 +42,6 @@
         "Multiattack": "The sentinel makes two ram attacks.",
         "Ram": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.",
         "Fire Breath (Recharge 5xe2x80x936)": "The sentinel exhales fire in a 15-foot cone. Each creature in that area must make a DC 15+1d6 + 12 Dexterity saving throw, taking 27 (6d8) fire damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

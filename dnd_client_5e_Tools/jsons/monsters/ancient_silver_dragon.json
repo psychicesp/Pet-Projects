@@ -16,6 +16,7 @@
     "perception": "+16",
     "stealth": "+7",
     "name": "Ancient Silver Dragon",
+    "HP": "487 (25d20 + 225)",
     "AC": 22,
     "speed": [
         "40 ft",
@@ -45,7 +46,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "23 (50,000 XP)",
     "page": 116,
     "book": "Monster Manual",
     "traits": {

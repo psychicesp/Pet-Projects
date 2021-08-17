@@ -15,6 +15,7 @@
     "insight": "+10",
     "perception": "+10",
     "name": "Ashen Rider",
+    "HP": "178 (21d8 + 84)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -43,7 +44,7 @@
     "languages": [
         "all"
     ],
-    "CR": "variable",
+    "CR": "16 (15,000 XP)",
     "page": 213,
     "book": "Mythic Odysseys of Theros",
     "traits": {

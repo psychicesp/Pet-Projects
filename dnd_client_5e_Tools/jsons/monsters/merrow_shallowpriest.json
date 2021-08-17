@@ -7,6 +7,7 @@
     "wisdom": "16",
     "charisma": "9",
     "name": "Merrow Shallowpriest",
+    "HP": "75 (10d10 + 20)",
     "AC": 15,
     "speed": [
         "10 ft",
@@ -49,10 +50,6 @@
     "actions": {
         "Harpoon": "Melee or Ranged Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a Medium or smaller creature, the merrow can pull it 10 feet closer.",
         "Lightning Bolt (3rd-Level Spell; Requires a Spell Slot)": "The merrow unleashes a stroke of lightning in a line 100 feet long and 5 feet wide. Each creature in the line must make a DC 13+1d4 + 11 Dexterity saving throw, taking 28 (8d6) lightning damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

@@ -7,6 +7,7 @@
     "wisdom": "12",
     "charisma": "12",
     "name": "Giff",
+    "HP": "60 (8d8 + 24)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -32,10 +33,6 @@
         "Musket": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 40/120 ft., one target. Hit: 8 (1d12 + 2) piercing damage.",
         "Pistol": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/90 ft., one target. Hit: 7 (1d10 + 2) piercing damage.",
         "Fragmentation Grenade (1/Day)": "The giff throws a grenade up to 60 feet. Each creature within 20 feet of the grenade's detonation must make a DC 15+1d4 + 13 Dexterity saving throw, taking 17 (5d6) piercing damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Medium",

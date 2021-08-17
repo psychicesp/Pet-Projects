@@ -8,6 +8,7 @@
     "charisma": "4",
     "perception": "+2",
     "name": "Hunter Shark",
+    "HP": "45 (6d10 + 12)",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -33,10 +34,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

@@ -9,6 +9,7 @@
     "perception": "+3",
     "stealth": "+5",
     "name": "Clawfoot",
+    "HP": "19 (3d8 + 6)",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -35,10 +36,6 @@
         "Multiattack": "The clawfoot makes two attacks: one with its bite and one with its claws.",
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.",
         "Claws": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

@@ -12,6 +12,7 @@
     "perception": "+6",
     "survival": "+6",
     "name": "Aeorian Nullifier",
+    "HP": "180 (19d10 + 76)",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -34,7 +35,7 @@
     "languages": [
         "understands Draconic but can't speak"
     ],
-    "CR": "variable",
+    "CR": "12 (8,400 XP)",
     "page": 283,
     "book": "Explorer\u2019s Guide to Wildemount",
     "traits": {
@@ -55,10 +56,6 @@
         "Multiattack": "The nullifier makes three attacks: one with its bites and two with its claws.",
         "Bites": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one creature. Hit: 17 (2d12 + 4) piercing damage plus 11 (2d10) force damage.",
         "Claws": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 11 (2d10) force damage, and the target is grappled (escape DC 16+1d8 + 12) if it's a creature. The nullifier has two claws, each of which can grapple one creature."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

@@ -17,6 +17,7 @@
     "perception": "+13",
     "stealth": "+10",
     "name": "Arasta",
+    "HP": "300 (24d12 + 144)",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -54,7 +55,6 @@
         "Common",
         "Sylvan"
     ],
-    "CR": "variable",
     "page": 248,
     "book": "Mythic Odysseys of Theros",
     "traits": {

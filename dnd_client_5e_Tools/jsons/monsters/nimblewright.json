@@ -9,6 +9,7 @@
     "acrobatics": "+8",
     "perception": "+2",
     "name": "Nimblewright",
+    "HP": "45 (6d8 + 18)",
     "AC": 18,
     "speed": [
         "60 ft"
@@ -46,10 +47,6 @@
         "Multiattack": "The nimblewright makes three attacks: two with its rapier and one with its dagger.",
         "Rapier": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.",
         "Dagger": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) piercing damage. Or Ranged Weapon Attack: +6+1d4 + 4 to hit, range 20/60 ft., one target. Hit: 6 (1d4 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

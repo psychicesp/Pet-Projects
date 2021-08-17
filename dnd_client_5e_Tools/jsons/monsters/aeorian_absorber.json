@@ -13,6 +13,7 @@
     "stealth": "+8",
     "survival": "+6",
     "name": "Aeorian Absorber",
+    "HP": "171 (18d10 + 72)",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -36,7 +37,7 @@
     "languages": [
         "understands Draconic but can't speak"
     ],
-    "CR": "variable",
+    "CR": "10 (5,900 XP)",
     "page": 283,
     "book": "Explorer\u2019s Guide to Wildemount",
     "traits": {
@@ -48,10 +49,6 @@
         "Bite": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one creature. Hit: 10 (1d10 + 5) piercing damage plus 5 (1d10) force damage.",
         "Claws": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage plus 3 (1d6) force damage.",
         "Mind Bolt": "Ranged Spell Attack: +8+1d8 + 4 to hit, range 120 ft., one creature. Hit: 22 (4d10) psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

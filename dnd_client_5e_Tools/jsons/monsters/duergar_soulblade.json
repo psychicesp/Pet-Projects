@@ -2,7 +2,6 @@
     "tags": [
         "dwarf"
     ],
-    "hit": "4d8",
     "strength": "11",
     "dexterity": "16",
     "constitution": "10",
@@ -10,6 +9,9 @@
     "wisdom": "10",
     "charisma": "12",
     "name": "Duergar Soulblade",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 4,
+    "HP": "18 (4d8)",
     "AC": 14,
     "speed": [
         "25 ft"
@@ -48,10 +50,6 @@
         "Soulblade": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) force damage, or 10 (2d6 + 3) force damage while enlarged. If the soulblade has advantage on the attack roll, the attack deals an extra 3 (1d6) force damage.",
         "Enlarge (Recharges after a Short or Long Rest)": "For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.",
         "Invisibility (Recharges after a Short or Long Rest)": "The duergar magically turns invisible for up to 1 hour or until it attacks, it casts a spell, it uses its Enlarge, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

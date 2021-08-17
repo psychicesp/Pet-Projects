@@ -7,6 +7,7 @@
     "wisdom": "14",
     "charisma": "11",
     "name": "Beast of the Sky",
+    "HP": "4 + four times your ranger level (the beast has a number of Hit Dice [d6s] equal to your ranger level)",
     "AC": 13,
     "speed": [
         "10 ft",
@@ -21,7 +22,6 @@
     "languages": [
         "understands the languages you speak"
     ],
-    "CR": "variable",
     "page": 61,
     "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
     "traits": {
@@ -30,10 +30,6 @@
     },
     "actions": {
         "Shred": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d4 + 3 + PB slashing damage"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Small",

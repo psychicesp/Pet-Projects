@@ -11,6 +11,7 @@
     "acrobatics": "+7",
     "performance": "+4",
     "name": "Rakdos Performer, Blade Juggler",
+    "HP": "22 (4d8 + 4)",
     "AC": 13,
     "speed": [
         "40 ft",
@@ -39,10 +40,6 @@
     "actions": {
         "Multiattack": "The juggler makes three dagger attacks.",
         "Dagger": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

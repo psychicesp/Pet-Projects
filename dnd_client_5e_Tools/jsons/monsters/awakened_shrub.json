@@ -8,6 +8,7 @@
     "wisdom": "10 (+0)",
     "charisma": "6 (-2)",
     "name": "Awakened Shrub",
+    "HP": "10 (3d6)",
     "AC": 9,
     "speed": [
         "20 ft"
@@ -23,7 +24,7 @@
     "languages": [
         "one language known by its creator"
     ],
-    "CR": "variable",
+    "CR": "0 (0 or 10 XP)",
     "page": 317,
     "book": "Monster Manual",
     "traits": {
@@ -31,10 +32,6 @@
     },
     "actions": {
         "Rake": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

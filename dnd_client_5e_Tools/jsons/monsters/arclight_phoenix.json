@@ -9,6 +9,7 @@
     "charisma": "7 (-2)",
     "dexterity save": "+10",
     "name": "Arclight Phoenix",
+    "HP": "142 (19d8 + 57)",
     "AC": 16,
     "speed": [
         "0 ft",
@@ -35,7 +36,7 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "12 (8,400 XP)",
     "page": 193,
     "book": "Guildmasters\u2019 Guide to Ravnica",
     "traits": {
@@ -47,10 +48,6 @@
     },
     "actions": {
         "Arclight Touch": "Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one target. Hit: 27 (6d8) lightning damage, and lightning jumps from the target to one creature of the phoenix's choice that it can see within 30 feet of the target. That second creature must succeed on a DC 18+1d8 + 14 Dexterity saving throw or take 27 (6d8) lightning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

@@ -11,6 +11,7 @@
     "insight": "+13",
     "perception": "+13",
     "name": "Dyrrn",
+    "HP": "325 (31d8 + 186)",
     "AC": 21,
     "speed": [
         "40 ft",

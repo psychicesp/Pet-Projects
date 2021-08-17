@@ -11,6 +11,7 @@
     "insight": "+9",
     "perception": "+9",
     "name": "Illithilich",
+    "HP": "135 (18d8 + 54)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -50,8 +51,7 @@
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
         "spellcasting": {
-            "level": 18,
-            "type": "wizard",
+            "type": "innate",
             "spells": [
                 "mage hand",
                 "prestidigitation",

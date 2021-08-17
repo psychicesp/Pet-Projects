@@ -1,0 +1,33 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "8",
+    "constitution": "15",
+    "intelligence": "2",
+    "wisdom": "8",
+    "charisma": "7",
+    "name": "Infant Basilisk",
+    "HP": "4 (1d4 + 2)",
+    "AC": 11,
+    "speed": [
+        "10 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 100,
+    "book": "Out of the Abyss",
+    "actions": {
+        "Bite": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 1 poison damage."
+    },
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "monstrosity"
+}

@@ -8,6 +8,7 @@
     "charisma": "6",
     "perception": "+2",
     "name": "Ice Toad",
+    "HP": "32 (5d8 + 10)",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -37,10 +38,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d8) cold damage. If the target is a Medium or smaller creature it is grappled (escape DC 11+1d4 + 9). Until this grapple ends, the toad can't bite another target."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

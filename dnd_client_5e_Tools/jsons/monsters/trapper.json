@@ -8,6 +8,7 @@
     "charisma": "4",
     "stealth": "+2",
     "name": "Trapper",
+    "HP": "85 (10d10 + 30)",
     "AC": 13,
     "speed": [
         "10 ft",
@@ -34,10 +35,6 @@
     },
     "actions": {
         "Smother": "One Large or smaller creature within 5 feet of the trapper must succeed on a DC 14+1d4 + 12 Dexterity saving throw or be grappled (escape DC 14+1d4 + 12). Until the grapple ends, the target takes 17 (4d6 + 3) bludgeoning damage plus 3 (1d6) acid damage at the start of each of its turns. While grappled in this way, the target is restrained, blinded, and at risk of suffocating. The trapper can smother only one creature at a time."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

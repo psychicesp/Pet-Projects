@@ -7,6 +7,7 @@
     "wisdom": "14",
     "charisma": "5",
     "name": "Winged Lion",
+    "HP": "114 (12d10 + 48)",
     "AC": 13,
     "speed": [
         "60 ft",
@@ -29,10 +30,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage.",
         "Claw": "Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

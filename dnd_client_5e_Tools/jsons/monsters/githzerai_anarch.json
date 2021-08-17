@@ -12,6 +12,7 @@
     "insight": "+10",
     "perception": "+10",
     "name": "Githzerai Anarch",
+    "HP": "144 (17d8 + 68)",
     "AC": 20,
     "speed": [
         "30 ft",

@@ -1,0 +1,55 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "17",
+    "wisdom": "15",
+    "charisma": "17",
+    "perception": "+10",
+    "name": "Reduced-Threat Beholder",
+    "HP": "90 (19d10 + 76)",
+    "AC": 18,
+    "speed": [
+        "0 ft",
+        "fly 20 ft. (hover)"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "condition_immunities": [
+        "prone"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 22"
+    ],
+    "languages": [
+        "Deep Speech",
+        "Undercommon"
+    ],
+    "CR": "13 (5,000 XP) or 14 (11,500 XP) whe ecoutered i lair",
+    "page": 113,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Antimagic Cone": "The beholder's central eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot cone. At the start of each of its turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +3+1d10 - 2 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.",
+        "Eye Rays": "The beholder shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:"
+    },
+    "legendary_actions": {
+        "number": 3,
+        "options": {
+            "Eye Ray": " The beholder uses one random eye ray."
+        }
+    },
+    "alignment": "LE",
+    "size": "Large",
+    "type": "aberration"
+}

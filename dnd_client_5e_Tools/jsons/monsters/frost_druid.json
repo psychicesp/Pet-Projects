@@ -12,6 +12,7 @@
     "perception": "+6",
     "survival": "+6",
     "name": "Frost Druid",
+    "HP": "67 (9d8 + 27)",
     "AC": 13,
     "speed": [
         "40 ft. (wolf form only)",
@@ -70,10 +71,6 @@
         "Ice Sickle (Humanoid Form Only)": "Melee Weapon Attack: +4+1d6 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage plus 5 (2d4) cold damage.",
         "Maul (Beast Form Only)": "Melee Weapon Attack: +4+1d6 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.",
         "Change Shape": "The druid magically polymorphs into a beast formxe2x80x94fox, mountain goat, owl, or wolfxe2x80x94or back into its humanoid form. Any equipment it is wearing or carrying is absorbed or borne by the beast form (the druid's choice). It reverts to its humanoid form when it dies. The druid's statistics are the same in each form, except where noted in this stat block."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

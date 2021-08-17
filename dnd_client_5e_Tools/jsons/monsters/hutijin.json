@@ -11,6 +11,7 @@
     "intimidation": "+14",
     "perception": "+11",
     "name": "Hutijin",
+    "HP": "200 (16d10 + 112)",
     "AC": 19,
     "speed": [
         "30 ft",

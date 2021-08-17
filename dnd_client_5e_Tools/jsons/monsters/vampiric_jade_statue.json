@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Vampiric Jade Statue",
+    "HP": "114 (12d10 + 48)",
     "AC": 14,
     "speed": [
         "30 ft"

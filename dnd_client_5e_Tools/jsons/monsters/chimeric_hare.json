@@ -9,7 +9,8 @@
     "perception": "+2",
     "stealth": "+5",
     "name": "Chimeric Hare",
-    "AC": "",
+    "HP": "1 (1d4 - 1)",
+    "AC": "\n\n",
     "speed": [
         "20 ft",
         "burrow 5 ft",
@@ -33,10 +34,6 @@
         "Escape": "The hare can take the Dash, Disengage, or Hide action as a bonus action on each of its turns."
     },
     "actions": {},
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
-    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

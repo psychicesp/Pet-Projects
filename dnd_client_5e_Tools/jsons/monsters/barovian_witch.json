@@ -11,6 +11,7 @@
     "arcana": "+4",
     "perception": "+2",
     "name": "Barovian Witch",
+    "HP": "16 (3d8 + 3)",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -49,10 +50,6 @@
     "actions": {
         "Claws (Requires Alter Self)": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage. This attack is magical.",
         "Dagger": "Melee or Ranged Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 2 (1d4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

@@ -8,6 +8,7 @@
     "charisma": "8",
     "perception": "+5",
     "name": "Hippogriff",
+    "HP": "19 (3d10 + 3)",
     "AC": 11,
     "speed": [
         "40 ft",
@@ -33,10 +34,6 @@
         "Multiattack": "The hippogriff makes two attacks: one with its beak and one with its claws.",
         "Beak": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.",
         "Claws": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

@@ -10,6 +10,7 @@
     "insight": "+10",
     "perception": "+10",
     "name": "Jarad Vod Savo",
+    "HP": "180 (24d8 + 72)",
     "AC": 17,
     "speed": [
         "30 ft"

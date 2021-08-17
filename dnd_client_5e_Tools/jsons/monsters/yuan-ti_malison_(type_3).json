@@ -11,6 +11,7 @@
     "deception": "+5",
     "stealth": "+4",
     "name": "Yuan-ti Malison (Type 3)",
+    "HP": "66 (12d8 + 12)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -56,10 +57,6 @@
         "Constrict": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13+1d4 + 11). Until this grapple ends, the target is restrained, and the yuan-ti can't constrict another target.",
         "Scimitar (Yuan-ti Form Only)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
         "Longbow (Yuan-ti Form Only)": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "Y",
     "size": "Medium",

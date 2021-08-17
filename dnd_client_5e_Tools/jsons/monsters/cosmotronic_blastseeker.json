@@ -12,6 +12,7 @@
     "intimidation": "+3",
     "perception": "+1",
     "name": "Cosmotronic Blastseeker",
+    "HP": "37 (5d8 + 15)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -49,10 +50,6 @@
     },
     "actions": {
         "Warhammer": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, or 7 (1d10 + 2) bludgeoning damage if used with two hands."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

@@ -9,6 +9,7 @@
     "charisma": "18 (+4)",
     "persuasion": "+6",
     "name": "Alseid",
+    "HP": "22 (4d8 + 4)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -33,7 +34,7 @@
         "Common",
         "Sylvan"
     ],
-    "CR": "variable",
+    "CR": "1 (200 XP)",
     "page": 235,
     "book": "Mythic Odysseys of Theros",
     "traits": {
@@ -54,10 +55,6 @@
     "actions": {
         "Multiattack": "The alseid makes two radiant touch attacks.",
         "Radiant Touch": "Melee Spell Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) radiant damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CG",
     "size": "Medium",

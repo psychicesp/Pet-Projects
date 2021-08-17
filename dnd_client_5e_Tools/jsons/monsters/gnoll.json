@@ -2,7 +2,6 @@
     "tags": [
         "gnoll"
     ],
-    "hit": "5d8",
     "strength": "14",
     "dexterity": "12",
     "constitution": "11",
@@ -10,6 +9,9 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Gnoll",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 5,
+    "HP": "22 (5d8)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -33,10 +35,6 @@
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.",
         "Spear": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.",
         "Longbow": "Ranged Weapon Attack: +3+1d4 + 1 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

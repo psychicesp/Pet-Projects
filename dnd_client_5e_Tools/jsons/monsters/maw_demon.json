@@ -9,6 +9,7 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Maw Demon",
+    "HP": "33 (6d8 + 6)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -39,10 +40,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

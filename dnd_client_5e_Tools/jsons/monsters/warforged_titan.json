@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "1",
     "name": "Warforged Titan",
+    "HP": "125 (10d12 + 60)",
     "AC": 20,
     "speed": [
         "40 ft"
@@ -38,10 +39,6 @@
         "Axehand": "Melee Weapon Attack: +9+1d6 + 6 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) slashing damage, plus 11 (2d10) slashing damage if the target is prone.",
         "Hammerfist": "Melee Weapon Attack: +9+1d6 + 6 to hit, reach 10 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17+1d6 + 14 Strength saving throw or be knocked prone.",
         "Sweeping Axe (Recharge 6)": "The warforged titan makes a sweep with its axehand, and each creature within 10 feet of it must make a DC 17+1d6 + 14 Dexterity saving throw. A creature takes 19 (3d8 + 6) slashing damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Huge",

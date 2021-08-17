@@ -1,0 +1,47 @@
+{
+    "tags": [],
+    "strength": "4",
+    "dexterity": "15",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "7",
+    "name": "Homunculus Servant",
+    "HP": "1 + your Intelligence modifier + your artificer level (the homunculus has a number of Hit Dice [d4s] equal to your artificer level)",
+    "AC": 13,
+    "speed": [
+        "20 ft",
+        "fly 30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {
+        "stealth": "proficient",
+        "perception": "expert"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "exhaustion, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10 + (PB xc3x97 2)"
+    ],
+    "languages": [
+        "understands the languages you speak"
+    ],
+    "page": 22,
+    "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
+    "traits": {
+        "Evasion": "If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated."
+    },
+    "actions": {
+        "Force Strike": "Ranged Weapon Attack: your spell attack modifier to hit, range 30 ft., one target you can see. Hit: 1d4 + PB force damage."
+    },
+    "alignment": "U",
+    "size": "Tiny",
+    "type": "construct"
+}

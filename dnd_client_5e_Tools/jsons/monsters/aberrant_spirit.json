@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "6",
     "name": "Aberrant Spirit",
+    "HP": "40 + 10 for each spell level above 4th",
     "AC": 11,
     "speed": [
         "30 ft",
@@ -25,7 +26,6 @@
         "Deep Speech",
         "understands the languages you speak"
     ],
-    "CR": "variable",
     "page": 109,
     "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
     "traits": {
@@ -37,10 +37,6 @@
         "Eye Ray (Beholderkin Only)": "Ranged Spell Attack: your spell attack modifier to hit, range 150 ft., one creature. Hit: 1d8 + 3 + the spell's level psychic damage.",
         "Claws (Slaad Only)": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 3 + the spell's level slashing damage. If the target is a creature, it can't regain hit points until the start of the aberration's next turn.",
         "Psychic Slam (Star Spawn Only)": "Melee Spell Attack: your spell attack modifier to hit, reach 5 ft., one creature. Hit: 1d8 + 3 + the spell's level psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

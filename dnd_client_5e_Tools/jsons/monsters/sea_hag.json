@@ -7,6 +7,7 @@
     "wisdom": "12",
     "charisma": "13",
     "name": "Sea Hag",
+    "HP": "52 (7d8 + 21)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -23,7 +24,7 @@
         "Common",
         "Giant"
     ],
-    "CR": "2 (450 XP) or 4 (1,100 XP) when part of a cove",
+    "CR": "2 (450 XP) or 4 (1,100 XP) whe part of a cove",
     "page": 179,
     "book": "Monster Manual",
     "traits": {
@@ -34,10 +35,6 @@
         "Claws": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.",
         "Death Glare": "The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11+1d4 + 9 Wisdom saving throw against this magic or drop to 0 hit points.",
         "Illusory Appearance": "The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "in_lair": {
         "CR_increase": 1,

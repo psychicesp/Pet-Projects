@@ -10,6 +10,7 @@
     "charisma": "8",
     "perception": "+2",
     "name": "Wereboar",
+    "HP": "78 (12d8 + 24)",
     "AC": 10,
     "speed": [
         "30 ft. (40 ft. in boar form)"
@@ -39,10 +40,6 @@
         "Multiattack (Humanoid or Hybrid Form Only)": "The wereboar makes two attacks, only one of which can be with its tusks.",
         "Maul (Humanoid or Hybrid Form Only)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.",
         "Tusks (Boar or Hybrid Form Only)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12+1d4 + 10 Constitution saving throw or be cursed with wereboar lycanthropy."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "S",
     "size": "Medium",

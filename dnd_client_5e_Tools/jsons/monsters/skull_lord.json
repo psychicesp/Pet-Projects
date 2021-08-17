@@ -11,6 +11,7 @@
     "perception": "+12",
     "stealth": "+8",
     "name": "Skull Lord",
+    "HP": "105 (14d8 + 42)",
     "AC": 18,
     "speed": [
         "30 ft"

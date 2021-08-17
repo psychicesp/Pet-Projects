@@ -1,0 +1,41 @@
+{
+    "tags": [
+        "kobold"
+    ],
+    "strength": "7",
+    "dexterity": "15",
+    "constitution": "9",
+    "intelligence": "8",
+    "wisdom": "7",
+    "charisma": "8",
+    "name": "Kobold Elite",
+    "HP": "7 (2d6 - 2)",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 8"
+    ],
+    "languages": [
+        "Common",
+        "Draconic"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 18,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Pack Tactics": "The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+        "Sunlight Sensitivity": "While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
+    "actions": {
+        "Dagger": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+        "Sling": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
+    },
+    "alignment": "LE",
+    "size": "Small",
+    "type": "humanoid"
+}

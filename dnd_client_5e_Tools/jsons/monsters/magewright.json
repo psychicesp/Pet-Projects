@@ -1,0 +1,49 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "11",
+    "dexterity": "13",
+    "constitution": "10",
+    "intelligence": "14",
+    "wisdom": "14",
+    "charisma": "12",
+    "arcana": "+4",
+    "name": "Magewright",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 2,
+    "HP": "9 (2d8)",
+    "AC": 11,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common plus any two languages"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 318,
+    "book": "Eberron: Rising from the Last War",
+    "traits": {
+        "spellcasting": {
+            "type": "ritualist",
+            "spells": [
+                "mage hand",
+                "prestidigitation",
+                "knock"
+            ]
+        }
+    },
+    "actions": {
+        "Dagger": "Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage."
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

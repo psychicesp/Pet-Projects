@@ -10,6 +10,7 @@
     "charisma": "8",
     "stealth": "+5",
     "name": "Mimic Chair",
+    "HP": "30 (9d8 + 18)",
     "AC": 12,
     "speed": [
         "15 ft"
@@ -43,10 +44,6 @@
     "actions": {
         "Pseudopod": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.",
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

@@ -11,6 +11,7 @@
     "insight": "+4",
     "perception": "+4",
     "name": "Githzerai Monk",
+    "HP": "38 (7d8 + 7)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -50,10 +51,6 @@
     "actions": {
         "Multiattack": "The githzerai makes two unarmed strikes.",
         "Unarmed Strike": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage plus 9 (2d8) psychic damage. This is a magic weapon attack."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Medium",

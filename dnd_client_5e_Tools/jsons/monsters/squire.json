@@ -1,0 +1,36 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "10",
+    "constitution": "12",
+    "intelligence": "8",
+    "wisdom": "11",
+    "charisma": "9",
+    "athletics": "+3",
+    "name": "Squire",
+    "HP": "11 (2d8 + 2)",
+    "AC": "",
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)"
+    ],
+    "page": 201,
+    "book": "The House of Lament",
+    "actions": {
+        "Longsword": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands."
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "humanoid"
+}

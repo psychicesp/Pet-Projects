@@ -10,6 +10,7 @@
     "perception": "+9",
     "religion": "+8",
     "name": "Ki-rin",
+    "HP": "152 (16d12 + 48)",
     "AC": 20,
     "speed": [
         "60 ft",
@@ -41,8 +42,7 @@
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
         "spellcasting": {
-            "level": 18,
-            "type": "cleric",
+            "type": "innate",
             "spells": [
                 "light",
                 "mending",
@@ -90,10 +90,6 @@
             "Smite": " The ki-rin makes a hoof attack or casts sacred flame.",
             "Move": " The ki-rin moves up to its half its speed without provoking opportunity attacks."
         }
-    },
-    "in_lair": {
-        "CR_increase": 1,
-        "actions": []
     },
     "alignment": "LG",
     "size": "Huge",

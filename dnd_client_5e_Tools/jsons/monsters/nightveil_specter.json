@@ -10,6 +10,7 @@
     "perception": "+7",
     "stealth": "+8",
     "name": "Nightveil Specter",
+    "HP": "105 (14d8 + 42)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -51,10 +52,6 @@
         "Scythe": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 13 (3d8) psychic damage.",
         "Mind Twist (Recharge 5xe2x80x936)": "The specter magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15+1d8 + 11 Wisdom saving throw or take 22 (5d8) psychic damage and be stunned for 1 minute. The stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
         "Reap Memory (3/Day)": "The specter touches one incapacitated creature and chooses 1 hour from among the past 24. Unless the creature succeeds on a DC 15+1d8 + 11 Intelligence saving throw, the creature loses all memory of that hour. The creature regains the memory only if the specter dies within the next 24 hours."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

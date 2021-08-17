@@ -2,7 +2,6 @@
     "tags": [
         "elf"
     ],
-    "hit": "3d8",
     "strength": "10",
     "dexterity": "14",
     "constitution": "10",
@@ -12,6 +11,9 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Drow",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 3,
+    "HP": "13 (3d8)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -47,10 +49,6 @@
     "actions": {
         "Shortsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
         "Hand Crossbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13+1d4 + 11 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

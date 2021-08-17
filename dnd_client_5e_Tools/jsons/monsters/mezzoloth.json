@@ -10,6 +10,7 @@
     "charisma": "11",
     "perception": "+3",
     "name": "Mezzoloth",
+    "HP": "75 (10d8 + 30)",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -58,10 +59,6 @@
         "Claws": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage.",
         "Trident": "Melee or Ranged Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage when held with two claws and used to make a melee attack.",
         "Teleport": "The mezzoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

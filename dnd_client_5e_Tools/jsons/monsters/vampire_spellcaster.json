@@ -11,6 +11,7 @@
     "perception": "+7",
     "stealth": "+9",
     "name": "Vampire Spellcaster",
+    "HP": "144 (17d8 + 68)",
     "AC": 16,
     "speed": [
         "30 ft"

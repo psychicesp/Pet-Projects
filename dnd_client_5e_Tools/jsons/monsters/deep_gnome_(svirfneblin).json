@@ -12,6 +12,7 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Deep Gnome (Svirfneblin)",
+    "HP": "16 (3d6 + 6)",
     "AC": 15,
     "speed": [
         "20 ft"
@@ -50,10 +51,6 @@
     "actions": {
         "War Pick": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.",
         "Poisoned Dart": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12+1d4 + 10 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NG",
     "size": "Small",

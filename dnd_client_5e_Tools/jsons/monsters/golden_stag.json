@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "6",
     "name": "Golden Stag",
+    "HP": "13 (2d10 + 2)",
     "AC": 10,
     "speed": [
         "50 ft"
@@ -28,10 +29,6 @@
     "actions": {
         "Ram": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.",
         "Hooves": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one prone creature. Hit: 8 (2d4 + 3) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

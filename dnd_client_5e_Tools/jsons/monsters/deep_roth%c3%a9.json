@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "4",
     "name": "Deep Roth\\xc3\\xa9",
+    "HP": "13 (2d8 + 4)",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -34,10 +35,6 @@
     },
     "actions": {
         "Gore": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

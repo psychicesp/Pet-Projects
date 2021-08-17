@@ -9,6 +9,7 @@
     "intimidation": "+5",
     "perception": "+5",
     "name": "Woe Strider",
+    "HP": "110 (13d10 + 39)",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -39,10 +40,6 @@
         "Multiattack": "The woe strider makes two claw attacks and one bite attack. If both claws hit the same creature, the target is grappled (escape DC 14+1d6 + 11).",
         "Claw": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 3 (1d6) psychic damage.",
         "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one creature that is grappled, incapacitated, or restrained. Hit: 13 (2d8 + 4) piercing damage plus 16 (3d10) psychic damage. In addition, each magic item the creature is carrying that isn't an artifact has its magical properties suppressed for 1 minute."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

@@ -9,6 +9,7 @@
     "history": "+5",
     "religion": "+5",
     "name": "Fungal Servant",
+    "HP": "97 (13d8 + 39)",
     "AC": 17,
     "speed": [
         "20 ft"

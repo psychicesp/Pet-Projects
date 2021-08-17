@@ -11,6 +11,7 @@
     "athletics": "+4",
     "perception": "+2",
     "name": "Koalinth Sergeant",
+    "HP": "33 (6d8 + 6)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -43,10 +44,6 @@
         "Multiattack": "The sergeant makes two melee attacks with its trident.",
         "Trident": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.",
         "Hooked Net": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 10/30 ft., one target. Hit: 4 (1d4 + 2) piercing damage, and the target is restrained. A creature can use its action to make a DC 12+1d4 + 10 Strength check to free itself or another creature in a hooked net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 12) frees the target without harming it and destroys the net."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

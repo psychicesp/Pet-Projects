@@ -8,6 +8,7 @@
     "wisdom": "13 (+1)",
     "charisma": "6 (-2)",
     "name": "Ankheg",
+    "HP": "39 (6d10 + 6)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -23,16 +24,12 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "2 (450 XP)",
     "page": 21,
     "book": "Monster Manual",
     "actions": {
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13+1d4 + 11). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so.",
         "Acid Spray (Recharge 6)": "The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature grappled. Each creature in that line must make a DC 13+1d4 + 11 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

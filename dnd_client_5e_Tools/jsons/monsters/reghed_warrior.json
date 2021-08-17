@@ -10,6 +10,7 @@
     "charisma": "8",
     "survival": "+4",
     "name": "Reghed Warrior",
+    "HP": "11 (2d8 + 2)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -32,10 +33,6 @@
     },
     "actions": {
         "Spear": "Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

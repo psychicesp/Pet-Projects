@@ -1,0 +1,55 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "14",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "11",
+    "wisdom": "10",
+    "charisma": "14",
+    "history": "+2",
+    "name": "Feathergale Knight",
+    "HP": "33 (6d8 + 6)",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "animal handling": "proficient",
+        "history": "proficient"
+    },
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Auran",
+        "Common"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 189,
+    "book": "Princes of the Apocalypse",
+    "traits": {
+        "spellcasting": {
+            "level": 1,
+            "type": "sorcerer spell:",
+            "spells": [
+                "gust",
+                "light",
+                "message",
+                "ray of frost",
+                "expeditious retreat",
+                "feather fall"
+            ]
+        }
+    },
+    "actions": {
+        "Multiattack": "The knight makes two melee attacks.",
+        "Longsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.",
+        "Spear": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack."
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
+}

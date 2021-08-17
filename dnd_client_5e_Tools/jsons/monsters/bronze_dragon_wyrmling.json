@@ -9,6 +9,7 @@
     "perception": "+4",
     "stealth": "+2",
     "name": "Bronze Dragon Wyrmling",
+    "HP": "32 (5d8 + 10)",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -45,10 +46,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.",
         "Breath Weapons (Recharge 5xe2x80x936)": "The dragon uses one of the following breath weapons."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LG",
     "size": "Medium",

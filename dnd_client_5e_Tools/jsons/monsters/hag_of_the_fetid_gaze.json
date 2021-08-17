@@ -1,0 +1,68 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "12",
+    "constitution": "16",
+    "intelligence": "13",
+    "wisdom": "14",
+    "charisma": "14",
+    "arcana": "+3",
+    "deception": "+4",
+    "perception": "+4",
+    "stealth": "+4",
+    "name": "Hag of the Fetid Gaze",
+    "HP": "82 (11d8 + 33)",
+    "AC": 17,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "deception": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common",
+        "Draconic",
+        "Sylvan"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 76,
+    "book": "Candlekeep Mysteries",
+    "traits": {
+        "Amphibious": "The hag can breathe air and water.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "charm person",
+                "witch bolt",
+                "alter self",
+                "suggestion",
+                "dispel magic",
+                "glyph of warding",
+                "slow",
+                "blight",
+                "polymorph",
+                "dominate person",
+                "seeming",
+                "Otto's irresistible dance"
+            ]
+        },
+        "Mimicry": "The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14+1d6 + 11 Wisdom (Insight) check.",
+        "For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability": "For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier."
+    },
+    "actions": {
+        "Claws": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
+        "Illusory Appearance": "The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.",
+        "Invisible Passage": "The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her."
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fey"
+}

@@ -11,6 +11,7 @@
     "perception": "+8",
     "religion": "+8",
     "name": "Gynosphinx",
+    "HP": "136 (16d10 + 48)",
     "AC": 17,
     "speed": [
         "40 ft",

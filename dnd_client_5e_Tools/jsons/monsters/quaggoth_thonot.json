@@ -10,6 +10,7 @@
     "charisma": "7",
     "athletics": "+5",
     "name": "Quaggoth Thonot",
+    "HP": "45 (6d8 + 18)",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -52,10 +53,6 @@
     "actions": {
         "Multiattack": "The quaggoth makes two claw attacks.",
         "Claw": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

@@ -9,6 +9,7 @@
     "wisdom": "17",
     "charisma": "13",
     "name": "Winter Eladrin",
+    "HP": "127 (17d8 + 51)",
     "AC": 19,
     "speed": [
         "30 ft"
@@ -48,10 +49,6 @@
     "actions": {
         "Longsword": "Melee Weapon Attack: +4+1d8 + 0 to hit, reach 5 ft., one target. Hit: 4 (1d8) slashing damage, or 5 (1d10) slashing damage if used with two hands.",
         "Longbow": "Ranged Weapon Attack: +4+1d8 + 0 to hit, range 150/600 ft., one target. Hit: 4 (1d8) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

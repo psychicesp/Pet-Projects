@@ -7,6 +7,7 @@
     "wisdom": "6",
     "charisma": "6",
     "name": "Living Burning Hands",
+    "HP": "15 (2d8 + 6)",
     "AC": 15,
     "speed": [
         "25 ft",
@@ -40,10 +41,6 @@
     "actions": {
         "Magical Strike": "Melee Spell Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) fire damage.",
         "Spell Mimicry (Recharge 5xe2x80x936)": "The living spell unleashes a thin sheet of flames in a 15-foot cone. Each creature in that area must make a DC 13+1d4 + 11 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

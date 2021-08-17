@@ -9,6 +9,7 @@
     "athletics": "+9",
     "perception": "+2",
     "name": "Bloodfray Giant",
+    "HP": "103 (9d12 + 45)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -34,10 +35,6 @@
     "actions": {
         "Chain": "Melee Weapon Attack: +9+1d6 + 6 to hit, reach 20 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage. If the target is a creature, it is grappled (escape DC 17+1d6 + 14). Until the grapple ends, the target is restrained, and the giant can't use this attack on anyone else.",
         "Rock": "Ranged Weapon Attack: +9+1d6 + 6 to hit, range 60/240 ft., one target. Hit: 16 (3d6 + 6) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Huge",

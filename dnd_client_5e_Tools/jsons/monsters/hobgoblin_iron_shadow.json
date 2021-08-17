@@ -1,0 +1,62 @@
+{
+    "tags": [
+        "goblinoid"
+    ],
+    "strength": "14",
+    "dexterity": "16",
+    "constitution": "15",
+    "intelligence": "14",
+    "wisdom": "15",
+    "charisma": "11",
+    "acrobatics": "+5",
+    "athletics": "+4",
+    "stealth": "+5",
+    "name": "Hobgoblin Iron Shadow",
+    "HP": "32 (5d8 + 10)",
+    "AC": 15,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient",
+        "athletics": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common",
+        "Goblin"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 162,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "level": 2,
+            "type": "wizard",
+            "spells": [
+                "minor illusion",
+                "prestidigitation",
+                "true strike",
+                "charm person",
+                "disguise self",
+                "expeditious retreat",
+                "silent image"
+            ]
+        },
+        "Unarmored Defense": "While the hobgoblin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+    },
+    "actions": {
+        "Multiattack": "The hobgoblin makes four attacks, each of which can be an unarmed strike or a dart attack. It can also use Shadow Jaunt once, either before or after one of the attacks.",
+        "Unarmed Strike": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.",
+        "Dart": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.",
+        "Shadow Jaunt": "The hobgoblin magically teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it is leaving and its destination must be in dim light or darkness."
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
+}

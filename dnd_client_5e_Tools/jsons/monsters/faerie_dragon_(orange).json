@@ -10,6 +10,7 @@
     "perception": "+3",
     "stealth": "+7",
     "name": "Faerie Dragon (Orange)",
+    "HP": "14 (4d4 + 4)",
     "AC": 15,
     "speed": [
         "10 ft",
@@ -50,10 +51,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.",
         "Euphoria Breath (Recharge 5xe2x80x936)": "The dragon exhales a puff of euphoria gas at one creature within 5 feet of it. The target must succeed on a DC 11+1d4 + 9 Wisdom saving throw, or for 1 minute, the target can't take reactions and must roll a d6 at the start of each of its turns to determine its behavior during the turn:"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CG",
     "size": "Tiny",

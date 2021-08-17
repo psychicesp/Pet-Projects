@@ -10,6 +10,7 @@
     "charisma": "1",
     "perception": "+1",
     "name": "Nupperibo",
+    "HP": "11 (2d8 + 2)",
     "AC": 13,
     "speed": [
         "20 ft"
@@ -44,10 +45,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

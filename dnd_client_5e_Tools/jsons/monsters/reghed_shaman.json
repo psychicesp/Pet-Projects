@@ -13,6 +13,7 @@
     "perception": "+4",
     "survival": "+4",
     "name": "Reghed Shaman",
+    "HP": "27 (5d8 + 5)",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -53,10 +54,6 @@
     },
     "actions": {
         "Quarterstaff": "Melee Weapon Attack: +2+1d4 + 0 to hit (+4+1d4 + 2 to hit with shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

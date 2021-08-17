@@ -13,6 +13,7 @@
     "stealth": "+6",
     "survival": "+5",
     "name": "Battlehammer Dwarf",
+    "HP": "16 (3d8 + 3)",
     "AC": 13,
     "speed": [
         "25 ft"
@@ -46,10 +47,6 @@
         "Multiattack": "The dwarf makes two melee attacks or two ranged attacks.",
         "Handaxe": "Melee or Ranged Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d6 + 0) piercing damage.",
         "Light Crossbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, ranged 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LG",
     "size": "Medium",

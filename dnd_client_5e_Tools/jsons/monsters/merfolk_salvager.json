@@ -11,6 +11,7 @@
     "athletics": "+3",
     "perception": "+2",
     "name": "Merfolk Salvager",
+    "HP": "22 (4d8 + 4)",
     "AC": 12,
     "speed": [
         "10 ft",
@@ -40,10 +41,6 @@
         "Multiattack": "The salvager makes two attacks with its coral rapier.",
         "Coral Rapier": "Melee Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.",
         "Inject Toxin (2/Day)": "Melee Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage, and the creature must succeed on a DC 12+1d4 + 10 Constitution saving throw or be paralyzed until the end of its next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

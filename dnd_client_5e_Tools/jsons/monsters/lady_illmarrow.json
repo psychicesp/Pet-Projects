@@ -11,6 +11,7 @@
     "insight": "+12",
     "perception": "+12",
     "name": "Lady Illmarrow",
+    "HP": "199 (21d8 + 105)",
     "AC": 19,
     "speed": [
         "30 ft",

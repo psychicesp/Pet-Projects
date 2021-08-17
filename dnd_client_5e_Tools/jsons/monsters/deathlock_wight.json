@@ -9,6 +9,7 @@
     "arcana": "+3",
     "perception": "+4",
     "name": "Deathlock Wight",
+    "HP": "37 (5d8 + 15)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -58,10 +59,6 @@
         "Multiattack": "The wight attacks twice with Grave Bolt.",
         "Grave Bolt": "Ranged Spell Attack: +5+1d4 + 3 to hit, range 120 ft., one target. Hit: 7 (1d8 + 3) necrotic damage.",
         "Life Drain": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) necrotic damage. The target must succeed on a DC 13+1d4 + 11 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

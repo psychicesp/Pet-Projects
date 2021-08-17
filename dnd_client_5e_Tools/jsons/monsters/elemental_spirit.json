@@ -1,0 +1,52 @@
+{
+    "tags": [],
+    "strength": "18",
+    "dexterity": "15",
+    "constitution": "17",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "16",
+    "name": "Elemental Spirit",
+    "HP": "50 + 10 for each spell level above 4th",
+    "AC": "",
+    "speed": [
+        "40 ft",
+        "burrow 40 ft. (earth only)",
+        "fly 40 ft. (air only hover)",
+        "swim 40 ft. (water only)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison",
+        "fire (Fire only)"
+    ],
+    "resistances": [
+        "lightning and thunder (Air only)",
+        "piercing and slashing (Earth only)",
+        "acid (Water only)"
+    ],
+    "condition_immunities": [
+        "exhaustion, paralyzed, petrified, poisoned, unconscious"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Primordial",
+        "understands the languages you speak"
+    ],
+    "page": 111,
+    "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
+    "traits": {
+        "Amorphous Form (Air, Fire, and Water Only)": "The elemental can move through a space as narrow as 1 inch wide without squeezing."
+    },
+    "actions": {
+        "Multiattack": "The elemental makes a number of attacks equal to half this spell's level (rounded down).",
+        "Slam": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d10 + 4 + the spell's level bludgeoning damage (Air, Earth, and Water only) or fire damage (Fire only)."
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "elemental"
+}

@@ -11,6 +11,7 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Mind Drinker Vampire",
+    "HP": "55 (10d8 + 10)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -61,10 +62,6 @@
         "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.",
         "Unarmed Strike": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage. The vampire can also grapple the target (escape DC 13+1d4 + 11) if it is a creature and the vampire has a hand free.",
         "Mind Siphon (Recharge 5xe2x80x936)": "The vampire targets a creature it can see within 30 feet of it. The target must make a DC 14+1d4 + 12 Intelligence saving throw, with disadvantage if the vampire has previously consumed the target's blood. On a failed save, the target takes 28 (8d6) psychic damage, and the vampire discerns the target's surface emotions and thoughts. On a successful save, the target takes half as much damage, and the vampire discerns the target's general emotional state but not its thoughts."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

@@ -11,6 +11,7 @@
     "deception": "+5",
     "stealth": "+4",
     "name": "Yuan-ti Mind Whisperer",
+    "HP": "71 (13d8 + 13)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -47,8 +48,7 @@
         "Mind Fangs (2/Day)": "The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) psychic damage to the target.",
         "Sseth's Blessing": "When the yuan-ti reduces an enemy to 0 hit points, the yuan-ti gains 9 temporary hit points.",
         "spellcasting": {
-            "level": 6,
-            "type": "warlock",
+            "type": "innate",
             "spells": [
                 "eldritch blast",
                 "friends",
@@ -70,10 +70,6 @@
         "Multiattack (Yuan-ti Form Only)": "The yuan-ti makes one bite attack and one scimitar attack.",
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.",
         "Scimitar (Yuan-ti Form Only)": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "Y",
     "size": "Medium",

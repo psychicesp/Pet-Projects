@@ -8,6 +8,7 @@
     "charisma": "2",
     "stealth": "+2",
     "name": "Huge Gray Ooze",
+    "HP": "152 (16d12 + 48)",
     "AC": 8,
     "speed": [
         "10 ft",
@@ -43,10 +44,6 @@
         "Pseudopod": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 21 (6d6) acid damage, or 42 (12d6) acid damage while the ooze is enlarged. If the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative xe2x88x921 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.",
         "Enlarge (Recharges after a Short or Long Rest)": "For 1 minute, the ooze magically increases in size. While enlarged, the ooze is Gargantuan, doubles its damage dice with its pseudopod attack, and makes Strength checks and Strength saving throws with advantage.",
         "Invisibility (Recharges after a Short or Long Rest)": "The ooze magically turns invisible for up to 1 hour until it attacks, it uses its Enlarge, or its concentration is broken (as if concentrating on a spell)."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

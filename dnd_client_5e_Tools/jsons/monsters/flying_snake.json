@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "2d4",
     "strength": "4",
     "dexterity": "18",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "12",
     "charisma": "5",
     "name": "Flying Snake",
+    "hit_dice_type": "d4",
+    "num_hit_dice": 2,
+    "HP": "5 (2d4)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -31,10 +33,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 7 (3d4) poison damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Tiny",

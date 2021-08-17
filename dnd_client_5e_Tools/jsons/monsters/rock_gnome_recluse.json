@@ -1,0 +1,60 @@
+{
+    "tags": [
+        "gnome"
+    ],
+    "strength": "6",
+    "dexterity": "11",
+    "constitution": "10",
+    "intelligence": "15",
+    "wisdom": "10",
+    "charisma": "13",
+    "arcana": "+4",
+    "history": "+4",
+    "name": "Rock Gnome Recluse",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 2,
+    "HP": "7 (2d6)",
+    "AC": 10,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "proficient",
+        "history": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Gnomish"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 62,
+    "book": "Dragon of Icespire Peak",
+    "traits": {
+        "Gnome Cunning": "The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.",
+        "spellcasting": {
+            "level": 2,
+            "type": "wizard",
+            "spells": [
+                "mage hand",
+                "prestidigitation",
+                "ray of frost",
+                "detect magic",
+                "mage armor",
+                "magic missile",
+                "shield"
+            ]
+        }
+    },
+    "actions": {
+        "Magic Missile (Expends a 1st-Level Spell Slot)": "The gnome creates three magical darts. Each dart hits a creature the gnome chooses within 120 feet of it and deals 3 (1d4 + 1) force damage.",
+        "Ray of Frost": "Ranged Spell Attack: +4+1d4 + 2 to hit, range 60 ft., one creature. Hit: 4 (1d8) cold damage, and the target's speed is reduced by 10 feet until the start of the gnome's next turn."
+    },
+    "alignment": "CN",
+    "size": "Small",
+    "type": "humanoid"
+}

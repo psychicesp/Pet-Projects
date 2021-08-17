@@ -18,6 +18,7 @@
     "perception": "+7",
     "stealth": "+5",
     "name": "Alhoon",
+    "HP": "120 (16d8 + 48)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -55,13 +56,12 @@
         "Undercommon",
         "telepathy 120 ft."
     ],
-    "CR": "variable",
+    "CR": "10 (5,900 XP)",
     "page": 172,
     "book": "Volo\u2019s Guide to Monsters",
     "traits": {
         "spellcasting": {
-            "level": 12,
-            "type": "wizard",
+            "type": "innate",
             "spells": [
                 "chill touch",
                 "dancing lights",
@@ -93,10 +93,6 @@
     "actions": {
         "Chilling Grasp": "Melee Spell Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 10 (3d6) cold damage.",
         "Mind Blast (Recharge 5\u20136)": "The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16+1d8 + 12 Intelligence saving throw or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AEA",
     "size": "Medium",

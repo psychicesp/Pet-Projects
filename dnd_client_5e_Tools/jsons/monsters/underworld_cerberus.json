@@ -10,6 +10,7 @@
     "perception": "+9",
     "stealth": "+4",
     "name": "Underworld Cerberus",
+    "HP": "104 (11d10 + 44)",
     "AC": 16,
     "speed": [
         "60 ft"
@@ -45,10 +46,6 @@
         "Multiattack": "The cerberus makes three bite attacks.",
         "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage plus 3 (1d6) fire damage.",
         "Breath Weapon (Recharge 5xe2x80x936)": "The cerberus exhales a 30-foot cone of molten rock. Each creature in the cone must make a DC 15+1d6 + 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one. On a failed save, a creature is also restrained by the hardening rock. A creature can make a DC 15+1d6 + 12 Strength (Athletics) check as an action, freeing itself or a creature within reach from the rock on a success. The rock has AC 17 and 20 hit points, and it is immune to fire, poison, and psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

@@ -11,6 +11,7 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Hybrid Spy",
+    "HP": "22 (4d8 + 4)",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -38,10 +39,6 @@
     "actions": {
         "Multiattack": "The hybrid makes two shortsword attacks.",
         "Shortsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NG",
     "size": "Medium",

@@ -15,6 +15,7 @@
     "perception": "+12",
     "stealth": "+6",
     "name": "Adult Copper Dragon",
+    "HP": "184 (16d12 + 80)",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -44,7 +45,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "14 (11,500 XP)",
     "page": 112,
     "book": "Monster Manual",
     "traits": {

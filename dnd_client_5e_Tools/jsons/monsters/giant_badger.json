@@ -7,6 +7,7 @@
     "wisdom": "12",
     "charisma": "5",
     "name": "Giant Badger",
+    "HP": "13 (2d8 + 4)",
     "AC": 10,
     "speed": [
         "30 ft",
@@ -31,10 +32,6 @@
         "Multiattack": "The badger makes two attacks: one with its bite and one with its claws.",
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.",
         "Claws": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

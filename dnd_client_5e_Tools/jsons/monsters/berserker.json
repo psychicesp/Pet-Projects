@@ -9,6 +9,7 @@
     "wisdom": "11",
     "charisma": "9",
     "name": "Berserker",
+    "HP": "67 (9d8 + 27)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -29,10 +30,6 @@
     },
     "actions": {
         "Greataxe": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "ACA",
     "size": "Medium",

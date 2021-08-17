@@ -9,6 +9,7 @@
     "wisdom": "11",
     "charisma": "10",
     "name": "Tromokratis",
+    "HP": "409 (21d20 + 189)",
     "AC": 22,
     "speed": [
         "30 ft",
@@ -36,7 +37,6 @@
     "languages": [
         "\\xe2\\x80\\x94"
     ],
-    "CR": "26 (90,000 XP, or 180,000 XP as a mythic encounter)",
     "page": 254,
     "book": "Mythic Odysseys of Theros",
     "traits": {

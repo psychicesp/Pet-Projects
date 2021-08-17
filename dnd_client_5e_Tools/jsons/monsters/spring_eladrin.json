@@ -11,6 +11,7 @@
     "deception": "+8",
     "persuasion": "+8",
     "name": "Spring Eladrin",
+    "HP": "127 (17d8 + 51)",
     "AC": 19,
     "speed": [
         "30 ft"
@@ -56,10 +57,6 @@
         "Multiattack": "The eladrin makes two weapon attacks. The eladrin can cast one spell in place of one of these attacks.",
         "Longsword": "Melee Weapon Attack: +6+1d8 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage plus 4 (1d8) psychic damage, or 7 (1d10 + 2) slashing damage plus 4 (1d8) psychic damage if used with two hands.",
         "Longbow": "Ranged Weapon Attack: +7+1d8 + 3 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

@@ -12,6 +12,7 @@
     "insight": "+7",
     "medicine": "+7",
     "name": "Autumn Eladrin",
+    "HP": "127 (17d8 + 51)",
     "AC": 19,
     "speed": [
         "30 ft"
@@ -33,7 +34,7 @@
         "Elvish",
         "Sylvan"
     ],
-    "CR": "variable",
+    "CR": "10 (5,900 XP)",
     "page": 195,
     "book": "Mordenkainen\u2019s Tome of Foes",
     "traits": {
@@ -56,10 +57,6 @@
     "actions": {
         "Longsword": "Melee Weapon Attack: +5+1d8 + 1 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage plus 18 (4d8) psychic damage, or 6 (1d10 + 1) slashing damage plus 18 (4d8) psychic damage if used with two hands.",
         "Longbow": "Ranged Weapon Attack: +7+1d8 + 3 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 18 (4d8) psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

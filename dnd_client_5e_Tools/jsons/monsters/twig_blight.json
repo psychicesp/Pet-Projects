@@ -8,6 +8,7 @@
     "charisma": "3",
     "stealth": "+3",
     "name": "Twig Blight",
+    "HP": "4 (1d6 + 1)",
     "AC": 13,
     "speed": [
         "20 ft"
@@ -34,10 +35,6 @@
     },
     "actions": {
         "Claws": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Small",

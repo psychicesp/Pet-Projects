@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Living Blade of Disaster",
+    "HP": "67 (9d6 + 36)",
     "AC": 14,
     "speed": [
         "0 ft",
@@ -38,10 +39,6 @@
     },
     "actions": {
         "Force Blade": "Melee Spell Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 26 (4d12) force damage, unless the living spell rolled an 18 or higher on the d20 for the attack, in which case the attack is a critical hit that deals 78 (12d12) force damage instead."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Small",

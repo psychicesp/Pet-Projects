@@ -13,6 +13,7 @@
     "perception": "+6",
     "persuasion": "+8",
     "name": "Yagnoloth",
+    "HP": "147 (14d10 + 70)",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -74,10 +75,6 @@
         "Life Leech": "The yagnoloth touches one incapacitated creature within 15 feet of it. The target takes 36 (7d8 + 4) necrotic damage, and the yagnoloth gains temporary hit points equal to half the damage dealt. The target must succeed on a DC 16+1d8 + 12 Constitution saving throw, or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest, and the target dies if its hit point maximum is reduced to 0.",
         "Battlefield Cunning (Recharge 4xe2x80x936)": "Up to two allied yugoloths within 60 feet of the yagnoloth that can hear it can use their reactions to make one melee attack each.",
         "Teleport": "The yagnoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

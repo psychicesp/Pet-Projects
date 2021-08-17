@@ -13,6 +13,7 @@
     "medicine": "+4",
     "religion": "+2",
     "name": "Orc Hand of Yurtrus",
+    "HP": "30 (4d8 + 12)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -55,10 +56,6 @@
     },
     "actions": {
         "Touch of the White Hand": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 9 (2d8) necrotic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

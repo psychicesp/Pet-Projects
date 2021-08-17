@@ -9,6 +9,7 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Giant White Moray Eel",
+    "HP": "60 (8d12 + 8)",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -34,10 +35,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

@@ -13,6 +13,7 @@
     "persuasion": "+3",
     "religion": "+5",
     "name": "Junior Drow Priestess of Lolth",
+    "HP": "27 (5d8 + 5)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -39,8 +40,7 @@
         "Divine Eminence": "As a bonus action, the priestess can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priestess expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.",
         "Fey Ancestry": "The junior drow priestess of lolth has advantage on saving throws against being charmed, and magic can't put the junior drow priestess of lolth to sleep.",
         "spellcasting": {
-            "level": 5,
-            "type": "cleric",
+            "type": "innate",
             "spells": [
                 "light",
                 "sacred flame",
@@ -58,10 +58,6 @@
     },
     "actions": {
         "Mace": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

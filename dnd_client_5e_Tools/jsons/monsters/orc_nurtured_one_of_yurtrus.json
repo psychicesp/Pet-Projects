@@ -9,6 +9,7 @@
     "wisdom": "11",
     "charisma": "7",
     "name": "Orc Nurtured One of Yurtrus",
+    "HP": "30 (4d8 + 12)",
     "AC": 9,
     "speed": [
         "30 ft"
@@ -34,10 +35,6 @@
     "actions": {
         "Claws": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage plus 2 (1d4) necrotic damage.",
         "Corrupted Vengeance": "The orc reduces itself to 0 hit points, triggering its Corrupted Carrier trait."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

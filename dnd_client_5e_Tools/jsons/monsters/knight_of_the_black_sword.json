@@ -1,0 +1,61 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "11",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "10",
+    "wisdom": "13",
+    "charisma": "14",
+    "deception": "+4",
+    "persuasion": "+4",
+    "religion": "+2",
+    "name": "Knight of the Black Sword",
+    "HP": "33 (6d8 + 6)",
+    "AC": "",
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "deception": "proficient",
+        "persuasion": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Common",
+        "Infernal"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 259,
+    "book": "Icewind Dale: Rime of the Frostmaiden",
+    "traits": {
+        "Dark Devotion": "The fanatic has advantage on saving throws against being charmed or frightened.",
+        "Icy Doom": "When the cultist dies, its corpse freezes for 9 days, during which time it can't be thawed, harmed by fire, animated, or raised from the dead.",
+        "spellcasting": {
+            "level": 4,
+            "type": "cleric",
+            "spells": [
+                "light",
+                "sacred flame",
+                "thaumaturgy",
+                "command",
+                "inflict wounds",
+                "shield of faith",
+                "hold person",
+                "spiritual weapon"
+            ]
+        }
+    },
+    "actions": {
+        "Multiattack": "The fanatic makes two melee attacks.",
+        "Dagger": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage."
+    },
+    "alignment": "ANA",
+    "size": "Medium",
+    "type": "humanoid"
+}

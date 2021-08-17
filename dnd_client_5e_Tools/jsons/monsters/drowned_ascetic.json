@@ -7,6 +7,7 @@
     "wisdom": "9",
     "charisma": "5",
     "name": "Drowned Ascetic",
+    "HP": "75 (10d8 + 30)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -39,10 +40,6 @@
     "actions": {
         "Multiattack": "The drowned ascetic makes three unarmed strikes.",
         "Unarmed Strike": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 12+1d4 + 10 Constitution saving throw or contract bluerot (see the \"Bluerot\" in notes)."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

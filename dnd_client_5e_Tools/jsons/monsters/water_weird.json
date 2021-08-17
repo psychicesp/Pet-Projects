@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "10",
     "name": "Water Weird",
+    "HP": "58 (9d10 + 9)",
     "AC": 13,
     "speed": [
         "0 ft",
@@ -40,10 +41,6 @@
     },
     "actions": {
         "Constrict": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft., one creature. Hit: 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 13+1d4 + 11) and pulled 5 feet toward the water weird. Until this grapple ends, the target is restrained, the water weird tries to drown it, and the water weird can't constrict another target."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Large",

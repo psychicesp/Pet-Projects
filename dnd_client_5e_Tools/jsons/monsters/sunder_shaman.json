@@ -9,6 +9,7 @@
     "athletics": "+10",
     "perception": "+5",
     "name": "Sunder Shaman",
+    "HP": "138 (12d12 + 60)",
     "AC": 20,
     "speed": [
         "40 ft"
@@ -41,10 +42,6 @@
         "Multiattack": "The giant makes two slam attacks. The first of those attacks that hits deals an extra 18 (4d8) damage if the giant has taken damage since its last turn.",
         "Slam": "Melee Weapon Attack: +10+1d8 + 6 to hit, reach 15 ft., one target. Hit: 24 (4d8 + 6) bludgeoning damage.",
         "Rock": "Ranged Weapon Attack: +10+1d8 + 6 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 18+1d8 + 14 Strength saving throw or be knocked prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Huge",

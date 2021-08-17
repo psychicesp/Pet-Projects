@@ -9,6 +9,7 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Boggle",
+    "HP": "18 (4d6 + 4)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -41,10 +42,6 @@
     "actions": {
         "Pummel": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage.",
         "Oil Puddle": "The boggle creates a puddle of oil that is either slippery or sticky (boggle's choice). The puddle is 1 inch deep and covers the ground in the boggle's space. The puddle is difficult terrain For all creatures except boggles and lasts for 1 hour."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Small",

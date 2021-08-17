@@ -11,6 +11,7 @@
     "intimidation": "+3",
     "perception": "+2",
     "name": "Eternal Flame Guardian",
+    "HP": "45 (7d8 + 14)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -39,10 +40,6 @@
         "Multiattack": "The guard makes two melee attacks.",
         "Longsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.",
         "Heavy Crossbow": "Ranged Weapon Attack: +3+1d4 + 1 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

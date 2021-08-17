@@ -7,6 +7,7 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Yeti Tyke",
+    "HP": "9 (2d6 + 2)",
     "AC": 11,
     "speed": [
         "20 ft",
@@ -33,10 +34,6 @@
     },
     "actions": {
         "Claw": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 2 (1d4) slashing damage plus 2 (1d4) cold damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Small",

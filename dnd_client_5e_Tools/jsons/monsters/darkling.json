@@ -11,6 +11,7 @@
     "perception": "+5",
     "stealth": "+7",
     "name": "Darkling",
+    "HP": "13 (3d6 + 3)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -40,10 +41,6 @@
     },
     "actions": {
         "Dagger": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage. If the darkling has advantage on the attack roll, the attack deals an extra 7 (2d6) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Small",

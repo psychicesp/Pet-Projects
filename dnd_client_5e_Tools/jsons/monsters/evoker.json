@@ -11,6 +11,7 @@
     "arcana": "+7",
     "history": "+7",
     "name": "Evoker",
+    "HP": "66 (12d8 + 12)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -63,10 +64,6 @@
     },
     "actions": {
         "Quarterstaff": "Melee Weapon Attack: +3+1d8 - 1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

@@ -11,6 +11,7 @@
     "perception": "+10",
     "stealth": "+6",
     "name": "Morkoth",
+    "HP": "130 (20d8 + 40)",
     "AC": 17,
     "speed": [
         "25 ft",
@@ -38,7 +39,7 @@
     "languages": [
         "telepathy 120 ft."
     ],
-    "CR": "11 (7,200 XP) or 12 (8,400 XP) when encountered in lair",
+    "CR": "11 (7,200 XP) or 12 (8,400 XP) whe ecoutered i lair",
     "page": 177,
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
@@ -75,10 +76,6 @@
         "Bite": "Melee Weapon Attack: +6+1d8 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.",
         "Tentacles": "Melee Weapon Attack: +6+1d8 + 2 to hit, reach 15 ft., one target. Hit: 15 (3d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14+1d8 + 10) if it is a Large or smaller creature. Until this grapple ends. the target is restrained and takes 15 (3d8 + 2) bludgeoning damage at the start of each of the morkoth's turns. and the morkoth can't use its tentacles on another target.",
         "Hypnosis": "The morkoth projects a 30-foot cone of magical energy. Each creature in that area must make a DC 17+1d8 + 13 Wisdom saving throw. On a failed save, the creature is charmed by the morkoth for 1 minute. While charmed in this way, the target tries to get as close to the morkoth as possible, using its actions to Dash until it is within 5 feet of the morkoth. A charmed target can repeat the saving throw at the end of each of its turns and whenever it takes damage, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature has advantage on saving throws against the morkoth's Hypnosis for 24 hours."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "in_lair": {
         "CR_increase": 1,

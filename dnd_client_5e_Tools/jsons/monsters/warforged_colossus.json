@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "8",
     "name": "Warforged Colossus",
+    "HP": "410 (20d20 + 200)",
     "AC": 23,
     "speed": [
         "60 ft"
@@ -47,10 +48,6 @@
         "Eldritch Turret": "Ranged Spell Attack: +18+1d16 + 10 to hit, range 300 ft., one target. Hit: 18 (4d8) force damage, and if the target is a creature, it is knocked prone.",
         "Stomp": "The colossus stomps one of its feet at a point on the ground within 20 feet of it. Any creature in a 20-foot-radius, 20-foot-high cylinder centered on this point must succeed on a DC 26+1d16 + 18 Dexterity saving throw or take 33 (6d10) bludgeoning damage and fall prone. Until the colossus uses its Stomp again or moves, the creature is restrained. While restrained in this way, the creature (or another creature within 5 feet of it) can use its action to make a DC 26+1d16 + 18 Strength check. On a success, the creature relocates to an unoccupied space of its choice within 5 feet of the colossus and is no longer restrained.",
         "Incinerating Beam (Recharge 5xe2x80x936)": "The colossus fires a beam of light in a 150-foot line that is 10 feet wide. Each creature in the line must make a DC 26+1d16 + 18 Dexterity saving throw, taking 60 (11d10) radiant damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points by this beam is disintegrated, leaving behind anything it was wearing or carrying."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Gargantuan",

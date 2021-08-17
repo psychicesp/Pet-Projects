@@ -11,6 +11,7 @@
     "perception": "+8",
     "persuasion": "+10",
     "name": "Mordakhesh",
+    "HP": "170 (20d8 + 80)",
     "AC": 18,
     "speed": [
         "40 ft"

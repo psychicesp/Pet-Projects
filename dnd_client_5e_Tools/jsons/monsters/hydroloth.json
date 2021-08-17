@@ -11,6 +11,7 @@
     "insight": "+4",
     "perception": "+4",
     "name": "Hydroloth",
+    "HP": "135 (18d8 + 54)",
     "AC": 15,
     "speed": [
         "20 ft",
@@ -72,10 +73,6 @@
         "Bite": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) piercing damage.",
         "Steal Memory (1/Day)": "The hydroloth targets one creature it can see within 60 feet of it. The target takes 4d6 psychic damage, and it must make a DC 16+1d8 + 12 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies, it can't cast spells, it can't understand language, and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A greater restoration or remove curse spell cast on the target ends this effect early.",
         "Teleport": "The hydroloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

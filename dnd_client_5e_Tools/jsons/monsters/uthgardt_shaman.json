@@ -13,6 +13,7 @@
     "perception": "+4",
     "survival": "+6",
     "name": "Uthgardt Shaman",
+    "HP": "38 (7d8 + 7)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -56,10 +57,6 @@
     "actions": {
         "Spear": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if wielded with two hands.",
         "Shortbow": "Ranged Weapon Attack: +3+1d4 + 1 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

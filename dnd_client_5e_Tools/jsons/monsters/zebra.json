@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "10",
+    "constitution": "12",
+    "intelligence": "2",
+    "wisdom": "11",
+    "charisma": "7",
+    "name": "Zebra",
+    "HP": "13 (2d10 + 2)",
+    "AC": 10,
+    "speed": [
+        "60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 106,
+    "book": "Tomb of Annihilation",
+    "actions": {
+        "Hooves": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage."
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
+}

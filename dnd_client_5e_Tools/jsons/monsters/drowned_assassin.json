@@ -9,6 +9,7 @@
     "intimidation": "+5",
     "stealth": "+5",
     "name": "Drowned Assassin",
+    "HP": "67 (9d8 + 27)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -47,10 +48,6 @@
         "Hand Crossbow": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 3 (1d6) poison damage, and the target must succeed on a DC 12+1d4 + 10 Constitution saving throw or contract bluerot (see the \"Bluerot\" in notes).",
         "Dagger": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 9 (2d8) poison damage, and the target must succeed on a DC 12+1d4 + 10 Constitution saving throw or contract bluerot (see the \"Bluerot\" in notes).",
         "Reveal (1/Day)": "The drowned assassin removes its mask, revealing its rotting face. Each creature of the assassin's choice within 30 feet of it that can see the assassin must succeed on a DC 13+1d4 + 11 Wisdom saving throw or be frightened until the end of its next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

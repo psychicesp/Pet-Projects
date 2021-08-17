@@ -7,6 +7,7 @@
     "wisdom": "15",
     "charisma": "16",
     "name": "Spirit Naga",
+    "HP": "75 (10d10 + 20)",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -59,10 +60,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one creature. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 13+1d6 + 10 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

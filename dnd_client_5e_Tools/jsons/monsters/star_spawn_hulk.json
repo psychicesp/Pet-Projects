@@ -8,6 +8,7 @@
     "charisma": "9",
     "perception": "+5",
     "name": "Star Spawn Hulk",
+    "HP": "136 (13d10 + 65)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -42,10 +43,6 @@
         "Multiattack": "The hulk makes two slam attacks. If both attacks hit the same target, the target also takes 9 (2d8) psychic damage and must succeed on a DC 17+1d8 + 13 Constitution saving throw or be stunned until the end of the target's next turn.",
         "Slam": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.",
         "Reaping Arms (Recharge 5xe2x80x936)": "The hulk makes a separate slam attack against each creature within 10 feet of it. Each creature that is hit must also succeed on a DC 17+1d8 + 13 Dexterity saving throw or be knocked prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

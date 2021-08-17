@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "6",
     "name": "Living Cloudkill",
+    "HP": "73 (7d10 + 35)",
     "AC": 15,
     "speed": [
         "25 ft",
@@ -41,10 +42,6 @@
         "Multiattack": "The living spell makes two Magical Strike attacks.",
         "Magical Strike": "Melee Spell Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit: 22 (5d6 + 5) poison damage.",
         "Spell Mimicry (Recharge 5xe2x80x936)": "The living spell creates a 40-foot-diameter sphere of fog within 60 feet of it (the fog spreads around corners). When a creature enters the fog for the first time on a turn or starts its turn there, it must make a DC 16+1d6 + 13 Constitution saving throw, taking 22 (5d8) poison damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

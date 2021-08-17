@@ -11,6 +11,7 @@
     "arcana": "+3",
     "religion": "+3",
     "name": "Flamewrath",
+    "HP": "105 (14d8 + 42)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -57,10 +58,6 @@
     },
     "actions": {
         "Dagger": "Melee or Ranged Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

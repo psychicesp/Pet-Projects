@@ -8,6 +8,7 @@
     "charisma": "4",
     "perception": "+3",
     "name": "Rot Troll",
+    "HP": "138 (12d10 + 72)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -36,10 +37,6 @@
         "Multiattack": "The troll makes three attacks: one with its bite and two with its claws.",
         "Bite": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 16 (3d10) necrotic damage.",
         "Claws": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 5 (1d10) necrotic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

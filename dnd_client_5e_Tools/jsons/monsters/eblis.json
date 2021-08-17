@@ -8,6 +8,7 @@
     "charisma": "11",
     "perception": "+4",
     "name": "Eblis",
+    "HP": "26 (4d10 + 4)",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -40,10 +41,6 @@
     "actions": {
         "Multiattack": "The eblis attacks twice with its beak.",
         "Beak": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target Hit: 5 (1d4 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

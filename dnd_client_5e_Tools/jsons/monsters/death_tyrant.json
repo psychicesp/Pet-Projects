@@ -8,6 +8,7 @@
     "charisma": "19",
     "perception": "+12",
     "name": "Death Tyrant",
+    "HP": "187 (25d10 + 50)",
     "AC": 19,
     "speed": [
         "0 ft",
@@ -37,7 +38,7 @@
         "Deep Speech",
         "Undercommon"
     ],
-    "CR": "14 (11,500 XP) or 15 (13,000 XP) when encountered in lair",
+    "CR": "14 (11,500 XP) or 15 (13,000 XP) whe ecoutered i lair",
     "page": 29,
     "book": "Monster Manual",
     "traits": {

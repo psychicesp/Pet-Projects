@@ -9,6 +9,7 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Fleecemane Lion",
+    "HP": "45 (6d10 + 12)",
     "AC": 15,
     "speed": [
         "50 ft"

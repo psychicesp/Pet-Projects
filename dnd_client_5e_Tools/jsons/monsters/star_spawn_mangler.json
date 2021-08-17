@@ -8,6 +8,7 @@
     "charisma": "7",
     "stealth": "+7",
     "name": "Star Spawn Mangler",
+    "HP": "71 (13d8 + 13)",
     "AC": 14,
     "speed": [
         "40 ft",
@@ -47,10 +48,6 @@
         "Multiattack": "The mangler makes two claw attacks.",
         "Claw": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage. If the attack roll has advantage, the target also takes 7 (2d6) psychic damage.",
         "Flurry of Claws (Recharge 4xe2x80x936)": "The mangler makes six claw attacks against one target. Either before or after these attacks, it can move up to its speed as a bonus action without provoking opportunity attacks."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

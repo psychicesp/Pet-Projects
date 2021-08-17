@@ -9,6 +9,7 @@
     "charisma": "1 (-5)",
     "perception": "+4",
     "name": "Anvilwrought Raptor",
+    "HP": "18 (4d4 + 8)",
     "AC": 14,
     "speed": [
         "10 ft",
@@ -31,7 +32,7 @@
     "languages": [
         "understands one language of its creator but can't speak"
     ],
-    "CR": "variable",
+    "CR": "1/2 (100 XP)",
     "page": 209,
     "book": "Mythic Odysseys of Theros",
     "traits": {
@@ -41,10 +42,6 @@
     "actions": {
         "Multiattack": "The raptor makes two attacks with its beak.",
         "Beak": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Tiny",

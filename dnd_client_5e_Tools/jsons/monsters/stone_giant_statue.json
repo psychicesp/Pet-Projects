@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "1",
     "name": "Stone Giant Statue",
+    "HP": "195 (17d12 + 85)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -36,10 +37,6 @@
         "Magic Weapons": "The golem's weapon attacks are magical."
     },
     "actions": {},
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
-    },
     "alignment": "U",
     "size": "Huge",
     "type": "construct"

@@ -9,6 +9,7 @@
     "wisdom": "7",
     "charisma": "8",
     "name": "Winged Kobold",
+    "HP": "7 (3d6 - 3)",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -34,10 +35,6 @@
     "actions": {
         "Dagger": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.",
         "Dropped Rock": "Ranged Weapon Attack: +5+1d4 + 3 to hit, one target directly below the kobold. Hit: 6 (1d6 + 3) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Small",

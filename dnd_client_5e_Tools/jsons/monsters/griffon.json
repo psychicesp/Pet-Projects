@@ -8,6 +8,7 @@
     "charisma": "8",
     "perception": "+5",
     "name": "Griffon",
+    "HP": "59 (7d10 + 21)",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -34,10 +35,6 @@
         "Multiattack": "The griffon makes two attacks: one with its beak and one with its claws.",
         "Beak": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.",
         "Claws": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

@@ -8,6 +8,7 @@
     "wisdom": "10 (+0)",
     "charisma": "5 (-3)",
     "name": "Axe Beak",
+    "HP": "19 (3d10 + 3)",
     "AC": 11,
     "speed": [
         "50 ft"
@@ -20,15 +21,11 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "1/4 (50 XP)",
     "page": 317,
     "book": "Monster Manual",
     "actions": {
         "Beak": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

@@ -10,6 +10,7 @@
     "charisma": "18",
     "arcana": "+12",
     "name": "Blue Abishai",
+    "HP": "195 (26d8 + 78)",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -83,10 +84,6 @@
         "Multiattack": "The abishai makes two attacks: one with its quarterstaff and one with its bite.",
         "Quarterstaff": "Melee Weapon Attack: +8+1d12 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.",
         "Bite": "Melee Weapon Attack: +8+1d12 + 2 to hit, reach 5 ft., one target. Hit: 13 (2d10 + 2) piercing damage plus 14 (4d6) lightning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

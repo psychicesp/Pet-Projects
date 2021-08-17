@@ -8,6 +8,7 @@
     "charisma": "5",
     "perception": "+2",
     "name": "Quetzalcoatlus",
+    "HP": "30 (4d12 + 4)",
     "AC": 13,
     "speed": [
         "10 ft",
@@ -32,10 +33,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 10 ft., one creature. Hit: 12 (3d6 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

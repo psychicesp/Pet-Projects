@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Earth Elemental",
+    "HP": "126 (12d10 + 60)",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -41,10 +42,6 @@
     "actions": {
         "Multiattack": "The elemental makes two slam attacks.",
         "Slam": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Large",

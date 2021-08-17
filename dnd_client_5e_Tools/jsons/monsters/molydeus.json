@@ -10,6 +10,7 @@
     "charisma": "24",
     "perception": "+21",
     "name": "Molydeus",
+    "HP": "216 (16d12 + 112)",
     "AC": 19,
     "speed": [
         "40 ft"

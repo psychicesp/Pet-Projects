@@ -10,6 +10,7 @@
     "charisma": "24",
     "perception": "+11",
     "name": "Zuggtmoy",
+    "HP": "304 (32d10 + 128)",
     "AC": 18,
     "speed": [
         "30 ft"

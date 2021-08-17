@@ -11,6 +11,7 @@
     "perception": "+8",
     "stealth": "+5",
     "name": "Ulitharid",
+    "HP": "127 (17d10 + 14)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -63,10 +64,6 @@
         "Tentacles": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 10 ft., one creature. Hit: 27 (4d10 + 5) psychic damage. If the target is Large or smaller, it is grappled (escape DC 14+1d8 + 10) and must succeed on a DC 17+1d8 + 13 Intelligence saving throw or be stunned until this grapple ends.",
         "Extract Brain": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one incapacitated humanoid grappled by the ulitharid. Hit: 55 (10d10) piercing damage. If this damage reduces the target to 0 hit points, the ulitharid kills the target by extracting and devouring its brain.",
         "Mind Blast (Recharge 5xe2x80x936)": "The ulitharid magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 17+1d8 + 13 Intelligence saving throw or take 31 (4d12 + 5) psychic damage and be stunned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

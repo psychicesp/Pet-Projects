@@ -9,6 +9,7 @@
     "wisdom": "13",
     "charisma": "10",
     "name": "Githyanki Warrior",
+    "HP": "49 (9d8 + 9)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -42,10 +43,6 @@
     "actions": {
         "Multiattack": "The githyanki makes two greatsword attacks.",
         "Greatsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage plus 7 (2d6) psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

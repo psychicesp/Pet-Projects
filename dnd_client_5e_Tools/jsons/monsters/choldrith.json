@@ -10,6 +10,7 @@
     "religion": "+2",
     "stealth": "+5",
     "name": "Choldrith",
+    "HP": "66 (12d8 + 12)",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -57,10 +58,6 @@
     "actions": {
         "Dagger": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage.",
         "Web (Recharge 5xe2x80x936)": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 30/60 ft., one Large or smaller creature. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 11+1d4 + 9 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage)."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

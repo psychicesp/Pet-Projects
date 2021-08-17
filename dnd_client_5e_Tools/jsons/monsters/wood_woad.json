@@ -10,6 +10,7 @@
     "perception": "+4",
     "stealth": "+4",
     "name": "Wood Woad",
+    "HP": "75 (10d8 + 30)",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -46,10 +47,6 @@
     "actions": {
         "Multiattack": "The wood woad makes two attacks with its club.",
         "Club": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 14 (4d4 + 4) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Medium",

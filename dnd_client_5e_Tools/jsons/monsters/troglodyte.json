@@ -10,6 +10,7 @@
     "charisma": "6",
     "stealth": "+2",
     "name": "Troglodyte",
+    "HP": "13 (2d8 + 4)",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -37,10 +38,6 @@
         "Multiattack": "The troglodyte makes three attacks: one with its bite and two with its claws.",
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
         "Claw": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

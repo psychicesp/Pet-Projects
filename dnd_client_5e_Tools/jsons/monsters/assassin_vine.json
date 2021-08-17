@@ -8,6 +8,7 @@
     "wisdom": "10 (+0)",
     "charisma": "1 (-5)",
     "name": "Assassin Vine",
+    "HP": "85 (10d10 + 30)",
     "AC": 13,
     "speed": [
         "5 ft",
@@ -28,7 +29,7 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "3 (700 XP)",
     "page": 213,
     "book": "Tomb of Annihilation",
     "traits": {
@@ -37,10 +38,6 @@
     "actions": {
         "Constrict": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 20 ft., one creature. Hit: The target takes 11 (2d6 + 4) bludgeoning damage, and it is grappled (escape DC 14+1d4 + 12). Until this grapple ends, the target is restrained, and it takes 21 (6d6) poison damage at the start of each of its turns. The vine can constrict only one target at a time.",
         "Entangling Vines": "The assassin vine can animate normal vines and roots on the ground in a 15-foot square within 30 feet of it. These plants turn the ground in that area into difficult terrain. A creature in that area when the effect begins must succeed on a DC 13+1d4 + 11 Strength saving throw or be restrained by entangling vines and roots. A creature restrained by the plants can use its action to make a DC 13+1d4 + 11 Strength (Athletics) check, freeing itself on a successful check. The effect ends after 1 minute or when the assassin vine dies or uses Entangling Vines again."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

@@ -7,6 +7,7 @@
     "wisdom": "7",
     "charisma": "2",
     "name": "Fish",
+    "HP": "1 (1d4 - 1)",
     "AC": 13,
     "speed": [
         "0 ft",
@@ -28,10 +29,6 @@
         "Water Breathing": "The fish can breathe only underwater."
     },
     "actions": {},
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
-    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

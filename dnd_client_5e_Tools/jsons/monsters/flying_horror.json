@@ -9,6 +9,7 @@
     "perception": "+4",
     "stealth": "+7",
     "name": "Flying Horror",
+    "HP": "49 (9d8 + 9)",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -39,10 +40,6 @@
     "actions": {
         "Claws": "Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage plus 14 (4d6) psychic damage.",
         "Frightening Screech (Recharge 5xe2x80x936)": "The horror screeches. Each creature within 30 feet of it that can hear it must succeed on a DC 13+1d4 + 11 Wisdom saving throw or be frightened of it for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the horror's Frightening Screech for the next 24 hours."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

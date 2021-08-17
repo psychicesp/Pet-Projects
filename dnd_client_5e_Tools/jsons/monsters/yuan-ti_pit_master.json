@@ -11,6 +11,7 @@
     "deception": "+6",
     "stealth": "+5",
     "name": "Yuan-ti Pit Master",
+    "HP": "88 (16d8 + 16)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -46,8 +47,7 @@
         "Magic Resistance": "The yuan-ti has advantage on saving throws against spells and other magical effects.",
         "Poison's Disciple (2/Day)": "The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) poison damage to the target.",
         "spellcasting": {
-            "level": 6,
-            "type": "warlock",
+            "type": "innate",
             "spells": [
                 "eldritch blast",
                 "friends",
@@ -69,10 +69,6 @@
         "Multiattack (Yuan-ti Form Only)": "The yuan-ti makes two bite attacks using its snake arms.",
         "Bite": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.",
         "Merrshaulk's Slumber (1/Day)": "The yuan-ti targets up to five creatures that it can see within 60 feet of it. Each target must succeed on a DC 13+1d6 + 10 Constitution saving throw or fall into a magical sleep and be unconscious for 10 minutes. A sleeping target awakens if it takes damage or if someone uses an action to shake or slap it awake. This magical sleep has no effect on a creature immune to being charmed."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "Y",
     "size": "Medium",

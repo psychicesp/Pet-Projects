@@ -1,0 +1,31 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "13",
+    "constitution": "13",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "3",
+    "name": "Giant Fly",
+    "HP": "19 (3d10 + 3)",
+    "AC": 11,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "page": 169,
+    "book": "Dungeon Master\\xe2\\x80\\x99s Guide",
+    "actions": {},
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
+}

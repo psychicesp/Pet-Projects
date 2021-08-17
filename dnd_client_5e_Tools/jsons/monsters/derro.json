@@ -10,6 +10,7 @@
     "charisma": "9",
     "stealth": "+4",
     "name": "Derro",
+    "HP": "13 (3d6 + 3)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -36,10 +37,6 @@
     "actions": {
         "Hooked Spear": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage. If the target is Medium or smaller, the derro can choose to deal no damage and knock it prone.",
         "Light Crossbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Small",

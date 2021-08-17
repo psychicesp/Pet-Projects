@@ -1,0 +1,38 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "11",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "9",
+    "wisdom": "9",
+    "charisma": "11",
+    "intimidation": "+2",
+    "name": "Redbrand Ruffian",
+    "HP": "16 (3d8 + 3)",
+    "AC": 14,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "intimidation": "proficient"
+    },
+    "senses": [
+        "passive Perception 9"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 61,
+    "book": "Lost Mine of Phandelver",
+    "actions": {
+        "Multiattack": "The ruffian makes two melee attacks.",
+        "Shortsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

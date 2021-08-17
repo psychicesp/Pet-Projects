@@ -8,6 +8,7 @@
     "charisma": "10",
     "perception": "+4",
     "name": "Snake Horror",
+    "HP": "60 (8d8 + 24)",
     "AC": 20,
     "speed": [
         "30 ft",
@@ -43,10 +44,6 @@
     "actions": {
         "Multiattack": "The snake horror makes two longsword attacks.",
         "Longsword": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, and the target must make a DC 12 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

@@ -1,0 +1,49 @@
+{
+    "tags": [
+        "humanoid"
+    ],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "10",
+    "athletics": "+6",
+    "perception": "+4",
+    "survival": "+4",
+    "name": "Warrior",
+    "HP": "52 (8d8 + 16)",
+    "AC": 20,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient",
+        "survival": "proficient"
+    },
+    "senses": [
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Common",
+        "plus one of your choice"
+    ],
+    "book": "Storm Lord\\xe2\\x80\\x99s Wrath",
+    "traits": {
+        "Battle Readiness": "The warrior has advantage on initiative rolls.",
+        "Improved Critical": "The warrior's attack rolls score a critical hit on a roll of 19 or 20 on the d20.",
+        "Martial Role": "The warrior has one of the following traits of your choice:"
+    },
+    "actions": {
+        "Extra Attack": "The warrior can attack twice, instead of once, whenever it takes the Attack action on its turn.",
+        "Longsword": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
+        "Longbow": "Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
+    },
+    "alignment": "U",
+    "size": "7th-level",
+    "type": "Medium"
+}

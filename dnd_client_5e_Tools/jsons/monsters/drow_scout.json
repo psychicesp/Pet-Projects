@@ -13,6 +13,7 @@
     "stealth": "+6",
     "survival": "+5",
     "name": "Drow Scout",
+    "HP": "16 (3d8 + 3)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -52,10 +53,6 @@
         "Multiattack": "The scout makes two melee attacks or two ranged attacks.",
         "Shortsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
         "Longbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

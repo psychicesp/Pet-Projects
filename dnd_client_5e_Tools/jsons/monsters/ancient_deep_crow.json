@@ -12,6 +12,7 @@
     "perception": "+7",
     "stealth": "+13",
     "name": "Ancient Deep Crow",
+    "HP": "187 (15d12 + 90)",
     "AC": 18,
     "speed": [
         "20 ft",
@@ -36,7 +37,7 @@
     "languages": [
         "Deep Crow"
     ],
-    "CR": "variable",
+    "CR": "15 (13,000 XP)",
     "page": 211,
     "book": "Acquisitions Incorporated",
     "traits": {

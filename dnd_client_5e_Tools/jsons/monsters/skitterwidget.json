@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "14",
+    "constitution": "18",
+    "intelligence": "3",
+    "wisdom": "10",
+    "charisma": "1",
+    "name": "Skitterwidget",
+    "HP": "85 (10d8 + 40)",
+    "AC": 18,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "lightning, poison"
+    ],
+    "condition_immunities": [
+        "blinded, deafened, exhaustion, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Skitterwidget"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 136,
+    "book": "Candlekeep Mysteries",
+    "traits": {
+        "Lightning Absorption": "Whenever the skitterwidget is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.",
+        "Unusual Nature": "The skitterwidget doesn't require air, food, drink, or sleep."
+    },
+    "actions": {
+        "Multiattack": "The skitterwidget makes two attacks: one with its bite and one with its tail.",
+        "Bite": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it is grappled by the skitterwidget (escape DC 13+1d6 + 10).",
+        "Tail": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 10 (3d6) lightning damage, and if the target is a creature, it must succeed on a DC 15+1d6 + 12 Constitution saving throw or be stunned until the end of its next turn."
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "construct"
+}

@@ -11,6 +11,7 @@
     "athletics": "+3",
     "perception": "+2",
     "name": "Koalinth",
+    "HP": "16 (3d8 + 3)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -40,10 +41,6 @@
     },
     "actions": {
         "Trident": "Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

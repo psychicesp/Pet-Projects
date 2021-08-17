@@ -1,0 +1,63 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "14",
+    "dexterity": "10",
+    "constitution": "12",
+    "intelligence": "13",
+    "wisdom": "16",
+    "charisma": "13",
+    "medicine": "+5",
+    "persuasion": "+3",
+    "religion": "+5",
+    "name": "Prophetess Dran",
+    "HP": "27 (5d8 + 5)",
+    "AC": "",
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "medicine": "proficient",
+        "persuasion": "proficient",
+        "religion": "expert"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Elvish"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 208,
+    "book": "Acquisitions Incorporated",
+    "traits": {
+        "Divine Eminence": "As a bonus action, Prophetess can expend a spell slot to cause her melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If Prophetess expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.",
+        "Fey Ancestry": "Prophetess has advantage on saving throws against being charmed, and magic can't put her to sleep.",
+        "spellcasting": {
+            "level": 5,
+            "type": "cleric",
+            "spells": [
+                "light",
+                "sacred flame",
+                "thaumaturgy",
+                "cure wounds",
+                "guiding bolt",
+                "sanctuary",
+                "lesser restoration",
+                "spiritual weapon",
+                "dispel magic",
+                "spirit guardians"
+            ]
+        }
+    },
+    "actions": {
+        "Maul": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage."
+    },
+    "alignment": "LG",
+    "size": "Medium",
+    "type": "humanoid"
+}

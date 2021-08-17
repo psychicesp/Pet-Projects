@@ -1,0 +1,48 @@
+{
+    "tags": [],
+    "strength": "20",
+    "dexterity": "10",
+    "constitution": "16",
+    "intelligence": "3",
+    "wisdom": "8",
+    "charisma": "10",
+    "name": "Zombie Clot",
+    "HP": "104 (11d12 + 33)",
+    "AC": 12,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {
+        "constitution": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, paralyzed, petrified, poisoned, stunned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 9"
+    ],
+    "languages": [
+        "understands the languages it knew in life but can't speak"
+    ],
+    "CR": "6 (2,300 XP)",
+    "page": 255,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Deathly Stench": "Any creature that starts its turn within 10 feet of the zombie must succeed on a DC 14+1d6 + 11 Constitution saving throw or take 9 (2d8) poison damage and be poisoned until the start of the creature's next turn.",
+        "Undead Fortitude": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+        "Unusual Nature": "The zombie doesn't require air, food, drink, or sleep."
+    },
+    "actions": {
+        "Multiattack": "The zombie makes two Slam attacks.",
+        "Slam": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.",
+        "Flesh Entomb (Recharge 5xe2x80x936)": "The zombie flings a detached clump of corpses at a creature it can see within 30 feet of it. The target must succeed on a DC 16+1d6 + 13 Strength saving throw or take 16 (3d10) bludgeoning damage, and if the target is a Large or smaller creature, it becomes entombed in dead flesh."
+    },
+    "alignment": "U",
+    "size": "Huge",
+    "type": "undead"
+}

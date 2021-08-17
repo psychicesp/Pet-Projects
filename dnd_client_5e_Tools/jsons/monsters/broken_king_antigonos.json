@@ -8,6 +8,7 @@
     "charisma": "9",
     "perception": "+7",
     "name": "Broken King Antigonos",
+    "HP": "38 (9d10 + 27)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -36,10 +37,6 @@
         "Greataxe": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.",
         "Gore": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.",
         "Amphora": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one Medium or smaller creature. Hit: 8 (1d8 + 4) bludgeoning damage. If there is not already a creature inside the amphora, the target is restrained inside. As an action, the restrained creature can make a DC 14+1d4 + 12 Dexterity (Acrobatics) check, escaping from the amphora on a success. The effect also ends if the amphora is destroyed. The amphora has AC 8, 20 hit points, and immunity to poison and psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

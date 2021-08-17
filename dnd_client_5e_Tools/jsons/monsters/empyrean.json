@@ -11,6 +11,7 @@
     "insight": "+13",
     "persuasion": "+15",
     "name": "Empyrean",
+    "HP": "313 (19d12 + 190)",
     "AC": 22,
     "speed": [
         "50 ft",

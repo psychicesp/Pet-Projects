@@ -9,6 +9,7 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Swarm of Rats",
+    "HP": "24 (7d8 - 7)",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -37,10 +38,6 @@
     },
     "actions": {
         "Bites": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 0 ft., one target in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

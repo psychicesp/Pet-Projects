@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "5d8",
     "strength": "1",
     "dexterity": "14",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "10",
     "charisma": "11",
     "name": "Snow Maiden",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 5,
+    "HP": "22 (5d8)",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -41,10 +43,6 @@
     },
     "actions": {
         "Life Drain": "Melee Spell Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 10 (3d6) cold damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

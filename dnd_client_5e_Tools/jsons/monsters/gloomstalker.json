@@ -11,6 +11,7 @@
     "perception": "+6",
     "stealth": "+6",
     "name": "Gloomstalker",
+    "HP": "90 (12d10 + 24)",
     "AC": 15,
     "speed": [
         "40 ft",
@@ -46,10 +47,6 @@
         "Claws": "Melee Weapon Attack: +9+1d6 + 6 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage.",
         "Snatch": "Melee Weapon Attack: +9+1d6 + 6 to hit, reach 5 ft., one Medium or smaller creature. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage, and the target is grappled (escape DC 17+1d6 + 14). While grappled in this way, the target is restrained.",
         "Shriek (Recharge 6)": "The gloomstalker emits a terrible shriek. Each enemy within 60 feet of the gloomstalker that can hear it must succeed on a DC 13+1d6 + 10 Constitution saving throw or be paralyzed until the end of the enemy's next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

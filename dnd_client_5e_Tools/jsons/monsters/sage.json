@@ -1,0 +1,52 @@
+{
+    "tags": [
+        "any"
+    ],
+    "strength": "8",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "18",
+    "wisdom": "15",
+    "charisma": "11",
+    "arcana": "+8",
+    "history": "+8",
+    "insight": "+4",
+    "investigation": "+8",
+    "medicine": "+6",
+    "nature": "+8",
+    "religion": "+8",
+    "name": "Sage",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 5,
+    "HP": "22 (5d8)",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "arcana": "expert",
+        "history": "expert",
+        "insight": "proficient",
+        "investigation": "expert",
+        "medicine": "expert",
+        "nature": "expert",
+        "religion": "expert"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Common plus any four languages"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 9,
+    "book": "Candlekeep Mysteries",
+    "actions": {
+        "Spellcasting": "The sage casts one of the following spells, using Intelligence as the spellcasting ability (save DC 14+1d4 + 12, +6+1d4 + 4 to hit with spell attacks):",
+        "Shocking Grasp (Cantrip)": "Melee Spell Attack: +6+1d4 + 4 to hit (with advantage if the target is wearing armor made of metal), reach 5 ft., one creature. Hit: 9 (2d8) lightning damage, and the target can't take reactions until the start of its next turn."
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "humanoid"
+}

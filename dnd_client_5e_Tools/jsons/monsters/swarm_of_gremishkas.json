@@ -1,0 +1,50 @@
+{
+    "tags": [
+        "of"
+    ],
+    "strength": "12",
+    "dexterity": "14",
+    "constitution": "10",
+    "intelligence": "12",
+    "wisdom": "14",
+    "charisma": "4",
+    "perception": "+4",
+    "name": "Swarm of Gremishkas",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 7,
+    "HP": "24 (7d6)",
+    "AC": 12,
+    "speed": [
+        "25 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "resistances": [
+        "bludgeoning, piercing, slashing"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+    ],
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "understands Common but can't speak"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 235,
+    "book": "Van Richten\\xe2\\x80\\x99s Guide to Ravenloft",
+    "traits": {
+        "Limited Spell Immunity": "The swarm automatically succeeds on saving throws against spells of 3rd level or lower, and the attack rolls of such spells always miss it.",
+        "Swarm": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny gremishka. The swarm can't regain hit points or gain temporary hit points."
+    },
+    "actions": {
+        "Bites": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 0 ft., one target in the swarm's space. Hit: 12 (3d6 + 2) piercing damage, or 5 (1d6 + 2) piercing damage if the swarm has half of its hit points or fewer, plus 7 (2d6) force damage."
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "swarm"
+}

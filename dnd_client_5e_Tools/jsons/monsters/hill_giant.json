@@ -1,0 +1,37 @@
+{
+    "tags": [],
+    "strength": "21",
+    "dexterity": "8",
+    "constitution": "19",
+    "intelligence": "5",
+    "wisdom": "9",
+    "charisma": "6",
+    "perception": "+2",
+    "name": "Hill Giant",
+    "HP": "105 (10d12 + 40)",
+    "AC": 13,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 155,
+    "book": "Monster Manual",
+    "actions": {
+        "Multiattack": "The giant makes two greatclub attacks.",
+        "Greatclub": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.",
+        "Rock": "Ranged Weapon Attack: +8+1d6 + 5 to hit, range 60/240 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage."
+    },
+    "alignment": "CE",
+    "size": "Huge",
+    "type": "giant"
+}

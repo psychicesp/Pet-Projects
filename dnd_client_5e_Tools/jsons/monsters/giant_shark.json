@@ -8,6 +8,7 @@
     "charisma": "5",
     "perception": "+3",
     "name": "Giant Shark",
+    "HP": "126 (11d12 + 55)",
     "AC": 13,
     "speed": [
         "0 ft",
@@ -33,10 +34,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +9+1d6 + 6 to hit, reach 5 ft., one target. Hit: 22 (3d10 + 6) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

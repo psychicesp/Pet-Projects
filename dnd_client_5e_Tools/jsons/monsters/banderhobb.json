@@ -10,6 +10,7 @@
     "athletics": "+8",
     "stealth": "+7",
     "name": "Banderhobb",
+    "HP": "84 (8d10 + 40)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -29,7 +30,7 @@
     "languages": [
         "Common and the languages of its creator but can't speak"
     ],
-    "CR": "variable",
+    "CR": "5 (1,800 XP)",
     "page": 122,
     "book": "Volo\u2019s Guide to Monsters",
     "traits": {
@@ -41,10 +42,6 @@
         "Tongue": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 15 ft., one target. Hit: 10 (3d6) necrotic damage, and the target must make a DC 15+1d6 + 12 Strength saving throw. On a failed save, the target is pulled to a space within 5 feet of the banderhobb, which can use a bonus action to make a bite attack against the target.",
         "Swallow": "The banderhobb makes a bite attack against a Medium or smaller creature it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the banderhobb and it takes 10 (3d6) necrotic damage at the start of each of the banderhobb's turns. A creature reduced to 0 hit points in this way stops taking necrotic damage and becomes stable.",
         "Shadow Step": "The banderhobb magically teleports up to 30 feet to an unoccupied space of dim light or darkness that it can see. Before or after teleporting, it can make a bite or tongue attack."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

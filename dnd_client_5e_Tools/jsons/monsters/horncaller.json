@@ -11,6 +11,7 @@
     "nature": "+2",
     "perception": "+4",
     "name": "Horncaller",
+    "HP": "39 (6d8 + 12)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -44,10 +45,6 @@
         "Multiattack": "The horncaller makes two melee attacks with its staff and uses One with the Worldsoul.",
         "Staff": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands.",
         "One with the Worldsoul": "The horncaller chooses one beast it can see within 30 feet of it. If the beast can hear the horncaller, the beast uses its reaction to make one melee attack against a target that the horncaller can see."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LG",
     "size": "Medium",

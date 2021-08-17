@@ -7,6 +7,7 @@
     "wisdom": "13",
     "charisma": "8",
     "name": "Orzhov Giant",
+    "HP": "84 (8d10 + 40)",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -35,10 +36,6 @@
         "Multiattack": "The giant makes two greataxe attacks.",
         "Greataxe": "Melee Weapon Attack: +9+1d6 + 6 to hit, reach 10 ft., one target. Hit: 25 (3d12 + 6) slashing damage. If the Orzhov giant scores a critical hit, it rolls the damage dice three times, instead of twice.",
         "Rock": "Ranged Weapon Attack: +9+1d6 + 6 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

@@ -9,6 +9,7 @@
     "wisdom": "10",
     "charisma": "9",
     "name": "Duergar Kavalrachni",
+    "HP": "26 (4d8 + 8)",
     "AC": 16,
     "speed": [
         "25 ft"
@@ -39,10 +40,6 @@
         "War Pick": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 5 (2d4) poison damage.",
         "Heavy Crossbow": "Ranged Weapon Attack: +2+1d4 + 0 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.",
         "Shared Invisibility (Recharges after a Short or Long Rest)": "The duergar magically turns invisible for up to 1 hour or until it attacks, it casts a spell, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it. While the invisible duergar is mounted on a female steeder, the steeder is invisible as well. The invisibility ends early on the steeder immediately after it attacks."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

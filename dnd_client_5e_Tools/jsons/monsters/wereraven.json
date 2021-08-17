@@ -2,7 +2,6 @@
     "tags": [
         "human"
     ],
-    "hit": "7d8",
     "strength": "10",
     "dexterity": "15",
     "constitution": "11",
@@ -12,6 +11,9 @@
     "insight": "+4",
     "perception": "+6",
     "name": "Wereraven",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 7,
+    "HP": "31 (7d8)",
     "AC": 12,
     "speed": [
         "30 ft. (fly 50 ft. in raven and hybrid forms)"
@@ -40,10 +42,6 @@
         "Beak (Raven or Hybrid Form Only)": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 1 piercing damage in raven form, or 4 (1d4 + 2) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10+1d4 + 8 Constitution saving throw or be cursed with wereraven lycanthropy.",
         "Shortsword (Human or Hybrid Form Only)": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
         "Hand Crossbow (Human or Hybrid Form Only)": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "S",
     "size": "Medium",

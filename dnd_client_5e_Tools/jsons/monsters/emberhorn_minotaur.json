@@ -8,6 +8,7 @@
     "charisma": "9",
     "perception": "+7",
     "name": "Emberhorn Minotaur",
+    "HP": "76 (9d10 + 27)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -38,10 +39,6 @@
         "Burning Breath (Recharge 5xe2x80x936)": "The minotaur exhales a cloud of burning embers in a 15-foot cone. Each creature in that area must succeed on a DC 14 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.",
         "Greataxe": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.",
         "Gore": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

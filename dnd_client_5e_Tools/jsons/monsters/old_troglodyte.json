@@ -10,6 +10,7 @@
     "charisma": "6",
     "stealth": "+2",
     "name": "Old Troglodyte",
+    "HP": "13 (2d8 + 4)",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -36,10 +37,6 @@
     "actions": {
         "Multiattack": "The troglodyte makes two claw attacks.",
         "Claw": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

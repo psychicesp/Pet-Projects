@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "16",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "14",
+    "charisma": "10",
+    "acrobatics": "+6",
+    "perception": "+5",
+    "stealth": "+6",
+    "name": "Immortal Lotus Monk",
+    "HP": "65 (10d8 + 20)",
+    "AC": 15,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient",
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "senses": [
+        "passive Perception 15"
+    ],
+    "languages": [
+        "Common"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 165,
+    "book": "Candlekeep Mysteries",
+    "traits": {
+        "Unarmored Defense": "While the monk is wearing no armor and wielding no shield, its AC includes its Wisdom modifier."
+    },
+    "actions": {
+        "Multiattack": "The monk makes two attacks.",
+        "Force Strike": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) force damage, and if the target is a creature, it must succeed on a DC 14+1d6 + 11 Dexterity saving throw or be knocked prone.",
+        "Dart": "Ranged Weapon Attack: +6+1d6 + 3 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "humanoid"
+}

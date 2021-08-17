@@ -11,6 +11,7 @@
     "arcana": "+5",
     "perception": "+7",
     "name": "Gray Slaad",
+    "HP": "127 (17d8 + 51)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -61,10 +62,6 @@
         "Bite (Slaad Form Only)": "Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
         "Claws (Slaad Form Only)": "Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage.",
         "Greatsword": "Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

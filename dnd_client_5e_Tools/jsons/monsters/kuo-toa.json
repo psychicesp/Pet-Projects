@@ -2,7 +2,6 @@
     "tags": [
         "kuo-toa"
     ],
-    "hit": "4d8",
     "strength": "13",
     "dexterity": "10",
     "constitution": "11",
@@ -11,6 +10,9 @@
     "charisma": "8",
     "perception": "+4",
     "name": "Kuo-toa",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 4,
+    "HP": "18 (4d8)",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -40,10 +42,6 @@
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.",
         "Spear": "Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.",
         "Net": "Ranged Weapon Attack: +3+1d4 + 1 to hit, range 5/15 ft., one Large or smaller creature. Hit: The target is restrained. A creature can use its action to make a DC 10+1d4 + 8 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

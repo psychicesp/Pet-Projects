@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "3d4",
     "strength": "3",
     "dexterity": "13",
     "constitution": "10",
@@ -8,6 +7,9 @@
     "wisdom": "10",
     "charisma": "9",
     "name": "Neogi Hatchling",
+    "hit_dice_type": "d4",
+    "num_hit_dice": 3,
+    "HP": "7 (3d4)",
     "AC": 11,
     "speed": [
         "20 ft",
@@ -31,10 +33,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage plus 7 (2d6) poison damage, and the target must succeed on a DC 10+1d4 + 8 Constitution saving throw or become poisoned for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Tiny",

@@ -9,6 +9,7 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Sahuagin Hatchling Swarm",
+    "HP": "52 (8d10 + 8)",
     "AC": 14,
     "speed": [
         "0 ft",
@@ -40,10 +41,6 @@
     },
     "actions": {
         "Bites": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 0 ft., one creature in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

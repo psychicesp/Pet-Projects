@@ -12,6 +12,7 @@
     "religion": "+2",
     "stealth": "+2",
     "name": "Crushing Wave Priest",
+    "HP": "52 (8d8 + 16)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -54,10 +55,6 @@
     },
     "actions": {
         "Quarterstaff": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

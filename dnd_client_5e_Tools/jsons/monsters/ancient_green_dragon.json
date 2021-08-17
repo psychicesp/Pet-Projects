@@ -17,6 +17,7 @@
     "persuasion": "+11",
     "stealth": "+8",
     "name": "Ancient Green Dragon",
+    "HP": "385 (22d20 + 154)",
     "AC": 21,
     "speed": [
         "40 ft",
@@ -51,7 +52,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "22 (41,000 XP)",
     "page": 93,
     "book": "Monster Manual",
     "traits": {

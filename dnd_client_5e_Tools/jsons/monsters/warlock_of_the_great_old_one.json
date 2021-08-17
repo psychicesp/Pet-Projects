@@ -11,6 +11,7 @@
     "arcana": "+4",
     "history": "+4",
     "name": "Warlock of the Great Old One",
+    "HP": "91 (14d8 + 28)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -39,8 +40,7 @@
     "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
     "traits": {
         "spellcasting": {
-            "level": 14,
-            "type": "warlock",
+            "type": "innate",
             "spells": [
                 "chill touch",
                 "eldritch blast",
@@ -66,10 +66,6 @@
     },
     "actions": {
         "Dagger": "Melee or Ranged Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

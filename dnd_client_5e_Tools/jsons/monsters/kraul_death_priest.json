@@ -12,6 +12,7 @@
     "nature": "+3",
     "religion": "+3",
     "name": "Kraul Death Priest",
+    "HP": "65 (10d8 + 20)",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -59,10 +60,6 @@
     "actions": {
         "Multiattack": "The kraul makes one attack with its quarterstaff and casts one of its spells with a casting time of 1 action.",
         "Quarterstaff": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if used with two hands."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

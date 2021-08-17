@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "25",
+    "dexterity": "9",
+    "constitution": "23",
+    "intelligence": "10",
+    "wisdom": "14",
+    "charisma": "13",
+    "athletics": "+11",
+    "perception": "+6",
+    "name": "Fire Giant Royal Headsman",
+    "HP": "162 (13d12 + 78)",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "charisma": "proficient"
+    },
+    "skills": {
+        "athletics": "proficient",
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "fire"
+    ],
+    "senses": [
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Giant"
+    ],
+    "CR": "9 (5,000 XP)",
+    "page": 201,
+    "book": "Tales from the Yawning Portal",
+    "actions": {
+        "Multiattack": "The giant makes two greataxe attacks.",
+        "Greataxe +2": "Melee Weapon Attack: +13+1d8 + 9 to hit, reach 10 ft., one target. Hit: 28 (3d12 + 9) slashing damage.",
+        "Rock": "Ranged Weapon Attack: +11+1d8 + 7 to hit, range 60/240 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage."
+    },
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "giant"
+}

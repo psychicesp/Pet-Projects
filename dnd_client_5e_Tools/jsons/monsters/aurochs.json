@@ -8,6 +8,7 @@
     "wisdom": "12 (+1)",
     "charisma": "5 (-3)",
     "name": "Aurochs",
+    "HP": "38 (4d10 + 16)",
     "AC": 11,
     "speed": [
         "50 ft"
@@ -20,7 +21,7 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "2 (450 XP)",
     "page": 207,
     "book": "Volo\u2019s Guide to Monsters",
     "traits": {
@@ -28,10 +29,6 @@
     },
     "actions": {
         "Gore": "Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

@@ -13,6 +13,7 @@
     "history": "+12",
     "perception": "+10",
     "name": "Aboleth",
+    "HP": "135 (18d10 + 36)",
     "AC": 17,
     "speed": [
         "10 ft",
@@ -35,7 +36,7 @@
         "Deep Speech",
         "telepathy 120 ft."
     ],
-    "CR": "variable",
+    "CR": "10 (5,900 XP)",
     "page": 13,
     "book": "Monster Manual",
     "traits": {

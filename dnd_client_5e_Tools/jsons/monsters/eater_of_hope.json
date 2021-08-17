@@ -10,6 +10,7 @@
     "intimidation": "+6",
     "persuasion": "+6",
     "name": "Eater of Hope",
+    "HP": "90 (12d10 + 24)",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -53,10 +54,6 @@
         "Multiattack": "The eater of hope makes two attacks with its claws.",
         "Claws": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage plus 7 (2d6) necrotic damage.",
         "Breath of Hopelessness (Recharge 5xe2x80x936)": "The eater of hope exhales a miasma of Underworld winds in a 30-foot cone. Each creature in that area must make a DC 14+1d6 + 11 Charisma saving throw. On a failed save, the target takes 26 (4d12) necrotic damage and is cursed for 1 minute. While cursed in this way, the target takes an extra 6 (1d12) necrotic damage whenever the eater of hope hits it with an attack. On a successful save, the target takes half as much damage and isn't cursed."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

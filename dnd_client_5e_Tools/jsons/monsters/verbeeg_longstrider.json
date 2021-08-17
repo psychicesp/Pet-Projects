@@ -9,6 +9,7 @@
     "athletics": "+7",
     "stealth": "+5",
     "name": "Verbeeg Longstrider",
+    "HP": "119 (14d10 + 42)",
     "AC": 14,
     "speed": [
         "50 ft"
@@ -51,10 +52,6 @@
         "Multiattack": "The verbeeg makes two melee attacks.",
         "Spear": "Melee or Ranged Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 14 (3d6 + 4) piercing damage, or 17 (3d8 + 4) piercing damage if used to make a ranged attack or used with two hands to make a melee attack.",
         "Sling": "Ranged Weapon Attack: +5+1d6 + 2 to hit, range 30/120 ft., one target. Hit: 9 (3d4 + 2) bludgeoning damage. If the target is a creature, it must succeed on a DC 15+1d6 + 12 Constitution saving throw or be stunned until the end of its next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Large",

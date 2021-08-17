@@ -11,6 +11,7 @@
     "arcana": "+5",
     "history": "+5",
     "name": "Illusionist",
+    "HP": "38 (7d8 + 7)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -58,10 +59,6 @@
     },
     "actions": {
         "Quarterstaff": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

@@ -13,6 +13,7 @@
     "persuasion": "+5",
     "stealth": "+9",
     "name": "Reaper of Bhaal",
+    "HP": "27 (5d8 + 5)",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -49,10 +50,6 @@
         "Multiattack": "The reaper makes two dagger attacks and uses Shroud Self.",
         "Dagger": "Melee or Ranged Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d4 + 5) piercing damage.",
         "Shroud Self": "The reaper magically turns invisible until the start of its next turn. This invisibility ends if the reaper makes an attack roll, makes a damage roll, or casts a spell."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

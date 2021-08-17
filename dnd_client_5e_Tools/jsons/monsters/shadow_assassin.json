@@ -9,6 +9,7 @@
     "perception": "+9",
     "stealth": "+12",
     "name": "Shadow Assassin",
+    "HP": "78 (12d8 + 24)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -49,10 +50,6 @@
     "actions": {
         "Multiattack": "The assassin makes two Shadow Blade attacks.",
         "Shadow Blade": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. Unless the target is immune to necrotic damage, the target's Strength score is reduced by 1d4 each time it is hit by this attack. The target dies if its Strength is reduced to 0. The reduction lasts until the target finishes a short or long rest. If a non-evil humanoid dies from this attack, a shadow (see the Monster Manual) rises from the corpse 1d4 hours later."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

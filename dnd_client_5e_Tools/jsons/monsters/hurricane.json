@@ -1,0 +1,57 @@
+{
+    "tags": [
+        "human"
+    ],
+    "strength": "12",
+    "dexterity": "16",
+    "constitution": "13",
+    "intelligence": "10",
+    "wisdom": "12",
+    "charisma": "10",
+    "acrobatics": "+5",
+    "name": "Hurricane",
+    "HP": "33 (6d8 + 6)",
+    "AC": 14,
+    "speed": [
+        "45 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "acrobatics": "proficient"
+    },
+    "senses": [
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Auran",
+        "Common"
+    ],
+    "CR": "2 (450 XP)",
+    "page": 191,
+    "book": "Princes of the Apocalypse",
+    "traits": {
+        "spellcasting": {
+            "level": 3,
+            "type": "sorcerer",
+            "spells": [
+                "blade ward",
+                "gust",
+                "light",
+                "prestidigitation",
+                "feather fall",
+                "jump",
+                "thunderwave",
+                "gust of wind"
+            ]
+        },
+        "Unarmored Defense": "While the hurricane is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.",
+        "Unarmored Movement": "While the hurricane is wearing no armor and wielding no shield, its walking speed increases by 15 feet (included in its speed)."
+    },
+    "actions": {
+        "Multiattack": "The hurricane makes two melee attacks.",
+        "Unarmed Strike": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage."
+    },
+    "alignment": "LE",
+    "size": "Medium",
+    "type": "humanoid"
+}

@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "1",
     "name": "Stone Defender",
+    "HP": "52 (7d8 + 21)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -36,10 +37,6 @@
     },
     "actions": {
         "Slam": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage, and if the target is Large or smaller, it is knocked prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

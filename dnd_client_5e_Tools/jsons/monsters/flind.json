@@ -11,6 +11,7 @@
     "intimidation": "+5",
     "perception": "+5",
     "name": "Flind",
+    "HP": "127 (15d8 + 60)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -43,10 +44,6 @@
         "Flail of Pain": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage plus 22 (4d10) psychic damage.",
         "Flail of Paralysis": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) bludgeoning damage, and the target must succeed on a DC 16+1d8 + 12 Constitution saving throw or be paralyzed until the end of its next turn.",
         "Longbow": "Ranged Weapon Attack: +4+1d8 + 0 to hit, range 150/600 ft., one target. Hit: 4 (1d8) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

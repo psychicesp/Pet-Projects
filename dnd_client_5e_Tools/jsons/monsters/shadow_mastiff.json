@@ -9,6 +9,7 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Shadow Mastiff",
+    "HP": "33 (6d8 + 6)",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -39,10 +40,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13+1d4 + 11 Strength saving throw or be knocked prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

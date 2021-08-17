@@ -9,6 +9,7 @@
     "perception": "+3",
     "stealth": "+5",
     "name": "Blink Dog",
+    "HP": "22 (4d8 + 4)",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -34,10 +35,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.",
         "Teleport (Recharge 4xe2x80x936)": "The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LG",
     "size": "Medium",

@@ -10,6 +10,7 @@
     "insight": "+6",
     "perception": "+6",
     "name": "Dusk Hag",
+    "HP": "82 (15d8 + 15)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -57,10 +58,6 @@
         "Multiattack": "The hag makes two Nightmare Touch attacks.",
         "Claws": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.",
         "Nightmare Touch": "Melee Spell Attack: +7+1d6 + 4 to hit, reach 5 ft., one creature. Hit: 18 (4d6 + 4) psychic damage. If the target is unconscious, it takes an extra 10 (3d6) psychic damage and is cursed until the hag dies or the curse is removed. The cursed creature's hit point maximum decreases by 5 (1d10) whenever it finishes a long rest."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

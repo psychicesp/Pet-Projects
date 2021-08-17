@@ -9,6 +9,7 @@
     "perception": "+3",
     "stealth": "+4",
     "name": "Wight",
+    "HP": "45 (6d8 + 18)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -46,10 +47,6 @@
         "Life Drain": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13+1d4 + 11 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.",
         "Longsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.",
         "Longbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

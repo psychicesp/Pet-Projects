@@ -8,6 +8,7 @@
     "wisdom": "10 (+0)",
     "charisma": "10 (+0)",
     "name": "Air Elemental Myrmidon",
+    "HP": "117 (18d8 + 36)",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -33,7 +34,7 @@
         "Auran",
         "one language of its creator's choice"
     ],
-    "CR": "variable",
+    "CR": "7 (2,900 XP)",
     "page": 202,
     "book": "Mordenkainen\u2019s Tome of Foes",
     "traits": {
@@ -43,10 +44,6 @@
         "Multiattack": "The myrmidon makes three flail attacks.",
         "Flail": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage.",
         "Lightning Strike (Recharge 6)": "The myrmidon makes one flail attack. On a hit, the target takes an extra 18 (4d8) lightning damage, and the target must succeed on a DC 13+1d6 + 10 Constitution saving throw or be stunned until the end of the myrmidon's next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

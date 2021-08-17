@@ -10,6 +10,7 @@
     "perception": "+5",
     "stealth": "+5",
     "name": "Korred",
+    "HP": "102 (12d6 + 60)",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -58,10 +59,6 @@
         "Multiattack": "The korred makes two attacks with its greatclub or hurls two rocks.",
         "Greatclub": "Melee Weapon Attack: +9+1d6 + 6 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) bludgeoning damage, or 19 (3d8 + 6) bludgeoning damage if the korred is on the ground.",
         "Rock": "Ranged Weapon Attack: +9+1d6 + 6 to hit, range 60/120 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage, or 24 (4d8 + 6) bludgeoning damage if the korred is on the ground."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Small",

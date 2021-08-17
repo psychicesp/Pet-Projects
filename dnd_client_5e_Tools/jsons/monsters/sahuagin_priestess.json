@@ -11,6 +11,7 @@
     "perception": "+6",
     "religion": "+3",
     "name": "Sahuagin Priestess",
+    "HP": "33 (6d8 + 6)",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -55,10 +56,6 @@
         "Multiattack": "The sahuagin makes two melee attacks: one with her bite and one with her claws.",
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.",
         "Claws": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

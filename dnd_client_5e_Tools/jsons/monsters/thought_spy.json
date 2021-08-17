@@ -2,7 +2,6 @@
     "tags": [
         "any"
     ],
-    "hit": "6d8",
     "strength": "11",
     "dexterity": "14",
     "constitution": "10",
@@ -15,6 +14,9 @@
     "perception": "+3",
     "stealth": "+4",
     "name": "Thought Spy",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 6,
+    "HP": "27 (6d8)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -56,10 +58,6 @@
         "Multiattack": "The thought spy makes two melee attacks, or it makes three ranged attacks with its daggers.",
         "Dagger": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
         "Rapier": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

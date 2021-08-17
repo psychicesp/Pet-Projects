@@ -10,6 +10,7 @@
     "intimidation": "+7",
     "persuasion": "+7",
     "name": "Abhorrent Overlord",
+    "HP": "136 (16d10 + 48)",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -61,10 +62,6 @@
         "Multiattack": "The abhorrent overlord makes two attacks with its claws.",
         "Claws": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) slashing damage plus 14 (4d6) necrotic damage. The abhorrent overlord regains hit points equal to half the amount of necrotic damage dealt if the target is a creature.",
         "Storm of Crows (Recharge 6)": "The abhorrent overlord conjures a swarm of spectral crows and harpies in a 20-foot-radius sphere centered on a point the overlord can see within 120 feet of it. The sphere remains for 1 minute or until the overlord loses concentration (as if concentrating on a spell), and its area is lightly obscured and difficult terrain."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

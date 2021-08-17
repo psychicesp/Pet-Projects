@@ -12,6 +12,7 @@
     "stealth": "+4",
     "survival": "+5",
     "name": "Lizardfolk",
+    "HP": "22 (4d8 + 4)",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -41,10 +42,6 @@
         "Heavy Club": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.",
         "Javelin": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
         "Spiked Shield": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

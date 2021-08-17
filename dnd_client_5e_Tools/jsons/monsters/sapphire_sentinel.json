@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "1",
     "name": "Sapphire Sentinel",
+    "HP": "178 (17d10 + 85)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -40,10 +41,6 @@
         "Slam": "Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.",
         "Slow (Recharge 5xe2x80x936)": "The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17+1d8 + 13 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
         "Sapphire": "The sapphire has 3 charges. As an action, the golem can expend 1 charge to cast dispel magic (as a 9th-level spell) from the sapphire using Constitution as its spellcasting ability. The sapphire ceases to glow if all its charges are expended, but it regains 1d3 expended charges daily at dawn and glows again once it has 1 or more charges."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

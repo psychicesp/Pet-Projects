@@ -12,6 +12,7 @@
     "intimidation": "+13",
     "perception": "+10",
     "name": "Geryon",
+    "HP": "300 (24d12 + 144)",
     "AC": 19,
     "speed": [
         "30 ft",

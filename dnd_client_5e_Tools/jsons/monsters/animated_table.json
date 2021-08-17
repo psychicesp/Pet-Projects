@@ -8,6 +8,7 @@
     "wisdom": "3 (-4)",
     "charisma": "1 (-5)",
     "name": "Animated Table",
+    "HP": "39 (6d10 + 6)",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -27,7 +28,7 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "2 (450 XP)",
     "page": 230,
     "book": "Tales from the Yawning Portal",
     "traits": {
@@ -37,10 +38,6 @@
     },
     "actions": {
         "Ram": "Melee Weapon Attack: +6+1d4 + 4, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

@@ -11,6 +11,7 @@
     "insight": "+11",
     "perception": "+19",
     "name": "Demogorgon",
+    "HP": "406 (28d12 + 224)",
     "AC": 22,
     "speed": [
         "50 ft",

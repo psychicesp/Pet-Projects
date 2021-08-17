@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "5d6",
     "strength": "5",
     "dexterity": "14",
     "constitution": "10",
@@ -10,6 +9,9 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Dust Mephit",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 5,
+    "HP": "17 (5d6)",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -49,10 +51,6 @@
     "actions": {
         "Claws": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) slashing damage.",
         "Blinding Breath (Recharge 6)": "The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10+1d4 + 8 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Small",

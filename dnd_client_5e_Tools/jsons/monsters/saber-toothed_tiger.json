@@ -9,6 +9,7 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Saber-Toothed Tiger",
+    "HP": "52 (7d10 + 14)",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -34,10 +35,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) piercing damage.",
         "Claw": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

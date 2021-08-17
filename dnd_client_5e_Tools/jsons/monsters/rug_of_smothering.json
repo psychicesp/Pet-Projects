@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "6d10",
     "strength": "17",
     "dexterity": "14",
     "constitution": "10",
@@ -8,6 +7,9 @@
     "wisdom": "3",
     "charisma": "1",
     "name": "Rug of Smothering",
+    "hit_dice_type": "d10",
+    "num_hit_dice": 6,
+    "HP": "33 (6d10)",
     "AC": 12,
     "speed": [
         "10 ft"
@@ -37,10 +39,6 @@
     },
     "actions": {
         "Smother": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one Medium or smaller creature. Hit: The creature is grappled (escape DC 13+1d4 + 11). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

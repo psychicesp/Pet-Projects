@@ -13,6 +13,7 @@
     "perception": "+11",
     "stealth": "+19",
     "name": "Lazav",
+    "HP": "204 (24d8 + 96)",
     "AC": 18,
     "speed": [
         "40 ft"

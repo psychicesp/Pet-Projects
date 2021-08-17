@@ -10,6 +10,7 @@
     "charisma": "14",
     "perception": "+5",
     "name": "Kraken Priest",
+    "HP": "75 (10d8 + 30)",
     "AC": 10,
     "speed": [
         "30 ft",
@@ -50,10 +51,6 @@
     "actions": {
         "Thunderous Touch": "Melee Spell Attack: +5+1d6 + 2 to hit, reach 5 ft., one creature. Hit: 27 (5d10) thunder damage.",
         "Voice of the Kraken (Recharges after a Short or Long Rest)": "A kraken speaks through the priest with a thunderous voice audible within 300 feet. Creatures of the priest's choice that can hear the kraken's words (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC 14+1d6 + 11 Charisma saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AEA",
     "size": "Medium",

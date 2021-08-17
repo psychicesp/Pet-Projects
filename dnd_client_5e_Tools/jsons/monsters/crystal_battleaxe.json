@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "5d6",
     "strength": "12",
     "dexterity": "15",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "5",
     "charisma": "1",
     "name": "Crystal Battleaxe",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 5,
+    "HP": "17 (5d6)",
     "AC": 17,
     "speed": [
         "0 ft",
@@ -39,10 +41,6 @@
     },
     "actions": {
         "Battleaxe": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

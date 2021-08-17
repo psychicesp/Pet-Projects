@@ -8,6 +8,7 @@
     "wisdom": "12 (+1)",
     "charisma": "6 (-2)",
     "name": "Awakened White Moose",
+    "HP": "68 (8d10 + 24)",
     "AC": 11,
     "speed": [
         "40 ft"
@@ -20,7 +21,7 @@
     "languages": [
         "Druidic"
     ],
-    "CR": "variable",
+    "CR": "3 (700 XP)",
     "page": 82,
     "book": "Icewind Dale: Rime of the Frostmaiden",
     "traits": {
@@ -31,10 +32,6 @@
         "Multiattack": "The moose makes two attacks: one with its antlers and one with its hooves.",
         "Antlers": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.",
         "Hooves": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

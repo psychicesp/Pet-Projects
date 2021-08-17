@@ -8,6 +8,7 @@
     "charisma": "17",
     "perception": "+12",
     "name": "Beholder",
+    "HP": "180 (19d10 + 76)",
     "AC": 18,
     "speed": [
         "0 ft",
@@ -32,7 +33,7 @@
         "Deep Speech",
         "Undercommon"
     ],
-    "CR": "13 (10,000 XP) or 14 (11,500 XP) when encountered in\n                lair",
+    "CR": "13 (10,000 XP) or 14 (11,500 XP) whe ecoutered i lair",
     "page": 28,
     "book": "Monster Manual",
     "traits": {

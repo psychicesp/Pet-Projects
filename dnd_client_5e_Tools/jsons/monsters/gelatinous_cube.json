@@ -7,6 +7,7 @@
     "wisdom": "6",
     "charisma": "1",
     "name": "Gelatinous Cube",
+    "HP": "84 (8d10 + 40)",
     "AC": 6,
     "speed": [
         "15 ft"
@@ -33,10 +34,6 @@
     "actions": {
         "Pseudopod": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 10 (3d6) acid damage.",
         "Engulf": "The cube moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the cube enters a creature's space, the creature must make a DC 12+1d4 + 10 Dexterity saving throw."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

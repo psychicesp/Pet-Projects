@@ -12,6 +12,7 @@
     "perception": "+5",
     "performance": "+6",
     "name": "Bard",
+    "HP": "44 (8d8 + 8)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -57,10 +58,6 @@
     "actions": {
         "Shortsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
         "Shortbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

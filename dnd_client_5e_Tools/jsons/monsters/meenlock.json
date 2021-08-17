@@ -10,6 +10,7 @@
     "stealth": "+6",
     "survival": "+2",
     "name": "Meenlock",
+    "HP": "31 (7d6 + 7)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -40,10 +41,6 @@
     },
     "actions": {
         "Claws": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage, and the target must succeed on a DC 11+1d4 + 9 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Small",

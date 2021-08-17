@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "10",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "13",
+    "wisdom": "15",
+    "charisma": "11",
+    "name": "Wildfire Spirit",
+    "HP": "5 + five times your druid level",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "fly 30 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "fire"
+    ],
+    "condition_immunities": [
+        "charmed, frightened, grappled, prone, restrained"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "understands the languages you speak"
+    ],
+    "page": 40,
+    "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
+    "actions": {
+        "Flame Seed": "Ranged Weapon Attack: your spell attack modifier to hit, range 60 ft., one target you can see. Hit: 1d6 + PB fire damage.",
+        "Fiery Teleportation": "The spirit and each willing creature of your choice within 5 feet of it teleport up to 15 feet to unoccupied spaces you can see. Then each creature within 5 feet of the space that the spirit left must succeed on a Dexterity saving throw against your spell save DC or take 1d6 + PB fire damage."
+    },
+    "alignment": "U",
+    "size": "Small",
+    "type": "elemental"
+}

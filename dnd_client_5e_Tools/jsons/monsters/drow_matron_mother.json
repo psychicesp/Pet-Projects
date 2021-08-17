@@ -13,6 +13,7 @@
     "religion": "+9",
     "stealth": "+10",
     "name": "Drow Matron Mother",
+    "HP": "262 (35d8 + 105)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -45,8 +46,7 @@
     "traits": {
         "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
-            "level": 20,
-            "type": "cleric",
+            "type": "innate",
             "spells": [
                 "guidance",
                 "mending",

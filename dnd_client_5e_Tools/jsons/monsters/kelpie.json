@@ -1,0 +1,53 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "14",
+    "constitution": "16",
+    "intelligence": "7",
+    "wisdom": "12",
+    "charisma": "10",
+    "perception": "+3",
+    "stealth": "+4",
+    "name": "Kelpie",
+    "HP": "67 (9d8 + 27)",
+    "AC": 14,
+    "speed": [
+        "10 ft",
+        "swim 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient",
+        "stealth": "proficient"
+    },
+    "resistances": [
+        "fire, bludgeoning, piercing"
+    ],
+    "condition_immunities": [
+        "blinded, deafened, exhaustion"
+    ],
+    "senses": [
+        "blindsight 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "Common",
+        "Sylvan"
+    ],
+    "CR": "4 (1,100 XP)",
+    "page": 238,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Amphibious": "The kelpie can breathe air and water.",
+        "False Appearance": "While the kelpie remains motionless in its true form, it is indistinguishable from normal seaweed.",
+        "Seaweed Shape": "The kelpie can use its action to reshape its body into the form of a humanoid or beast that is Small, Medium, or Large. Its statistics are otherwise unchanged. The disguise is convincing, unless the kelpie is in bright light or the viewer is within 30 feet of it, in which case the seams between the seaweed strands are visible. The kelpie returns to its true form if takes a bonus action to do so or if it dies."
+    },
+    "actions": {
+        "Multiattack": "The kelpie makes two slam attacks.",
+        "Slam": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 10 ft., one target. Hit: 11 (2d8 + 2) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 12+1d4 + 10).",
+        "Drowning Hypnosis": "The kelpie chooses one humanoid it can see within 150 feet of it. If the target can see the kelpie, the target must succeed on a DC 11+1d4 + 9 Wisdom saving throw or be magically charmed while the kelpie maintains concentration, up to 10 minutes (as if concentrating on a spell). The charmed target is incapacitated, and instead of holding its breath underwater, it tries to breathe normally and immediately runs out of breath, unless it can breathe water. If the charmed target is more than 5 feet away from the kelpie, the target must move on its turn toward the kelpie by the most direct route, trying to get within 5 feet. It doesn't avoid opportunity attacks."
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "plant"
+}

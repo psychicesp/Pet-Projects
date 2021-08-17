@@ -11,6 +11,7 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Wererat",
+    "HP": "33 (6d8 + 6)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -42,10 +43,6 @@
         "Bite (Rat or Hybrid Form Only)": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11+1d4 + 9 Constitution saving throw or be cursed with wererat lycanthropy.",
         "Shortsword (Humanoid or Hybrid Form Only)": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
         "Hand Crossbow (Humanoid or Hybrid Form Only)": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "S",
     "size": "Medium",

@@ -12,6 +12,7 @@
     "intimidation": "+3",
     "perception": "+2",
     "name": "Burrowshark",
+    "HP": "82 (11d8 + 33)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -38,10 +39,6 @@
     "actions": {
         "Multiattack": "The burrowshark makes three melee attacks.",
         "Spear": "Melee or Ranged Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing damage if used with two hands to make a melee attack."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

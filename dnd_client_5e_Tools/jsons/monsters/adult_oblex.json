@@ -16,6 +16,7 @@
     "nature": "+7",
     "religion": "+7",
     "name": "Adult Oblex",
+    "HP": "75 (10d8 + 30)",
     "AC": 14,
     "speed": [
         "20 ft"
@@ -42,7 +43,7 @@
     "languages": [
         "Common plus two more languages"
     ],
-    "CR": "variable",
+    "CR": "5 (1,800 XP)",
     "page": 218,
     "book": "Mordenkainen\u2019s Tome of Foes",
     "traits": {
@@ -63,10 +64,6 @@
         "Multiattack": "The oblex makes one pseudopod attack and uses Eat Memories.",
         "Pseudopod": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning damage plus 5 (2d4) psychic damage.",
         "Eat Memories": "The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 15+1d6 + 12 Wisdom saving throw or take 18 (4d8) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the greater restoration or heal spell. Constructs, oozes, plants, and undead succeed on the save automatically."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

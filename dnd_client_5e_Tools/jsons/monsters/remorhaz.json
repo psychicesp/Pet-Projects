@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Remorhaz",
+    "HP": "195 (17d12 + 85)",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -34,10 +35,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +11+1d8 + 7 to hit, reach 10 ft., one target. Hit: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17+1d8 + 13). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.",
         "Swallow": "The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

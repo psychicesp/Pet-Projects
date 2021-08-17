@@ -7,6 +7,7 @@
     "wisdom": "9",
     "charisma": "5",
     "name": "Drowned Blade",
+    "HP": "45 (6d8 + 18)",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -37,10 +38,6 @@
     "actions": {
         "Multiattack": "The drowned blade makes two rusted longsword attacks.",
         "Rusted Longsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, and the target must succeed on a DC 12+1d4 + 10 Constitution saving throw or contract bluerot (see the \"Bluerot\" in notes)."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

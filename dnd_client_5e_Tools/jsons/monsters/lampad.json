@@ -9,6 +9,7 @@
     "deception": "+6",
     "intimidation": "+6",
     "name": "Lampad",
+    "HP": "52 (8d8 + 16)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -52,10 +53,6 @@
         "Multiattack": "The lampad attacks twice with its necrotic touch or chill touch.",
         "Necrotic Touch": "Melee Spell Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) necrotic damage.",
         "Chill Touch (Cantrip)": "Ranged Spell Attack: +6+1d4 + 4 to hit, range 120 ft., one creature. Hit: 9 (2d8) necrotic damage, and the target can't regain hit points until the start of the lampad's next turn. If the target is undead, it has disadvantage on attack rolls against the lampad until the end of the lampad's next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

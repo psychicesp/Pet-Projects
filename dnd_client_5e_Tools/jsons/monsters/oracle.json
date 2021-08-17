@@ -10,6 +10,7 @@
     "persuasion": "+4",
     "religion": "+5",
     "name": "Oracle",
+    "HP": "44 (8d8 + 8)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -52,10 +53,6 @@
     },
     "actions": {
         "Eldritch Touch": "Melee Spell Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) force damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

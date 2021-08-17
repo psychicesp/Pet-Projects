@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "8",
+    "dexterity": "14",
+    "constitution": "14",
+    "intelligence": "13",
+    "wisdom": "14",
+    "charisma": "11",
+    "perception": "+6",
+    "name": "Spectator",
+    "HP": "39 (6d8 + 12)",
+    "AC": 14,
+    "speed": [
+        "0 ft",
+        "fly 30 ft. (hover)"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "expert"
+    },
+    "condition_immunities": [
+        "prone"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 16"
+    ],
+    "languages": [
+        "Deep Speech",
+        "Undercommon",
+        "telepathy 120 ft."
+    ],
+    "CR": "3 (700 XP)",
+    "page": 30,
+    "book": "Monster Manual",
+    "actions": {
+        "Bite": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) piercing damage.",
+        "Eye Rays": "The spectator shoots up to two of the following magical eye rays at one or two creatures it can see within 90 feet of it. It can use each ray only once on a turn.",
+        "Create Food and Water": "The spectator magically creates enough food and water to sustain itself for 24 hours."
+    },
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "aberration"
+}

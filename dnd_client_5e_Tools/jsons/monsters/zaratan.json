@@ -7,6 +7,7 @@
     "wisdom": "21",
     "charisma": "18",
     "name": "Zaratan",
+    "HP": "307 (15d20 + 150)",
     "AC": 21,
     "speed": [
         "40 ft",

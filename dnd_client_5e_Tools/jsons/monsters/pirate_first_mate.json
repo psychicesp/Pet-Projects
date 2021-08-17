@@ -11,6 +11,7 @@
     "athletics": "+4",
     "intimidation": "+3",
     "name": "Pirate First Mate",
+    "HP": "26 (4d8 + 8)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -35,10 +36,6 @@
     "actions": {
         "Multiattack": "The first mate makes two attacks with its longsword.",
         "Longsword": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands. If the target is a creature, the first mate can choose to deal no damage with the attack to disarm the target. The target must succeed on a DC 14+1d4 + 12 Strength saving throw or drop one item it is holding on the ground."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

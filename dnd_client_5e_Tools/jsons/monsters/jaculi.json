@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "3d10",
     "strength": "15",
     "dexterity": "14",
     "constitution": "11",
@@ -11,6 +10,9 @@
     "perception": "+1",
     "stealth": "+4",
     "name": "Jaculi",
+    "hit_dice_type": "d10",
+    "num_hit_dice": 3,
+    "HP": "16 (3d10)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -39,10 +41,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) piercing damage.",
         "Spring": "The jaculi springs up to 30 feet in a straight line and makes a bite attack against a target within its reach. This attack has advantage if the jaculi springs at least 10 feet. If the attack hits, the bite deals an extra 7 (2d6) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

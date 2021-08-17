@@ -11,6 +11,7 @@
     "arcana": "+3",
     "perception": "+2",
     "name": "Green Slaad",
+    "HP": "127 (15d10 + 45)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -57,10 +58,6 @@
         "Claw (Slaad Form Only)": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.",
         "Staff": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.",
         "Hurl Flame": "Ranged Spell Attack: +4+1d6 + 1 to hit, range 60 ft., one target. Hit: 10 (3d6) fire damage. The fire ignites flammable objects that aren't being worn or carried."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Large",

@@ -9,6 +9,7 @@
     "insight": "+8",
     "perception": "+8",
     "name": "Obzedat Ghost",
+    "HP": "110 (20d8 + 20)",
     "AC": 14,
     "speed": [
         "0 ft",

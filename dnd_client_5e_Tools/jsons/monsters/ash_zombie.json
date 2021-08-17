@@ -9,6 +9,7 @@
     "charisma": "5 (-3)",
     "wisdom save": "+0",
     "name": "Ash Zombie",
+    "HP": "22 (3d8 + 9)",
     "AC": 8,
     "speed": [
         "20 ft"
@@ -30,7 +31,7 @@
     "languages": [
         "understands all languages it spoke in life but can't speak"
     ],
-    "CR": "variable",
+    "CR": "1/4 (50 XP)",
     "page": 31,
     "book": "Lost Mine of Phandelver",
     "traits": {
@@ -39,10 +40,6 @@
     },
     "actions": {
         "Slam": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

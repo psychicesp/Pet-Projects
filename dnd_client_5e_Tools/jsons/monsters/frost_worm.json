@@ -7,6 +7,7 @@
     "wisdom": "5",
     "charisma": "5",
     "name": "Frost Worm",
+    "HP": "264 (16d20 + 96)",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -40,10 +41,6 @@
         "Multiattack": "The worm makes two bite attacks, or uses its Trill and makes a bite attack.",
         "Bite": "Melee Weapon Attack: +15+1d12 + 9 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) piercing damage plus 10 (3d6) cold damage. If the target is a Large or smaller creature, it must succeed on a DC 20+1d12 + 14 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, has total cover against attacks and other effects outside the worm, and takes 10 (3d6) acid damage and 10 (3d6) cold damage at the start of each of the worm's turns.",
         "Trill": "The frost worm emits a haunting cry. Each creature within 60 feet of the worm that can hear it must succeed on a DC 20+1d12 + 14 Wisdom saving throw or be stunned for 1 minute. A creature can repeat the saving throw each time it takes damage and at the end of each of its turns, ending the effect on itself on a success. Once a creature successfully saves against this effect, or if this effect ends for it, that creature is immune to the Trill of all frost worms for the next 24 hours. Frost worms are immune to this effect."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Gargantuan",

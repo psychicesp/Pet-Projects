@@ -16,6 +16,7 @@
     "persuasion": "+8",
     "stealth": "+5",
     "name": "Adult Brass Dragon",
+    "HP": "172 (15d12 + 75)",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -46,7 +47,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "13 (10,000 XP)",
     "page": 105,
     "book": "Monster Manual",
     "traits": {

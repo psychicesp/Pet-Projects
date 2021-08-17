@@ -8,6 +8,7 @@
     "charisma": "7",
     "perception": "+3",
     "name": "Killer Whale",
+    "HP": "90 (12d12 + 12)",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -34,10 +35,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 21 (5d6 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

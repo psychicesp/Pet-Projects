@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "3d10",
     "strength": "12",
     "dexterity": "15",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "12",
     "charisma": "5",
     "name": "Giant Sea Horse",
+    "hit_dice_type": "d10",
+    "num_hit_dice": 3,
+    "HP": "16 (3d10)",
     "AC": 13,
     "speed": [
         "0 ft",
@@ -30,10 +32,6 @@
     },
     "actions": {
         "Ram": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "1",
     "name": "Headless Iron Golem",
+    "HP": "150 (10d10 + 50)",
     "AC": 20,
     "speed": [
         "30 ft"
@@ -41,10 +42,6 @@
         "Multiattack": "The golem makes two melee attacks.",
         "Slam": "Melee Weapon Attack: +13+1d8 + 9 to hit, reach 5 ft., one target. Hit: 20 (3d8 + 7) bludgeoning damage.",
         "Sword": "Melee Weapon Attack: +13+1d8 + 9 to hit, reach 10 ft., one target. Hit: 23 (3d10 + 7) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

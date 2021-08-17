@@ -9,6 +9,7 @@
     "perception": "+7",
     "stealth": "+11",
     "name": "Shadow Horror",
+    "HP": "120 (16d10 + 32)",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -42,10 +43,6 @@
         "Bite": "Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one target. Hit: 21 (4d8 + 3) piercing damage.",
         "Claw": "Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) slashing damage, and the target must succeed on a DC 16+1d8 + 12 Wisdom saving throw or be frightened of the horror until the end of the target's next turn.",
         "Lashing Shadows (Recharge 5xe2x80x936)": "Each creature within 60 feet of the horror, except other horrors, must succeed on a DC 16+1d8 + 12 Dexterity saving throw or take 27 (6d8) necrotic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

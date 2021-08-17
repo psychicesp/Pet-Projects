@@ -10,6 +10,7 @@
     "constitution save": "+8",
     "perception": "+6",
     "name": "Balhannoth",
+    "HP": "114 (12d10 + 48)",
     "AC": 17,
     "speed": [
         "25 ft",
@@ -32,7 +33,7 @@
         "understands Deep Speech",
         "telepathy 1 mile"
     ],
-    "CR": "variable",
+    "CR": "11 (7,200 XP)",
     "page": 119,
     "book": "Mordenkainen\u2019s Tome of Foes",
     "traits": {

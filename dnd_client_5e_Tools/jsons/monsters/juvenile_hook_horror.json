@@ -8,6 +8,7 @@
     "charisma": "7",
     "perception": "+3",
     "name": "Juvenile Hook Horror",
+    "HP": "39 (6d8 + 12)",
     "AC": 13,
     "speed": [
         "20 ft",
@@ -35,10 +36,6 @@
     "actions": {
         "Multiattack": "The hook horror makes two hook attacks.",
         "Hook": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

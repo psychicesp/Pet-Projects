@@ -11,6 +11,7 @@
     "perception": "+9",
     "stealth": "+9",
     "name": "Hythonia",
+    "HP": "199 (21d10 + 84)",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -41,7 +42,6 @@
     "languages": [
         "Common"
     ],
-    "CR": "17 (18,000 XP, or 36,000 XP as a mythic encounter)",
     "page": 252,
     "book": "Mythic Odysseys of Theros",
     "traits": {

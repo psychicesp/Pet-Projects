@@ -13,6 +13,7 @@
     "perception": "+2",
     "stealth": "+5",
     "name": "Blood Witch",
+    "HP": "78 (12d8 + 24)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -65,10 +66,6 @@
         "Multiattack": "The witch makes two attacks: one with its longsword and one with its shortsword.",
         "Longsword": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage.",
         "Shortsword": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

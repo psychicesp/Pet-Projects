@@ -12,6 +12,7 @@
     "perception": "+4",
     "survival": "+4",
     "name": "Goliath Warrior",
+    "HP": "67 (9d8 + 27)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -43,10 +44,6 @@
         "Multiattack": "The goliath makes two attacks with its greataxe or hurls two javelins.",
         "Greataxe": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage.",
         "Javelin": "Melee or Ranged Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

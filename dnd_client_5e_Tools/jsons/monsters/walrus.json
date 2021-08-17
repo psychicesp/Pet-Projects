@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "4",
     "name": "Walrus",
+    "HP": "22 (3d10 + 6)",
     "AC": 9,
     "speed": [
         "20 ft",
@@ -28,10 +29,6 @@
     },
     "actions": {
         "Tusks": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

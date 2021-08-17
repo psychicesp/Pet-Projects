@@ -11,6 +11,7 @@
     "intimidation": "+17",
     "perception": "+14",
     "name": "Baphomet",
+    "HP": "275 (19d12 + 152)",
     "AC": 22,
     "speed": [
         "40 ft"

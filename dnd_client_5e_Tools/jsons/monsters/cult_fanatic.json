@@ -12,6 +12,7 @@
     "persuasion": "+4",
     "religion": "+2",
     "name": "Cult Fanatic",
+    "HP": "33 (6d8 + 6)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -51,10 +52,6 @@
     "actions": {
         "Multiattack": "The fanatic makes two melee attacks.",
         "Dagger": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "ANA",
     "size": "Medium",

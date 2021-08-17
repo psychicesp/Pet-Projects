@@ -8,6 +8,7 @@
     "charisma": "16",
     "perception": "+3",
     "name": "Harpy Matriarch",
+    "HP": "88 (16d8 + 16)",
     "AC": 14,
     "speed": [
         "20 ft",
@@ -40,10 +41,6 @@
         "Fleeting Form": "The matriarch can magically disguise itself to resemble a humanoid of roughly similar size and shape for up to 1 hour. It can revert to its true form as a bonus action. This illusion does not hold up to close scrutiny.",
         "Luring Song": "The matriarch sings a magical melody. Every humanoid and giant within 300 feet of the matriarch that can hear the song must succeed on a DC 14+1d6 + 11 Wisdom saving throw or be charmed until the song ends. The matriarch must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the matriarch is incapacitated.",
         "Visage of Desire (1/Day)": "The matriarch projects a vision into the minds of creatures within 30 feet of it that aren't constructs or undead, showing each creature achieving whatever it most desires. An affected creature must succeed on a DC 14+1d6 + 11 Wisdom saving throw or drop whatever it is holding and become paralyzed until the end of its next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

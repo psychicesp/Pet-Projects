@@ -9,6 +9,7 @@
     "wisdom": "14",
     "charisma": "9",
     "name": "Shoosuva",
+    "HP": "110 (13d10 + 39)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -48,10 +49,6 @@
         "Multiattack": "The shoosuva makes two attacks: one with its bite and one with its tail stinger.",
         "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 26 (4d10 + 4) piercing damage.",
         "Tail Stinger": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 15 ft., one creature. Hit: 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 14+1d6 + 11 Constitution saving throw or become poisoned. While poisoned, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

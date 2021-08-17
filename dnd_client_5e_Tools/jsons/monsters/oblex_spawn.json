@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "10",
     "name": "Oblex Spawn",
+    "HP": "18 (4d4 + 8)",
     "AC": 13,
     "speed": [
         "20 ft"
@@ -35,10 +36,6 @@
     },
     "actions": {
         "Pseudopod": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Tiny",

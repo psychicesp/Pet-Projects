@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "10",
+    "constitution": "16",
+    "intelligence": "5",
+    "wisdom": "12",
+    "charisma": "6",
+    "perception": "+2",
+    "name": "Reduced-Threat Wyvern",
+    "HP": "55 (13d10 + 39)",
+    "AC": 13,
+    "speed": [
+        "20 ft",
+        "fly 80 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "6 (1,150 XP)",
+    "page": 113,
+    "book": "Tales from the Yawning Portal",
+    "actions": {
+        "Multiattack": "The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.",
+        "Bite": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage.",
+        "Claws": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
+        "Stinger": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 10 ft., one creature. Hit: 11 (2d6 + 4) piercing damage. The target must make a DC 13+1d6 + 10 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one."
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "dragon"
+}

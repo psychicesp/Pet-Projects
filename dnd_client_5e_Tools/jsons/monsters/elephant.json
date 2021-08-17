@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "6",
     "name": "Elephant",
+    "HP": "76 (8d12 + 24)",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -28,10 +29,6 @@
     "actions": {
         "Gore": "Melee Weapon Attack: +8+1d4 + 6 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) piercing damage.",
         "Stomp": "Melee Weapon Attack: +8+1d4 + 6 to hit, reach 5 ft., one prone creature. Hit: 22 (3d10 + 6) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

@@ -7,6 +7,7 @@
     "wisdom": "6",
     "charisma": "3",
     "name": "Icewind Kobold Zombie",
+    "HP": "19 (3d6 + 9)",
     "AC": 9,
     "speed": [
         "20 ft"
@@ -37,10 +38,6 @@
     },
     "actions": {
         "Javelin": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Small",

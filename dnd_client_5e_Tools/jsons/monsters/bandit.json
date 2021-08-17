@@ -10,6 +10,7 @@
     "wisdom": "10 (+0)",
     "charisma": "10 (+0)",
     "name": "Bandit",
+    "HP": "11 (2d8 + 2)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -22,16 +23,12 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "variable",
+    "CR": "1/8 (25 XP)",
     "page": 343,
     "book": "Monster Manual",
     "actions": {
         "Scimitar": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.",
         "Light Crossbow": "Ranged Weapon Attack: +3+1d4 + 1 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "ANA",
     "size": "Medium",

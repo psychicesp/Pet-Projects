@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "1",
     "name": "Hellfire Engine",
+    "HP": "216 (16d12 + 112)",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -44,10 +45,6 @@
     "actions": {
         "Flesh-Crushing Stride": "The hellfire engine moves up to its speed in a straight line. During this move, it can enter Large or smaller creatures' spaces. A creature whose space the hellfire engine enters must make a DC 18+1d10 + 13 Dexterity saving throw. On a successful save, the creature is pushed to the nearest space out of the hellfire engine's path. On a failed save, the creature falls prone and takes 28 (8d6) bludgeoning damage.",
         "Hellfire Weapons": "The hellfire engine uses one of the following options:"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Huge",

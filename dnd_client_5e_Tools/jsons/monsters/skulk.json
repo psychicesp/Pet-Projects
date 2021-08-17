@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "4d8",
     "strength": "6",
     "dexterity": "19",
     "constitution": "10",
@@ -9,6 +8,9 @@
     "charisma": "1",
     "stealth": "+8",
     "name": "Skulk",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 4,
+    "HP": "18 (4d8)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -41,10 +43,6 @@
     },
     "actions": {
         "Claws": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage. If the skulk has advantage on the attack roll, the target also takes 7 (2d6) necrotic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

@@ -9,6 +9,7 @@
     "wisdom": "7",
     "charisma": "8",
     "name": "Kobold",
+    "HP": "5 (2d6 - 2)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -33,10 +34,6 @@
     "actions": {
         "Dagger": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
         "Sling": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Small",

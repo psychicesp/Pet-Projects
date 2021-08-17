@@ -10,6 +10,7 @@
     "charisma": "10",
     "stealth": "+6",
     "name": "Splugoth the Returned",
+    "HP": "27 (6d6 + 6)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -43,10 +44,6 @@
         "Multiattack": "Splugoth makes two attacks with his dagger.",
         "Dagger": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.",
         "Word From Beyond (1/Day)": "Splugoth remembers and repeats aloud a few words from a place he entered while walking back from the next world to this one. Each creature of his choice within 30 feet of him that can hear him must succeed on a DC 12+1d4 + 10 Wisdom saving throw or be stunned until the end of its next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Small",

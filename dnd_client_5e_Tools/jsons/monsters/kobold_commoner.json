@@ -1,0 +1,42 @@
+{
+    "tags": [
+        "kobold"
+    ],
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "10",
+    "charisma": "10",
+    "name": "Kobold Commoner",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 1,
+    "HP": "3 (1d6)",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "any one language (usually Common)",
+        "Draconic"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 18,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Pack Tactics": "The kobold commoner has advantage on an attack roll against a creature if at least one of their allies is within 5 feet of the creature and the ally isn't incapacitated.",
+        "Sunlight Sensitivity": "While in sunlight, The kobold commoner has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
+    "actions": {
+        "Club": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) bludgeoning damage."
+    },
+    "alignment": "AA",
+    "size": "Small",
+    "type": "humanoid"
+}

@@ -11,6 +11,7 @@
     "athletics": "+6",
     "intimidation": "+4",
     "name": "Sahuagin Blademaster",
+    "HP": "97 (15d8 + 30)",
     "AC": 20,
     "speed": [
         "30 ft",
@@ -44,10 +45,6 @@
         "Wavecutter Blade": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) slashing damage.",
         "Bite": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.",
         "Claws": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

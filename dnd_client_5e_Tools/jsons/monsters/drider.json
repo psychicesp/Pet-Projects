@@ -9,6 +9,7 @@
     "perception": "+5",
     "stealth": "+9",
     "name": "Drider",
+    "HP": "123 (13d10 + 52)",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -49,10 +50,6 @@
         "Bite": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one creature. Hit: 2 (1d4) piercing damage plus 9 (2d8) poison damage.",
         "Longsword": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
         "Longbow": "Ranged Weapon Attack: +6+1d6 + 3 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

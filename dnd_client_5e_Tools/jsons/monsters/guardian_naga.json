@@ -7,6 +7,7 @@
     "wisdom": "19",
     "charisma": "18",
     "name": "Guardian Naga",
+    "HP": "127 (15d10 + 45)",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -63,10 +64,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 10 ft., one creature. Hit: 8 (1d8 + 4) piercing damage, and the target must make a DC 15+1d8 + 11 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.",
         "Spit Poison": "Ranged Weapon Attack: +8+1d8 + 4 to hit, range 15/30 ft., one creature. Hit: The target must make a DC 15+1d8 + 11 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LG",
     "size": "Large",

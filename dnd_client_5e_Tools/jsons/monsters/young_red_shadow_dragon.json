@@ -9,6 +9,7 @@
     "perception": "+10",
     "stealth": "+10",
     "name": "Young Red Shadow Dragon",
+    "HP": "178 (17d10 + 85)",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -53,10 +54,6 @@
         "Bite": "Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 3 (1d6) necrotic damage.",
         "Claw": "Melee Weapon Attack: +11+1d10 + 6 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.",
         "Shadow Breath (Recharge 5xe2x80x936)": "The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a DC 18+1d10 + 13 Dexterity saving throw, taking 56 (16d6) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 hit points by this damage dies, and an undead shadow rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

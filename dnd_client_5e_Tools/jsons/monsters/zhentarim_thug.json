@@ -10,6 +10,7 @@
     "charisma": "11",
     "intimidation": "+2",
     "name": "Zhentarim Thug",
+    "HP": "32 (5d8 + 10)",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -34,10 +35,6 @@
         "Multiattack": "The thug makes two melee attacks",
         "Mace": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.",
         "Heavy Crossbow": "Ranged Weapon Attack: +2+1d4 + 0 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

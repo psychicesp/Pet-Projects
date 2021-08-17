@@ -1,0 +1,40 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "13",
+    "constitution": "12",
+    "intelligence": "9",
+    "wisdom": "10",
+    "charisma": "9",
+    "name": "Replica Tridrone",
+    "HP": "16 (3d8 + 3)",
+    "AC": "",
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Modron",
+        "can understand Common but speaks only preprogrammed responses"
+    ],
+    "CR": "1/2 (100 XP)",
+    "page": 132,
+    "book": "The Orrery of the Wanderer",
+    "traits": {
+        "Axiomatic Mind": "The tridrone can't be compelled to act in a manner contrary to its nature or its instructions.",
+        "Dismantlable": "If the replica tridrone dies, its body falls into a pile of parts (gears, plates, screws, and wires), leaving behind its weapons and anything else it was carrying."
+    },
+    "actions": {
+        "Multiattack": "The tridrone makes three fist attacks or three javelin attacks.",
+        "Fist": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.",
+        "Javelin": "Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 4 (1d6 + 1) piercing damage."
+    },
+    "alignment": "LN",
+    "size": "Medium",
+    "type": "construct"
+}

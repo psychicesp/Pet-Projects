@@ -8,6 +8,7 @@
     "charisma": "7",
     "perception": "+1",
     "name": "Red Slaad",
+    "HP": "93 (11d10 + 33)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -38,10 +39,6 @@
         "Multiattack": "The slaad makes three attacks: one with its bite and two with its claws.",
         "Bite": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage.",
         "Claw": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 14+1d6 + 11 Constitution saving throw or be infected with a diseasexe2x80x94a minuscule slaad egg."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Large",

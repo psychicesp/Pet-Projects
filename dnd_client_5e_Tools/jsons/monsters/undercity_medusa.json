@@ -11,6 +11,7 @@
     "perception": "+4",
     "stealth": "+7",
     "name": "Undercity Medusa",
+    "HP": "120 (16d8 + 48)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -49,10 +50,6 @@
         "Multiattack": "The medusa makes two claw attacks. It can also use Petrifying Gaze before or after making these attacks.",
         "Claw": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
         "Petrifying Gaze": "The medusa fixes its gaze on one creature within 60 feet of it that it can see and that can see its eyes. The target must make a DC 14+1d6 + 11 Constitution saving throw. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by a greater restoration spell or similar magic."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

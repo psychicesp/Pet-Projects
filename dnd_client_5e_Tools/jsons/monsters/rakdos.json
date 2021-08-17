@@ -12,6 +12,7 @@
     "performance": "+17",
     "persuasion": "+17",
     "name": "Rakdos",
+    "HP": "300 (24d12 + 144)",
     "AC": 20,
     "speed": [
         "40 ft",

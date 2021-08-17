@@ -11,6 +11,7 @@
     "perception": "+6",
     "religion": "+5",
     "name": "Kuo-toa Monitor",
+    "HP": "65 (10d8 + 20)",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -42,10 +43,6 @@
         "Multiattack": "The kuo-toa makes one bite attack and two unarmed strikes.",
         "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
         "Unarmed Strike": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 3 (1d6) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

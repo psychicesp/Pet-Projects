@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "2",
     "name": "Sea Horse",
+    "HP": "1 (1d4 - 1)",
     "AC": 11,
     "speed": [
         "0 ft",
@@ -27,10 +28,6 @@
         "Water Breathing": "The sea horse can breathe only underwater."
     },
     "actions": {},
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
-    },
     "alignment": "U",
     "size": "Tiny",
     "type": "beast"

@@ -10,6 +10,7 @@
     "performance": "+7",
     "stealth": "+5",
     "name": "Satyr Reveler",
+    "HP": "33 (6d8 + 6)",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -39,10 +40,6 @@
         "Multiattack": "The satyr makes two ram attacks or two shortbow attacks.",
         "Ram": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) bludgeoning damage.",
         "Shortbow": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

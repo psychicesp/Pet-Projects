@@ -12,6 +12,7 @@
     "perception": "+2",
     "survival": "+2",
     "name": "Anarch",
+    "HP": "11 (2d8 + 2)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -27,7 +28,7 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "variable",
+    "CR": "1/4 (50 XP)",
     "page": 239,
     "book": "Guildmasters\u2019 Guide to Ravnica",
     "traits": {
@@ -36,10 +37,6 @@
     },
     "actions": {
         "Spiked Club": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage, or 7 (1d10 + 2) piercing damage if used with two hands."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

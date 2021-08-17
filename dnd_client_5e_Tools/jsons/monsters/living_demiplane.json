@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "7d8",
     "strength": "1",
     "dexterity": "10",
     "constitution": "10",
@@ -8,6 +7,9 @@
     "wisdom": "10",
     "charisma": "1",
     "name": "Living Demiplane",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 7,
+    "HP": "31 (7d8)",
     "AC": 10,
     "speed": [
         "30 ft",
@@ -39,10 +41,6 @@
         "Unusual Nature": "The living spell doesn't require air, food, drink, or sleep."
     },
     "actions": {},
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
-    },
     "alignment": "U",
     "size": "Medium",
     "type": "construct"

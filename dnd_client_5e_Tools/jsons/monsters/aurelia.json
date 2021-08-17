@@ -15,6 +15,7 @@
     "insight": "+14",
     "perception": "+14",
     "name": "Aurelia",
+    "HP": "287 (25d8 + 175)",
     "AC": 22,
     "speed": [
         "50 ft",
@@ -46,7 +47,7 @@
     "languages": [
         "all"
     ],
-    "CR": "variable",
+    "CR": "23 (50,000 XP)",
     "page": 230,
     "book": "Guildmasters\u2019 Guide to Ravnica",
     "traits": {

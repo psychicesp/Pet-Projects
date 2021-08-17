@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "3d8",
     "strength": "14",
     "dexterity": "15",
     "constitution": "10",
@@ -10,6 +9,9 @@
     "perception": "+4",
     "stealth": "+6",
     "name": "Panther",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 3,
+    "HP": "13 (3d8)",
     "AC": 12,
     "speed": [
         "50 ft",
@@ -36,10 +38,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
         "Claw": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

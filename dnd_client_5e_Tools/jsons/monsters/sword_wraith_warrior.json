@@ -7,6 +7,7 @@
     "wisdom": "9",
     "charisma": "10",
     "name": "Sword Wraith Warrior",
+    "HP": "45 (6d8 + 18)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -39,10 +40,6 @@
     "actions": {
         "Longsword": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.",
         "Longbow": "Ranged Weapon Attack: +3+1d4 + 1 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

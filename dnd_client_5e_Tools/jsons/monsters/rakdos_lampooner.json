@@ -11,6 +11,7 @@
     "deception": "+6",
     "performance": "+6",
     "name": "Rakdos Lampooner",
+    "HP": "27 (5d8 + 5)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -50,10 +51,6 @@
     },
     "actions": {
         "Club": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

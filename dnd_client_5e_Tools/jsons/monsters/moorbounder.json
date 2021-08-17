@@ -7,6 +7,7 @@
     "wisdom": "13",
     "charisma": "5",
     "name": "Moorbounder",
+    "HP": "30 (4d10 + 8)",
     "AC": 13,
     "speed": [
         "70 ft"
@@ -28,10 +29,6 @@
     },
     "actions": {
         "Claws": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 14 (4d4 + 4) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

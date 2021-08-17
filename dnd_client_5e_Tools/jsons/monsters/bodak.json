@@ -9,6 +9,7 @@
     "perception": "+4",
     "stealth": "+6",
     "name": "Bodak",
+    "HP": "58 (9d8 + 18)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -47,10 +48,6 @@
     "actions": {
         "Fist": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage plus 9 (2d8) necrotic damage.",
         "Withering Gaze": "One creature that the bodak can see within 60 feet of it must make a DC 13+1d6 + 10 Constitution saving throw, taking 22 (4d10) necrotic damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

@@ -7,6 +7,7 @@
     "wisdom": "19",
     "charisma": "16",
     "name": "Hollyphant",
+    "HP": "36 (8d6 + 8)",
     "AC": 18,
     "speed": [
         "20 ft",
@@ -60,10 +61,6 @@
         "Trumpet (3/Day)": "The hollyphant blows air through its trunk, creating a trumpet sound that can be heard out to a range of 600 feet. The trumpet also creates a 30-foot cone of energy that has one of the following effects, chosen by the hollyphant:",
         "Trumpet of Blasting": "Each creature in the cone must make a DC 14+1d6 + 11 Constitution saving throw. On a failed save, a creature takes 17 (5d6) thunder damage and is deafened for 1 minute. On a successful save, a creature takes half as much damage and isn't deafened. Nonmagical objects in the cone that aren't being held or worn take 35 (10d6) thunder damage.",
         "Trumpet of Sparkles": "Creatures in the cone must make a DC 14+1d6 + 11 Constitution saving throw, taking 22 (4d8 + 4) radiant damage on a failed save, or half as much damage on a successful one. Evil creatures have disadvantage on the saving throw. Good creatures in the cone take no damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LG",
     "size": "Small",

@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Horizonback Tortoise",
+    "HP": "227 (13d20 + 91)",
     "AC": 17,
     "speed": [
         "20 ft"
@@ -39,10 +40,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +12+1d6 + 9 to hit, reach 10 ft., one target. Hit: 28 (3d12 + 9) bludgeoning damage.",
         "Shell Defense (Recharge 4xe2x80x936)": "The tortoise withdraws into its shell, falls prone, and gains a +5 bonus to AC. While the tortoise is in its shell, its speed is 0 and can't increase. The tortoise can emerge from its shell as an action, whereupon it is no longer prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Gargantuan",

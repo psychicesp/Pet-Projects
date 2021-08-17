@@ -7,6 +7,7 @@
     "wisdom": "14",
     "charisma": "5",
     "name": "Bestial Spirit",
+    "HP": "20 (Air only) or 30 (Land and Water only) + 5 for each spell level above 2nd",
     "AC": 11,
     "speed": [
         "30 ft",
@@ -23,7 +24,6 @@
     "languages": [
         "understands the languages you speak"
     ],
-    "CR": "variable",
     "page": 109,
     "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
     "traits": {
@@ -34,10 +34,6 @@
     "actions": {
         "Multiattack": "The beast makes a number of attacks equal to half this spell's level (rounded down).",
         "Maul": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 4 + the spell's level piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

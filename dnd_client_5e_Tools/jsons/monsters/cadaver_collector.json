@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "8",
     "name": "Cadaver Collector",
+    "HP": "189 (18d10 + 90)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -38,10 +39,6 @@
         "Multiattack": "The cadaver collector makes two slam attacks.",
         "Slam": "Melee Weapon Attack: +10+1d10 + 5 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage plus 16 (3d10) necrotic damage.",
         "Paralyzing Breath (Recharge 5xe2x80x936)": "The cadaver collector releases paralyzing gas in a 30-foot cone. Each creature in that area must make a successful DC 18+1d10 + 13 Constitution saving throw or be paralyzed for 1 minute. A paralyzed creature repeats the saving throw at the end of each of its turns, ending the effect on itself with a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

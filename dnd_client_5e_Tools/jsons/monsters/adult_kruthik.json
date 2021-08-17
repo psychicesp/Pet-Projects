@@ -8,6 +8,7 @@
     "wisdom": "12 (+1)",
     "charisma": "8 (-1)",
     "name": "Adult Kruthik",
+    "HP": "39 (6d8 + 12)",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -24,7 +25,7 @@
     "languages": [
         "Kruthik"
     ],
-    "CR": "variable",
+    "CR": "2 (450 XP)",
     "page": 212,
     "book": "Mordenkainen\u2019s Tome of Foes",
     "traits": {
@@ -36,10 +37,6 @@
         "Multiattack": "The kruthik makes two stab attacks or two spike attacks.",
         "Stab": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
         "Spike": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

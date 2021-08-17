@@ -8,6 +8,7 @@
     "charisma": "10",
     "perception": "+5",
     "name": "Theran Chimera",
+    "HP": "95 (10d10 + 40)",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -39,10 +40,6 @@
         "Head": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) piercing damage.",
         "Tail": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.",
         "Breath Weapon (Recharge 5xe2x80x936)": "The chimera exhales fire in a 15-foot cone. Each creature in that area must make a DC 15+1d6 + 12 Dexterity saving throw, taking 32 (5d12) fire damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

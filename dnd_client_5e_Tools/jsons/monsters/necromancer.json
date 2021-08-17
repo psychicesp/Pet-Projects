@@ -11,6 +11,7 @@
     "arcana": "+7",
     "history": "+7",
     "name": "Necromancer",
+    "HP": "66 (12d8 + 12)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -66,10 +67,6 @@
     },
     "actions": {
         "Withering Touch": "Melee Spell Attack: +7+1d8 + 3 to hit, reach 5 ft., one creature. Hit: 5 (2d4) necrotic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

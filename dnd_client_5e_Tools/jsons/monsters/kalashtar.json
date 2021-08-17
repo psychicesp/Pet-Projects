@@ -12,6 +12,7 @@
     "insight": "+4",
     "persuasion": "+6",
     "name": "Kalashtar",
+    "HP": "16 (3d8 + 3)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -41,10 +42,6 @@
     "actions": {
         "Dagger": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
         "Mind Thrust": "The kalashtar targets a creature it can see within 30 feet of it. The target must succeed on a DC 12+1d4 + 10 Wisdom saving throw or take 11 (2d10) psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

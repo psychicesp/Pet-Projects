@@ -11,6 +11,7 @@
     "athletics": "+3",
     "perception": "+4",
     "name": "Locathah Hunter",
+    "HP": "33 (6d8 + 6)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -42,10 +43,6 @@
         "Multiattack": "The hunter makes two attacks with its envenomed crossbow.",
         "Envenomed Crossbow": "Ranged Weapon Attack: +4+1d4 + 2 to hit, range 80/320 ft., one target. Hit: 11 (2d8 + 2) piercing damage, and the target must succeed on a DC 12+1d4 + 10 Constitution saving throw or be poisoned until the end of its next turn.",
         "Club": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

@@ -12,6 +12,7 @@
     "medicine": "+4",
     "survival": "+4",
     "name": "Orc Claw of Luthic",
+    "HP": "45 (6d8 + 18)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -56,10 +57,6 @@
     "actions": {
         "Multiattack": "The orc makes two claw attacks, or four claw attacks if it has fewer than half of its hit points remaining.",
         "Claw": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

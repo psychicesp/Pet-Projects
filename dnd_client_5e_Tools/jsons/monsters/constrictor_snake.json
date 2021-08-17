@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Constrictor Snake",
+    "HP": "13 (2d10 + 2)",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -27,10 +28,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 5 (1d6 + 2) piercing damage.",
         "Constrict": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14+1d4 + 12). Until this grapple ends, the creature is restrained, and the snake can't constrict another target."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

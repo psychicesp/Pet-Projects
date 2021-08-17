@@ -10,6 +10,7 @@
     "wisdom": "8 (-1)",
     "charisma": "5 (-3)",
     "name": "Abyssal Wretch",
+    "HP": "18 (4d8)",
     "AC": 11,
     "speed": [
         "20 ft"
@@ -32,15 +33,11 @@
     "languages": [
         "understands Abyssal but can't speak"
     ],
-    "CR": "variable",
+    "CR": "1/4 (50 XP)",
     "page": 136,
     "book": "Mordenkainen\u2019s Tome of Foes",
     "actions": {
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

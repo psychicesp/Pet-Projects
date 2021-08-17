@@ -11,6 +11,7 @@
     "insight": "+14",
     "religion": "+18",
     "name": "Sul Khatesh",
+    "HP": "475 (50d10 + 200)",
     "AC": 22,
     "speed": [
         "40 ft",

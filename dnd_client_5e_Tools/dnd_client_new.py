@@ -57,7 +57,6 @@ proficiency_dict = {
 }
 file_name = "lich.html"
 def html_to_json(file_name, save = True):
-    # try:
     print(file_name.split('.')[0])
     with open(f'html_pages/monsters/{file_name}', 'r') as mon:
         mon_soup = BS(mon, 'html.parser')
@@ -78,9 +77,16 @@ def html_to_json(file_name, save = True):
         except:
             pass
     meal['name'] = mon_soup.find('h1').text
-    # meal['hit_dice_type'] = 'd'+meal['hit'].split('d')[1]
-    # meal['num_hit_dice'] = int(meal['hit'].split('d')[0])
-    # meal.pop('hit')
+    try:
+        meal['hit_dice_type'] = 'd'+meal['hit'].split('d')[1]
+        meal['num_hit_dice'] = int(meal['hit'].split('d')[0])
+        meal.pop('hit')
+    except:
+        pass
+    hp_soup = mon_soup.find_all("div")
+    hp_bite = [x for x in hp_soup if "Hit Points" in x.text][0]
+    hp = hp_bite.text.replace(hp_bite.strong.text, '')
+    meal['HP'] = sterilizer(hp)
     meal['AC'] =  mon_soup.find('div',{"class":"mon__wrp-avoid-token"})
 
     if meal['AC'] is None:
@@ -108,18 +114,31 @@ def html_to_json(file_name, save = True):
                 break
     mon_text = mon_soup.text
     if "Saving Throws" in mon_text:
-        saves = soup_dict["Saving Throws"].find_all('span',{'class':'roller render-roller'})
-        for save in saves:
-            save_type = save['title'].split(" ")[0].lower()
-            save_prof = proficiency_dict[save.find('span', {'class':'rd__roller--roll-prof-dice'}).text.replace('+','').split('d')[0]]
-            meal['saving_throws'][save_type] = save_prof
+        if "homunculus_servant" in file_name:
+            meal['saving_throws']['dexterity'] = 'proficient'
+        else:
+            saves = soup_dict["Saving Throws"].find_all('span',{'class':'roller render-roller'})
+            for save in saves:
+                save_type = save['title'].split(" ")[0].lower()
+                try:
+                    save_prof = proficiency_dict[save.find('span', {'class':'rd__roller--roll-prof-dice'}).text.replace('+','').split('d')[0]]
+                except:
+                    save_prof = 'proficient'
+                meal['saving_throws'][save_type] = save_prof
 
     if 'Skills' in mon_text:
-        skills = soup_dict["Skills"].find_all('span',{'class':'roller render-roller'})
-        for skill in skills:
-            skill_type = skill['data-roll-name'].lower()
-            skill_prof = proficiency_dict[skill['data-roll-prof-dice'].replace('+','').split('d')[0]]
-            meal['skills'][skill_type] = skill_prof
+        if "homunculus_servant" in file_name:
+            meal['skills']['stealth'] = 'proficient'
+            meal['skills']['perception'] = 'expert'
+        else:
+            skills = soup_dict["Skills"].find_all('span',{'class':'roller render-roller'})
+            for skill in skills:
+                skill_type = skill['data-roll-name'].lower()
+                try:
+                    skill_prof = proficiency_dict[skill['data-roll-prof-dice'].replace('+','').split('d')[0]]
+                except:
+                    skill_prof = 'proficient'
+                meal['skills'][skill_type] = skill_prof
     
     if 'Damage Immunities' in mon_text:
         immunities = soup_dict['Damage Immunities'].text.replace('Damage Immunities ', '').split(';')
@@ -146,16 +165,18 @@ def html_to_json(file_name, save = True):
         languages = [x.strip() for x in languages]
         meal['languages'] = languages
 
-    try:
-        meal['CR'] = soup_dict['Challenge'].text.strip("\\n").split("\\n")[1]
-    except:
-        meal['CR'] = 'variable'
+    if 'XP)' in soup_dict['Challenge'].text:
+        meal['CR'] = sterilizer(soup_dict['Challenge'].text).replace('Challenge', '').replace('n', '')
+
     book_page = mon_soup.find('div',{"class":"stats-source flex-v-baseline"}).find_all('a')
     if len(book_page) < 2:
         book_page = mon_soup.find('div',{"class":"stats-source flex-v-baseline"}).find_all('span')
-
-    meal['page'] = int(book_page[1].attrs['title'].split(" ")[1])
-    meal['book'] = book_page[0].attrs['title']
+    if len(book_page) < 2:
+        book = mon_soup.find("th", {'class': "rnd-name"}).find('a')
+        meal['book'] = book.attrs['title']
+    else:
+        meal['page'] = int(book_page[1].attrs['title'].split(" ")[1])
+        meal['book'] = book_page[0].attrs['title']
     trait_soup = mon_soup.find('tr', {'class', 'trait'})
     if trait_soup is not None:
         traits = trait_soup.find_all('div', {'class': 'rd__b rd__b--3'})
@@ -170,8 +191,11 @@ def html_to_json(file_name, save = True):
                 meal['traits']['legendary_resistance'] = int(trait_name.split("/Day")[0].split('(')[-1])
             elif "Spellcasting" in trait_name:
                 spellcasting_dict = {}
-                if 'innately' in trait.p.text:
+                if 'innately' in trait.p.text or 'innate spellcasting' in mon_text.lower():
                     spellcasting_dict['type']= "innate"
+                elif 'magewright' in file_name:
+                    
+                    spellcasting_dict['type']= "ritualist"
                 else:
                     try:
                         spellcasting_dict['level']= int(trait.p.text.split('th-level')[0].split(' ')[-1])
@@ -179,7 +203,10 @@ def html_to_json(file_name, save = True):
                         try:
                             spellcasting_dict['level']= int(trait.p.text.split('st-level')[0].split(' ')[-1])
                         except:
-                            spellcasting_dict['level']= int(trait.p.text.split('rd-level')[0].split(' ')[-1])
+                            try:
+                                spellcasting_dict['level']= int(trait.p.text.split('rd-level')[0].split(' ')[-1])
+                            except:
+                                spellcasting_dict['level']= int(trait.p.text.split('nd-level')[0].split(' ')[-1])
 
                     spellcasting_dict['type'] = trait.p.text.split('the following ')[-1].split(' spells')[0]
                 spellcasting_dict['spells'] = [x.text.replace('\n', '').replace('\\', '') for x in trait.find_all('a', {'data-vet-page':"spells.html"})]
@@ -205,7 +232,7 @@ def html_to_json(file_name, save = True):
         'options': {}
     }
 
-    try:
+    if 'Legendary Actions' in mon_text:
         legendary_soup = mon_soup.find_all('tr', {'class': 'legendary'})
         legendary_dict['number'] = int(legendary_soup[0].find('td',{'colspan':"6"}).text.split(' legendary actions')[0].split(' ')[-1])
         legendaries = legendary_soup[1].find_all('li', {'class':"rd__li"})
@@ -214,10 +241,8 @@ def html_to_json(file_name, save = True):
             leg_text = sterilizer(legendary.p.text)
             leg_text = leg_text.replace(leg_name, '')
             legendary_dict['options'][leg_name.strip('.')] = leg_text
-    except:
-        pass
-    meal['legendary_actions'] = legendary_dict
-    try:
+        meal['legendary_actions'] = legendary_dict
+    if 'lair action' in mon_text.lower() and 'initiative count 20' in mon_text.lower():
         lair_soup = mon_soup.find('tr', {'class':'lairaction'})
         lair_actions = lair_soup.find_all('li', {'class': "rd__li"})
 
@@ -228,8 +253,7 @@ def html_to_json(file_name, save = True):
         for action in lair_actions:
             lair_action = sterilizer(action.text)
             meal['in_lair']['actions'].append(lair_action)
-    except:
-        pass
+
     try:
         sta = mon_soup.find('div',{"class":"mon__wrp-size-type-align--token"}).text
     except:
@@ -248,12 +272,7 @@ def html_to_json(file_name, save = True):
     if save:
         with open(f'jsons/monsters/{new_file_name}', 'w') as out:
             json.dump(meal, out, indent = 4)
-    # except:
-    #     if save:
-    #         with open(f'jsons/failed_monsters/{new_file_name}', 'w') as out:
-    #             json.dump(meal, out, indent = 4)
 
-# html_to_json(file_name)
 # %%
 files = os.listdir("html_pages/monsters")
 for file in files:

@@ -1,0 +1,43 @@
+{
+    "tags": [],
+    "strength": "14",
+    "dexterity": "13",
+    "constitution": "16",
+    "intelligence": "1",
+    "wisdom": "12",
+    "charisma": "5",
+    "perception": "+1",
+    "name": "Reduced-Threat Carrion Crawler",
+    "HP": "25 (6d10 + 18)",
+    "AC": 13,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 13"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "2 (225 XP)",
+    "page": 113,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Keen Smell": "The carrion crawler has advantage on Wisdom (Perception) checks that rely on smell.",
+        "Spider Climb": "The carrion crawler can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
+    "actions": {
+        "Multiattack": "The carrion crawler makes two attacks: one with its tentacles and one with its bite.",
+        "Tentacles": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 10 ft., one creature. Hit: 4 (1d4 + 2) poison damage, and the target must succeed on a DC 11+1d4 + 9 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success.",
+        "Bite": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage."
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
+}

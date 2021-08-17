@@ -7,6 +7,7 @@
     "wisdom": "6",
     "charisma": "5",
     "name": "Husk Zombie",
+    "HP": "37 (5d8 + 15)",
     "AC": 10,
     "speed": [
         "35 ft"
@@ -39,10 +40,6 @@
     "actions": {
         "Multiattack": "The zombie makes two claw attacks. For each of these attacks that reduces a creature to 0 hit points, the zombie can make an additional claw attack.",
         "Claw": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

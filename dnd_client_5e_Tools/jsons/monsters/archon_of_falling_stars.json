@@ -16,6 +16,7 @@
     "insight": "+9",
     "perception": "+9",
     "name": "Archon of Falling Stars",
+    "HP": "144 (17d8 + 68)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -45,7 +46,7 @@
     "languages": [
         "all"
     ],
-    "CR": "variable",
+    "CR": "12 (8,400 XP)",
     "page": 212,
     "book": "Mythic Odysseys of Theros",
     "traits": {

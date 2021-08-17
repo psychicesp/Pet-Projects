@@ -9,6 +9,7 @@
     "athletics": "+7",
     "perception": "+4",
     "name": "Zakya Rakshasa",
+    "HP": "59 (7d8 + 28)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -49,10 +50,6 @@
         "Multiattack": "The rakshasa makes three melee weapon attacks. Alternatively, it can make two ranged attacks with its javelins.",
         "Longsword": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands.",
         "Javelin": "Melee or Ranged Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

@@ -11,6 +11,7 @@
     "intimidation": "+4",
     "stealth": "+6",
     "name": "Night Blade",
+    "HP": "11 (2d8 + 2)",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -35,10 +36,6 @@
     },
     "actions": {
         "Dagger": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

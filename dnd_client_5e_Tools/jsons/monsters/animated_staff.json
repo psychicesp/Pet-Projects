@@ -7,6 +7,7 @@
     "wisdom": "14 (+2)",
     "charisma": "10 (+0)",
     "name": "Animated Staff",
+    "HP": "40",
     "AC": 17,
     "speed": [
         "0 ft",
@@ -27,7 +28,6 @@
     "languages": [
         "Common"
     ],
-    "CR": "variable",
     "page": 262,
     "book": "Waterdeep: Dungeon of the Mad Mage",
     "traits": {
@@ -36,10 +36,6 @@
     "actions": {
         "Staff of Frost": "The staff has 10 charges. It can expend 1 or more of its charges to cast one of the following spells (save DC 12): cone of cold (5 charges), fog cloud (1 charge), ice storm (4 charges), or wall of ice (4 charges). It regains 1d6 + 4 expended charges daily at dawn. If the staff expends its last charge, roll a d20. On a 1, the staff turns to water and is destroyed.",
         "Staff": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (2d6) bludgeoning damage plus 1 cold damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

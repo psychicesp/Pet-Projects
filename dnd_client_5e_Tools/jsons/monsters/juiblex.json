@@ -10,6 +10,7 @@
     "charisma": "16",
     "perception": "+12",
     "name": "Juiblex",
+    "HP": "350 (28d12 + 168)",
     "AC": 18,
     "speed": [
         "30 ft"

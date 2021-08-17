@@ -8,6 +8,7 @@
     "charisma": "8",
     "perception": "+5",
     "name": "Young Griffon (Medium)",
+    "HP": "32 (5d6 + 15)",
     "AC": 12,
     "speed": [
         "30 ft",
@@ -34,10 +35,6 @@
         "Multiattack": "The griffon makes two attacks: one with its beak and one with its claws.",
         "Beak": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.",
         "Claws": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

@@ -8,6 +8,7 @@
     "charisma": "10",
     "perception": "+6",
     "name": "Monstrous Peryton",
+    "HP": "144 (17d10 + 51)",
     "AC": 14,
     "speed": [
         "20 ft",

@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Clockwork Mule",
+    "HP": "11 (2d8 + 2)",
     "AC": 10,
     "speed": [
         "40 ft"
@@ -35,10 +36,6 @@
     },
     "actions": {
         "Hooves": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

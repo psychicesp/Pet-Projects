@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "1d6",
     "strength": "6",
     "dexterity": "15",
     "constitution": "10",
@@ -9,6 +8,9 @@
     "charisma": "7",
     "perception": "+4",
     "name": "Eagle",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 1,
+    "HP": "3 (1d6)",
     "AC": 12,
     "speed": [
         "10 ft",
@@ -32,10 +34,6 @@
     },
     "actions": {
         "Talons": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

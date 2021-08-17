@@ -15,6 +15,7 @@
     "perception": "+12",
     "stealth": "+5",
     "name": "Adult Bronze Dragon",
+    "HP": "212 (17d12 + 102)",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -44,7 +45,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "15 (13,000 XP)",
     "page": 108,
     "book": "Monster Manual",
     "traits": {

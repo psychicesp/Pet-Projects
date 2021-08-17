@@ -7,6 +7,7 @@
     "wisdom": "13",
     "charisma": "8",
     "name": "Category 2 Krasis",
+    "HP": "136 (16d10 + 48)",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -29,10 +30,6 @@
         "Multiattack": "The krasis makes two attacks: one with its bite and one with its claws.",
         "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one creature. Hit: 17 (2d12 + 4) piercing damage.",
         "Claws": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

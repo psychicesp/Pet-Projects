@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Shield Guardian",
+    "HP": "142 (15d10 + 60)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -38,10 +39,6 @@
     "actions": {
         "Multiattack": "The guardian makes two fist attacks.",
         "Fist": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

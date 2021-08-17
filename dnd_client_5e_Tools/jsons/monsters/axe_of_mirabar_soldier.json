@@ -11,6 +11,7 @@
     "athletics": "+5",
     "perception": "+2",
     "name": "Axe of Mirabar Soldier",
+    "HP": "67 (9d8 + 27)",
     "AC": 18,
     "speed": [
         "25 ft"
@@ -42,10 +43,6 @@
         "Battleaxe": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
         "Handaxe": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
         "Heavy Crossbow": "Ranged Weapon Attack: +3+1d4 + 1 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

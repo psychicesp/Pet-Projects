@@ -9,6 +9,7 @@
     "perception": "+1",
     "stealth": "+6",
     "name": "Kobold Vampire Spawn",
+    "HP": "39 (6d6 + 18)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -45,10 +46,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one creature. Hit: 6 (1d4 + 4) piercing damage plus 5 (2d4) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Small",

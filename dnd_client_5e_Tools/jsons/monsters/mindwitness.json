@@ -8,6 +8,7 @@
     "charisma": "10",
     "perception": "+8",
     "name": "Mindwitness",
+    "HP": "75 (10d10 + 20)",
     "AC": 15,
     "speed": [
         "0 ft",
@@ -43,10 +44,6 @@
         "Bite": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one creature. Hit: 16 (4d6 + 2) piercing damage.",
         "Tentacles": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one creature. Hit: 20 (4d8 + 2) psychic damage. if the target is Large or smaller, it is grappled (escape DC 13+1d6 + 10) and must succeed on a DC 13+1d6 + 10 Intelligence saving throw or be stunned until this grapple ends.",
         "Eye Rays": "The mindwitness shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

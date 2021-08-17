@@ -13,6 +13,7 @@
     "persuasion": "+7",
     "religion": "+4",
     "name": "Warlock of the Fiend",
+    "HP": "78 (12d8 + 24)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -43,8 +44,7 @@
     "traits": {
         "Dark One's Own Luck (Recharges after a Short or Long Rest)": "When the warlock makes an ability check or saving throw, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur.",
         "spellcasting": {
-            "level": 17,
-            "type": "warlock",
+            "type": "innate",
             "spells": [
                 "eldritch blast",
                 "fire bolt",
@@ -68,10 +68,6 @@
     },
     "actions": {
         "Mace": "Melee Weapon Attack: +3+1d6 + 0 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage plus 10 (3d6) fire damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

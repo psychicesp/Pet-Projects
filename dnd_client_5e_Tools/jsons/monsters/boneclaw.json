@@ -9,6 +9,7 @@
     "perception": "+6",
     "stealth": "+7",
     "name": "Boneclaw",
+    "HP": "127 (17d10 + 34)",
     "AC": 16,
     "speed": [
         "40 ft"
@@ -47,10 +48,6 @@
         "Multiattack": "The boneclaw makes two claw attacks.",
         "Piercing Claw": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 15 ft., one target. Hit: 20 (3d10 + 4) piercing damage. If the target is a creature, the boneclaw can pull the target up to 10 feet toward itself, and the target is grappled (escape DC 14+1d8 + 10). The boneclaw has two claws. While a claw grapples a target, the claw can attack only that target.",
         "Shadow Jump": "If the boneclaw is in dim light or darkness, each creature of the boneclaw's choice within 5 feet of it must succeed on a DC 14+1d8 + 10 Constitution saving throw or take 34 (5d12 + 2) necrotic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

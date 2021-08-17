@@ -9,6 +9,7 @@
     "perception": "+4",
     "stealth": "+4",
     "name": "Gold Dragon Wyrmling",
+    "HP": "60 (8d8 + 24)",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -45,10 +46,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage.",
         "Breath Weapons (Recharge 5xe2x80x936)": "The dragon uses one of the following breath weapons."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LG",
     "size": "Medium",

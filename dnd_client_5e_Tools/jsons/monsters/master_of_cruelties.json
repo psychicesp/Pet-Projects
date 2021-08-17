@@ -13,6 +13,7 @@
     "performance": "+9",
     "persuasion": "+9",
     "name": "Master of Cruelties",
+    "HP": "127 (15d10 + 45)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -68,10 +69,6 @@
         "Multiattack": "The master makes two melee attacks with its spear.",
         "Spear": "Melee or Ranged Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 13 (3d8) psychic damage.",
         "Captivating Presence (Recharge 6)": "Each creature within 120 feet of the master must succeed on a DC 17+1d8 + 13 Wisdom saving throw or be charmed by the master for 1 hour. While charmed in this way, a creature's speed is 0. If the charmed creature takes damage, it can repeat the saving throw, ending the effect on itself on a success. A target that succeeds on the saving throw is immune to the Captivating Presence of all masters of cruelties for the next 24 hours."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

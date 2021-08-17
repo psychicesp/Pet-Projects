@@ -7,6 +7,7 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Frost Giant Skeleton",
+    "HP": "102 (12d12 + 24)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -36,10 +37,6 @@
         "Multiattack": "The skeleton makes two greataxe attacks.",
         "Greataxe": "Melee Weapon Attack: +9+1d6 + 6 to hit, reach 10 ft., one target. Hit: 25 (3d12 + 6) slashing damage.",
         "Freezing Stare": "The skeleton targets one creature it can see within 60 feet of it. The target must succeed on a DC 13+1d6 + 10 Constitution saving throw or take 35 (10d6) cold damage and be paralyzed until the end of its next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Huge",

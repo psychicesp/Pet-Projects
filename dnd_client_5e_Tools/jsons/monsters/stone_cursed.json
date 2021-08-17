@@ -7,6 +7,7 @@
     "wisdom": "8",
     "charisma": "7",
     "name": "Stone Cursed",
+    "HP": "19 (3d8 + 4)",
     "AC": 17,
     "speed": [
         "10 ft"
@@ -34,10 +35,6 @@
     },
     "actions": {
         "Petrifying Claws": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if the attack roll had advantage. If the target is a creature, it must succeed on a DC 12+1d4 + 10 Constitution saving throw, or it begins to turn to stone and is restrained until the end of its next turn, when it must repeat the saving throw. The effect ends if the second save is successful; otherwise the target is petrified for 24 hours."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

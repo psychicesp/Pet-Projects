@@ -1,0 +1,35 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "10",
+    "constitution": "13",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "5",
+    "perception": "+2",
+    "name": "Hadrosaurus",
+    "HP": "19 (3d10 + 3)",
+    "AC": 11,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "perception": "proficient"
+    },
+    "senses": [
+        "passive Perception 12"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 140,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "actions": {
+        "Tail": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) bludgeoning damage."
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
+}

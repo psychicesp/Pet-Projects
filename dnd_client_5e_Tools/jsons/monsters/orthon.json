@@ -12,6 +12,7 @@
     "stealth": "+11",
     "survival": "+10",
     "name": "Orthon",
+    "HP": "105 (10d10 + 50)",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -57,10 +58,6 @@
     "actions": {
         "Infernal Dagger": "Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one target. Hit: 11 (2d4 + 6) slashing damage, and the target must make a DC 17+1d8 + 13 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is poisoned for 1 minute. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
         "Brass Crossbow": "Ranged Weapon Attack: +7+1d8 + 3 to hit, range 100/400 ft., one target. Hit: 14 (2d10 + 3) piercing damage, plus one of the following effects:"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

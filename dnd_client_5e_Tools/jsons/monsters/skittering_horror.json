@@ -9,6 +9,7 @@
     "perception": "+7",
     "stealth": "+8",
     "name": "Skittering Horror",
+    "HP": "228 (24d12 + 72)",
     "AC": 17,
     "speed": [
         "40 ft",
@@ -41,10 +42,6 @@
         "Bite": "Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target. Hit: 28 (4d10 + 6) piercing damage.",
         "Claws": "Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target. Hit: 24 (4d8 + 6) slashing damage.",
         "Maddening Presence": "The horror targets one creature it can see within 30 feet of it. If the target can see or hear the horror, the target must make a DC 17+1d10 + 12 Wisdom saving throw. On a failed saving throw, the target becomes paralyzed until the end of its next turn. If a creature's saving throw is successful, the creature is immune to the horror's Maddening Presence for the next 24 hours."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Huge",

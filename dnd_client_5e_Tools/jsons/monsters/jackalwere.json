@@ -2,7 +2,6 @@
     "tags": [
         "shapechanger"
     ],
-    "hit": "4d8",
     "strength": "11",
     "dexterity": "15",
     "constitution": "11",
@@ -13,6 +12,9 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Jackalwere",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 4,
+    "HP": "18 (4d8)",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -44,10 +46,6 @@
         "Bite (Jackal or Hybrid Form Only)": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
         "Scimitar (Human or Hybrid Form Only)": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.",
         "Sleep Gaze": "The jackalwere gazes at one creature it can see within 30 feet of it. The target must make a DC 10+1d4 + 8 Wisdom saving throw. On a failed save, the target succumbs to a magical slumber, falling unconscious for 10 minutes or until someone uses an action to shake the target awake. A creature that successfully saves against the effect is immune to this jackalwere's gaze for the next 24 hours. Undead and creatures immune to being charmed aren't affected by it."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

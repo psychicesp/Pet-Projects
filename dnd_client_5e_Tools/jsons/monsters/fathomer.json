@@ -12,6 +12,7 @@
     "perception": "+4",
     "stealth": "+4",
     "name": "Fathomer",
+    "HP": "52 (8d8 + 16)",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -53,10 +54,6 @@
     "actions": {
         "Constrict (Serpent Form Only)": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 12+1d4 + 10). Until the grapple ends, the target is restrained, and the fathomer can't constrict another target.",
         "Dagger (Human Form Only)": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

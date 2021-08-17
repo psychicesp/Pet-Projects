@@ -11,6 +11,7 @@
     "arcana": "+8",
     "history": "+8",
     "name": "Storm Giant Quintessent",
+    "HP": "230 (20d12 + 100)",
     "AC": 12,
     "speed": [
         "50 ft",

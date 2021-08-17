@@ -11,6 +11,7 @@
     "perception": "+2",
     "stealth": "+5",
     "name": "Duergar Mind Master",
+    "HP": "39 (6d8 + 12)",
     "AC": 14,
     "speed": [
         "25 ft"
@@ -47,10 +48,6 @@
         "Invisibility (Recharge 4xe2x80x936)": "The duergar magically turns invisible for up to 1 hour or until it attacks, it casts a spell, it uses its Reduce, or its concentration is broken (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.",
         "Mind Mastery": "The duergar targets one creature it can see within 60 feet of it. The target must succeed on a DC 12+1d4 + 10 Intelligence saving throw, or the duergar causes it to use its reaction either to make one weapon attack against another creature the duergar can see or to move up to 10 feet in a direction of the duergar's choice. Creatures that can't be charmed are immune to this effect.",
         "Reduce (Recharges after a Short or Long Rest)": "For 1 minute, the duergar magically decreases in size, along with anything it is wearing or carrying. While reduced, the duergar is Tiny, reduces its weapon damage to 1, and makes attacks, checks, and saving throws with disadvantage if they use Strength. It gains a +5 bonus to all Dexterity (Stealth) checks and a +5 bonus to its AC. It can also take a bonus action on each of its turns to take the Hide action."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

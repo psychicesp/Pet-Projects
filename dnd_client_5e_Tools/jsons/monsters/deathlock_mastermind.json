@@ -10,6 +10,7 @@
     "history": "+5",
     "perception": "+4",
     "name": "Deathlock Mastermind",
+    "HP": "110 (20d8 + 20)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -45,8 +46,7 @@
     "book": "Mordenkainen\\xe2\\x80\\x99s Tome of Foes",
     "traits": {
         "spellcasting": {
-            "level": 10,
-            "type": "warlock",
+            "type": "innate",
             "spells": [
                 "chill touch",
                 "mage hand",
@@ -69,10 +69,6 @@
     "actions": {
         "Deathly Claw": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3) necrotic damage).",
         "Grave Bolts": "Ranged Spell Attack: +6+1d6 + 3 to hit, range 120 ft., one or two targets. Hit: 18 (4d8) necrotic damage. If the target is Large or smaller, it must succeed on a DC 16+1d6 + 13 Strength saving throw or become restrained as shadowy tendrils wrap around it for 1 minute. A restrained target can use its action to repeat the saving throw, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

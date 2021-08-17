@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Hellwasp",
+    "HP": "52 (8d10 + 8)",
     "AC": 19,
     "speed": [
         "10 ft",
@@ -38,10 +39,6 @@
         "Multiattack": "The hellwasp makes two attacks: one with its sting and one with its sword talons.",
         "Sting": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one creature. Hit: 8 (1d8 + 4) piercing damage plus 7 (2d6) fire damage, and the target must succeed on a DC 12+1d6 + 9 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
         "Sword Talons": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

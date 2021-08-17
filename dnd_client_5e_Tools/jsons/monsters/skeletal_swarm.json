@@ -9,6 +9,7 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Skeletal Swarm",
+    "HP": "60 (8d10 + 16)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -40,10 +41,6 @@
     },
     "actions": {
         "Slash": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 0 ft., one target in the swarm's space. Hit: 11 (2d8 + 2) slashing damage, or 6 (1d8 + 2) slashing damage if the swarm has half of its hit points or fewer."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

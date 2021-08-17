@@ -2,7 +2,6 @@
     "tags": [
         "yuan-ti"
     ],
-    "hit": "9d8",
     "strength": "11",
     "dexterity": "12",
     "constitution": "11",
@@ -13,6 +12,9 @@
     "perception": "+3",
     "stealth": "+3",
     "name": "Yuan-ti Pureblood",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 9,
+    "HP": "40 (9d8)",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -56,10 +58,6 @@
         "Multiattack": "The yuan-ti makes two melee attacks.",
         "Scimitar": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.",
         "Shortbow": "Ranged Weapon Attack: +3+1d4 + 1 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

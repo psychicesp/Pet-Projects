@@ -9,6 +9,7 @@
     "perception": "+3",
     "stealth": "+6",
     "name": "Tiger",
+    "HP": "37 (5d10 + 10)",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -35,10 +36,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.",
         "Claw": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

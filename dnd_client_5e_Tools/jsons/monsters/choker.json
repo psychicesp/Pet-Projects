@@ -8,6 +8,7 @@
     "charisma": "7",
     "stealth": "+6",
     "name": "Choker",
+    "HP": "13 (3d6 + 3)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -34,10 +35,6 @@
     "actions": {
         "Multiattack": "The choker makes two tentacle attacks.",
         "Tentacle": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage plus 3 (1d6) piercing damage. If the target is a Large or smaller creature, it is grappled (escape DC 15+1d4 + 13). Until this grapple ends, the target is restrained, and the choker can't use this tentacle on another target. The choker has two tentacles. If this attack is a critical hit, the target also can't breathe or speak until the grapple ends."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Small",

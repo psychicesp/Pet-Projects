@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "3d8",
     "strength": "1",
     "dexterity": "1",
     "constitution": "10",
@@ -8,6 +7,9 @@
     "wisdom": "3",
     "charisma": "1",
     "name": "Shrieker",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 3,
+    "HP": "13 (3d8)",
     "AC": 5,
     "speed": [
         "0 ft"
@@ -32,10 +34,6 @@
     },
     "actions": {
         "Shriek": "When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

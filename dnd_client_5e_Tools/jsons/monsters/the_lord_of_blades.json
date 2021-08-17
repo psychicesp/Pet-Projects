@@ -13,6 +13,7 @@
     "history": "+10",
     "perception": "+9",
     "name": "The Lord of Blades",
+    "HP": "195 (23d8 + 92)",
     "AC": 19,
     "speed": [
         "40 ft"

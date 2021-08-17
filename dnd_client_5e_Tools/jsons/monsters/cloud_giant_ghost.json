@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "16d12",
     "strength": "27",
     "dexterity": "11",
     "constitution": "10",
@@ -9,6 +8,9 @@
     "charisma": "17",
     "perception": "+7",
     "name": "Cloud Giant Ghost",
+    "hit_dice_type": "d12",
+    "num_hit_dice": 16,
+    "HP": "104 (16d12)",
     "AC": 15,
     "speed": [
         "0 ft",
@@ -52,10 +54,6 @@
         "Etherealness": "The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.",
         "Spellcasting": "The ghost casts one of the following spells, using Charisma as the spellcasting ability and requiring no material components:",
         "Wind Howl (Recharge 6)": "The ghost emits a dreadful howl that summons a cold, biting wind. This wind engulfs up to three creatures of the ghost's choice that it can see within 60 feet of it. Each target is pulled up to 20 feet toward the ghost and must make a DC 15+1d8 + 11 Constitution saving throw, taking 16 (3d10) cold damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

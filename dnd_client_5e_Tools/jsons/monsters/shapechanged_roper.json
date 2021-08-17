@@ -9,6 +9,7 @@
     "perception": "+6",
     "stealth": "+5",
     "name": "Shapechanged Roper",
+    "HP": "93 (11d10 + 33)",
     "AC": 20,
     "speed": [
         "10 ft",
@@ -40,10 +41,6 @@
         "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 22 (4d8 + 4) piercing damage.",
         "Tendril": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 50 ft., one creature. Hit: The target is grappled (escape DC 15+1d6 + 12). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.",
         "Reel": "The roper pulls each creature grappled by it up to 25 feet straight toward it."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

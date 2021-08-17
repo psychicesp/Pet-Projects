@@ -12,6 +12,7 @@
     "stealth": "+6",
     "survival": "+3",
     "name": "Bugbear Chief",
+    "HP": "65 (10d8 + 20)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -42,10 +43,6 @@
         "Multiattack": "The bugbear makes two melee attacks.",
         "Morningstar": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 3) piercing damage.",
         "Javelin": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (2d6 + 3) piercing damage in melee or 5 (1d6 + 3) piercing damage at range."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

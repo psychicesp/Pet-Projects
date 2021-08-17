@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Galvanice Weird",
+    "HP": "22 (3d8 + 9)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -38,10 +39,6 @@
     },
     "actions": {
         "Slam": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 5 (2d4) lightning damage. If the target is a creature, it must succeed on a DC 13+1d4 + 11 Constitution saving throw or lose the ability to use reactions until the start of the weird's next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

@@ -9,6 +9,7 @@
     "perception": "+5",
     "stealth": "+3",
     "name": "Winter Wolf",
+    "HP": "75 (10d10 + 20)",
     "AC": 13,
     "speed": [
         "50 ft"
@@ -40,10 +41,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14+1d4 + 12 Strength saving throw or be knocked prone.",
         "Cold Breath (Recharge 5xe2x80x936)": "The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12+1d4 + 10 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

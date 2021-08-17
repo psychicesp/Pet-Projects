@@ -13,6 +13,7 @@
     "perception": "+7",
     "stealth": "+8",
     "name": "Drow Arachnomancer",
+    "HP": "162 (25d8 + 50)",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -49,8 +50,7 @@
         "Change Shape (Recharges after a Short or Long Rest)": "The drow can use a bonus action to magically polymorph into a giant spider, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. It can speak and cast spells while in giant spider form. Any equipment it is wearing or carrying in humanoid form melds into the giant spider form. It can't activate, use, wield, or otherwise benefit from any of its equipment. It reverts to its humanoid form if it dies.",
         "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
         "spellcasting": {
-            "level": 16,
-            "type": "warlock",
+            "type": "innate",
             "spells": [
                 "eyebite",
                 "etherealness",
@@ -83,10 +83,6 @@
         "Poisonous Touch (Humanoid Form Only)": "Melee Weapon Attack: +8+1d10 + 3 to hit, reach 5 ft., one target. Hit: 28 (8d6) poison damage.",
         "Bite (Giant Spider Form Only)": "Melee Weapon Attack: +7+1d10 + 2 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage, and the target must make a DC 15+1d10 + 10 Constitution saving throw, taking 26 (4d12) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
         "Web (Giant Spider Form Only Recharge 5xe2x80x936)": "Ranged Weapon Attack: +8+1d10 + 3 to hit, range 30/60 ft., one target. Hit: The target is restrained by webbing. As an action, the restrained target can make a DC 15+1d10 + 10 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage)."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

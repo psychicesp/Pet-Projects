@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Minotaur Living Crystal Statue",
+    "HP": "136 (16d10 + 48)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -36,10 +37,6 @@
         "Multiattack": "The statue makes two attacks: one with its greataxe and one gore attack.",
         "Greataxe": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.",
         "Gore": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

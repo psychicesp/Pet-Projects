@@ -7,6 +7,7 @@
     "wisdom": "21",
     "charisma": "18",
     "name": "Phoenix",
+    "HP": "175 (10d20 + 70)",
     "AC": 18,
     "speed": [
         "20 ft",

@@ -11,6 +11,7 @@
     "intimidation": "+5",
     "religion": "+4",
     "name": "War Priest",
+    "HP": "117 (18d8 + 36)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -69,10 +70,6 @@
     "actions": {
         "Multiattack": "The priest makes two melee attacks.",
         "Maul": "Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

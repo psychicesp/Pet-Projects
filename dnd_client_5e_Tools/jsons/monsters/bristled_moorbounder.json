@@ -7,6 +7,7 @@
     "wisdom": "13",
     "charisma": "5",
     "name": "Bristled Moorbounder",
+    "HP": "52 (7d10 + 14)",
     "AC": 15,
     "speed": [
         "70 ft"
@@ -31,10 +32,6 @@
         "Multiattack": "The moorbounder makes two attacks: one with its blades and one with its claws.",
         "Blades": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.",
         "Claws": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 14 (4d4 + 4) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

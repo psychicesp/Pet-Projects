@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "13d8",
     "strength": "1",
     "dexterity": "14",
     "constitution": "10",
@@ -8,6 +7,9 @@
     "wisdom": "11",
     "charisma": "17",
     "name": "Lonelywood Banshee",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 13,
+    "HP": "58 (13d8)",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -47,10 +49,6 @@
         "Spectral Longbow": "Ranged Spell Attack: +4+1d4 + 2 to hit, range 150/600 ft., one target. Hit: 12 (3d6 + 2) necrotic damage.",
         "Horrifying Visage": "Each non-undead creature within 60 feet of the banshee that can see her must succeed on a DC 13+1d4 + 11 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the banshee's Horrifying Visage for the next 24 hours.",
         "Wail (1/Day)": "The banshee releases a mournful wail, provided that she isn't in sunlight. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13+1d4 + 11 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 10 (3d6) psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

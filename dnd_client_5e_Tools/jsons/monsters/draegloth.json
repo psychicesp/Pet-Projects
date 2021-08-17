@@ -11,6 +11,7 @@
     "perception": "+3",
     "stealth": "+5",
     "name": "Draegloth",
+    "HP": "123 (13d10 + 52)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -57,10 +58,6 @@
         "Multiattack": "The draegloth makes three attacks: one with its bite and two with its claws.",
         "Bite": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one creature. Hit: 16 (2d10 + 5) piercing damage.",
         "Claws": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit: 16 (2d10 + 5) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Large",

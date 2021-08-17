@@ -10,6 +10,7 @@
     "athletics": "+6",
     "perception": "+4",
     "name": "Ghostblade Eidolon",
+    "HP": "55 (10d8 + 10)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -47,10 +48,6 @@
     "actions": {
         "Multiattack": "The eidolon makes two ghostblade attacks.",
         "Ghostblade": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 3) slashing damage plus 11 (2d10) force damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

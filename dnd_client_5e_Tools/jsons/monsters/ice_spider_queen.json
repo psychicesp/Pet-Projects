@@ -8,6 +8,7 @@
     "charisma": "4",
     "stealth": "+7",
     "name": "Ice Spider Queen",
+    "HP": "44 (4d10 + 4)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -40,10 +41,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 11+1d4 + 9 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
         "Icy Web (Recharge 5xe2x80x936)": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 30/60 ft., one creature. Hit: The target is restrained by webbing, and takes 2 (1d4) cold damage at the start of each of its turns. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to poison, and psychic damage)."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

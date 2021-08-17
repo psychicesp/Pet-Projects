@@ -9,6 +9,7 @@
     "insight": "+7",
     "perception": "+10",
     "name": "Guardian Giant",
+    "HP": "137 (11d12 + 66)",
     "AC": 19,
     "speed": [
         "40 ft"
@@ -37,10 +38,6 @@
     "actions": {
         "Multiattack": "The giant makes three spear attacks.",
         "Spear": "Melee or Ranged Weapon Attack: +10+1d6 + 7 to hit, reach 10 ft. or range 60/240 ft., one target. Hit: 17 (3d6 + 7) piercing damage, or 20 (3d8 + 7) piercing damage if used with two hands to make a melee attack."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Huge",

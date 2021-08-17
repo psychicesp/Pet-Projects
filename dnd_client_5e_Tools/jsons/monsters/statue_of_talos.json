@@ -1,0 +1,52 @@
+{
+    "tags": [],
+    "strength": "19",
+    "dexterity": "11",
+    "constitution": "20",
+    "intelligence": "6",
+    "wisdom": "11",
+    "charisma": "9",
+    "perception": "+4",
+    "name": "Statue of Talos",
+    "HP": "147 (14d10 + 70)",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "fly 60 ft"
+    ],
+    "saving_throws": {
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient"
+    },
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "bludgeoning, piercing, and slashing from nonmagical attacks that aren\\'t adamantine"
+    ],
+    "condition_immunities": [
+        "exhaustion, petrified, poisoned"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Terran"
+    ],
+    "CR": "10 (5,900 XP)",
+    "book": "Storm Lord\\xe2\\x80\\x99s Wrath",
+    "traits": {
+        "False Appearance": "While the statue remains motionless, it is indistinguishable from an inanimate statue."
+    },
+    "actions": {
+        "Multiattack": "The statue makes five attacks: one with its headbutt and four with its lightning bolt blades.",
+        "Headbutt": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) piercing damage.",
+        "Lightning Bolt Blades": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) slashing damage."
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "elemental"
+}

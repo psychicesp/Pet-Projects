@@ -8,6 +8,7 @@
     "charisma": "5",
     "stealth": "+2",
     "name": "Crocodile",
+    "HP": "19 (3d10 + 3)",
     "AC": 12,
     "speed": [
         "20 ft",
@@ -31,10 +32,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12+1d4 + 10). Until this grapple ends, the target is restrained, and the crocodile can't bite another target"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

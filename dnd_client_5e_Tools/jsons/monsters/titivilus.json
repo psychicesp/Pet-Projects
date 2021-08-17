@@ -13,6 +13,7 @@
     "intimidation": "+13",
     "persuasion": "+13",
     "name": "Titivilus",
+    "HP": "127 (17d8 + 51)",
     "AC": 20,
     "speed": [
         "40 ft",

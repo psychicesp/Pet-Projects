@@ -7,6 +7,7 @@
     "wisdom": "5",
     "charisma": "5",
     "name": "Duergar Screamer",
+    "HP": "38 (7d8 + 7)",
     "AC": 15,
     "speed": [
         "20 ft"
@@ -36,10 +37,6 @@
         "Multiattack": "The screamer makes one drill attack and uses its Sonic Scream.",
         "Drill": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) piercing damage.",
         "Sonic Scream": "The screamer emits destructive energy in a 15-foot cube. Each creature in that area must succeed on a DC 11+1d4 + 9 Strength saving throw or take 7 (2d6) thunder damage and be knocked prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

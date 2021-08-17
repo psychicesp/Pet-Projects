@@ -8,6 +8,7 @@
     "charisma": "7",
     "perception": "+3",
     "name": "Infant Hook Horror",
+    "HP": "4 (1d4 + 2)",
     "AC": 10,
     "speed": [
         "10 ft",
@@ -33,10 +34,6 @@
         "Keen Hearing": "The hook horror has advantage on Wisdom (Perception) checks that rely on hearing."
     },
     "actions": {},
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
-    },
     "alignment": "N",
     "size": "Tiny",
     "type": "monstrosity"

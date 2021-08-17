@@ -7,6 +7,7 @@
     "wisdom": "3 (-4)",
     "charisma": "1 (-5)",
     "name": "Animated Object (Large)",
+    "HP": "50",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -20,7 +21,6 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
     "page": 213,
     "book": "Player\u2019s Handbook",
     "traits": {
@@ -28,10 +28,6 @@
     },
     "actions": {
         "Slam": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d10 + 2) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

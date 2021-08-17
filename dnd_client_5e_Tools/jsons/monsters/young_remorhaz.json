@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "4",
     "name": "Young Remorhaz",
+    "HP": "93 (11d10 + 33)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -33,10 +34,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 20 (3d10 + 4) piercing damage plus 7 (2d6) fire damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

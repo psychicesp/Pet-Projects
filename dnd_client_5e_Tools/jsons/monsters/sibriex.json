@@ -12,6 +12,7 @@
     "history": "+13",
     "perception": "+13",
     "name": "Sibriex",
+    "HP": "150 (12d12 + 72)",
     "AC": 19,
     "speed": [
         "0 ft",

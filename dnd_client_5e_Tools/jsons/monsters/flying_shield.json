@@ -1,0 +1,46 @@
+{
+    "tags": [],
+    "strength": "12",
+    "dexterity": "15",
+    "constitution": "11",
+    "intelligence": "1",
+    "wisdom": "5",
+    "charisma": "1",
+    "name": "Flying Shield",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 5,
+    "HP": "17 (5d6)",
+    "AC": 17,
+    "speed": [
+        "0 ft",
+        "fly 50 ft. (hover)"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison, psychic"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned"
+    ],
+    "senses": [
+        "blindsight 60 ft. (blind beyond this radius)",
+        "passive Perception 7"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 224,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Antimagic Susceptibility": "The shield is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the shield must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+        "False Appearance": "While the shield remains motionless and isn't flying, it is indistinguishable from a normal shield."
+    },
+    "actions": {},
+    "alignment": "U",
+    "size": "Small",
+    "type": "construct"
+}

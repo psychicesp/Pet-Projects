@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "8",
     "name": "Sea Spawn",
+    "HP": "32 (5d8 + 10)",
     "AC": 11,
     "speed": [
         "20 ft",
@@ -31,10 +32,6 @@
         "Multiattack": "The sea spawn makes three attacks: two unarmed strikes and one with its Piscine Anatomy.",
         "Unarmed Strike": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.",
         "Piscine Anatomy": "The sea spawn has one or more of the following attack options, provided it has the appropriate anatomy:"
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

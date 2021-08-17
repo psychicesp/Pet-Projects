@@ -8,6 +8,7 @@
     "charisma": "3",
     "stealth": "+5",
     "name": "Piercer",
+    "HP": "22 (3d8 + 9)",
     "AC": 15,
     "speed": [
         "5 ft",
@@ -34,10 +35,6 @@
     },
     "actions": {
         "Drop": "Melee Weapon Attack: +3+1d4 + 1 to hit, one creature directly underneath the piercer. Hit: 3 (1d6) piercing damage per 10 feet fallen, up to 21 (6d6). Miss: The piercer takes half the normal falling damage for the distance fallen."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

@@ -7,6 +7,7 @@
     "wisdom": "17",
     "charisma": "16",
     "name": "Unicorn",
+    "HP": "67 (9d10 + 18)",
     "AC": 12,
     "speed": [
         "50 ft"

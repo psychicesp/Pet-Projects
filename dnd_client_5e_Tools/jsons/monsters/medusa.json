@@ -11,6 +11,7 @@
     "perception": "+4",
     "stealth": "+5",
     "name": "Medusa",
+    "HP": "127 (17d8 + 51)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -41,10 +42,6 @@
         "Shortsword": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
         "Longbow": "Ranged Weapon Attack: +5+1d6 + 2 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.",
         "Constrict": "Melee Weapon Attack: +3+1d6 + 0 to hit, reach 10 ft., one target. Hit: 7 (2d6) bludgeoning damage, and the target is grappled (escape DC 11+1d6 + 8). Until this grapple ends, the target is restrained, and the medusa can't constrict another target."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

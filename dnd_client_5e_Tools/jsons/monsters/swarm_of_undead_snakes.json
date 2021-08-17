@@ -2,7 +2,6 @@
     "tags": [
         "of"
     ],
-    "hit": "8d8",
     "strength": "8",
     "dexterity": "18",
     "constitution": "11",
@@ -10,6 +9,9 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Swarm of Undead Snakes",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 8,
+    "HP": "36 (8d8)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -41,10 +43,6 @@
     },
     "actions": {
         "Bites": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 0 ft., one creature in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10+1d4 + 8 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

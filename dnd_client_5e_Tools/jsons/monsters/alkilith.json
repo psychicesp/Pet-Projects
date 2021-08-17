@@ -13,6 +13,7 @@
     "constitution save": "+10",
     "stealth": "+8",
     "name": "Alkilith",
+    "HP": "157 (15d8 + 90)",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -41,7 +42,7 @@
     "languages": [
         "understands Abyssal but can't speak"
     ],
-    "CR": "variable",
+    "CR": "11 (7,200 XP)",
     "page": 130,
     "book": "Mordenkainen\u2019s Tome of Foes",
     "traits": {
@@ -53,10 +54,6 @@
     "actions": {
         "Multiattack": "The alkilith makes three tentacle attacks.",
         "Tentacle": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 15 ft., one target. Hit: 18 (4d6 + 4) acid damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

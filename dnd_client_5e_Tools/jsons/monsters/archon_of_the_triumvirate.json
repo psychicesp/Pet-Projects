@@ -13,6 +13,7 @@
     "insight": "+10",
     "perception": "+10",
     "name": "Archon of the Triumvirate",
+    "HP": "144 (17d8 + 68)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -39,7 +40,7 @@
     "languages": [
         "all"
     ],
-    "CR": "variable",
+    "CR": "14 (11,500 XP)",
     "page": 192,
     "book": "Guildmasters\u2019 Guide to Ravnica",
     "traits": {

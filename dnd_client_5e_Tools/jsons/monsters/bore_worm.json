@@ -7,6 +7,7 @@
     "wisdom": "8",
     "charisma": "4",
     "name": "Bore Worm",
+    "HP": "247 (15d20 + 90)",
     "AC": 18,
     "speed": [
         "50 ft",
@@ -43,10 +44,6 @@
         "Multiattack": "The worm makes two attacks: one with its grinding jaws and one with its stinger.",
         "Grinding Jaws": "Melee Weapon Attack: +9+1d10 + 4 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) slashing damage.",
         "Tail Stinger": "Melee Weapon Attack: +9+1d10 + 4 to hit, reach 10 ft., one creature. Hit: 19 (3d6 + 9) piercing damage, and the target must make a DC 19+1d10 + 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Gargantuan",

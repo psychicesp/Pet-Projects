@@ -1,0 +1,57 @@
+{
+    "tags": [
+        "xvart"
+    ],
+    "strength": "8",
+    "dexterity": "14",
+    "constitution": "12",
+    "intelligence": "8",
+    "wisdom": "11",
+    "charisma": "12",
+    "stealth": "+4",
+    "name": "Xvart Warlock of Raxivort",
+    "HP": "22 (5d6 + 5)",
+    "AC": 12,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "stealth": "proficient"
+    },
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Abyssal"
+    ],
+    "CR": "1 (200 XP)",
+    "page": 200,
+    "book": "Volo\\xe2\\x80\\x99s Guide to Monsters",
+    "traits": {
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "eldritch blast",
+                "mage hand",
+                "minor illusion",
+                "poison spray",
+                "prestidigitation",
+                "burning hands",
+                "expeditious retreat",
+                "invisibility",
+                "scorching ray"
+            ]
+        },
+        "Low Cunning": "The xvart can take the Disengage action as a bonus action on each of its turns.",
+        "Overbearing Pack": "The xvart has advantage on Strength (Athletics) checks to shove a creature if at least one of the xvart's allies is within 5 feet of the target and the ally isn't incapacitated.",
+        "Raxivort's Tongue": "The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats."
+    },
+    "actions": {
+        "Scimitar": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage."
+    },
+    "alignment": "CE",
+    "size": "Small",
+    "type": "humanoid"
+}

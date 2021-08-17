@@ -1,0 +1,44 @@
+{
+    "tags": [],
+    "strength": "13",
+    "dexterity": "14",
+    "constitution": "11",
+    "intelligence": "5",
+    "wisdom": "10",
+    "charisma": "4",
+    "name": "Stomping Foot",
+    "hit_dice_type": "d4",
+    "num_hit_dice": 1,
+    "HP": "2 (1d4)",
+    "AC": "",
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "condition_immunities": [
+        "charmed, exhaustion, poisoned"
+    ],
+    "senses": [
+        "blindsight 30 ft. (blind beyond this radius)",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands Common but can\\'t speak"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 92,
+    "book": "The Orrery of the Wanderer",
+    "traits": {
+        "Turn Immunity": "The foot is immune to effects that turn undead."
+    },
+    "actions": {
+        "Stomp": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage."
+    },
+    "alignment": "NE",
+    "size": "Tiny",
+    "type": "undead"
+}

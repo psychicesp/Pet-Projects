@@ -7,6 +7,7 @@
     "wisdom": "3 (-4)",
     "charisma": "1 (-5)",
     "name": "Animated Stove",
+    "HP": "50",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -20,16 +21,12 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "3 (700 XP)",
     "page": 186,
     "book": "Waterdeep: Dungeon of the Mad Mage",
     "actions": {
         "Slam": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) bludgeoning damage.",
         "Belch Fire (Recharge 4\u20136)": "The stove belches fire in a 15-foot cone. Each creature in the area must make a DC 10+1d4 + 8 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

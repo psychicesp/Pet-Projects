@@ -7,6 +7,7 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Camel",
+    "HP": "15 (2d10 + 4)",
     "AC": 9,
     "speed": [
         "50 ft"
@@ -24,10 +25,6 @@
     "book": "Monster Manual",
     "actions": {
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

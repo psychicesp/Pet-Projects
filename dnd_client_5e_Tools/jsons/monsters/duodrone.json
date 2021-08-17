@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Duodrone",
+    "HP": "11 (2d8 + 2)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -31,10 +32,6 @@
         "Multiattack": "The duodrone makes two fist attacks or two javelin attacks.",
         "Fist": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.",
         "Javelin": "Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 4 (1d6 + 1) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Medium",

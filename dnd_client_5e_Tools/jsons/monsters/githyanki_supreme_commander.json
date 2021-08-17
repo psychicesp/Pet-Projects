@@ -12,6 +12,7 @@
     "intimidation": "+9",
     "perception": "+8",
     "name": "Githyanki Supreme Commander",
+    "HP": "187 (22d8 + 88)",
     "AC": 18,
     "speed": [
         "30 ft"

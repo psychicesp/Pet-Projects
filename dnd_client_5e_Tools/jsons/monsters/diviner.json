@@ -2,7 +2,6 @@
     "tags": [
         "any"
     ],
-    "hit": "15d8",
     "strength": "9",
     "dexterity": "14",
     "constitution": "11",
@@ -12,6 +11,9 @@
     "arcana": "+7",
     "history": "+7",
     "name": "Diviner",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 15,
+    "HP": "67 (15d8)",
     "AC": 12,
     "speed": [
         "30 ft"
@@ -69,10 +71,6 @@
     },
     "actions": {
         "Quarterstaff": "Melee Weapon Attack: +2+1d6 - 1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

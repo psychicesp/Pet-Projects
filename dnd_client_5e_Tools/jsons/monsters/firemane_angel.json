@@ -9,6 +9,7 @@
     "insight": "+6",
     "perception": "+6",
     "name": "Firemane Angel",
+    "HP": "135 (18d8 + 54)",
     "AC": 18,
     "speed": [
         "40 ft",
@@ -57,10 +58,6 @@
     "actions": {
         "Multiattack": "The angel makes two melee attacks.",
         "Longsword": "Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 6) slashing damage, or 11 (1d10 + 6) slashing damage if used with two hands, plus 22 (5d8) fire or radiant damage (angel's choice)."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CG",
     "size": "Medium",

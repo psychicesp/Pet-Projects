@@ -12,6 +12,7 @@
     "intimidation": "+8",
     "perception": "+7",
     "name": "Oinoloth",
+    "HP": "126 (12d10 + 60)",
     "AC": 17,
     "speed": [
         "40 ft"
@@ -72,10 +73,6 @@
         "Corrupted Healing (Recharge 6)": "The oinoloth touches one willing creature within 5 feet of it. The target regains all its hit points. In addition, the oinoloth can end one disease on the target or remove one of the following conditions from it: blinded, deafened, paralyzed, or poisoned. The target then gains 1 level of exhaustion, and its hit point maximum is reduced by 7 (2d6). This reduction can be removed only by a wish spell or by casting greater restoration on the target three times within the same hour. The target dies if its hit point maximum is reduced to 0.",
         "Teleport": "The oinoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.",
         "Transfixing Gaze": "The oinoloth targets one creature it can see within 30 feet of it. The target must succeed on a DC 16+1d8 + 12 Wisdom saving throw against this magic or be charmed until the end of the oinoloth's next turn. While charmed in this way, the target is restrained. If the target's saving throw is successful, the target is immune to the oinoloth's gaze for the next 24 hours."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "2d4",
     "strength": "4",
     "dexterity": "15",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Homunculus",
+    "hit_dice_type": "d4",
+    "num_hit_dice": 2,
+    "HP": "5 (2d4)",
     "AC": 13,
     "speed": [
         "20 ft",
@@ -36,10 +38,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 10+1d4 + 8 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Tiny",

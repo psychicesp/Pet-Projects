@@ -7,6 +7,7 @@
     "wisdom": "6",
     "charisma": "5",
     "name": "The Wretched",
+    "HP": "10 (4d6 - 4)",
     "AC": 15,
     "speed": [
         "40 ft"
@@ -31,10 +32,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6 (1d10 + 1) piercing damage, and the Wretched attaches to the target. While attached, the Wretched can't attack, and at the start of each of the Wretched's turns, the target takes 6 (1d10 + 1) necrotic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Small",

@@ -7,6 +7,7 @@
     "wisdom": "8",
     "charisma": "7",
     "name": "Young Basilisk",
+    "HP": "22 (4d6 + 8)",
     "AC": 13,
     "speed": [
         "15 ft"
@@ -28,10 +29,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage plus 2 (1d4) poison damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

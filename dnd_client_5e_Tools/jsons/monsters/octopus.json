@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "1d6",
     "strength": "4",
     "dexterity": "15",
     "constitution": "11",
@@ -10,6 +9,9 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Octopus",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 1,
+    "HP": "3 (1d6)",
     "AC": 12,
     "speed": [
         "5 ft",
@@ -38,10 +40,6 @@
     "actions": {
         "Tentacles": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage, and the target is grappled (escape DC 10+1d4 + 8). Until this grapple ends, the octopus can't use its tentacles on another target.",
         "Ink Cloud (Recharges after a Short or Long Rest)": "A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

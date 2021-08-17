@@ -1,0 +1,60 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "10",
+    "dexterity": "10",
+    "constitution": "10",
+    "intelligence": "10",
+    "wisdom": "14",
+    "charisma": "11",
+    "medicine": "+4",
+    "perception": "+4",
+    "religion": "+2",
+    "name": "Drow Acolyte",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 2,
+    "HP": "9 (2d8)",
+    "AC": 10,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {
+        "medicine": "proficient",
+        "perception": "proficient",
+        "religion": "proficient"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 12"
+    ],
+    "languages": [
+        "any one language (usually Common)",
+        "Elvish"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 201,
+    "book": "Out of the Abyss",
+    "traits": {
+        "Fey Ancestry": "The drow acolyte has advantage on saving throws against being charmed, and magic can't put the drow acolyte to sleep.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "light",
+                "sacred flame",
+                "thaumaturgy",
+                "bless",
+                "cure wounds",
+                "sanctuary"
+            ]
+        },
+        "Sunlight Sensitivity": "While in sunlight, the drow acolyte has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
+    "actions": {
+        "Club": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage."
+    },
+    "alignment": "AA",
+    "size": "Medium",
+    "type": "humanoid"
+}

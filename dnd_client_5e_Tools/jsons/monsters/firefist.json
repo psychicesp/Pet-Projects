@@ -11,6 +11,7 @@
     "intimidation": "+4",
     "religion": "+3",
     "name": "Firefist",
+    "HP": "117 (18d8 + 36)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -59,10 +60,6 @@
     "actions": {
         "Multiattack": "The firefist makes two greatsword attacks.",
         "Greatsword": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LG",
     "size": "Medium",

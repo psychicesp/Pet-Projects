@@ -11,6 +11,7 @@
     "acrobatics": "+7",
     "performance": "+4",
     "name": "Rakdos Performer, Fire Eater",
+    "HP": "22 (4d8 + 4)",
     "AC": 13,
     "speed": [
         "40 ft",
@@ -40,10 +41,6 @@
         "Multiattack": "The fire eater makes two attacks with its bladed chain.",
         "Bladed Chain": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
         "Spew Flame (Recharge 4xe2x80x936)": "The fire eater exhales flames. Each creature in a 15-foot cone must make a DC 13+1d4 + 11 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

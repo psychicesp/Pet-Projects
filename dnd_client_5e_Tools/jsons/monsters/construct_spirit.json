@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "5",
     "name": "Construct Spirit",
+    "HP": "40 + 15 for each spell level above 3rd",
     "AC": "",
     "speed": [
         "30 ft"
@@ -26,7 +27,6 @@
     "languages": [
         "understands the languages you speak"
     ],
-    "CR": "variable",
     "page": 111,
     "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
     "traits": {
@@ -36,10 +36,6 @@
     "actions": {
         "Multiattack": "The construct makes a number of attacks equal to half this spell's level (rounded down).",
         "Slam": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d8 + 4 + the spell's level bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

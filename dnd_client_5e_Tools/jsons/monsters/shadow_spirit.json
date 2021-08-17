@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "16",
     "name": "Shadow Spirit",
+    "HP": "35 + 15 for each spell level above 3rd",
     "AC": 11,
     "speed": [
         "40 ft"
@@ -26,7 +27,6 @@
     "languages": [
         "understands the languages you speak"
     ],
-    "CR": "variable",
     "page": 114,
     "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
     "traits": {
@@ -37,10 +37,6 @@
         "Multiattack": "The spirit makes a number of attacks equal to half this spell's level (rounded down).",
         "Chilling Rend": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target. Hit: 1d12 + 3 + the spell's level cold damage.",
         "Dreadful Scream (1/Day)": "The spirit screams. Each creature within 30 feet of it must succeed on a Wisdom saving throw against your spell save DC or be frightened for 1 minute. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

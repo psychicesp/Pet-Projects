@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "2d6",
     "strength": "14",
     "dexterity": "14",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "6",
     "charisma": "1",
     "name": "Knucklehead Trout",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 2,
+    "HP": "7 (2d6)",
     "AC": 12,
     "speed": [
         "0 ft",
@@ -31,10 +33,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
         "Tail": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

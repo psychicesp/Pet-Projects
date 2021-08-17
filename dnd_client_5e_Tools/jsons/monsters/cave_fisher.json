@@ -9,6 +9,7 @@
     "perception": "+2",
     "stealth": "+5",
     "name": "Cave Fisher",
+    "HP": "58 (9d8 + 18)",
     "AC": 16,
     "speed": [
         "20 ft",
@@ -38,10 +39,6 @@
         "Multiattack": "The cave fisher makes two attacks with its claws.",
         "Claw": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.",
         "Filament": "One creature grappled by the cave fisher's adhesive filament must make a DC 13+1d4 + 11 Strength saving throw, provided that the target weighs 200 pounds or less. On a failure, the target is pulled into an unoccupied space within 5 feet of the cave fisher, and the cave fisher makes a claw attack against it as a bonus action. Reeling up the target releases anyone else who was attached to the filament. Until the grapple ends on the target, the cave fisher can't extrude another filament."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

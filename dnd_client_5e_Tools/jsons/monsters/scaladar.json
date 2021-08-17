@@ -7,6 +7,7 @@
     "wisdom": "12",
     "charisma": "1",
     "name": "Scaladar",
+    "HP": "94 (7d12 + 49)",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -42,10 +43,6 @@
         "Multiattack": "The scaladar makes three attacks: two with its claws and one with its sting.",
         "Claw": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one target. Hit: 10 (1d12 + 4) bludgeoning damage, and the target is grappled (escape DC 15+1d6 + 12). The scaladar has two claws, each of which can grapple one target.",
         "Sting": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 11 (2d10) lightning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

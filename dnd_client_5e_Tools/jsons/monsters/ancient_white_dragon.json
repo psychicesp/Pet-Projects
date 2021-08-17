@@ -14,6 +14,7 @@
     "perception": "+13",
     "stealth": "+6",
     "name": "Ancient White Dragon",
+    "HP": "333 (18d20 + 144)",
     "AC": 20,
     "speed": [
         "40 ft",
@@ -43,7 +44,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "20 (25,000 XP)",
     "page": 100,
     "book": "Monster Manual",
     "traits": {

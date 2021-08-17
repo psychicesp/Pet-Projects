@@ -10,6 +10,7 @@
     "charisma": "12",
     "perception": "+7",
     "name": "Werebear",
+    "HP": "135 (18d8 + 54)",
     "AC": 10,
     "speed": [
         "30 ft. (40 ft",
@@ -40,10 +41,6 @@
         "Bite (Bear or Hybrid Form Only)": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14+1d6 + 11 Constitution saving throw or be cursed with were bear lycanthropy.",
         "Claw (Bear or Hybrid Form Only)": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
         "Greataxe (Humanoid or Hybrid Form Only)": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 10 (1d12 + 4) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "S",
     "size": "Medium",

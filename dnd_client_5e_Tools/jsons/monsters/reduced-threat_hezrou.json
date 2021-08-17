@@ -1,0 +1,56 @@
+{
+    "tags": [
+        "demon"
+    ],
+    "strength": "19",
+    "dexterity": "17",
+    "constitution": "20",
+    "intelligence": "5",
+    "wisdom": "12",
+    "charisma": "13",
+    "name": "Reduced-Threat Hezrou",
+    "HP": "68 (13d10 + 65)",
+    "AC": 16,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "strength": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {},
+    "damage_immunities": [
+        "poison"
+    ],
+    "resistances": [
+        "cold, fire, lightning",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "poisoned"
+    ],
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 11"
+    ],
+    "languages": [
+        "Abyssal",
+        "telepathy 120 ft."
+    ],
+    "CR": "8 (1,950 XP)",
+    "page": 113,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Magic Resistance": "The hezrou has advantage on saving throws against spells and other magical effects.",
+        "Stench": "Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 12+1d6 + 9 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours."
+    },
+    "actions": {
+        "Multiattack": "The hezrou makes three attacks: one with its bite and two with its claws.",
+        "Bite": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.",
+        "Claws": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
+    },
+    "alignment": "CE",
+    "size": "Large",
+    "type": "fiend"
+}

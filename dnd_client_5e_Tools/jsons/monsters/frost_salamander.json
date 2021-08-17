@@ -8,6 +8,7 @@
     "charisma": "7",
     "perception": "+4",
     "name": "Frost Salamander",
+    "HP": "168 (16d12 + 64)",
     "AC": 17,
     "speed": [
         "60 ft",
@@ -43,10 +44,6 @@
         "Claws": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 10 ft., one target. Hit: 8 (1d6 + 5) piercing damage.",
         "Bite": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 15 ft., one target. Hit: 9 (1d8 + 5) piercing damage and 5 (1d10) cold damage.",
         "Freezing Breath (Recharge 6)": "The salamander exhales chill wind in a 60-foot cone. Each creature in that area must make a DC 17+1d8 + 13 Constitution saving throw, taking 44 (8d10) cold damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Huge",

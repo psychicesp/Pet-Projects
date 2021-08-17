@@ -7,6 +7,7 @@
     "wisdom": "13",
     "charisma": "10",
     "name": "Nyx-Fleece Ram",
+    "HP": "27 (5d8 + 5)",
     "AC": 14,
     "speed": [
         "40 ft"
@@ -29,10 +30,6 @@
     },
     "actions": {
         "Ram": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) bludgeoning damage plus 3 (1d6) force damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

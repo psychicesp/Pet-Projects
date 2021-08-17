@@ -11,6 +11,7 @@
     "intimidation": "+1",
     "perception": "+2",
     "name": "Black Earth Guard",
+    "HP": "39 (6d8 + 12)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -32,10 +33,6 @@
     "actions": {
         "Multiattack": "The guard makes two melee attacks.",
         "Morningstar": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

@@ -9,6 +9,7 @@
     "acrobatics": "+2",
     "perception": "+4",
     "name": "Clockwork Dragon",
+    "HP": "22 (4d8 + 4)",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -43,10 +44,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage.",
         "Fire Breath (Recharge 5xe2x80x936)": "The clockwork dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 11+1d4 + 9 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "N",
     "size": "Medium",

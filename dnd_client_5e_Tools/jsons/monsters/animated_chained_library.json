@@ -8,6 +8,7 @@
     "wisdom": "5 (-3)",
     "charisma": "1 (-5)",
     "name": "Animated Chained Library",
+    "HP": "45 (6d10 + 12)",
     "AC": 14,
     "speed": [
         "10 ft"
@@ -27,7 +28,7 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "1 (200 XP)",
     "page": 24,
     "book": "Candlekeep Mysteries",
     "traits": {
@@ -36,10 +37,6 @@
     "actions": {
         "Multiattack": "The library makes two attacks.",
         "Chained Book": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage, and if the target is a creature, it is grappled (escape DC 12+1d4 + 10)."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

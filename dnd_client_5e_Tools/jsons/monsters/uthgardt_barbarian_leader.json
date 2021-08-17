@@ -9,6 +9,7 @@
     "wisdom": "11",
     "charisma": "9",
     "name": "Uthgardt Barbarian Leader",
+    "HP": "67 (9d8 + 27)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -32,10 +33,6 @@
     "actions": {
         "Greataxe": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.",
         "Oathbow": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage, plus an extra 10 (3d6) piercing damage against a sworn enemy See the oathbow entry for the other properties."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

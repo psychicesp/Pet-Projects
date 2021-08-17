@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "9",
+    "dexterity": "9",
+    "constitution": "10",
+    "intelligence": "6",
+    "wisdom": "10",
+    "charisma": "2",
+    "name": "Larva",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 2,
+    "HP": "9 (2d8)",
+    "AC": 9,
+    "speed": [
+        "20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "understands the languages it knew in life but can\\'t speak"
+    ],
+    "CR": "0 (0 or 10 XP)",
+    "page": 63,
+    "book": "Dungeon Master\\xe2\\x80\\x99s Guide",
+    "actions": {
+        "Bite": "Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 1 (1d4 - 1) piercing damage."
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "fiend"
+}

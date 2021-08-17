@@ -7,6 +7,7 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Minotaur Skeleton",
+    "HP": "67 (9d10 + 18)",
     "AC": 12,
     "speed": [
         "40 ft"
@@ -35,10 +36,6 @@
     "actions": {
         "Greataxe": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.",
         "Gore": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

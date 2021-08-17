@@ -11,6 +11,7 @@
     "insight": "+9",
     "perception": "+9",
     "name": "Lich",
+    "HP": "135 (18d8 + 54)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -43,7 +44,7 @@
     "languages": [
         "Common plus up to five other languages"
     ],
-    "CR": "21 (33,000 XP) or 22 (41,000 XP) when encountered in\n                lair",
+    "CR": "21 (33,000 XP) or 22 (41,000 XP) whe ecoutered i lair",
     "page": 202,
     "book": "Monster Manual",
     "traits": {

@@ -2,7 +2,6 @@
     "tags": [
         "goblinoid"
     ],
-    "hit": "6d6",
     "strength": "10",
     "dexterity": "14",
     "constitution": "10",
@@ -11,6 +10,9 @@
     "charisma": "10",
     "stealth": "+6",
     "name": "Goblin Boss",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 6,
+    "HP": "21 (6d6)",
     "AC": 17,
     "speed": [
         "30 ft"
@@ -37,10 +39,6 @@
         "Multiattack": "The goblin makes two attacks with its scimitar. The second attack has disadvantage.",
         "Scimitar": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.",
         "Javelin": "Melee or Ranged Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 3 (1d6) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Small",

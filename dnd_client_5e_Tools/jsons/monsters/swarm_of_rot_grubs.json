@@ -2,7 +2,6 @@
     "tags": [
         "of"
     ],
-    "hit": "5d8",
     "strength": "2",
     "dexterity": "7",
     "constitution": "10",
@@ -10,6 +9,9 @@
     "wisdom": "2",
     "charisma": "1",
     "name": "Swarm of Rot Grubs",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 5,
+    "HP": "22 (5d8)",
     "AC": 8,
     "speed": [
         "5 ft",
@@ -38,10 +40,6 @@
     },
     "actions": {
         "Bites": "Melee Weapon Attack: +0+1d4 - 2 to hit, reach 0 ft., one creature in the swarm's space. Hit: The target is infested by 1d4 rot grubs. At the start of each of the target's turns, the target takes 1d6 piercing damage per rot grub infesting it. Applying fire to the bite wound before the end of the target's next turn deals 1 fire damage to the target and kills these rot grubs. After this time, these rot grubs are too far under the skin to be burned. If a target infested by rot grubs ends its turn with 0 hit points, it dies as the rot grubs burrow into its heart and kill it. Any effect that cures disease kills all rot grubs infesting the target."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

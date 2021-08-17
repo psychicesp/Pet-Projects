@@ -9,6 +9,7 @@
     "perception": "+2",
     "stealth": "+4",
     "name": "Giant Sea Eel",
+    "HP": "19 (3d10 + 3)",
     "AC": 14,
     "speed": [
         "0 ft",
@@ -36,10 +37,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 13 (2d10 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

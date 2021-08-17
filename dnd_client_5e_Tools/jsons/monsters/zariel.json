@@ -11,6 +11,7 @@
     "intimidation": "+18",
     "perception": "+16",
     "name": "Zariel",
+    "HP": "580 (40d10 + 360)",
     "AC": 21,
     "speed": [
         "50 ft",

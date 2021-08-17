@@ -8,6 +8,7 @@
     "charisma": "4",
     "perception": "+3",
     "name": "Vulture",
+    "HP": "5 (1d8 + 1)",
     "AC": 10,
     "speed": [
         "10 ft",
@@ -32,10 +33,6 @@
     },
     "actions": {
         "Beak": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 2 (1d4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

@@ -9,6 +9,7 @@
     "wisdom": "10",
     "charisma": "6",
     "name": "Dancing Item",
+    "HP": "10 + five times your bard level",
     "AC": 16,
     "speed": [
         "30 ft",
@@ -29,7 +30,6 @@
     "languages": [
         "understands the languages you speak"
     ],
-    "CR": "variable",
     "page": 29,
     "book": "Tasha\\xe2\\x80\\x99s Cauldron of Everything",
     "traits": {
@@ -38,10 +38,6 @@
     },
     "actions": {
         "Force-Empowered Slam": "Melee Weapon Attack: your spell attack modifier to hit, reach 5 ft., one target you can see. Hit: 1d10 + PB force damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

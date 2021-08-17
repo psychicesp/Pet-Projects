@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "2d8",
     "strength": "10",
     "dexterity": "12",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "12",
     "charisma": "5",
     "name": "Seal",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 2,
+    "HP": "9 (2d8)",
     "AC": 11,
     "speed": [
         "20 ft",
@@ -31,10 +33,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 1 piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

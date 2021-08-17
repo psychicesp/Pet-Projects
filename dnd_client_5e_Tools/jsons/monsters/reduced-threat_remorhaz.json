@@ -1,0 +1,42 @@
+{
+    "tags": [],
+    "strength": "24",
+    "dexterity": "13",
+    "constitution": "21",
+    "intelligence": "4",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Reduced-Threat Remorhaz",
+    "HP": "97 (17d12 + 85)",
+    "AC": 17,
+    "speed": [
+        "30 ft",
+        "burrow 20 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "damage_immunities": [
+        "cold, fire"
+    ],
+    "senses": [
+        "darkvision 60 ft.",
+        "tremorsense 60 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "11 (3,600 XP)",
+    "page": 113,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Heated Body": "A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage."
+    },
+    "actions": {
+        "Bite": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 10 ft., one target. Hit: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 15+1d8 + 11). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.",
+        "Swallow": "The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns."
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "monstrosity"
+}

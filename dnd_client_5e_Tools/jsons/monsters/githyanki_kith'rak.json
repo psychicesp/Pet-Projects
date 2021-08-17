@@ -11,6 +11,7 @@
     "intimidation": "+7",
     "perception": "+6",
     "name": "Githyanki Kith\\'rak",
+    "HP": "180 (24d8 + 72)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -51,10 +52,6 @@
     "actions": {
         "Multiattack": "The githyanki makes three greatsword attacks.",
         "Greatsword": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage plus 17 (5d6) psychic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

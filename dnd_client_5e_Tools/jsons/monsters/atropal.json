@@ -12,6 +12,7 @@
     "constitution save": "+11",
     "wisdom save": "+9",
     "name": "Atropal",
+    "HP": "225 (18d12 + 108)",
     "AC": 7,
     "speed": [
         "0 ft",
@@ -37,7 +38,7 @@
     "languages": [
         "understands Celestial but utters only obscene nonsense"
     ],
-    "CR": "variable",
+    "CR": "13 (10,000 XP)",
     "page": 214,
     "book": "Tomb of Annihilation",
     "traits": {

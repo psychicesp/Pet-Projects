@@ -10,6 +10,7 @@
     "insight": "+11",
     "perception": "+11",
     "name": "Niv-Mizzet",
+    "HP": "370 (19d20 + 171)",
     "AC": 22,
     "speed": [
         "40 ft",

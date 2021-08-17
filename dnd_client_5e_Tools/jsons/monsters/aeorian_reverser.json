@@ -13,6 +13,7 @@
     "stealth": "+6",
     "survival": "+5",
     "name": "Aeorian Reverser",
+    "HP": "133 (14d10 + 56)",
     "AC": 15,
     "speed": [
         "40 ft",
@@ -37,7 +38,7 @@
     "languages": [
         "understands Draconic but can't speak"
     ],
-    "CR": "variable",
+    "CR": "8 (3,900 XP)",
     "page": 284,
     "book": "Explorer\u2019s Guide to Wildemount",
     "traits": {
@@ -47,10 +48,6 @@
         "Multiattack": "The reverser makes three attacks: one with its bite and two with its claws.",
         "Bite": "Melee Weapon Attack: +8+1d6 + 5 to hit, range 5 ft., one creature. Hit: 11 (1d12 + 5) piercing damage plus 6 (1d12) force damage.",
         "Claws": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 5) slashing damage plus 7 (2d6) force damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Large",

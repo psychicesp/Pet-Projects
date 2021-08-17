@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "1d6",
     "strength": "12",
     "dexterity": "10",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Sheep",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 1,
+    "HP": "3 (1d6)",
     "AC": 10,
     "speed": [
         "30 ft"
@@ -27,10 +29,6 @@
         "Sure-Footed": "The sheep has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
     },
     "actions": {},
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
-    },
     "alignment": "U",
     "size": "Small",
     "type": "beast"

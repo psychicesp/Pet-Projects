@@ -10,6 +10,7 @@
     "perception": "+5",
     "survival": "+5",
     "name": "Setessan Hoplite",
+    "HP": "58 (9d8 + 18)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -39,10 +40,6 @@
         "Multiattack": "The hoplite makes two scimitar attacks or two longbow attacks.",
         "Scimitar": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage plus 10 (3d6) poison damage.",
         "Longbow": "Ranged Weapon Attack: +5+1d4 + 3 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 10 (3d6) poison damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

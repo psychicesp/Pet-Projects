@@ -9,6 +9,7 @@
     "history": "+5",
     "religion": "+5",
     "name": "Mummy Lord",
+    "HP": "97 (13d8 + 39)",
     "AC": 17,
     "speed": [
         "20 ft"
@@ -37,7 +38,7 @@
     "languages": [
         "the languages it knew in life"
     ],
-    "CR": "15 (13,000 XP) or 16 (15,000 XP) when encountered in lair",
+    "CR": "15 (13,000 XP) or 16 (15,000 XP) whe ecoutered i lair",
     "page": 229,
     "book": "Monster Manual",
     "traits": {

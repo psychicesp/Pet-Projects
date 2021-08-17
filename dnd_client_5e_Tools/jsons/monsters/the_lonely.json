@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "6",
     "name": "The Lonely",
+    "HP": "112 (15d8 + 45)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -34,10 +35,6 @@
         "Multiattack": "The Lonely makes one harpoon arm attack and uses Sorrowful Embrace.",
         "Harpoon Arm": "Melee Weapon Attack: +7+1d8 + 3 to hit, reach 60 ft., one target. Hit: 21 (4d8 + 3) piercing damage, and the target is grappled (escape DC 15+1d8 + 11) if it is a Large or smaller creature.",
         "Sorrowful Embrace": "Each creature grappled by the Lonely must make a DC 15+1d8 + 11 Wisdom saving throw. A creature takes 18 (4d8) psychic damage on a failed save, or half as much damage on a successful one. In either case, the Lonely pulls each creature grappled by it up to 30 feet straight toward it."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

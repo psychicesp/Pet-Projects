@@ -9,6 +9,7 @@
     "wisdom": "15",
     "charisma": "17",
     "name": "Juvenile Kraken",
+    "HP": "207 (18d12 + 90)",
     "AC": 16,
     "speed": [
         "20 ft",

@@ -10,6 +10,7 @@
     "athletics": "+2",
     "stealth": "+5",
     "name": "Returned Kakomantis",
+    "HP": "65 (10d8 + 20)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -46,10 +47,6 @@
     "actions": {
         "Shortsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 10 (3d6) poison damage.",
         "Underworld Bolt": "Ranged Spell Attack: +4+1d4 + 2 to hit, range 120 ft., one creature. Hit: 13 (2d8 + 2) necrotic damage, and the target can't regain hit points until the start of the Returned's next turn. If the target is missing any of its hit points, it instead takes 17 (2d12 + 2) necrotic damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

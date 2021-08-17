@@ -11,6 +11,7 @@
     "athletics": "+7",
     "stealth": "+7",
     "name": "Dark Tide Knight",
+    "HP": "58 (9d8 + 18)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -37,10 +38,6 @@
         "Multiattack": "The knight makes two shortsword attacks.",
         "Shortsword": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
         "Lance": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft., one target. Hit: 9 (1d12 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

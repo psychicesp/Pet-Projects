@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "10",
     "name": "Magmin",
+    "HP": "9 (2d6 + 2)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -35,10 +36,6 @@
     },
     "actions": {
         "Touch": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Small",

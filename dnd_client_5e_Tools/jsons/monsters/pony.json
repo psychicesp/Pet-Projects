@@ -1,0 +1,32 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "10",
+    "constitution": "13",
+    "intelligence": "2",
+    "wisdom": "11",
+    "charisma": "7",
+    "name": "Pony",
+    "HP": "11 (2d8 + 2)",
+    "AC": 10,
+    "speed": [
+        "40 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/8 (25 XP)",
+    "page": 335,
+    "book": "Monster Manual",
+    "actions": {
+        "Hooves": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage."
+    },
+    "alignment": "U",
+    "size": "Medium",
+    "type": "beast"
+}

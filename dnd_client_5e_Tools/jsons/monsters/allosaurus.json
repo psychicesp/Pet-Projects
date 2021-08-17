@@ -9,6 +9,7 @@
     "charisma": "5 (-3)",
     "perception": "+5",
     "name": "Allosaurus",
+    "HP": "51 (6d10 + 18)",
     "AC": 13,
     "speed": [
         "60 ft"
@@ -23,7 +24,7 @@
     "languages": [
         "\u2014"
     ],
-    "CR": "variable",
+    "CR": "2 (450 XP)",
     "page": 79,
     "book": "Monster Manual",
     "traits": {
@@ -32,10 +33,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.",
         "Claw": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

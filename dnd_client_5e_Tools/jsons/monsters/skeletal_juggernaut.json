@@ -7,6 +7,7 @@
     "wisdom": "8",
     "charisma": "5",
     "name": "Skeletal Juggernaut",
+    "HP": "142 (19d10 + 38)",
     "AC": 13,
     "speed": [
         "30 ft"
@@ -37,10 +38,6 @@
         "Multiattack": "The juggernaut makes two claws attacks.",
         "Claws": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 10 ft., one target. Hit: 12 (2d8 + 3) slashing damage.",
         "Avalanche of Bones (Recharge 5xe2x80x936)": "The juggernaut collapses into a large heap before quickly reforming. Each creature within 10 feet of the juggernaut must make a DC 14+1d6 + 11 Dexterity saving throw, taking 18 (4d8) bludgeoning damage on a failed save, or half as much damage on a successful one. A creature that fails this saving throw is also knocked prone."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

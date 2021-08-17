@@ -7,6 +7,7 @@
     "wisdom": "11",
     "charisma": "1",
     "name": "Gearkeeper Construct",
+    "HP": "161 (17d10 + 68)",
     "AC": 18,
     "speed": [
         "60 ft"
@@ -42,10 +43,6 @@
         "Arm Blade": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 18 (3d8 + 5) slashing damage.",
         "Spear Launcher": "Ranged Weapon Attack: +9+1d8 + 5 to hit, range 90 ft., one target. Hit: 12 (2d6 + 5) piercing damage, and the target is knocked prone.",
         "Shrapnel Blast (Recharge 6)": "The gearkeeper jettisons a spray of jagged metal in a 30-foot cone. Each creature in the area must make a DC 15+1d8 + 11 Dexterity saving throw, taking 21 (6d6) piercing damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

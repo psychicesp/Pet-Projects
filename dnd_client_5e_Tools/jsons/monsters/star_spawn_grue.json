@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "5d6",
     "strength": "6",
     "dexterity": "13",
     "constitution": "10",
@@ -8,6 +7,9 @@
     "wisdom": "11",
     "charisma": "6",
     "name": "Star Spawn Grue",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 5,
+    "HP": "17 (5d6)",
     "AC": 11,
     "speed": [
         "30 ft"
@@ -32,10 +34,6 @@
     },
     "actions": {
         "Confounding Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) piercing damage, and the target must succeed on a DC 10+1d4 + 8 Wisdom saving throw or attack rolls against it have advantage until the start of the grue's next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Small",

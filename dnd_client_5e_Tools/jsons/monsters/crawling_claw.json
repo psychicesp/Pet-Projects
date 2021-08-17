@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "1d4",
     "strength": "13",
     "dexterity": "14",
     "constitution": "11",
@@ -8,6 +7,9 @@
     "wisdom": "10",
     "charisma": "4",
     "name": "Crawling Claw",
+    "hit_dice_type": "d4",
+    "num_hit_dice": 1,
+    "HP": "2 (1d4)",
     "AC": 12,
     "speed": [
         "20 ft",
@@ -36,10 +38,6 @@
     },
     "actions": {
         "Claw": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning or slashing damage (claw's choice)."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Tiny",

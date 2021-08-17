@@ -12,6 +12,7 @@
     "intimidation": "+12",
     "persuasion": "+12",
     "name": "Elder Brain",
+    "HP": "210 (20d10 + 100)",
     "AC": 10,
     "speed": [
         "5 ft",

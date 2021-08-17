@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "7",
     "name": "Brontosaurus",
+    "HP": "121 (9d20 + 27)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -27,10 +28,6 @@
     "actions": {
         "Stomp": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 20 ft., one target. Hit: 27 (5d8 + 5) bludgeoning damage, and the target must succeed on a DC 14+1d6 + 11 Strength saving throw or be knocked prone.",
         "Tail": "Melee Weapon Attack: +8+1d6 + 5 to hit, reach 20 ft., one target. Hit: 32 (6d8 + 5) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Gargantuan",

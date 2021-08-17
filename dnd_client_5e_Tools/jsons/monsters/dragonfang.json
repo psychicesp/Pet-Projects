@@ -11,6 +11,7 @@
     "deception": "+5",
     "stealth": "+6",
     "name": "Dragonfang",
+    "HP": "78 (12d8 + 24)",
     "AC": 15,
     "speed": [
         "30 ft"
@@ -46,10 +47,6 @@
         "Multiattack": "The Dragonfang attacks twice with its shortsword.",
         "Shortsword": "Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) damage of the type to which the dragonfang has resistance.",
         "Orb of Dragon's Breath (2/Day)": "Ranged Spell Attack: +5+1d6 + 2 to hit, range 50 ft., one target. Hit: 22 (5d8) damage of the type to which the dragonfang has damage resistance."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

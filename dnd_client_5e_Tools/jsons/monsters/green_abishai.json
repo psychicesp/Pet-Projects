@@ -13,6 +13,7 @@
     "perception": "+6",
     "persuasion": "+9",
     "name": "Green Abishai",
+    "HP": "187 (25d8 + 75)",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -72,10 +73,6 @@
         "Multiattack": "The abishai makes two attacks, one with its claws and one with its longsword, or it casts one spell from its Innate Spellcasting trait and makes one claw attack.",
         "Longsword": "Melee Weapon Attack: +6+1d10 + 1 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.",
         "Claws": "Melee Weapon Attack: +8+1d10 + 3 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage. If the target is a creature, it must succeed on a DC 16+1d10 + 11 Constitution saving throw or take 11 (2d10) poison damage and become poisoned for 1 minute. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

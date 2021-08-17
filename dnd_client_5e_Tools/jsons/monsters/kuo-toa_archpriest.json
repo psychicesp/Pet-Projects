@@ -11,6 +11,7 @@
     "perception": "+9",
     "religion": "+7",
     "name": "Kuo-toa Archpriest",
+    "HP": "97 (13d8 + 39)",
     "AC": 13,
     "speed": [
         "30 ft",
@@ -61,10 +62,6 @@
         "Multiattack": "The kuo-toa makes two melee attacks.",
         "Scepter": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 14 (4d6) lightning damage.",
         "Unarmed Strike": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

@@ -9,6 +9,7 @@
     "wisdom": "14",
     "charisma": "18",
     "name": "Erinyes",
+    "HP": "153 (18d8 + 72)",
     "AC": 18,
     "speed": [
         "30 ft",
@@ -50,10 +51,6 @@
         "Multiattack": "The erinyes makes three attacks.",
         "Longsword": "Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.",
         "Longbow": "Ranged Weapon Attack: +7+1d8 + 3 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14+1d8 + 10 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

@@ -1,0 +1,34 @@
+{
+    "tags": [],
+    "strength": "15",
+    "dexterity": "12",
+    "constitution": "13",
+    "intelligence": "2",
+    "wisdom": "10",
+    "charisma": "5",
+    "name": "Giant Lizard",
+    "HP": "19 (3d10 + 3)",
+    "AC": 12,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {},
+    "skills": {},
+    "senses": [
+        "darkvision 30 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "\\xe2\\x80\\x94"
+    ],
+    "CR": "1/4 (50 XP)",
+    "page": 326,
+    "book": "Monster Manual",
+    "actions": {
+        "Bite": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
+    },
+    "alignment": "U",
+    "size": "Large",
+    "type": "beast"
+}

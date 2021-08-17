@@ -8,6 +8,7 @@
     "charisma": "6",
     "perception": "+4",
     "name": "Falcon",
+    "HP": "1 (1d4 - 1)",
     "AC": 13,
     "speed": [
         "10 ft",
@@ -31,10 +32,6 @@
     },
     "actions": {
         "Talons": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 1 slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Tiny",

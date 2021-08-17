@@ -16,6 +16,7 @@
     "perception": "+11",
     "stealth": "+5",
     "name": "Adult Silver Dragon",
+    "HP": "243 (18d12 + 126)",
     "AC": 19,
     "speed": [
         "40 ft",
@@ -45,7 +46,7 @@
         "Common",
         "Draconic"
     ],
-    "CR": "variable",
+    "CR": "16 (15,000 XP)",
     "page": 117,
     "book": "Monster Manual",
     "traits": {

@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "2d8",
     "strength": "11",
     "dexterity": "16",
     "constitution": "10",
@@ -10,6 +9,9 @@
     "perception": "+3",
     "stealth": "+5",
     "name": "Giant Weasel",
+    "hit_dice_type": "d8",
+    "num_hit_dice": 2,
+    "HP": "9 (2d8)",
     "AC": 13,
     "speed": [
         "40 ft"
@@ -34,10 +36,6 @@
     },
     "actions": {
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

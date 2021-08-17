@@ -12,6 +12,7 @@
     "acrobatics": "+6",
     "perception": "+5",
     "name": "Archer",
+    "HP": "75 (10d8 + 30)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -27,7 +28,7 @@
     "languages": [
         "any one language (usually Common)"
     ],
-    "CR": "variable",
+    "CR": "3 (700 XP)",
     "page": 210,
     "book": "Volo\u2019s Guide to Monsters",
     "traits": {
@@ -37,10 +38,6 @@
         "Multiattack": "The archer makes two attacks with its longbow.",
         "Shortsword": "Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.",
         "Longbow": "Ranged Weapon Attack: +6+1d4 + 4 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

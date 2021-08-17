@@ -1,0 +1,61 @@
+{
+    "tags": [
+        "elf"
+    ],
+    "strength": "13",
+    "dexterity": "18",
+    "constitution": "14",
+    "intelligence": "11",
+    "wisdom": "13",
+    "charisma": "12",
+    "perception": "+4",
+    "stealth": "+10",
+    "name": "Drow Commander",
+    "HP": "110 (11d8 + 22)",
+    "AC": 18,
+    "speed": [
+        "30 ft"
+    ],
+    "saving_throws": {
+        "dexterity": "proficient",
+        "constitution": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "perception": "proficient",
+        "stealth": "expert"
+    },
+    "senses": [
+        "darkvision 120 ft.",
+        "passive Perception 14"
+    ],
+    "languages": [
+        "Elvish",
+        "Undercommon"
+    ],
+    "CR": "5 (1,800 XP)",
+    "page": 209,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Special Equipment": "The drow carries three magical bolts, as follows:",
+        "Fey Ancestry": "The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.",
+        "spellcasting": {
+            "type": "innate",
+            "spells": [
+                "dancing lights",
+                "darkness",
+                "faerie fire",
+                "levitate"
+            ]
+        },
+        "Sunlight Sensitivity": "While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+    },
+    "actions": {
+        "Multiattack": "The drow makes two shortsword attacks.",
+        "Shortsword +2": "Melee Weapon Attack: +9+1d6 + 6 to hit, reach 5 ft., one target. Hit: 9 (1d6 + 6) piercing damage plus 10 (3d6) poison damage.",
+        "Hand Crossbow +1": "Ranged Weapon Attack: +8+1d6 + 5 to hit, range 30/120 ft., one target. Hit: 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake."
+    },
+    "alignment": "NE",
+    "size": "Medium",
+    "type": "humanoid"
+}

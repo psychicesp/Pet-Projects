@@ -1,6 +1,5 @@
 {
     "tags": [],
-    "hit": "3d6",
     "strength": "4",
     "dexterity": "7",
     "constitution": "10",
@@ -8,6 +7,9 @@
     "wisdom": "10",
     "charisma": "3",
     "name": "Gnome Squidling",
+    "hit_dice_type": "d6",
+    "num_hit_dice": 3,
+    "HP": "10 (3d6)",
     "AC": 8,
     "speed": [
         "15 ft"
@@ -38,10 +40,6 @@
         "Tentacles": "Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one creature. Hit: 5 (2d4) psychic damage. If the target is Medium or smaller, it is grappled (escape DC 7+1d4 + 5) and must succeed on a DC 7+1d4 + 5 Intelligence saving throw or be stunned until this grapple ends.",
         "Extract Brain": "Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one incapacitated creature grappled by the squidling. Hit: 27 (5d10) piercing damage. If this damage reduces the target to 0 hit points, the squidling kills the target by extracting and devouring its brain.",
         "Mind Tickle (Recharge 5xe2x80x936)": "The squidling magically emits psychic energy in a 30-foot cone. Each creature in that area must succeed on a DC 7+1d4 + 5 Intelligence saving throw or take 2 (1d4) psychic damage and be stunned until the end of its next turn."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Small",

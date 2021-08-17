@@ -10,6 +10,7 @@
     "charisma": "10",
     "stealth": "+3",
     "name": "Juvenile Mimic",
+    "HP": "7 (2d4 + 2)",
     "AC": 11,
     "speed": [
         "10 ft",
@@ -44,10 +45,6 @@
     "actions": {
         "Bite": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 1 piercing damage plus 2 (1d4) acid damage.",
         "Shape-Shift": "The mimic polymorphs into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Tiny",

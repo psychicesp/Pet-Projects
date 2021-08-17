@@ -19,6 +19,7 @@
     "perception": "+7",
     "40% summoning chance": "40 percent",
     "name": "Arcanaloth",
+    "HP": "104 (16d8 + 32)",
     "AC": 17,
     "speed": [
         "30 ft",
@@ -54,13 +55,12 @@
         "all",
         "telepathy 120 ft."
     ],
-    "CR": "variable",
+    "CR": "12 (8,400 XP)",
     "page": 313,
     "book": "Monster Manual",
     "traits": {
         "spellcasting": {
-            "level": 16,
-            "type": "wizard",
+            "type": "innate",
             "spells": [
                 "fire bolt",
                 "mage hand",
@@ -92,10 +92,6 @@
     "actions": {
         "Claws": "Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage. The target must make a DC 14+1d8 + 10 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.",
         "Teleport": "The arcanaloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

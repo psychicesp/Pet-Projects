@@ -12,6 +12,7 @@
     "perception": "+7",
     "stealth": "+8",
     "name": "Ultroloth",
+    "HP": "153 (18d8 + 72)",
     "AC": 19,
     "speed": [
         "30 ft",
@@ -72,10 +73,6 @@
         "Longsword": "Melee Weapon Attack: +8+1d10 + 3 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.",
         "Hypnotic Gaze": "The ultroloth's eyes sparkle with opalescent light as it targets one creature it can see within 30 feet of it. If the target can see the ultroloth, the target must succeed on a DC 17+1d10 + 12 Wisdom saving throw against this magic or be charmed until the end of the ultroloth's next turn. The charmed target is stunned. If the target's saving throw is successful, the target is immune to the ultroloth's gaze for the next 24 hours.",
         "Teleport": "The ultroloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",

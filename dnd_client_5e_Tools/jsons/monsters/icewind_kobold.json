@@ -12,6 +12,7 @@
     "stealth": "+4",
     "survival": "+1",
     "name": "Icewind Kobold",
+    "HP": "9 (2d6 + 2)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -44,10 +45,6 @@
     "actions": {
         "Dagger": "Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
         "Javelin": "Melee or Ranged Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 1 (1d6 - 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Small",

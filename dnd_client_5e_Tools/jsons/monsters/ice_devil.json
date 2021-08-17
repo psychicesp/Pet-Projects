@@ -9,6 +9,7 @@
     "wisdom": "15",
     "charisma": "18",
     "name": "Ice Devil",
+    "HP": "180 (19d10 + 76)",
     "AC": 18,
     "speed": [
         "40 ft"
@@ -51,10 +52,6 @@
         "Claws": "Melee Weapon Attack: +10+1d10 + 5 to hit, reach 5 ft., one target. Hit: 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.",
         "Tail": "Melee Weapon Attack: +10+1d10 + 5 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.",
         "Wall of Ice (Recharge 6)": "The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Large",

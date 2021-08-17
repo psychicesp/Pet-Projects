@@ -11,6 +11,7 @@
     "intimidation": "+2",
     "perception": "+2",
     "name": "Tanarukk",
+    "HP": "95 (10d8 + 50)",
     "AC": 14,
     "speed": [
         "30 ft"
@@ -43,10 +44,6 @@
         "Multiattack": "The tanarukk makes two attacks: one with its bite and one with its greatsword.",
         "Bite": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.",
         "Greatsword": "Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "O",
     "size": "Medium",

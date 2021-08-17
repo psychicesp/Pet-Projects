@@ -8,6 +8,7 @@
     "charisma": "13",
     "perception": "+4",
     "name": "Pentadrone",
+    "HP": "32 (5d10 + 5)",
     "AC": 16,
     "speed": [
         "40 ft"
@@ -34,10 +35,6 @@
         "Multiattack": "The pentadrone makes five arm attacks.",
         "Arm": "Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.",
         "Paralysis Gas (Recharge 5xe2x80x936)": "The pentadrone exhales a 30-foot cone of gas. Each creature in that area must succeed on a DC 11+1d4 + 9 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Large",

@@ -1,0 +1,82 @@
+{
+    "tags": [],
+    "strength": "16",
+    "dexterity": "1",
+    "constitution": "20",
+    "intelligence": "17",
+    "wisdom": "10",
+    "charisma": "16",
+    "arcana": "+7",
+    "insight": "+4",
+    "name": "Ooze Master",
+    "HP": "138 (12d12 + 60)",
+    "AC": 9,
+    "speed": [
+        "30 ft",
+        "climb 30 ft"
+    ],
+    "saving_throws": {
+        "intelligence": "proficient",
+        "wisdom": "proficient"
+    },
+    "skills": {
+        "arcana": "proficient",
+        "insight": "proficient"
+    },
+    "damage_immunities": [
+        "acid, cold, poison"
+    ],
+    "resistances": [
+        "lightning, necrotic",
+        "bludgeoning, piercing, and slashing from nonmagical attacks"
+    ],
+    "condition_immunities": [
+        "blinded, charmed, deafened, exhaustion, frightened, paralyzed, poisoned, prone"
+    ],
+    "senses": [
+        "blindsight 120 ft.",
+        "passive Perception 10"
+    ],
+    "languages": [
+        "Common",
+        "Primordial",
+        "Thayan"
+    ],
+    "CR": "10 (5,900 XP)",
+    "page": 241,
+    "book": "Tales from the Yawning Portal",
+    "traits": {
+        "Corrosive Form": "A creature that touches the Ooze Master or hits it with a melee attack while within 5 feet of it takes 9 (2d8) acid damage. Any nonmagical weapon that hits the Ooze Master corrodes. After dealing damage, the weapon takes a permanent and cumulative xe2x88x921 penalty to damage rolls. If its penalty drops to xe2x88x925, the weapon is destroyed. Nonmagical ammunition that hits the Ooze Master is destroyed after dealing damage.",
+        "Instinctive Attack": "When the Ooze Master casts a spell with a casting time of 1 action, it can make one pseudopod attack as a bonus action.",
+        "spellcasting": {
+            "level": 9,
+            "type": "wizard",
+            "spells": [
+                "acid splash",
+                "friends",
+                "mage hand",
+                "poison spray",
+                "charm person",
+                "detect magic",
+                "magic missile",
+                "ray of sickness",
+                "detect thoughts",
+                "Melf's acid arrow",
+                "suggestion",
+                "fear",
+                "slow",
+                "stinking cloud",
+                "confusion",
+                "Evard's black tentacles",
+                "cloudkill"
+            ]
+        },
+        "Spider Climb": "The Ooze Master can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+    },
+    "actions": {
+        "Pseudopod": "Melee Weapon Attack: +7+1d8 + 3 to hit, reach 10 ft., one target. Hit: 13 (3d6 + 3) bludgeoning damage plus 10 (3d6) acid damage."
+    },
+    "alignment": "LE",
+    "size": "Huge",
+    "type": "undead"
+}

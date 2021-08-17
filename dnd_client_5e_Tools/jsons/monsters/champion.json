@@ -12,6 +12,7 @@
     "intimidation": "+5",
     "perception": "+6",
     "name": "Champion",
+    "HP": "143 (22d8 + 44)",
     "AC": 18,
     "speed": [
         "30 ft"
@@ -42,10 +43,6 @@
         "Multiattack": "The champion makes three attacks with its greatsword or its shortbow.",
         "Greatsword": "Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage, plus 7 (2d6) slashing damage if the champion has more than half of its total hit points remaining.",
         "Shortbow": "Ranged Weapon Attack: +6+1d8 + 2 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage, plus 7 (2d6) piercing damage if the champion has more than half of its total hit points remaining."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "AA",
     "size": "Medium",

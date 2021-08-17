@@ -11,6 +11,7 @@
     "intimidation": "+5",
     "perception": "+4",
     "name": "Iron Consul",
+    "HP": "45 (6d8 + 18)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -41,10 +42,6 @@
         "Multiattack": "The iron consul makes one attack with its spear and can use its Voice of Command ability.",
         "Spear": "Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage when used with two hands to make a melee attack.",
         "Voice of Command": "The iron consul selects up to two allies within 90 feet of it that can hear its commands. Each ally can immediately use its reaction to make one melee attack."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LE",
     "size": "Medium",

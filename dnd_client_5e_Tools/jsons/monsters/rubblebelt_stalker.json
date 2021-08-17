@@ -12,6 +12,7 @@
     "perception": "+4",
     "stealth": "+4",
     "name": "Rubblebelt Stalker",
+    "HP": "11 (2d8 + 2)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -41,10 +42,6 @@
     "actions": {
         "Multiattack": "The stalker makes three attacks with its shortsword.",
         "Shortsword": "Melee Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CN",
     "size": "Medium",

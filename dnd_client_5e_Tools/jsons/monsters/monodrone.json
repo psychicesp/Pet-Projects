@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Monodrone",
+    "HP": "5 (1d8 + 1)",
     "AC": 15,
     "speed": [
         "30 ft",
@@ -31,10 +32,6 @@
     "actions": {
         "Dagger": "Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.",
         "Javelin": "Melee or Ranged Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 3 (1d6) piercing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "LN",
     "size": "Medium",

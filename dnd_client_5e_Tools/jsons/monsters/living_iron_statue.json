@@ -7,6 +7,7 @@
     "wisdom": "10",
     "charisma": "5",
     "name": "Living Iron Statue",
+    "HP": "102 (12d8 + 48)",
     "AC": 16,
     "speed": [
         "20 ft"
@@ -37,10 +38,6 @@
         "Blade": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.",
         "Hammer": "Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is knocked prone.",
         "Whirl (Recharge 5xe2x80x936)": "The statue can use its action to spin at the waist, targeting creatures of its choice within 10 feet of it. Each target must make a DC 13+1d6 + 10 Dexterity saving throw, taking 19 (3d10 + 3) bludgeoning damage on a failed save, or half as much damage on a successful one."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Medium",

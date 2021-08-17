@@ -10,6 +10,7 @@
     "athletics": "+4",
     "performance": "+6",
     "name": "Oread",
+    "HP": "49 (9d8 + 9)",
     "AC": 16,
     "speed": [
         "30 ft"
@@ -53,10 +54,6 @@
         "Multiattack": "The oread attacks twice with its fiery touch or fire bolt.",
         "Fiery Touch": "Melee Spell Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) fire damage.",
         "Fire Bolt (Cantrip)": "Ranged Spell Attack: +6+1d4 + 4 to hit, range 120 ft., one target. Hit: 5 (1d10) fire damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "CE",
     "size": "Medium",

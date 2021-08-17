@@ -7,6 +7,7 @@
     "wisdom": "6",
     "charisma": "1",
     "name": "Black Pudding",
+    "HP": "85 (10d10 + 30)",
     "AC": 7,
     "speed": [
         "20 ft",
@@ -37,10 +38,6 @@
     },
     "actions": {
         "Pseudopod": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative xe2x88x921 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "U",
     "size": "Large",

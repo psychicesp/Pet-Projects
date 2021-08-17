@@ -12,6 +12,7 @@
     "perception": "+2",
     "religion": "+5",
     "name": "Berbalang",
+    "HP": "38 (11d8 - 11)",
     "AC": 14,
     "speed": [
         "30 ft",
@@ -52,10 +53,6 @@
         "Multiattack": "The berbalang makes two attacks: one with its bite and one with its claws.",
         "Bite": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.",
         "Claws": "Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) slashing damage."
-    },
-    "legendary_actions": {
-        "number": 0,
-        "options": {}
     },
     "alignment": "NE",
     "size": "Medium",
