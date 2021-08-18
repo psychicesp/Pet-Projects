@@ -307,16 +307,30 @@ def html_to_json_spells(file):
     with open(f'html_pages/spells/{file}', 'r') as mon:
         spell_soup = BS(mon, 'html.parser')
     spell_dict = {}
-    spell_dict['name'] = spell_soup.find('h1').text
+    name = spell_soup.find('h1').text
+    spell_dict['name'] = sterilizer(name)
     lvl_school = spell_soup.find('td', {'class':"rd-spell__level-school-ritual"})
-    if 'cantrip' in lvl_school:
+    if 'cantrip' in lvl_school.text.lower():
         spell_dict['level'] = 0
-        spell_dict['school'] = lvl_school.split(' ')[0].lower()
-    spell_dict['level'] = int(lvl_school.text.split('-level ')[0][:-2])
-    spell_dict['school'] = lvl_school.text.split('-level ')[1].lower()
+        school = sterilizer(lvl_school.text.split(' ')[0].lower())
+    else:
+        spell_dict['level'] = int(lvl_school.text.split('-level ')[0][:-2])
+        school = sterilizer(lvl_school.text.split('-level ')[1].lower())
+    if ' (ritual)' in school:
+        spell_dict['ritual'] = True
+        school = name.replace(' (ritual)','')
+    else:
+        spell_dict['ritual'] = False
+    spell_dict['school'] = school
+    basic_soup = spell_soup.find_all('td', {'colspan','6'})[:4]
+    for bite in basic_soup:
+        key = bite.find('span',{'class':'bold'}).text
+        value = bite.text.replace(key, '')
+        key = key.split(':')[0]
+        spell_dict[key]=value
     pprint(spell_dict)
 
-spell_files = os.listdir('html_pages/spells')[:6]
+spell_files = os.listdir('html_pages/spells')[:7]
 
 for spell in spell_files:
     html_to_json_spells(spell)
