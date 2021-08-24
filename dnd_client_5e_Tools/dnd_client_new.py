@@ -45,7 +45,9 @@ import json
 
 #%%
 def sterilizer(string_text):
-    clean_text = string_text.replace('\n', '').replace('\\', '').strip()
+    clean_text = string_text.replace('\n', '').replace('\\', '').replace("""'
+    """,'').replace('''"
+    ''','').strip()
     while '  ' in clean_text:
         clean_text = clean_text.replace('  ', ' ')
     return clean_text
@@ -318,20 +320,41 @@ def html_to_json_spells(file):
         school = sterilizer(lvl_school.text.split('-level ')[1].lower())
     if ' (ritual)' in school:
         spell_dict['ritual'] = True
-        school = name.replace(' (ritual)','')
+        school = school.replace(' (ritual)','')
     else:
         spell_dict['ritual'] = False
     spell_dict['school'] = school
-    basic_soup = spell_soup.find_all('td', {'colspan','6'})[:4]
+    basic_soup = spell_soup.find_all('td', {'colspan':'6'})[1:5]
     for bite in basic_soup:
         key = bite.find('span',{'class':'bold'}).text
         value = bite.text.replace(key, '')
         key = key.split(':')[0]
-        spell_dict[key]=value
+        spell_dict[key.lower()]=value
+    if 'Concentration' in spell_dict['duration']:
+        spell_dict['duration'] = spell_dict['duration'].replace('Concentration u', 'U')
+        spell_dict['concentration'] = True
+    else:
+        spell_dict['concentration'] = False
+    if '(' in spell_dict['components']:
+        extras = spell_dict['components'].split('(')[1].replace(')', '')
+        spell_dict['components'] = spell_dict['components'].split(' (')[0]
+        spell_dict['extras'] = sterilizer(extras)
+        costly_components = [int(x) for x in extras.split(' ') if x.isnumeric()]
+        spell_dict['cost'] = sum(costly_components)
+    description = spell_soup.find("td", {"class":"text", "colspan":"6"})
+    description = description.find_all('div')
+    description = [x.text for x in description]
+    higher_levels = [x for x in description if 'at higher levels' in x.lower()]
+    for h in higher_levels:
+        description.remove(h)
+    description = " ".join(description)
+    spell_dict["description"] = sterilizer(description)
+    if len(higher_levels) > 0:
+        spell_dict["higher_levels"] = sterilizer(higher_levels[0])
     pprint(spell_dict)
 
-spell_files = os.listdir('html_pages/spells')[:7]
+spell_files = os.listdir('html_pages/spells')
 
-for spell in spell_files:
+for spell in spell_files[10:11]:
     html_to_json_spells(spell)
 # %%
