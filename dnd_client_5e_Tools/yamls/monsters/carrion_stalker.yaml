@@ -1,0 +1,45 @@
+AC: 14
+CR: 3 (700 XP)
+HP: 35 (10d4 + 10)
+actions:
+    Larval Burst (1/Day): The carrion stalker releases a burst of larvae in a 10-foot-radius
+        sphere centered on itself. Each creature in that area must succeed on a DC
+        13+1d4 + 11 Constitution saving throw or be poisoned. A creature poisoned
+        in this way takes 7 (2d6) poison damage at the start of each of its turns
+        as larvae infest its body. The creature can repeat the saving throw at the
+        end of each of its turns, ending the effect on itself on a success. Any effect
+        that cures disease or removes the poisoned condition instantly kills the larvae
+        in the creature, ending the effect on it.
+    Multiattack: The carrion stalker makes three Tentacle attacks. If it is attached
+        to a creature, it can replace one Tentacle attack with Larval Burst, if available.
+    Tentacle: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature.
+        Hit: 5 (1d4 + 3) piercing damage, and the carrion stalker attaches to the
+        target and pulls itself into the target''s space. While attached, the carrion
+        stalker moves with the target and has advantage on attack rolls against it.'
+alignment: U
+book: Van Richten\xe2\x80\x99s Guide to Ravenloft
+charisma: '6'
+condition_immunities:
+- blinded
+constitution: '12'
+dexterity: '16'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Carrion Stalker
+page: 230
+saving_throws: {}
+senses:
+- tremorsense 60 ft.
+- passive Perception 11
+size: Tiny
+skills:
+    stealth: expert
+speed:
+- 30 ft
+- burrow 30 ft
+stealth: '+7'
+strength: '6'
+tags: []
+type: monstrosity
+wisdom: '13'

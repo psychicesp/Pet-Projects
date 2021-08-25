@@ -1,0 +1,47 @@
+AC: 19
+CR: 8 (3,900 XP)
+HP: 94 (7d12 + 49)
+actions:
+    Claw: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one target. Hit:
+        10 (1d12 + 4) bludgeoning damage, and the target is grappled (escape DC 15+1d6
+        + 12). The scaladar has two claws, each of which can grapple one target.'
+    Multiattack: 'The scaladar makes three attacks: two with its claws and one with
+        its sting.'
+    Sting: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one target. Hit:
+        9 (1d10 + 4) piercing damage plus 11 (2d10) lightning damage.'
+alignment: U
+book: 'Waterdeep: Dungeon of the Mad Mage'
+charisma: '1'
+condition_immunities:
+- charmed, paralyzed, poisoned
+constitution: '25'
+damage_immunities:
+- force, lightning, poison
+dexterity: '10'
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Scaladar
+page: 315
+resistances:
+- fire
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Huge
+skills: {}
+speed:
+- 30 ft
+- climb 20 ft
+strength: '19'
+tags: []
+traits:
+    Lightning Absorption: Whenever the scaladar is subjected to lightning damage,
+        it takes no damage, and its sting deals an extra 11 (2d10) lightning damage
+        until the end of its next turn.
+    Scaladar Link: The scaladar knows the location of other scaladar within 100 feet
+        of it, and it can sense when any of them take damage.
+type: construct
+wisdom: '12'

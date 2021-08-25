@@ -1,0 +1,53 @@
+AC: 18
+CR: 8 (3,900 XP)
+HP: 127 (15d8 + 60)
+actions:
+    Call to Honor (1/Day): To use this action, the sword wraith must have taken damage
+        during the current combat. If the sword wraith can use this action, it gives
+        itself advantage on attack rolls until the end of its next turn, and 1d4 +
+        1 sword wraith warriors appear in unoccupied spaces within 30 feet of it.
+        The warriors last until they drop to 0 hit points, and they take their turns
+        immediately after the commander's turn on the same initiative count.
+    Longbow: 'Ranged Weapon Attack: +5+1d6 + 2 to hit, range 150/600 ft., one target.
+        Hit: 6 (1d8 + 2) piercing damage.'
+    Longsword: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with
+        two hands.'
+    Multiattack: The sword wraith makes two weapon attacks.
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '14'
+condition_immunities:
+- exhaustion, frightened, poisoned, unconscious
+constitution: '18'
+damage_immunities:
+- poison
+dexterity: '14'
+intelligence: '11'
+languages:
+- the languages it knew in life
+name: Sword Wraith Commander
+page: 241
+perception: '+4'
+resistances:
+- necrotic
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 30 ft
+strength: '18'
+tags: []
+traits:
+    Martial Fury: As a bonus action, the sword wraith can make one weapon attack,
+        which deals an extra 9 (2d8) necrotic damage on a hit. If it does so, attack
+        rolls against it have advantage until the start of its next turn.
+    Turning Defiance: The sword wraith and any other sword wraiths within 30 feet
+        of it have advantage on saving throws against effects that turn undead.
+type: undead
+wisdom: '12'

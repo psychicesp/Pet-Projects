@@ -1,0 +1,78 @@
+AC: 16
+CR: 12 (8,400 XP)
+HP: 132 (24d8 + 24)
+actions:
+    Change Shape (2/Day): The archdruid magically polymorphs into a beast or elemental
+        with a challenge rating of 6 or less, and can remain in this form for up to
+        9 hours. The archdruid can choose whether its equipment falls to the ground,
+        melds with its new form, or is worn by the new form. The archdruid reverts
+        to its true form if it dies or falls unconscious. The archdruid can revert
+        to its true form using a bonus action on its turn.
+    Scimitar: 'Melee Weapon Attack: +6+1d8 + 2 to hit, reach 5 ft., one target. Hit:
+        5 (1d6 + 2) slashing damage.'
+alignment: AA
+book: "Volo\u2019s Guide to Monsters"
+charisma: 11 (+0)
+constitution: 12 (+1)
+dexterity: 14 (+2)
+hit points: 24d8 + 24
+intelligence: 12 (+1)
+intelligence save: '+5'
+languages:
+- Druidic plus any two languages
+medicine: '+9'
+name: Archdruid
+nature: '+5'
+page: 210
+perception: '+9'
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- passive Perception 19
+size: Medium
+skills:
+    medicine: proficient
+    nature: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: 10 (+0)
+tags:
+- any
+traits:
+    spellcasting:
+        ability: wisdom
+        level: 18
+        spells:
+        - druidcraft
+        - mending
+        - poison spray
+        - produce flame
+        - cure wounds
+        - entangle
+        - faerie fire
+        - speak with animals
+        - animal messenger
+        - beast sense
+        - hold person
+        - conjure animals
+        - meld into stone
+        - water breathing
+        - dominate beast
+        - locate creature
+        - stoneskin
+        - wall of fire
+        - commune with nature
+        - mass cure wounds
+        - tree stride
+        - heal
+        - heroes' feast
+        - sunbeam
+        - fire storm
+        - animal shapes
+        - foresight
+        type: druid
+type: humanoid
+wisdom: 20 (+5)
+wisdom save: '+9'

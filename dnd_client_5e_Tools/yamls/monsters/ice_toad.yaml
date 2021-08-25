@@ -1,0 +1,41 @@
+AC: 12
+CR: 1 (200 XP)
+HP: 32 (5d8 + 10)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4
+        (1d8) cold damage. If the target is a Medium or smaller creature it is grappled
+        (escape DC 11+1d4 + 9). Until this grapple ends, the toad can''t bite another
+        target.'
+alignment: N
+book: The Rise of Tiamat
+charisma: '6'
+constitution: '14'
+damage_immunities:
+- cold
+dexterity: '10'
+intelligence: '8'
+languages:
+- Ice Toad
+name: Ice Toad
+page: 90
+perception: '+2'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 30 ft
+- swim 30 ft
+strength: '13'
+tags: []
+traits:
+    Amphibious: The toad can breathe air or water.
+    Cold Aura: Any creature that starts its turn within 5 feet of the toad takes 3
+        (1d6) cold damage.
+    Standing Leap: The toad's long jump is up to 20 feet and its high jump is up to
+        10 feet, with or without a running start.
+type: monstrosity
+wisdom: '10'

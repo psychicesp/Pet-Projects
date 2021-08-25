@@ -1,0 +1,54 @@
+AC: 11
+CR: 1/2 (100 XP)
+HP: 21 (6d6)
+actions:
+    Claws: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one creature. Hit:
+        3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.'
+    Frost Breath (Recharge 6): The mephit exhales a 15-foot cone of cold air. Each
+        creature in that area must succeed on a DC 10+1d4 + 8 Dexterity saving throw,
+        taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful
+        one.
+alignment: NE
+book: Monster Manual
+charisma: '12'
+condition_immunities:
+- poisoned
+constitution: '10'
+damage_immunities:
+- cold, poison
+dexterity: '13'
+hit: 6d6
+intelligence: '9'
+languages:
+- Aquan
+- Auran
+name: Ice Mephit
+page: 215
+perception: '+2'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Small
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+- fly 30 ft
+stealth: '+3'
+strength: '7'
+tags: []
+traits:
+    Death Burst: When the mephit dies, it explodes in a burst of jagged ice. Each
+        creature within 5 feet of it must make a DC 10+1d4 + 8 Dexterity saving throw,
+        taking 4 (1d8) slashing damage on a failed save, or half as much damage on
+        a successful one.
+    False Appearance: While the mephit remains motionless, it is indistinguishable
+        from an ordinary shard of ice.
+    spellcasting:
+        ability: charisma.
+        spells: {}
+        type: innate
+type: elemental
+wisdom: '11'

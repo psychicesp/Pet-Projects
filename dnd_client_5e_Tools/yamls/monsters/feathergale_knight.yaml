@@ -1,0 +1,49 @@
+AC: 16
+CR: 1 (200 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Longsword: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with
+        two hands.'
+    Multiattack: The knight makes two melee attacks.
+    Spear: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing
+        damage if used with two hands to make a melee attack.'
+alignment: LE
+book: Princes of the Apocalypse
+charisma: '14'
+constitution: '12'
+dexterity: '14'
+history: '+2'
+intelligence: '11'
+languages:
+- Auran
+- Common
+name: Feathergale Knight
+page: 189
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    animal handling: proficient
+    history: proficient
+speed:
+- 30 ft
+strength: '14'
+tags:
+- human
+traits:
+    spellcasting:
+        ability: charisma
+        level: 1
+        spells:
+        - gust
+        - light
+        - message
+        - ray of frost
+        - expeditious retreat
+        - feather fall
+        type: 'sorcerer spell:'
+type: humanoid
+wisdom: '10'

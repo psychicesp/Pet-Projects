@@ -1,0 +1,25 @@
+casting time: 1 action
+classes:
+- Artificer
+- Cleric
+- Druid
+- Ranger
+- Sorcerer
+components: V, S, M
+concentration: false
+cost: 0
+description: This spell grants the ability to move across any liquid surfacexe2x80x94such
+    as water, acid, mud, snow, quicksand, or lavaxe2x80x94as if it were harmless solid
+    ground (creatures crossing molten lava can still take damage from the heat). Up
+    to ten willing creatures you can see within range gain this ability for the duration.
+    If you target a creature submerged in a liquid, the spell carries the target to
+    the surface of the liquid at a rate of 60 feet per round.
+duration: 1 hour
+extras: a piece of cork
+level: 3
+name: Water Walk
+page: 287
+range: 30 feet
+ritual: true
+school: transmutation
+source: PHB

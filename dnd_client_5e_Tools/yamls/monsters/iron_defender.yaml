@@ -1,0 +1,44 @@
+AC: 17
+CR: 1 (200 XP)
+HP: 30 (4d8 + 12)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) piercing damage. If the target is a creature, it must succeed on
+        a DC 13+1d4 + 11 Strength saving throw or take an extra 3 (1d6) piercing damage
+        and be grappled (escape DC 13+1d4 + 11). The defender can have only one creature
+        grappled in this way at a time.'
+alignment: N
+book: 'Eberron: Rising from the Last War'
+charisma: '7'
+condition_immunities:
+- exhaustion, poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '14'
+intelligence: '8'
+languages:
+- understands the languages of its creator but can\'t speak
+name: Iron Defender
+page: 293
+perception: '+4'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 40 ft
+stealth: '+4'
+strength: '16'
+tags: []
+traits:
+    Keen Senses: The defender has advantage on Wisdom (Perception) checks.
+    Telepathic Bond: While the defender is on the same plane of existence as its master,
+        it can magically convey what it senses to its master, and the two can communicate
+        telepathically.
+type: construct
+wisdom: '11'

@@ -1,0 +1,90 @@
+AC: 18
+CR: 16 (15,000 XP)
+HP: 178 (21d8 + 84)
+actions:
+    Ashen Blade: 'Melee Weapon Attack: +10+1d10 + 5 to hit, reach 10 ft., one target.
+        Hit: 14 (2d8 + 5) slashing damage plus 13 (2d12) radiant damage.'
+    Bolt of Ash: 'Ranged Spell Attack: +10+1d10 + 5 to hit, range 120 ft., one creature.
+        Hit: 22 (4d10) necrotic damage, and the target can''t regain hit points until
+        the start of the ashen rider''s next turn.'
+    Multiattack: The ashen rider makes three attacks with its ashen blade or two attacks
+        with its bolt of ash.
+alignment: LE
+book: Mythic Odysseys of Theros
+charisma: 18 (+4)
+charisma save: '+9'
+condition_immunities:
+- charmed, exhaustion, frightened
+constitution: 19 (+4)
+constitution save: '+9'
+damage_immunities:
+- thunder
+dexterity: 16 (+3)
+history: '+7'
+hit points: 21d8 + 84
+insight: '+10'
+intelligence: 15 (+2)
+languages:
+- all
+legendary_actions:
+    number: 3
+    options:
+        Attack: ' The ashen rider makes an attack using its ashen blade or bolt of
+            ash.'
+        Coordinated Assault (Costs 2 Actions): ' The ashen rider makes an attack using
+            its ashen blade or bolt of ash, and then its mount can use its reaction
+            to make a melee weapon attack.'
+        Reduce to Ash (Costs 3 Actions): ' The ashen rider targets a creature it can
+            see within 60 feet of it. The target must succeed on a DC 18+1d10 + 13
+            Constitution saving throw, or it takes 27 (5d10) necrotic damage and its
+            hit point maximum is reduced by an amount equal to the necrotic damage
+            taken. This reduction lasts until the target finishes a long rest. If
+            the target''s hit point maximum is reduced to 0, its body and everything
+            it is wearing and carrying, except for magic items, are reduced to ash.
+            A creature reduced to ash can''t be revived by any means short of a wish
+            spell.'
+name: Ashen Rider
+page: 213
+perception: '+10'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 20
+size: Medium
+skills:
+    history: proficient
+    insight: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: 20 (+5)
+strength save: '+10'
+tags: []
+traits:
+    Aura of Silence: When a creature starts its turn within 30 feet of the ashen rider,
+        the rider can force that creature to make a DC 18+1d10 + 13 Wisdom saving
+        throw if the rider can see it. On a successful save, the creature is immune
+        to this aura for the next 24 hours. On a failed save, the creature can't speak
+        and is deafened until the start of its next turn.
+    Mount: If the ashen rider isn't mounted, it can use a bonus action to magically
+        teleport onto the creature serving as its mount, provided the ashen rider
+        and its mount are on the same plane of existence. When it teleports, the ashen
+        rider appears astride the mount along with any equipment it is wearing or
+        carrying.
+    spellcasting:
+        ability: wisdom
+        spells:
+            1/day:
+            - banishment
+            - blade barrier
+            at will:
+            - command
+            - compelled duel
+        type: innate
+type: celestial
+wisdom: 21 (+5)
+wisdom save: '+10'

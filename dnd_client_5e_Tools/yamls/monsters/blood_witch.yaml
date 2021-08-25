@@ -1,0 +1,70 @@
+AC: 12
+CR: 7 (2,900 XP)
+HP: 78 (12d8 + 24)
+actions:
+    Longsword: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit:
+        7 (1d8 + 3) slashing damage.'
+    Multiattack: 'The witch makes two attacks: one with its longsword and one with
+        its shortsword.'
+    Shortsword: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage.'
+alignment: CE
+arcana: '+4'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '19'
+constitution: '15'
+dexterity: '14'
+intelligence: '13'
+intimidation: '+7'
+languages:
+- Abyssal plus any one language (usually Common)
+name: Blood Witch
+page: 248
+perception: '+2'
+resistances:
+- psychic
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 12
+size: Medium
+skills:
+    arcana: proficient
+    intimidation: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+5'
+strength: '16'
+tags:
+- any
+traits:
+    Blood Witch Dance: The witch can use a bonus action to control the movement of
+        one creature cursed by its hex spell that it can see within 30 feet of it.
+        The creature must succeed on a DC 15+1d6 + 12 Charisma saving throw or use
+        its reaction to move up to 30 feet in a direction of the witch's choice.
+    Devil's Sight: Magical darkness doesn't impede the witch's darkvision.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - circle of death
+            - enthrall
+            - suggestion
+            3/day:
+            - hellish rebuke
+            - hex
+            - scorching ray
+            at will:
+            - alter self
+            - detect magic
+            - eldritch blast
+            - false life
+            - levitate
+            - mage armor
+        type: innate
+type: humanoid
+wisdom: '9'

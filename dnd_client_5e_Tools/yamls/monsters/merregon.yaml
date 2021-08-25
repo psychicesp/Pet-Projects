@@ -1,0 +1,46 @@
+AC: 16
+CR: 4 (1,100 XP)
+HP: 45 (6d8 + 18)
+actions:
+    Halberd: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 10 ft., one target. Hit:
+        9 (1d10 + 4) slashing damage.'
+    Heavy Crossbow: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 100/400 ft., one
+        target. Hit: 7 (1d10 + 2) piercing damage.'
+    Multiattack: The merregon makes two halberd attacks, or if an allied fiend of
+        challenge rating 6 or higher is within 60 feet of it, the merregon makes three
+        halberd attacks.
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '8'
+condition_immunities:
+- frightened, poisoned
+constitution: '17'
+damage_immunities:
+- fire, poison
+dexterity: '14'
+intelligence: '6'
+languages:
+- understands Infernal but can\'t speak
+- telepathy 120 ft.
+name: Merregon
+page: 166
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '18'
+tags:
+- devil
+traits:
+    Devil's Sight: Magical darkness doesn't impede the merregon's darkvision.
+    Magic Resistance: The merregon has advantage on saving throws against spells and
+        other magical effects.
+type: fiend
+wisdom: '12'

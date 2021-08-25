@@ -1,0 +1,72 @@
+AC: 16
+CR: 16 (15,000 XP)
+HP: 168 (16d8 + 96)
+actions:
+    Plague of Worms (Recharge 6): Each creature other than a star spawn within 10
+        feet of the larva mage must make a DC 19+1d10 + 14 Dexterity saving throw.
+        On a failure the target takes 22 (5d8) necrotic damage and is blinded and
+        restrained by masses of swarming worms. The affected creature takes 22 (5d8)
+        necrotic damage at the start of each of the larva mage's turns. The creature
+        can repeat the saving throw at the end of each of its turns, ending the effect
+        on itself on a success.
+    Slam: 'Melee Weapon Attack: +8+1d10 + 3 to hit, reach 10 ft., one target. Hit:
+        7 (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 19+1d10
+        + 14 Constitution saving throw or be poisoned until the end of its next turn.'
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '16'
+condition_immunities:
+- charmed, frightened, paralyzed, petrified, poisoned, restrained
+constitution: '23'
+damage_immunities:
+- psychic
+dexterity: '12'
+intelligence: '18'
+languages:
+- Deep Speech
+legendary_actions:
+    number: 3
+    options:
+        Cantrip (Costs 2 Actions): ' The larva mage casts one cantrip.'
+        Feed (Costs 3 Actions): ' Each creature restrained by the larva mage''s Plague
+            of Worms takes 13 (3d8) necrotic damage, and the larva mage gains 6 temporary
+            hit points.'
+        Slam (Costs 2 Actions): ' The larva mage makes one slam attack.'
+name: Star Spawn Larva Mage
+page: 235
+perception: '+6'
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    charisma: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 16
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 30 ft
+strength: '17'
+tags: []
+traits:
+    '*3 beams, +3 bonus to each damage roll': '*3 beams, +3 bonus to each damage roll'
+    Return to Worms: When the larva mage is reduced to 0 hit points, it breaks apart
+        into a swarm of insects in the same space. Unless the swarm is destroyed,
+        the larva mage reforms from it 24 hours later.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - circle of death
+            3/day:
+            - dominate monster
+            at will:
+            - eldritch blast
+            - minor illusion
+        type: innate
+type: aberration
+wisdom: '12'

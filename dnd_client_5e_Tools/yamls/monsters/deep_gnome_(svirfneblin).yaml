@@ -1,0 +1,57 @@
+AC: 15
+CR: 1/2 (100 XP)
+HP: 16 (3d6 + 6)
+actions:
+    Poisoned Dart: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one
+        creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on
+        a DC 12+1d4 + 10 Constitution saving throw or be poisoned for 1 minute. The
+        target can repeat the saving throw at the end of each of its turns, ending
+        the effect on itself on a success'
+    War Pick: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        6 (1d8 + 2) piercing damage.'
+alignment: NG
+book: Monster Manual
+charisma: '9'
+constitution: '14'
+dexterity: '14'
+intelligence: '12'
+investigation: '+3'
+languages:
+- Gnomish
+- Terran
+- Undercommon
+name: Deep Gnome (Svirfneblin)
+page: 164
+perception: '+2'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 12
+size: Small
+skills:
+    investigation: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 20 ft
+stealth: '+4'
+strength: '15'
+tags:
+- gnome
+traits:
+    Gnome Cunning: The gnome has advantage on Intelligence, Wisdom, and Charisma saving
+        throws against magic.
+    Stone Camouflage: The gnome has advantage on Dexterity (Stealth) checks made to
+        hide in rocky terrain.
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - blindness/deafness
+            - blur
+            - disguise self
+            at will:
+            - nondetection
+        type: innate
+type: humanoid
+wisdom: '10'

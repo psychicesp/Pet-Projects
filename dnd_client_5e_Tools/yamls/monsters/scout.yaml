@@ -1,0 +1,42 @@
+AC: 13
+CR: 1/2 (100 XP)
+HP: 16 (3d8 + 3)
+actions:
+    Longbow: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, ranged 150/600 ft., one target.
+        Hit: 6 (1d8 + 2) piercing damage.'
+    Multiattack: The scout makes two melee attacks or two ranged attacks.
+    Shortsword: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) piercing damage.'
+alignment: AA
+book: Monster Manual
+charisma: '11'
+constitution: '12'
+dexterity: '14'
+intelligence: '11'
+languages:
+- any one language (usually Common)
+name: Scout
+nature: '+4'
+page: 349
+perception: '+5'
+saving_throws: {}
+senses:
+- passive Perception 15
+size: Medium
+skills:
+    nature: expert
+    perception: expert
+    stealth: expert
+    survival: expert
+speed:
+- 30 ft
+stealth: '+6'
+strength: '11'
+survival: '+5'
+tags:
+- any
+traits:
+    Keen Hearing and Sight: The scout has advantage on Wisdom (Perception) checks
+        that rely on hearing or sight.
+type: humanoid
+wisdom: '13'

@@ -1,0 +1,71 @@
+AC: 15
+CR: 10 (5,900 XP)
+HP: 136 (16d8 + 64)
+actions:
+    Mist Form: The yochlol transforms into toxic mist or reverts to its true form.
+        Any equipment it is wearing or carrying is also transformed. It reverts to
+        its true form if it dies.
+    Multiattack: The yochlol makes two melee attacks.
+    Slam (Bite in Spider Form): 'Melee Weapon Attack: +6+1d8 + 2 to hit, reach 5 ft.
+        (10 feet in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing
+        in spider form) damage plus 21 (6d6) poison damage.'
+alignment: S
+book: Monster Manual
+charisma: '15'
+condition_immunities:
+- poisoned
+constitution: '18'
+damage_immunities:
+- poison
+deception: '+10'
+dexterity: '14'
+insight: '+6'
+intelligence: '13'
+languages:
+- Abyssal
+- Elvish
+- Undercommon
+name: Yochlol
+page: 65
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    charisma: proficient
+    dexterity: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 12
+size: Medium
+skills:
+    deception: expert
+    insight: proficient
+speed:
+- 30 ft
+- climb 30 ft
+strength: '15'
+tags:
+- demon
+traits:
+    Magic Resistance: The yochlol has advantage on saving throws against spells and
+        other magical effects.
+    Shapechanger: The yochlol can use its action to polymorph into a form that resembles
+        a female drow or giant spider, or back into its true form. Its statistics
+        are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+        It reverts to its true form if it dies.
+    Spider Climb: The yochlol can climb difficult surfaces, including upside down
+        on ceilings, without needing to make an ability check.
+    Web Walker: The yochlol ignores movement restrictions caused by webbing.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - dominate person
+            at will:
+            - detect thoughts
+            - web
+        type: innate
+type: fiend
+wisdom: '15'

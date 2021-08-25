@@ -1,0 +1,81 @@
+AC: 18
+CR: 9 (5,000 XP)
+HP: 127 (15d10 + 45)
+actions:
+    Captivating Presence (Recharge 6): Each creature within 120 feet of the master
+        must succeed on a DC 17+1d8 + 13 Wisdom saving throw or be charmed by the
+        master for 1 hour. While charmed in this way, a creature's speed is 0. If
+        the charmed creature takes damage, it can repeat the saving throw, ending
+        the effect on itself on a success. A target that succeeds on the saving throw
+        is immune to the Captivating Presence of all masters of cruelties for the
+        next 24 hours.
+    Multiattack: The master makes two melee attacks with its spear.
+    Spear: 'Melee or Ranged Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4)
+        piercing damage if used with two hands to make a melee attack, plus 13 (3d8)
+        psychic damage.'
+alignment: CE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '21'
+condition_immunities:
+- poisoned
+constitution: '16'
+damage_immunities:
+- poison
+deception: '+9'
+dexterity: '17'
+intelligence: '19'
+intimidation: '+9'
+languages:
+- Abyssal
+- Common
+- telepathy 120 ft.
+name: Master of Cruelties
+page: 196
+performance: '+9'
+persuasion: '+9'
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 13
+size: Large
+skills:
+    deception: proficient
+    intimidation: proficient
+    performance: proficient
+    persuasion: proficient
+speed:
+- 30 ft
+strength: '18'
+tags:
+- demon
+traits:
+    Aura of Blood Lust: When any other creature starts its turn within 30 feet of
+        the master, that creature must succeed on a DC 17+1d8 + 13 Wisdom saving throw,
+        or it must immediately take the Attack action, making one melee attack against
+        a random creature within reach. If no creatures are within reach, it makes
+        a ranged attack against a random creature within range, throwing its weapon
+        if necessary.
+    Feed on the Crowd: Whenever a creature within 60 feet of the master dies, the
+        master gains 15 temporary hit points and has advantage on all attack rolls,
+        ability checks, and saving throws until the end of its next turn.
+    Magic Resistance: The master has advantage on saving throws against spells and
+        other magical effects.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - dominate person
+            at will:
+            - charm person
+            - crown of madness
+        type: innate
+type: fiend
+wisdom: '16'

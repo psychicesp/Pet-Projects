@@ -1,0 +1,20 @@
+{
+    "name": "Shield of Faith",
+    "level": 1,
+    "ritual": false,
+    "school": "abjuration",
+    "casting time": "1 bonus action",
+    "range": "60 feet",
+    "components": "V, S, M",
+    "duration": "Concentration, up to 10 minutes",
+    "concentration": true,
+    "extras": "a small parchment with a bit of holy text written on it",
+    "cost": 0,
+    "description": "A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.",
+    "classes": [
+        "Cleric",
+        "Paladin"
+    ],
+    "source": "PHB",
+    "page": 275
+}

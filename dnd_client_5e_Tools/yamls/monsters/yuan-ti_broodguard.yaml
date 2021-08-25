@@ -1,0 +1,50 @@
+AC: 14
+CR: 2 (450 XP)
+HP: 45 (7d8 + 14)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6
+        (1d8 + 2) piercing damage.'
+    Claws: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        5 (1d6 + 2) slashing damage.'
+    Multiattack: 'The broodguard makes three attacks: one with its bite and two with
+        its claws.'
+alignment: NE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '4'
+condition_immunities:
+- poisoned
+constitution: '14'
+damage_immunities:
+- poison
+dexterity: '14'
+intelligence: '6'
+languages:
+- Abyssal
+- Common
+- Draconic
+name: Yuan-ti Broodguard
+page: 203
+perception: '+2'
+saving_throws:
+    dexterity: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 30 ft
+strength: '15'
+tags:
+- yuan-ti
+traits:
+    Mental Resistance: The broodguard has advantage on saving throws against being
+        charmed, and magic can't paralyze it.
+    Reckless: At the start of its turn, the broodguard can gain advantage on all melee
+        weapon attack rolls it makes during that turn, but attack rolls against it
+        have advantage until the start of its next turn.
+type: humanoid
+wisdom: '11'

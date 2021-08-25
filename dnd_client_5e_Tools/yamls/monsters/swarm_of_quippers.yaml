@@ -1,0 +1,42 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 28 (8d8 - 8)
+actions:
+    Bites: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 0 ft., one creature in the
+        swarm''s space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage
+        if the swarm has half of its hit points or fewer.'
+alignment: U
+book: Monster Manual
+charisma: '2'
+condition_immunities:
+- charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+constitution: '9'
+dexterity: '16'
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Swarm of Quippers
+page: 338
+resistances:
+- bludgeoning, piercing, slashing
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Medium
+skills: {}
+speed:
+- 0 ft
+- swim 40 ft
+strength: '13'
+tags:
+- of
+traits:
+    Blood Frenzy: The swarm has advantage on melee attack rolls against any creature
+        that doesn't have all its hit points.
+    Swarm: The swarm can occupy another creature's space and vice versa, and the swarm
+        can move through any opening large enough for a Tiny quipper. The swarm can't
+        regain hit points or gain temporary hit points.
+    Water Breathing: The swarm can breathe only underwater.
+type: swarm
+wisdom: '7'

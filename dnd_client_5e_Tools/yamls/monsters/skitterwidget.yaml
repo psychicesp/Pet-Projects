@@ -1,0 +1,45 @@
+AC: 18
+CR: 5 (1,800 XP)
+HP: 85 (10d8 + 40)
+actions:
+    Bite: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 10
+        (2d6 + 3) piercing damage. If the target is a creature, it is grappled by
+        the skitterwidget (escape DC 13+1d6 + 10).'
+    Multiattack: 'The skitterwidget makes two attacks: one with its bite and one with
+        its tail.'
+    Tail: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) piercing damage plus 10 (3d6) lightning damage, and if the target
+        is a creature, it must succeed on a DC 15+1d6 + 12 Constitution saving throw
+        or be stunned until the end of its next turn.'
+alignment: U
+book: Candlekeep Mysteries
+charisma: '1'
+condition_immunities:
+- blinded, deafened, exhaustion, paralyzed, petrified, poisoned
+constitution: '18'
+damage_immunities:
+- lightning, poison
+dexterity: '14'
+intelligence: '3'
+languages:
+- Skitterwidget
+name: Skitterwidget
+page: 136
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+- climb 30 ft
+strength: '16'
+tags: []
+traits:
+    Lightning Absorption: Whenever the skitterwidget is subjected to lightning damage,
+        it takes no damage and instead regains a number of hit points equal to the
+        lightning damage dealt.
+    Unusual Nature: The skitterwidget doesn't require air, food, drink, or sleep.
+type: construct
+wisdom: '10'

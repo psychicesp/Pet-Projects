@@ -1,0 +1,69 @@
+AC: 15
+CR: 2 (450 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Enlarge (Recharges after a Short or Long Rest): For 1 minute, the spy magically
+        increases in size, along with anything it is wearing or carrying. While enlarged,
+        the spy is Large, doubles her damage dice on Strength-based weapon attacks
+        (included in the attacks), and makes Strength checks and Strength saving throws
+        with advantage. If the spy lacks the room to become Large, it attains the
+        maximum size possible in the space available.
+    Hand Crossbow: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 30/120 ft., one
+        target. Hit: 6 (1d6 + 3) piercing damage.'
+    Invisibility (Recharges after a Short or Long Rest): The spy magically turns invisible
+        until it attacks, deals damage, casts a spell, or uses its Enlarge, or until
+        its concentration is broken, up to 1 hour (as if concentrating on a spell).
+        Any equipment the spy wears or carries is invisible with it.
+    Multiattack: The spy makes two shortsword attacks.
+    Shortsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage, or 10 (2d6 + 3) piercing damage while enlarged.'
+alignment: LE
+book: Tales from the Yawning Portal
+charisma: '13'
+constitution: '12'
+deception: '+5'
+dexterity: '16'
+insight: '+2'
+intelligence: '12'
+investigation: '+5'
+languages:
+- Dwarvish
+- Undercommon
+name: Duergar Spy
+page: 234
+perception: '+4'
+persuasion: '+3'
+resistances:
+- poison
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 14
+size: Medium
+skills:
+    deception: expert
+    insight: proficient
+    investigation: expert
+    perception: expert
+    persuasion: proficient
+    sleight of hand: proficient
+    stealth: expert
+speed:
+- 25 ft
+stealth: '+7'
+strength: '10'
+tags:
+- dwarf
+traits:
+    Cunning Action: On each of its turns, the spy can use a bonus action to take the
+        Dash, Disengage, or Hide action.
+    Duergar Resilience: The spy has advantage on saving throws against poison, spells,
+        and illusions, as well as to resist being charmed or paralyzed.
+    Sneak Attack: Once per turn, the spy can deal an extra 7 (2d6) damage when it
+        hits a target with a weapon attack and has advantage on the attack roll, or
+        when the target is within 5 feet of an ally of the spy that isn't incapacitated
+        and the spy doesn't have disadvantage on the attack roll.
+    Sunlight Sensitivity: While in sunlight, the spy has disadvantage on attack rolls,
+        as well as on Wisdom (Perception) checks that rely on sight.
+type: humanoid
+wisdom: '10'

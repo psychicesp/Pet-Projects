@@ -1,0 +1,58 @@
+AC: 18
+CR: 17 (18,000 XP)
+HP: 264 (16d20 + 96)
+actions:
+    Bite: 'Melee Weapon Attack: +15+1d12 + 9 to hit, reach 10 ft., one target. Hit:
+        22 (3d8 + 9) piercing damage plus 10 (3d6) cold damage. If the target is a
+        Large or smaller creature, it must succeed on a DC 20+1d12 + 14 Dexterity
+        saving throw or be swallowed by the worm. A swallowed creature is blinded
+        and restrained, has total cover against attacks and other effects outside
+        the worm, and takes 10 (3d6) acid damage and 10 (3d6) cold damage at the start
+        of each of the worm''s turns.'
+    Multiattack: The worm makes two bite attacks, or uses its Trill and makes a bite
+        attack.
+    Trill: The frost worm emits a haunting cry. Each creature within 60 feet of the
+        worm that can hear it must succeed on a DC 20+1d12 + 14 Wisdom saving throw
+        or be stunned for 1 minute. A creature can repeat the saving throw each time
+        it takes damage and at the end of each of its turns, ending the effect on
+        itself on a success. Once a creature successfully saves against this effect,
+        or if this effect ends for it, that creature is immune to the Trill of all
+        frost worms for the next 24 hours. Frost worms are immune to this effect.
+alignment: U
+book: Explorer\xe2\x80\x99s Guide to Wildemount
+charisma: '5'
+constitution: '22'
+damage_immunities:
+- cold
+dexterity: '8'
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Frost Worm
+page: 289
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- blindsight 30 ft.
+- tremorsense 60 ft.
+- passive Perception 7
+size: Gargantuan
+skills: {}
+speed:
+- 40 ft
+- burrow 30 ft
+strength: '28'
+tags: []
+traits:
+    Death Burst: When the worm dies, it explodes in a burst of frigid energy. Each
+        creature within 60 feet of it must make a DC 20+1d12 + 14 Dexterity saving
+        throw, taking 28 (8d6) cold damage on a failed save, or half as much damage
+        on a successful one. Creatures inside the worm when it dies automatically
+        fail this saving throw.
+    Freezing Body: A creature that touches the worm or hits it with a melee attack
+        while within 5 feet of it takes 10 (3d6) cold damage.
+    Tunneler: The worm can burrow through solid rock at half its burrowing speed and
+        leaves a 10-foot-diameter tunnel in its wake.
+type: monstrosity
+wisdom: '5'

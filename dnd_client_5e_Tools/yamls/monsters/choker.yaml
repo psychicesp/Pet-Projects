@@ -1,0 +1,43 @@
+AC: 16
+CR: 1 (200 XP)
+HP: 13 (3d6 + 3)
+actions:
+    Multiattack: The choker makes two tentacle attacks.
+    Tentacle: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft., one target. Hit:
+        5 (1d4 + 3) bludgeoning damage plus 3 (1d6) piercing damage. If the target
+        is a Large or smaller creature, it is grappled (escape DC 15+1d4 + 13). Until
+        this grapple ends, the target is restrained, and the choker can''t use this
+        tentacle on another target. The choker has two tentacles. If this attack is
+        a critical hit, the target also can''t breathe or speak until the grapple
+        ends.'
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '7'
+constitution: '13'
+dexterity: '14'
+intelligence: '4'
+languages:
+- Deep Speech
+name: Choker
+page: 123
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Small
+skills:
+    stealth: expert
+speed:
+- 30 ft
+stealth: '+6'
+strength: '16'
+tags: []
+traits:
+    Aberrant Quickness (Recharges after a Short or Long Rest): The choker can take
+        an extra action on its turn.
+    Boneless: The choker can move through and occupy a space as narrow as 4 inches
+        wide without squeezing.
+    Spider Climb: The choker can climb difficult surfaces, including upside down on
+        ceilings, without needing to make an ability check.
+type: aberration
+wisdom: '12'

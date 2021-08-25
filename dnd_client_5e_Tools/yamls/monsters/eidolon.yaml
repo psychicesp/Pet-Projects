@@ -1,0 +1,58 @@
+AC: 9
+CR: 12 (8,400 XP)
+HP: 63 (18d8 - 18)
+actions:
+    Divine Dread: Each creature within 60 feet of the eidolon that can see it must
+        succeed on a DC 15+1d8 + 11 Wisdom saving throw or be frightened for 1 minute.
+        While frightened in this way, the creature must take the Dash action and move
+        away from the eidolon by the safest available route at the start of each of
+        its turns, unless there is nowhere for it to move, in which case the creature
+        also becomes stunned until it can move again. A frightened target can repeat
+        the saving throw at the end of each of its turns, ending the effect on itself
+        on a success. If a target's saving throw is successful or the effect ends
+        for it, the target is immune to any eidolon's Divine Dread for the next 24
+        hours.
+alignment: AA
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '16'
+condition_immunities:
+- charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone,
+    restrained
+constitution: '9'
+damage_immunities:
+- cold, necrotic, poison
+dexterity: '8'
+intelligence: '14'
+languages:
+- the languages it knew in life
+name: Eidolon
+page: 194
+perception: '+8'
+resistances:
+- acid, fire, lightning, thunder
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 18
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 0 ft
+- fly 40 ft. (hover)
+strength: '7'
+tags: []
+traits:
+    Incorporeal Movement: The eidolon can move through other creatures and objects
+        as if they were difficult terrain. It takes 5 (1d10) force damage if it ends
+        its turn inside an object other than a sacred statue.
+    Sacred Animation (Recharge 5xe2x80x936): When the eidolon moves into a space occupied
+        by a sacred statue, the eidolon can disappear, causing the statue to become
+        a creature under the eidolon's control. The eidolon uses the sacred statue's
+        statistics in place of its own.
+    Turn Resistance: The eidolon has advantage on saving throws against any effect
+        that turns undead.
+type: undead
+wisdom: '19'

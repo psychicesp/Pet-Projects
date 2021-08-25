@@ -1,0 +1,36 @@
+AC: 12
+CR: 1/8 (25 XP)
+HP: 10 (4d4)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4
+        (1d4 + 2) piercing damage.'
+alignment: CN
+book: Monster Manual
+charisma: '3'
+constitution: '10'
+dexterity: '15'
+hit: 4d4
+intelligence: '3'
+languages:
+- understands Slaad but can\'t speak
+name: Slaad Tadpole
+page: 276
+resistances:
+- acid, cold, fire, lightning, thunder
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 7
+size: Tiny
+skills:
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+4'
+strength: '7'
+tags: []
+traits:
+    Magic Resistance: The slaad has advantage on saving throws against spells and
+        other magical effects.
+type: aberration
+wisdom: '5'

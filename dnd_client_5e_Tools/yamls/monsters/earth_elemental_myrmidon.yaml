@@ -1,0 +1,41 @@
+AC: 18
+CR: 7 (2,900 XP)
+HP: 127 (17d8 + 51)
+actions:
+    Maul: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11
+        (2d6 + 4) bludgeoning damage.'
+    Multiattack: The myrmidon makes two maul attacks.
+    Thunderous Strike (Recharge 6): The myrmidon makes one maul attack. On a hit,
+        the target takes an extra 16 (3d10) thunder damage, and the target must succeed
+        on a DC 14+1d6 + 11 Strength saving throw or be knocked prone.
+alignment: N
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '10'
+condition_immunities:
+- paralyzed, petrified, poisoned, prone
+constitution: '17'
+damage_immunities:
+- poison
+dexterity: '10'
+intelligence: '8'
+languages:
+- Terran
+- one language of its creator\'s choice
+name: Earth Elemental Myrmidon
+page: 202
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '18'
+tags: []
+traits:
+    Magic Weapons: The myrmidon's weapon attacks are magical.
+type: elemental
+wisdom: '10'

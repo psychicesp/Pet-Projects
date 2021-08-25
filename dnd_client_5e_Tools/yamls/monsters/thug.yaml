@@ -1,0 +1,37 @@
+AC: 11
+CR: 1/2 (100 XP)
+HP: 32 (5d8 + 10)
+actions:
+    Heavy Crossbow: 'Ranged Weapon Attack: +2+1d4 + 0 to hit, range 100/400 ft., one
+        target. Hit: 5 (1d10) piercing damage.'
+    Mace: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit:
+        5 (1d6 + 2) bludgeoning damage.'
+    Multiattack: The thug makes two melee attacks.
+alignment: ANA
+book: Monster Manual
+charisma: '11'
+constitution: '14'
+dexterity: '11'
+intelligence: '10'
+intimidation: '+2'
+languages:
+- any one language (usually Common)
+name: Thug
+page: 350
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    intimidation: proficient
+speed:
+- 30 ft
+strength: '15'
+tags:
+- any
+traits:
+    Pack Tactics: The thug has advantage on an attack roll against a creature if at
+        least one of the thug's allies is within 5 feet of the creature and the ally
+        isn't incapacitated.
+type: humanoid
+wisdom: '10'

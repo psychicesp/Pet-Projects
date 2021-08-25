@@ -1,0 +1,47 @@
+AC: 10
+CR: 1/4 (50 XP)
+HP: 21 (6d6)
+actions:
+    Claws: 'Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one creature. Hit:
+        2 (1d4) slashing damage plus 2 (1d4) fire damage.'
+    Steam Breath (Recharge 6): The mephit exhales a 15-foot cone of scalding steam.
+        Each creature in that area must succeed on a DC 10+1d4 + 8 Dexterity saving
+        throw, taking 4 (1d8) fire damage on a failed save, or half as much damage
+        on a successful one.
+alignment: NE
+book: Monster Manual
+charisma: '12'
+condition_immunities:
+- poisoned
+constitution: '10'
+damage_immunities:
+- fire, poison
+dexterity: '11'
+hit: 6d6
+intelligence: '11'
+languages:
+- Aquan
+- Ignan
+name: Steam Mephit
+page: 217
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Small
+skills: {}
+speed:
+- 30 ft
+- fly 30 ft
+strength: '5'
+tags: []
+traits:
+    Death Burst: When the mephit dies, it explodes in a cloud of steam. Each creature
+        within 5 feet of the mephit must succeed on a DC 10+1d4 + 8 Dexterity saving
+        throw or take 4 (1d8) fire damage.
+    spellcasting:
+        ability: charisma.
+        spells: {}
+        type: innate
+type: elemental
+wisdom: '10'

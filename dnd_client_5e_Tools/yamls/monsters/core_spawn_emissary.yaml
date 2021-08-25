@@ -1,0 +1,55 @@
+AC: 15
+CR: 6 (2,300 XP)
+HP: 102 (12d8 + 48)
+actions:
+    Alluring Thrum (Recharges 5-6): The emissary emits a dreadful yet alluring hum.
+        Each creature within 20 feet of the emissary that can hear it and that isn't
+        an aberration must succeed on a DC 14+1d6 + 11 Constitution saving throw or
+        be charmed for 1 minute. A creature can repeat the saving throw at the end
+        of each of its turns, ending the effect on itself on a success.
+    Crystal Spores (Recharge 6): A 15-foot-radius cloud of toxic crystalline spores
+        extends out from the emissary. The spores spread around corners. Each creature
+        in the area must succeed on a DC 14+1d6 + 11 Constitution saving throw or
+        become poisoned. While poisoned in this way, a creature takes 11 (2d10) poison
+        damage at the start of each of its turns. A creature can repeat the saving
+        throw at the end of each of its turns, ending the effect on itself on a success.
+    Multiattack: The emissary makes three talons attacks.
+    Talons: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one creature. Hit:
+        14 (2d10 + 3) slashing damage.'
+alignment: CE
+book: Explorer\xe2\x80\x99s Guide to Wildemount
+charisma: '8'
+condition_immunities:
+- blinded
+constitution: '18'
+damage_immunities:
+- psychic
+dexterity: '15'
+intelligence: '8'
+languages:
+- telepathy 120 ft.
+- understands Deep Speech but can't speak
+name: Core Spawn Emissary
+page: 286
+perception: '+4'
+saving_throws:
+    charisma: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 30 ft.
+- tremorsense 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 40 ft
+- fly 60 ft. (hover)
+strength: '17'
+tags: []
+traits:
+    Magic Resistance: The emissary has advantage on saving throws against spells and
+        other magical effects.
+type: aberration
+wisdom: '13'

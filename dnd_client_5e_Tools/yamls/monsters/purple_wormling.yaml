@@ -1,0 +1,39 @@
+AC: 12
+CR: 2 (450 XP)
+HP: 42 (5d10 + 15)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7
+        (1d8 + 5) piercing damage. If the target is a Small or smaller creature, it
+        must succeed on a DC 13+1d4 + 11 Dexterity saving throw or be swallowed by
+        the worm. A swallowed creature is blinded and restrained, it has total cover
+        against attacks and other effects outside the wormling, and it takes 3 (1d6)
+        acid damage at the start of each of the wormling''s turns.'
+    Multiattack: 'The wormling makes two attacks: one with its bite and one with its
+        stinger.'
+    Tail Stinger: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature.
+        Hit: 5 (1d4 + 3) piercing damage, and the target must make a DC 13+1d4 + 11
+        Constitution saving throw, taking 10 (3d6) poison damage on a failed save,
+        or half as much damage on a successful one.'
+alignment: U
+book: Storm King\xe2\x80\x99s Thunder
+charisma: '2'
+constitution: '16'
+dexterity: '7'
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Purple Wormling
+page: 242
+saving_throws: {}
+senses:
+- blindsight 30 ft.
+- tremorsense 30 ft.
+- passive Perception 8
+size: Large
+skills: {}
+speed:
+- 20 ft
+strength: '16'
+tags: []
+type: monstrosity
+wisdom: '6'

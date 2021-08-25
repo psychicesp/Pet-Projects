@@ -1,0 +1,95 @@
+AC: 20
+CR: 24 (62,000 XP)
+HP: 333 (23d12 + 184)
+actions:
+    Bite: 'Melee Weapon Attack: +16+1d14 + 9 to hit, reach 10 ft., one target. Hit:
+        14 (1d10 + 9) piercing damage.'
+    Flail: 'Melee Weapon Attack: +16+1d14 + 9 to hit, reach 15 ft., one target. Hit:
+        15 (1d12 + 9) bludgeoning damage.'
+    Multiattack: 'Yeenoghu makes three flail attacks. If an attack hits, he can cause
+        it to create an additional effect of his choice or at random (each effect
+        can be used only once per Multiattack):'
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '15'
+condition_immunities:
+- charmed, exhaustion, frightened, poisoned
+constitution: '26'
+damage_immunities:
+- poison
+- bludgeoning, piercing, and slashing from nonmagical attacks
+dexterity: '16'
+in_lair:
+    CR_increase: 1
+    actions:
+    - Yeenoghu causes an iron spike - 5 feet tall and 1 inch in diameter - to burst
+        from the ground at a point he can see within 100 feet of him. Any creature
+        in the space where the spike emerges must make a DC 24+1d14 + 17 Dexterity
+        saving throw. On a failed save, the creature takes 27 (6d8) piercing damage
+        and is restrained by being impaled on the spike. A creature can use an action
+        to remove itself (or a creature it can reach) from the spike, ending the restrained
+        condition.
+    - Each gnoll or hyena that Yeenoghu can see can use its reaction to move up to
+        its speed.
+    - Until the next initiative count 20, all gnolls and hyenas within the lair are
+        enraged, causing them to have advantage on melee weapon attack rolls and causing
+        attack rolls to have advantage against them.
+intelligence: '15'
+intimidation: '+9'
+languages:
+- all
+- telepathy 120 ft.
+legendary_actions:
+    number: 3
+    options:
+        Charge: ' Yeenoghu moves up to his speed.'
+        Savage (Costs 2 Actions): ' Yeenoghu makes a bite attack against each creature
+            within 10 feet of him.'
+        Swat Away: ' Yeenoghu makes a flail attack. If the attack hits, the target
+            must succeed on a DC 24+1d14 + 17 Strength saving throw or be pushed 15
+            feet in a straight line away from Yeenoghu. If the saving throw fails
+            by 5 or more, the target falls prone.'
+name: Yeenoghu
+page: 155
+perception: '+14'
+resistances:
+- cold, fire, lightning
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 24
+size: Huge
+skills:
+    intimidation: proficient
+    perception: proficient
+speed:
+- 50 ft
+strength: '29'
+tags:
+- demon
+traits:
+    Legendary Resistance (3/Day): If Yeenoghu fails a saving throw, he can choose
+        to succeed instead.
+    Magic Resistance: Yeenoghu has advantage on saving throws against spells and other
+        magical effects.
+    Magic Weapons: Yeenoghu's weapon attacks are magical.
+    Rampage: When Yeenoghu reduces a creature to 0 hit points with a melee attack
+        on his turn, Yeenoghu can take a bonus action to move up to half his speed
+        and make a bite attack.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - teleport
+            3/day:
+            - dispel magic
+            - fear
+            - invisibility
+            at will:
+            - detect magic
+        type: innate
+type: fiend
+wisdom: '24'

@@ -1,0 +1,88 @@
+AC: 23
+CR: 28 (120,000 XP)
+HP: 478 (33d12 + 264)
+actions:
+    Change Shape: Rak Tulkhesh magically polymorphs into a humanoid, beast, or giant
+        that has a challenge rating no higher than his own, or back into his true
+        form. He reverts to his true form if he dies. Any equipment he is wearing
+        or carrying is absorbed or borne by the new form (his choice).
+    Multiattack: Rak Tulkhesh makes four weapon attacks.
+    Spawned Melee Weapon: 'Melee Weapon Attack: +17+1d16 + 9 to hit, reach 10 ft.,
+        one target. Hit: 28 (3d12 + 9) force damage.'
+    Spawned Ranged Weapon: 'Ranged Weapon Attack: +12+1d16 + 4 to hit, range 150/600
+        ft., one target. Hit: 17 (3d8 + 4) force damage.'
+alignment: NE
+athletics: '+17'
+book: 'Eberron: Rising from the Last War'
+charisma: '26'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, poisoned, stunned
+constitution: '27'
+damage_immunities:
+- poison
+- bludgeoning, piercing, and slashing from nonmagical attacks
+dexterity: '19'
+intelligence: '21'
+intimidation: '+16'
+languages:
+- all
+- telepathy 120 ft.
+legendary_actions:
+    number: 3
+    options:
+        Attack: ' Rak Tulkhesh makes one weapon attack.'
+        End Magic (Costs 2 Actions): ' Rak Tulkhesh casts dispel magic.'
+        Provoke Rage (Costs 3 Actions): ' Each creature within 60 feet of Rak Tulkhesh
+            must succeed on a DC 24+1d16 + 16 Wisdom saving throw or use its reaction
+            to make a melee weapon attack against a random creature within reach.
+            If no creatures are within reach, it makes a ranged weapon attack against
+            a random creature within range, throwing its weapon if necessary. This
+            attack is made with advantage and gains a +4 bonus to the damage roll.'
+name: Rak Tulkhesh
+page: 303
+perception: '+14'
+resistances:
+- cold, fire, lightning
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 24
+size: Huge
+skills:
+    athletics: proficient
+    intimidation: proficient
+    perception: proficient
+speed:
+- 40 ft
+- climb 40 ft
+- fly 80 ft
+strength: '29'
+tags: []
+traits:
+    Deadly Critical: Rak Tulkhesh scores a critical hit on a roll of 19 or 20 and
+        rolls the damage dice three times, instead of twice.
+    Legendary Resistance (3/Day): If Rak Tulkhesh fails a saving throw, he can choose
+        to succeed instead.
+    Magic Resistance: Rak Tulkhesh has advantage on saving throws against spells and
+        other magical effects.
+    Whirlwind of Weapons: A magical aura of weapons surrounds Rak Tulkhesh in a 10
+        foot radius. At the start of each of his turns, any other creature in the
+        aura takes 14 (4d6) force damage.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - banishing smite
+            - blinding smite
+            - staggering smite
+            at will:
+            - detect thoughts
+            - dispel magic
+            - spirit guardians
+        type: innate
+type: fiend
+wisdom: '22'

@@ -1,0 +1,55 @@
+AC: 13
+CR: 2 (450 XP)
+HP: 39 (6d8 + 12)
+actions:
+    Rapier: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        7 (1d8 + 3) piercing damage.'
+alignment: CN
+arcana: '+6'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '14'
+constitution: '15'
+dexterity: '16'
+intelligence: '18'
+languages:
+- Common plus any one language
+name: Counterflux Blastseeker
+page: 242
+perception: '+2'
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    arcana: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '13'
+tags:
+- any
+traits:
+    Counterflux Overcast (Recharge 5xe2x80x936): 'The blastseeker can create an additional
+        effect immediately after casting a spell. Roll a d6 to determine the effect:
+        1-3. The blastseeker creates a 15-foot-radius invisible sphere centered on
+        itself that lasts until the end of its next turn. Creatures in the sphere
+        have disadvantage on saving throws against spells and other magical effects.
+        4-6. The blastseeker creates a 15-foot-radius invisible sphere centered on
+        itself that lasts until the end of its next turn. Creatures in the sphere
+        have advantage on saving throws against spells and other magical effects.'
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - counterspell
+            - dispel magic
+            - protection from energy
+            3/day:
+            - enlarge/reduce
+            - mage armor
+            - scorching ray
+        type: innate
+type: humanoid
+wisdom: '11'

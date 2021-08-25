@@ -1,0 +1,69 @@
+AC: 19
+CR: 14 (11,500 XP)
+HP: 210 (20d10 + 100)
+actions:
+    Force Beam: The retriever targets one creature it can see within 60 feet of it.
+        The target must make a DC 16+1d10 + 11 Dexterity saving throw, taking 27 (5d10)
+        force damage on a failed save, or half as much damage on a successful one.
+    Foreleg: 'Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target.
+        Hit: 15 (2d8 + 6) slashing damage.'
+    Multiattack: The retriever makes two foreleg attacks and uses its force or paralyzing
+        beam once, if available.
+    Paralyzing Beam (Recharge 5xe2x80x936): The retriever targets one creature it
+        can see within 60 feet of it. The target must succeed on a DC 18+1d10 + 13
+        Constitution saving throw or be paralyzed for 1 minute. The paralyzed target
+        can repeat the saving throw at the end of each of its turns, ending the effect
+        on itself on a success.
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '4'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, poisoned
+constitution: '20'
+damage_immunities:
+- necrotic, poison, psychic
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+dexterity: '16'
+intelligence: '3'
+languages:
+- understands Abyssal
+- Elvish
+- and Undercommon but can\'t speak
+name: Retriever
+page: 222
+perception: '+5'
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 30 ft.
+- darkvision 60 ft.
+- passive Perception 15
+size: Large
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 40 ft
+- climb 40 ft
+stealth: '+8'
+strength: '22'
+tags: []
+traits:
+    Faultless Tracker: The retriever is given a quarry by its master. The quarry can
+        be a specific creature or object the master is personally acquainted with,
+        or it can be a general type of creature or object the master has seen before.
+        The retriever knows the direction and distance to its quarry as long as the
+        two of them are on the same plane of existence. The retriever can have only
+        one such quarry at a time. The retriever also always knows the location of
+        its master.
+    spellcasting:
+        ability: wisdom
+        spells:
+            3/day:
+            - plane shift
+            - web
+        type: innate
+type: construct
+wisdom: '11'

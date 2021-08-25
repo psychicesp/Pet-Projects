@@ -1,0 +1,101 @@
+AC: 18
+CR: 23 (50,000 XP) or 24 (62,000 XP) whe ecoutered i lair
+HP: 337 (27d10 + 189)
+actions:
+    Bite: 'Melee Weapon Attack: +16+1d14 + 9 to hit, reach 10 ft., one target. Hit:
+        19 (3d6 + 9) piercing damage.'
+    Fist: 'Melee Weapon Attack: +16+1d14 + 9 to hit, reach 10 ft., one target. Hit:
+        22 (3d8 + 9) bludgeoning damage.'
+    Multiattack: 'Fraz-Urb''luu makes three attacks: one with his bite and two with
+        his fists.'
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '26'
+condition_immunities:
+- charmed, exhaustion, frightened, poisoned
+constitution: '25'
+damage_immunities:
+- poison
+- bludgeoning, piercing, and slashing from nonmagical attacks
+deception: '+15'
+dexterity: '12'
+in_lair:
+    CR_increase: 1
+    actions:
+    - Fraz-Urb'luu causes up to 5 doors within the lair to become walls, and an equal
+        number of doors to appear on walls where there previously were none.
+    - Fraz-Urb'luu chooses one humanoid within the lair and instantly creates a simulacrum
+        of that creature (as if created with the simulacrum spell). This simulacrum
+        obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count
+        20.
+    - Fraz-Urb'luu creates a wave of anguish. Each creature he can see within the
+        lair must succeed on a DC 23+1d14 + 16 Wisdom saving throw or take 33 (6d10)
+        psychic damage.
+intelligence: '26'
+languages:
+- all
+- telepathy 120 ft.
+legendary_actions:
+    number: 3
+    options:
+        Phantasmal Killer (Costs 2 Actions): ' Fraz-Urb''luu casts phantasmal killer,
+            no concentration required.'
+        Tail: ' Melee Weapon Attack: +16+1d14 + 9 to hit, reach 15 ft., one target.
+            Hit: 20 (2d10 + 9) bludgeoning damage. If the target is a Large or smaller
+            creature, it is also grappled (escape DC 24+1d14 + 17). The grappled target
+            is also restrained. Fraz-Urb''luu can grapple only one creature with his
+            tail at a time.'
+name: Fraz-Urb\'luu
+page: 146
+perception: '+14'
+resistances:
+- cold, fire, lightning
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 24
+size: Large
+skills:
+    deception: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 40 ft
+- fly 40 ft
+stealth: '+8'
+strength: '29'
+tags:
+- demon
+traits:
+    Legendary Resistance (3/Day): If Fraz-Urb'luu fails a saving throw, he can choose
+        to succeed instead.
+    Magic Resistance: Fraz-Urb'luu has advantage on saving throws against spells and
+        other magical effects.
+    Magic Weapons: Fraz-Urb'luu's weapon attacks are magical.
+    Undetectable: Fraz-Urb'luu can't be targeted by divination magic, perceived through
+        magical scrying sensors, or detected by abilities that sense demons or fiends.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - mirage arcane
+            - modify memory
+            - project image
+            3/day:
+            - confusion
+            - dream
+            - mislead
+            - programmed illusion
+            - seeming
+            at will:
+            - alter self
+            - detect magic
+            - dispel magic
+            - phantasmal force
+        type: innate
+type: fiend
+wisdom: '24'

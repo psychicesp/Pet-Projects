@@ -1,0 +1,52 @@
+AC: 15
+CR: 5 (1,800 XP)
+HP: 49 (9d8 + 9)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one creature. Hit:
+        11 (2d8 + 2) slashing damage plus 5 (1d10) necrotic damage.'
+    Claws: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit:
+        12 (2d6 + 5) slashing damage. If the target is a creature other than an undead,
+        it must succeed on a DC 12+1d6 + 9 Constitution saving throw or be paralyzed
+        for 1 minute. The target can repeat the saving throw at the end of each of
+        its turns, ending the effect on itself on a success.'
+    Multiattack: 'The shadowghast makes two attacks: one with its bite and one with
+        its claws.'
+alignment: CE
+book: Explorer\xe2\x80\x99s Guide to Wildemount
+charisma: '8'
+condition_immunities:
+- charmed, exhaustion, poisoned
+constitution: '12'
+damage_immunities:
+- poison
+dexterity: '20'
+intelligence: '12'
+languages:
+- \xe2\x80\x94
+name: Shadowghast
+page: 299
+perception: '+3'
+resistances:
+- necrotic
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 35 ft
+stealth: '+8'
+strength: '14'
+tags: []
+traits:
+    Shadow Stealth: While in dim light or darkness, the shadowghast can take the Hide
+        action as a bonus action.
+    Stench: Any creature that starts its turn within 5 feet of the shadowghast must
+        succeed on a DC 12+1d6 + 9 Constitution saving throw or be poisoned until
+        the start of its next turn. On a successful saving throw, the creature is
+        immune to this Stench for 24 hours.
+type: undead
+wisdom: '11'

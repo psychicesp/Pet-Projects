@@ -1,0 +1,49 @@
+AC: 17
+CR: 2 (450 XP)
+HP: 38 (7d8 + 7)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7
+        (1d10 + 2) piercing damage plus 3 (1d6) poison damage.'
+    Poison Breath (Recharge 5xe2x80x936): The dragon exhales poisonous gas in a 15-foot
+        cone. Each creature in that area must make a DC 11+1d4 + 9 Constitution saving
+        throw, taking 21 (6d6) poison damage on a failed save, or half as much damage
+        on a successful one.
+alignment: LE
+book: Monster Manual
+charisma: '13'
+condition_immunities:
+- poisoned
+constitution: '13'
+damage_immunities:
+- poison
+dexterity: '12'
+intelligence: '14'
+languages:
+- Draconic
+name: Green Dragon Wyrmling
+page: 95
+perception: '+4'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 10 ft.
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 30 ft
+- fly 60 ft
+- swim 30 ft
+stealth: '+3'
+strength: '15'
+tags: []
+traits:
+    Amphibious: The dragon can breathe air and water.
+type: dragon
+wisdom: '11'

@@ -1,0 +1,67 @@
+AC: 15
+CR: 7 (2,900 XP)
+HP: 127 (15d10 + 45)
+actions:
+    Bite: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one creature. Hit:
+        7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage.'
+    Constrict: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one target.
+        Hit: 11 (2d6 + 4) bludgeoning damage, and the target is grappled (escape DC
+        14+1d6 + 11). Until this grapple ends, the target is restrained, and the yuan-ti
+        can''t constrict another target.'
+    Longbow (Abomination Form Only): 'Ranged Weapon Attack: +6+1d6 + 3 to hit, range
+        150/600 ft., one target. Hit: 12 (2d8 + 3) piercing damage plus 10 (3d6) poison
+        damage.'
+    Multiattack (Abomination Form Only): The yuan-ti makes two ranged attacks or three
+        melee attacks, but can use its bite and constrict attacks only once each.
+    Scimitar (Abomination Form Only): 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach
+        5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.'
+alignment: Y
+book: Monster Manual
+charisma: '18'
+condition_immunities:
+- poisoned
+constitution: '17'
+damage_immunities:
+- poison
+dexterity: '16'
+intelligence: '17'
+languages:
+- Abyssal
+- Common
+- Draconic
+name: Yuan-ti Abomination
+page: 308
+perception: '+5'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 15
+size: Large
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 40 ft
+stealth: '+6'
+strength: '19'
+tags:
+- shapechanger
+traits:
+    Magic Resistance: The yuan-ti has advantage on saving throws against spells and
+        other magical effects.
+    Shapechanger: The yuan-ti can use its action to polymorph into a Large snake,
+        or back into its true form. Its statistics are the same in each form. Any
+        equipment it is wearing or carrying isn't transformed. It doesn't change form
+        if it dies.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - fear
+            3/day:
+            - suggestion
+            at will:
+            - animal friendship
+        type: innate
+type: monstrosity
+wisdom: '15'

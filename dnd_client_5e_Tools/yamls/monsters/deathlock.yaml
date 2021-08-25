@@ -1,0 +1,60 @@
+AC: 12
+CR: 4 (1,100 XP)
+HP: 36 (8d8)
+actions:
+    Deathly Claw: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 9 (2d6 + 2) necrotic damage.'
+alignment: LE
+arcana: '+4'
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '16'
+condition_immunities:
+- exhaustion, poisoned
+constitution: '10'
+damage_immunities:
+- poison
+dexterity: '15'
+history: '+4'
+hit: 8d8
+intelligence: '14'
+languages:
+- the languages it knew in life
+name: Deathlock
+page: 128
+resistances:
+- necrotic
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t silvered
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Medium
+skills:
+    arcana: proficient
+    history: proficient
+speed:
+- 30 ft
+strength: '11'
+tags: []
+traits:
+    Turn Resistance: The deathlock has advantage on saving throws against any effect
+        that turns undead.
+    spellcasting:
+        ability: charisma
+        spells:
+            1st-3rd:
+            - arms of Hadar
+            - dispel magic
+            - hold person
+            - hunger of Hadar
+            - invisibility
+            - spider climb
+            Cantrips:
+            - chill touch
+            - eldritch blast
+            - mage hand
+        type: innate
+type: undead
+wisdom: '12'

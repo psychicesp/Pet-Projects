@@ -1,0 +1,59 @@
+AC: 12
+CR: 1 (200 XP)
+HP: 32 (5d8 + 10)
+actions:
+    Iron Skull Flail: 'Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target.
+        Hit: 4 (1d8) bludgeoning damage plus 7 (2d6) necrotic damage, and the target
+        has disadvantage on all saving throws until the end of the skull lasher''s
+        next turn.'
+    Multiattack: The skull lasher makes two attacks with its flail.
+    Ray of Sickness (1st-Level Spell; Requires a Spell Slot): 'Ranged Spell Attack:
+        +5+1d4 + 3 to hit, range 60 ft., one creature. Hit: 9 (2d8) poison damage,
+        and the target must succeed on a DC 13+1d4 + 11 Constitution saving throw
+        or be poisoned until the end of the skull lasher''s next turn. If the skull
+        lasher casts this spell using a spell slot of 2nd level or higher, the damage
+        increases by 1d8 for each slot level above 1st.'
+alignment: NE
+arcana: '+5'
+book: 'Baldur\xe2\x80\x99s Gate: Descent Into Avernus'
+charisma: '10'
+constitution: '15'
+dexterity: '14'
+intelligence: '16'
+languages:
+- Abyssal
+- Common
+- Infernal
+name: Skull Lasher of Myrkul
+page: 234
+religion: '+5'
+saving_throws:
+    wisdom: proficient
+senses:
+- passive Perception 11
+size: Medium
+skills:
+    arcana: proficient
+    religion: proficient
+speed:
+- 30 ft
+strength: '10'
+tags:
+- human
+traits:
+    spellcasting:
+        ability: wisdom
+        level: 3
+        spells:
+        - mage hand
+        - message
+        - prestidigitation
+        - detect magic
+        - protection from evil and good
+        - ray of sickness
+        - shield
+        - darkness
+        - misty step
+        type: wizard
+type: humanoid
+wisdom: '13'

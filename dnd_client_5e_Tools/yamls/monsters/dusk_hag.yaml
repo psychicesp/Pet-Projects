@@ -1,0 +1,63 @@
+AC: 17
+CR: 6 (2,300 XP)
+HP: 82 (15d8 + 15)
+actions:
+    Claws: 'Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit:
+        5 (1d6 + 2) slashing damage.'
+    Multiattack: The hag makes two Nightmare Touch attacks.
+    Nightmare Touch: 'Melee Spell Attack: +7+1d6 + 4 to hit, reach 5 ft., one creature.
+        Hit: 18 (4d6 + 4) psychic damage. If the target is unconscious, it takes an
+        extra 10 (3d6) psychic damage and is cursed until the hag dies or the curse
+        is removed. The cursed creature''s hit point maximum decreases by 5 (1d10)
+        whenever it finishes a long rest.'
+alignment: NE
+book: 'Eberron: Rising from the Last War'
+charisma: '18'
+condition_immunities:
+- blinded, charmed, frightened
+constitution: '12'
+deception: '+7'
+dexterity: '14'
+insight: '+6'
+intelligence: '17'
+languages:
+- Common
+- Giant
+- Infernal
+name: Dusk Hag
+page: 292
+perception: '+6'
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- blindsight 60 ft.
+- passive Perception 16
+size: Medium
+skills:
+    deception: proficient
+    insight: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '11'
+tags: []
+traits:
+    Magic Resistance: The hag has advantage on saving throws against spells and other
+        magical effects.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - legend lore
+            - scrying
+            3/day:
+            - dream
+            - hypnotic pattern
+            - sleep
+            at will:
+            - detect magic
+            - disguise self
+        type: innate
+type: fey
+wisdom: '16'

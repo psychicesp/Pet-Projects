@@ -1,0 +1,43 @@
+AC: 16
+CR: 1 (200 XP)
+HP: 22 (4d8 + 4)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7
+        (1d10 + 2) piercing damage.'
+    Breath Weapons (Recharge 5xe2x80x936): The dragon uses one of the following breath
+        weapons.
+alignment: CG
+book: Monster Manual
+charisma: '13'
+constitution: '13'
+damage_immunities:
+- acid
+dexterity: '12'
+intelligence: '14'
+languages:
+- Draconic
+name: Copper Dragon Wyrmling
+page: 111
+perception: '+4'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 10 ft.
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 30 ft
+- climb 30 ft
+- fly 60 ft
+stealth: '+3'
+strength: '15'
+tags: []
+type: dragon
+wisdom: '11'

@@ -1,0 +1,23 @@
+casting time: 1 bonus action
+classes:
+- Artificer
+- Cleric
+components: V, S, M
+concentration: false
+cost: 0
+description: You ward a creature within range against attack. Until the spell ends,
+    any creature who targets the warded creature with an attack or a harmful spell
+    must first make a Wisdom saving throw. On a failed save, the creature must choose
+    a new target or lose the attack or spell. This spell doesn't protect the warded
+    creature from area effects, such as the explosion of a fireball. If the warded
+    creature makes an attack, casts a spell that affects an enemy, or deals damage
+    to another creature, this spell ends.
+duration: 1 minute
+extras: a small silver mirror
+level: 1
+name: Sanctuary
+page: 272
+range: 30 feet
+ritual: false
+school: abjuration
+source: PHB

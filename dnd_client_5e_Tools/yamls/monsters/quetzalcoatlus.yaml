@@ -1,0 +1,36 @@
+AC: 13
+CR: 2 (450 XP)
+HP: 30 (4d12 + 4)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 10 ft., one creature. Hit:
+        12 (3d6 + 2) piercing damage.'
+alignment: U
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '5'
+constitution: '13'
+dexterity: '13'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Quetzalcoatlus
+page: 140
+perception: '+2'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Huge
+skills:
+    perception: proficient
+speed:
+- 10 ft
+- fly 80 ft
+strength: '15'
+tags: []
+traits:
+    Dive Attack: If the quetzalcoatlus is flying and dives at least 30 feet toward
+        a target and then hits with a bite attack, the attack deals an extra 10 (3d6)
+        damage to the target.
+    Flyby: The quetzalcoatlus doesn't provoke an opportunity attack when it flies
+        out of an enemy's reach.
+type: beast
+wisdom: '10'

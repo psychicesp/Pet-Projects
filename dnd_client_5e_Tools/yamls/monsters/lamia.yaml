@@ -1,0 +1,57 @@
+AC: 13
+CR: 4 (1,100 XP)
+HP: 97 (13d10 + 26)
+actions:
+    Claws: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        14 (2d10 + 3) slashing damage.'
+    Dagger: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        5 (1d4 + 3) piercing damage.'
+    Intoxicating Touch: 'Melee Spell Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature.
+        Hit: The target is magically cursed for 1 hour. Until the curse ends, the
+        target has disadvantage on Wisdom saving throws and all ability checks.'
+    Multiattack: 'The lamia makes two attacks: one with its claws and one with its
+        dagger or Intoxicating Touch.'
+alignment: CE
+book: Monster Manual
+charisma: '16'
+constitution: '15'
+deception: '+7'
+dexterity: '13'
+insight: '+4'
+intelligence: '14'
+languages:
+- Abyssal
+- Common
+name: Lamia
+page: 201
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Large
+skills:
+    deception: expert
+    insight: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+3'
+strength: '16'
+tags: []
+traits:
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - geas
+            3/day:
+            - charm person
+            - mirror image
+            - scrying
+            - suggestion
+            at will:
+            - disguise self
+            - major image
+        type: innate
+type: monstrosity
+wisdom: '15'

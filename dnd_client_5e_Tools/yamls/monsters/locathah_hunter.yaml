@@ -1,0 +1,46 @@
+AC: 14
+CR: 2 (450 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Club: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4
+        (1d6 + 1) bludgeoning damage.'
+    Envenomed Crossbow: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 80/320 ft.,
+        one target. Hit: 11 (2d8 + 2) piercing damage, and the target must succeed
+        on a DC 12+1d4 + 10 Constitution saving throw or be poisoned until the end
+        of its next turn.'
+    Multiattack: The hunter makes two attacks with its envenomed crossbow.
+alignment: N
+athletics: '+3'
+book: Ghosts of Saltmarsh
+charisma: '11'
+constitution: '12'
+dexterity: '14'
+intelligence: '11'
+languages:
+- Aquan
+- Common
+name: Locathah Hunter
+page: 243
+perception: '+4'
+saving_throws:
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- passive Perception 14
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+speed:
+- 30 ft
+- swim 30 ft
+strength: '13'
+tags:
+- locathah
+traits:
+    Leviathan Will: The hunter has advantage on saving throws against spells and effects
+        that control its actions.
+    Limited Amphibiousness: The hunter can breathe air and water, but it needs to
+        be submerged at least once every 4 hours to avoid suffocating.
+type: humanoid
+wisdom: '14'

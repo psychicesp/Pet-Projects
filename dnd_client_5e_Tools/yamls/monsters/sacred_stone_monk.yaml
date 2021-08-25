@@ -1,0 +1,41 @@
+AC: 14
+CR: 1/2 (100 XP)
+HP: 22 (4d8 + 4)
+acrobatics: '+4'
+actions:
+    Multiattack: The monk makes two melee attacks.
+    Unarmed Strike: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) bludgeoning damage.'
+alignment: LE
+athletics: '+3'
+book: Princes of the Apocalypse
+charisma: '9'
+constitution: '12'
+dexterity: '15'
+intelligence: '10'
+languages:
+- Common
+name: Sacred Stone Monk
+page: 196
+perception: '+4'
+saving_throws: {}
+senses:
+- tremorsense 10 ft.
+- passive Perception 14
+size: Medium
+skills:
+    acrobatics: proficient
+    athletics: proficient
+    perception: proficient
+speed:
+- 40 ft
+strength: '13'
+tags:
+- human
+traits:
+    Unarmored Defense: While the monk is wearing no armor and wielding no shield,
+        its AC includes its Wisdom modifier.
+    Unarmored Movement: While the monk is wearing no armor and wielding no shield,
+        its walking speed increases by 10 feet (included in its speed).
+type: humanoid
+wisdom: '14'

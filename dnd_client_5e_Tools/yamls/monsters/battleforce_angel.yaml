@@ -1,0 +1,51 @@
+AC: 18
+CR: 5 (1,800 XP)
+HP: 66 (12d8 + 12)
+actions:
+    Battlefield Inspiration: The angel chooses up to three creatures it can see within
+        30 feet of it. Until the end of the angel's next turn, each target can add
+        a d4 to its attack rolls and saving throws.
+    Longsword: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit:
+        7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with
+        two hands, plus 18 (4d8) radiant damage. If the target is within 5 feet of
+        any of the angel''s allies, the target takes an extra 2 (1d4) radiant damage.'
+    Multiattack: The angel makes two melee attacks. It also uses Battlefield Inspiration.
+alignment: LG
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '18'
+condition_immunities:
+- charmed, exhaustion, frightened
+constitution: '13'
+dexterity: '12'
+intelligence: '11'
+investigation: '+3'
+languages:
+- all
+name: Battleforce Angel
+page: 189
+perception: '+6'
+resistances:
+- fire, radiant
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- truesight 120 ft.
+- passive Perception 16
+size: Medium
+skills:
+    investigation: proficient
+    perception: proficient
+speed:
+- 30 ft
+- fly 90 ft
+strength: '16'
+tags: []
+traits:
+    Flyby: The angel doesn't provoke an opportunity attack when it flies out of an
+        enemy's reach.
+    Magic Resistance: The angel has advantage on saving throws against spells and
+        other magical effects.
+type: celestial
+wisdom: '17'

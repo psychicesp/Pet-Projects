@@ -1,0 +1,51 @@
+AC: ''
+CR: 11 (7,200 XP)
+HP: 168 (16d12 + 64)
+actions:
+    Bite: 'Melee Weapon Attack: +10+1d8 + 6 to hit, reach 10 ft., one target. Hit:
+        22 (3d10 + 6) piercing damage.'
+    Constrict: 'Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one Large or
+        smaller creature. Hit: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6)
+        slashing damage. The target is grappled (escape DC 16+1d8 + 12) if the behir
+        isn''t already constricting a creature, and the target is restrained until
+        this grapple ends.'
+    Lightning Breath (Recharge 5xe2x80x936): The behir exhales a line of lightning
+        that is 20 feet long and 5 feet wide. Each creature in that line must make
+        a DC 16+1d8 + 12 Dexterity saving throw, taking 66 (12d10) lightning damage
+        on a failed save, or half as much damage on a successful one.
+    Multiattack: 'The behir makes two attacks: one with its bite and one to constrict.'
+    Swallow: The behir makes one bite attack against a Medium or smaller target it
+        is grappling. If the attack hits, the target is also swallowed, and the grapple
+        ends. While swallowed, the target is blinded and restrained, it has total
+        cover against attacks and other effects outside the behir, and it takes 21
+        (6d6) acid damage at the start of each of the behir's turns. A behir can have
+        only one creature swallowed at a time.
+alignment: NE
+book: Candlekeep Mysteries
+charisma: '12'
+constitution: '18'
+damage_immunities:
+- lightning
+dexterity: '16'
+intelligence: '7'
+languages:
+- Draconic
+name: Parasite-infested Behir
+page: 220
+perception: '+6'
+saving_throws: {}
+senses:
+- darkvision 90 ft.
+- passive Perception 16
+size: Huge
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 50 ft
+- climb 40 ft
+stealth: '+7'
+strength: '23'
+tags: []
+type: undead
+wisdom: '14'

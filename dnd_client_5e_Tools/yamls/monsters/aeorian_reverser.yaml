@@ -1,0 +1,49 @@
+AC: 15
+CR: 8 (3,900 XP)
+HP: 133 (14d10 + 56)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d6 + 5 to hit, range 5 ft., one creature. Hit:
+        11 (1d12 + 5) piercing damage plus 6 (1d12) force damage.'
+    Claws: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit:
+        8 (1d6 + 5) slashing damage plus 7 (2d6) force damage.'
+    Multiattack: 'The reverser makes three attacks: one with its bite and two with
+        its claws.'
+alignment: NE
+book: "Explorer\u2019s Guide to Wildemount"
+charisma: 8 (-1)
+charisma save: '+2'
+constitution: 18 (+4)
+damage_immunities:
+- necrotic, radiant
+dexterity: 16 (+3)
+hit points: 14d10 + 56
+intelligence: 6 (-2)
+languages:
+- understands Draconic but can't speak
+name: Aeorian Reverser
+page: 284
+perception: '+5'
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 15
+size: Large
+skills:
+    perception: proficient
+    stealth: proficient
+    survival: proficient
+speed:
+- 40 ft
+- climb 40 ft
+stealth: '+6'
+strength: 21 (+5)
+survival: '+5'
+tags: []
+traits:
+    Magic Resistance: The reverser has advantage on saving throws against spells and
+        other magical effects.
+type: monstrosity
+wisdom: 14 (+2)
+wisdom save: '+5'

@@ -1,0 +1,40 @@
+AC: 17
+CR: 2 (450 XP)
+HP: 39 (6d8 + 12)
+actions:
+    Warhammer: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used
+        with two hands to make a melee attack, plus 3 (1d6) fire damage.'
+alignment: LN
+book: Monster Manual
+charisma: '10'
+condition_immunities:
+- poisoned
+constitution: '15'
+damage_immunities:
+- fire, poison
+dexterity: '12'
+intelligence: '12'
+languages:
+- Ignan
+name: Azer
+page: 22
+saving_throws:
+    constitution: proficient
+senses:
+- passive Perception 11
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '17'
+tags: []
+traits:
+    Heated Body: A creature that touches the azer or hits it with a melee attack while
+        within 5 feet of it takes 5 (1d10) fire damage.
+    Heated Weapons: When the azer hits with a metal melee weapon, it deals an extra
+        3 (1d6) fire damage (included in the attack).
+    Illumination: The azer sheds bright light in a 10-foot radius and dim light for
+        an additional 10 feet.
+type: elemental
+wisdom: '13'

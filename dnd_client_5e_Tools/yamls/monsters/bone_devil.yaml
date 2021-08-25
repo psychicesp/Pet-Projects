@@ -1,0 +1,56 @@
+AC: 19
+CR: 9 (5,000 XP)
+HP: 142 (15d10 + 60)
+actions:
+    Claw: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 10 ft., one target. Hit:
+        8 (1d8 + 4) slashing damage.'
+    Multiattack: 'The devil makes three attacks: two with its claws and one with its
+        sting.'
+    Sting: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 10 ft., one target. Hit:
+        13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must
+        succeed on a DC 14+1d8 + 10 Constitution saving throw or become poisoned for
+        1 minute. The target can repeat the saving throw at the end of each of its
+        turns, ending the effect on itself on a success.'
+alignment: LE
+book: Monster Manual
+charisma: '16'
+condition_immunities:
+- poisoned
+constitution: '18'
+damage_immunities:
+- fire, poison
+deception: '+7'
+dexterity: '16'
+insight: '+6'
+intelligence: '13'
+languages:
+- Infernal
+- telepathy 120 ft.
+name: Bone Devil
+page: 71
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 12
+size: Large
+skills:
+    deception: proficient
+    insight: proficient
+speed:
+- 40 ft
+- fly 40 ft
+strength: '18'
+tags:
+- devil
+traits:
+    Devil's Sight: Magical darkness doesn't impede the devil's darkvision.
+    Magic Resistance: The devil has advantage on saving throws against spells and
+        other magical effects.
+type: fiend
+wisdom: '14'

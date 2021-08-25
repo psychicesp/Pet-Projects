@@ -1,0 +1,41 @@
+AC: 11
+CR: 1 (200 XP)
+HP: 13 (3d8)
+actions:
+    Withering Touch: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target.
+        Hit: 10 (3d6) necrotic damage.'
+alignment: AA
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '11'
+condition_immunities:
+- charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone,
+    restrained
+constitution: '10'
+damage_immunities:
+- cold, necrotic, poison
+dexterity: '13'
+hit: 3d8
+intelligence: '10'
+languages:
+- the languages it knew in life
+name: Indentured Spirit
+page: 206
+resistances:
+- acid, fire, lightning, thunder
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Medium
+skills: {}
+speed:
+- 0 ft
+- fly 40 ft. (hover)
+strength: '7'
+tags: []
+traits:
+    Incorporeal Movement: The spirit can move through other creatures and objects
+        as if they were difficult terrain. It takes 5 (1d10) force damage if it ends
+        its turn inside an object.
+type: undead
+wisdom: '12'

@@ -1,0 +1,49 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 33 (6d8 + 6)
+acrobatics: '+5'
+actions:
+    Multiattack: The satyr makes two ram attacks or two shortbow attacks.
+    Ram: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6
+        (2d4 + 1) bludgeoning damage.'
+    Shortbow: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 80/320 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage.'
+alignment: CN
+book: Mythic Odysseys of Theros
+charisma: '16'
+constitution: '13'
+dexterity: '16'
+intelligence: '12'
+languages:
+- Common
+- Sylvan
+name: Satyr Reveler
+page: 242
+performance: '+7'
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    acrobatics: proficient
+    performance: expert
+    stealth: proficient
+speed:
+- 40 ft
+stealth: '+5'
+strength: '12'
+tags: []
+traits:
+    Enthralling Performance: If the satyr performs for at least 1 minute, it chooses
+        up to four humanoids within 60 feet of it who watched or listened to the entire
+        performance. Each target must succeed on a DC 13+1d4 + 11 Wisdom saving throw
+        or be charmed. While charmed in this way, the target idolizes the satyr and
+        will take part in the satyr's revels. The charmed condition ends for the creature
+        after 1 hour, if it takes any damage, if the satyr attacks the target, or
+        if the target witnesses the satyr attacking or damaging any of the target's
+        allies.
+    Magic Resistance: The satyr has advantage on saving throws against spells and
+        other magical effects.
+    Sleepless Reveler: Magic can't put the satyr to sleep.
+type: fey
+wisdom: '10'

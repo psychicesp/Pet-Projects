@@ -1,0 +1,59 @@
+AC: 18
+CR: 5 (1,800 XP)
+HP: 71 (11d8 + 22)
+actions:
+    Hand Crossbow: 'Ranged Weapon Attack: +7+1d6 + 4 to hit, range 30/120 ft., one
+        target. Hit: 7 (1d6 + 4) piercing damage, and the target must succeed on a
+        DC 13+1d6 + 10 Constitution saving throw or be poisoned for 1 hour. If the
+        saving throw fails by 5 or more, the target is also unconscious while poisoned
+        in this way. The target wakes up if it takes damage or if another creature
+        takes an action to shake it awake.'
+    Multiattack: The drow makes two shortsword attacks.
+    Shortsword: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target.
+        Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage.'
+alignment: NE
+book: Monster Manual
+charisma: '12'
+constitution: '14'
+dexterity: '18'
+intelligence: '11'
+languages:
+- Elvish
+- Undercommon
+name: Drow Elite Warrior
+page: 128
+perception: '+4'
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: proficient
+    stealth: expert
+speed:
+- 30 ft
+stealth: '+10'
+strength: '13'
+tags:
+- elf
+traits:
+    Fey Ancestry: The drow has advantage on saving throws against being charmed, and
+        magic can't put the drow to sleep.
+    Sunlight Sensitivity: While in sunlight, the drow has disadvantage on attack rolls,
+        as well as on Wisdom (Perception) checks that rely on sight.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - darkness
+            - faerie fire
+            - levitate
+            at will:
+            - dancing lights
+        type: innate
+type: humanoid
+wisdom: '13'

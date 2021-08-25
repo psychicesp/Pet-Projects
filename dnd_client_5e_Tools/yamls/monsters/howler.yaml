@@ -1,0 +1,47 @@
+AC: 16
+CR: 8 (3,900 XP)
+HP: 90 (12d10 + 24)
+actions:
+    Mind-Breaking Howl (Recharge 6): The howler emits a keening howl in a 60-foot
+        cone. Each creature in that area that isn't deafened must succeed on a DC
+        16+1d6 + 13 Wisdom saving throw or be frightened until the end of the howler's
+        next turn. While a creature is frightened in this way, its speed is halved,
+        and it is incapacitated. A target that successfully saves is immune to the
+        Mind-Breaking Howl of all howlers for the next 24 hours.
+    Multiattack: The howler makes two bite attacks.
+    Rending Bite: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target.
+        Hit: 10 (2d6 + 3) piercing damage. If the target is frightened it takes an
+        additional 22 (4d10) psychic damage. This attack ignores damage resistance.'
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '6'
+condition_immunities:
+- frightened
+constitution: '15'
+dexterity: '16'
+intelligence: '5'
+languages:
+- understands Abyssal but can\'t speak
+name: Howler
+page: 210
+perception: '+8'
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 15
+size: Large
+skills:
+    perception: proficient
+speed:
+- 40 ft
+strength: '17'
+tags: []
+traits:
+    Pack Tactics: A howler has advantage on attack rolls against a creature if at
+        least one of the howler's allies is within 5 feet of the creature and the
+        ally isn't incapacitated.
+type: fiend
+wisdom: '20'

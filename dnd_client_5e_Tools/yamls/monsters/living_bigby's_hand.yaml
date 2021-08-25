@@ -1,0 +1,52 @@
+AC: 20
+CR: 4 (1,100 XP)
+HP: 52 (5d10 + 25)
+actions:
+    Force Fist: 'Melee Spell Attack: +10+1d4 + 8 to hit, reach 5 ft., one target.
+        Hit: 26 (4d8 + 8) force damage. If the target is a Large or smaller creature,
+        the living spell can move it up to 5 feet and move with it, without provoking
+        opportunity attacks.'
+    Grasping Hand: The living spell attempts to grab a Huge or smaller creature within
+        5 feet of it. The target must succeed on a DC 15+1d4 + 13 Dexterity saving
+        throw or be grappled (escape DC 15+1d4 + 13). Until the grapple ends, the
+        target takes 15 (2d6 + 8) bludgeoning damage at the start of each of its turns.
+        The living spell can grapple only one creature at a time and can't use Force
+        Fist until the grapple ends.
+alignment: U
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '1'
+condition_immunities:
+- blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned,
+    unconscious
+constitution: '20'
+damage_immunities:
+- poison
+dexterity: '10'
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Living Bigby\'s Hand
+page: 298
+perception: '+2'
+saving_throws:
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Large
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 0 ft
+- fly 60 ft. (hover)
+stealth: '+2'
+strength: '26'
+tags: []
+traits:
+    Magic Resistance: The living spell has advantage on saving throws against spells
+        and other magical effects.
+    Unusual Nature: The living spell doesn't require air, food, drink, or sleep.
+type: construct
+wisdom: '10'

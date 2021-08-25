@@ -1,0 +1,60 @@
+AC: 15
+CR: 7 (2,900 XP)
+HP: 119 (14d8 + 56)
+actions:
+    Claw: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 12
+        (2d8 + 3) slashing damage.'
+    Flailing Claws (Recharge 5xe2x80x936): The dhergoloth moves up to its walking
+        speed in a straight line and targets each creature within 5 feet of it during
+        its movement. Each target must succeed on a DC 14+1d6 + 11 Dexterity saving
+        throw or take 22 (3d12 + 3) slashing damage.
+    Multiattack: The dhergoloth makes two claw attacks.
+    Teleport: The dhergoloth magically teleports, along with any equipment it is wearing
+        or carrying, up to 60 feet to an unoccupied space it can see.
+alignment: NE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '9'
+condition_immunities:
+- poisoned
+constitution: '19'
+damage_immunities:
+- acid, poison
+dexterity: '10'
+intelligence: '7'
+languages:
+- Abyssal
+- Infernal
+- telepathy 60 ft.
+name: Dhergoloth
+page: 248
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    strength: proficient
+senses:
+- blindsight 60 ft.
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '17'
+tags:
+- yugoloth
+traits:
+    Magic Resistance: The dhergoloth has advantage on saving throws against spells
+        and other magical effects.
+    Magic Weapons: The dhergoloth's weapon attacks are magical.
+    spellcasting:
+        ability: charisma
+        spells:
+            3/day:
+            - sleep
+            at will:
+            - darkness
+            - fear
+        type: innate
+type: fiend
+wisdom: '10'

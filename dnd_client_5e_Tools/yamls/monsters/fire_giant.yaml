@@ -1,0 +1,39 @@
+AC: 18
+CR: 9 (5,000 XP)
+HP: 162 (13d12 + 78)
+actions:
+    Greatsword: 'Melee Weapon Attack: +11+1d8 + 7 to hit, reach 10 ft., one target.
+        Hit: 28 (6d6 + 7) slashing damage.'
+    Multiattack: The giant makes two greatsword attacks.
+    Rock: 'Ranged Weapon Attack: +11+1d8 + 7 to hit, range 60/240 ft., one target.
+        Hit: 29 (4d10 + 7) bludgeoning damage.'
+alignment: LE
+athletics: '+11'
+book: Monster Manual
+charisma: '13'
+constitution: '23'
+damage_immunities:
+- fire
+dexterity: '9'
+intelligence: '10'
+languages:
+- Giant
+name: Fire Giant
+page: 154
+perception: '+6'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+senses:
+- passive Perception 16
+size: Huge
+skills:
+    athletics: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '25'
+tags: []
+type: giant
+wisdom: '14'

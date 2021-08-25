@@ -1,0 +1,38 @@
+AC: 15
+CR: 1/4 (50 XP)
+HP: 7 (2d6)
+actions:
+    Scimitar: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        5 (1d6 + 2) slashing damage.'
+    Shortbow: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 80/320 ft., one target.
+        Hit: 5 (1d6 + 2) piercing damage.'
+alignment: NE
+book: Monster Manual
+charisma: '8'
+constitution: '10'
+dexterity: '14'
+hit: 2d6
+intelligence: '10'
+languages:
+- Common
+- Goblin
+name: Goblin
+page: 166
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 9
+size: Small
+skills:
+    stealth: expert
+speed:
+- 30 ft
+stealth: '+6'
+strength: '8'
+tags:
+- goblinoid
+traits:
+    Nimble Escape: The goblin can take the Disengage or Hide action as a bonus action
+        on each of its turns.
+type: humanoid
+wisdom: '8'

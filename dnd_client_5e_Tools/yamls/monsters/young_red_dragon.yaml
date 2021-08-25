@@ -1,0 +1,50 @@
+AC: 18
+CR: 10 (5,900 XP)
+HP: 178 (17d10 + 85)
+actions:
+    Bite: 'Melee Weapon Attack: +10+1d8 + 6 to hit, reach 10 ft., one target. Hit:
+        17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage.'
+    Claw: 'Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one target. Hit:
+        13 (2d6 + 6) slashing damage.'
+    Fire Breath (Recharge 5xe2x80x936): The dragon exhales fire in a 30-foot cone.
+        Each creature in that area must make a DC 17+1d8 + 13 Dexterity saving throw,
+        taking 56 (16d6) fire damage on a failed save, or half as much damage on a
+        successful one.
+    Multiattack: 'The dragon makes three attacks: one with its bite and two with its
+        claws.'
+alignment: CE
+book: Monster Manual
+charisma: '19'
+constitution: '21'
+damage_immunities:
+- fire
+dexterity: '10'
+intelligence: '14'
+languages:
+- Common
+- Draconic
+name: Young Red Dragon
+page: 98
+perception: '+8'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 30 ft.
+- darkvision 120 ft.
+- passive Perception 18
+size: Large
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 40 ft
+- climb 40 ft
+- fly 80 ft
+stealth: '+4'
+strength: '23'
+tags: []
+type: dragon
+wisdom: '11'

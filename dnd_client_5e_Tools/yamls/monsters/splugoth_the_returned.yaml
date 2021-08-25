@@ -1,0 +1,50 @@
+AC: 15
+CR: 2 (450 XP)
+HP: 27 (6d6 + 6)
+actions:
+    Dagger: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        4 (1d4 + 2) slashing damage.'
+    Multiattack: Splugoth makes two attacks with his dagger.
+    Word From Beyond (1/Day): Splugoth remembers and repeats aloud a few words from
+        a place he entered while walking back from the next world to this one. Each
+        creature of his choice within 30 feet of him that can hear him must succeed
+        on a DC 12+1d4 + 10 Wisdom saving throw or be stunned until the end of its
+        next turn.
+alignment: NE
+book: Acquisitions Incorporated
+charisma: '10'
+constitution: '12'
+dexterity: '14'
+intelligence: '14'
+languages:
+- Common
+- Draconic
+- Elvish
+- Goblin
+name: Splugoth the Returned
+page: 213
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Small
+skills:
+    stealth: expert
+speed:
+- 30 ft
+stealth: '+6'
+strength: '10'
+tags:
+- goblinoid
+traits:
+    Defensive Advantage: As long as two or more of Splugoth's allies are within 5
+        feet of him and are not incapacitated, attack rolls against him are made with
+        disadvantage.
+    Nimble Escape: Splugoth can take the Disengage or Hide action as a bonus action
+        on each of his turns.
+    Touch of Madness: Splugoth has advantage on saving throws against being charmed
+        or frightened.
+type: humanoid
+wisdom: '11'

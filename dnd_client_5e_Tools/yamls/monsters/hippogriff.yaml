@@ -1,0 +1,37 @@
+AC: 11
+CR: 1 (200 XP)
+HP: 19 (3d10 + 3)
+actions:
+    Beak: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8
+        (1d10 + 3) piercing damage.'
+    Claws: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        10 (2d6 + 3) slashing damage.'
+    Multiattack: 'The hippogriff makes two attacks: one with its beak and one with
+        its claws.'
+alignment: U
+book: Monster Manual
+charisma: '8'
+constitution: '13'
+dexterity: '13'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Hippogriff
+page: 184
+perception: '+5'
+saving_throws: {}
+senses:
+- passive Perception 15
+size: Large
+skills:
+    perception: expert
+speed:
+- 40 ft
+- fly 60 ft
+strength: '17'
+tags: []
+traits:
+    Keen Sight: The hippogriff has advantage on Wisdom (Perception) checks that rely
+        on sight.
+type: monstrosity
+wisdom: '12'

@@ -1,0 +1,71 @@
+AC: 17
+CR: 9 (5,000 XP)
+HP: 99 (18d8 + 18)
+actions:
+    Idyllic Touch: 'Melee Spell Attack: +8+1d8 + 4 to hit, reach 5 ft., one target.
+        Hit: 9 (1d10 + 4) force damage. If the target is a creature, it must succeed
+        on a DC 16+1d8 + 12 Wisdom saving throw or fall prone in a fit of laughter.'
+    Mind Thrust: The quori targets a creature it can see within 60 feet of it. The
+        target must make a DC 16+1d8 + 12 Wisdom saving throw, taking 18 (4d8) psychic
+        damage on a failed save, or half as much damage on a successful one.
+    Multiattack: The quori uses its Mind Thrust twice.
+    Possession (Recharge 6): One humanoid that the quori can see within 5 feet of
+        it must succeed on a DC 16+1d8 + 12 Charisma saving throw or be possessed
+        by the quori; the quori then disappears, and the target is incapacitated and
+        loses control of its body. The quori now controls the body but doesn't deprive
+        the target of awareness. The quori can't be targeted by any attack, spell,
+        or other effect, and it retains its alignment, Intelligence, Wisdom, Charisma,
+        and immunity to being charmed and frightened. It otherwise uses the possessed
+        target's statistics, but doesn't gain access to the target's knowledge, class
+        features, or proficiencies.
+alignment: LE
+arcana: '+12'
+book: 'Eberron: Rising from the Last War'
+charisma: '18'
+condition_immunities:
+- charmed, frightened
+constitution: '13'
+dexterity: '14'
+history: '+12'
+insight: '+11'
+intelligence: '18'
+languages:
+- Common
+- Quori
+name: Hashalaq Quori
+page: 305
+persuasion: '+8'
+resistances:
+- psychic
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    arcana: expert
+    history: expert
+    insight: expert
+    persuasion: proficient
+speed:
+- 40 ft
+strength: '12'
+tags: []
+traits:
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - dominate person
+            - dream
+            3/day:
+            - detect thoughts
+            - disguise self
+            - suggestion
+            at will:
+            - charm person
+        type: innate
+type: aberration
+wisdom: '16'

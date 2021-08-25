@@ -1,0 +1,53 @@
+AC: 17
+CR: 2 (450 XP)
+HP: 26 (4d8 + 8)
+actions:
+    Multiattack: The soldier makes two spear attacks.
+    Spear: 'Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage or 7 (1d8 + 3) piercing
+        damage if used with two hands to make a melee attack, plus 9 (2d8) radiant
+        damage if the target is a fiend or undead.'
+alignment: NG
+athletics: '+5'
+book: 'Eberron: Rising from the Last War'
+charisma: '14'
+condition_immunities:
+- exhaustion, poisoned
+constitution: '14'
+damage_immunities:
+- poison
+dexterity: '12'
+history: '+4'
+intelligence: '11'
+languages:
+- Common
+- Elvish
+name: Undying Soldier
+page: 311
+perception: '+3'
+religion: '+4'
+resistances:
+- radiant
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t silvered
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    athletics: proficient
+    history: expert
+    perception: proficient
+    religion: expert
+speed:
+- 30 ft
+strength: '16'
+tags: []
+traits:
+    Illumination: The soldier magically sheds bright light in a 10-foot radius and
+        dim light for an additional 10 feet. The soldier can extinguish or restore
+        this light as a bonus action.
+    Turn Resistance: The soldier has advantage on saving throws against any effect
+        that turns undead.
+type: undead
+wisdom: '13'

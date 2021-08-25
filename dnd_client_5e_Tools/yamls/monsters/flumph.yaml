@@ -1,0 +1,58 @@
+AC: 12
+CR: 1/8 (25 XP)
+HP: 7 (2d6)
+actions:
+    Stench Spray (1/Day): Each creature in a 15-foot cone originating from the flumph
+        must succeed on a DC 10+1d4 + 8 Dexterity saving throw or be coated in a foul-smelling
+        liquid. A coated creature exudes a horrible stench for 1d4 hours. The coated
+        creature is poisoned as long as the stench lasts, and other creatures are
+        poisoned while with in 5 feet of the coated creature. A creature can remove
+        the stench on itself by using a short rest to bathe in water, alcohol, or
+        vinegar.
+    Tendrils: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature.
+        Hit: 4 (1d4 + 2) piercing damage plus 2 (1d4) acid damage. At the end of each
+        of its turns, the target must make a DC 10+1d4 + 8 Constitution saving throw,
+        taking 2 (1d4) acid damage on a failure or ending the recurring acid damage
+        on a success. A lesser restoration spell cast on the target also ends the
+        recurring acid damage.'
+alignment: LG
+arcana: '+4'
+book: Monster Manual
+charisma: '11'
+constitution: '10'
+dexterity: '15'
+history: '+4'
+hit: 2d6
+intelligence: '14'
+languages:
+- understands Undercommon but can\'t speak
+- telepathy 60 ft.
+name: Flumph
+page: 135
+religion: '+4'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Small
+skills:
+    arcana: proficient
+    history: proficient
+    religion: proficient
+speed:
+- 5 ft
+- fly 30 ft
+strength: '6'
+tags: []
+traits:
+    Advanced Telepathy: The flumph can perceive the content of any telepathic communication
+        used within 60 feet of it, and it can't be surprised by creatures with any
+        form of telepathy.
+    Prone Deficiency: If the flumph is knocked prone, roll a die. On an odd result,
+        the flumph lands upside-down and is incapacitated. At the end of each of its
+        turns, the flumph can make a DC 10+1d4 + 8 Dexterity saving throw, righting
+        itself and ending the incapacitated condition if it succeeds.
+    Telepathic Shroud: The flumph is immune to any effect that would sense its emotions
+        or read its thoughts, as well as all divination spells.
+type: aberration
+wisdom: '14'

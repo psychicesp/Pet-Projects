@@ -1,0 +1,41 @@
+AC: 18
+CR: 13 (10,000 XP)
+HP: 255 (30d8 + 120)
+actions:
+    Hook: 'Melee Weapon Attack: +8+1d10 + 3 to hit, reach 5 ft., one target. Hit:
+        16 (2d12 + 3) piercing damage.'
+    Multiattack: The Angry makes two hook attacks.
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '6'
+constitution: '19'
+dexterity: '10'
+intelligence: '8'
+languages:
+- Common
+name: The Angry
+page: 231
+perception: '+6'
+resistances:
+- bludgeoning, piercing, and slashing while in dim light or darkness
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 16
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 30 ft
+strength: '17'
+tags: []
+traits:
+    Rising Anger: If another creature deals damage to the Angry, the Angry's attack
+        rolls have advantage until the end of its next turn, and the first time it
+        hits with a hook attack on its next turn, the attack's target takes an extra
+        19 (3d12) psychic damage.
+    Two Heads: The Angry has advantage on Wisdom (Perception) checks and on saving
+        throws against being blinded, charmed, deafened, frightened, stunned, or knocked
+        unconscious.
+type: monstrosity
+wisdom: '13'

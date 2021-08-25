@@ -1,0 +1,42 @@
+AC: 12
+CR: 1/4 (50 XP)
+HP: 16 (3d8 + 3)
+acrobatics: '+4'
+actions:
+    Dagger: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.'
+    Mind Thrust: The kalashtar targets a creature it can see within 30 feet of it.
+        The target must succeed on a DC 12+1d4 + 10 Wisdom saving throw or take 11
+        (2d10) psychic damage.
+alignment: AA
+book: 'Eberron: Rising from the Last War'
+charisma: '15'
+constitution: '12'
+dexterity: '14'
+insight: '+4'
+intelligence: '13'
+languages:
+- Common
+- telepathy 20 ft.
+name: Kalashtar
+page: 317
+persuasion: '+6'
+resistances:
+- psychic
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    acrobatics: proficient
+    insight: proficient
+    persuasion: expert
+speed:
+- 30 ft
+strength: '12'
+tags:
+- kalashtar
+traits:
+    Dual Mind: The kalashtar has advantage on Wisdom saving throws.
+type: humanoid
+wisdom: '15'

@@ -1,0 +1,67 @@
+AC: 14
+CR: 5 (1,800 XP)
+HP: 88 (16d8 + 16)
+actions:
+    Fungal Rot: 'Melee Spell Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit:
+        9 (2d8) necrotic damage, and the target must make a DC 14+1d6 + 11 Constitution
+        saving throw, taking 18 (4d8) poison damage on a failed save, or half as much
+        damage on a successful one.'
+    Quarterstaff: 'Melee Weapon Attack: +4+1d6 + 1 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if
+        used with two hands.'
+alignment: NE
+arcana: '+4'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '16'
+constitution: '12'
+dexterity: '15'
+insight: '+6'
+intelligence: '12'
+languages:
+- Common
+- Elvish
+name: Golgari Shaman
+nature: '+4'
+page: 236
+religion: '+4'
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    arcana: proficient
+    insight: proficient
+    nature: proficient
+    religion: proficient
+speed:
+- 30 ft
+strength: '11'
+tags:
+- elf
+traits:
+    Fey Ancestry: The shaman has advantage on saving throws against being charmed,
+        and magic can't put it to sleep.
+    spellcasting:
+        ability: wisdom
+        level: 8
+        spells:
+        - poison spray
+        - shillelagh
+        - thorn whip
+        - cure wounds
+        - entangle
+        - ray of sickness
+        - pass without trace
+        - ray of enfeeblement
+        - spike growth
+        - animate dead
+        - dispel magic
+        - plant growth
+        - blight
+        - giant insect
+        type: druid
+type: humanoid
+wisdom: '17'

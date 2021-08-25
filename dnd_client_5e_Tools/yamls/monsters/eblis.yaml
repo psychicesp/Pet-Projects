@@ -1,0 +1,41 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 26 (4d10 + 4)
+actions:
+    Beak: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target Hit: 5
+        (1d4 + 3) piercing damage.'
+    Multiattack: The eblis attacks twice with its beak.
+alignment: NE
+book: Tomb of Annihilation
+charisma: '11'
+constitution: '12'
+dexterity: '16'
+intelligence: '12'
+languages:
+- Auran
+- Common
+name: Eblis
+page: 219
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Large
+skills:
+    perception: proficient
+speed:
+- 30 ft
+- fly 40 ft
+strength: '11'
+tags: []
+traits:
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - blur
+            - hypnotic pattern
+            - minor illusion
+        type: innate
+type: monstrosity
+wisdom: '14'

@@ -1,0 +1,42 @@
+AC: 15
+CR: 3 (700 XP)
+HP: 45 (7d8 + 14)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7
+        (1d8 + 3) piercing damage plus 7 (2d6) fire damage.'
+    Fire Breath (Recharge 5xe2x80x936): The hound exhales fire in a 15-foot cone.
+        Each creature in that area must make a DC 12+1d4 + 10 Dexterity saving throw,
+        taking 21 (6d6) fire damage on a failed save, or half as much damage on a
+        successful one.
+alignment: LE
+book: Monster Manual
+charisma: '6'
+constitution: '14'
+damage_immunities:
+- fire
+dexterity: '12'
+intelligence: '6'
+languages:
+- understands Infernal but can't speak it
+name: Hell Hound
+page: 182
+perception: '+5'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 15
+size: Medium
+skills:
+    perception: expert
+speed:
+- 50 ft
+strength: '17'
+tags: []
+traits:
+    Keen Hearing and Smell: The hound has advantage on Wisdom (Perception) checks
+        that rely on hearing or smell.
+    Pack Tactics: The hound has advantage on an attack roll against a creature if
+        at least one of the hound's allies is within 5 feet of the creature and the
+        ally isn't incapacitated.
+type: fiend
+wisdom: '13'

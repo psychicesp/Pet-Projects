@@ -1,0 +1,54 @@
+AC: 15
+CR: 5 (1,800 XP)
+HP: 82 (11d8 + 33)
+actions:
+    Bite: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one willing creature,
+        or a creature that is grappled by the vampire, incapacitated, or restrained.
+        Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target''s
+        hit point maximum is reduced by an amount equal to the necrotic damage taken,
+        and the vampire regains hit points equal to that amount. The reduction lasts
+        until the target finishes a long rest. The target dies if this effect reduces
+        its hit point maximum to 0.'
+    Claws: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one creature. Hit:
+        8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple
+        the target (escape DC 13+1d6 + 10).'
+    Multiattack: The vampire makes two attacks, only one of which can be a bite attack.
+alignment: NE
+book: Monster Manual
+charisma: '12'
+constitution: '16'
+dexterity: '16'
+intelligence: '11'
+languages:
+- the languages it knew in life
+name: Vampire Spawn
+page: 298
+perception: '+3'
+resistances:
+- necrotic
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+6'
+strength: '16'
+tags: []
+traits:
+    Regeneration: The vampire regains 10 hit points at the start of its turn if it
+        has at least 1 hit point and isn't in sunlight or running water. If the vampire
+        takes radiant damage or damage from holy water, this trait doesn't function
+        at the start of the vampire's next turn.
+    Spider Climb: The vampire can climb difficult surfaces, including upside down
+        on ceilings, without needing to make an ability check.
+    Vampire Weaknesses: 'The vampire has the following flaws:'
+type: undead
+wisdom: '10'

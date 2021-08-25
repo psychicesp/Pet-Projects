@@ -1,0 +1,45 @@
+AC: 17
+CR: 3 (700 XP)
+HP: 49 (9d8 + 9)
+actions:
+    Greatsword: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 9 (2d6 + 2) slashing damage plus 7 (2d6) psychic damage.'
+    Multiattack: The githyanki makes two greatsword attacks.
+alignment: LE
+book: Monster Manual
+charisma: '10'
+constitution: '12'
+dexterity: '14'
+intelligence: '13'
+languages:
+- Gith
+name: Githyanki Warrior
+page: 160
+saving_throws:
+    constitution: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- passive Perception 11
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '15'
+tags:
+- gith
+traits:
+    spellcasting:
+        ability: 'intelligence. it can innately cast the following spells, requiring
+            no components:at will: mage hand (the hand is invisible)3/day each: jump,
+            misty step, nondetection (self only)'
+        spells:
+            3/day:
+            - jump
+            - misty step
+            - nondetection
+            at will:
+            - mage hand
+        type: innate
+type: humanoid
+wisdom: '13'

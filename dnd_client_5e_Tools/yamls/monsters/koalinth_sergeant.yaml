@@ -1,0 +1,50 @@
+AC: 14
+CR: 2 (450 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Hooked Net: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 10/30 ft., one target.
+        Hit: 4 (1d4 + 2) piercing damage, and the target is restrained. A creature
+        can use its action to make a DC 12+1d4 + 10 Strength check to free itself
+        or another creature in a hooked net, ending the effect on a success. Dealing
+        5 slashing damage to the net (AC 12) frees the target without harming it and
+        destroys the net.'
+    Multiattack: The sergeant makes two melee attacks with its trident.
+    Trident: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing
+        damage if used with two hands to make a melee attack.'
+alignment: LE
+athletics: '+4'
+book: Ghosts of Saltmarsh
+charisma: '12'
+constitution: '12'
+dexterity: '11'
+intelligence: '11'
+languages:
+- Common
+- Goblin
+name: Koalinth Sergeant
+page: 239
+perception: '+2'
+saving_throws:
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+speed:
+- 30 ft
+- swim 30 ft
+strength: '14'
+tags:
+- goblinoid
+traits:
+    Amphibious: The koalinth can breathe air and water.
+    Martial Advantage: Once per turn, the sergeant can deal an extra 7 (2d6) damage
+        to a creature it hits with a weapon attack if that creature is within 5 feet
+        of an ally of the sergeant that isn't incapacitated.
+type: humanoid
+wisdom: '10'

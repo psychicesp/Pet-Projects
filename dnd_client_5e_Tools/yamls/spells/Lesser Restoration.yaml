@@ -1,0 +1,20 @@
+casting time: 1 action
+classes:
+- Artificer
+- Bard
+- Cleric
+- Druid
+- Paladin
+- Ranger
+components: V, S
+concentration: false
+description: You touch a creature and can end either one disease or one condition
+    afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
+duration: Instantaneous
+level: 2
+name: Lesser Restoration
+page: 255
+range: Touch
+ritual: false
+school: abjuration
+source: PHB

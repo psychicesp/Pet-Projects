@@ -1,0 +1,42 @@
+AC: 12
+CR: 1 (200 XP)
+HP: 39 (6d8 + 12)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) piercing damage. If the target is a creature, it must succeed on
+        a DC 12+1d4 + 10 Constitution saving throw against disease or become poisoned
+        until the disease is cured. Every 24 hours that elapse, the creature must
+        repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure.
+        This reduction lasts until the disease is cured. The creature dies if the
+        disease reduces its hit point maximum to 0.'
+    Multiattack: The dog makes two bite attacks.
+alignment: NE
+book: Monster Manual
+charisma: '6'
+constitution: '14'
+dexterity: '14'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Death Dog
+page: 321
+perception: '+5'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 15
+size: Medium
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 40 ft
+stealth: '+4'
+strength: '15'
+tags: []
+traits:
+    Two-Headed: The dog has advantage on Wisdom (Perception) checks and on saving
+        throws against being blinded, charmed, deafened, frightened, stunned, or knocked
+        unconscious.
+type: monstrosity
+wisdom: '13'

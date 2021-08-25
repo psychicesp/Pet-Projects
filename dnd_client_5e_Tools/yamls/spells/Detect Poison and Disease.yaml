@@ -1,0 +1,23 @@
+casting time: 1 action
+classes:
+- Cleric
+- Druid
+- Paladin
+- Ranger
+components: V, S, M
+concentration: true
+cost: 0
+description: For the duration, you can sense the presence and location of poisons,
+    poisonous creatures, and diseases within 30 feet of you. You also identify the
+    kind of poison, poisonous creature, or disease in each case. The spell can penetrate
+    most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a
+    thin sheet of lead, or 3 feet of wood or dirt.
+duration: Concentration, up to 10 minutes
+extras: a yew leaf
+level: 1
+name: Detect Poison and Disease
+page: 231
+range: Self
+ritual: true
+school: divination
+source: PHB

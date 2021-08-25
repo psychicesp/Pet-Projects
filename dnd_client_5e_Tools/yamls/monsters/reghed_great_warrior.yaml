@@ -1,0 +1,47 @@
+AC: 16
+CR: 5 (1,800 XP)
+HP: 112 (15d8 + 45)
+actions:
+    Multiattack: The great warrior makes three melee attacks or two ranged attacks.
+    Shield Bash: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one creature.
+        Hit: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller
+        creature, it must succeed on a DC 15+1d6 + 12 Strength saving throw or be
+        knocked prone.'
+    Spear: 'Melee or Ranged Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft. and range
+        20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4)
+        piercing damage if used with two hands to make a melee attack.'
+alignment: AA
+athletics: '+10'
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '15'
+constitution: '16'
+dexterity: '15'
+intelligence: '10'
+intimidation: '+5'
+languages:
+- Common
+name: Reghed Great Warrior
+page: 152
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    strength: proficient
+senses:
+- passive Perception 11
+size: Medium
+skills:
+    athletics: expert
+    intimidation: proficient
+    survival: proficient
+speed:
+- 30 ft
+strength: '18'
+survival: '+5'
+tags:
+- any
+traits:
+    Brave: The great warrior has advantage on saving throws against being frightened.
+    Brute: A melee weapon deals one extra die of its damage when the great warrior
+        hits with it (included in the attack).
+type: humanoid
+wisdom: '12'

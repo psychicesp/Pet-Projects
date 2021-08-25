@@ -1,0 +1,59 @@
+AC: 18
+CR: 4 (1,100 XP)
+HP: 84 (13d8 + 26)
+actions:
+    Multiattack: The drow makes two shortsword attacks.
+    Poisonous Pistol: 'Ranged Weapon Attack: +6+1d4 + 4 to hit, range 30/90 ft., one
+        target. Hit: 9 (1d10 + 4) piercing damage plus 11 (2d10) poison damage.'
+    Shortsword: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target.
+        Hit: 7 (1d6 + 4) piercing damage.'
+alignment: AA
+book: 'Waterdeep: Dragon Heist'
+charisma: '14'
+constitution: '14'
+dexterity: '18'
+intelligence: '11'
+languages:
+- Elvish
+- Undercommon
+name: Drow Gunslinger
+page: 201
+perception: '+3'
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 13
+size: Medium
+skills:
+    perception: proficient
+    stealth: expert
+speed:
+- 30 ft
+stealth: '+8'
+strength: '13'
+tags:
+- elf
+traits:
+    Fey Ancestry: The drow has advantage on saving throws against being charmed, and
+        magic can't put the drow to sleep.
+    Gunslinger: Being within 5 feet of a hostile creature or attacking at long range
+        doesn't impose disadvantage on the drow's ranged attack rolls with a pistol.
+        In addition, the drow ignores half cover and three-quarters cover when making
+        ranged attacks with a pistol.
+    Sunlight Sensitivity: While in sunlight, the drow has disadvantage on attack rolls,
+        as well as on Wisdom (Perception) checks that rely on sight.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - darkness
+            - faerie fire
+            - levitate
+            at will:
+            - dancing lights
+        type: innate
+type: humanoid
+wisdom: '13'

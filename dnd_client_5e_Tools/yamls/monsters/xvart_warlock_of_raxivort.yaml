@@ -1,0 +1,54 @@
+AC: 12
+CR: 1 (200 XP)
+HP: 22 (5d6 + 5)
+actions:
+    Scimitar: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        5 (1d6 + 2) slashing damage.'
+alignment: CE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '12'
+constitution: '12'
+dexterity: '14'
+intelligence: '8'
+languages:
+- Abyssal
+name: Xvart Warlock of Raxivort
+page: 200
+saving_throws: {}
+senses:
+- darkvision 30 ft.
+- passive Perception 10
+size: Small
+skills:
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+4'
+strength: '8'
+tags:
+- xvart
+traits:
+    Low Cunning: The xvart can take the Disengage action as a bonus action on each
+        of its turns.
+    Overbearing Pack: The xvart has advantage on Strength (Athletics) checks to shove
+        a creature if at least one of the xvart's allies is within 5 feet of the target
+        and the ally isn't incapacitated.
+    Raxivort's Tongue: The xvart can communicate with ordinary bats and rats, as well
+        as giant bats and giant rats.
+    spellcasting:
+        ability: charisma
+        spells:
+            1st-2nd:
+            - burning hands
+            - expeditious retreat
+            - invisibility
+            - scorching ray
+            Cantrips:
+            - eldritch blast
+            - mage hand
+            - minor illusion
+            - poison spray
+            - prestidigitation
+        type: innate
+type: humanoid
+wisdom: '11'

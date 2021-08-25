@@ -1,0 +1,39 @@
+AC: 15
+CR: 1/2 (100 XP)
+HP: 22 (5d8)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit:
+        4 (1d4 + 2) piercing damage.'
+    Longbow: 'Ranged Weapon Attack: +3+1d4 + 1 to hit, range 150/600 ft., one target.
+        Hit: 5 (1d8 + 1) piercing damage.'
+    Spear: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing
+        damage if used with two hands to make a melee attack.'
+alignment: CE
+book: Monster Manual
+charisma: '7'
+constitution: '11'
+dexterity: '12'
+hit: 5d8
+intelligence: '6'
+languages:
+- Gnoll
+name: Gnoll
+page: 163
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '14'
+tags:
+- gnoll
+traits:
+    Rampage: When the gnoll reduces a creature to 0 hit points with a melee attack
+        on its turn, the gnoll can take a bonus action to move up to half its speed
+        and make a bite attack.
+type: humanoid
+wisdom: '10'

@@ -1,0 +1,78 @@
+AC: 16
+CR: 9 (5,000 XP)
+HP: 143 (22d8 + 44)
+actions:
+    Longbow: 'Ranged Weapon Attack: +8+1d8 + 4 to hit, range 150/600 ft., one target.
+        Hit: 8 (1d8 + 4) piercing damage.'
+    Multiattack: The dryad makes three attacks, using its vine staff, its longbow,
+        or both.
+    Summon Mount (1/Day): 'The dryad magically summons a mount, which appears in an
+        unoccupied space within 60 feet of the dryad. The mount remains for 8 hours,
+        until it or the dryad dies, or until the dryad dismisses it as an action.
+        The mount uses the stat block of an elk (see the Monster Manual) with these
+        changes: it is a plant instead of a beast, it has an Intelligence of 6, and
+        it understands Sylvan but can''t speak. While within 1 mile of the mount,
+        the dryad can communicate with it telepathically.'
+    Suppress Magic (Recharge 5xe2x80x936): The dryad targets one magic item it can
+        see within 120 feet of it. If the magic item isn't an artifact, its magical
+        properties are suppressed for 10 minutes, until the dryad is incapacitated
+        or dies, or until the dryad uses a bonus action to end the effect.
+    Vine Staff: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target.
+        Hit: 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must
+        succeed on a DC 17+1d8 + 13 Dexterity saving throw or become restrained by
+        twisting vines for 1 minute. A target restrained in this way can use an action
+        to make a DC 17+1d8 + 13 Strength (Athletics) or Dexterity (Acrobatics) check,
+        ending the effect on itself on a success.'
+alignment: LG
+arcana: '+8'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '21'
+constitution: '14'
+dexterity: '19'
+intelligence: '19'
+languages:
+- Common
+- Elvish
+- Sylvan
+name: Conclave Dryad
+nature: '+8'
+page: 194
+perception: '+9'
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 19
+size: Medium
+skills:
+    arcana: proficient
+    nature: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '12'
+tags: []
+traits:
+    Magic Resistance: The dryad has advantage on saving throws against spells and
+        other magical effects.
+    Speak with Beasts and Plants: The dryad can communicate with beasts and plants
+        as if they and the dryad shared a language.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - moonbeam
+            - grasping vine
+            - wall of thorns
+            3/day:
+            - dispel magic
+            - entangle
+            - plant growth
+            - spike growth
+            at will:
+            - druidcraft
+        type: innate
+type: fey
+wisdom: '20'

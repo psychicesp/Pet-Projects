@@ -1,0 +1,60 @@
+AC: 18
+CR: 13 (10,000 XP)
+HP: 157 (15d10 + 75)
+actions:
+    Bite: 'Melee Weapon Attack: +9+1d10 + 4 to hit, reach 10 ft., one target. Hit:
+        30 (4d12 + 4) piercing damage.'
+    Claws: 'Melee Weapon Attack: +9+1d10 + 4 to hit, reach 10 ft., one target. Hit:
+        18 (4d6 + 4) slashing damage.'
+    Grasping Spout: The wastrilith magically launches a spout of water at one creature
+        it can see within 60 feet of it. The target must make a DC 17+1d10 + 12 Strength
+        saving throw, and it has disadvantage if it's underwater. On a failed save,
+        it takes 22 (4d8 + 4) acid damage and is pulled up to 60 feet toward the wastrilith.
+        On a successful save, it takes half as much damage and isn't pulled.
+    Multiattack: 'The wastrilith uses Grasping Spout and makes three attacks: one
+        with its bite and two with its claws.'
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '14'
+condition_immunities:
+- poisoned
+constitution: '21'
+damage_immunities:
+- poison
+dexterity: '18'
+intelligence: '19'
+languages:
+- Abyssal
+- telepathy 120 ft.
+name: Wastrilith
+page: 139
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    constitution: proficient
+    strength: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 11
+size: Large
+skills: {}
+speed:
+- 30 ft
+- swim 80 ft
+strength: '19'
+tags:
+- demon
+traits:
+    Amphibious: The wastrilith can breathe air and water.
+    Corrupt Water: At the start of each of the wastrilith's turns, exposed water within
+        30 feet of it is befouled. Underwater, this effect lightly obscures the area
+        until a current clears it away. Water in containers remains corrupted until
+        it evaporates.
+    Magic Resistance: The wastrilith has advantage on saving throws against spells
+        and other magical effects.
+    Undertow: As a bonus action when the wastrilith is underwater, it can cause all
+        water within 60 feet of it to be difficult terrain for other creatures until
+        the start of its next turn.
+type: fiend
+wisdom: '12'

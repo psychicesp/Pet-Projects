@@ -1,0 +1,66 @@
+AC: 18
+CR: 15 (13,000 XP)
+HP: 187 (15d12 + 90)
+actions:
+    Claw: 'Melee Weapon Attack: +11+1d10 + 6 to hit, reach 5 ft., one target. Hit:
+        13 (2d6 + 6) slashing damage.'
+    Mandibles: 'Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target.
+        Hit: 17 (2d10 + 6) piercing damage, and the target is grappled (escape DC
+        19+1d10 + 14). Until this grapple ends, the target is restrained, and the
+        ancient deep crow can''t use its mandibles on another target.'
+    Multiattack: 'The ancient deep crow makes three attacks: one with its mandibles
+        and two with its claws.'
+    Shadow Caw: The ancient deep crow releases an ear-splitting caw. Each creature
+        within 60 feet of the crow and able to hear it must make a DC 17+1d10 + 12
+        Constitution saving throw. On a failure, a creature takes 10 (3d6) psychic
+        damage.
+alignment: U
+book: Acquisitions Incorporated
+charisma: 19 (+4)
+constitution: 23 (+6)
+constitution save: '+11'
+dexterity: 16 (+3)
+hit points: 15d12 + 90
+intelligence: 10 (+0)
+languages:
+- Deep Crow
+legendary_actions:
+    number: 3
+    options:
+        Detect: ' The deep crow makes a Wisdom (Perception) check.'
+        Shadow Caw (Costs 2 Actions): ' The ancient deep crow uses Shadow Caw.'
+        Wing Attack (Costs 2 Actions): ' The ancient deep crow beats its wings. Each
+            creature within 10 feet of the deep crow must succeed on a DC 19+1d10
+            + 14 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and
+            be knocked prone. The ancient deep crow can then fly up to half its flying
+            speed.'
+name: Ancient Deep Crow
+page: 211
+perception: '+7'
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- blindsight 60 ft.
+- darkvision 120 ft.
+- passive Perception 17
+size: Huge
+skills:
+    perception: proficient
+    stealth: expert
+speed:
+- 20 ft
+- fly 80 ft
+stealth: '+13'
+strength: 23 (+6)
+tags: []
+traits:
+    Magic Resistance: The ancient deep crow has advantage on saving throws against
+        spells and other magical effects.
+    Shadow Stealth: While in dim light or darkness, the ancient deep crow can take
+        the Hide action as a bonus action.
+type: monstrosity
+wisdom: 15 (+2)
+wisdom save: '+7'

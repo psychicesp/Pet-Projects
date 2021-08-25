@@ -1,0 +1,31 @@
+AC: 18
+CR: 2 (450 XP)
+HP: 52 (8d8 + 16)
+actions:
+    Claw: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7
+        (1d6 + 4) slashing damage.'
+    Multiattack: The hybrid makes two claw attacks.
+alignment: NG
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '9'
+constitution: '15'
+dexterity: '11'
+intelligence: '8'
+languages:
+- Common plus any one language
+name: Hybrid Brute
+page: 217
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '18'
+tags:
+- Simic
+traits:
+    Amphibious: The hybrid can breathe air and water.
+type: humanoid
+wisdom: '11'

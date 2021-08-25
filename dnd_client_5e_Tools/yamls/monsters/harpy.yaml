@@ -1,0 +1,37 @@
+AC: 11
+CR: 1 (200 XP)
+HP: 38 (7d8 + 7)
+actions:
+    Claws: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit:
+        6 (2d4 + 1) slashing damage.'
+    Club: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3
+        (1d4 + 1) bludgeoning damage.'
+    Luring Song: The harpy sings a magical melody. Every humanoid and giant within
+        300 feet of the harpy that can hear the song must succeed on a DC 11+1d4 +
+        9 Wisdom saving throw or be charmed until the song ends. The harpy must take
+        a bonus action on its subsequent turns to continue singing. It can stop singing
+        at any time. The song ends if the harpy is incapacitated.
+    Multiattack: 'The harpy makes two attacks: one with its claws and one with its
+        club.'
+alignment: CE
+book: Monster Manual
+charisma: '13'
+constitution: '12'
+dexterity: '13'
+intelligence: '7'
+languages:
+- Common
+name: Harpy
+page: 181
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 20 ft
+- fly 40 ft
+strength: '12'
+tags: []
+type: monstrosity
+wisdom: '10'

@@ -1,0 +1,38 @@
+AC: 13
+CR: 1/4 (50 XP)
+HP: 11 (2d8 + 2)
+actions:
+    Spiked Club: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 6 (1d8 + 2) piercing damage, or 7 (1d10 + 2) piercing damage if used
+        with two hands.'
+alignment: CN
+book: "Guildmasters\u2019 Guide to Ravnica"
+charisma: 10 (+0)
+constitution: 12 (+1)
+dexterity: 13 (+1)
+hit points: 2d8 + 2
+intelligence: 9 (-1)
+languages:
+- any one language (usually Common)
+name: Anarch
+page: 239
+perception: '+2'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    perception: proficient
+    survival: proficient
+speed:
+- 30 ft
+strength: 14 (+2)
+survival: '+2'
+tags:
+- any
+traits:
+    Aggressive: As a bonus action, the anarch can move up to its speed toward a hostile
+        creature it can see.
+    Siege Monster: The anarch deals double damage to objects and structures.
+type: humanoid
+wisdom: 11 (+0)

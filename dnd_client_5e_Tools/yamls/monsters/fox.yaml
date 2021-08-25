@@ -1,0 +1,37 @@
+AC: 13
+CR: 0 (0 or 10 XP)
+HP: 2 (1d4)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit:
+        1 piercing damage.'
+alignment: U
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '6'
+constitution: '11'
+dexterity: '16'
+hit: 1d4
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Fox
+page: 288
+perception: '+3'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Tiny
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+- burrow 5 ft
+stealth: '+5'
+strength: '2'
+tags: []
+traits:
+    Keen Hearing: The fox has advantage on Wisdom (Perception) checks that rely on
+        hearing.
+type: beast
+wisdom: '12'

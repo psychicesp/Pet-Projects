@@ -1,0 +1,63 @@
+AC: 12
+CR: 7 (2,900 XP)
+HP: 67 (9d8 + 27)
+actions:
+    Blood Puppeteering (Recharge 6): The necrichor targets a creature it can see within
+        5 feet of it that is missing any of its hit points. If the target isn't a
+        Construct or an Undead, it must succeed on a DC 14+1d6 + 11 Constitution saving
+        throw or the necrichor enters the target's space and attaches itself to the
+        target for 1 minute. While attached, the necrichor takes only half damage
+        dealt to it (round down), and the target takes the remaining damage. The necrichor
+        can attach to only one creature at a time.
+    Multiattack: The necrichor makes two attacks.
+    Necrotic Bolt: 'Ranged Spell Attack: +6+1d6 + 3 to hit, range 120 ft., one creature.
+        Hit: 12 (2d8 + 3) necrotic damage, and the target can''t regain hit points
+        until the start of the necrichor''s next turn.'
+    Pseudopod: 'Melee Weapon Attack: +5+1d6 + 2 to hit, reach 10 ft., one target.
+        Hit: 5 (1d6 + 2) necrotic damage, and the target must succeed on a DC 14+1d6
+        + 11 Constitution saving throw or be paralyzed until the start of the necrichor''s
+        next turn.'
+alignment: U
+arcana: '+9'
+book: Van Richten\xe2\x80\x99s Guide to Ravenloft
+charisma: '10'
+condition_immunities:
+- blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, poisoned,
+    prone, restrained
+constitution: '17'
+dexterity: '15'
+intelligence: '17'
+languages:
+- any three languages
+- telepathy 120 ft.
+name: Necrichor
+page: 238
+resistances:
+- acid, necrotic
+saving_throws:
+    constitution: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- blindsight 120 ft. (blind beyond this radius)
+- passive Perception 11
+size: Medium
+skills:
+    arcana: expert
+speed:
+- 20 ft
+- climb 20 ft
+strength: '8'
+tags: []
+traits:
+    Legendary Resistance (2/Day): If the necrichor fails a saving throw, it can choose
+        to succeed instead.
+    Rejuvenation: Unless its lifeless remains are splashed with holy water or placed
+        in a vessel under the effects of the hallow spell, the destroyed necrichor
+        re-forms in 1d10 days, regaining all its hits points and appearing in the
+        place it died or in the nearest unoccupied space.
+    Spider Climb: The necrichor can climb difficult surfaces, including upside down
+        on ceilings, without needing to make an ability check.
+    Unusual Nature: The necrichor doesn't require air, food, drink, or sleep.
+type: undead
+wisdom: '13'

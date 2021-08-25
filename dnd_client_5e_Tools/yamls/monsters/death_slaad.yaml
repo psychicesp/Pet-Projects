@@ -1,0 +1,71 @@
+AC: 18
+CR: 10 (5,900 XP)
+HP: 170 (20d8 + 80)
+actions:
+    Bite (Slaad Form Only): 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft.,
+        one target. Hit: 9 (1d8 + 5) piercing damage plus 7 (2d6) necrotic damage.'
+    Claws (Slaad Form Only): 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft.,
+        one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage.'
+    Greatsword: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target.
+        Hit: 12 (2d6 + 5) slashing damage plus 7 (2d6) necrotic damage.'
+    Multiattack: 'The slaad makes three attacks: one with its bite and two with its
+        claws or greatsword.'
+alignment: CE
+arcana: '+6'
+book: Monster Manual
+charisma: '16'
+constitution: '19'
+dexterity: '15'
+intelligence: '15'
+languages:
+- Slaad
+- telepathy 60 ft.
+name: Death Slaad
+page: 278
+perception: '+8'
+resistances:
+- acid, cold, fire, lightning, thunder
+saving_throws: {}
+senses:
+- blindsight 60 ft.
+- darkvision 60 ft.
+- passive Perception 18
+size: Medium
+skills:
+    arcana: proficient
+    perception: expert
+speed:
+- 30 ft
+strength: '20'
+tags:
+- shapechanger
+traits:
+    Magic Resistance: The slaad has advantage on saving throws against spells and
+        other magical effects.
+    Magic Weapons: The slaad's weapon attacks are magical.
+    Regeneration: The slaad regains 10 hit points at the start of its turn if it has
+        at least 1 hit point.
+    Shapechanger: The slaad can use its action to polymorph into a Small or Medium
+        humanoid, or back into its true form. Its statistics, other than its size,
+        are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+        It reverts to its true form if it dies.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - cloudkill
+            - plane shift
+            2/day:
+            - fear
+            - fireball
+            - fly
+            - tongues
+            at will:
+            - detect magic
+            - detect thoughts
+            - invisibility
+            - mage hand
+            - major image
+        type: innate
+type: aberration
+wisdom: '10'

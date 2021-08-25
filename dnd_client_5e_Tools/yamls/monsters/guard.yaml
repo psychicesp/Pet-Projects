@@ -1,0 +1,31 @@
+AC: 16
+CR: 1/8 (25 XP)
+HP: 11 (2d8 + 2)
+actions:
+    Spear: 'Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing
+        damage if used with two hands to make a melee attack.'
+alignment: AA
+book: Monster Manual
+charisma: '10'
+constitution: '12'
+dexterity: '12'
+intelligence: '10'
+languages:
+- any one language (usually Common)
+name: Guard
+page: 347
+perception: '+2'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 30 ft
+strength: '13'
+tags:
+- any
+type: humanoid
+wisdom: '11'

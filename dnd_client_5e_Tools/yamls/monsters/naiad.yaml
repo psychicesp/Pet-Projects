@@ -1,0 +1,56 @@
+AC: 15
+CR: 2 (450 XP)
+HP: 31 (7d8)
+actions:
+    Multiattack: The naiad makes two psychic touch attacks.
+    Psychic Touch: 'Melee Spell Attack: +6+1d4 + 4 to hit, reach 5 ft., one target.
+        Hit: 9 (1d10 + 4) psychic damage.'
+alignment: CN
+book: Mythic Odysseys of Theros
+charisma: '18'
+condition_immunities:
+- charmed, frightened, poisoned
+constitution: '11'
+damage_immunities:
+- poison
+dexterity: '16'
+hit: 7d8
+intelligence: '15'
+languages:
+- Common
+- Sylvan
+name: Naiad
+page: 236
+persuasion: '+6'
+resistances:
+- psychic
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    persuasion: proficient
+    sleight of hand: proficient
+speed:
+- 30 ft
+- swim 30 ft
+strength: '10'
+tags: []
+traits:
+    Amphibious: The naiad can breathe air and water.
+    Invisible in Water: The naiad is invisible while fully immersed in water.
+    Magic Resistance: The naiad has advantage on saving throws against spells and
+        other magical effects.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - fly
+            - hypnotic pattern
+            3/day:
+            - phantasmal force
+            at will:
+            - minor illusion
+        type: innate
+type: fey
+wisdom: '10'

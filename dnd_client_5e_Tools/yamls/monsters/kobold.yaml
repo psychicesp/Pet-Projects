@@ -1,0 +1,38 @@
+AC: 12
+CR: 1/8 (25 XP)
+HP: 5 (2d6 - 2)
+actions:
+    Dagger: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        4 (1d4 + 2) piercing damage.'
+    Sling: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target.
+        Hit: 4 (1d4 + 2) bludgeoning damage.'
+alignment: LE
+book: Monster Manual
+charisma: '8'
+constitution: '9'
+dexterity: '15'
+intelligence: '8'
+languages:
+- Common
+- Draconic
+name: Kobold
+page: 195
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Small
+skills: {}
+speed:
+- 30 ft
+strength: '7'
+tags:
+- kobold
+traits:
+    Pack Tactics: The kobold has advantage on an attack roll against a creature if
+        at least one of the kobold's allies is within 5 feet of the creature and the
+        ally isn't incapacitated.
+    Sunlight Sensitivity: While in sunlight, the kobold has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: humanoid
+wisdom: '7'

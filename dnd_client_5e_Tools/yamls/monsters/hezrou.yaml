@@ -1,0 +1,51 @@
+AC: 16
+CR: 8 (3,900 XP)
+HP: 136 (13d10 + 65)
+actions:
+    Bite: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 15
+        (2d10 + 4) piercing damage.'
+    Claws: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        11 (2d6 + 4) slashing damage.'
+    Multiattack: 'The hezrou makes three attacks: one with its bite and two with its
+        claws.'
+alignment: CE
+book: Monster Manual
+charisma: '13'
+condition_immunities:
+- poisoned
+constitution: '20'
+damage_immunities:
+- poison
+dexterity: '17'
+intelligence: '5'
+languages:
+- Abyssal
+- telepathy 120 ft.
+name: Hezrou
+page: 60
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    constitution: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 11
+size: Large
+skills: {}
+speed:
+- 30 ft
+strength: '19'
+tags:
+- demon
+traits:
+    Magic Resistance: The hezrou has advantage on saving throws against spells and
+        other magical effects.
+    Stench: Any creature that starts its turn within 10 feet of the hezrou must succeed
+        on a DC 14+1d6 + 11 Constitution saving throw or be poisoned until the start
+        of its next turn. On a successful saving throw, the creature is immune to
+        the hezrou's stench for 24 hours.
+type: fiend
+wisdom: '12'

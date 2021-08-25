@@ -1,0 +1,62 @@
+AC: 17
+CR: 20 (25,000 XP)
+HP: 328 (16d20 + 160)
+actions:
+    Multiattack: 'The leviathan makes two attacks: one with its slam and one with
+        its tail.'
+    Slam: 'Melee Weapon Attack: +16+1d12 + 10 to hit, reach 20 ft., one target. Hit:
+        15 (1d10 + 10) bludgeoning damage plus 5 (1d10) acid damage.'
+    Tail: 'Melee Weapon Attack: +16+1d12 + 10 to hit, reach 20 ft., one target. Hit:
+        16 (1d12 + 10) bludgeoning damage plus 6 (1d12) acid damage.'
+    Tidal Wave (Recharge 6): While submerged, the leviathan magically creates a wall
+        of water centered on itself. The wall is up 250 feet long, up to 250 feet
+        high, and up to 50 feet thick. When the wall appears, all other creatures
+        within its area must each make a DC 24+1d12 + 18 Strength saving throw. A
+        creature takes 33 (6d10) bludgeoning damage on failed save, or half as much
+        damage on a successful one.
+alignment: N
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '17'
+condition_immunities:
+- exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
+constitution: '30'
+damage_immunities:
+- acid, poison
+dexterity: '24'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+legendary_actions:
+    number: 3
+    options:
+        Move: ' The leviathan moves up to its speed.'
+        Slam (Costs 2 Actions): ' The leviathan makes one slam attack.'
+name: Leviathan
+page: 198
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Gargantuan
+skills: {}
+speed:
+- 40 ft
+- swim 120 ft
+strength: '30'
+tags: []
+traits:
+    Legendary Resistance (3/Day): If the leviathan fails a saving throw, it can choose
+        to succeed instead.
+    Partial Freeze: If the leviathan takes 50 cold damage or more during a single
+        turn, the leviathan partially freezes; until the end of its next turn, its
+        speeds are reduced to 20 feet, and it makes attack rolls with disadvantage.
+    Siege Monster: The leviathan deals double damage to objects and structures (included
+        in Tidal Wave).
+    Water Form: The leviathan can enter a hostile creature's space and stop there.
+        It can move through a space as narrow as 1 inch wide without squeezing.
+type: elemental
+wisdom: '18'

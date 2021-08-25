@@ -1,0 +1,36 @@
+AC: 12
+CR: 2 (450 XP)
+HP: 59 (7d10 + 21)
+actions:
+    Hooves: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit:
+        11 (2d6 + 4) bludgeoning damage.'
+alignment: CG
+book: Monster Manual
+charisma: '13'
+constitution: '16'
+dexterity: '15'
+intelligence: '10'
+languages:
+- understands Celestial
+- Common
+- Elvish
+- and Sylvan but can't speak
+name: Pegasus
+page: 250
+perception: '+6'
+saving_throws:
+    charisma: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- passive Perception 16
+size: Large
+skills:
+    perception: expert
+speed:
+- 60 ft
+- fly 90 ft
+strength: '18'
+tags: []
+type: celestial
+wisdom: '15'

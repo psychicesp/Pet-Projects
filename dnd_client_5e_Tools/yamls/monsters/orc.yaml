@@ -1,0 +1,37 @@
+AC: 13
+CR: 1/2 (100 XP)
+HP: 15 (2d8 + 6)
+actions:
+    Greataxe: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        9 (1d12 + 3) slashing damage.'
+    Javelin: 'Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.'
+alignment: CE
+book: Monster Manual
+charisma: '10'
+constitution: '16'
+dexterity: '12'
+intelligence: '7'
+intimidation: '+2'
+languages:
+- Common
+- Orc
+name: Orc
+page: 246
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills:
+    intimidation: proficient
+speed:
+- 30 ft
+strength: '16'
+tags:
+- orc
+traits:
+    Aggressive: As a bonus action, the orc can move up to its speed toward a hostile
+        creature that it can see.
+type: humanoid
+wisdom: '11'

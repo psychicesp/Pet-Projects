@@ -1,0 +1,62 @@
+AC: 10
+CR: 2 (450 XP)
+HP: 52 (8d8 + 16)
+actions:
+    Constrict (Serpent Form Only): 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach
+        5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage. If the target is Medium
+        or smaller, it is grappled (escape DC 12+1d4 + 10). Until the grapple ends,
+        the target is restrained, and the fathomer can''t constrict another target.'
+    Dagger (Human Form Only): 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach
+        5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.'
+alignment: NE
+arcana: '+2'
+book: Princes of the Apocalypse
+charisma: '15'
+constitution: '14'
+dexterity: '11'
+intelligence: '11'
+languages:
+- Aquan
+- Common
+name: Fathomer
+page: 207
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Medium
+skills:
+    arcana: proficient
+    perception: expert
+    stealth: expert
+speed:
+- 30 ft
+stealth: '+4'
+strength: '14'
+tags:
+- human
+traits:
+    Olhydra's Armor (Human Form Only): The fathomer can cast mage armor at will, without
+        expending material components.
+    Shapechanger (2/Day): The fathomer can use its action to polymorph into a Medium
+        serpent composed of water, or back into its true form. Anything the fathomer
+        is wearing or carrying is subsumed into the serpent form during the change,
+        inaccessible until the fathomer returns to its true form. The fathomer reverts
+        to its true form after 4 hours, unless it can expend another use of this trait.
+        If the fathomer is knocked unconscious or dies, it also reverts to its true
+        form.
+    spellcasting:
+        ability: charisma
+        level: 5
+        spells:
+        - chill touch
+        - eldritch blast
+        - mage hand
+        - armor of Agathys
+        - expeditious retreat
+        - hex
+        - invisibility
+        - Vampiric touch
+        type: warlock
+type: humanoid
+wisdom: '11'

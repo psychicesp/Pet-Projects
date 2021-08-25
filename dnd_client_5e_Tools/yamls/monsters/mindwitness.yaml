@@ -1,0 +1,50 @@
+AC: 15
+CR: 5 (1,800 XP)
+HP: 75 (10d10 + 20)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one creature. Hit:
+        16 (4d6 + 2) piercing damage.'
+    Eye Rays: 'The mindwitness shoots three of the following magical eye rays at random
+        (reroll duplicates), choosing one to three targets it can see within 120 feet
+        of it:'
+    Multiattack: 'The mindwitness makes two attacks: one with its tentacles and one
+        with its bite.'
+    Tentacles: 'Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one creature.
+        Hit: 20 (4d8 + 2) psychic damage. if the target is Large or smaller, it is
+        grappled (escape DC 13+1d6 + 10) and must succeed on a DC 13+1d6 + 10 Intelligence
+        saving throw or be stunned until this grapple ends.'
+alignment: LE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '10'
+condition_immunities:
+- prone
+constitution: '14'
+dexterity: '14'
+intelligence: '15'
+languages:
+- Deep Speech
+- Undercommon
+- telepathy 600 ft.
+name: Mindwitness
+page: 176
+perception: '+8'
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 18
+size: Large
+skills:
+    perception: expert
+speed:
+- 0 ft
+- fly 20 ft. (hover)
+strength: '10'
+tags: []
+traits:
+    Telepathic Hub: When the mindwitness receives a telepathic message, it can telepathically
+        share that message with up to seven other creatures within 600 feet of it
+        that it can see.
+type: aberration
+wisdom: '15'

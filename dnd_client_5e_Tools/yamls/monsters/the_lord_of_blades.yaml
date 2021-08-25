@@ -1,0 +1,100 @@
+AC: 19
+CR: 18 (20,000 XP)
+HP: 195 (23d8 + 92)
+actions:
+    Adamantine Sixblade: 'Melee Weapon Attack: +11+1d12 + 5 to hit, reach 10 ft.,
+        one target. Hit: 21 (3d10 + 5) slashing damage plus 7 (2d6) force damage.'
+    Bladed Wings: 'Melee or Ranged Weapon Attack: +11+1d12 + 5 to hit, reach 5 ft.
+        or range 20/60 ft., one target. Hit: 8 (1d6 + 5) slashing damage.'
+    Fire Bolt (Cantrip): 'Ranged Spell Attack: +10+1d12 + 4 to hit, range 120 ft.,
+        one target. Hit: 22 (4d10) fire damage.'
+    Multiattack: 'The Lord of Blades makes three attacks: two with his adamantine
+        sixblade and one with his bladed wings.'
+alignment: LE
+arcana: '+10'
+athletics: '+11'
+book: 'Eberron: Rising from the Last War'
+charisma: '18'
+condition_immunities:
+- charmed, exhaustion, frightened
+constitution: '18'
+dexterity: '15'
+history: '+10'
+intelligence: '19'
+languages:
+- Common
+- Draconic
+- Dwarvish
+- Elvish
+legendary_actions:
+    number: 3
+    options:
+        Attack: ' The Lord of Blades makes one weapon attack.'
+        Blade Dash (Costs 3 Actions): ' The Lord of Blades moves up to his speed without
+            provoking opportunity attacks, then makes one attack with his adamantine
+            sixblade. He can make one bladed wings attack against each creature he
+            moves past.'
+        Cantrip: ' The Lord of Blades casts one of his cantrips.'
+        Cast a Spell (Costs 2 Actions): ' The Lord of Blades casts a spell of 2nd
+            level or lower from his spell list that takes 1 action to cast.'
+name: The Lord of Blades
+page: 300
+perception: '+9'
+resistances:
+- necrotic, poison
+saving_throws:
+    constitution: proficient
+    intelligence: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- passive Perception 19
+size: Medium
+skills:
+    arcana: proficient
+    athletics: proficient
+    history: proficient
+    perception: proficient
+speed:
+- 40 ft
+strength: '20'
+tags:
+- warforged
+traits:
+    Adamantine Plating: Any critical hit against the Lord of Blades becomes a normal
+        hit.
+    Bladed Armor: A creature that grapples the Lord of Blades or is grappled by him
+        takes 13 (3d8) slashing damage. A creature takes 13 (3d8) slashing damage
+        if it starts its turn grappling or being grappled by the Lord of Blades.
+    Charge: If the Lord of Blades moves at least 10 feet straight toward a target
+        and then hits it with his adamantine sixblade on the same turn, the target
+        takes an extra 11 (2d10) slashing damage. If the target is a creature, it
+        must succeed on a DC 19+1d12 + 13 Strength saving throw or be pushed up to
+        10 feet away and knocked prone.
+    Warforged Resilience: The Lord of Blades has advantage on saving throws against
+        being poisoned, is immune to disease, and magic can't put him to sleep.
+    spellcasting:
+        ability: intelligence
+        level: 20
+        spells:
+        - fire bolt
+        - mage hand
+        - mending
+        - prestidigitation
+        - expeditious retreat
+        - sanctuary
+        - thunderwave
+        - blur
+        - heat metal
+        - scorching ray
+        - see invisibility
+        - dispel magic
+        - fly
+        - haste
+        - freedom of movement
+        - Mordenkainen's faithful hound
+        - animate objects
+        - wall of force
+        type: artificer
+type: humanoid
+wisdom: '17'

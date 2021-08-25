@@ -1,0 +1,73 @@
+AC: 17
+CR: 6 (2,300 XP) or 8 (3,900 XP) whe part of a cove
+HP: 75 (10d10 + 20)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 15
+        (3d6 + 5) piercing damage.'
+    Claw: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 15
+        (3d6 + 5) slashing damage.'
+    Crushing Hug: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target.
+        Hit: 36 (9d6 + 5) bludgeoning damage, and the target is grappled (escape DC
+        15+1d6 + 12) if it is a Large or smaller creature. Until the grapple ends,
+        the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of the
+        hag''s turns. The hag can''t make attacks while grappling a creature in this
+        way.'
+    Multiattack: 'The annis makes three attacks: one with her bite and two with her
+        claws.'
+alignment: CE
+book: "Volo\u2019s Guide to Monsters"
+charisma: 15 (+2)
+constitution: 14 (+2)
+constitution save: '+5'
+deception: '+5'
+dexterity: 12 (+1)
+hit points: 10d10 + 20
+in_lair:
+    CR_increase: 1
+    actions:
+    - Until initiative count 20 on the next round, the hag can pass through solid
+        walls, doors, ceilings, and floors as if the surfaces weren't there.
+    - The hag targets any number of doors and windows that she can see, causing each
+        one to either open or close as she wishes. Closed doors can be magically locked
+        (requiring a successful DC 20+1d6 + 17 Strength check to force open) until
+        she chooses to make them unlocked, or until she uses this lair action again
+        to open them.
+    - The hag creates a thick cloud of caustic black smoke that fills a 20-foot-radius
+        sphere centered on a point she can see within 120 feet her. The cloud lasts
+        until initiative count 20 on the next round. Creatures and objects in or behind
+        the smoke are heavily obscured. A creature that enters the cloud for the first
+        time on a turn or starts its turn there takes 10 (3d6) acid damage.
+intelligence: 13 (+1)
+languages:
+- Common
+- Giant
+- Sylvan
+name: Annis Hag
+page: 159
+perception: '+5'
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    constitution: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 15
+size: Large
+skills:
+    deception: proficient
+    perception: proficient
+speed:
+- 40 ft
+strength: 21 (+5)
+tags: []
+traits:
+    spellcasting:
+        ability: charisma
+        spells:
+            3/day:
+            - disguise self
+            - fog cloud
+        type: innate
+type: fey
+wisdom: 14 (+2)

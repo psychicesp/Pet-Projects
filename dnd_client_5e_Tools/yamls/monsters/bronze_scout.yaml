@@ -1,0 +1,47 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 18 (4d8)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5
+        (1d4 + 3) piercing damage plus 3 (1d6) lightning damage.'
+    Lightning Flare (Recharges after a Short or Long Rest): Each creature in contact
+        with the ground within 15 feet of the bronze scout must make a DC 13+1d4 +
+        11 Dexterity saving throw, taking 14 (4d6) lightning damage on a failed save,
+        or half as much damage on a successful one.
+alignment: U
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '1'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: '11'
+damage_immunities:
+- poison
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t adamantine
+dexterity: '16'
+hit: 4d8
+intelligence: '3'
+languages:
+- understands one language of its creator but can't speak
+name: Bronze Scout
+page: 125
+perception: '+6'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 16
+size: Medium
+skills:
+    perception: expert
+    stealth: expert
+speed:
+- 30 ft
+- burrow 30 ft
+stealth: '+7'
+strength: '10'
+tags: []
+traits:
+    Earth Armor: The bronze scout doesn't provoke opportunity attacks when it burrows.
+    Magic Resistance: The bronze scout has advantage on saving throws against spells
+        and other magical effects.
+type: construct
+wisdom: '14'

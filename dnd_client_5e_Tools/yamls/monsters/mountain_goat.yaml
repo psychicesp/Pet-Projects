@@ -1,0 +1,35 @@
+AC: 11
+CR: 1/8 (25 XP)
+HP: 13 (2d8 + 4)
+actions:
+    Ram: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) bludgeoning damage.'
+alignment: U
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '5'
+constitution: '14'
+dexterity: '12'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Mountain Goat
+page: 304
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 40 ft
+- climb 30 ft
+strength: '14'
+tags: []
+traits:
+    Charge: If the goat moves at least 20 feet straight toward a target and then hits
+        it with a ram attack on the same turn, the target takes an extra 3 (1d6) bludgeoning
+        damage. If the target is a creature, it must succeed on a DC 12+1d4 + 10 Strength
+        saving throw or be knocked prone.
+    Sure-Footed: The goat has advantage on Strength and Dexterity saving throws made
+        against effects that would knock it prone.
+type: beast
+wisdom: '10'

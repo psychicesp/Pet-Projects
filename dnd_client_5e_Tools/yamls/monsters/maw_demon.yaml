@@ -1,0 +1,39 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 11
+        (2d8 + 2) piercing damage.'
+alignment: CE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '5'
+condition_immunities:
+- charmed, frightened, poisoned
+constitution: '13'
+damage_immunities:
+- poison
+dexterity: '8'
+intelligence: '5'
+languages:
+- understands Abyssal but can\'t speak
+name: Maw Demon
+page: 137
+resistances:
+- cold, fire, lightning
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 9
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '14'
+tags:
+- demon
+traits:
+    Rampage: When it reduces a creature to 0 hit points with a melee attack on its
+        turn, the maw demon can take a bonus action to move up to half its speed and
+        make a bite attack.
+type: fiend
+wisdom: '8'

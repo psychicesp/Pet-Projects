@@ -1,0 +1,57 @@
+AC: 11
+CR: 1 (200 XP)
+HP: 40 (9d8)
+actions:
+    Multiattack: The yuan-ti makes two melee attacks.
+    Scimitar: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit:
+        4 (1d6 + 1) slashing damage.'
+    Shortbow: 'Ranged Weapon Attack: +3+1d4 + 1 to hit, range 80/320 ft., one target.
+        Hit: 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage.'
+alignment: NE
+book: Monster Manual
+charisma: '14'
+condition_immunities:
+- poisoned
+constitution: '11'
+damage_immunities:
+- poison
+deception: '+6'
+dexterity: '12'
+hit: 9d8
+intelligence: '13'
+languages:
+- Abyssal
+- Common
+- Draconic
+name: Yuan-ti Pureblood
+page: 310
+perception: '+3'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    deception: expert
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+3'
+strength: '11'
+tags:
+- yuan-ti
+traits:
+    Magic Resistance: The yuan-ti has advantage on saving throws against spells and
+        other magical effects.
+    spellcasting:
+        ability: charisma
+        spells:
+            3/day:
+            - poison spray
+            - suggestion
+            at will:
+            - animal friendship
+        type: innate
+type: humanoid
+wisdom: '12'

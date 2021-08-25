@@ -1,0 +1,38 @@
+AC: 8
+CR: 1/4 (50 XP)
+HP: 22 (3d8 + 9)
+actions:
+    Slam: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4
+        (1d6 + 1) bludgeoning damage.'
+alignment: NE
+book: Monster Manual
+charisma: '5'
+condition_immunities:
+- poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '6'
+intelligence: '3'
+languages:
+- understands all languages it spoke in life but can\'t speak
+name: Zombie
+page: 316
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Medium
+skills: {}
+speed:
+- 20 ft
+strength: '13'
+tags: []
+traits:
+    Undead Fortitude: If damage reduces the zombie to 0 hit points, it must make a
+        Constitution saving throw with a DC of 5 + the damage taken, unless the damage
+        is radiant or from a critical hit. On a success, the zombie drops to 1 hit
+        point instead.
+type: undead
+wisdom: '6'

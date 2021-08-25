@@ -1,0 +1,43 @@
+AC: 16
+CR: 1 (200 XP)
+HP: 10 (3d4 + 3)
+acrobatics: '+8'
+actions:
+    Dagger: 'Melee or Ranged Weapon Attack: +8+1d4 + 6 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 8 (1d4 + 6) piercing damage.'
+    Multiattack: The quickling makes three dagger attacks.
+alignment: CE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '7'
+constitution: '13'
+dexterity: '23'
+intelligence: '10'
+languages:
+- Common
+- Sylvan
+name: Quickling
+page: 187
+perception: '+5'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 15
+size: Tiny
+skills:
+    acrobatics: proficient
+    perception: expert
+    sleight of hand: proficient
+    stealth: proficient
+speed:
+- 120 ft
+stealth: '+8'
+strength: '4'
+tags: []
+traits:
+    Blurred Movement: Attack rolls against the quickling have disadvantage unless
+        the quickling is incapacitated or restrained.
+    Evasion: If the quickling is subjected to an effect that allows it to make a Dexterity
+        saving throw to take only half damage, it instead takes no damage if it succeeds
+        on the saving throw, and only half damage if it fails.
+type: fey
+wisdom: '12'

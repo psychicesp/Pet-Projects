@@ -1,0 +1,33 @@
+AC: 12
+CR: 1/8 (25 XP)
+HP: 5 (1d8 + 1)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4
+        (1d6 + 1) piercing damage. If the target is a creature, it must succeed on
+        a DC 11+1d4 + 9 Strength saving throw or be knocked prone.'
+alignment: U
+book: Monster Manual
+charisma: '7'
+constitution: '12'
+dexterity: '14'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Mastiff
+page: 332
+perception: '+3'
+saving_throws: {}
+senses:
+- passive Perception 13
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 40 ft
+strength: '13'
+tags: []
+traits:
+    Keen Hearing and Smell: The mastiff has advantage on Wisdom (Perception) checks
+        that rely on hearing or smell.
+type: beast
+wisdom: '12'

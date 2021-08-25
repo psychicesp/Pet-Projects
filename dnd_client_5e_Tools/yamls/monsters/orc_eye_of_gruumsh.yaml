@@ -1,0 +1,52 @@
+AC: 16
+CR: 2 (450 XP)
+HP: 45 (6d8 + 18)
+actions:
+    Spear: 'Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 11 (1d6 + 3 plus 1d8) piercing damage, or 12 (2d8
+        + 3) piercing damage if used with two hands to make a melee attack.'
+alignment: CE
+book: Monster Manual
+charisma: '12'
+constitution: '17'
+dexterity: '12'
+intelligence: '9'
+intimidation: '+3'
+languages:
+- Common
+- Orc
+name: Orc Eye of Gruumsh
+page: 247
+religion: '+1'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Medium
+skills:
+    intimidation: proficient
+    religion: proficient
+speed:
+- 30 ft
+strength: '16'
+tags:
+- orc
+traits:
+    Aggressive: As a bonus action, the orc can move up to its speed toward a hostile
+        creature that it can see.
+    Gruumsh's Fury: The orc deals an extra 4 (1d8) damage when it hits with a weapon
+        attack (included in the attacks).
+    spellcasting:
+        ability: wisdom
+        level: 3
+        spells:
+        - guidance
+        - resistance
+        - thaumaturgy
+        - bless
+        - command
+        - augury
+        - spiritual weapon
+        type: cleric
+type: humanoid
+wisdom: '13'

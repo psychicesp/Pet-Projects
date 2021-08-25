@@ -1,0 +1,37 @@
+AC: 15
+CR: 1/4 (50 XP)
+HP: 10 (4d6 - 4)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6
+        (1d10 + 1) piercing damage, and the Wretched attaches to the target. While
+        attached, the Wretched can''t attack, and at the start of each of the Wretched''s
+        turns, the target takes 6 (1d10 + 1) necrotic damage.'
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '5'
+constitution: '9'
+dexterity: '12'
+intelligence: '5'
+languages:
+- \xe2\x80\x94
+name: The Wretched
+page: 233
+resistances:
+- bludgeoning, piercing, and slashing while in dim light or darkness
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Small
+skills: {}
+speed:
+- 40 ft
+strength: '7'
+tags: []
+traits:
+    Wretched Pack Tactics: The Wretched has advantage on an attack roll against a
+        creature if at least one of the Wretched's allies is within 5 feet of the
+        creature and the ally isn't incapacitated. The Wretched otherwise has disadvantage
+        on attack rolls.
+type: monstrosity
+wisdom: '6'

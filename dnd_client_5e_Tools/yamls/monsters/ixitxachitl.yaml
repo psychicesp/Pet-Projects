@@ -1,0 +1,30 @@
+AC: 15
+CR: 1/4 (50 XP)
+HP: 18 (4d6 + 4)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4
+        (1d6 + 1) piercing damage.'
+alignment: CE
+book: Out of the Abyss
+charisma: '7'
+constitution: '13'
+dexterity: '16'
+intelligence: '12'
+languages:
+- Abyssal
+- Ixitxachitl
+name: Ixitxachitl
+page: 225
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Small
+skills: {}
+speed:
+- 0 ft
+- swim 30 ft
+strength: '12'
+tags: []
+type: aberration
+wisdom: '13'

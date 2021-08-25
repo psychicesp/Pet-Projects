@@ -1,0 +1,55 @@
+AC: 16
+CR: 8 (3,900 XP)
+HP: 90 (12d8 + 36)
+actions:
+    Bite: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one willing creature,
+        or a creature that is grappled by the vampire, incapacitated, or restrained.
+        Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. If the target
+        is humanoid, it must succeed on a DC 15+1d6 + 12 Charisma saving throw or
+        be charmed by the vampire for 1 minute. While charmed in this way, the target
+        is infatuated with the vampire. The target''s hit point maximum is reduced
+        by an amount equal to the necrotic damage taken, and the vampire regains hit
+        points equal to that amount. The reduction lasts until the target finishes
+        a long rest. The target dies if its hit point maximum is reduced to 0.'
+    Multiattack: The vampire makes three melee attacks, only one of which can be a
+        bite attack.
+    Rapier: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        8 (1d8 + 4) piercing damage.'
+    Unarmed Strike: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target.
+        Hit: 7 (1d8 + 3) bludgeoning damage. The vampire can also grapple the target
+        (escape DC 14+1d6 + 11) if it is a creature and the vampire has a hand free.'
+alignment: LE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '19'
+constitution: '17'
+dexterity: '18'
+intelligence: '16'
+intimidation: '+7'
+languages:
+- the languages it knew in life
+name: Blood Drinker Vampire
+page: 223
+perception: '+4'
+resistances:
+- necrotic
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    intimidation: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 40 ft
+- fly 40 ft. (hover)
+stealth: '+7'
+strength: '16'
+tags: []
+type: undead
+wisdom: '13'

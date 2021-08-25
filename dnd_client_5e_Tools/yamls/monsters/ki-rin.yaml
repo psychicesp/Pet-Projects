@@ -1,0 +1,101 @@
+AC: 20
+CR: 12 (8,400 XP)
+HP: 152 (16d12 + 48)
+actions:
+    Hoof: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 15 ft., one target. Hit:
+        10 (2d4 + 5) bludgeoning damage.'
+    Horn: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 14
+        (2d8 + 5) piercing damage.'
+    Multiattack: 'The ki-rin makes three attacks: two with its hooves and one with
+        its horn.'
+alignment: LG
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '20'
+condition_immunities:
+- poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '16'
+insight: '+9'
+intelligence: '19'
+languages:
+- all
+- telepathy 120 ft.
+legendary_actions:
+    number: 3
+    options:
+        Detect: ' The ki-rin makes a Wisdom (Perception) check or a Wisdom (Insight)
+            check.'
+        Move: ' The ki-rin moves up to its half its speed without provoking opportunity
+            attacks.'
+        Smite: ' The ki-rin makes a hoof attack or casts sacred flame.'
+name: Ki-rin
+page: 163
+perception: '+9'
+religion: '+8'
+saving_throws: {}
+senses:
+- blindsight 30 ft.
+- darkvision 120 ft.
+- passive Perception 19
+size: Huge
+skills:
+    insight: proficient
+    perception: proficient
+    religion: proficient
+speed:
+- 60 ft
+- fly 120 ft. (hover)
+strength: '21'
+tags: []
+traits:
+    Legendary Resistance (3/Day): If the ki-rin fails a saving throw, it can choose
+        to succeed instead.
+    Magic Resistance: The ki-rin has advantage on saving throws against spells and
+        other magical effects.
+    Magic Weapons: The ki-rin's weapon attacks are magical.
+    spellcasting:
+        ability: wisdom
+        spells:
+            1st:
+            - command
+            - cure wounds
+            - detect evil and good
+            - protection from evil and good
+            - sanctuary
+            2nd:
+            - calm emotions
+            - lesser restoration
+            - silence
+            3rd:
+            - dispel magic
+            - remove curse
+            - sending
+            4th:
+            - banishment
+            - freedom of movement
+            - guardian of faith
+            5th:
+            - greater restoration
+            - mass cure wounds
+            - scrying
+            6th:
+            - heroes\' feast
+            - true seeing
+            7th:
+            - etherealness
+            - plane shift
+            8th:
+            - control weather
+            9th:
+            - true resurrection
+            Cantrips:
+            - light
+            - mending
+            - sacred flame
+            - spare the dying
+            - thaumaturgy
+        type: innate
+type: celestial
+wisdom: '20'

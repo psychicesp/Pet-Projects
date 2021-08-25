@@ -1,0 +1,36 @@
+AC: 12
+CR: 1/2 (100 XP)
+HP: 31 (7d6 + 7)
+actions:
+    Claws: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        7 (2d4 + 2) slashing damage.'
+    Rock: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 20/60 ft., one target. Hit:
+        5 (1d6 + 2) bludgeoning damage.'
+alignment: U
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '8'
+condition_immunities:
+- exhaustion, poisoned
+constitution: '12'
+damage_immunities:
+- poison
+dexterity: '15'
+intelligence: '8'
+languages:
+- understands Common but can\'t speak
+name: Winged Thrull
+page: 221
+saving_throws:
+    dexterity: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 9
+size: Small
+skills: {}
+speed:
+- 30 ft
+- fly 30 ft
+strength: '9'
+tags: []
+type: construct
+wisdom: '9'

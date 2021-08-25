@@ -1,0 +1,40 @@
+AC: 18
+CR: 2 (450 XP)
+HP: 42 (5d8 + 20)
+actions:
+    Greataxe: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit:
+        10 (1d12 + 4) slashing damage.'
+    Javelin: 'Melee or Ranged Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.'
+    Multiattack: The orog makes two greataxe attacks.
+alignment: CE
+book: Monster Manual
+charisma: '12'
+constitution: '18'
+dexterity: '12'
+intelligence: '12'
+intimidation: '+5'
+languages:
+- Common
+- Orc
+name: Orog
+page: 247
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills:
+    intimidation: expert
+    survival: proficient
+speed:
+- 30 ft
+strength: '18'
+survival: '+2'
+tags:
+- orc
+traits:
+    Aggressive: As a bonus action, the orog can move up to its speed toward a hostile
+        creature that it can see.
+type: humanoid
+wisdom: '11'

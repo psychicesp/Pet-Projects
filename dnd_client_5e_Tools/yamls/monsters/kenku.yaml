@@ -1,0 +1,43 @@
+AC: 13
+CR: 1/4 (50 XP)
+HP: 13 (3d8)
+actions:
+    Shortbow: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 80/320 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage.'
+    Shortsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage.'
+alignment: CN
+book: Monster Manual
+charisma: '10'
+constitution: '10'
+deception: '+4'
+dexterity: '16'
+hit: 3d8
+intelligence: '11'
+languages:
+- understands Auran and Common but speaks only through the use of its Mimicry trait
+name: Kenku
+page: 194
+perception: '+2'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    deception: expert
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+5'
+strength: '10'
+tags:
+- kenku
+traits:
+    Ambusher: In the first round of a combat, the kenku has advantage on attack rolls
+        against any creature it surprised.
+    Mimicry: The kenku can mimic any sounds it has heard, including voices. A creature
+        that hears the sounds can tell they are imitations with a successful DC 14+1d4
+        + 12 Wisdom (Insight) check.
+type: humanoid
+wisdom: '10'

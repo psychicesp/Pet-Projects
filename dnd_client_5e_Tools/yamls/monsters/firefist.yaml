@@ -1,0 +1,57 @@
+AC: 18
+CR: 7 (2,900 XP)
+HP: 117 (18d8 + 36)
+actions:
+    Greatsword: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target.
+        Hit: 10 (2d6 + 3) slashing damage.'
+    Multiattack: The firefist makes two greatsword attacks.
+alignment: LG
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '13'
+constitution: '14'
+dexterity: '10'
+intelligence: '11'
+intimidation: '+4'
+languages:
+- any one language (usually Common)
+name: Firefist
+page: 231
+religion: '+3'
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- passive Perception 13
+size: Medium
+skills:
+    intimidation: proficient
+    religion: proficient
+speed:
+- 30 ft
+strength: '16'
+tags:
+- any
+traits:
+    spellcasting:
+        ability: wisdom
+        level: 9
+        spells:
+        - fire bolt
+        - light
+        - sacred flame
+        - spare the dying
+        - guiding bolt
+        - healing word
+        - heroism
+        - shield of faith
+        - lesser restoration
+        - scorching ray
+        - blinding smite
+        - crusader's mantle
+        - revivify
+        - banishment
+        - wall of fire
+        - flame strike
+        type: cleric
+type: humanoid
+wisdom: '17'

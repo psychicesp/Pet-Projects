@@ -1,0 +1,38 @@
+AC: 19
+CR: 12 (8,400 XP)
+HP: 189 (18d10 + 90)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 17
+        (2d12 + 4) piercing damage. If the target is Medium or smaller, the target
+        must succeed on a DC 16+1d8 + 12 Strength saving throw or be knocked prone.'
+    Claws: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 10 ft., one target. Hit:
+        13 (2d8 + 4) slashing damage. If the target is prone an additional 7 (2d6)
+        bludgeoning damage is dealt to the target.'
+    Multiattack: 'The gray render makes three attacks: one with its bite and two with
+        its claws.'
+alignment: CN
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '8'
+constitution: '20'
+dexterity: '13'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Gray Render
+page: 209
+perception: '+2'
+saving_throws:
+    constitution: proficient
+    strength: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Large
+skills:
+    perception: proficient
+speed:
+- 30 ft
+strength: '19'
+tags: []
+type: monstrosity
+wisdom: '6'

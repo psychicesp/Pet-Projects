@@ -10,6 +10,7 @@ import random
 import shutil
 import os
 import json
+import yaml
 
 # %%
 # url = "https://5e.tools/items.html#abacus_phb"
@@ -55,12 +56,12 @@ proficiency_dict = {
     "1": "proficient",
     "2": "expert"
 }
-file_name = "lich.html"
-# def html_to_json_monster(file_name, save = True):
+# file_name = "lich.html"
+# def html_to_obj_monster(file_name, save = True, how = 'json'):
 #     print(file_name.split('.')[0])
-#     with open(f'html_pages/monster/{file_name}', 'r') as mon:
+#     with open(f'html_pages/monsters/{file_name}', 'r') as mon:
 #         mon_soup = BS(mon, 'html.parser')
-#     new_file_name = file_name.split('.')[0]+".json"
+#     new_file_name = file_name.split('.')[0]+f".{how}"
 #     ability_soup = mon_soup.find_all('span', {'class':'roller render-roller'})
 #     meal = {'tags':[]}
 #     for ability in ability_soup:
@@ -275,41 +276,43 @@ file_name = "lich.html"
 #     if len(sta)>2:
 #         meal['tags'].append(sta[2].strip().strip(')').strip('('))
 #     if save:
-#         with open(f'jsons/monsters/{new_file_name}', 'w') as out:
-#             json.dump(meal, out, indent = 4)
+#         with open(f'{how}s/monsters/{new_file_name}', 'w') as out:
+#             if how == 'json':
+#                 json.dump(meal, out, indent=4)
+#             elif how == 'yaml'
+#                 yaml.dump(meal, out, indent=4)
 
-# %%
+# # %%
 # files = os.listdir("html_pages/info")
 # for file in files:
-#     html_to_json(file)
+#     html_to_obj_monster(file, how = 'yaml')
 
 # %%
-def html_cleaner(in_folder):
-    files = os.listdir(in_folder)
-    for file in files:
-        with open(f"{in_folder}/{file}", 'r') as dirty:
-            clean = str(dirty.read()).replace("' b'", '').replace("\" b'", '').replace("' b\"", '').replace("'\nb'", '').replace("""'
-b'""", '').replace("""'
- b'""", '').replace("""\"
-b'""", '').replace("""'
- b\"""", '').replace("""\"
- b'""", '').replace("""'
-b\"""", '').replace('''"
-b"''', '').replace('''" 
-b"''', '').replace('''"
-b "''', '').replace('''"
- b"''', '').replace("(b'", "").replace("""
-""", "")
-        with open(f"{in_folder}/{file}", 'w') as new:
-            new.write(clean)
+# def html_cleaner(in_folder):
+#     files = os.listdir(in_folder)
+#     for file in files:
+#         with open(f"{in_folder}/{file}", 'r') as dirty:
+#             clean = str(dirty.read()).replace("' b'", '').replace("\" b'", '').replace("' b\"", '').replace("'\nb'", '').replace("""'
+# b'""", '').replace("""'
+#  b'""", '').replace("""\"
+# b'""", '').replace("""'
+#  b\"""", '').replace("""\"
+#  b'""", '').replace("""'
+# b\"""", '').replace('''"
+# b"''', '').replace('''" 
+# b"''', '').replace('''"
+# b "''', '').replace('''"
+#  b"''', '').replace("(b'", "").replace("""
+# """, "")
+#         with open(f"{in_folder}/{file}", 'w') as new:
+#             new.write(clean)
+
 # %%
-html_cleaner('html_pages/spells')
-# %%
-def html_to_json_spells(file):
+def html_to_object_spells(file):
     with open(f'html_pages/spells/{file}', 'r') as mon:
         spell_soup = BS(mon, 'html.parser')
     spell_dict = {}
-    name = spell_soup.find('h1').text
+    name = sterilizer(spell_soup.find('h1').text)
     spell_dict['name'] = sterilizer(name)
     lvl_school = spell_soup.find('td', {'class':"rd-spell__level-school-ritual"})
     if 'cantrip' in lvl_school.text.lower():
@@ -349,15 +352,43 @@ def html_to_json_spells(file):
         description.remove(h)
     description = " ".join(description)
     description = sterilizer(description).replace('.','. ').replace('.  ', '. ')
-    print(description)
     spell_dict["description"] = description
     if len(higher_levels) > 0:
         spell_dict["higher_levels"] = sterilizer(higher_levels[0]).replace('At Higher Levels.','')
-    with open ('test.js', 'w') as pout:
-        pprint(spell_dict, stream = pout)
+    spell_divs = spell_soup.find_all('div')
+    for div in spell_divs:
+        try:
+            check_text = div.find('span').text
+            if 'Classes:' in check_text:
+                classes = div
+                break
+        except:
+            pass
+    classes = classes.find_all('a')
+    classes = [x.text for x in classes]
+    spell_dict['classes'] = classes
+    source_tds = spell_soup.find_all('td',{'colspan':'6'})
+    for td in source_tds:
+        try:
+            check_text = div.find('b').text
+            if 'Source:' in check_text:
+                source = td
+                break
+        except:
+            pass
+    source = td.find('i').text
+    page_text = td.text.replace(source, '')
+    page = int(page_text.split('.')[0].split('page ')[-1])
+    spell_dict['source'] = source
+    spell_dict['page'] = page
+    with open (f'yamls/spells/{name}.yaml', 'w') as pout:
+        yaml.dump(spell_dict, pout, indent = 4)
+    with open (f'jsonss/spells/{name}.json', 'w') as pout:
+        json.dump(spell_dict, pout, indent = 4)
+
 
 spell_files = os.listdir('html_pages/spells')
 
-for spell in spell_files[10:11]:
-    html_to_json_spells(spell)
+for spell in spell_files[:11]:
+    html_to_object_spells(spell)
 # %%

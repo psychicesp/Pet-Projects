@@ -1,0 +1,36 @@
+AC: 11
+CR: 1 (200 XP)
+HP: 32 (5d8 + 10)
+actions:
+    Multiattack: 'The sea spawn makes three attacks: two unarmed strikes and one with
+        its Piscine Anatomy.'
+    Piscine Anatomy: 'The sea spawn has one or more of the following attack options,
+        provided it has the appropriate anatomy:'
+    Unarmed Strike: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 4 (1d4 + 2) bludgeoning damage.'
+alignment: NE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '8'
+constitution: '15'
+dexterity: '8'
+intelligence: '6'
+languages:
+- understands Aquan and Common but can\'t speak
+name: Sea Spawn
+page: 189
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 20 ft
+- swim 30 ft
+strength: '15'
+tags: []
+traits:
+    Limited Amphibiousness: The sea spawn can breathe air and water, but needs to
+        be submerged in the sea at least once a day for 1 minute to avoid suffocating.
+type: humanoid
+wisdom: '10'

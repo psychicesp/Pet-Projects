@@ -1,0 +1,46 @@
+AC: 18
+CR: 1 (200 XP)
+HP: 37 (5d8 + 15)
+actions:
+    Battleaxe: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if wielded with
+        two hands.'
+    Javelin: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.'
+    Multiattack: The dread warrior makes two melee attacks.
+alignment: NE
+athletics: '+4'
+book: Tales from the Yawning Portal
+charisma: '10'
+condition_immunities:
+- exhaustion, poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '11'
+intelligence: '10'
+languages:
+- Common
+name: Dread Warrior
+page: 233
+perception: '+3'
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '15'
+tags: []
+traits:
+    Undead Fortitude: If damage reduces the dread warrior to 0 hit points, it must
+        make a Constitution saving throw with a DC of 5+the damage taken, unless the
+        damage is radiant or from a critical hit. On a success, the dread warrior
+        drops to 1 hit point instead.
+type: undead
+wisdom: '12'

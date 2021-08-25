@@ -1,0 +1,51 @@
+AC: 15
+CR: 6 (2,300 XP)
+HP: 67 (9d8 + 27)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 9
+        (2d8) piercing damage.'
+    Eye Rays: 'The gauth shoots three of the following magical eye rays at random
+        (reroll duplicates), choosing one to three targets it can see within 120 feet
+        of it:'
+alignment: LE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '13'
+condition_immunities:
+- prone
+constitution: '16'
+dexterity: '14'
+intelligence: '15'
+languages:
+- Deep Speech
+- Undercommon
+name: Gauth
+page: 125
+perception: '+5'
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 15
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 0 ft
+- fly 20 ft. (hover)
+strength: '10'
+tags: []
+traits:
+    Death Throes: When the gauth dies, the magical energy within it explodes, and
+        each creature within 10 feet of it must make a DC 14+1d6 + 11 Dexterity saving
+        throw, taking 13 (3d8) force damage on a failed save, or half as much damage
+        on a successful one.
+    Stunning Gaze: When a creature that can see the gauth's central eye starts its
+        turn within 30 feet of the gauth, the gauth can force it to make a DC 14+1d6
+        + 11 Wisdom saving throw if the gauth isn't incapacitated and can see the
+        creature. A creature that fails the save is stunned until the start of its
+        next turn, when it can avert its eyes again. If the creature looks at the
+        gauth in the meantime, it must immediately make the save.
+type: aberration
+wisdom: '15'

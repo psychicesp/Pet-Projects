@@ -1,0 +1,94 @@
+AC: 20
+CR: 20 (25,000 XP)
+HP: 297 (17d20 + 119)
+actions:
+    Bite: 'Melee Weapon Attack: +14+1d12 + 8 to hit, reach 15 ft., one target. Hit:
+        19 (2d10 + 8) piercing damage.'
+    "Breath Weapons (Recharge 5\u20136)": 'The dragon uses one of the following breath
+        weapons:'
+    Change Shape: The dragon magically polymorphs into a humanoid or beast that has
+        a challenge rating no higher than its own, or back into its true form. It
+        reverts to its true form if it dies. Any equipment it is wearing or carrying
+        is absorbed or borne by the new form (the dragon's choice).
+    Claw: 'Melee Weapon Attack: +14+1d12 + 8 to hit, reach 10 ft., one target. Hit:
+        15 (2d6 + 8) slashing damage.'
+    Frightful Presence: Each creature of the dragon's choice that is within 120 feet
+        of the dragon and aware of it must succeed on a DC 18+1d12 + 12 Wisdom saving
+        throw or become frightened for 1 minute. A creature can repeat the saving
+        throw at the end of each of its turns, ending the effect on itself on a success.
+        If a creature's saving throw is successful or the effect ends for it, the
+        creature is immune to the dragon's Frightful Presence for the next 24 hours.
+    Multiattack: 'The dragon can use its Frightful Presence. It then makes three attacks:
+        one with its bite and two with its claws.'
+    Tail: 'Melee Weapon Attack: +14+1d12 + 8 to hit, reach 20 ft., one target. Hit:
+        17 (2d8 + 8) bludgeoning damage.'
+alignment: CG
+book: Monster Manual
+charisma: 19 (+4)
+charisma save: '+10'
+constitution: 25 (+7)
+constitution save: '+13'
+damage_immunities:
+- fire
+dexterity: 10 (+0)
+dexterity save: '+6'
+history: '+9'
+hit points: 17d20 + 119
+in_lair:
+    CR_increase: 1
+    actions:
+    - A strong wind blows around the dragon. Each creature within 60 feet of the dragon
+        must succeed on a DC 15+1d12 + 9 Strength saving throw or be pushed 15 feet
+        away from the dragon and knocked prone. Gases and vapors are dispersed by
+        the wind, and unprotected flames are extinguished. Protected flames; such
+        as lanterns, have a 50 percent chance of being extinguished.
+    - A cloud of sand swirls about in a 20-foot-radius sphere centered on a point
+        the dragon can see within 120 feet of it. The cloud spreads around corners.
+        Each creature in it must succeed on a DC 15+1d12 + 9 Constitution saving throw
+        or be blinded for 1 minute. A creature can repeat the saving throw at the
+        end of each of its turns, ending the effect on itself on a success.
+intelligence: 16 (+3)
+languages:
+- Common
+- Draconic
+legendary_actions:
+    number: 3
+    options:
+        Detect: ' The dragon makes a Wisdom (Perception) check.'
+        Tail Attack: ' The dragon makes a tail attack.'
+        Wing Attack (Costs 2 Actions): ' The dragon beats its wings. Each creature
+            within 15 feet of the dragon must succeed on a DC 22+1d12 + 16 Dexterity
+            saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone.
+            The dragon can then fly up to half its flying speed.'
+name: Ancient Brass Dragon
+page: 104
+perception: '+14'
+persuasion: '+10'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 60 ft.
+- darkvision 120 ft.
+- passive Perception 24
+size: Gargantuan
+skills:
+    history: proficient
+    perception: expert
+    persuasion: proficient
+    stealth: proficient
+speed:
+- 40 ft
+- burrow 40 ft
+- fly 80 ft
+stealth: '+6'
+strength: 27 (+8)
+tags: []
+traits:
+    Legendary Resistance (3/Day): If the dragon fails a saving throw, it can choose
+        to succeed instead.
+type: dragon
+wisdom: 15 (+2)
+wisdom save: '+8'

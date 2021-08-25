@@ -1,0 +1,71 @@
+AC: 13
+CR: 8 (3,900 XP)
+HP: 110 (20d8 + 20)
+actions:
+    Deathly Claw: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target.
+        Hit: 13 (3d6 + 3) necrotic damage).'
+    Grave Bolts: 'Ranged Spell Attack: +6+1d6 + 3 to hit, range 120 ft., one or two
+        targets. Hit: 18 (4d8) necrotic damage. If the target is Large or smaller,
+        it must succeed on a DC 16+1d6 + 13 Strength saving throw or become restrained
+        as shadowy tendrils wrap around it for 1 minute. A restrained target can use
+        its action to repeat the saving throw, ending the effect on itself on a success.'
+alignment: LE
+arcana: '+5'
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '17'
+condition_immunities:
+- exhaustion, poisoned
+constitution: '12'
+damage_immunities:
+- poison
+dexterity: '16'
+history: '+5'
+intelligence: '15'
+languages:
+- the languages it knew in life
+name: Deathlock Mastermind
+page: 129
+perception: '+4'
+resistances:
+- necrotic
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+senses:
+- darkvision 120 ft. (including magical darkness)
+- passive Perception 14
+size: Medium
+skills:
+    arcana: proficient
+    history: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '11'
+tags: []
+traits:
+    Turn Resistance: The deathlock has advantage on saving throws against any effect
+        that turns undead.
+    spellcasting:
+        ability: charisma
+        spells:
+            1st-5th:
+            - arms of Hadar
+            - blight
+            - counterspell
+            - crown of madness
+            - darkness
+            - dimension door
+            - dispel magic
+            - fly
+            - hold monster
+            - invisibility
+            Cantrips:
+            - chill touch
+            - mage hand
+            - minor illusion
+            - poison spray
+        type: innate
+type: undead
+wisdom: '12'

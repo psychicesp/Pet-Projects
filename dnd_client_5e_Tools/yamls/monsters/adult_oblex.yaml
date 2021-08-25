@@ -1,0 +1,78 @@
+AC: 14
+CR: 5 (1,800 XP)
+HP: 75 (10d8 + 30)
+actions:
+    Eat Memories: The oblex targets one creature it can see within 5 feet of it. The
+        target must succeed on a DC 15+1d6 + 12 Wisdom saving throw or take 18 (4d8)
+        psychic damage and become memory drained until it finishes a short or long
+        rest or until it benefits from the greater restoration or heal spell. Constructs,
+        oozes, plants, and undead succeed on the save automatically.
+    Multiattack: The oblex makes one pseudopod attack and uses Eat Memories.
+    Pseudopod: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        7 (1d6 + 4) bludgeoning damage plus 5 (2d4) psychic damage.'
+alignment: LE
+arcana: '+7'
+book: "Mordenkainen\u2019s Tome of Foes"
+charisma: 15 (+2)
+charisma save: '+5'
+condition_immunities:
+- blinded, charmed, deafened, exhaustion, prone
+constitution: 16 (+3)
+deception: '+5'
+dexterity: 19 (+4)
+history: '+7'
+hit points: 10d8 + 30
+intelligence: 19 (+4)
+intelligence save: '+7'
+languages:
+- Common plus two more languages
+name: Adult Oblex
+nature: '+7'
+page: 218
+perception: '+4'
+religion: '+7'
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+senses:
+- blindsight 60 ft. (blind beyond this distance)
+- passive Perception 14
+size: Medium
+skills:
+    arcana: proficient
+    deception: proficient
+    history: proficient
+    nature: proficient
+    perception: proficient
+    religion: proficient
+speed:
+- 20 ft
+strength: 8 (-1)
+tags: []
+traits:
+    Amorphous: The oblex can move through a space as narrow as 1 inch wide without
+        squeezing.
+    Aversion to Fire: If the oblex takes fire damage, it has disadvantage on attack
+        rolls and ability checks until the end of its next turn.
+    Sulfurous Impersonation: As a bonus action, the oblex can extrude a piece of itself
+        that assumes the appearance of one Medium or smaller creature whose memories
+        it has stolen. This simulacrum appears, feels, and sounds exactly like the
+        creature it impersonates, though it smells faintly of sulfur. The oblex can
+        impersonate 1d4 + 1 different creatures, each one tethered to its body by
+        a strand of slime that can extend up to 120 feet away. For all practical purposes,
+        the simulacrum is the oblex, meaning that the oblex occupies its space and
+        the simulacrum's space simultaneously. The slimy tether is immune to damage,
+        but it is severed if there is no opening at least 1 inch wide between the
+        oblex's main body and the simulacrum. The simulacrum disappears if the tether
+        is severed.
+    spellcasting:
+        ability: intelligence
+        spells:
+            3/day:
+            - charm person
+            - color spray
+            - detect thoughts
+            - hold person
+        type: innate
+type: ooze
+wisdom: 12 (+1)

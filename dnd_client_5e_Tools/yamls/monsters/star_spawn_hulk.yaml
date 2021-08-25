@@ -1,0 +1,47 @@
+AC: 16
+CR: 10 (5,900 XP)
+HP: 136 (13d10 + 65)
+actions:
+    Multiattack: The hulk makes two slam attacks. If both attacks hit the same target,
+        the target also takes 9 (2d8) psychic damage and must succeed on a DC 17+1d8
+        + 13 Constitution saving throw or be stunned until the end of the target's
+        next turn.
+    Reaping Arms (Recharge 5xe2x80x936): The hulk makes a separate slam attack against
+        each creature within 10 feet of it. Each creature that is hit must also succeed
+        on a DC 17+1d8 + 13 Dexterity saving throw or be knocked prone.
+    Slam: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 10 ft., one target. Hit:
+        14 (2d8 + 5) bludgeoning damage.'
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '9'
+condition_immunities:
+- charmed, frightened
+constitution: '21'
+dexterity: '8'
+intelligence: '7'
+languages:
+- Deep Speech
+name: Star Spawn Hulk
+page: 234
+perception: '+5'
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 15
+size: Large
+skills:
+    perception: proficient
+speed:
+- 30 ft
+strength: '20'
+tags: []
+traits:
+    Psychic Mirror: If the hulk takes psychic damage, each creature within 10 feet
+        of the hulk takes that damage instead; the hulk takes none of the damage.
+        In addition, the hulk's thoughts and location can't be discerned by magic.
+type: aberration
+wisdom: '12'

@@ -1,0 +1,35 @@
+AC: 9
+CR: 1/4 (50 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Slam: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 5
+        (1d8 + 1) bludgeoning damage.'
+alignment: U
+book: Tomb of Annihilation
+charisma: '3'
+condition_immunities:
+- charmed, exhaustion
+constitution: '12'
+dexterity: '9'
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Yellow Musk Zombie
+page: 237
+saving_throws: {}
+senses:
+- blindsight 30 ft.
+- passive Perception 8
+size: Medium
+skills: {}
+speed:
+- 20 ft
+strength: '13'
+tags: []
+traits:
+    Undead Fortitude: If damage reduces the zombie to 0 hit points, it must make a
+        Constitution saving throw with a DC of 5 +the damage taken, unless the damage
+        is fire or from a critical hit. On a success, the zombie drops to 1 hit point
+        instead.
+type: undead
+wisdom: '6'

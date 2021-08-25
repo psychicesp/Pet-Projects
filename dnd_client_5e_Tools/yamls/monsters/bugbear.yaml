@@ -1,0 +1,43 @@
+AC: 16
+CR: 1 (200 XP)
+HP: 27 (5d8 + 5)
+actions:
+    Javelin: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6
+        + 2) piercing damage at range.'
+    Morningstar: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 11 (2d8 + 2) piercing damage.'
+alignment: CE
+book: Monster Manual
+charisma: '9'
+constitution: '13'
+dexterity: '14'
+intelligence: '8'
+languages:
+- Common
+- Goblin
+name: Bugbear
+page: 33
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills:
+    stealth: expert
+    survival: proficient
+speed:
+- 30 ft
+stealth: '+6'
+strength: '15'
+survival: '+2'
+tags:
+- goblinoid
+traits:
+    Brute: A melee weapon deals one extra die of its damage when the bugbear hits
+        with it (included in the attack).
+    Surprise Attack: If the bugbear surprises a creature and hits it with an attack
+        during the first round of combat, the target takes an extra 7 (2d6) damage
+        from the attack.
+type: humanoid
+wisdom: '11'

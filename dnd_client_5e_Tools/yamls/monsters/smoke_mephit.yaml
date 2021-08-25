@@ -1,0 +1,49 @@
+AC: 12
+CR: 1/4 (50 XP)
+HP: 22 (5d6 + 5)
+actions:
+    Cinder Breath (Recharge 6): The mephit exhales a 15-foot cone of smoldering ash.
+        Each creature in that area must succeed on a DC 10+1d4 + 8 Dexterity saving
+        throw or be blinded until the end of the mephit's next turn.
+    Claws: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit:
+        4 (1d4 + 2) slashing damage.'
+alignment: NE
+book: Monster Manual
+charisma: '11'
+condition_immunities:
+- poisoned
+constitution: '12'
+damage_immunities:
+- fire, poison
+dexterity: '14'
+intelligence: '10'
+languages:
+- Auran
+- Ignan
+name: Smoke Mephit
+page: 217
+perception: '+2'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Small
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+- fly 30 ft
+stealth: '+4'
+strength: '6'
+tags: []
+traits:
+    Death Burst: When the mephit dies, it leaves behind a cloud of smoke that fills
+        a 5-foot-radius sphere centered on its space. The sphere is heavily obscured.
+        Wind disperses the cloud, which otherwise lasts for 1 minute.
+    spellcasting:
+        ability: charisma.
+        spells: {}
+        type: innate
+type: elemental
+wisdom: '10'

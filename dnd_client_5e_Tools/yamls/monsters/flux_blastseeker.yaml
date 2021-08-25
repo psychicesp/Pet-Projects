@@ -1,0 +1,55 @@
+AC: 12
+CR: 5 (1,800 XP)
+HP: 55 (10d8 + 10)
+actions:
+    Quarterstaff: 'Melee Weapon Attack: +3+1d6 + 0 to hit, reach 5 ft., one target.
+        Hit: 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with
+        two hands.'
+alignment: CN
+arcana: '+8'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '14'
+constitution: '12'
+dexterity: '15'
+intelligence: '20'
+languages:
+- Common plus any one language
+name: Flux Blastseeker
+page: 242
+perception: '+2'
+saving_throws:
+    dexterity: proficient
+    intelligence: proficient
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    arcana: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '10'
+tags:
+- any
+traits:
+    Fluxbending Overcast (Recharge 5xe2x80x936): 'The blastseeker can create an additional
+        effect immediately after casting a spell. Roll a d6 to determine the effect:
+        1-3. The blastseeker teleports, swapping places with a creature it can see
+        within 30 feet of it. 4-6. The blastseeker and each creature within 10 feet
+        of it must succeed on a DC 16+1d6 + 13 Constitution saving throw or take 11
+        (2d10) thunder damage.'
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - banishment
+            - cone of cold
+            - dimension door
+            - fireball
+            - ice storm
+            3/day:
+            - mage armor
+            - scorching ray
+        type: innate
+type: humanoid
+wisdom: '9'

@@ -1,0 +1,42 @@
+AC: 16
+CR: 4 (1,100 XP)
+HP: 58 (9d8 + 18)
+acrobatics: '+5'
+actions:
+    Longbow: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 150/600 ft., one target.
+        Hit: 7 (1d8 + 3) piercing damage plus 10 (3d6) poison damage.'
+    Multiattack: The hoplite makes two scimitar attacks or two longbow attacks.
+    Scimitar: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        6 (1d6 + 3) slashing damage plus 10 (3d6) poison damage.'
+alignment: AA
+book: Mythic Odysseys of Theros
+charisma: '11'
+constitution: '14'
+dexterity: '16'
+intelligence: '13'
+languages:
+- Common
+name: Setessan Hoplite
+page: 229
+perception: '+5'
+saving_throws:
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- passive Perception 15
+size: Medium
+skills:
+    acrobatics: proficient
+    perception: proficient
+    survival: proficient
+speed:
+- 30 ft
+strength: '14'
+survival: '+5'
+tags: []
+traits:
+    Pack Tactics: The hoplite has advantage on an attack roll against a creature if
+        at least one of the hoplite's allies is within 5 feet of the hoplite and the
+        ally isn't incapacitated.
+type: humanoid
+wisdom: '16'

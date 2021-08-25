@@ -1,0 +1,44 @@
+AC: 14
+CR: 5 (1,800 XP)
+HP: 93 (11d10 + 33)
+actions:
+    Bite: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 8
+        (2d4 + 3) piercing damage.'
+    Claw: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 7
+        (1d8 + 3) piercing damage. If the target is a humanoid, it must succeed on
+        a DC 14+1d6 + 11 Constitution saving throw or be infected with a diseasexe2x80x94a
+        minuscule slaad egg.'
+    Multiattack: 'The slaad makes three attacks: one with its bite and two with its
+        claws.'
+alignment: CN
+book: Monster Manual
+charisma: '7'
+constitution: '16'
+dexterity: '12'
+intelligence: '6'
+languages:
+- Slaad
+- telepathy 60 ft.
+name: Red Slaad
+page: 276
+perception: '+1'
+resistances:
+- acid, cold, fire, lightning, thunder
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Large
+skills:
+    perception: proficient
+speed:
+- 30 ft
+strength: '16'
+tags: []
+traits:
+    Magic Resistance: The slaad has advantage on saving throws against spells and
+        other magical effects.
+    Regeneration: The slaad regains 10 hit points at the start of its turn if it has
+        at least 1 hit point.
+type: aberration
+wisdom: '6'

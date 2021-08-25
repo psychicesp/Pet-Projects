@@ -1,0 +1,49 @@
+AC: 15
+CR: 7 (2,900 XP)
+HP: 95 (10d10 + 40)
+actions:
+    Breath Weapon (Recharge 5xe2x80x936): The chimera exhales fire in a 15-foot cone.
+        Each creature in that area must make a DC 15+1d6 + 12 Dexterity saving throw,
+        taking 32 (5d12) fire damage on a failed save, or half as much damage on a
+        successful one.
+    Claws: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        13 (2d8 + 4) slashing damage.'
+    Head: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 10
+        (1d12 + 4) piercing damage.'
+    Multiattack: 'The chimera makes three attacks: one with its claws, one with its
+        head, and one with its tail. When its breath weapon is available, it can use
+        the breath in place of its head or its claws.'
+    Tail: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one target. Hit:
+        11 (2d6 + 4) bludgeoning damage.'
+alignment: U
+book: Mythic Odysseys of Theros
+charisma: '10'
+constitution: '19'
+dexterity: '13'
+intelligence: '3'
+languages:
+- understands Draconic but can\'t speak
+name: Theran Chimera
+page: 216
+perception: '+5'
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 15
+size: Large
+skills:
+    perception: proficient
+speed:
+- 30 ft
+- fly 60 ft
+strength: '18'
+tags: []
+traits:
+    Spell Turning: The chimera has advantage on a saving throw against any spell that
+        targets only the chimera (not an area). If the chimera's saving throw is successful
+        and the spell is of 4th level or lower, the spell has no effect on the chimera
+        and instead targets the caster.
+type: monstrosity
+wisdom: '14'

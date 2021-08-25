@@ -1,0 +1,53 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 7 (2d6)
+actions:
+    Fool's Scepter: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) bludgeoning damage.'
+    Shortbow: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 80/320 ft., one target.
+        Hit: 5 (1d6 + 2) piercing damage.'
+alignment: CE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '15'
+constitution: '10'
+dexterity: '14'
+hit: 2d6
+intelligence: '10'
+languages:
+- Common
+- Goblin
+name: Nilbog
+page: 182
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 9
+size: Small
+skills:
+    stealth: expert
+speed:
+- 30 ft
+stealth: '+6'
+strength: '8'
+tags:
+- goblinoid
+traits:
+    Nilbogism: Any creature that attempts to damage the nilbog must first succeed
+        on a DC 12+1d4 + 10 Charisma saving throw or be charmed until the end of the
+        creature's next turn. A creature charmed in this way must use its action praising
+        the nilbog. The nilbog can't regain hit points, including through magical
+        healing, except through its Reversal of Fortune reaction.
+    Nimble Escape: The nilbog can take the Disengage or Hide action as a bonus action
+        on each of its turns.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - confusion
+            at will:
+            - mage hand
+            - Tasha\'s hideous laughter
+            - vicious mockery
+        type: innate
+type: humanoid
+wisdom: '8'

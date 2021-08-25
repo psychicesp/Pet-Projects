@@ -1,0 +1,43 @@
+AC: 15
+CR: 5 (1,800 XP)
+HP: 97 (13d8 + 39)
+actions:
+    Empowered Slam: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target.
+        Hit: 7 (1d6 + 4) bludgeoning damage and 7 (2d6) necrotic damage.'
+    Multiattack: The zombie makes two melee attacks.
+alignment: NE
+book: Tales from the Yawning Portal
+charisma: '6'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, poisoned
+constitution: '17'
+damage_immunities:
+- poison
+dexterity: '10'
+intelligence: '4'
+languages:
+- understands the languages it knew in life but can't speak
+name: Greater Zombie
+page: 237
+resistances:
+- cold, necrotic
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '18'
+tags: []
+traits:
+    Turn Resistance: The zombie has advantage on saving throws against any effect
+        that turns undead.
+    Undead Fortitude: If damage reduces the zombie to 0 hit points, it must make a
+        Constitution saving throw with a DC of 5 + the damage taken, unless the damage
+        is radiant or from a critical hit. On a success, the zombie drops to 1 hit
+        point instead.
+type: undead
+wisdom: '6'

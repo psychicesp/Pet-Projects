@@ -1,0 +1,47 @@
+AC: 14
+CR: 1/8 (25 XP)
+HP: 9 (2d6 + 2)
+actions:
+    Dagger: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.'
+    Javelin: 'Melee or Ranged Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 1 (1d6 - 2) piercing damage.'
+alignment: AA
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '8'
+constitution: '12'
+dexterity: '15'
+intelligence: '8'
+languages:
+- Common
+- Draconic
+name: Icewind Kobold
+page: 296
+perception: '+1'
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Small
+skills:
+    perception: proficient
+    stealth: proficient
+    survival: proficient
+speed:
+- 30 ft
+- climb 20 ft
+stealth: '+4'
+strength: '7'
+survival: '+1'
+tags:
+- kobold
+traits:
+    Pack Tactics: The kobold has advantage on an attack roll against a creature if
+        at least one of the kobold's allies is within 5 feet of the creature and the
+        ally isn't incapacitated.
+    Sunlight Sensitivity: While in sunlight, the kobold has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: humanoid
+wisdom: '8'

@@ -1,0 +1,72 @@
+AC: 13
+CR: 5 (1,800 XP)
+HP: 67 (9d8 + 27)
+actions:
+    Change Shape: The druid magically polymorphs into a beast formxe2x80x94fox, mountain
+        goat, owl, or wolfxe2x80x94or back into its humanoid form. Any equipment it
+        is wearing or carrying is absorbed or borne by the beast form (the druid's
+        choice). It reverts to its humanoid form when it dies. The druid's statistics
+        are the same in each form, except where noted in this stat block.
+    Ice Sickle (Humanoid Form Only): 'Melee Weapon Attack: +4+1d6 + 1 to hit, reach
+        5 ft., one target. Hit: 3 (1d4 + 1) slashing damage plus 5 (2d4) cold damage.'
+    Maul (Beast Form Only): 'Melee Weapon Attack: +4+1d6 + 1 to hit, reach 5 ft.,
+        one target. Hit: 3 (1d4 + 1) piercing damage.'
+    Multiattack: The druid makes two melee attacks.
+alignment: AA
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '9'
+constitution: '16'
+dexterity: '13'
+intelligence: '10'
+languages:
+- Common
+- Druidic
+name: Frost Druid
+nature: '+3'
+page: 288
+perception: '+6'
+resistances:
+- cold
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 60ft. (beast form only)
+- passive Perception 16
+size: Medium
+skills:
+    nature: proficient
+    perception: proficient
+    survival: proficient
+speed:
+- 40 ft. (wolf form only)
+- burrow 5 ft. (fox form only)
+- climb 30 ft. (goat form only)
+- fly 60 ft. (owl form only)
+strength: '12'
+survival: '+6'
+tags:
+- human
+traits:
+    spellcasting:
+        ability: wisdom
+        level: 9
+        spells:
+        - druidcraft
+        - guidance
+        - resistance
+        - animal friendship
+        - fog cloud
+        - speak with animals
+        - animal messenger
+        - moonbeam
+        - pass without trace
+        - conjure animals
+        - sleet storm
+        - wind wall
+        - hallucinatory terrain
+        - ice storm
+        - awaken
+        type: druid
+type: humanoid
+wisdom: '16'

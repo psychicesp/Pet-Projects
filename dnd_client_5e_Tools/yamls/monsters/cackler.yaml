@@ -1,0 +1,61 @@
+AC: 15
+CR: 1/2 (100 XP)
+HP: 10 (3d6)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5
+        (1d4 + 3) piercing damage.'
+    Spiked Chain: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft., one target.
+        Hit: 6 (1d6 + 3) slashing damage.'
+alignment: CE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '12'
+condition_immunities:
+- poisoned
+constitution: '11'
+damage_immunities:
+- poison
+deception: '+3'
+dexterity: '16'
+hit: 3d6
+intelligence: '11'
+languages:
+- Abyssal
+- Common
+name: Cackler
+page: 195
+perception: '+0'
+performance: '+3'
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Small
+skills:
+    deception: proficient
+    perception: proficient
+    performance: proficient
+speed:
+- 30 ft
+strength: '9'
+tags:
+- demon
+traits:
+    Last Laugh: When the cackler dies, it releases a dying laugh that scars the minds
+        of other nearby creatures. Each creature within 10 feet of the cackler must
+        succeed on a DC 11+1d4 + 9 Wisdom saving throw or take 2 (1d4) psychic damage.
+    Mimicry: The cackler can mimic any sounds it has heard, including voices. A creature
+        that hears the sounds can tell they are imitations with a successful DC 11+1d4
+        + 9 Wisdom (Insight) check.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - Tasha\'s hideous laughter
+            at will:
+            - fire bolt
+        type: innate
+type: fiend
+wisdom: '7'

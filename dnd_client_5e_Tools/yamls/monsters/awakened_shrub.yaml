@@ -1,0 +1,33 @@
+AC: 9
+CR: 0 (0 or 10 XP)
+HP: 10 (3d6)
+actions:
+    Rake: 'Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 1
+        (1d4 - 1) slashing damage.'
+alignment: U
+book: Monster Manual
+charisma: 6 (-2)
+constitution: 11 (+0)
+dexterity: 8 (-1)
+hit points: 3d6
+intelligence: 10 (+0)
+languages:
+- one language known by its creator
+name: Awakened Shrub
+page: 317
+resistances:
+- piercing
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Small
+skills: {}
+speed:
+- 20 ft
+strength: 3 (-4)
+tags: []
+traits:
+    False Appearance: While the shrub remains motionless, it is indistinguishable
+        from a normal shrub.
+type: plant
+wisdom: 10 (+0)

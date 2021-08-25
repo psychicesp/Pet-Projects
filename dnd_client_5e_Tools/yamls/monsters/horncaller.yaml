@@ -1,0 +1,49 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 39 (6d8 + 12)
+actions:
+    Multiattack: The horncaller makes two melee attacks with its staff and uses One
+        with the Worldsoul.
+    One with the Worldsoul: The horncaller chooses one beast it can see within 30
+        feet of it. If the beast can hear the horncaller, the beast uses its reaction
+        to make one melee attack against a target that the horncaller can see.
+    Staff: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit:
+        4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) bludgeoning damage if used with
+        two hands.'
+alignment: LG
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '13'
+constitution: '14'
+dexterity: '12'
+intelligence: '10'
+languages:
+- Common plus any one language
+name: Horncaller
+nature: '+2'
+page: 253
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Medium
+skills:
+    animal handling: proficient
+    nature: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '13'
+tags:
+- any
+traits:
+    Speak with Beasts: The horncaller can communicate with beasts as if they shared
+        a language.
+    spellcasting:
+        ability: wisdom
+        spells:
+            1/day:
+            - bless
+            - conjure animals
+        type: innate
+type: humanoid
+wisdom: '14'

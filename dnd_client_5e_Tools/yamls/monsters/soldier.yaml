@@ -1,0 +1,38 @@
+AC: 18
+CR: 1/2 (100 XP)
+HP: 16 (3d8 + 3)
+actions:
+    Longsword: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit:
+        6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with
+        two hands.'
+    Multiattack: The soldier makes two melee attacks.
+alignment: AA
+athletics: '+3'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '11'
+constitution: '12'
+dexterity: '12'
+intelligence: '10'
+languages:
+- any one language (usually Common)
+name: Soldier
+page: 226
+perception: '+2'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '13'
+tags:
+- any
+traits:
+    Formation Tactics: The soldier has advantage on saving throws against being charmed,
+        frightened, grappled, or restrained while it is within 5 feet of at least
+        one ally.
+type: humanoid
+wisdom: '11'

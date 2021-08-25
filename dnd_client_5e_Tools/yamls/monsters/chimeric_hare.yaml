@@ -1,0 +1,37 @@
+AC: '
+
+
+    '
+CR: 0 (0 or 10 XP)
+HP: 1 (1d4 - 1)
+actions: {}
+alignment: U
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '4'
+constitution: '9'
+dexterity: '17'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Chimeric Hare
+page: 246
+perception: '+2'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Tiny
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 20 ft
+- burrow 5 ft
+- fly 30 ft
+stealth: '+5'
+strength: '1'
+tags: []
+traits:
+    Escape: The hare can take the Dash, Disengage, or Hide action as a bonus action
+        on each of its turns.
+type: beast
+wisdom: '11'

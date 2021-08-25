@@ -1,0 +1,38 @@
+AC: 14
+CR: 6 (2,300 XP)
+HP: 103 (9d12 + 45)
+actions:
+    Chain: 'Melee Weapon Attack: +9+1d6 + 6 to hit, reach 20 ft., one target. Hit:
+        16 (3d6 + 6) bludgeoning damage. If the target is a creature, it is grappled
+        (escape DC 17+1d6 + 14). Until the grapple ends, the target is restrained,
+        and the giant can''t use this attack on anyone else.'
+    Rock: 'Ranged Weapon Attack: +9+1d6 + 6 to hit, range 60/240 ft., one target.
+        Hit: 16 (3d6 + 6) bludgeoning damage.'
+alignment: CE
+athletics: '+9'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '9'
+constitution: '20'
+dexterity: '9'
+intelligence: '7'
+languages:
+- Giant
+name: Bloodfray Giant
+page: 200
+perception: '+2'
+saving_throws:
+    constitution: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- passive Perception 12
+size: Huge
+skills:
+    athletics: proficient
+    perception: proficient
+speed:
+- 40 ft
+strength: '23'
+tags: []
+type: giant
+wisdom: '8'

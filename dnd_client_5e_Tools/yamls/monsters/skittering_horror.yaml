@@ -1,0 +1,50 @@
+AC: 17
+CR: 15 (13,000 XP)
+HP: 228 (24d12 + 72)
+actions:
+    Bite: 'Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target. Hit:
+        28 (4d10 + 6) piercing damage.'
+    Claws: 'Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target. Hit:
+        24 (4d8 + 6) slashing damage.'
+    Maddening Presence: The horror targets one creature it can see within 30 feet
+        of it. If the target can see or hear the horror, the target must make a DC
+        17+1d10 + 12 Wisdom saving throw. On a failed saving throw, the target becomes
+        paralyzed until the end of its next turn. If a creature's saving throw is
+        successful, the creature is immune to the horror's Maddening Presence for
+        the next 24 hours.
+    Multiattack: 'The horror can use its Maddening Presence and make three attacks:
+        one with its bite and two with its claws.'
+alignment: NE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '18'
+condition_immunities:
+- frightened
+constitution: '17'
+dexterity: '16'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Skittering Horror
+page: 205
+perception: '+7'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 17
+size: Huge
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 40 ft
+- climb 40 ft
+stealth: '+8'
+strength: '22'
+tags: []
+traits:
+    Spider Climb: The horror can climb difficult surfaces, including upside down on
+        ceilings, without needing to make an ability check.
+    Sunlight Sensitivity: While in sunlight, the horror has disadvantage on attack
+        rolls and on Wisdom (Perception) checks that rely on sight.
+type: aberration
+wisdom: '14'

@@ -1,0 +1,38 @@
+AC: 14
+CR: 6 (2,300 XP)
+HP: 102 (12d12 + 24)
+actions:
+    Freezing Stare: The skeleton targets one creature it can see within 60 feet of
+        it. The target must succeed on a DC 13+1d6 + 10 Constitution saving throw
+        or take 35 (10d6) cold damage and be paralyzed until the end of its next turn.
+    Greataxe: 'Melee Weapon Attack: +9+1d6 + 6 to hit, reach 10 ft., one target. Hit:
+        25 (3d12 + 6) slashing damage.'
+    Multiattack: The skeleton makes two greataxe attacks.
+alignment: LE
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '5'
+condition_immunities:
+- exhaustion, poisoned
+constitution: '15'
+damage_immunities:
+- cold, poison
+dexterity: '9'
+intelligence: '6'
+languages:
+- understands Giant but can\'t speak
+name: Frost Giant Skeleton
+page: 288
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 9
+size: Huge
+skills: {}
+speed:
+- 40 ft
+strength: '23'
+tags: []
+traits:
+    Unusual Nature: The skeleton doesn't require air, food, drink, or sleep.
+type: undead
+wisdom: '8'

@@ -1,0 +1,40 @@
+AC: 12
+CR: 1/4 (50 XP)
+HP: 24 (7d8 - 7)
+actions:
+    Beaks: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target in the
+        swarm''s space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if
+        the swarm has half of its hit points or fewer.'
+alignment: U
+book: Monster Manual
+charisma: '6'
+condition_immunities:
+- charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+constitution: '8'
+dexterity: '14'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Swarm of Ravens
+page: 339
+perception: '+5'
+resistances:
+- bludgeoning, piercing, slashing
+saving_throws: {}
+senses:
+- passive Perception 15
+size: Medium
+skills:
+    perception: expert
+speed:
+- 10 ft
+- fly 50 ft
+strength: '6'
+tags:
+- of
+traits:
+    Swarm: The swarm can occupy another creature's space and vice versa, and the swarm
+        can move through any opening large enough for a Tiny raven. The swarm can't
+        regain hit points or gain temporary hit points.
+type: swarm
+wisdom: '12'

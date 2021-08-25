@@ -1,0 +1,43 @@
+AC: 13
+CR: 1/8 (25 XP)
+HP: 7 (2d4 + 2)
+acrobatics: '+5'
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5
+        (1d4 + 3) piercing damage.'
+alignment: N
+book: 'Eberron: Rising from the Last War'
+charisma: '7'
+condition_immunities:
+- exhaustion, poisoned
+constitution: '13'
+damage_immunities:
+- poison
+dexterity: '16'
+intelligence: '8'
+languages:
+- one language spoken by its creator
+name: Expeditious Messenger
+page: 293
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Tiny
+skills:
+    acrobatics: proficient
+    stealth: proficient
+speed:
+- 25 ft
+- fly 60 ft
+stealth: '+5'
+strength: '6'
+tags: []
+traits:
+    Flyby: The messenger doesn't provoke opportunity attacks when it flies out of
+        an enemy's reach.
+    Telepathic Bond: While the messenger is on the same plane of existence as its
+        master, it can magically convey what it senses to its master, and the two
+        can communicate telepathically.
+type: construct
+wisdom: '12'

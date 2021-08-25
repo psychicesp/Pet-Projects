@@ -1,0 +1,39 @@
+AC: 15
+CR: 6 (2,300 XP)
+HP: 136 (16d10 + 48)
+actions:
+    Gore: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 8
+        (1d8 + 4) piercing damage.'
+    Greataxe: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        17 (2d12 + 4) slashing damage.'
+    Multiattack: 'The statue makes two attacks: one with its greataxe and one gore
+        attack.'
+alignment: U
+book: Ghosts of Saltmarsh
+charisma: '5'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: '16'
+damage_immunities:
+- lightning, poison
+dexterity: '9'
+intelligence: '6'
+languages:
+- understands the languages of its creator but can't speak
+name: Minotaur Living Crystal Statue
+page: 245
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Large
+skills: {}
+speed:
+- 30 ft
+strength: '18'
+tags: []
+traits:
+    Immutable Form: The statue is immune to any spell or effect that would alter its
+        form.
+type: construct
+wisdom: '10'

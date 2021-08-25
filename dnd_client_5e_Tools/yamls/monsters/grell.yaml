@@ -1,0 +1,44 @@
+AC: 12
+CR: 3 (700 XP)
+HP: 55 (10d8 + 10)
+actions:
+    Beak: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7
+        (2d4 + 2) piercing damage.'
+    Multiattack: 'The grell makes two attacks: one with its tentacles and one with
+        its beak.'
+    Tentacles: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 10 ft., one creature.
+        Hit: 7 (1d10 + 2) piercing damage, and the target must succeed on a DC 11+1d4
+        + 9 Constitution saving throw or be poisoned for 1 minute. The poisoned target
+        is paralyzed, and it can repeat the saving throw at the end of each of its
+        turns, ending the effect on a success.'
+alignment: NE
+book: Monster Manual
+charisma: '9'
+condition_immunities:
+- blinded, prone
+constitution: '13'
+damage_immunities:
+- lightning
+dexterity: '14'
+intelligence: '12'
+languages:
+- Grell
+name: Grell
+page: 172
+perception: '+4'
+saving_throws: {}
+senses:
+- blindsight 60 ft. (blind beyond this radius)
+- passive Perception 14
+size: Medium
+skills:
+    perception: expert
+    stealth: expert
+speed:
+- 10 ft
+- fly 30 ft. (hover)
+stealth: '+6'
+strength: '15'
+tags: []
+type: aberration
+wisdom: '11'

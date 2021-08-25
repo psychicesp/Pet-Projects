@@ -1,0 +1,39 @@
+AC: 13
+CR: 4 (1,100 XP)
+HP: 45 (7d8 + 14)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) piercing damage. If the target is a creature, it must succeed on
+        a DC 13+1d4 + 11 Constitution saving throw or suffer one random poison effect:'
+alignment: U
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '1'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: '14'
+damage_immunities:
+- poison
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t adamantine
+dexterity: '16'
+intelligence: '3'
+languages:
+- understands one language of its creator but can't speak
+name: Iron Cobra
+page: 125
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills:
+    stealth: expert
+speed:
+- 30 ft
+stealth: '+7'
+strength: '12'
+tags: []
+traits:
+    Magic Resistance: The iron cobra has advantage on saving throws against spells
+        and other magical effects.
+type: construct
+wisdom: '10'

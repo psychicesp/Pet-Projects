@@ -1,0 +1,47 @@
+AC: 13
+CR: 1/4 (50 XP)
+HP: 7 (2d4 + 2)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4
+        (1d4 + 2) piercing damage.'
+    Sting: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit:
+        4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11+1d4 +
+        9 Constitution saving throw or become poisoned for 1 hour. If the saving throw
+        fails by 5 or more, the target falls unconscious for the same duration, or
+        until it takes damage or another creature uses an action to shake it awake.'
+alignment: NG
+book: Monster Manual
+charisma: '10'
+constitution: '13'
+dexterity: '15'
+intelligence: '10'
+languages:
+- understands Common and Draconic but can\'t speak
+name: Pseudodragon
+page: 254
+perception: '+3'
+saving_throws: {}
+senses:
+- blindsight 10 ft.
+- darkvision 60 ft.
+- passive Perception 13
+size: Tiny
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 15 ft
+- fly 60 ft
+stealth: '+4'
+strength: '6'
+tags: []
+traits:
+    Keen Senses: The pseudodragon has advantage on Wisdom (Perception) checks that
+        rely on sight, hearing, or smell.
+    Limited Telepathy: The pseudodragon can magically communicate simple ideas, emotions,
+        and images telepathically with any creature within 100 feet of it that can
+        understand a language.
+    Magic Resistance: The pseudodragon has advantage on saving throws against spells
+        and other magical effects.
+type: dragon
+wisdom: '12'

@@ -1,0 +1,32 @@
+AC: 12
+CR: 1/4 (50 XP)
+HP: 11 (2d8 + 2)
+actions:
+    Claws: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit:
+        6 (2d4 + 1) piercing damage.'
+    Needles: 'Ranged Weapon Attack: +3+1d4 + 1 to hit, range 30/60 ft., one target.
+        Hit: 8 (2d6 + 1) piercing damage.'
+alignment: NE
+book: Monster Manual
+charisma: '3'
+condition_immunities:
+- blinded, deafened
+constitution: '13'
+dexterity: '12'
+intelligence: '4'
+languages:
+- understands Common but can't speak
+name: Needle Blight
+page: 32
+saving_throws: {}
+senses:
+- blindsight 60 ft. (blind beyond this radius)
+- passive Perception 9
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '12'
+tags: []
+type: plant
+wisdom: '8'

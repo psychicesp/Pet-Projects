@@ -1,0 +1,57 @@
+AC: 12
+CR: 6 (2,300 XP)
+HP: 105 (14d8 + 42)
+actions:
+    Dagger: 'Melee or Ranged Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.'
+alignment: CE
+arcana: '+3'
+book: Princes of the Apocalypse
+charisma: '16'
+constitution: '16'
+damage_immunities:
+- fire
+dexterity: '14'
+intelligence: '11'
+languages:
+- Common
+- Ignan
+name: Flamewrath
+page: 201
+religion: '+3'
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    arcana: proficient
+    religion: proficient
+speed:
+- 30 ft
+strength: '10'
+tags:
+- human
+traits:
+    Wreathed in Flame: For the flamewrath, the warm version of the fire shield spell
+        has a duration of "until dispelled." The fire shield burns for 10 minutes
+        after the flamewrath dies, consuming its body.
+    spellcasting:
+        ability: charisma
+        level: 7
+        spells:
+        - control flames
+        - fire bolt
+        - friends
+        - light
+        - minor illusion
+        - burning hands
+        - color spray
+        - mage armor
+        - scorching ray
+        - suggestion
+        - fireball
+        - hypnotic pattern
+        - fire shield
+        type: sorcerer
+type: humanoid
+wisdom: '10'

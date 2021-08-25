@@ -1,0 +1,39 @@
+AC: 10
+CR: 1/4 (50 XP)
+HP: 15 (2d10 + 4)
+actions:
+    Gore: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7
+        (1d6 + 4) piercing damage.'
+alignment: U
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '4'
+constitution: '14'
+dexterity: '10'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Stench Kow
+page: 208
+resistances:
+- cold, fire, poison
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Large
+skills: {}
+speed:
+- 30 ft
+strength: '18'
+tags: []
+traits:
+    Charge: If the kow moves at least 20 feet straight toward a target and then hits
+        it with a gore attack on the same turn, the target takes an extra 7 (2d6)
+        piercing damage.
+    Stench: Any creature other than a stench kow that starts its turn within 5 feet
+        of the stench kow must succeed on a DC 12+1d4 + 10 Constitution saving throw
+        or be poisoned until the start of the creature's next turn. On a successful
+        saving throw, the creature is immune to the stench of all stench kows for
+        1 hour.
+type: beast
+wisdom: '10'

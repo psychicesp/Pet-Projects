@@ -1,0 +1,24 @@
+casting time: 1 action
+classes:
+- Artificer
+- Bard
+- Sorcerer
+- Warlock
+- Wizard
+components: V, S, M
+concentration: true
+cost: 0
+description: A creature you touch becomes invisible until the spell ends. Anything
+    the target is wearing or carrying is invisible as long as it is on the target's
+    person. The spell ends for a target that attacks or casts a spell.
+duration: Concentration, up to 1 hour
+extras: an eyelash encased in gum arabic
+higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
+    you can target one additional creature for each slot level above 2nd.'
+level: 2
+name: Invisibility
+page: 254
+range: Touch
+ritual: false
+school: illusion
+source: PHB

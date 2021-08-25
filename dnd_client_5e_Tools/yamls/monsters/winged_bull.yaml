@@ -1,0 +1,32 @@
+AC: 12
+CR: 4 (1,100 XP)
+HP: 95 (10d10 + 40)
+actions:
+    Gore: 'Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit: 18
+        (2d12 + 5) piercing damage.'
+alignment: U
+book: Mythic Odysseys of Theros
+charisma: '5'
+constitution: '18'
+dexterity: '14'
+intelligence: '6'
+languages:
+- understands Celestial but can't speak
+name: Winged Bull
+page: 214
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Large
+skills: {}
+speed:
+- 60 ft
+- fly 60 ft
+strength: '20'
+tags: []
+traits:
+    Charge: If the bull moves at least 20 feet straight toward a creature and then
+        hits it with a gore attack on the same turn, the target takes an extra 19
+        (3d12) piercing damage.
+type: celestial
+wisdom: '10'

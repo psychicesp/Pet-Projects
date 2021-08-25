@@ -1,0 +1,21 @@
+casting time: 1 action
+classes:
+- Artificer
+- Bard
+- Sorcerer
+- Wizard
+components: V, S, M
+concentration: false
+cost: 0
+description: For the duration, you see invisible creatures and objects as if they
+    were visible, and you can see into the Ethereal Plane. Ethereal creatures and
+    objects appear ghostly and translucent.
+duration: 1 hour
+extras: a pinch of talc and a small sprinkling of powdered silver
+level: 2
+name: See Invisibility
+page: 274
+range: Self
+ritual: false
+school: divination
+source: PHB

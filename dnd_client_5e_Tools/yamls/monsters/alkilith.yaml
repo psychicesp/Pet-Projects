@@ -1,0 +1,55 @@
+AC: 17
+CR: 11 (7,200 XP)
+HP: 157 (15d8 + 90)
+actions:
+    Multiattack: The alkilith makes three tentacle attacks.
+    Tentacle: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 15 ft., one target. Hit:
+        18 (4d6 + 4) acid damage.'
+alignment: CE
+book: "Mordenkainen\u2019s Tome of Foes"
+charisma: 7 (-2)
+condition_immunities:
+- charmed, frightened, poisoned
+constitution: 22 (+6)
+constitution save: '+10'
+damage_immunities:
+- poison
+dexterity: 19 (+4)
+dexterity save: '+8'
+hit points: 15d8 + 90
+intelligence: 6 (-2)
+languages:
+- understands Abyssal but can't speak
+name: Alkilith
+page: 130
+resistances:
+- acid, cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Medium
+skills:
+    stealth: proficient
+speed:
+- 40 ft
+stealth: '+8'
+strength: 12 (+1)
+tags:
+- demon
+traits:
+    Amorphous: The alkilith can move through a space as narrow as 1 inch wide without
+        squeezing.
+    False Appearance: While the alkilith is motionless, it is indistinguishable from
+        an ordinary slime or fungus.
+    Foment Madness: Any creature that isn't a demon that starts its turn within 30
+        feet of the alkilith must succeed on a DC 18+1d8 + 14 Wisdom saving throw,
+        or it hears a faint buzzing in its head for a moment and has disadvantage
+        on its next attack roll, saving throw, or ability check.
+    Magic Resistance: The alkilith has advantage on saving throws against spells and
+        other magical effects.
+type: fiend
+wisdom: 11 (+0)

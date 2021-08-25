@@ -1,0 +1,22 @@
+{
+    "name": "Protection from Energy",
+    "level": 3,
+    "ritual": false,
+    "school": "abjuration",
+    "casting time": "1 action",
+    "range": "Touch",
+    "components": "V, S",
+    "duration": "Concentration, up to 1 hour",
+    "concentration": true,
+    "description": "For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.",
+    "classes": [
+        "Artificer",
+        "Cleric",
+        "Druid",
+        "Ranger",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "source": "PHB",
+    "page": 270
+}

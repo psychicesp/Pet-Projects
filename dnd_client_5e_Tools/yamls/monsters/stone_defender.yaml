@@ -1,0 +1,39 @@
+AC: 16
+CR: 4 (1,100 XP)
+HP: 52 (7d8 + 21)
+actions:
+    Slam: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 11
+        (2d6 + 4) bludgeoning damage, and if the target is Large or smaller, it is
+        knocked prone.'
+alignment: U
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '1'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: '17'
+damage_immunities:
+- poison
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+dexterity: '10'
+intelligence: '3'
+languages:
+- understands one language of its creator but can\'t speak
+name: Stone Defender
+page: 126
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '19'
+tags: []
+traits:
+    False Appearance: While the stone defender remains motionless against an uneven
+        earthen or stone surface, it is indistinguishable from that surface.
+    Magic Resistance: The stone defender has advantage on saving throws against spells
+        and other magical effects.
+type: construct
+wisdom: '10'

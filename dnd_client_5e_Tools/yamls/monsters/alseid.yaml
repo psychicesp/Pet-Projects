@@ -1,0 +1,55 @@
+AC: 15
+CR: 1 (200 XP)
+HP: 22 (4d8 + 4)
+actions:
+    Multiattack: The alseid makes two radiant touch attacks.
+    Radiant Touch: 'Melee Spell Attack: +6+1d4 + 4 to hit, reach 5 ft., one target.
+        Hit: 9 (1d10 + 4) radiant damage.'
+alignment: CG
+book: Mythic Odysseys of Theros
+charisma: 18 (+4)
+condition_immunities:
+- charmed, frightened, poisoned
+constitution: 12 (+1)
+damage_immunities:
+- poison
+dexterity: 10 (+0)
+hit points: 4d8 + 4
+intelligence: 13 (+1)
+languages:
+- Common
+- Sylvan
+name: Alseid
+page: 235
+persuasion: '+6'
+resistances:
+- radiant
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    persuasion: proficient
+speed:
+- 30 ft
+strength: 15 (+2)
+tags: []
+traits:
+    Hide in Plain Sight: The alseid has advantage on Dexterity (Stealth) checks made
+        to hide while it is in grassland.
+    Magic Resistance: The alseid has advantage on saving throws against spells and
+        other magical effects.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - calm emotions
+            - lesser restoration
+            - plant growth
+            3/day:
+            - cure wounds
+            - charm person
+            - sleep
+        type: innate
+type: fey
+wisdom: 14 (+2)

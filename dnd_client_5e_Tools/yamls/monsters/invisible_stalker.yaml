@@ -1,0 +1,47 @@
+AC: 14
+CR: 6 (2,300 XP)
+HP: 104 (16d8 + 32)
+actions:
+    Multiattack: The stalker makes two slam attacks.
+    Slam: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 10
+        (2d6 + 3) bludgeoning damage.'
+alignment: N
+book: Monster Manual
+charisma: '11'
+condition_immunities:
+- exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+constitution: '14'
+damage_immunities:
+- poison
+dexterity: '19'
+intelligence: '10'
+languages:
+- Auran
+- understands Common but doesn\'t speak it
+name: Invisible Stalker
+page: 192
+perception: '+8'
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 18
+size: Medium
+skills:
+    perception: expert
+    stealth: expert
+speed:
+- 50 ft
+- fly 50 ft. (hover)
+stealth: '+10'
+strength: '16'
+tags: []
+traits:
+    Faultless Tracker: The stalker is given a quarry by its summoner. The stalker
+        knows the direction and distance to its quarry as long as the two of them
+        are on the same plane of existence. The stalker also knows the location of
+        its summoner.
+    Invisibility: The stalker is invisible.
+type: elemental
+wisdom: '15'

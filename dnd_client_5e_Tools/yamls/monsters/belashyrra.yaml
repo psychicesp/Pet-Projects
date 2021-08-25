@@ -1,0 +1,99 @@
+AC: 19
+CR: 22 (41,000 XP) or 23 (50,000 XP) whe ecoutered i lair
+HP: 304 (32d8 + 160)
+actions:
+    Claw: 'Melee Weapon Attack: +14+1d14 + 7 to hit, reach 5 ft., one target. Hit:
+        17 (3d6 + 7) slashing damage.'
+    Eye Ray: 'Belashyrra shoots one of the following magical eye rays of its choice,
+        targeting one creature it can see within 120 feet of it:'
+    Multiattack: Belashyrra makes two attacks with its claws and uses its Eye Ray
+        once.
+alignment: CE
+arcana: '+14'
+book: 'Eberron: Rising from the Last War'
+charisma: '23'
+condition_immunities:
+- blinded, charmed, exhaustion, frightened, poisoned, prone
+constitution: '20'
+dexterity: '21'
+in_lair:
+    CR_increase: 1
+    actions:
+    - An eye opens on a solid surface within 60 feet of Belashyrra. One random eye
+        ray of Belashyrra's shoots from that eye at a target of Belashyrra's choice
+        that it can see. The eye then closes and disappears.
+    - Belashyrra creates a wave of madness. Each creature it can see within its lair
+        must succeed on a DC 22+1d14 + 15 Wisdom saving throw or be charmed for 1
+        minute. While charmed in this way, a creature must use its action at the start
+        of its turn before moving to make a melee attack against another creature
+        of Belashyrra's choice within reach. If there are no creatures within reach,
+        the charmed creature can act normally for that turn. A charmed creature can
+        repeat the saving throw at the end of each of its turns, ending the effect
+        on itself on a success.
+    - Belashyrra taps into the eyesight of creatures in its lair and alters their
+        perception. Each creature of Belashyrra's choice in the lair must make a DC
+        22+1d14 + 15 Wisdom saving throw. On a failure, the affected creature perceives
+        objects and creatures a short distance from their actual locations, imposing
+        disadvantage on the creature's attack rolls against those targets. An affected
+        creature can repeat the saving throw at the end of each of its turns, ending
+        the effect on itself on a success. If a creature's saving throw is successful
+        or the effect ends for it, the creature is immune to this lair action for
+        the next 24 hours.
+intelligence: '25'
+languages:
+- Deep Speech
+- telepathy 120 ft.
+legendary_actions:
+    number: 3
+    options:
+        Claw: ' Belashyrra makes one claw attack.'
+        Implant Fear (Costs 2 Actions): ' Belashyrra targets a creature it can see
+            within 60 feet of it. The target must succeed on a DC 22+1d14 + 15 Wisdom
+            saving throw or take 22 (4d10) psychic damage and immediately use its
+            reaction, if available, to move as far as its speed allows away from Belashyrra.'
+        Rend Reality (Costs 3 Actions): ' Belashyrra rips at the bonds of reality
+            in its immediate area. Each creature within 10 feet of Belashyrra must
+            succeed on a DC 22+1d14 + 15 Constitution saving throw or take 19 (3d12)
+            force damage and gain one level of exhaustion.'
+name: Belashyrra
+page: 286
+perception: '+13'
+resistances:
+- poison, psychic
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 23
+size: Medium
+skills:
+    arcana: proficient
+    perception: proficient
+speed:
+- 40 ft
+- fly 40 ft. (hover)
+strength: '24'
+tags: []
+traits:
+    Alien Mind: If a creature tries to read Belashyrra's thoughts or deals psychic
+        damage to it, that creature must succeed on a DC 22+1d14 + 15 Intelligence
+        saving throw or be stunned for 1 minute. The stunned creature can repeat the
+        saving throw at the end of each of its turns, ending the effect on itself
+        on a success.
+    Eye Thief: Belashyrra can see through the eyes of all creatures within 120 feet
+        of it. It can use its Eye Ray through any creature within 120 feet of it,
+        as though it were in that creature's space.
+    Legendary Resistance (3/Day): If Belashyrra fails a saving throw, it can choose
+        to succeed instead.
+    Magic Resistance: Belashyrra has advantage on saving throws against spells and
+        other magical effects.
+    Regeneration: Belashyrra regains 20 hit points at the start of its turn. If it
+        takes radiant damage, this trait doesn't function at the start of its next
+        turn. Belashyrra dies only if it starts its turn with 0 hit points and doesn't
+        regenerate.
+    Teleport: As a bonus action, Belashyrra can teleport up to 30 feet to an unoccupied
+        space it can see.
+type: aberration
+wisdom: '22'

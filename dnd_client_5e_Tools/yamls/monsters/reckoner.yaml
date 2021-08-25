@@ -1,0 +1,53 @@
+AC: 18
+CR: 4 (1,100 XP)
+HP: 52 (8d8 + 16)
+actions:
+    Longsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with
+        two hands.'
+alignment: LN
+arcana: '+4'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '10'
+constitution: '15'
+dexterity: '12'
+intelligence: '15'
+intimidation: '+2'
+languages:
+- Common plus any one language
+name: Reckoner
+page: 231
+perception: '+3'
+saving_throws: {}
+senses:
+- passive Perception 13
+size: Medium
+skills:
+    arcana: proficient
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '16'
+tags:
+- any
+traits:
+    First Strike: The reckoner has advantage on initiative rolls.
+    spellcasting:
+        ability: intelligence
+        level: 5
+        spells:
+        - blade ward
+        - light
+        - message
+        - shocking grasp
+        - guiding bolt
+        - shield
+        - thunderwave
+        - witch bolt
+        - blur
+        - levitate
+        - lightning bolt
+        type: wizard
+type: humanoid
+wisdom: '12'

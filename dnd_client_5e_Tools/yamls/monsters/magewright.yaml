@@ -1,0 +1,39 @@
+AC: 11
+CR: 0 (0 or 10 XP)
+HP: 9 (2d8)
+actions:
+    Dagger: 'Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage.'
+alignment: AA
+arcana: '+4'
+book: 'Eberron: Rising from the Last War'
+charisma: '12'
+constitution: '10'
+dexterity: '13'
+hit: 2d8
+intelligence: '14'
+languages:
+- Common plus any two languages
+name: Magewright
+page: 318
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    arcana: proficient
+speed:
+- 30 ft
+strength: '11'
+tags:
+- any
+traits:
+    spellcasting:
+        ability: intelligence
+        spells:
+        - mage hand
+        - prestidigitation
+        - knock
+        type: ritualist
+type: humanoid
+wisdom: '14'

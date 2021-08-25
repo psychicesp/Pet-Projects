@@ -1,0 +1,51 @@
+AC: 10
+CR: 4 (1,100 XP)
+HP: 78 (12d8 + 24)
+actions:
+    Maul (Humanoid or Hybrid Form Only): 'Melee Weapon Attack: +5+1d4 + 3 to hit,
+        reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage.'
+    Multiattack (Humanoid or Hybrid Form Only): The wereboar makes two attacks, only
+        one of which can be with its tusks.
+    Tusks (Boar or Hybrid Form Only): 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach
+        5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. If the target is a humanoid,
+        it must succeed on a DC 12+1d4 + 10 Constitution saving throw or be cursed
+        with wereboar lycanthropy.'
+alignment: S
+book: Monster Manual
+charisma: '8'
+constitution: '15'
+damage_immunities:
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t silvered
+dexterity: '10'
+intelligence: '10'
+languages:
+- Common (can\'t speak in boar form)
+name: Wereboar
+page: 209
+perception: '+2'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 30 ft. (40 ft. in boar form)
+strength: '17'
+tags:
+- human
+traits:
+    Charge (Boar or Hybrid Form Only): If the wereboar moves at least 15 feet straight
+        toward a target and then hits it with its tusks on the same turn, the target
+        takes an extra 7 (2d6) slashing damage. If the target is a creature, it must
+        succeed on a DC 13+1d4 + 11 Strength saving throw or be knocked prone.
+    Relentless (Recharges after a Short or Long Rest): If the wereboar takes 14 damage
+        or less that would reduce it to 0 hit points, it is reduced to 1 hit point
+        instead.
+    Shapechanger: The wereboar can use its action to polymorph into a boar-humanoid
+        hybrid or into a boar, or back into its true form, which is humanoid. Its
+        statistics, other than its AC, are the same in each form. Any equipment it
+        is wearing or carrying isn't transformed. It reverts to its true form if it
+        dies.
+type: humanoid
+wisdom: '11'

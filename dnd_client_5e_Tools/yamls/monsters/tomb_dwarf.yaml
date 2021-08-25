@@ -1,0 +1,56 @@
+AC: 14
+CR: 3 (700 XP)
+HP: 45 (6d8 + 18)
+actions:
+    Battleaxe: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with
+        two hands.'
+    Life Drain: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature.
+        Hit: 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13+1d4 +
+        11 Constitution saving throw or its hit point maximum is reduced by an amount
+        equal to the damage taken. This reduction lasts until the target finishes
+        a long rest. The target dies if this effect reduces its hit point maximum
+        to 0.A humanoid slain by this attack rises 24 hours later as a zombie under
+        the tomb dwarf''s control, unless the humanoid is restored to life or its
+        body is destroyed. The tomb dwarf can have no more than twelve zombies under
+        its control at one time.'
+    Light Crossbow: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 80/320 ft., one
+        target. Hit: 6 (1d8 + 2) piercing damage.'
+    Multiattack: The tomb dwarf makes two longsword attacks or two crossbow attacks.
+        It can use its Life Drain in place of one longsword attack.
+alignment: LE
+book: Tomb of Annihilation
+charisma: '15'
+condition_immunities:
+- exhaustion, poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '14'
+intelligence: '10'
+languages:
+- the languages it knew in life
+name: Tomb Dwarf
+page: 135
+perception: '+3'
+resistances:
+- necrotic
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t silvered
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+4'
+strength: '15'
+tags: []
+traits:
+    Sunlight Sensitivity: While in sunlight, the tomb dwarf has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: undead
+wisdom: '13'

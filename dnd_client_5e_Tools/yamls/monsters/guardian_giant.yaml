@@ -1,0 +1,38 @@
+AC: 19
+CR: 8 (3,900 XP)
+HP: 137 (11d12 + 66)
+actions:
+    Multiattack: The giant makes three spear attacks.
+    Spear: 'Melee or Ranged Weapon Attack: +10+1d6 + 7 to hit, reach 10 ft. or range
+        60/240 ft., one target. Hit: 17 (3d6 + 7) piercing damage, or 20 (3d8 + 7)
+        piercing damage if used with two hands to make a melee attack.'
+alignment: LN
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '12'
+constitution: '22'
+dexterity: '17'
+insight: '+7'
+intelligence: '10'
+languages:
+- Common
+- Giant
+name: Guardian Giant
+page: 201
+perception: '+10'
+saving_throws:
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- passive Perception 20
+size: Huge
+skills:
+    insight: proficient
+    perception: expert
+speed:
+- 40 ft
+strength: '24'
+tags: []
+traits:
+    Vigilant: The giant can't be surprised.
+type: giant
+wisdom: '18'

@@ -1,0 +1,126 @@
+AC: 19
+CR: 22 (41,000 XP)
+HP: 199 (21d8 + 105)
+actions:
+    Chill Touch (Cantrip): 'Ranged Spell Attack: +15+1d14 + 8 to hit, range 120 ft.,
+        one creature. Hit: 18 (4d8) necrotic damage, and the target can''t regain
+        hit points until the start of Illmarrow''s next turn. If the target is undead,
+        it also has disadvantage on attack rolls against Illmarrow until the end of
+        her next turn.'
+    Paralyzing Claw: 'Melee Weapon Attack: +10+1d14 + 3 to hit, reach 5 ft., one creature.
+        Hit: 13 (3d6 + 3) slashing damage plus 10 (3d6) cold damage, and the target
+        must succeed on a DC 20+1d14 + 13 Constitution saving throw or be paralyzed
+        for 1 minute. The target can repeat the saving throw at the end of each of
+        its turns, ending the effect on itself on a success.'
+    Poison Breath (Recharge 5xe2x80x936): Illmarrow exhales poisonous gas in a 30-foot
+        cone. Each creature in that area must make a DC 20+1d14 + 13 Constitution
+        saving throw. On a failed save, a creature takes 35 (10d6) poison damage and
+        is poisoned for 1 minute. While poisoned in this way, the creature can't regain
+        hit points. On a successful save, the creature takes half as much damage and
+        isn't poisoned.
+alignment: NE
+arcana: '+15'
+book: 'Eberron: Rising from the Last War'
+charisma: '24'
+condition_immunities:
+- blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned,
+    stunned
+constitution: '20'
+damage_immunities:
+- necrotic, poison
+- bludgeoning, piercing, and slashing from nonmagical attacks
+dexterity: '16'
+history: '+15'
+insight: '+12'
+intelligence: '27'
+languages:
+- Common
+- Draconic
+- Elvish
+legendary_actions:
+    number: 3
+    options:
+        Cantrip: ' Illmarrow casts a cantrip.'
+        Frightening Presence (Costs 2 Actions): ' Illmarrow targets up to three creatures
+            she can see within 30 feet of her. Each target must succeed on a DC 20+1d14
+            + 13 Wisdom saving throw or be frightened for 1 minute. A frightened target
+            can repeat the saving throw at the end of each of its turns, ending the
+            effect on itself on a success. If a target''s saving throw is successful
+            or the effect ends for it, the target is immune to Illmarrow''s Frightening
+            Presence for the next 24 hours.'
+        Paralyzing Claw: ' Illmarrow uses her '
+        Poison Breath (Costs 3 Actions): ' Illmarrow recharges her Poison Breath and
+            uses it.'
+name: Lady Illmarrow
+page: 296
+perception: '+12'
+resistances:
+- cold, lightning
+saving_throws:
+    constitution: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 22
+size: Medium
+skills:
+    arcana: proficient
+    history: proficient
+    insight: proficient
+    perception: proficient
+speed:
+- 30 ft
+- fly 40 ft
+strength: '16'
+tags: []
+traits:
+    Legendary Resistance (3/Day): If Illmarrow fails a saving throw, she can choose
+        to succeed instead.
+    Magic Resistance: Illmarrow has advantage on saving throws against spells and
+        other magical effects.
+    Rejuvenation: Illmarrow's body turns to dust when she drops to 0 hit points, and
+        her equipment is left behind. She gains a new body after 1d10 days, regaining
+        all her hit points and becoming active again. The new body appears within
+        two hundred miles of the location at which she was destroyed.
+    spellcasting:
+        ability: intelligence
+        level: 20
+        spells:
+        - chill touch
+        - fire bolt
+        - mage hand
+        - prestidigitation
+        - ray of frost
+        - magic missile
+        - shield
+        - sleep
+        - blur
+        - detect thoughts
+        - mirror image
+        - animate dead
+        - counterspell
+        - fireball
+        - fly
+        - lightning bolt
+        - blight
+        - confusion
+        - polymorph
+        - cloudkill
+        - cone of cold
+        - hold monster
+        - scrying
+        - chain lightning
+        - circle of death
+        - create undead
+        - scrying
+        - finger of death
+        - forcecage
+        - prismatic spray
+        - incendiary cloud
+        - maze
+        - power word kill
+        - time stop
+        type: wizard
+type: undead
+wisdom: '21'

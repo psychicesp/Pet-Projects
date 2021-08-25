@@ -1,0 +1,46 @@
+AC: 20
+CR: 1/4 (50 XP)
+HP: 19 (3d8 + 6)
+actions:
+    Spear: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing
+        damage if used with two hands to make a melee attack.'
+alignment: LG
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '12'
+constitution: '14'
+dexterity: '10'
+intelligence: '10'
+languages:
+- any one language (usually Common)
+medicine: '+5'
+name: Frontline Medic
+page: 231
+perception: '+3'
+saving_throws: {}
+senses:
+- passive Perception 13
+size: Medium
+skills:
+    medicine: expert
+    perception: proficient
+speed:
+- 30 ft
+strength: '15'
+tags:
+- any
+traits:
+    spellcasting:
+        ability: wisdom
+        level: 3
+        spells:
+        - mending
+        - resistance
+        - spare the dying
+        - cure wounds
+        - sanctuary
+        - aid
+        - lesser restoration
+        type: cleric
+type: humanoid
+wisdom: '13'

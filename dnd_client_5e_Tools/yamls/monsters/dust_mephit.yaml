@@ -1,0 +1,52 @@
+AC: 12
+CR: 1/2 (100 XP)
+HP: 17 (5d6)
+actions:
+    Blinding Breath (Recharge 6): The mephit exhales a 15-foot cone of blinding dust.
+        Each creature in that area must succeed on a DC 10+1d4 + 8 Dexterity saving
+        throw or be blinded for 1 minute. A creature can repeat the saving throw at
+        the end of each of its turns, ending the effect on itself on a success.
+    Claws: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit:
+        4 (1d4 + 2) slashing damage.'
+alignment: NE
+book: Monster Manual
+charisma: '10'
+condition_immunities:
+- poisoned
+constitution: '10'
+damage_immunities:
+- poison
+dexterity: '14'
+hit: 5d6
+intelligence: '9'
+languages:
+- Auran
+- Terran
+name: Dust Mephit
+page: 215
+perception: '+2'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Small
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+- fly 30 ft
+stealth: '+4'
+strength: '5'
+tags: []
+traits:
+    Death Burst: When the mephit dies, it explodes in a burst of dust. Each creature
+        within 5 feet of it must then succeed on a DC 10+1d4 + 8 Constitution saving
+        throw or be blinded for 1 minute. A blinded creature can repeat the saving
+        throw on each of its turns, ending the effect on itself on a success.
+    spellcasting:
+        ability: charisma.
+        spells: {}
+        type: innate
+type: elemental
+wisdom: '11'

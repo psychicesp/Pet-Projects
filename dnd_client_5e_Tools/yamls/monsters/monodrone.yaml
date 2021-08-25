@@ -1,0 +1,36 @@
+AC: 15
+CR: 1/8 (25 XP)
+HP: 5 (1d8 + 1)
+actions:
+    Dagger: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit:
+        3 (1d4 + 1) piercing damage.'
+    Javelin: 'Melee or Ranged Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 3 (1d6) piercing damage.'
+alignment: LN
+book: Monster Manual
+charisma: '5'
+constitution: '12'
+dexterity: '13'
+intelligence: '4'
+languages:
+- Modron
+name: Monodrone
+page: 224
+saving_throws: {}
+senses:
+- truesight 120 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+- fly 30 ft
+strength: '10'
+tags: []
+traits:
+    Axiomatic Mind: The monodrone can't be compelled to act in a manner contrary to
+        its nature or its instructions.
+    Disintegration: If the monodrone dies, its body disintegrates into dust, leaving
+        behind its weapons and anything else it was carrying.
+type: construct
+wisdom: '10'

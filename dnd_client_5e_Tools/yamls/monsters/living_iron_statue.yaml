@@ -1,0 +1,43 @@
+AC: 16
+CR: 5 (1,800 XP)
+HP: 102 (12d8 + 48)
+actions:
+    Blade: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit:
+        10 (2d6 + 3) slashing damage.'
+    Hammer: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit:
+        10 (2d6 + 3) bludgeoning damage, and the target is knocked prone.'
+    Multiattack: 'The statue makes two attacks: one with its blade and one with its
+        hammer.'
+    Whirl (Recharge 5xe2x80x936): The statue can use its action to spin at the waist,
+        targeting creatures of its choice within 10 feet of it. Each target must make
+        a DC 13+1d6 + 10 Dexterity saving throw, taking 19 (3d10 + 3) bludgeoning
+        damage on a failed save, or half as much damage on a successful one.
+alignment: U
+book: Ghosts of Saltmarsh
+charisma: '5'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: '18'
+damage_immunities:
+- lightning, poison
+dexterity: '14'
+intelligence: '6'
+languages:
+- understands the languages of its creator but can't speak
+name: Living Iron Statue
+page: 241
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 20 ft
+strength: '16'
+tags: []
+traits:
+    Immutable Form: The statue is immune to any spell or effect that would alter its
+        form.
+type: construct
+wisdom: '10'

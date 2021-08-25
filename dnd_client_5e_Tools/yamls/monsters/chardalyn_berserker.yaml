@@ -1,0 +1,42 @@
+AC: 13
+CR: 4 (1,100 XP)
+HP: 90 (12d8 + 36)
+actions:
+    Chardalyn Flail: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 7 (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 13+1d4
+        + 11 Constitution saving throw or be poisoned until the end of its next turn.'
+    Chardalyn Javelin: 'Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5
+        ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and
+        the target must succeed on a DC 13+1d4 + 11 Constitution saving throw or be
+        poisoned until the end of its next turn.'
+    Multiattack: The berserker attacks three times with a melee weapon.
+alignment: CE
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '9'
+constitution: '17'
+dexterity: '12'
+intelligence: '9'
+languages:
+- any one language (usually Common)
+name: Chardalyn Berserker
+page: 280
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    survival: expert
+speed:
+- 30 ft
+strength: '16'
+survival: '+4'
+tags: []
+traits:
+    Chardalyn Madness: The berserker must roll a d6 at the start of each of its turns.
+        On a 1, the berserker does nothing on its turn except speak to a nonexistent,
+        evil master whom it has pledged to serve.
+    Reckless: At the start of its turn, the berserker can gain advantage on all melee
+        weapon attack rolls during that turn, but attack rolls against it have advantage
+        until the start of its next turn.
+type: fiend
+wisdom: '11'

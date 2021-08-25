@@ -1,0 +1,78 @@
+AC: 14
+CR: 8 (3,900 XP)
+HP: 110 (20d8 + 20)
+actions:
+    Convene the Ghost Council: The ghost summons the other four members of the Obzedat.
+        At the start of the ghost's next turn, the other members appear in unoccupied
+        spaces within 30 feet of the summoner. The ghosts each roll initiative when
+        they appear.
+    Life Drain: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one creature.
+        Hit: 18 (4d8) necrotic damage, and the ghost regains hit points equal to half
+        the amount of damage the target takes. The target must succeed on a DC 13+1d6
+        + 10 Constitution saving throw or its hit point maximum is reduced by an amount
+        equal to the damage taken. The target dies if its hit point maximum is reduced
+        to 0. This reduction to the target''s hit point maximum lasts until the target
+        finishes a long rest.'
+alignment: LE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '17'
+condition_immunities:
+- charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+constitution: '13'
+damage_immunities:
+- necrotic, poison
+dexterity: '10'
+insight: '+8'
+intelligence: '18'
+languages:
+- Common
+legendary_actions:
+    number: 3
+    options:
+        Forced Obedience: ' A target that all of the Obzedat ghosts can see must succeed
+            on a DC 16+1d6 + 13 Wisdom saving throw or bow until the end of its next
+            turn. Until this bow ends, the target can''t take actions or reactions,
+            and its speed is 0 and can''t be increased.'
+        Indentured Spirits (Costs 3 Actions): ' The Obzedat ghosts conjure 1d6 indentured
+            spirits (described in this chapter) within 60 feet of one of them.'
+name: Obzedat Ghost
+page: 245
+perception: '+8'
+resistances:
+- acid, cold, fire, lightning, thunder
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 18
+size: Medium
+skills:
+    insight: proficient
+    perception: proficient
+speed:
+- 0 ft
+- fly 30 ft. (hover)
+strength: '10'
+tags: []
+traits:
+    Council of Five: 'The ghost has a trait based on who it is, as shown below:'
+    Ethereal Sight: The ghost can see 60 feet into the Ethereal Plane when it is on
+        the Material Plane, and vice versa.
+    Incorporeal Movement: The ghost can move through other creatures and objects as
+        if they were difficult terrain. It takes 5 (1d10) force damage if it ends
+        its turn inside an object.
+    Legendary Resistance (1/Day): If the ghost fails a saving throw, it can choose
+        to succeed instead.
+    spellcasting:
+        ability: wisdom
+        spells:
+            1/day:
+            - sanctuary
+            - spirit guardians
+            at will:
+            - chill touch
+        type: innate
+type: undead
+wisdom: '20'

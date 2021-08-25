@@ -1,0 +1,61 @@
+AC: 15
+CR: 3 (700 XP)
+HP: 52 (8d8 + 16)
+actions:
+    Chill Touch (Cantrip): 'Ranged Spell Attack: +6+1d4 + 4 to hit, range 120 ft.,
+        one creature. Hit: 9 (2d8) necrotic damage, and the target can''t regain hit
+        points until the start of the lampad''s next turn. If the target is undead,
+        it has disadvantage on attack rolls against the lampad until the end of the
+        lampad''s next turn.'
+    Multiattack: The lampad attacks twice with its necrotic touch or chill touch.
+    Necrotic Touch: 'Melee Spell Attack: +6+1d4 + 4 to hit, reach 5 ft., one target.
+        Hit: 9 (1d10 + 4) necrotic damage.'
+alignment: NE
+book: Mythic Odysseys of Theros
+charisma: '18'
+condition_immunities:
+- charmed, frightened, poisoned
+constitution: '14'
+damage_immunities:
+- poison
+deception: '+6'
+dexterity: '13'
+intelligence: '11'
+intimidation: '+6'
+languages:
+- Common
+- Sylvan
+name: Lampad
+page: 235
+resistances:
+- necrotic
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Medium
+skills:
+    deception: proficient
+    intimidation: proficient
+speed:
+- 30 ft
+strength: '12'
+tags: []
+traits:
+    Corpse Stride: Once on its turn, the lampad can use 10 feet of its movement to
+        step magically into one creature's corpse within its reach and emerge from
+        a second creature's corpse within 60 feet of the first corpse, appearing in
+        an unoccupied space within 5 feet of the second corpse. Both corpses must
+        be Medium or bigger.
+    Magic Resistance: The lampad has advantage on saving throws against spells and
+        other magical effects.
+    spellcasting:
+        ability: 'charisma (+6+1d4 + 4 to hit with spell attacks). it can innately
+            cast the following spells, requiring no material components:at will: chill
+            touch (see "actions" below), gentle repose'
+        spells:
+            at will:
+            - chill touch
+            - gentle repose
+        type: innate
+type: fey
+wisdom: '12'

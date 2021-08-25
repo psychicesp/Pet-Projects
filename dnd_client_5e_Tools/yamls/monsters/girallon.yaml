@@ -1,0 +1,42 @@
+AC: 13
+CR: 4 (1,100 XP)
+HP: 59 (7d10 + 21)
+actions:
+    Bite: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one creature. Hit:
+        7 (1d6 + 4) piercing damage.'
+    Claw: 'Melee Weapon Attack: +6+1d4 + 4 to hit. reach 10 ft., one target. Hit:
+        7 (1d6 + 4) slashing damage.'
+    Multiattack: 'The girallon makes five attacks: one with its bite and four with
+        its claws.'
+alignment: U
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '7'
+constitution: '16'
+dexterity: '16'
+intelligence: '5'
+languages:
+- \xe2\x80\x94
+name: Girallon
+page: 152
+perception: '+3'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Large
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 40 ft
+- climb 40 ft
+stealth: '+5'
+strength: '18'
+tags: []
+traits:
+    Aggressive: As a bonus action, the girallon can move up to its speed toward a
+        hostile creature that it can see.
+    Keen Smell: The girallon has advantage on Wisdom (Perception) checks that rely
+        on smell.
+type: monstrosity
+wisdom: '12'

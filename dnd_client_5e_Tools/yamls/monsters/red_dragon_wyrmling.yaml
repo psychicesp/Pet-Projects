@@ -1,0 +1,45 @@
+AC: 17
+CR: 4 (1,100 XP)
+HP: 75 (10d8 + 30)
+actions:
+    Bite: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9
+        (1d10 + 4) piercing damage plus 3 (1d6) fire damage.'
+    Fire Breath (Recharge 5xe2x80x936): The dragon exhales fire in a 15-foot cone.
+        Each creature in that area must make a DC 13+1d4 + 11 Dexterity saving throw,
+        taking 24 (7d6) fire damage on a failed save, or half as much damage on a
+        successful one.
+alignment: CE
+book: Monster Manual
+charisma: '15'
+constitution: '17'
+damage_immunities:
+- fire
+dexterity: '10'
+intelligence: '12'
+languages:
+- Draconic
+name: Red Dragon Wyrmling
+page: 98
+perception: '+4'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 10 ft.
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 30 ft
+- climb 30 ft
+- fly 60 ft
+stealth: '+2'
+strength: '19'
+tags: []
+type: dragon
+wisdom: '11'

@@ -1,0 +1,56 @@
+AC: 15
+CR: 4 (1,100 XP)
+HP: 44 (8d8 + 8)
+actions:
+    Eldritch Touch: 'Melee Spell Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) force damage.'
+alignment: AA
+book: Mythic Odysseys of Theros
+charisma: '15'
+constitution: '12'
+dexterity: '14'
+insight: '+5'
+intelligence: '13'
+languages:
+- Celestial
+- Common
+name: Oracle
+page: 238
+persuasion: '+4'
+religion: '+5'
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- passive Perception 13
+size: Medium
+skills:
+    insight: proficient
+    persuasion: proficient
+    religion: expert
+speed:
+- 30 ft
+strength: '10'
+tags: []
+traits:
+    Blessings of the Gods: While the oracle is wearing no armor and wielding no shield,
+        its AC includes its Wisdom modifier. In addition, a creature that hits the
+        oracle with a melee attack while within 5 feet of it takes 9 (2d8) force damage.
+    spellcasting:
+        ability: wisdom
+        spells:
+            1/day:
+            - augury
+            - scrying
+            3/day:
+            - bless
+            - guiding bolt
+            - healing word
+            - hold person
+            at will:
+            - guidance
+            - light
+            - thaumaturgy
+        type: innate
+type: humanoid
+wisdom: '16'

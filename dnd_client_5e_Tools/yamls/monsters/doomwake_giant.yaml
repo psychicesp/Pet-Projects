@@ -1,0 +1,53 @@
+AC: 15
+CR: 11 (7,200 XP)
+HP: 162 (13d12 + 78)
+actions:
+    Multiattack: The giant makes two slam attacks.
+    Noxious Gust (Recharge 5xe2x80x936): The giant exhales a mighty gust that creates
+        a blast of deadly mist in a 60-foot line that is 10 feet wide. Each creature
+        in that line must make a DC 18+1d8 + 14 Constitution saving throw. On a failed
+        save, the creature takes 36 (8d8) necrotic damage and is knocked prone. On
+        a successful save, a creature takes half as much damage and isn't knocked
+        prone.
+    Slam: 'Melee Weapon Attack: +11+1d8 + 7 to hit, reach 15 ft., one target. Hit:
+        20 (3d8 + 7) bludgeoning damage plus 10 (3d6) necrotic damage.'
+alignment: LE
+book: Mythic Odysseys of Theros
+charisma: '16'
+condition_immunities:
+- frightened, poisoned
+constitution: '22'
+damage_immunities:
+- necrotic, poison
+dexterity: '12'
+intelligence: '12'
+intimidation: '+7'
+languages:
+- Giant
+name: Doomwake Giant
+page: 224
+perception: '+6'
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 16
+size: Huge
+skills:
+    intimidation: proficient
+    perception: proficient
+speed:
+- 40 ft
+strength: '24'
+tags: []
+traits:
+    Aura of Erebos: Any creature that starts its turn within 10 feet of the giant
+        must succeed on a DC 18+1d8 + 14 Constitution saving throw, or it takes 10
+        (3d6) necrotic damage and can't regain hit points until the start of its next
+        turn. On a successful saving throw, the creature is immune to the giant's
+        Aura of Erebos for 24 hours.
+    Magic Resistance: The giant has advantage on saving throws against spells and
+        other magical effects.
+type: giant
+wisdom: '14'

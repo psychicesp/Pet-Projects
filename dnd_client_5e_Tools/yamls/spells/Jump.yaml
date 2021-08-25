@@ -1,0 +1,21 @@
+casting time: 1 action
+classes:
+- Artificer
+- Druid
+- Ranger
+- Sorcerer
+- Wizard
+components: V, S, M
+concentration: false
+cost: 0
+description: You touch a creature. The creature's jump distance is tripled until the
+    spell ends.
+duration: 1 minute
+extras: a grasshopper's hind leg
+level: 1
+name: Jump
+page: 254
+range: Touch
+ritual: false
+school: transmutation
+source: PHB

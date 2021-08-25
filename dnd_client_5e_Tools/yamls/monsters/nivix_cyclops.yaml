@@ -1,0 +1,39 @@
+AC: 14
+CR: 8 (3,900 XP)
+HP: 115 (10d10 + 60)
+actions:
+    Multiattack: The cyclops makes two slam attacks.
+    Slam: 'Melee Weapon Attack: +10+1d6 + 7 to hit, reach 10 ft., one target. Hit:
+        23 (3d10 + 7) bludgeoning damage.'
+alignment: U
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '9'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: '22'
+damage_immunities:
+- poison, psychic
+dexterity: '9'
+intelligence: '7'
+languages:
+- Common
+- Giant
+name: Nivix Cyclops
+page: 216
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Large
+skills: {}
+speed:
+- 30 ft
+strength: '24'
+tags: []
+traits:
+    Magic Resistance: The cyclops has advantage on saving throws against spells and
+        other magical effects.
+type: giant
+wisdom: '10'

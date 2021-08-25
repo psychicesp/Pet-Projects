@@ -1,0 +1,44 @@
+AC: 14
+CR: 4 (1,100 XP)
+HP: 52 (7d10 + 14)
+acrobatics: '+5'
+actions:
+    Chaos Cloud (Recharges after a Short or Long Rest): The chaos quadrapod shoots
+        forth a knot of roiling ethereal light that explodes at a point it can see
+        within 60 feet of it. Each creature in a 20-foot-radius sphere centered on
+        that point must succeed on a DC 14+1d4 + 12 Charisma saving throw or be stunned
+        until the end of its next turn.
+    Multiattack: The chaos quadrapod makes up to two tentacle attacks.
+    Tentacle: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 15 ft., one target. Hit:
+        11 (2d6 + 4) bludgeoning damage. If the target is a creature, it is grappled
+        (escape DC 14+1d4 + 12). Until this grapple ends, the target is restrained.
+        The chaos quadrapod can grapple no more than two targets at a time.'
+alignment: CE
+book: Acquisitions Incorporated
+charisma: '4'
+constitution: '15'
+dexterity: '13'
+intelligence: '6'
+languages:
+- \xe2\x80\x94
+name: Chaos Quadrapod
+page: 209
+perception: '+4'
+saving_throws: {}
+senses:
+- blindsight 120 ft. (blind beyond this radius)
+- passive Perception 14
+size: Large
+skills:
+    acrobatics: expert
+    perception: expert
+speed:
+- 40 ft
+- climb 40 ft
+strength: '18'
+tags: []
+traits:
+    Magic Resistance: The chaos quadrapod has advantage on saving throws against spells
+        and other magical effects.
+type: aberration
+wisdom: '10'

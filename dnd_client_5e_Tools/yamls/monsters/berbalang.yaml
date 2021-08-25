@@ -1,0 +1,60 @@
+AC: 14
+CR: 2 (450 XP)
+HP: 38 (11d8 - 11)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8
+        (1d10 + 3) piercing damage.'
+    Claws: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        8 (2d4 + 3) slashing damage.'
+    Multiattack: 'The berbalang makes two attacks: one with its bite and one with
+        its claws.'
+alignment: NE
+arcana: '+5'
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '10'
+constitution: '9'
+dexterity: '16'
+history: '+5'
+insight: '+2'
+intelligence: '17'
+languages:
+- all but rarely speaks
+name: Berbalang
+page: 120
+perception: '+2'
+religion: '+5'
+saving_throws:
+    dexterity: proficient
+    intelligence: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 12
+size: Medium
+skills:
+    arcana: proficient
+    history: proficient
+    insight: proficient
+    perception: proficient
+    religion: proficient
+speed:
+- 30 ft
+- fly 40 ft
+strength: '9'
+tags: []
+traits:
+    Spectral Duplicate (Recharges after a Short or Long Rest): As a bonus action,
+        the berbalang creates one spectral duplicate of itself in an unoccupied space
+        it can see within 60 feet of it. While the duplicate exists, the berbalang
+        is unconscious. A berbalang can have only one duplicate at a time. The duplicate
+        disappears when it or the berbalang drops to 0 hit points or when the berbalang
+        dismisses it (no action required).
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - plane shift
+            at will:
+            - speak with dead
+        type: innate
+type: aberration
+wisdom: '11'

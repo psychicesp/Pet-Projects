@@ -1,0 +1,41 @@
+AC: 17
+CR: 5 (1,800 XP)
+HP: 126 (12d10 + 60)
+actions:
+    Multiattack: The elemental makes two slam attacks.
+    Slam: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit:
+        14 (2d8 + 5) bludgeoning damage.'
+alignment: N
+book: Monster Manual
+charisma: '5'
+condition_immunities:
+- exhaustion, paralyzed, petrified, poisoned, unconscious
+constitution: '20'
+damage_immunities:
+- poison
+dexterity: '8'
+intelligence: '5'
+languages:
+- Terran
+name: Earth Elemental
+page: 124
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- tremorsense 60 ft.
+- passive Perception 10
+size: Large
+skills: {}
+speed:
+- 30 ft
+- burrow 30 ft
+strength: '20'
+tags: []
+traits:
+    Earth Glide: The elemental can burrow through nonmagical, unworked earth and stone.
+        While doing so, the elemental doesn't disturb the material it moves through.
+    Siege Monster: The elemental deals double damage to objects and structures.
+type: elemental
+wisdom: '10'

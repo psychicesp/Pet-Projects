@@ -1,0 +1,38 @@
+AC: 14
+CR: 1 (200 XP)
+HP: 49 (9d8 + 9)
+actions:
+    Claw: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 5
+        (1d8 + 1) slashing damage, and the target is grappled (escape DC 11+1d4 +
+        9). The aldani has two claws, each of which can grapple only one target.'
+    Multiattack: The aldani makes two attacks with its claws.
+alignment: LN
+book: Tomb of Annihilation
+charisma: 10 (+0)
+constitution: 12 (+1)
+dexterity: 8 (-1)
+hit points: 9d8 + 9
+intelligence: 10 (+0)
+languages:
+- Common
+name: Aldani (Lobsterfolk)
+page: 210
+perception: '+4'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: proficient
+    survival: proficient
+speed:
+- 20 ft
+- swim 30 ft
+strength: 13 (+1)
+survival: '+4'
+tags: []
+traits:
+    Amphibious: The aldani can breathe air and water.
+type: monstrosity
+wisdom: 14 (+2)

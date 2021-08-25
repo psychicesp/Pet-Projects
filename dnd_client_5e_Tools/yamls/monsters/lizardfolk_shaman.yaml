@@ -1,0 +1,64 @@
+AC: 13
+CR: 2 (450 XP)
+HP: 27 (5d8 + 5)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) piercing damage, or 7 (1d10 + 2) piercing damage in crocodile form.
+        If the lizardfolk is in crocodile form and the target is a Large or smaller
+        creature, the target is grappled (escape DC 12+1d4 + 10). Until this grapple
+        ends, the target is restrained, and the lizardfolk can''t bite another target.
+        If the lizardfolk reverts to its true form, the grapple ends.'
+    Change Shape (Recharges after a Short or Long Rest): The lizardfolk magically
+        polymorphs into a crocodile, remaining in that form for up to 1 hour. It can
+        revert to its true form as a bonus action. Its statistics, other than its
+        size, are the same in each form. Any equipment it is wearing or carrying isn't
+        transformed. It reverts to its true form if it dies.
+    Claws (Lizardfolk Form Only): 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5
+        ft., one target. Hit: 4 (1d4 + 2) slashing damage.'
+    Multiattack (Lizardfolk Form Only): 'The lizardfolk makes two attacks: one with
+        its bite and one with its claws.'
+alignment: N
+book: Monster Manual
+charisma: '8'
+constitution: '13'
+dexterity: '10'
+intelligence: '10'
+languages:
+- Draconic
+name: Lizardfolk Shaman
+page: 205
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Medium
+skills:
+    perception: proficient
+    stealth: expert
+    survival: expert
+speed:
+- 30 ft
+- swim 30 ft
+stealth: '+4'
+strength: '15'
+survival: '+6'
+tags:
+- lizardfolk
+traits:
+    Hold Breath: The lizardfolk can hold its breath for 15 minutes.
+    spellcasting:
+        ability: wisdom
+        level: 5
+        spells:
+        - druidcraft
+        - produce flame
+        - thorn whip
+        - entangle
+        - fog cloud
+        - heat metal
+        - spike growth
+        - conjure animals
+        - plant growth
+        type: druid
+type: humanoid
+wisdom: '15'

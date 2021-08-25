@@ -1,0 +1,44 @@
+AC: 14
+CR: 1/2 (100 XP)
+HP: 19 (3d8 + 6)
+acrobatics: '+5'
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit:
+        5 (1d4 + 3) piercing damage.'
+    Shortsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage.'
+alignment: AA
+book: 'Eberron: Rising from the Last War'
+charisma: '10'
+constitution: '14'
+dexterity: '16'
+insight: '+4'
+intelligence: '11'
+languages:
+- Common
+name: Shifter
+nature: '+2'
+page: 319
+perception: '+4'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    acrobatics: proficient
+    insight: proficient
+    nature: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '12'
+tags:
+- shifter
+traits:
+    Shifting (Recharges after a Short or Long Rest): As a bonus action, the shifter
+        takes on a more bestial form for 1 minute or until it dies. The shifter gains
+        5 temporary hit points. It can make a bite attack when it activates this trait
+        and also as a bonus action on each of its turns while in its bestial form.
+type: humanoid
+wisdom: '15'

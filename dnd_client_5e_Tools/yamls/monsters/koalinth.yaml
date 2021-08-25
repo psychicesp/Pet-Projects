@@ -1,0 +1,42 @@
+AC: 14
+CR: 1/2 (100 XP)
+HP: 16 (3d8 + 3)
+actions:
+    Trident: 'Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing
+        damage if used with two hands to make a melee attack.'
+alignment: LE
+athletics: '+3'
+book: Ghosts of Saltmarsh
+charisma: '11'
+constitution: '12'
+dexterity: '11'
+intelligence: '11'
+languages:
+- Common
+- Goblin
+name: Koalinth
+page: 239
+perception: '+2'
+saving_throws:
+    dexterity: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+speed:
+- 30 ft
+- swim 20 ft
+strength: '13'
+tags:
+- goblinoid
+traits:
+    Amphibious: The koalinth can breathe air and water.
+    Martial Advantage: Once per turn, the koalinth can deal an extra 7 (2d6) damage
+        to a creature it hits with a weapon attack if that creature is within 5 feet
+        of an ally of the koalinth that isn't incapacitated.
+type: humanoid
+wisdom: '10'

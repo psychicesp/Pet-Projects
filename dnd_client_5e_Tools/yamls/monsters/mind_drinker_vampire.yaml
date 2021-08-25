@@ -1,0 +1,77 @@
+AC: 14
+CR: 4 (1,100 XP)
+HP: 55 (10d8 + 10)
+actions:
+    Bite: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one willing creature,
+        or a creature that is grappled by the vampire, incapacitated, or restrained.
+        Hit: 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. The target''s
+        hit point maximum is reduced by an amount equal to the necrotic damage taken,
+        and the vampire regains hit points equal to that amount. The reduction lasts
+        until the target finishes a long rest. The target dies if its hit point maximum
+        is reduced to 0.'
+    Mind Siphon (Recharge 5xe2x80x936): The vampire targets a creature it can see
+        within 30 feet of it. The target must make a DC 14+1d4 + 12 Intelligence saving
+        throw, with disadvantage if the vampire has previously consumed the target's
+        blood. On a failed save, the target takes 28 (8d6) psychic damage, and the
+        vampire discerns the target's surface emotions and thoughts. On a successful
+        save, the target takes half as much damage, and the vampire discerns the target's
+        general emotional state but not its thoughts.
+    Multiattack: The vampire makes two attacks, only one of which can be a bite attack.
+    Unarmed Strike: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target.
+        Hit: 8 (1d8 + 4) bludgeoning damage. The vampire can also grapple the target
+        (escape DC 13+1d4 + 11) if it is a creature and the vampire has a hand free.'
+alignment: NE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '14'
+constitution: '12'
+deception: '+4'
+dexterity: '18'
+insight: '+3'
+intelligence: '19'
+languages:
+- the languages it knew in life
+name: Mind Drinker Vampire
+page: 224
+perception: '+3'
+resistances:
+- necrotic
+saving_throws:
+    dexterity: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    deception: proficient
+    insight: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+- fly 30 ft. (hover)
+stealth: '+6'
+strength: '16'
+tags: []
+traits:
+    Shadow Stealth: While in dim light or darkness, the vampire can take the Hide
+        action as a bonus action.
+    Sunlight Sensitivity: While in sunlight, the vampire has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - gaseous form
+            - major image
+            3/day:
+            - charm person
+            - hold person
+            - mirror image
+            - sleep
+            at will:
+            - message
+        type: innate
+type: undead
+wisdom: '13'

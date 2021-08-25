@@ -1,0 +1,46 @@
+AC: 15
+CR: 4 (1,100 XP)
+HP: 58 (9d10 + 9)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft., one creature. Hit:
+        10 (2d6 + 3) piercing damage plus 10 (3d6) poison damage.'
+alignment: LE
+book: Monster Manual
+charisma: '16'
+condition_immunities:
+- charmed, exhaustion, paralyzed, poisoned
+constitution: '12'
+damage_immunities:
+- poison
+dexterity: '16'
+intelligence: '15'
+languages:
+- Common plus one other language
+name: Bone Naga (Guardian)
+page: 233
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Large
+skills: {}
+speed:
+- 30 ft
+strength: '15'
+tags: []
+traits:
+    spellcasting:
+        ability: ' spellcasting. the naga is a 5th-level spellcaster'
+        level: 5
+        spells:
+        - mending
+        - sacred flame
+        - thaumaturgy
+        - command
+        - shield of faith
+        - calm emotions
+        - hold person
+        - bestow curse
+        type: cleric
+type: undead
+wisdom: '15'

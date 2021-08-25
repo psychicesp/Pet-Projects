@@ -1,0 +1,44 @@
+AC: 15
+CR: 5 (1,800 XP)
+HP: 90 (12d10 + 24)
+actions:
+    Bite: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 12
+        (2d8 + 3) piercing damage.'
+    Claw: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 12
+        (2d8 + 3) piercing damage.'
+    Multiattack: 'The sea lion makes three attacks: one bite attack and two claw attacks.'
+alignment: U
+book: Tales from the Yawning Portal
+charisma: '8'
+constitution: '15'
+dexterity: '15'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Sea Lion
+page: 242
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Large
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 10 ft
+- swim 40 ft
+stealth: '+5'
+strength: '17'
+tags: []
+traits:
+    Amphibious: The sea lion can breathe air and water.
+    Keen Smell: The sea lion has advantage on Wisdom (Perception) checks that rely
+        on smell.
+    Pack Tactics: The sea lion has advantage on an attack roll against a creature
+        if at least one of the sea lion's allies is within 5 feet of the creature
+        and the ally isn't incapacitated.
+    Swimming Leap: With a 10-foot swimming start, the sea lion can long jump out of
+        or across the water up to 25 feet.
+type: monstrosity
+wisdom: '12'

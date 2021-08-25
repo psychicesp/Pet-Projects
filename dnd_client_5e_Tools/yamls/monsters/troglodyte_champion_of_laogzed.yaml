@@ -1,0 +1,55 @@
+AC: ''
+CR: 3 (700 XP)
+HP: 59 (7d8 + 28)
+actions:
+    Acid Spray (Recharge 6): The troglodyte spits acid in a line 15 feet long and
+        5 feet wide. Each creature in that line must make a DC 14+1d4 + 12 Dexterity
+        saving throw, taking 10 (3d6) acid damage on a failed save, or half as much
+        damage on a successful one.
+    Bite: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 6
+        (1d4 + 4) piercing damage.'
+    Claw: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 6
+        (1d4 + 4) slashing damage.'
+    Greatclub: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit:
+        8 (1d8 + 4) bludgeoning damage.'
+    Multiattack: 'The troglodyte makes three attacks: one with its bite and two with
+        either its claws or its greatclub.'
+alignment: CE
+athletics: '+6'
+book: Out of the Abyss
+charisma: '12'
+constitution: '18'
+dexterity: '12'
+intelligence: '8'
+intimidation: '+3'
+languages:
+- Troglodyte
+name: Troglodyte Champion of Laogzed
+page: 229
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Medium
+skills:
+    athletics: proficient
+    intimidation: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+3'
+strength: '18'
+tags:
+- troglodyte
+traits:
+    Chameleon Skin: The troglodyte has advantage on Dexterity (Stealth) checks made
+        to hide.
+    Stench: Any creature other than a troglodyte that starts its turn within 5 feet
+        of the troglodyte must succeed on a DC 14+1d4 + 12 Constitution saving throw
+        or be poisoned until the start of the creature's next turn. On a successful
+        saving throw, the creature is immune to the stench of all troglodytes for
+        1 hour.
+    Sunlight Sensitivity: While in sunlight, the troglodyte has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: humanoid
+wisdom: '12'

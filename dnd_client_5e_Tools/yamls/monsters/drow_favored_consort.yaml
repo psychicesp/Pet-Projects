@@ -1,0 +1,88 @@
+AC: 15
+CR: 18 (20,000 XP)
+HP: 225 (30d8 + 90)
+acrobatics: '+11'
+actions:
+    Hand Crossbow: 'Ranged Weapon Attack: +11+1d12 + 5 to hit, range 30/120 ft., one
+        target. Hit: 8 (1d6 + 5) piercing damage, and the target must succeed on a
+        DC 13+1d12 + 7 Constitution saving throw or be poisoned for 1 hour. If the
+        saving throw fails by 5 or more, the target is also unconscious while poisoned
+        in this way. The target regains consciousness if it takes damage or if another
+        creature takes an action to shake it.'
+    Multiattack: The drow makes three scimitar attacks.
+    Scimitar: 'Melee Weapon Attack: +11+1d12 + 5 to hit, reach 5 ft., one target.
+        Hit: 8 (1d6 + 5) slashing damage plus 18 (4d8) poison damage. In addition,
+        the target has disadvantage on the next saving throw it makes against a spell
+        the drow casts before the end of the drow''s next turn.'
+alignment: NE
+athletics: '+8'
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '18'
+constitution: '16'
+dexterity: '20'
+intelligence: '18'
+languages:
+- Elvish
+- Undercommon
+name: Drow Favored Consort
+page: 183
+perception: '+8'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 18
+size: Medium
+skills:
+    acrobatics: proficient
+    athletics: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+11'
+strength: '15'
+tags:
+- elf
+traits:
+    Fey Ancestry: The drow has advantage on saving throws against being charmed, and
+        magic can't put the drow to sleep.
+    Sunlight Sensitivity: While in sunlight, the drow has disadvantage on attack rolls,
+        as well as on Wisdom (Perception) checks that rely on sight.
+    War Magic: When the drow uses its action to cast a spell, it can make one weapon
+        attack as a bonus action.
+    spellcasting:
+        ability: intelligence
+        spells:
+            1st:
+            - burning hands
+            - mage armor
+            - magic missile
+            - shield
+            2nd:
+            - gust of wind
+            - invisibility
+            - misty step
+            - shatter
+            3rd:
+            - counterspell
+            - fireball
+            - haste
+            4th:
+            - dimension door
+            - Otiluke\'s resilient sphere
+            5th:
+            - cone of cold
+            6th:
+            - chain lightning
+            Cantrips:
+            - mage hand
+            - message
+            - poison spray
+            - shocking grasp
+            - ray of frost
+        type: innate
+type: humanoid
+wisdom: '15'

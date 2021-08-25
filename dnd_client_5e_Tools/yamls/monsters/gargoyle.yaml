@@ -1,0 +1,42 @@
+AC: 15
+CR: 2 (450 XP)
+HP: 52 (7d8 + 21)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) piercing damage.'
+    Claws: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        5 (1d6 + 2) slashing damage.'
+    Multiattack: 'The gargoyle makes two attacks: one with its bite and one with its
+        claws.'
+alignment: CE
+book: Monster Manual
+charisma: '7'
+condition_immunities:
+- exhaustion, petrified, poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '11'
+intelligence: '6'
+languages:
+- Terran
+name: Gargoyle
+page: 140
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t adamantine
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+- fly 60 ft
+strength: '15'
+tags: []
+traits:
+    False Appearance: While the gargoyle remains motionless, it is indistinguishable
+        from an inanimate statue.
+type: elemental
+wisdom: '11'

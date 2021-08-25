@@ -1,0 +1,45 @@
+AC: 15
+CR: 1 (200 XP)
+HP: 32 (5d8 + 10)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7
+        (1d8 + 3) piercing damage.'
+    Multiattack: The sable makes two bite attacks.
+alignment: U
+book: Mythic Odysseys of Theros
+charisma: '1'
+condition_immunities:
+- charmed, exhaustion, paralyzed, petrified, poisoned
+constitution: '15'
+damage_immunities:
+- fire, poison
+dexterity: '16'
+intelligence: '3'
+languages:
+- understands one language of its creator but can't speak
+name: Bronze Sable
+page: 210
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 12
+size: Medium
+skills:
+    stealth: proficient
+speed:
+- 30 ft
+- climb 30 ft
+stealth: '+5'
+strength: '13'
+tags: []
+traits:
+    False Appearance: While the sable remains motionless, it is indistinguishable
+        from a normal statue.
+    Pack Tactics: The sable has advantage on an attack roll against a creature if
+        at least one of the sable's allies is within 5 feet of the creature and the
+        ally isn't incapacitated.
+    Surprise Attack: If the sable surprises a creature and hits it with an attack
+        during the first round of combat, the target takes an extra 10 (3d6) damage
+        from the attack.
+type: construct
+wisdom: '14'

@@ -1,0 +1,45 @@
+AC: 8
+CR: 1/4 (50 XP)
+HP: 22 (3d8 + 9)
+actions:
+    Slam: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4
+        (1d6 + 1) bludgeoning damage.'
+alignment: NE
+book: Lost Mine of Phandelver
+charisma: 5 (-3)
+condition_immunities:
+- poisoned
+constitution: 16 (+3)
+damage_immunities:
+- poison
+dexterity: 6 (-2)
+hit points: 3d8 + 9
+intelligence: 3 (-4)
+languages:
+- understands all languages it spoke in life but can't speak
+name: Ash Zombie
+page: 31
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Medium
+skills: {}
+speed:
+- 20 ft
+strength: 13 (+1)
+tags: []
+traits:
+    Ash Puff: The first time the zombie takes damage, any living creature within 5
+        feet of the zombie must succeed on a DC 10+1d4 + 8 Constitution saving throw
+        or gain disadvantage on attack rolls, saving throws, and ability checks for
+        1 minute. A creature can repeat the saving throw at the end of each of its
+        turns, ending the effect on it early with a successful save.
+    Undead Fortitude: If damage reduces the zombie to 0 hit points, it must make a
+        Constitution saving throw with a DC of 5+the damage taken, unless the damage
+        is radiant or from a critical hit. On a success, the zombie drops to 1 hit
+        point instead.
+type: undead
+wisdom: 6 (-2)
+wisdom save: '+0'

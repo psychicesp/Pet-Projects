@@ -1,0 +1,65 @@
+AC: 14
+CR: 9 (5,000 XP)
+HP: 157 (21d8 + 63)
+actions:
+    Greatsword: 'Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one target.
+        Hit: 10 (2d6 + 3) slashing damage plus 14 (4d6) cold damage, and the target
+        must succeed on a DC 12+1d8 + 8 Constitution saving throw or contract bluerot
+        (see the "Bluerot" in notes).'
+    Life-Draining Tentacle: 'Melee Weapon Attack: +7+1d8 + 3 to hit, reach 15 ft.,
+        one target. Hit: 10 (2d6 + 3) necrotic damage. The target must succeed on
+        a DC 15+1d8 + 11 Constitution saving throw or have its hit point maximum reduced
+        by an amount equal to the damage taken. The target dies if this effect reduces
+        its hit point maximum to 0. This reduction lasts until the target finishes
+        a long rest. On a failed save, the target also contracts bluerot (see the
+        "Bluerot" in notes).'
+    Multiattack: 'The drowned master makes two attacks: one with its greatsword and
+        one with its Life-Draining Tentacle.'
+    Necrotic Ink (Recharge 5xe2x80x936): The drowned master discharges foul ink in
+        front of itself in a 30-foot cone. Each creature caught in the ink must make
+        a DC 15+1d8 + 11 Constitution saving throw, taking 27 (6d8) necrotic damage
+        on a failed save or half as much damage on a successful one. A creature that
+        fails this saving throw is blinded until the end of its next turn and contracts
+        bluerot (see the "Bluerot" in notes).
+alignment: CE
+book: Ghosts of Saltmarsh
+charisma: '12'
+condition_immunities:
+- poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '12'
+intelligence: '9'
+languages:
+- understands the languages it knew in life but can\'t speak
+name: Drowned Master
+page: 235
+perception: '+10'
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 20
+size: Medium
+skills:
+    perception: expert
+speed:
+- 30 ft
+strength: '17'
+tags: []
+traits:
+    Bound Together: The drowned master shares its mind with every other drowned one
+        within 1 mile of it, and can communicate its thoughts and observations to
+        them instantaneously and without limitation.
+    Cold Aura: At the start of each of the drowned master's turns, each creature within
+        5 feet of it takes 5 (1d10) cold damage. A creature that touches the drowned
+        master or hits it with a melee attack while within 5 feet of it takes 5 (1d10)
+        cold damage.
+    Undead Fortitude: If damage reduces the drowned master to 0 hit points, it must
+        make a Constitution saving throw with a DC of 5 + the damage taken, unless
+        the damage is radiant or from a critical hit. On a success, the drowned master
+        drops to 1 hit point instead.
+type: undead
+wisdom: '14'

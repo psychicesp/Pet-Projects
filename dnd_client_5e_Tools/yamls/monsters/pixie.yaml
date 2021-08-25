@@ -1,0 +1,53 @@
+AC: 15
+CR: 1/4 (50 XP)
+HP: 1 (1d4 - 1)
+actions:
+    Superior Invisibility: The pixie magically turns invisible until its concentration
+        ends (as if concentrating on a spell). Any equipment the pixie wears or carries
+        is invisible with it.
+alignment: NG
+book: Monster Manual
+charisma: '15'
+constitution: '8'
+dexterity: '20'
+intelligence: '10'
+languages:
+- Sylvan
+name: Pixie
+page: 253
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Tiny
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 10 ft
+- fly 30 ft
+stealth: '+7'
+strength: '2'
+tags: []
+traits:
+    Magic Resistance: The pixie has advantage on saving throws against spells and
+        other magical effects.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - confusion
+            - dancing lights
+            - detect evil and good
+            - detect thoughts
+            - dispel magic
+            - entangle
+            - fly
+            - phantasmal force
+            - polymorph
+            - sleep
+            at will:
+            - druidcraft
+        type: innate
+type: fey
+wisdom: '14'

@@ -1,0 +1,41 @@
+AC: 18
+CR: 1 (200 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Multiattack: The armor makes two melee attacks.
+    Slam: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) bludgeoning damage.'
+alignment: U
+book: Monster Manual
+charisma: 1 (-5)
+condition_immunities:
+- blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: 13 (+1)
+damage_immunities:
+- poison, psychic
+dexterity: 11 (+0)
+hit points: 6d8 + 6
+intelligence: 1 (-5)
+languages:
+- "\u2014"
+name: Animated Armor
+page: 19
+saving_throws: {}
+senses:
+- blindsight 60 ft. (blind beyond this radius)
+- passive Perception 6
+size: Medium
+skills: {}
+speed:
+- 25 ft
+strength: 14 (+2)
+tags: []
+traits:
+    Antimagic Susceptibility: The armor is incapacitated while in the area of an antimagic
+        field. If targeted by dispel magic, the armor must succeed on a Constitution
+        saving throw against the caster's spell save DC or fall unconscious for 1
+        minute.
+    False Appearance: While the armor remains motionless, it is indistinguishable
+        from a normal suit of armor.
+type: construct
+wisdom: 3 (-4)

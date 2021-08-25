@@ -1,0 +1,52 @@
+AC: 12
+CR: 1 (200 XP)
+HP: 22 (5d8)
+actions:
+    Quarterstaff: 'Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target.
+        Hit: 3 (1d8 - 1) bludgeoning damage.'
+alignment: LE
+arcana: '+5'
+book: Lost Mine of Phandelver
+charisma: '11'
+constitution: '11'
+dexterity: '14'
+history: '+5'
+hit: 5d8
+intelligence: '17'
+languages:
+- Common
+- Draconic
+- Dwarvish
+- Elvish
+name: Evil Mage
+page: 57
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- passive Perception 11
+size: Medium
+skills:
+    arcana: proficient
+    history: proficient
+speed:
+- 30 ft
+strength: '9'
+tags:
+- human
+traits:
+    spellcasting:
+        ability: ' spellcasting. the mage is a 4th-level spellcaster that uses intelligence
+            as its spellcasting ability'
+        level: 4
+        spells:
+        - light
+        - mage hand
+        - shocking grasp
+        - charm person
+        - magic missile
+        - hold person
+        - misty step
+        type: 'spells from the wizard\''s spell list:'
+type: humanoid
+wisdom: '12'

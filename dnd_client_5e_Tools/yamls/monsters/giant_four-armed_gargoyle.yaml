@@ -1,0 +1,46 @@
+AC: 17
+CR: 10 (5,900 XP)
+HP: 147 (14d10 + 70)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 11
+        (2d6 + 4) piercing damage.'
+    Claw: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 9
+        (2d4 + 4) slashing damage.'
+    Multiattack: 'The gargoyle makes five attacks: one with its bite and four with
+        its claws.'
+alignment: CE
+book: Tomb of Annihilation
+charisma: '9'
+condition_immunities:
+- exhaustion, petrified, poisoned
+constitution: '20'
+damage_immunities:
+- poison
+dexterity: '11'
+intelligence: '6'
+languages:
+- Terran
+name: Giant Four-Armed Gargoyle
+page: 221
+perception: '+4'
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks not made with adamantine
+    weapons
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Large
+skills:
+    perception: proficient
+speed:
+- 30 ft
+- fly 60 ft
+strength: '19'
+tags: []
+traits:
+    False Appearance: While the gargoyle remains motionless, it is indistinguishable
+        from an inanimate statue.
+type: elemental
+wisdom: '11'

@@ -1,0 +1,55 @@
+AC: 13
+CR: 3 (700 XP)
+HP: 58 (9d8 + 18)
+actions:
+    Clawed Gauntlet (Humanoid Form Only): 'Melee Weapon Attack: +5+1d4 + 3 to hit,
+        reach 5 ft., one target. Hit: 5 (1d4 + 3) slashing damage.'
+    Tusk (Boar Form Only): 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one
+        target. Hit: 6 (1d6 + 3) slashing damage.'
+alignment: S
+book: Dragon of Icespire Peak
+charisma: 12 (+1)
+constitution: 14 (+2)
+dexterity: 13 (+1)
+hit points: 9d8 + 18
+intelligence: 9 (-1)
+languages:
+- Common
+- Orc
+name: Anchorite of Talos
+nature: '+1'
+page: 51
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Medium
+skills:
+    nature: proficient
+    stealth: proficient
+    survival: proficient
+speed:
+- 30 ft
+stealth: '+3'
+strength: 16 (+3)
+survival: '+4'
+tags:
+- half-orc
+traits:
+    Shapechanger: The anchorite can use its action to polymorph into a boar or back
+        into its true form, which is humanoid. Its statistics are the same in each
+        form. Any equipment it is wearing or carrying isn't transformed. It reverts
+        to its true form if it dies.
+    spellcasting:
+        ability: wisdom
+        spells:
+            1/day:
+            - augury
+            - bless
+            - lightning bolt
+            - revivify
+            3/day:
+            - thunderwave
+        type: innate
+type: humanoid
+wisdom: 15 (+2)

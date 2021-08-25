@@ -1,0 +1,37 @@
+AC: 14
+CR: 6 (2,300 XP)
+HP: 105 (10d12 + 40)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one creature. Hit:
+        15 (3d6 + 5) piercing damage, and the giant magically regains hit points equal
+        to the damage dealt.'
+    Fist: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit:
+        18 (3d8 + 5) bludgeoning damage.'
+alignment: CE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '5'
+condition_immunities:
+- frightened
+constitution: '18'
+dexterity: '10'
+intelligence: '5'
+languages:
+- Giant
+name: Mouth of Grolantor
+page: 149
+perception: '+1'
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Huge
+skills:
+    perception: proficient
+speed:
+- 50 ft
+strength: '21'
+tags:
+- hill
+traits:
+    Mouth of Madness: The giant is immune to confusion spells and similar magic.
+type: giant
+wisdom: '7'

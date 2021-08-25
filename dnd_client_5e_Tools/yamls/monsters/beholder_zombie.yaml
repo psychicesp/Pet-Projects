@@ -1,0 +1,41 @@
+AC: 15
+CR: 5 (1,800 XP)
+HP: 93 (11d10 + 33)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d6 + 0 to hit, reach 5 ft., one target. Hit: 14
+        (4d6) piercing damage.'
+    Eye Ray: The zombie uses a random magical eye ray, choosing a target that it can
+        see within 60 feet of it.
+alignment: NE
+book: Monster Manual
+charisma: '5'
+condition_immunities:
+- poisoned, prone
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '8'
+intelligence: '3'
+languages:
+- understands Deep Speech and Undercommon but can\'t speak
+name: Beholder Zombie
+page: 316
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 9
+size: Large
+skills: {}
+speed:
+- 0 ft
+- fly 20 ft. (hover)
+strength: '10'
+tags: []
+traits:
+    Undead Fortitude: If damage reduces the zombie to 0 hit points, it must make a
+        Constitution saving throw with a DC of 5 + the damage taken, unless the damage
+        is radiant or from a critical hit. On a success, the zombie drops to 1 hit
+        point instead.
+type: undead
+wisdom: '8'

@@ -1,0 +1,47 @@
+AC: 15
+CR: 7 (2,900 XP)
+HP: 73 (7d10 + 35)
+actions:
+    Magical Strike: 'Melee Spell Attack: +8+1d6 + 5 to hit, reach 10 ft., one target.
+        Hit: 22 (5d6 + 5) poison damage.'
+    Multiattack: The living spell makes two Magical Strike attacks.
+    Spell Mimicry (Recharge 5xe2x80x936): The living spell creates a 40-foot-diameter
+        sphere of fog within 60 feet of it (the fog spreads around corners). When
+        a creature enters the fog for the first time on a turn or starts its turn
+        there, it must make a DC 16+1d6 + 13 Constitution saving throw, taking 22
+        (5d8) poison damage on a failed save, or half as much damage on a successful
+        one.
+alignment: U
+book: 'Eberron: Rising from the Last War'
+charisma: '6'
+condition_immunities:
+- blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone
+constitution: '20'
+damage_immunities:
+- poison
+dexterity: '15'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Living Cloudkill
+page: 299
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Large
+skills: {}
+speed:
+- 25 ft
+- fly 25 ft
+strength: '10'
+tags: []
+traits:
+    Amorphous: The living spell can move through a space as narrow as 1 inch wide
+        without squeezing.
+    Magic Resistance: The living spell has advantage on saving throws against spells
+        and other magical effects.
+type: construct
+wisdom: '11'

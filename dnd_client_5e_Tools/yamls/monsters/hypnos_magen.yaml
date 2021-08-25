@@ -1,0 +1,44 @@
+AC: 12
+CR: 1 (200 XP)
+HP: 34 (4d8 + 16)
+actions:
+    Psychic Lash: The magen's eyes glow silver as it targets one creature that it
+        can see within 60 feet of it. The target must succeed on a DC 12+1d4 + 10
+        Wisdom saving throw or take 11 (2d10) psychic damage.
+    Suggestion: The magen casts the suggestion spell (save DC 12+1d4 + 10), requiring
+        no material components. The target must be a creature that the magen can communicate
+        with telepathically. If it succeeds on its saving throw, the target is immune
+        to this magen's suggestion spell for the next 24 hours. The magen's spellcasting
+        ability is Intelligence.
+alignment: U
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '7'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, poisoned
+constitution: '18'
+damage_immunities:
+- poison
+dexterity: '14'
+intelligence: '14'
+languages:
+- understands the languages of its creator but can't speak
+- telepathy 30 ft.
+name: Hypnos Magen
+page: 301
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '10'
+tags: []
+traits:
+    Fiery End: If the magen dies, its body disintegrates in a harmless burst of fire
+        and smoke, leaving behind anything it was wearing or carrying.
+    Magic Resistance: The magen has advantage on saving throws against spells and
+        other magical effects.
+    Unusual Nature: The magen doesn't require air, food, drink, or sleep.
+type: construct
+wisdom: '10'

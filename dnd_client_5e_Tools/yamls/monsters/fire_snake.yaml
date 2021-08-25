@@ -1,0 +1,40 @@
+AC: 14
+CR: 1 (200 XP)
+HP: 22 (5d8)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3
+        (1d4 + 1) piercing damage plus 3 (1d6) fire damage.'
+    Multiattack: 'The snake makes two attacks: one with its bite and one with its
+        tail.'
+    Tail: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3
+        (1d4 + 1) bludgeoning damage plus 3 (1d6) fire damage.'
+alignment: NE
+book: Monster Manual
+charisma: '8'
+constitution: '11'
+damage_immunities:
+- fire
+dexterity: '14'
+hit: 5d8
+intelligence: '7'
+languages:
+- understands Ignan but can\'t speak
+name: Fire Snake
+page: 265
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '12'
+tags: []
+traits:
+    Heated Body: A creature that touches the snake or hits it with a melee attack
+        while within 5 feet of it takes 3 (1d6) fire damage.
+type: elemental
+wisdom: '10'

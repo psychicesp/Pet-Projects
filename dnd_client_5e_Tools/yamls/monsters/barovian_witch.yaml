@@ -1,0 +1,49 @@
+AC: 10
+CR: 1/2 (100 XP)
+HP: 16 (3d8 + 3)
+actions:
+    Claws (Requires Alter Self): 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5
+        ft., one target. Hit: 4 (1d6 + 1) slashing damage. This attack is magical.'
+    Dagger: 'Melee or Ranged Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 2 (1d4) piercing damage.'
+alignment: CE
+arcana: '+4'
+book: Curse of Strahd
+charisma: '12'
+constitution: '13'
+dexterity: '11'
+intelligence: '14'
+languages:
+- Common
+name: Barovian Witch
+page: 229
+perception: '+2'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Medium
+skills:
+    arcana: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '7'
+tags:
+- human
+traits:
+    spellcasting:
+        ability: intelligence
+        level: 3
+        spells:
+        - mage hand
+        - prestidigitation
+        - ray of frost
+        - ray of sickness
+        - sleep
+        - Tasha's hideous laughter
+        - alter self
+        - invisibility
+        type: wizard
+type: humanoid
+wisdom: '11'

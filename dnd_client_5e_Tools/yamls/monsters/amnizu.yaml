@@ -1,0 +1,83 @@
+AC: 21
+CR: 18 (20,000 XP)
+HP: 202 (27d8 + 81)
+actions:
+    Disruptive Touch: 'Melee Spell Attack: +11+1d12 + 5 to hit, reach 5 ft., one target.
+        Hit: 44 (8d10) necrotic damage.'
+    Forgetfulness (Recharge 6): The amnizu targets one creature it can see within
+        60 feet of it. That creature must make a DC 18+1d12 + 12 Intelligence saving
+        throw and on a failure the target is stunned for 1 minute. A stunned creature
+        repeats the saving throw at the end of each of its turns, ending the effect
+        on itself on a success. If the target remains stunned for the full minute,
+        it forgets everything it sensed, experienced, and learned during the last
+        5 hours.
+    Multiattack: 'The amnizu uses Poison Mind. It also makes two attacks: one with
+        its whip and one with its Disruptive Touch.'
+    Poison Mind: The amnizu targets one or two creatures that it can see within 60
+        feet of it. Each target must succeed on a DC 19+1d12 + 13 Wisdom saving throw
+        or take 26 (4d12) necrotic damage and is blinded until the start of the amnizu's
+        next turn.
+    Taskmaster Whip: 'Melee Weapon Attack: +11+1d12 + 5 to hit, reach 10 ft., one
+        target. Hit: 10 (2d4 + 5) slashing damage plus 33 (6d10) force damage.'
+alignment: LE
+book: "Mordenkainen\u2019s Tome of Foes"
+charisma: 18 (+4)
+charisma save: '+10'
+condition_immunities:
+- charmed, poisoned
+constitution: 16 (+3)
+constitution save: '+9'
+damage_immunities:
+- fire, poison
+dexterity: 13 (+1)
+dexterity save: '+7'
+hit points: 27d8 + 81
+intelligence: 20 (+5)
+languages:
+- Common
+- Infernal
+- telepathy 1
+- 000 ft.
+name: Amnizu
+page: 164
+perception: '+7'
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 17
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 30 ft
+- fly 40 ft
+strength: 11 (+0)
+tags:
+- devil
+traits:
+    Devil's Sight: Magical darkness doesn't impede the amnizu's darkvision.
+    Magic Resistance: The amnizu has advantage on saving throws against spells and
+        other magical effects.
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - dominate monster
+            - feeblemind
+            3/day:
+            - dominate person
+            - fireball
+            at will:
+            - charm person
+            - command
+        type: innate
+type: fiend
+wisdom: 12 (+1)
+wisdom save: '+7'

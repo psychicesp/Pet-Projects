@@ -1,0 +1,58 @@
+AC: 15
+CR: 6 (2,300 XP)
+HP: 84 (13d8 + 26)
+actions:
+    Quarterstaff: 'Melee Weapon Attack: +4+1d6 + 1 to hit, reach 5 ft., one target.
+        Hit: 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if
+        used with two hands.'
+alignment: LN
+arcana: '+6'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '13'
+constitution: '14'
+dexterity: '12'
+intelligence: '17'
+languages:
+- Common plus any one language
+name: Lawmage
+page: 228
+perception: '+5'
+persuasion: '+4'
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- passive Perception 15
+size: Medium
+skills:
+    arcana: proficient
+    perception: proficient
+    persuasion: proficient
+speed:
+- 30 ft
+strength: '13'
+tags:
+- any
+traits:
+    spellcasting:
+        ability: intelligence
+        level: 8
+        spells:
+        - fire bolt
+        - friends
+        - light
+        - message
+        - alarm
+        - expeditious retreat
+        - shield
+        - arcane lock
+        - detect thoughts
+        - hold person
+        - clairvoyance
+        - dispel magic
+        - slow
+        - locate creature
+        - stoneskin
+        type: wizard
+type: humanoid
+wisdom: '14'

@@ -1,0 +1,38 @@
+AC: 13
+CR: 1/2 (100 XP)
+HP: 22 (3d10 + 6)
+actions:
+    Hooves: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        10 (2d6 + 3) bludgeoning damage.'
+alignment: N
+book: 'Eberron: Rising from the Last War'
+charisma: '11'
+constitution: '14'
+dexterity: '16'
+intelligence: '10'
+languages:
+- understands Common
+- Elvish
+- and Sylvan but can't speak
+name: Valenar Steed
+page: 313
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Large
+skills:
+    perception: proficient
+speed:
+- 60 ft
+strength: '14'
+tags: []
+traits:
+    Bonding: The steed can magically bond with one creature it can see, immediately
+        after spending at least 1 hour observing that creature while within 30 feet
+        of it. The bond lasts until the steed bonds with a different creature or until
+        the bonded creature dies. While bonded, the steed and the bonded creature
+        can communicate telepathically with each other at a distance of up to 100
+        feet.
+type: fey
+wisdom: '15'

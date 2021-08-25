@@ -1,0 +1,36 @@
+AC: 14
+CR: 2 (450 XP)
+HP: 52 (7d8 + 21)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7
+        (1d8 + 3) piercing damage.'
+    Multiattack: The drake attacks twice, once with its bite and once with its tail.
+    Tail: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) bludgeoning damage.'
+alignment: U
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '7'
+constitution: '16'
+dexterity: '11'
+intelligence: '4'
+languages:
+- understands Draconic but can\'t speak it
+name: Red Guard Drake
+page: 158
+perception: '+2'
+resistances:
+- fire
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 30 ft
+- climb 30 ft
+strength: '16'
+tags: []
+type: dragon
+wisdom: '10'

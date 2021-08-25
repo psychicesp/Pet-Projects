@@ -1,0 +1,36 @@
+AC: 12
+CR: 0 (0 or 10 XP)
+HP: 2 (1d4)
+actions:
+    Claw: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3
+        (1d4 + 1) bludgeoning or slashing damage (claw''s choice).'
+alignment: NE
+book: Monster Manual
+charisma: '4'
+condition_immunities:
+- charmed, exhaustion, poisoned
+constitution: '11'
+damage_immunities:
+- poison
+dexterity: '14'
+hit: 1d4
+intelligence: '5'
+languages:
+- understands Common but can\'t speak
+name: Crawling Claw
+page: 44
+saving_throws: {}
+senses:
+- blindsight 30 ft. (blind beyond this radius)
+- passive Perception 10
+size: Tiny
+skills: {}
+speed:
+- 20 ft
+- climb 20 ft
+strength: '13'
+tags: []
+traits:
+    Turn Immunity: The claw is immune to effects that turn undead.
+type: undead
+wisdom: '10'

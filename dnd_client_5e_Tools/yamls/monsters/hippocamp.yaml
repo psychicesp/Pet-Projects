@@ -1,0 +1,40 @@
+AC: 13
+CR: 1/2 (100 XP)
+HP: 22 (4d10)
+actions:
+    Hooves: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        9 (2d6 + 2) bludgeoning damage.'
+    Ram: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) bludgeoning damage.'
+alignment: CG
+book: Mythic Odysseys of Theros
+charisma: '6'
+constitution: '11'
+dexterity: '15'
+hit: 4d10
+intelligence: '5'
+languages:
+- \xe2\x80\x94
+name: Hippocamp
+page: 227
+resistances:
+- cold
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Large
+skills: {}
+speed:
+- 20 ft
+- swim 50 ft
+strength: '14'
+tags: []
+traits:
+    Amphibious: The hippocamp can breathe air and water.
+    Charge: If the hippocamp moves at least 20 feet straight toward a target and then
+        hits it with a ram attack on the same turn, the target takes an extra 7 (2d6)
+        bludgeoning damage. If the target is a creature, it must succeed on a DC 12+1d4
+        + 10 Strength saving throw or be knocked prone.
+type: monstrosity
+wisdom: '10'

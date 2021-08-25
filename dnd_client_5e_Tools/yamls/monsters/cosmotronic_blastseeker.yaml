@@ -1,0 +1,52 @@
+AC: 15
+CR: 4 (1,100 XP)
+HP: 37 (5d8 + 15)
+actions:
+    Warhammer: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        6 (1d8 + 2) bludgeoning damage, or 7 (1d10 + 2) bludgeoning damage if used
+        with two hands.'
+alignment: CN
+arcana: '+6'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '12'
+constitution: '16'
+dexterity: '15'
+intelligence: '18'
+intimidation: '+3'
+languages:
+- any one language (usually Common)
+name: Cosmotronic Blastseeker
+page: 242
+perception: '+1'
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+senses:
+- passive Perception 11
+size: Medium
+skills:
+    arcana: proficient
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '14'
+tags:
+- any
+traits:
+    Empowered Spell (3/Day): When the blastseeker rolls damage for a spell, it can
+        reroll up to four dice of damage. It must use the new dice.
+    Tides of Chaos (1/Day): The blastseeker makes one attack roll, ability check,
+        or saving throw with advantage.
+    spellcasting:
+        ability: intelligence
+        spells:
+            2/day:
+            - fireball
+            3/day:
+            - scorching ray
+            - shield
+            - thunderwave
+        type: innate
+type: humanoid
+wisdom: '9'

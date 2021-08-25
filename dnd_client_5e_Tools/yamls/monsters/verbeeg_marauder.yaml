@@ -1,0 +1,41 @@
+AC: 14
+CR: 4 (1,100 XP)
+HP: 85 (10d10 + 30)
+actions:
+    Multiattack: The verbeeg makes two melee attacks.
+    Spear: 'Melee or Ranged Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 14 (3d6 + 4) piercing damage, or 17 (3d8 + 4)
+        piercing damage if used to make a ranged attack or used with two hands to
+        make a melee attack.'
+alignment: NE
+athletics: '+6'
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '9'
+constitution: '16'
+dexterity: '11'
+intelligence: '11'
+languages:
+- Common
+- Giant
+name: Verbeeg Marauder
+page: 311
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+senses:
+- passive Perception 10
+size: Large
+skills:
+    animal handling: proficient
+    athletics: proficient
+    stealth: proficient
+speed:
+- 40 ft
+stealth: '+2'
+strength: '19'
+tags: []
+traits:
+    Simple Weapon Wielder: A simple weapon deals one extra die of its damage when
+        the verbeeg hits with it (included in the attack).
+type: giant
+wisdom: '10'

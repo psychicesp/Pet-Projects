@@ -1,0 +1,64 @@
+AC: 20
+CR: 5 (1,800 XP)
+HP: 84 (13d8 + 26)
+actions:
+    Greatsword: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target.
+        Hit: 11 (2d6 + 4) slashing damage.'
+    Longbow: 'Ranged Weapon Attack: +4+1d6 + 1 to hit, range 150/600 ft., one target.
+        Hit: 5 (1d8 + 1) piercing damage.'
+    Multiattack: The knight attacks twice with one of its weapons.
+alignment: ANA
+athletics: '+7'
+book: 'Eberron: Rising from the Last War'
+charisma: '16'
+constitution: '14'
+deception: '+6'
+dexterity: '13'
+intelligence: '12'
+intimidation: '+6'
+languages:
+- any one language (usually Common)
+name: Bone Knight
+page: 316
+resistances:
+- necrotic, poison
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    athletics: proficient
+    deception: proficient
+    intimidation: proficient
+speed:
+- 30 ft
+strength: '18'
+tags:
+- any
+traits:
+    Commander of Bones: As a bonus action, the knight can target one skeleton or zombie
+        it can see within 30 feet of it. The target must make a DC 14+1d6 + 11 Wisdom
+        saving throw. On a failed save, the target must obey the knight's commands
+        until the knight dies or until the knight releases it as a bonus action. The
+        knight can command up to twelve undead at a time this way.
+    Master of the Pallid Banner: While within 60 feet of the knight, any undead ally
+        of the knight has advantage on saving throws against any effect that turns
+        undead.
+    spellcasting:
+        ability: charisma
+        level: 8
+        spells:
+        - command
+        - compelled duel
+        - hellish rebuke
+        - wrathful smite
+        - branding smite
+        - crown of madness
+        - darkness
+        - find steed
+        - magic weapon
+        type: paladin
+type: humanoid
+wisdom: '14'

@@ -1,0 +1,39 @@
+AC: 13
+CR: 6 (2,300 XP)
+HP: 110 (13d10 + 39)
+actions:
+    Bite: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one creature. Hit:
+        11 (2d6 + 4) piercing damage.'
+    Claws: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        13 (2d8 + 4) slashing damage.'
+    Multiattack: 'The wyvern makes two attacks: one with its bite and one with its
+        stinger. While flying, it can use its claws in place of one other attack.'
+    Stinger: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one creature.
+        Hit: 11 (2d6 + 4) piercing damage. The target must make a DC 15+1d6 + 12 Constitution
+        saving throw, taking 24 (7d6) poison damage on a failed save, or half as much
+        damage on a successful one.'
+alignment: U
+book: Monster Manual
+charisma: '6'
+constitution: '16'
+dexterity: '10'
+intelligence: '5'
+languages:
+- \xe2\x80\x94
+name: Wyvern
+page: 303
+perception: '+4'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Large
+skills:
+    perception: proficient
+speed:
+- 20 ft
+- fly 80 ft
+strength: '19'
+tags: []
+type: dragon
+wisdom: '12'

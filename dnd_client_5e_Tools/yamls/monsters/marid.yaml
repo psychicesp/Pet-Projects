@@ -1,0 +1,68 @@
+AC: 17
+CR: 11 (7,200 XP)
+HP: 229 (17d10 + 136)
+actions:
+    Multiattack: The marid makes two trident attacks.
+    Trident: 'Melee or Ranged Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6)
+        piercing damage if used with two hands to make a melee attack.'
+    Water Jet: The marid magically shoots water in a 60-foot line that is 5 feet wide.
+        Each creature in that line must make a DC 16+1d8 + 12 Dexterity saving throw.
+        On a failure, a target takes 21 (6d6) bludgeoning damage and, if it is Huge
+        or smaller, is pushed up to 20 feet away from the marid and knocked prone.
+        On a success, a target takes half the bludgeoning damage, but is neither pushed
+        nor knocked prone.
+alignment: CN
+book: Monster Manual
+charisma: '18'
+constitution: '26'
+dexterity: '12'
+intelligence: '18'
+languages:
+- Aquan
+name: Marid
+page: 146
+resistances:
+- acid, cold, lightning
+saving_throws:
+    charisma: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 30 ft.
+- darkvision 120 ft.
+- passive Perception 13
+size: Large
+skills: {}
+speed:
+- 30 ft
+- fly 60 ft
+- swim 90 ft
+strength: '22'
+tags: []
+traits:
+    Amphibious: The marid can breathe air and water.
+    Elemental Demise: If the marid dies, its body disintegrates into a burst of water
+        and foam, leaving behind only equipment the marid was wearing or carrying.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - conjure elemental
+            - control water
+            - gaseous form
+            - invisibility
+            - plane shift
+            3/day:
+            - tongues
+            - water breathing
+            - water walk
+            at will:
+            - create or destroy water
+            - detect evil and good
+            - detect magic
+            - fog cloud
+            - purify food and drink
+        type: innate
+type: elemental
+wisdom: '17'

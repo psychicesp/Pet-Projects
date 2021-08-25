@@ -1,0 +1,40 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 22 (4d8 + 4)
+acrobatics: '+7'
+actions:
+    Barbed Pole: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 7 (1d8 + 3) piercing damage, and the acrobat can jump up to 20 feet.
+        This movement doesn''t provoke opportunity attacks.'
+    Multiattack: The acrobat makes two attacks with its barbed pole.
+alignment: CE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '15'
+constitution: '12'
+dexterity: '17'
+intelligence: '10'
+languages:
+- any one language (usually Common)
+name: Rakdos Performer, High-Wire Acrobat
+page: 249
+performance: '+4'
+saving_throws:
+    charisma: proficient
+    dexterity: proficient
+senses:
+- passive Perception 9
+size: Medium
+skills:
+    acrobatics: expert
+    performance: proficient
+speed:
+- 40 ft
+- climb 30 ft
+strength: '13'
+tags:
+- any
+traits:
+    Nimble: The performer can take the Disengage action as a bonus action on each
+        of its turns.
+type: humanoid
+wisdom: '8'

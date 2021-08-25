@@ -1,0 +1,56 @@
+AC: 10
+CR: 5 (1,800 XP)
+HP: 75 (10d8 + 30)
+actions:
+    Thunderous Touch: 'Melee Spell Attack: +5+1d6 + 2 to hit, reach 5 ft., one creature.
+        Hit: 27 (5d10) thunder damage.'
+    Voice of the Kraken (Recharges after a Short or Long Rest): A kraken speaks through
+        the priest with a thunderous voice audible within 300 feet. Creatures of the
+        priest's choice that can hear the kraken's words (which are spoken in Abyssal,
+        Infernal, or Primordial) must succeed on a DC 14+1d6 + 11 Charisma saving
+        throw or be frightened for 1 minute. A frightened target can repeat the saving
+        throw at the end of each of its turns, ending the effect on itself on a success.
+alignment: AEA
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '14'
+constitution: '16'
+dexterity: '10'
+intelligence: '10'
+languages:
+- any two languages
+name: Kraken Priest
+page: 215
+perception: '+5'
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- passive Perception 15
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 30 ft
+- swim 30 ft
+strength: '12'
+tags:
+- any
+traits:
+    Amphibious: The priest can breathe air and water.
+    spellcasting:
+        ability: wisdom
+        spells:
+            1/day:
+            - call lightning
+            - Evard\'s black tentacles
+            3/day:
+            - control water
+            - darkness
+            - water breathing
+            - water walk
+            at will:
+            - command
+            - create or destroy water
+        type: innate
+type: humanoid
+wisdom: '15'

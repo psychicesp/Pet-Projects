@@ -1,0 +1,98 @@
+AC: 17
+CR: 5 (1,800 XP) or 7 (2,900 XP) whe part of a cove
+HP: 112 (15d8 + 45)
+actions:
+    Change Shape: The hag magically polymorphs into a Small or Medium female humanoid,
+        or back into her true form. Her statistics are the same in each form. Any
+        equipment she is wearing or carrying isn't transformed. She reverts to her
+        true form if she dies.
+    Claws (Hag Form Only): 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one
+        target. Hit: 13 (2d8 + 4) slashing damage.'
+    Etherealness: The hag magically enters the Ethereal Plane from the Material Plane,
+        or vice versa. To do so, the hag must have a heartstone in her possession.
+    Nightmare Haunting (1/Day): While on the Ethereal Plane, the hag magically touches
+        a sleeping humanoid on the Material Plane. A protection from evil and good
+        spell cast on the target prevents this contact, as does a magic circle. As
+        long as the contact persists, the target has dreadful visions. If these visions
+        last for at least 1 hour, the target gains no benefit from its rest, and its
+        hit point maximum is reduced by 5 (1d10). If this effect reduces the target's
+        hit point maximum to 0, the target dies, and if the target was evil, its soul
+        is trapped in the hag's soul bag. The reduction to the target's hit point
+        maximum lasts until removed by the greater restoration spell or similar magic.
+alignment: NE
+book: Monster Manual
+charisma: '16'
+condition_immunities:
+- charmed
+constitution: '16'
+deception: '+7'
+dexterity: '15'
+in_lair:
+    CR_increase: 1
+    actions:
+    - Until initiative count 20 on the next round, the hag can pass through solid
+        walls, doors, ceilings, and floors as if the surfaces weren't there.
+    - The hag targets any number of doors and windows that she can see, causing each
+        one to either open or close as she wishes. Closed doors can be magically locked
+        (requiring a successful DC 20+1d6 + 17 Strength check to force open) until
+        she chooses to make them unlocked, or until she uses this lair action again
+        to open them.
+    - One creature the hag can see within 120 feet of her must succeed on a DC 15
+        Charisma saving throw or be banished to a prison demiplane. To escape, the
+        creature must use its action to make a Charisma check contested by the hag's.
+        If the creature wins, it escapes the demiplane. Otherwise, the effect ends
+        on initiative count 20 on the next round. When the effect ends, the creature
+        reappears in the space it left or in the nearest unoccupied space if that
+        one is occupied.
+    - The hag targets up to three creatures that she can see within 60 feet of her.
+        Each target must succeed on a DC 15 Constitution saving throw or be flung
+        up to 30 feet through the air. A creature that strikes a solid object or is
+        released in midair takes 1d6 bludgeoning damage for every 10 feet moved or
+        fallen.
+insight: '+6'
+intelligence: '16'
+languages:
+- Abyssal
+- Common
+- Infernal
+- Primordial
+name: Night Hag
+page: 178
+perception: '+6'
+resistances:
+- cold, fire
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 16
+size: Medium
+skills:
+    deception: proficient
+    insight: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+6'
+strength: '18'
+tags: []
+traits:
+    Magic Resistance: The hag has advantage on saving throws against spells and other
+        magical effects.
+    Night Hag Items: A night hag carries two very rare magic items that she must craft
+        for herself. If either object is lost, the night hag will go to great lengths
+        to retrieve it, as creating a new tool takes time and effort.
+    spellcasting:
+        ability: charisma
+        spells:
+            2/day:
+            - plane shift
+            - ray of enfeeblement
+            - sleep
+            at will:
+            - detect magic
+            - magic missile
+        type: innate
+type: fiend
+wisdom: '14'

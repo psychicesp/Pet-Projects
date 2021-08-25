@@ -1,0 +1,35 @@
+AC: 13
+CR: 2 (450 XP)
+HP: 39 (6d8 + 12)
+actions:
+    Javelin: 'Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.'
+    Multiattack: The hybrid makes two javelin attacks. It can replace one javelin
+        attack with Spit Acid.
+    Spit Acid: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 20/60 ft., one target.
+        Hit: 10 (4d4) acid damage.'
+alignment: NG
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '11'
+constitution: '14'
+dexterity: '16'
+intelligence: '11'
+languages:
+- Common plus any one language
+name: Hybrid Flier
+page: 217
+resistances:
+- acid
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+- fly 40 ft
+strength: '12'
+tags:
+- Simic
+type: humanoid
+wisdom: '10'

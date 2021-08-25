@@ -1,0 +1,53 @@
+AC: 15
+CR: 4 (1,100 XP)
+HP: 78 (12d8 + 24)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) piercing damage.'
+    Claws: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        5 (1d4 + 3) slashing damage.'
+    Multiattack: 'The lizardfolk makes two attacks: one with its bite and one with
+        its claws or trident or two melee attacks with its trident.'
+    Trident: 'Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing
+        damage if used with two hands to make a melee attack.'
+alignment: CE
+book: Monster Manual
+charisma: '15'
+condition_immunities:
+- frightened
+constitution: '15'
+dexterity: '12'
+intelligence: '11'
+languages:
+- Abyssal
+- Draconic
+name: Lizard Queen
+page: 205
+perception: '+4'
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: expert
+    stealth: expert
+    survival: expert
+speed:
+- 30 ft
+- swim 30 ft
+stealth: '+5'
+strength: '17'
+survival: '+4'
+tags:
+- lizardfolk
+traits:
+    Hold Breath: The lizardfolk can hold its breath for 15 minutes.
+    Skewer: Once per turn, when the lizardfolk makes a melee attack with its trident
+        and hits, the target takes an extra 10 (3d6) damage, and the lizardfolk gains
+        temporary hit points equal to the extra damage dealt.
+type: humanoid
+wisdom: '11'

@@ -1,0 +1,43 @@
+AC: 13
+CR: 1/4 (50 XP)
+HP: 9 (2d6 + 2)
+actions:
+    Claws: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        5 (1d6 + 2) slashing damage.'
+    Sling: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target.
+        Hit: 4 (1d4 + 2) bludgeoning damage.'
+alignment: N
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '7'
+constitution: '13'
+dexterity: '14'
+intelligence: '6'
+languages:
+- Vegepygmy
+name: Vegepygmy
+page: 196
+perception: '+2'
+resistances:
+- lightning, piercing
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Small
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+4'
+strength: '7'
+tags: []
+traits:
+    Plant Camouflage: The vegepygmy has advantage on Dexterity (Stealth) checks it
+        makes in any terrain with ample obscuring plant life.
+    Regeneration: The vegepygmy regains 3 hit points at the start of its turn. If
+        it takes cold, fire, or necrotic damage, this trait doesn't function at the
+        start of the vegepygmy's next turn. The vegepygmy dies only if it starts its
+        turn with 0 hit points and doesn't regenerate.
+type: plant
+wisdom: '11'

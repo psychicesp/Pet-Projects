@@ -1,0 +1,54 @@
+AC: ''
+CR: 2 (450 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Dagger: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.'
+    Multiattack: The fanatic makes two melee attacks.
+alignment: ANA
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '14'
+constitution: '12'
+deception: '+4'
+dexterity: '14'
+intelligence: '10'
+languages:
+- Common
+- Infernal
+name: Knight of the Black Sword
+page: 259
+persuasion: '+4'
+religion: '+2'
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Medium
+skills:
+    deception: proficient
+    persuasion: proficient
+    religion: proficient
+speed:
+- 30 ft
+strength: '11'
+tags:
+- any
+traits:
+    Dark Devotion: The fanatic has advantage on saving throws against being charmed
+        or frightened.
+    Icy Doom: When the cultist dies, its corpse freezes for 9 days, during which time
+        it can't be thawed, harmed by fire, animated, or raised from the dead.
+    spellcasting:
+        ability: wisdom
+        level: 4
+        spells:
+        - light
+        - sacred flame
+        - thaumaturgy
+        - command
+        - inflict wounds
+        - shield of faith
+        - hold person
+        - spiritual weapon
+        type: cleric
+type: humanoid
+wisdom: '13'

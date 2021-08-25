@@ -1,0 +1,40 @@
+AC: 11
+CR: 1/8 (25 XP)
+HP: 9 (2d8)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3
+        (1d4 + 1) piercing damage.'
+    Claws: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit:
+        3 (1d4 + 1) slashing damage.'
+    Multiattack: 'The harpy makes two melee attacks: one with its bite and one with
+        its claws.'
+alignment: CE
+book: Mythic Odysseys of Theros
+charisma: '13'
+constitution: '10'
+dexterity: '13'
+hit: 2d8
+intelligence: '6'
+intimidation: '+3'
+languages:
+- Common
+name: Blood-Toll Harpy
+page: 227
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    intimidation: proficient
+speed:
+- 20 ft
+- fly 40 ft
+strength: '12'
+tags: []
+traits:
+    Blood Frenzy: The harpy has advantage on melee attack rolls against any creature
+        that doesn't have all its hit points.
+    Dark Devotion: The harpy has advantage on saving throws against being charmed
+        or frightened.
+type: monstrosity
+wisdom: '11'

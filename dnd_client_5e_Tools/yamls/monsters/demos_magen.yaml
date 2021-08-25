@@ -1,0 +1,40 @@
+AC: 16
+CR: 2 (450 XP)
+HP: 51 (6d8 + 24)
+actions:
+    Greatsword: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 9 (2d6 + 2) slashing damage.'
+    Light Crossbow: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 80/320 ft., one
+        target. Hit: 6 (1d8 + 2) piercing damage.'
+    Multiattack: The magen makes two melee attacks.
+alignment: U
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '7'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, poisoned
+constitution: '18'
+damage_immunities:
+- poison
+dexterity: '14'
+intelligence: '10'
+languages:
+- understands the languages of its creator but can't speak
+name: Demos Magen
+page: 300
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '14'
+tags: []
+traits:
+    Fiery End: If the magen dies, its body disintegrates in a harmless burst of fire
+        and smoke, leaving behind anything it was wearing or carrying.
+    Magic Resistance: The magen has advantage on saving throws against spells and
+        other magical effects.
+    Unusual Nature: The magen doesn't require air, food, drink, or sleep.
+type: construct
+wisdom: '10'

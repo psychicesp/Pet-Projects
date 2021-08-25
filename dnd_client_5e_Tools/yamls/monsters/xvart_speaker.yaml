@@ -1,0 +1,42 @@
+AC: 13
+CR: 1/8 (25 XP)
+HP: 7 (2d6)
+actions:
+    Shortsword: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) piercing damage.'
+    Sling: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target.
+        Hit: 4 (1d4 + 2) bludgeoning damage.'
+alignment: CE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '7'
+constitution: '10'
+dexterity: '14'
+hit: 2d6
+intelligence: '13'
+languages:
+- Abyssal and one additional language (usually Common or Goblin)
+name: Xvart Speaker
+page: 200
+saving_throws: {}
+senses:
+- darkvision 30 ft.
+- passive Perception 8
+size: Small
+skills:
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+4'
+strength: '8'
+tags:
+- xvart
+traits:
+    Low Cunning: The xvart can take the Disengage action as a bonus action on each
+        of its turns.
+    Overbearing Pack: The xvart has advantage on Strength (Athletics) checks to shove
+        a creature if at least one of the xvart's allies is within 5 feet of the target
+        and the ally isn't incapacitated.
+    Raxivort's Tongue: The xvart can communicate with ordinary bats and rats, as well
+        as giant bats and giant rats.
+type: humanoid
+wisdom: '7'

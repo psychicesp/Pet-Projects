@@ -1,0 +1,43 @@
+AC: 12
+CR: 1 (200 XP)
+HP: 22 (3d8 + 9)
+actions:
+    Slam: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) bludgeoning damage plus 5 (2d4) lightning damage. If the target
+        is a creature, it must succeed on a DC 13+1d4 + 11 Constitution saving throw
+        or lose the ability to use reactions until the start of the weird''s next
+        turn.'
+alignment: CN
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '5'
+condition_immunities:
+- exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+constitution: '17'
+damage_immunities:
+- poison
+dexterity: '10'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Galvanice Weird
+page: 209
+resistances:
+- cold, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '14'
+tags: []
+traits:
+    Death Burst: When the galvanice weird dies, it explodes in a burst of ice and
+        lightning. Each creature within 10 feet of the exploding weird must make a
+        DC 13+1d4 + 11 Dexterity saving throw, taking 7 (2d6) lightning damage on
+        a failed save, or half as much damage on a successful one.
+type: elemental
+wisdom: '10'

@@ -1,0 +1,99 @@
+40% summoning chance: 40 percent
+AC: 17
+CR: 12 (8,400 XP)
+HP: 104 (16d8 + 32)
+actions:
+    Claws: 'Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one target. Hit:
+        8 (2d4 + 3) slashing damage. The target must make a DC 14+1d8 + 10 Constitution
+        saving throw, taking 10 (3d6) poison damage on a failed save, or half as much
+        damage on a successful one.'
+    Teleport: The arcanaloth magically teleports, along with any equipment it is wearing
+        or carrying, up to 60 feet to an unoccupied space it can see.
+alignment: NE
+arcana: '+13'
+book: Monster Manual
+charisma: 17 (+3)
+charisma save: '+7'
+condition_immunities:
+- charmed, poisoned
+constitution: 14 (+2)
+damage_immunities:
+- acid, poison
+deception: '+11'
+dexterity: 12 (+1)
+dexterity save: '+5'
+hit points: 16d8 + 32
+insight: '+11'
+intelligence: 20 (+5)
+intelligence save: '+9'
+languages:
+- all
+- telepathy 120 ft.
+name: Arcanaloth
+page: 313
+perception: '+7'
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    charisma: proficient
+    dexterity: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 17
+size: Medium
+skills:
+    arcana: expert
+    deception: expert
+    insight: expert
+    perception: proficient
+speed:
+- 30 ft
+- fly 30 ft
+strength: 17 (+3)
+tags:
+- yugoloth
+traits:
+    Magic Resistance: The arcanaloth has advantage on saving throws against spells
+        and other magical effects.
+    Magic Weapons: The arcanaloth's weapon attacks are magical.
+    spellcasting:
+        ability: intelligence
+        spells:
+            1st:
+            - detect magic
+            - identify
+            - shield
+            - Tenser's floating disk
+            2nd:
+            - detect thoughts
+            - mirror image
+            - phantasmal force
+            - suggestion
+            3rd:
+            - counterspell
+            - fear
+            - fireball
+            4th:
+            - banishment
+            - dimension door
+            5th:
+            - contact other plane
+            - hold monster
+            6th:
+            - chain lightning
+            7th:
+            - finger of death
+            8th:
+            - mind blank
+            Cantrips:
+            - fire bolt
+            - mage hand
+            - minor illusion
+            - prestidigitation
+        type: innate
+type: fiend
+wisdom: 16 (+3)
+wisdom save: '+7'

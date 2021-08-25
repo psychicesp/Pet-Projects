@@ -1,0 +1,22 @@
+{
+    "name": "Greater Restoration",
+    "level": 5,
+    "ritual": false,
+    "school": "abjuration",
+    "casting time": "1 action",
+    "range": "Touch",
+    "components": "V, S, M",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "extras": "diamond dust worth at least 100 gp, which the spell consumes",
+    "cost": 100,
+    "description": "You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:One effect that charmed or petrified the targetOne curse, including the target's attunement to a cursed magic itemAny reduction to one of the target's ability scoresOne effect reducing the target's hit point maximum",
+    "classes": [
+        "Artificer",
+        "Bard",
+        "Cleric",
+        "Druid"
+    ],
+    "source": "PHB",
+    "page": 246
+}

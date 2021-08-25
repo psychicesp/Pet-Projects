@@ -1,0 +1,50 @@
+AC: 14
+CR: 8 (3,900 XP)
+HP: 114 (12d10 + 48)
+actions:
+    Bite: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 10
+        (2d6 + 3) piercing damage. If the target is a creature, that creature becomes
+        cursed by the statue. The curse lasts for 10 minutes. While the creature is
+        cursed, the statue has advantage on all attacks against it.'
+    Claws: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit:
+        10 (2d6 + 3) slashing damage.'
+    Multiattack: 'The statue makes three attacks: one with its bite and two with its
+        claws.'
+alignment: U
+book: Ghosts of Saltmarsh
+charisma: '5'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: '18'
+damage_immunities:
+- lightning, poison
+dexterity: '14'
+intelligence: '6'
+languages:
+- understands the languages of its creator but can't speak
+legendary_actions:
+    number: 3
+    options:
+        Bite: ' The statue makes one bite attack.'
+        Blood Reaper: ' All creatures currently cursed by the statue and within 20
+            feet of it take 5 necrotic damage.'
+        Move: ' The statue moves up to its speed without provoking opportunity attacks.'
+name: Vampiric Jade Statue
+page: 256
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Large
+skills: {}
+speed:
+- 30 ft
+strength: '16'
+tags: []
+traits:
+    Immutable Form: The statue is immune to any spell or effect that would alter its
+        form.
+    Legendary Resistance (3/Day): If the statue fails a saving throw, it can choose
+        to succeed instead.
+type: construct
+wisdom: '10'

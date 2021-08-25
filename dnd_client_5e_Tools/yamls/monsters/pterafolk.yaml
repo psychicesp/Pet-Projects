@@ -1,0 +1,42 @@
+AC: 12
+CR: 1 (200 XP)
+HP: 26 (4d10 + 4)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7
+        (2d4 + 2) piercing damage.'
+    Claw: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) slashing damage.'
+    Javelin: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 9 (2d6 + 2) piercing damage.'
+    Multiattack: 'The pterafolk makes three attacks: one with its bite and two with
+        its claws. Alternatively, it makes two melee attacks with its javelin.'
+alignment: NE
+book: Tomb of Annihilation
+charisma: '11'
+constitution: '12'
+dexterity: '13'
+intelligence: '9'
+languages:
+- Common
+name: Pterafolk
+page: 229
+perception: '+2'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Large
+skills:
+    perception: proficient
+    survival: proficient
+speed:
+- 30 ft
+- fly 50 ft
+strength: '15'
+survival: '+2'
+tags: []
+traits:
+    Terror Dive: If the pterafolk is flying and dives at least 30 feet straight toward
+        a target, and then hits that target with a melee weapon attack, the target
+        is frightened until the end of its next turn.
+type: monstrosity
+wisdom: '10'

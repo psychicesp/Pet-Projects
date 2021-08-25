@@ -1,0 +1,40 @@
+AC: 8
+CR: 1 (200 XP)
+HP: 30 (4d8 + 12)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3
+        (1d4 + 1) piercing damage.'
+    Claw: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4
+        (1d6 + 1) slashing damage.'
+    Multiattack: 'The zombie makes three attacks: one with its bite and two with its
+        claws.'
+alignment: U
+book: Curse of Strahd
+charisma: '5'
+condition_immunities:
+- poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '6'
+intelligence: '3'
+languages:
+- understands the languages it knew in life but can't speak
+name: Strahd Zombie
+page: 241
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Medium
+skills: {}
+speed:
+- 20 ft
+strength: '13'
+tags: []
+traits:
+    Loathsome Limbs: 'Whenever the zombie takes at least 5 bludgeoning or slashing
+        damage at one time, roll a d20 to determine what else happens to it:'
+type: undead
+wisdom: '6'

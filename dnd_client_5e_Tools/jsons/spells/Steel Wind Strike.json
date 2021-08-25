@@ -1,0 +1,20 @@
+{
+    "name": "Steel Wind Strike",
+    "level": 5,
+    "ritual": false,
+    "school": "conjuration",
+    "casting time": "1 action",
+    "range": "30 feet",
+    "components": "S, M",
+    "duration": "Instantaneous",
+    "concentration": false,
+    "extras": "a melee weapon worth at least 1 sp",
+    "cost": 1,
+    "description": "You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes 6d10 force damage. You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.",
+    "classes": [
+        "Ranger",
+        "Wizard"
+    ],
+    "source": "XGE",
+    "page": 166
+}

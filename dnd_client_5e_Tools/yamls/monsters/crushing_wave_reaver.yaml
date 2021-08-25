@@ -1,0 +1,36 @@
+AC: 14
+CR: 1/2 (100 XP)
+HP: 22 (4d8 + 4)
+actions:
+    Javelin: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.'
+    Sharktoothed Longsword: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft.,
+        one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage
+        if used with two hands. Against a target is wearing no armor, the reaver deals
+        an extra die of damage with this sword.'
+alignment: NE
+athletics: '+4'
+book: Princes of the Apocalypse
+charisma: '8'
+constitution: '13'
+dexterity: '14'
+intelligence: '10'
+languages:
+- Common
+name: Crushing Wave Reaver
+page: 205
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    athletics: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+4'
+strength: '15'
+tags:
+- human
+type: humanoid
+wisdom: '11'

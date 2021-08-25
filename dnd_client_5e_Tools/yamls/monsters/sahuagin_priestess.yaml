@@ -1,0 +1,59 @@
+AC: 12
+CR: 2 (450 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3
+        (1d4 + 1) piercing damage.'
+    Claws: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit:
+        3 (1d4 + 1) slashing damage.'
+    Multiattack: 'The sahuagin makes two melee attacks: one with her bite and one
+        with her claws.'
+alignment: LE
+book: Monster Manual
+charisma: '13'
+constitution: '12'
+dexterity: '11'
+intelligence: '12'
+languages:
+- Sahuagin
+name: Sahuagin Priestess
+page: 264
+perception: '+6'
+religion: '+3'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 16
+size: Medium
+skills:
+    perception: expert
+    religion: proficient
+speed:
+- 30 ft
+- swim 40 ft
+strength: '13'
+tags:
+- sahuagin
+traits:
+    Blood Frenzy: The sahuagin has advantage on melee attack rolls against any creature
+        that doesn't have all its hit points.
+    Limited Amphibiousness: The sahuagin can breathe air and water, but it needs to
+        be submerged at least once every 4 hours to avoid suffocating.
+    Shark Telepathy: The sahuagin can magically command any shark within 120 feet
+        of it, using a limited telepathy.
+    spellcasting:
+        ability: wisdom
+        level: 6
+        spells:
+        - guidance
+        - thaumaturgy
+        - bless
+        - detect magic
+        - guiding bolt
+        - hold person
+        - spiritual weapon
+        - mass healing word
+        - tongues
+        type: cleric
+type: humanoid
+wisdom: '14'

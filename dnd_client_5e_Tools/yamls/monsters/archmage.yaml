@@ -1,0 +1,77 @@
+AC: 12
+CR: 12 (8,400 XP)
+HP: 99 (18d8 + 18)
+actions:
+    Dagger: 'Melee or Ranged Weapon Attack: +6+1d8 + 2 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.'
+alignment: AA
+arcana: '+13'
+book: Monster Manual
+charisma: 16 (+3)
+constitution: 12 (+1)
+dexterity: 14 (+2)
+history: '+13'
+hit points: 18d8 + 18
+intelligence: 20 (+5)
+intelligence save: '+9'
+languages:
+- any six languages
+name: Archmage
+page: 342
+resistances:
+- damage from spells
+- nonmagical bludgeoning, piercing, and slashing (from stoneskin)
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    arcana: expert
+    history: expert
+speed:
+- 30 ft
+strength: 10 (+0)
+tags:
+- any
+traits:
+    '*The archmage casts these spells on itself before combat': '*The archmage casts
+        these spells on itself before combat.'
+    Magic Resistance: The archmage has advantage on saving throws against spells and
+        other magical effects.
+    spellcasting:
+        ability: intelligence
+        level: 18
+        spells:
+        - disguise self
+        - invisibility
+        - fire bolt
+        - light
+        - mage hand
+        - prestidigitation
+        - shocking grasp
+        - detect magic
+        - identify
+        - mage armor
+        - magic missile
+        - detect thoughts
+        - mirror image
+        - misty step
+        - counterspell
+        - fly
+        - lightning bolt
+        - banishment
+        - fire shield
+        - stoneskin
+        - cone of cold
+        - scrying
+        - wall of force
+        - globe of invulnerability
+        - teleport
+        - mind blank
+        - time stop
+        type: wizard
+type: humanoid
+wisdom: 15 (+2)
+wisdom save: '+6'

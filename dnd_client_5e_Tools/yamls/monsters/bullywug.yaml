@@ -1,0 +1,44 @@
+AC: 15
+CR: 1/4 (50 XP)
+HP: 11 (2d8 + 2)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3
+        (1d4 + 1) bludgeoning damage.'
+    Multiattack: 'The bullywug makes two melee attacks: one with its bite and one
+        with its spear.'
+    Spear: 'Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing
+        damage if used with two hands to make a melee attack.'
+alignment: NE
+book: Monster Manual
+charisma: '7'
+constitution: '13'
+dexterity: '12'
+intelligence: '7'
+languages:
+- Bullywug
+name: Bullywug
+page: 35
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    stealth: proficient
+speed:
+- 20 ft
+- swim 40 ft
+stealth: '+3'
+strength: '12'
+tags:
+- bullywug
+traits:
+    Amphibious: The bullywug can breathe air and water.
+    Speak with Frogs and Toads: The bullywug can communicate simple concepts to frogs
+        and toads when it speaks in Bullywug.
+    Standing Leap: The bullywug's long jump is up to 20 feet and its high jump is
+        up to 10 feet, with or without a running start.
+    Swamp Camouflage: The bullywug has advantage on Dexterity (Stealth) checks made
+        to hide in swampy terrain.
+type: humanoid
+wisdom: '10'

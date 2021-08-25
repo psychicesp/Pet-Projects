@@ -1,0 +1,49 @@
+AC: 17
+CR: 9 (5,000 XP)
+HP: 133 (14d10 + 56)
+actions:
+    Claw: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 12
+        (2d6 + 5) slashing damage.'
+    Mandibles: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 10 ft., one target.
+        Hit: 16 (2d10 + 5) piercing damage, and the target is grappled (escape DC
+        17+1d8 + 13). Until this grapple ends, the target is restrained, and the deep
+        crow can''t use its mandibles on another target.'
+    Multiattack: 'The deep crow makes three attacks: one with its mandibles and two
+        with its claws.'
+alignment: U
+book: Acquisitions Incorporated
+charisma: '14'
+constitution: '18'
+dexterity: '16'
+intelligence: '8'
+languages:
+- Deep Crow
+name: Deep Crow
+page: 210
+perception: '+6'
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- blindsight 30 ft.
+- darkvision 120 ft.
+- passive Perception 16
+size: Large
+skills:
+    perception: proficient
+    stealth: expert
+speed:
+- 20 ft
+- fly 80 ft
+stealth: '+11'
+strength: '20'
+tags: []
+traits:
+    Magic Resistance: The deep crow has advantage on saving throws against spells
+        and other magical effects.
+    Shadow Stealth: While in dim light or darkness, the deep crow can take the Hide
+        action as a bonus action.
+    Sunlight Sensitivity: While in sunlight, the deep crow has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: monstrosity
+wisdom: '15'

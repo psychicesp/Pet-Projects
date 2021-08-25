@@ -1,0 +1,65 @@
+AC: 18
+CR: 10 (5,900 XP)
+HP: 112 (15d8 + 45)
+actions:
+    Multiattack: The githzerai makes three unarmed strikes.
+    Temporal Strike (Recharge 6): 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5
+        ft., one creature. Hit: 13 (2d8 + 4) bludgeoning damage plus 52 (8d12) psychic
+        damage. The target must succeed on a DC 16+1d8 + 12 Wisdom saving throw or
+        move 1 round forward in time. A target moved forward in time vanishes for
+        the duration. When the effect ends, the target reappears in the space it left
+        or in an unoccupied space nearest to that space if it''s occupied.'
+    Unarmed Strike: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target.
+        Hit: 13 (2d8 + 4) bludgeoning damage plus 13 (3d8) psychic damage.'
+alignment: LN
+arcana: '+7'
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '13'
+constitution: '16'
+dexterity: '19'
+insight: '+8'
+intelligence: '17'
+languages:
+- Gith
+name: Githzerai Enlightened
+page: 208
+perception: '+8'
+saving_throws:
+    dexterity: proficient
+    intelligence: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- passive Perception 18
+size: Medium
+skills:
+    arcana: proficient
+    insight: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '14'
+tags:
+- gith
+traits:
+    Psychic Defense: While the githzerai is wearing no armor and wielding no shield,
+        its AC includes its Wisdom modifier.
+    spellcasting:
+        ability: wisdom
+        spells:
+            1/day:
+            - haste
+            - plane shift
+            - teleport
+            3/day:
+            - blur
+            - expeditious retreat
+            - feather fall
+            - jump
+            - see invisibility
+            - shield
+            at will:
+            - mage hand
+        type: innate
+type: humanoid
+wisdom: '19'

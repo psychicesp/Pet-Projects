@@ -1,0 +1,46 @@
+AC: 14
+CR: 1 (200 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5
+        (1d4 + 3) piercing damage.'
+    Claws: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        5 (1d4 + 3) slashing damage.'
+    Multiattack: The coral smasher makes two attacks with its warhammer, or one attack
+        with its bite and one with its claws.
+    Warhammer: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        7 (1d8 + 3) bludgeoning damage.'
+alignment: LE
+book: Ghosts of Saltmarsh
+charisma: '9'
+constitution: '12'
+dexterity: '12'
+intelligence: '12'
+languages:
+- Sahuagin
+name: Sahuagin Coral Smasher
+page: 249
+perception: '+5'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 15
+size: Medium
+skills:
+    perception: expert
+speed:
+- 30 ft
+- swim 40 ft
+strength: '16'
+tags:
+- sahuagin
+traits:
+    Blood Frenzy: The coral smasher has advantage on melee attack rolls against any
+        creature that doesn't have all its hit points.
+    Limited Amphibiousness: The coral smasher can breathe air and water, but it needs
+        to be submerged at least once every 4 hours to avoid suffocating.
+    Shark Telepathy: The coral smasher can magically command any shark within 120
+        feet of it, using a limited telepathy.
+    Siege Monster: The coral smasher deals double damage to objects and structures.
+type: humanoid
+wisdom: '13'

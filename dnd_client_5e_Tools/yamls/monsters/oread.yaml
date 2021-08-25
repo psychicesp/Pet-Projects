@@ -1,0 +1,56 @@
+AC: 16
+CR: 4 (1,100 XP)
+HP: 49 (9d8 + 9)
+acrobatics: '+4'
+actions:
+    Fiery Touch: 'Melee Spell Attack: +6+1d4 + 4 to hit, reach 5 ft., one target.
+        Hit: 9 (1d10 + 4) fire damage.'
+    Fire Bolt (Cantrip): 'Ranged Spell Attack: +6+1d4 + 4 to hit, range 120 ft., one
+        target. Hit: 5 (1d10) fire damage.'
+    Multiattack: The oread attacks twice with its fiery touch or fire bolt.
+alignment: CE
+athletics: '+4'
+book: Mythic Odysseys of Theros
+charisma: '18'
+condition_immunities:
+- charmed, frightened, poisoned
+constitution: '12'
+damage_immunities:
+- fire, poison
+dexterity: '14'
+intelligence: '11'
+languages:
+- Common
+- Sylvan
+name: Oread
+page: 237
+performance: '+6'
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Medium
+skills:
+    acrobatics: proficient
+    athletics: proficient
+    performance: proficient
+speed:
+- 30 ft
+strength: '14'
+tags: []
+traits:
+    Invisible in Fire: The oread is invisible while fully immersed in fire.
+    Magic Resistance: The oread has advantage on saving throws against spells and
+        other magical effects.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - hellish rebuke
+            - scorching ray
+            3/day:
+            - burning hands
+            at will:
+            - fire bolt
+        type: innate
+type: fey
+wisdom: '13'

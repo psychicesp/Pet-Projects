@@ -1,0 +1,41 @@
+AC: 12
+CR: 1 (200 XP)
+HP: 22 (4d8 + 4)
+actions:
+    Coral Rapier: 'Melee Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        6 (1d8 + 2) piercing damage.'
+    Inject Toxin (2/Day): 'Melee Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 6 (1d8 + 2) piercing damage, and the creature must succeed on a DC 12+1d4
+        + 10 Constitution saving throw or be paralyzed until the end of its next turn.'
+    Multiattack: The salvager makes two attacks with its coral rapier.
+alignment: N
+athletics: '+3'
+book: Ghosts of Saltmarsh
+charisma: '13'
+constitution: '12'
+dexterity: '14'
+intelligence: '11'
+languages:
+- Aquan
+- Common
+name: Merfolk Salvager
+page: 244
+perception: '+2'
+saving_throws:
+    dexterity: proficient
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+speed:
+- 10 ft
+- swim 40 ft
+strength: '12'
+tags:
+- merfolk
+traits:
+    Amphibious: The salvager can breathe air and water.
+type: humanoid
+wisdom: '10'

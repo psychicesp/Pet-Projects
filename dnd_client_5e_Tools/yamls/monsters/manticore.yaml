@@ -1,0 +1,38 @@
+AC: 14
+CR: 3 (700 XP)
+HP: 68 (8d10 + 24)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7
+        (1d8 + 3) piercing damage.'
+    Claw: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) slashing damage.'
+    Multiattack: 'The manticore makes three attacks: one with its bite and two with
+        its claws or three with its tail spikes.'
+    Tail Spike: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 100/200 ft., one target.
+        Hit: 7 (1d8 + 3) piercing damage.'
+alignment: LE
+book: Monster Manual
+charisma: '8'
+constitution: '17'
+dexterity: '16'
+intelligence: '7'
+languages:
+- Common
+name: Manticore
+page: 213
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Large
+skills: {}
+speed:
+- 30 ft
+- fly 50 ft
+strength: '17'
+tags: []
+traits:
+    Tail Spike Regrowth: The manticore has twenty-four tail spikes. Used spikes regrow
+        when the manticore finishes a long rest.
+type: monstrosity
+wisdom: '12'

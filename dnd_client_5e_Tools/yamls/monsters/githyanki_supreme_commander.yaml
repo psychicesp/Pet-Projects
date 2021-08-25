@@ -1,0 +1,73 @@
+AC: 18
+CR: 14 (11,500 XP)
+HP: 187 (22d8 + 88)
+actions:
+    Multiattack: The githyanki makes two greatsword attacks.
+    Silver Greatsword: 'Melee Weapon Attack: +12+1d10 + 7 to hit, reach 5 ft., one
+        target. Hit: 14 (2d6 + 7) slashing damage plus 17 (5d6) psychic damage. On
+        a critical hit against a target in an astral body (as with the astral projection
+        spell), the githyanki can cut the silvery cord that tethers the target to
+        its material body, instead of dealing damage.'
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '18'
+constitution: '18'
+dexterity: '17'
+insight: '+8'
+intelligence: '16'
+intimidation: '+9'
+languages:
+- Gith
+legendary_actions:
+    number: 3
+    options:
+        Attack (2 Actions): ' The githyanki makes a greatsword attack.'
+        Command Ally: ' The githyanki targets one ally it can see within 30 feet of
+            it. If the target can see or hear the githyanki, the target can make one
+            melee weapon attack using its reaction and has advantage on the attack
+            roll.'
+        Teleport: ' The githyanki magically teleports, along with any equipment it
+            is wearing and carrying, to an unoccupied space it can see within 30 feet
+            of it. It also becomes insubstantial until the start of its next turn.
+            While insubstantial, it can move through other creatures and objects as
+            if they were difficult terrain. If it ends its turn inside an object,
+            it takes 16 (3d10) force damage and is moved to the nearest unoccupied
+            space.'
+name: Githyanki Supreme Commander
+page: 206
+perception: '+8'
+saving_throws:
+    constitution: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- passive Perception 18
+size: Medium
+skills:
+    insight: proficient
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '19'
+tags:
+- gith
+traits:
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - Bigby\'s hand
+            - mass suggestion
+            - plane shift
+            - telekinesis
+            3/day:
+            - jump
+            - levitate
+            - misty step
+            - nondetection
+            at will:
+            - mage hand
+        type: innate
+type: humanoid
+wisdom: '16'

@@ -1,0 +1,89 @@
+AC: 19
+CR: 15 (13,000 XP)
+HP: 212 (17d12 + 102)
+actions:
+    Bite: 'Melee Weapon Attack: +12+1d10 + 7 to hit, reach 10 ft., one target. Hit:
+        18 (2d10 + 7) piercing damage.'
+    "Breath Weapons (Recharge 5\u20136)": The dragon uses one of the following breath
+        weapons.
+    Change Shape: The dragon magically polymorphs into a humanoid or beast that has
+        a challenge rating no higher than its own, or back into its true form. It
+        reverts to its true form if it dies. Any equipment it is wearing or carrying
+        is absorbed or borne by the new form (the dragon's choice).
+    Claw: 'Melee Weapon Attack: +12+1d10 + 7 to hit, reach 5 ft., one target. Hit:
+        14 (2d6 + 7) slashing damage.'
+    Frightful Presence: Each creature of the dragon's choice that is within 120 feet
+        of the dragon and aware of it must succeed on a DC 17+1d10 + 12 Wisdom saving
+        throw or become frightened for 1 minute. A creature can repeat the saving
+        throw at the end of each of its turns, ending the effect on itself on a success.
+        If a creature's saving throw is successful or the effect ends for it, the
+        creature is immune to the dragon's Frightful Presence for the next 24 hours.
+    Multiattack: 'The dragon can use its Frightful Presence. It then makes three attacks:
+        one with its bite and two with its claws.'
+    Tail: 'Melee Weapon Attack: +12+1d10 + 7 to hit, reach 15 ft., one target. Hit:
+        16 (2d8 + 7) bludgeoning damage.'
+alignment: LG
+book: Monster Manual
+charisma: 19 (+4)
+charisma save: '+9'
+constitution: 23 (+6)
+constitution save: '+11'
+damage_immunities:
+- lightning
+dexterity: 10 (+0)
+dexterity save: '+5'
+hit points: 17d12 + 102
+in_lair:
+    CR_increase: 1
+    actions:
+    - The dragon creates fog as though it had cast the fog cloud spell. The fog lasts
+        until initiative count 20 on the next round.
+    - A thunderclap originates at a point the dragon can see within 120 feet of it.
+        Each creature within a 20-foot radius centered on that point must make a DC
+        15+1d10 + 10 Constitution saving throw or take 5 (1d10) thunder damage and
+        be deafened until the end of its next turn.
+insight: '+7'
+intelligence: 16 (+3)
+languages:
+- Common
+- Draconic
+legendary_actions:
+    number: 3
+    options:
+        Detect: ' The dragon makes a Wisdom (Perception) check.'
+        Tail Attack: ' The dragon makes a tail attack.'
+        Wing Attack (Costs 2 Actions): ' The dragon beats its wings. Each creature
+            within 10 feet of the dragon must succeed on a DC 20+1d10 + 15 Dexterity
+            saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone.
+            The dragon can then fly up to half its flying speed.'
+name: Adult Bronze Dragon
+page: 108
+perception: '+12'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 60 ft.
+- darkvision 120 ft.
+- passive Perception 22
+size: Huge
+skills:
+    insight: proficient
+    perception: expert
+    stealth: proficient
+speed:
+- 40 ft
+- fly 80 ft
+- swim 40 ft
+stealth: '+5'
+strength: 25 (+7)
+tags: []
+traits:
+    Amphibious: The dragon can breathe air and water.
+    Legendary Resistance (3/Day): If the dragon fails a saving throw, it can choose
+        to succeed instead.
+type: dragon
+wisdom: 15 (+2)
+wisdom save: '+7'

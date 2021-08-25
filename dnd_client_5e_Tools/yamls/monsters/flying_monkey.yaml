@@ -1,0 +1,36 @@
+AC: 12
+CR: 0 (0 or 10 XP)
+HP: 3 (1d6)
+actions:
+    Bite: 'Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target Hit: 1
+        (1d4 - 1) piercing damage.'
+alignment: U
+book: Tomb of Annihilation
+charisma: '6'
+constitution: '11'
+dexterity: '14'
+hit: 1d6
+intelligence: '5'
+languages:
+- \xe2\x80\x94
+name: Flying Monkey
+page: 220
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Small
+skills: {}
+speed:
+- 30 ft
+- climb 20 ft
+- fly 30 ft
+strength: '8'
+tags: []
+traits:
+    Familiar: With the DM's permission, the find familiar spell can summon a flying
+        monkey.
+    Pack Tactics: The flying monkey has advantage on an attack roll against a creature
+        if at least one of the monkey's allies is within 5 feet of the creature and
+        the ally isn't incapacitated.
+type: beast
+wisdom: '12'

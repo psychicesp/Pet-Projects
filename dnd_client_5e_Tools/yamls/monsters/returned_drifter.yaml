@@ -1,0 +1,41 @@
+AC: 13
+CR: 1/4 (50 XP)
+HP: 11 (2d8 + 2)
+actions:
+    Scimitar: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        5 (1d6 + 2) slashing damage plus 3 (1d6) poison damage.'
+    Sling: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target.
+        Hit: 4 (1d4 + 2) bludgeoning damage.'
+alignment: LN
+book: Mythic Odysseys of Theros
+charisma: '11'
+condition_immunities:
+- poisoned
+constitution: '12'
+damage_immunities:
+- poison
+dexterity: '15'
+intelligence: '10'
+languages:
+- the languages it knew in life
+name: Returned Drifter
+page: 240
+resistances:
+- necrotic
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '14'
+tags: []
+traits:
+    Turn Resistance: The Returned has advantage on saving throws against any effect
+        that turns undead.
+    Unreadable Face: The Returned is immune to any effect that would sense its emotions
+        or read its thoughts. Wisdom (Insight) checks to ascertain the Returned's
+        intentions or sincerity are made with disadvantage.
+type: undead
+wisdom: '12'

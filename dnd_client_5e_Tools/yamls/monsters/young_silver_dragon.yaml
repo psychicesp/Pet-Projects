@@ -1,0 +1,51 @@
+AC: 18
+CR: 9 (5,000 XP)
+HP: 168 (16d10 + 80)
+actions:
+    Bite: 'Melee Weapon Attack: +10+1d8 + 6 to hit, reach 10 ft., one target. Hit:
+        17 (2d10 + 6) piercing damage.'
+    Breath Weapons (Recharge 5xe2x80x936): The dragon uses one of the following breath
+        weapons.
+    Claw: 'Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one target. Hit:
+        13 (2d6 + 6) slashing damage.'
+    Multiattack: 'The dragon makes three attacks: one with its bite and two with its
+        claws.'
+alignment: LG
+arcana: '+6'
+book: Monster Manual
+charisma: '19'
+constitution: '21'
+damage_immunities:
+- cold
+dexterity: '10'
+history: '+6'
+intelligence: '14'
+languages:
+- Common
+- Draconic
+name: Young Silver Dragon
+page: 118
+perception: '+8'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 30 ft.
+- darkvision 120 ft.
+- passive Perception 18
+size: Large
+skills:
+    arcana: proficient
+    history: proficient
+    perception: expert
+    stealth: proficient
+speed:
+- 40 ft
+- fly 80 ft
+stealth: '+4'
+strength: '23'
+tags: []
+type: dragon
+wisdom: '11'

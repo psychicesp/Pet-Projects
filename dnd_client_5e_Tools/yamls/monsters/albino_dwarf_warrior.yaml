@@ -1,0 +1,41 @@
+AC: 13
+CR: 1/4 (50 XP)
+HP: 30 (4d8 + 12)
+actions:
+    Handaxe: 'Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 4 (1d6 + 1) slashing damage.'
+alignment: AA
+book: Tomb of Annihilation
+charisma: 11 (+0)
+constitution: 17 (+3)
+dexterity: 13 (+1)
+hit points: 4d8 + 12
+intelligence: 12 (+1)
+languages:
+- Common
+- Dwarvish
+name: Albino Dwarf Warrior
+page: 210
+perception: '+4'
+resistances:
+- poison
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: proficient
+    stealth: proficient
+    survival: proficient
+speed:
+- 25 ft
+stealth: '+3'
+strength: 13 (+1)
+survival: '+4'
+tags:
+- dwarf
+traits:
+    Dwarven Resilience: The dwarf has advantage on saving throws against poison.
+type: humanoid
+wisdom: 14 (+2)

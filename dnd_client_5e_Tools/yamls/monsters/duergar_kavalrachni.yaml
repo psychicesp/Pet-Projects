@@ -1,0 +1,49 @@
+AC: 16
+CR: 2 (450 XP)
+HP: 26 (4d8 + 8)
+actions:
+    Heavy Crossbow: 'Ranged Weapon Attack: +2+1d4 + 0 to hit, range 100/400 ft., one
+        target. Hit: 5 (1d10) piercing damage.'
+    Multiattack: The duergar makes two war pick attacks.
+    Shared Invisibility (Recharges after a Short or Long Rest): The duergar magically
+        turns invisible for up to 1 hour or until it attacks, it casts a spell, or
+        its concentration is broken (as if concentrating on a spell). Any equipment
+        the duergar wears or carries is invisible with it. While the invisible duergar
+        is mounted on a female steeder, the steeder is invisible as well. The invisibility
+        ends early on the steeder immediately after it attacks.
+    War Pick: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        6 (1d8 + 2) piercing damage plus 5 (2d4) poison damage.'
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '9'
+constitution: '14'
+dexterity: '11'
+intelligence: '11'
+languages:
+- Dwarvish
+- Undercommon
+name: Duergar Kavalrachni
+page: 189
+resistances:
+- poison
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 25 ft
+strength: '14'
+tags:
+- dwarf
+traits:
+    Cavalry Training: When the duergar hits a target with a melee attack while mounted
+        on a female steeder, the steeder can make one melee attack against the same
+        target as a reaction.
+    Duergar Resilience: The duergar has advantage on saving throws against poison,
+        spells, and illusions, as well as to resist being charmed or paralyzed.
+    Sunlight Sensitivity: While in sunlight, the duergar has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: humanoid
+wisdom: '10'

@@ -1,0 +1,22 @@
+{
+    "name": "See Invisibility",
+    "level": 2,
+    "ritual": false,
+    "school": "divination",
+    "casting time": "1 action",
+    "range": "Self",
+    "components": "V, S, M",
+    "duration": "1 hour",
+    "concentration": false,
+    "extras": "a pinch of talc and a small sprinkling of powdered silver",
+    "cost": 0,
+    "description": "For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.",
+    "classes": [
+        "Artificer",
+        "Bard",
+        "Sorcerer",
+        "Wizard"
+    ],
+    "source": "PHB",
+    "page": 274
+}

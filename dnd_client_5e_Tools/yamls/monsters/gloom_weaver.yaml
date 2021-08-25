@@ -1,0 +1,66 @@
+AC: 14
+CR: 9 (5,000 XP)
+HP: 104 (16d8 + 32)
+actions:
+    Multiattack: The gloom weaver makes two spear attacks and casts one spell that
+        takes 1 action to cast.
+    Shadow Spear: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target.
+        Hit: 7 (1d6 + 4) piercing damage plus 26 (4d12) necrotic damage, or 8 (1d8
+        + 4) piercing damage plus 26 (4d12) necrotic damage if used with two hands.'
+alignment: N
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '18'
+condition_immunities:
+- charmed, exhaustion
+constitution: '14'
+damage_immunities:
+- necrotic
+dexterity: '18'
+intelligence: '15'
+languages:
+- Common
+- Elvish
+name: Gloom Weaver
+page: 224
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '11'
+tags:
+- elf
+traits:
+    '*3 beams +4 bonus to each damage roll': '*3 beams +4 bonus to each damage roll'
+    Burden of Time: Beasts and humanoids, other than shadar-kai, have disadvantage
+        on saving throws while within 10 feet of the gloom weaver.
+    Fey Ancestry: The gloom weaver has advantage on saving throws against being charmed,
+        and magic can't put it to sleep.
+    spellcasting:
+        ability: charisma
+        spells:
+            1st-5th:
+            - armor of Agathys
+            - blight
+            - darkness
+            - dream
+            - invisibility
+            - fear
+            - hypnotic pattern
+            - major image
+            - contact other plane
+            - vampiric touch
+            - witch bolt
+            Cantrips:
+            - minor illusion
+            - prestidigitation
+            - chill touch
+            - eldritch blast
+        type: innate
+type: humanoid
+wisdom: '12'

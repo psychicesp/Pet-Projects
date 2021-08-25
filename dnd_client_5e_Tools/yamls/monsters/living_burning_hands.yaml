@@ -1,0 +1,44 @@
+AC: 15
+CR: 1 (200 XP)
+HP: 15 (2d8 + 6)
+actions:
+    Magical Strike: 'Melee Spell Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) fire damage.'
+    Spell Mimicry (Recharge 5xe2x80x936): The living spell unleashes a thin sheet
+        of flames in a 15-foot cone. Each creature in that area must make a DC 13+1d4
+        + 11 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save,
+        or half as much damage on a successful one.
+alignment: U
+book: 'Eberron: Rising from the Last War'
+charisma: '6'
+condition_immunities:
+- blinded, charmed, deafened, exhaustion, frightened, grappled, poisoned, prone
+constitution: '16'
+damage_immunities:
+- fire
+dexterity: '12'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Living Burning Hands
+page: 298
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Medium
+skills: {}
+speed:
+- 25 ft
+- fly 25 ft
+strength: '10'
+tags: []
+traits:
+    Amorphous: The living spell can move through a space as narrow as 1 inch wide
+        without squeezing.
+    Magic Resistance: The living spell has advantage on saving throws against spells
+        and other magical effects.
+type: construct
+wisdom: '6'

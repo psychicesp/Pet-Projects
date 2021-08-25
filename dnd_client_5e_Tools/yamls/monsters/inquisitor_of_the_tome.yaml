@@ -1,0 +1,56 @@
+AC: 11
+CR: 8 (3,900 XP)
+HP: 77 (14d8 + 14)
+actions:
+    Force Bolt: 'Ranged Spell Attack: +7+1d6 + 4 to hit, range 120 ft., one target.
+        Hit: 22 (4d8 + 4) force damage, and if the target is a Large or smaller creature,
+        the inquisitor can push it up to 10 feet away.'
+    Implode (Recharge 4xe2x80x936): Each creature in a 20-foot-radius sphere centered
+        on a point the inquisitor can see within 120 feet of it must succeed on a
+        DC 15+1d6 + 12 Constitution saving throw or take 31 (6d8 + 4) force damage
+        and be knocked prone and moved to the unoccupied space closest to the sphere's
+        center. Large and smaller objects that aren't being worn or carried in the
+        sphere automatically take the damage and are similarly moved.
+    Innate Spellcasting (Psionics): 'The inquisitor casts one of the following spells,
+        requiring no components and using Intelligence as the spellcasting ability
+        (spell save DC 15+1d6 + 12):'
+    Multiattack: The inquisitor attacks twice.
+    Silver Longsword: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target.
+        Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) if used with two hands,
+        plus 18 (4d8) force damage.'
+alignment: U
+arcana: '+10'
+book: Van Richten\xe2\x80\x99s Guide to Ravenloft
+charisma: '15'
+condition_immunities:
+- charmed, frightened
+constitution: '12'
+dexterity: '12'
+history: '+7'
+intelligence: '19'
+languages:
+- any four languages
+- telepathy 120 ft.
+name: Inquisitor of the Tome
+nature: '+7'
+page: 249
+religion: '+10'
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- truesight 30 ft.
+- passive Perception 13
+size: Medium
+skills:
+    arcana: expert
+    history: proficient
+    nature: proficient
+    religion: expert
+speed:
+- 30 ft
+strength: '10'
+tags: []
+type: humanoid
+wisdom: '16'

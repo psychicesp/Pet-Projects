@@ -1,0 +1,60 @@
+AC: 15
+CR: 8 (3,900 XP)
+HP: 75 (10d10 + 20)
+actions:
+    Bite: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one creature. Hit:
+        7 (1d6 + 4) piercing damage, and the target must make a DC 13+1d6 + 10 Constitution
+        saving throw, taking 31 (7d8) poison damage on a failed save, or half as much
+        damage on a successful one.'
+alignment: CE
+book: Monster Manual
+charisma: '16'
+condition_immunities:
+- charmed, poisoned
+constitution: '14'
+damage_immunities:
+- poison
+dexterity: '17'
+intelligence: '16'
+languages:
+- Abyssal
+- Common
+name: Spirit Naga
+page: 234
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Large
+skills: {}
+speed:
+- 40 ft
+strength: '18'
+tags: []
+traits:
+    Rejuvenation: If it dies, the naga returns to life in 1d6 days and regains all
+        its hit points. Only a wish spell can prevent this trait from functioning.
+    spellcasting:
+        ability: intelligence
+        level: 10
+        spells:
+        - mage hand
+        - minor illusion
+        - ray of frost
+        - charm person
+        - detect magic
+        - sleep
+        - detect thoughts
+        - hold person
+        - lightning bolt
+        - water breathing
+        - blight
+        - dimension door
+        - dominate person
+        type: wizard
+type: monstrosity
+wisdom: '15'

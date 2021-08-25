@@ -1,0 +1,33 @@
+AC: 18
+CR: 2 (450 XP)
+HP: 39 (6d8 + 12)
+actions:
+    Morningstar: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 7 (1d8 + 3) piercing damage.'
+    Multiattack: The guard makes two melee attacks.
+alignment: NE
+book: Princes of the Apocalypse
+charisma: '9'
+constitution: '14'
+dexterity: '11'
+intelligence: '10'
+intimidation: '+1'
+languages:
+- Common
+name: Black Earth Guard
+page: 195
+perception: '+2'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '17'
+tags:
+- human
+type: humanoid
+wisdom: '10'

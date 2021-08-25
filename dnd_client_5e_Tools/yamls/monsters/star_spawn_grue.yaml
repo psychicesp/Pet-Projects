@@ -1,0 +1,37 @@
+AC: 11
+CR: 1/4 (50 XP)
+HP: 17 (5d6)
+actions:
+    Confounding Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target.
+        Hit: 6 (2d4 + 1) piercing damage, and the target must succeed on a DC 10+1d4
+        + 8 Wisdom saving throw or attack rolls against it have advantage until the
+        start of the grue''s next turn.'
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '6'
+constitution: '10'
+damage_immunities:
+- psychic
+dexterity: '13'
+hit: 5d6
+intelligence: '9'
+languages:
+- Deep Speech
+name: Star Spawn Grue
+page: 234
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Small
+skills: {}
+speed:
+- 30 ft
+strength: '6'
+tags: []
+traits:
+    Aura of Madness: Creatures within 20 feet of the grue that aren't aberrations
+        have disadvantage on saving throws, as well as on attack rolls against creatures
+        other than a star spawn grue.
+type: aberration
+wisdom: '11'

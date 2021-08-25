@@ -1,0 +1,47 @@
+AC: 8
+CR: 1/2 (100 XP)
+HP: 10 (3d6)
+actions:
+    Extract Brain: 'Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one incapacitated
+        creature grappled by the squidling. Hit: 27 (5d10) piercing damage. If this
+        damage reduces the target to 0 hit points, the squidling kills the target
+        by extracting and devouring its brain.'
+    Mind Tickle (Recharge 5xe2x80x936): The squidling magically emits psychic energy
+        in a 30-foot cone. Each creature in that area must succeed on a DC 7+1d4 +
+        5 Intelligence saving throw or take 2 (1d4) psychic damage and be stunned
+        until the end of its next turn.
+    Tentacles: 'Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one creature.
+        Hit: 5 (2d4) psychic damage. If the target is Medium or smaller, it is grappled
+        (escape DC 7+1d4 + 5) and must succeed on a DC 7+1d4 + 5 Intelligence saving
+        throw or be stunned until this grapple ends.'
+alignment: U
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '3'
+constitution: '10'
+dexterity: '7'
+hit: 3d6
+intelligence: '4'
+languages:
+- understands Deep Speech and Gnomish but can\'t speak
+- telepathy 60 ft.
+name: Gnome Squidling
+page: 303
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Small
+skills: {}
+speed:
+- 15 ft
+strength: '4'
+tags: []
+traits:
+    Magic Resistance: The squidling has advantage on saving throws against spells
+        and other magical effects.
+    spellcasting:
+        ability: intelligence
+        spells: {}
+        type: innate
+type: aberration
+wisdom: '10'

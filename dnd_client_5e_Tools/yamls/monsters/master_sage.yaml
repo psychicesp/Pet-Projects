@@ -1,0 +1,54 @@
+AC: 10
+CR: 5 (1,800 XP)
+HP: 54 (12d8)
+actions:
+    Fireball (3rd-Level Spell; 3/Day): The sage creates a fiery explosion centered
+        on a point it can see within 150 feet of it. Each creature in a 20-foot-radius
+        sphere centered on that point must make a DC 14+1d6 + 11 Dexterity saving
+        throw, taking 28 (8d6) fire damage on a failed save, or half as much damage
+        on a successful one. The fire spreads around corners and ignites flammable
+        objects in the area that aren't being worn or carried.
+    Shocking Grasp (Cantrip): 'Melee Spell Attack: +8+1d6 + 5 to hit (with advantage
+        if the target is wearing armor made of metal), reach 5 ft., one creature.
+        Hit: 13 (3d8) lightning damage, and the target can''t take reactions until
+        the start of its next turn.'
+    Spellcasting: 'The sage casts one of the following spells, using Intelligence
+        as the spellcasting ability (save DC 14+1d6 + 11, +6+1d6 + 3 to hit with spell
+        attacks):'
+alignment: U
+arcana: '+11'
+book: Candlekeep Mysteries
+charisma: '11'
+constitution: '10'
+dexterity: '10'
+history: '+11'
+hit: 12d8
+insight: '+7'
+intelligence: '20'
+investigation: '+11'
+languages:
+- Common plus any five languages
+medicine: '+10'
+name: Master Sage
+nature: '+11'
+page: 9
+religion: '+11'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Medium
+skills:
+    arcana: expert
+    history: expert
+    insight: proficient
+    investigation: expert
+    medicine: expert
+    nature: expert
+    religion: expert
+speed:
+- 30 ft
+strength: '8'
+tags:
+- any
+type: humanoid
+wisdom: '18'

@@ -1,0 +1,41 @@
+AC: ''
+CR: 8 (3,900 XP)
+HP: 172 (15d12 + 75)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit:
+        10 (1d10 + 5) piercing damage.'
+    Multiattack: The Telepathic Pentacle makes as many bite attacks as it has heads.
+alignment: U
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '7'
+constitution: '20'
+dexterity: '12'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Telepathic Pentacle
+page: 244
+perception: '+6'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 16
+size: Huge
+skills:
+    perception: expert
+speed:
+- 30 ft
+- climb 30 ft
+- swim 30 ft
+strength: '20'
+tags: []
+traits:
+    Hold Breath: The Telepathic Pentacle can hold its breath for 1 hour.
+    Multiple Heads: The Telepathic Pentacle has five heads. While it has more than
+        one head, the Telepathic Pentacle has advantage on saving throws against being
+        blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+    Reactive Heads: For each head the Telepathic Pentacle has beyond one, it gets
+        an extra reaction that can be used only for opportunity attacks.
+    Wakeful: While the Telepathic Pentacle sleeps, at least one of its heads is awake.
+type: monstrosity
+wisdom: '10'

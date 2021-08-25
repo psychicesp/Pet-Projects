@@ -1,0 +1,19 @@
+casting time: 1 action
+classes:
+- Artificer
+- Cleric
+- Druid
+- Paladin
+components: V, S
+concentration: false
+description: All nonmagical food and drink within a 5-foot-radius sphere centered
+    on a point of your choice within range is purified and rendered free of poison
+    and disease.
+duration: Instantaneous
+level: 1
+name: Purify Food and Drink
+page: 270
+range: 10 feet
+ritual: true
+school: transmutation
+source: PHB

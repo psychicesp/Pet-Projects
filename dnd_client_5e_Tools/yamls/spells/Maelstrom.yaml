@@ -1,0 +1,20 @@
+casting time: 1 action
+classes:
+- Druid
+components: V, S, M
+concentration: true
+cost: 0
+description: A swirling mass of 5-foot-deep water appears in a 30-foot radius centered
+    on a point you can see within range. The point must be on the ground or in a body
+    of water. Until the spell ends, that area is difficult terrain, and any creature
+    that starts its turn there must succeed on a Strength saving throw or take 6d6
+    bludgeoning damage and be pulled 10 feet toward the center.
+duration: Concentration, up to 1 minute
+extras: paper or leaf in the shape of a funnel
+level: 5
+name: Maelstrom
+page: 160
+range: 120 feet
+ritual: false
+school: evocation
+source: XGE

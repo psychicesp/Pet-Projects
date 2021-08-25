@@ -1,0 +1,41 @@
+AC: 14
+CR: 1/8 (25 XP)
+HP: 10 (4d4)
+actions:
+    Talons: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit:
+        6 (1d4 + 4) slashing damage.'
+alignment: N
+book: 'Eberron: Rising from the Last War'
+charisma: '11'
+constitution: '10'
+dexterity: '18'
+hit: 4d4
+intelligence: '9'
+languages:
+- understands Common
+- Elvish
+- and Sylvan but can\'t speak
+name: Valenar Hawk
+page: 312
+perception: '+5'
+saving_throws: {}
+senses:
+- passive Perception 15
+size: Tiny
+skills:
+    perception: proficient
+speed:
+- 10 ft
+- fly 60 ft
+strength: '8'
+tags: []
+traits:
+    Bonding: The hawk can magically bond with one creature it can see, immediately
+        after spending at least 1 hour observing that creature while within 30 feet
+        of it. The bond lasts until the hawk bonds with a different creature or until
+        the bonded creature dies. While bonded, the hawk and the bonded creature can
+        communicate telepathically with each other at a distance of up to 100 feet.
+    Keen Sight: The hawk has advantage on Wisdom (Perception) checks that rely on
+        sight.
+type: fey
+wisdom: '16'

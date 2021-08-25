@@ -1,0 +1,46 @@
+AC: 13
+CR: 5 (1,800 XP)
+HP: 82 (11d8 + 33)
+actions:
+    Cold Ray: 'Ranged Spell Attack: +3+1d6 + 0 to hit, range 60 ft., one target. Hit:
+        25 (4d10 + 3) cold damage.'
+    Multiattack: The walker makes two attacks.
+    Slam: 'Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 11
+        (2d8 + 2) bludgeoning damage plus 14 (4d6) cold damage.'
+alignment: CE
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '8'
+condition_immunities:
+- blinded, charmed, exhaustion, paralyzed, petrified, poisoned
+constitution: '17'
+damage_immunities:
+- cold
+dexterity: '10'
+intelligence: '8'
+languages:
+- \xe2\x80\x94
+name: Coldlight Walker
+page: 284
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '15'
+tags: []
+traits:
+    Blinding Light: The walker sheds bright light in a 20-foot radius and dim light
+        for an additional 20 feet. As a bonus action, the walker can target one creature
+        in its bright light that it can see and force it to succeed on a DC 14+1d6
+        + 11 Constitution saving throw or be blinded until the start of the walker's
+        next turn.
+    Icy Doom: Any creature killed by the walker freezes for 9 days, during which time
+        it can't be thawed, harmed by fire, animated, or raised from the dead.
+    Unusual Nature: The walker doesn't require air, food, drink, or sleep.
+type: undead
+wisdom: '10'

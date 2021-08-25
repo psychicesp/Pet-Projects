@@ -1,0 +1,37 @@
+AC: 15
+CR: 3 (700 XP)
+HP: 75 (10d10 + 20)
+actions:
+    Hook: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 10 ft., one target. Hit:
+        11 (2d6 + 4) piercing damage.'
+    Multiattack: The hook horror makes two hook attacks.
+alignment: N
+book: Monster Manual
+charisma: '7'
+constitution: '15'
+dexterity: '10'
+intelligence: '6'
+languages:
+- Hook Horror
+name: Hook Horror
+page: 189
+perception: '+3'
+saving_throws: {}
+senses:
+- blindsight 60 ft.
+- darkvision 120 ft.
+- passive Perception 13
+size: Large
+skills:
+    perception: proficient
+speed:
+- 30 ft
+- climb 30 ft
+strength: '18'
+tags: []
+traits:
+    Echolocation: The hook horror can't use its blindsight while deafened.
+    Keen Hearing: The hook horror has advantage on Wisdom (Perception) checks that
+        rely on hearing.
+type: monstrosity
+wisdom: '12'

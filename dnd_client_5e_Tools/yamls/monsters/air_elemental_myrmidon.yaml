@@ -1,0 +1,45 @@
+AC: 18
+CR: 7 (2,900 XP)
+HP: 117 (18d8 + 36)
+actions:
+    Flail: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        8 (1d8 + 4) bludgeoning damage.'
+    Lightning Strike (Recharge 6): The myrmidon makes one flail attack. On a hit,
+        the target takes an extra 18 (4d8) lightning damage, and the target must succeed
+        on a DC 13+1d6 + 10 Constitution saving throw or be stunned until the end
+        of the myrmidon's next turn.
+    Multiattack: The myrmidon makes three flail attacks.
+alignment: N
+book: "Mordenkainen\u2019s Tome of Foes"
+charisma: 10 (+0)
+condition_immunities:
+- paralyzed, petrified, poisoned, prone
+constitution: 14 (+2)
+damage_immunities:
+- poison
+dexterity: 14 (+2)
+hit points: 18d8 + 36
+intelligence: 9 (-1)
+languages:
+- Auran
+- one language of its creator's choice
+name: Air Elemental Myrmidon
+page: 202
+resistances:
+- lightning, thunder
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+- fly 30 ft. (hover)
+strength: 18 (+4)
+tags: []
+traits:
+    Magic Weapons: The myrmidon's weapon attacks are magical.
+type: elemental
+wisdom: 10 (+0)

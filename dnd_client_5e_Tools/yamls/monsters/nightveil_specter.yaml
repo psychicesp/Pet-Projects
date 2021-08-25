@@ -1,0 +1,61 @@
+AC: 17
+CR: 10 (5,900 XP)
+HP: 105 (14d8 + 42)
+actions:
+    Mind Twist (Recharge 5xe2x80x936): The specter magically emits psychic energy
+        in a 60-foot cone. Each creature in that area must succeed on a DC 15+1d8
+        + 11 Wisdom saving throw or take 22 (5d8) psychic damage and be stunned for
+        1 minute. The stunned creature can repeat the saving throw at the end of each
+        of its turns, ending the effect on itself on a success.
+    Multiattack: The specter makes two scythe attacks.
+    Reap Memory (3/Day): The specter touches one incapacitated creature and chooses
+        1 hour from among the past 24. Unless the creature succeeds on a DC 15+1d8
+        + 11 Intelligence saving throw, the creature loses all memory of that hour.
+        The creature regains the memory only if the specter dies within the next 24
+        hours.
+    Scythe: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 10 ft., one target. Hit:
+        11 (2d6 + 4) slashing damage plus 13 (3d8) psychic damage.'
+alignment: NE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '11'
+condition_immunities:
+- charmed, exhaustion, frightened, poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '19'
+insight: '+7'
+intelligence: '6'
+languages:
+- understands Common but can\'t speak
+name: Nightveil Specter
+page: 215
+perception: '+7'
+resistances:
+- necrotic
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 17
+size: Medium
+skills:
+    insight: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+8'
+strength: '18'
+tags: []
+traits:
+    Mount: If the specter isn't mounted, it can use a bonus action to magically teleport
+        onto its gloamwing mount, provided the specter and the gloamwing are on the
+        same plane of existence. When it teleports, the specter appears astride the
+        gloamwing along with any equipment it is wearing or carrying. While mounted
+        and not incapacitated, the specter can't be surprised, and both it and its
+        mount gain advantage on Dexterity saving throws.
+type: undead
+wisdom: '17'

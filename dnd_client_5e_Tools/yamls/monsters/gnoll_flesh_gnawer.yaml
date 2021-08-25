@@ -1,0 +1,40 @@
+AC: 14
+CR: 1 (200 XP)
+HP: 22 (4d8 + 4)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4
+        (1d4 + 2) piercing damage.'
+    Multiattack: 'The gnoll makes three attacks: one with its bite and two with its
+        shortsword.'
+    Shortsword: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) piercing damage.'
+    Sudden Rush: Until the end of the turn, the gnoll's speed increases by 60 feet
+        and it doesn't provoke opportunity attacks.
+alignment: CE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '8'
+constitution: '12'
+dexterity: '14'
+intelligence: '8'
+languages:
+- Gnoll
+name: Gnoll Flesh Gnawer
+page: 154
+saving_throws:
+    dexterity: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '12'
+tags:
+- gnoll
+traits:
+    Rampage: When the gnoll reduces a creature to 0 hit points with a melee attack
+        on its turn, the gnoll can take a bonus action to move up to half its speed
+        and make a bite attack.
+type: humanoid
+wisdom: '10'

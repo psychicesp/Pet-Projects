@@ -1,0 +1,77 @@
+AC: 14
+CR: 4 (1,100 XP)
+HP: 37 (5d8 + 15)
+actions:
+    Possess Corpse (Recharge 6): The dybbuk disappears into an intact corpse it can
+        see within 5 feet of it. The corpse must be Large or smaller and be that of
+        a beast or a humanoid. The dybbuk is now effectively the possessed creature.
+        Its type becomes undead, though it now looks alive, and it gains a number
+        of temporary hit points equal to the corpse's hit point maximum in life.
+    Tendril: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit:
+        13 (2d8 + 4) necrotic damage. If the target is a creature, its hit point maximum
+        is also reduced by 3 (1d6). This reduction lasts until the target finishes
+        a short or long rest. The target dies if this effect reduces its hit point
+        maximum to 0.'
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '14'
+condition_immunities:
+- charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone,
+    restrained
+constitution: '16'
+damage_immunities:
+- poison
+deception: '+6'
+dexterity: '19'
+intelligence: '16'
+intimidation: '+4'
+languages:
+- Abyssal
+- Common
+- telepathy 120 ft.
+name: Dybbuk
+page: 132
+perception: '+4'
+resistances:
+- acid, cold, fire, lightning, thunder
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 14
+size: Medium
+skills:
+    deception: expert
+    intimidation: proficient
+    perception: proficient
+speed:
+- 0 ft
+- fly 40 ft. (hover)
+strength: '6'
+tags:
+- demon
+traits:
+    Incorporeal Movement: The dybbuk can move through other creatures and objects
+        as if they were difficult terrain. It takes 5 (1d10) force damage if it ends
+        its turn inside an object.
+    Magic Resistance: The dybbuk has advantage on saving throws against spells and
+        other magical effects.
+    Violate Corpse: The dybbuk can use a bonus action while it is possessing a corpse
+        to make it do something unnatural, such as vomit blood, twist its head all
+        the way around, or cause a quadruped to move as a biped. Any beast or humanoid
+        that sees this behavior must succeed on a DC 12+1d4 + 10 Wisdom saving throw
+        or become frightened for 1 minute. The frightened creature can repeat the
+        saving throw at the end of each of its turns, ending the effect on itself
+        on a success. A creature that succeeds on a saving throw against this ability
+        is immune to Violate Corpse for 24 hours.
+    spellcasting:
+        ability: charisma
+        spells:
+            3/day:
+            - fear
+            - phantasmal force
+            at will:
+            - dimension door
+        type: innate
+type: fiend
+wisdom: '15'

@@ -1,0 +1,38 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 26 (4d10 + 4)
+actions:
+    Beak: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) piercing damage.'
+    Multiattack: 'The eagle makes two attacks: one with its beak and one with its
+        talons.'
+    Talons: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        10 (2d6 + 3) slashing damage.'
+alignment: NG
+book: Monster Manual
+charisma: '10'
+constitution: '13'
+dexterity: '17'
+intelligence: '8'
+languages:
+- Giant Eagle
+- understands Common and Auran but can't speak them
+name: Giant Eagle
+page: 324
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Large
+skills:
+    perception: proficient
+speed:
+- 10 ft
+- fly 80 ft
+strength: '16'
+tags: []
+traits:
+    Keen Sight: The eagle has advantage on Wisdom (Perception) checks that rely on
+        sight.
+type: beast
+wisdom: '14'

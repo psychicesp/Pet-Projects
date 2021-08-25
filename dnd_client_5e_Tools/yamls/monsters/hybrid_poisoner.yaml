@@ -1,0 +1,51 @@
+AC: 14
+CR: 1 (200 XP)
+HP: 26 (4d8 + 8)
+actions:
+    Toxic Touch: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target.
+        Hit: 7 (2d6) bludgeoning damage, and the target must succeed on a DC 12+1d4
+        + 10 Constitution saving throw or become poisoned for 1 minute. At the end
+        of each of the poisoned target''s turns, it must repeat the save, taking 3
+        (1d6) poison damage on a failed save, or ending the effect on itself on a
+        successful one.'
+alignment: NG
+athletics: '+3'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '12'
+condition_immunities:
+- poisoned
+constitution: '14'
+damage_immunities:
+- poison
+dexterity: '19'
+intelligence: '12'
+languages:
+- Common plus any one language
+name: Hybrid Poisoner
+page: 217
+perception: '+3'
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+senses:
+- darkvision 30 ft.
+- passive Perception 13
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 40 ft
+stealth: '+6'
+strength: '12'
+tags:
+- Simic
+traits:
+    Assassinate: During its first turn, the hybrid poisoner has advantage on attack
+        rolls against any creature that hasn't taken a turn. Any hit the hybrid scores
+        against a surprised creature is a critical hit.
+    Poisonous Skin: Any creature that touches the hybrid or hits it with a melee attack
+        while within 5 feet of it takes 3 (1d6) poison damage.
+type: humanoid
+wisdom: '13'

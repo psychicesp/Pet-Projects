@@ -1,0 +1,78 @@
+AC: 17
+CR: 7 (2,900 XP)
+HP: 102 (12d6 + 60)
+actions:
+    Greatclub: 'Melee Weapon Attack: +9+1d6 + 6 to hit, reach 5 ft., one target. Hit:
+        10 (1d8 + 6) bludgeoning damage, or 19 (3d8 + 6) bludgeoning damage if the
+        korred is on the ground.'
+    Multiattack: The korred makes two attacks with its greatclub or hurls two rocks.
+    Rock: 'Ranged Weapon Attack: +9+1d6 + 6 to hit, range 60/120 ft., one target.
+        Hit: 15 (2d8 + 6) bludgeoning damage, or 24 (4d8 + 6) bludgeoning damage if
+        the korred is on the ground.'
+alignment: CN
+athletics: '+9'
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '9'
+constitution: '20'
+dexterity: '14'
+intelligence: '10'
+languages:
+- Dwarvish
+- Gnomish
+- Sylvan
+- Terran
+- Undercommon
+name: Korred
+page: 168
+perception: '+5'
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- tremorsense 120 ft.
+- passive Perception 15
+size: Small
+skills:
+    athletics: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+- burrow 30 ft
+stealth: '+5'
+strength: '23'
+tags: []
+traits:
+    Command Hair: The korred has at least one 50-foot-long rope woven out of its hair.
+        As a bonus action, the korred commands one such rope within 30 feet of it
+        to move up to 20 feet and entangle a Large or smaller creature that the korred
+        can see. The target must succeed on a DC 13+1d6 + 10 Dexterity saving throw
+        or become grappled by the rope (escape DC 13+1d6 + 10). Until this grapple
+        ends. the target is restrained. The korred can use a bonus action to release
+        the target, which is also freed if the korred dies or becomes incapacitated.
+    Stone Camouflage: The korred has advantage on Dexterity (Stealth) checks made
+        to hide in rocky terrain.
+    Stone's Strength: While on the ground, the korred deals 2 extra dice of damage
+        with any weapon attack (included in its attacks).
+    spellcasting:
+        ability: 'wisdom (save dc 13+1d6 + 10). it can innately cast the following
+            spells, requiring no components:at will: commune with nature, meld into
+            stone, stone shape1/day each: conjure elemental (as 6th-level spell; galeb
+            duhr, gargoyle, earth elemental, or xorn only), otto\''s irresistible
+            dance'
+        spells:
+            1/day:
+            - conjure elemental
+            - galeb duhr
+            - gargoyle
+            - earth elemental
+            - xorn
+            - Otto\'s irresistible dance
+            at will:
+            - commune with nature
+            - meld into stone
+            - stone shape
+        type: innate
+type: fey
+wisdom: '15'

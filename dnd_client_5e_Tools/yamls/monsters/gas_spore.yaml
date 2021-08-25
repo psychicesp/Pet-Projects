@@ -1,0 +1,44 @@
+AC: 5
+CR: 1/2 (100 XP)
+HP: 1 (1d10 - 4)
+actions:
+    Touch: 'Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one creature. Hit:
+        1 poison damage, and the creature must succeed on a DC 10+1d4 + 8 Constitution
+        saving throw or become infected with the disease described in the Death Burst
+        trait.'
+alignment: U
+book: Monster Manual
+charisma: '1'
+condition_immunities:
+- blinded, deafened, frightened, paralyzed, poisoned, prone
+constitution: '3'
+damage_immunities:
+- poison
+dexterity: '1'
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Gas Spore
+page: 138
+saving_throws: {}
+senses:
+- blindsight 30 ft. (blind beyond this radius)
+- passive Perception 5
+size: Large
+skills: {}
+speed:
+- 0 ft
+- fly 10 ft. (hover)
+strength: '5'
+tags: []
+traits:
+    Death Burst: The gas spore explodes when it drops to 0 hit points. Each creature
+        within 20 feet of it must succeed on a DC 15+1d4 + 13 Constitution saving
+        throw or take 10 (3d6) poison damage and become infected with a disease on
+        a failed save. Creatures immune to the poisoned condition are immune to this
+        disease.
+    Eerie Resemblance: The gas spore resembles a beholder. A creature that can see
+        the gas spore can discern its true nature with a successful DC 15+1d4 + 13
+        Intelligence (Nature) check.
+type: plant
+wisdom: '1'

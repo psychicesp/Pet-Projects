@@ -1,0 +1,31 @@
+AC: 13
+CR: 0 (0 or 10 XP)
+HP: 4 (1d6 + 1)
+actions:
+    Bite: 'Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 2
+        (1d6 - 1) slashing damage.'
+alignment: U
+book: Monster Manual
+charisma: '3'
+constitution: '12'
+dexterity: '10'
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Giant Fire Beetle
+page: 325
+saving_throws: {}
+senses:
+- blindsight 30 ft.
+- passive Perception 8
+size: Small
+skills: {}
+speed:
+- 30 ft
+strength: '8'
+tags: []
+traits:
+    Illumination: The beetle sheds bright light in a 10-foot radius and dim light
+        for an additional 10 ft..
+type: beast
+wisdom: '7'

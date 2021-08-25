@@ -1,0 +1,56 @@
+AC: 15
+CR: 6 (2,300 XP)
+HP: 90 (12d10 + 24)
+actions:
+    Bite: 'Melee Weapon Attack: +9+1d6 + 6 to hit, reach 5 ft., one creature. Hit:
+        15 (2d8 + 6) piercing damage plus 7 (2d6) necrotic damage.'
+    Claws: 'Melee Weapon Attack: +9+1d6 + 6 to hit, reach 5 ft., one target. Hit:
+        13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage.'
+    Multiattack: 'The gloomstalker makes two attacks: one with its bite and one with
+        its claws.'
+    Shriek (Recharge 6): The gloomstalker emits a terrible shriek. Each enemy within
+        60 feet of the gloomstalker that can hear it must succeed on a DC 13+1d6 +
+        10 Constitution saving throw or be paralyzed until the end of the enemy's
+        next turn.
+    Snatch: 'Melee Weapon Attack: +9+1d6 + 6 to hit, reach 5 ft., one Medium or smaller
+        creature. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage,
+        and the target is grappled (escape DC 17+1d6 + 14). While grappled in this
+        way, the target is restrained.'
+alignment: NE
+athletics: '+9'
+book: Explorer\xe2\x80\x99s Guide to Wildemount
+charisma: '14'
+constitution: '14'
+dexterity: '16'
+intelligence: '5'
+intimidation: '+5'
+languages:
+- understands Common but can\'t speak
+name: Gloomstalker
+page: 291
+perception: '+6'
+saving_throws:
+    dexterity: proficient
+    strength: proficient
+senses:
+- darkvision 240 ft
+- passive Perception 16
+size: Large
+skills:
+    athletics: proficient
+    intimidation: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 40 ft
+- fly 80 ft
+stealth: '+6'
+strength: '22'
+tags: []
+traits:
+    Shadowstep: As a bonus action, the gloomstalker can teleport up to 40 feet to
+        an unoccupied space it can see.
+    Sunlight Sensitivity: While in sunlight, the gloomstalker has disadvantage on
+        attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: monstrosity
+wisdom: '17'

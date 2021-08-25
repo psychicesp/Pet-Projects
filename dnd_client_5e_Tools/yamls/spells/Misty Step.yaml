@@ -1,0 +1,17 @@
+casting time: 1 bonus action
+classes:
+- Sorcerer
+- Warlock
+- Wizard
+components: V
+concentration: false
+description: Briefly surrounded by silvery mist, you teleport up to 30 feet to an
+    unoccupied space that you can see.
+duration: Instantaneous
+level: 2
+name: Misty Step
+page: 260
+range: Self
+ritual: false
+school: conjuration
+source: PHB

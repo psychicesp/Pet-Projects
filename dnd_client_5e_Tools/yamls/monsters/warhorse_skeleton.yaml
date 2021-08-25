@@ -1,0 +1,32 @@
+AC: 13
+CR: 1/2 (100 XP)
+HP: 22 (3d10 + 6)
+actions:
+    Hooves: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit:
+        11 (2d6 + 4) bludgeoning damage.'
+alignment: LE
+book: Monster Manual
+charisma: '5'
+condition_immunities:
+- exhaustion, poisoned
+constitution: '15'
+damage_immunities:
+- poison
+dexterity: '12'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Warhorse Skeleton
+page: 273
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 9
+size: Large
+skills: {}
+speed:
+- 60 ft
+strength: '18'
+tags: []
+type: undead
+wisdom: '8'

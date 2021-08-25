@@ -1,0 +1,76 @@
+AC: 21
+CR: 22 (41,000 XP)
+HP: 307 (15d20 + 150)
+actions:
+    Bite: 'Melee Weapon Attack: +17+1d14 + 10 to hit, reach 20 ft., one target. Hit:
+        28 (4d8 + 10) piercing damage.'
+    Multiattack: 'The zaratan makes two attacks: one with its bite and one with its
+        stomp.'
+    Spew Debris (Recharge 5xe2x80x936): The zaratan exhales rocky debris in a 90-foot
+        cube. Each creature in that area must make a DC 25+1d14 + 18 Dexterity saving
+        throw. A creature takes 33 (6d10) bludgeoning damage on a failed save, or
+        half as much damage on a successful one. A creature that fails the save by
+        5 or more is knocked prone.
+    Spit Rock: 'Ranged Weapon Attack: +17+1d14 + 10 to hit, range 120/240 ft., one
+        target. Hit: 31 (6d8 + 10) bludgeoning damage.'
+    Stomp: 'Melee Weapon Attack: +17+1d14 + 10 to hit, reach 20 ft., one target. Hit:
+        26 (3d10 + 10) bludgeoning damage.'
+alignment: N
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '18'
+condition_immunities:
+- exhaustion, paralyzed, petrified, poisoned, stunned
+constitution: '30'
+damage_immunities:
+- poison
+dexterity: '10'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+legendary_actions:
+    number: 3
+    options:
+        Emerge (Costs 2 Actions): ' The zaratan emerges from its shell and uses Spit
+            Rock. It can use this option only if it is retracted in its shell.'
+        Move: ' The zaratan moves up to its speed.'
+        Retract (Costs 2 Actions): ' The zaratan retracts into its shell. Until it
+            takes its Emerge action, it has resistance to all damage, and it is restrained.
+            The next time it takes a legendary action, it must take its Revitalize
+            or Emerge action.'
+        Revitalize (Costs 2 Actions): ' The zaratan can use this option only if it
+            is retracted in its shell. It regains 52 (5d20) hit points. The next time
+            it takes a legendary action, it must take its Emerge action.'
+        Spit (Costs 2 Actions): ' The zaratan uses Spit Rock.'
+        Stomp: ' The zaratan makes one stomp attack.'
+name: Zaratan
+page: 201
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- tremorsense 60 ft.
+- passive Perception 15
+size: Gargantuan
+skills: {}
+speed:
+- 40 ft
+- swim 40 ft
+strength: '30'
+tags: []
+traits:
+    Earth-Shaking Movement: As a bonus action after moving at least 10 feet on the
+        ground, the zaratan can send a shock wave through the ground in a 120-foot-radius
+        circle centered on itself. That area becomes difficult terrain for 1 minute.
+        Each creature on the ground that is concentrating must succeed on a DC 25+1d14
+        + 18 Constitution saving throw or the creature's concentration is broken.
+    Legendary Resistance (3/Day): If the zaratan fails a saving throw, it can choose
+        to succeed instead.
+    Magic Weapons: The zaratan's weapon attacks are magical.
+    Siege Monster: The elemental deals double damage to objects and structures (included
+        in Earth-Shaking Movement).
+type: elemental
+wisdom: '21'

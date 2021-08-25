@@ -1,0 +1,55 @@
+AC: 15
+CR: 6 (2,300 XP)
+HP: 68 (8d8 + 32)
+actions:
+    Bite: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 5
+        (1d4 + 3) piercing damage plus 3 (1d6) cold damage.'
+    Claw: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 8
+        (1d10 + 3) slashing damage.'
+    Longsword: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit:
+        7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with
+        two hands.'
+    Multiattack: 'The abishai makes two attacks: one with its longsword and one with
+        its claw.'
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '13'
+condition_immunities:
+- poisoned
+constitution: '18'
+damage_immunities:
+- cold, fire, poison
+dexterity: '11'
+intelligence: '11'
+languages:
+- Draconic
+- Infernal
+- telepathy 120 ft.
+name: White Abishai
+page: 163
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t silvered
+saving_throws:
+    constitution: proficient
+    strength: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 11
+size: Medium
+skills: {}
+speed:
+- 30 ft
+- fly 40 ft
+strength: '16'
+tags:
+- devil
+traits:
+    Devil's Sight: Magical darkness doesn't impede the abishai's darkvision.
+    Magic Resistance: The abishai has advantage on saving throws against spells and
+        other magical effects.
+    Magic Weapons: The abishai's weapon attacks are magical.
+    Reckless: At the start of its turn, the abishai can gain advantage on all melee
+        weapon attack rolls during that turn, but attack rolls against it have advantage
+        until the start of its next turn.
+type: fiend
+wisdom: '12'

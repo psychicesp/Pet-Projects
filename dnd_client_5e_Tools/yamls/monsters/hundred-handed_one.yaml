@@ -1,0 +1,43 @@
+AC: 15
+CR: 15 (13,000 XP)
+HP: 243 (18d12 + 126)
+actions:
+    Longsword: 'Melee Weapon Attack: +13+1d10 + 8 to hit, reach 15 ft., one target.
+        Hit: 21 (3d8 + 8) slashing damage.'
+    Multiattack: The giant makes four longsword attacks or two rock attacks.
+    Rock: 'Ranged Weapon Attack: +13+1d10 + 8 to hit, range 60/240 ft., one target.
+        Hit: 30 (4d10 + 8) bludgeoning damage. If the target is a creature, it must
+        succeed on a DC 21+1d10 + 16 Strength saving throw or be knocked prone.'
+alignment: LN
+book: Mythic Odysseys of Theros
+charisma: '16'
+condition_immunities:
+- frightened
+constitution: '25'
+dexterity: '15'
+intelligence: '14'
+intimidation: '+8'
+languages:
+- Giant
+name: Hundred-Handed One
+page: 225
+perception: '+8'
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 18
+size: Huge
+skills:
+    intimidation: proficient
+    perception: proficient
+speed:
+- 40 ft
+strength: '26'
+tags: []
+traits:
+    Reactive: The giant can take one reaction on every turn in a combat.
+    Vigilant: The giant can't be surprised.
+type: giant
+wisdom: '16'

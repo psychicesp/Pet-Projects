@@ -1,0 +1,46 @@
+AC: 16
+CR: 2 (450 XP)
+HP: 32 (5d8 + 10)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7
+        (1d10 + 2) piercing damage plus 2 (1d4) cold damage.'
+    Cold Breath (Recharge 5xe2x80x936): The dragon exhales an icy blast of hail in
+        a 15-foot cone. Each creature in that area must make a DC 12+1d4 + 10 Constitution
+        saving throw, taking 22 (5d8) cold damage on a failed save, or half as much
+        damage on a successful one.
+alignment: CE
+book: Monster Manual
+charisma: '11'
+constitution: '14'
+damage_immunities:
+- cold
+dexterity: '10'
+intelligence: '5'
+languages:
+- Draconic
+name: White Dragon Wyrmling
+page: 102
+perception: '+4'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 10 ft.
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 30 ft
+- burrow 15 ft
+- fly 60 ft
+- swim 30 ft
+stealth: '+2'
+strength: '14'
+tags: []
+type: dragon
+wisdom: '10'

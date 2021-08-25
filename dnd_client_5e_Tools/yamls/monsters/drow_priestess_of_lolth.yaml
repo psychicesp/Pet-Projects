@@ -1,0 +1,88 @@
+AC: 16
+CR: 8 (3,900 XP)
+HP: 71 (13d8 + 13)
+actions:
+    Multiattack: The drow makes two scourge attacks.
+    Scourge: 'Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit:
+        5 (1d6 + 2) piercing damage plus 17 (5d6) poison damage.'
+    Summon Demon (1/Day): The drow attempts to magically summon a yochlol with a 30
+        percent chance of success. If the attempt fails, the drow takes 5 (1d10) psychic
+        damage. Otherwise, the summoned demon appears in an unoccupied space within
+        60 feet of its summoner, acts as an ally of its summoner, and can't summon
+        other demons. It remains for 10 minutes, until it or its summoner dies, or
+        until its summoner dismisses it as an action.
+alignment: NE
+book: Monster Manual
+charisma: '18'
+constitution: '12'
+dexterity: '14'
+insight: '+6'
+intelligence: '13'
+languages:
+- Elvish
+- Undercommon
+name: Drow Priestess of Lolth
+page: 129
+perception: '+6'
+religion: '+4'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 16
+size: Medium
+skills:
+    insight: proficient
+    perception: proficient
+    religion: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+5'
+strength: '10'
+tags:
+- elf
+traits:
+    Fey Ancestry: The drow has advantage on saving throws against being charmed, and
+        magic can't put the drow to sleep.
+    Sunlight Sensitivity: While in sunlight, the drow has disadvantage on attack rolls,
+        as well as on Wisdom (Perception) checks that rely on sight.
+    spellcasting:
+        ability: 'wisdom (save dc 14+1d6 + 11, +6+1d6 + 3 to hit with spell attacks).
+            the drow has the following cleric spells prepared:cantrips (at will):
+            guidance, poison spray, resistance, spare the dying, thaumaturgy1st level
+            (4 slots): animal friendship, cure wounds, detect poison and disease,
+            ray of sickness2nd level (3 slots): lesser restoration, protection from
+            poison, web3rd level (3 slots): conjure animals (2 giant spiders), dispel
+            magic4th level (3 slots): divination, freedom of movement5th level (2
+            slots): insect plague, mass cure wounds'
+        spells:
+            1st:
+            - animal friendship
+            - cure wounds
+            - detect poison and disease
+            - ray of sickness
+            2nd:
+            - lesser restoration
+            - protection from poison
+            - web
+            3rd:
+            - conjure animals
+            - dispel magic
+            4th:
+            - divination
+            - freedom of movement
+            5th:
+            - insect plague
+            - mass cure wounds
+            Cantrips:
+            - guidance
+            - poison spray
+            - resistance
+            - spare the dying
+            - thaumaturgy
+        type: innate
+type: humanoid
+wisdom: '17'

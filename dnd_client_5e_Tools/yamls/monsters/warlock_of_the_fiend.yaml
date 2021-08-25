@@ -1,0 +1,68 @@
+AC: 12
+CR: 7 (2,900 XP)
+HP: 78 (12d8 + 24)
+actions:
+    Mace: 'Melee Weapon Attack: +3+1d6 + 0 to hit, reach 5 ft., one target. Hit: 3
+        (1d6) bludgeoning damage plus 10 (3d6) fire damage.'
+alignment: AA
+arcana: '+4'
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '18'
+constitution: '15'
+deception: '+7'
+dexterity: '14'
+intelligence: '12'
+languages:
+- any two languages (usually Abyssal or Infernal)
+name: Warlock of the Fiend
+page: 219
+persuasion: '+7'
+religion: '+4'
+resistances:
+- slashing from nonmagical attacks not made with silvered weapons
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Medium
+skills:
+    arcana: proficient
+    deception: proficient
+    persuasion: proficient
+    religion: proficient
+speed:
+- 30 ft
+strength: '10'
+tags:
+- any
+traits:
+    Dark One's Own Luck (Recharges after a Short or Long Rest): When the warlock makes
+        an ability check or saving throw, it can add a d10 to the roll. It can do
+        this after the roll is made but before any of the roll's effects occur.
+    spellcasting:
+        ability: charisma
+        spells:
+            1st-5th:
+            - banishment
+            - burning hands
+            - flame strike
+            - hellish rebuke
+            - magic circle
+            - scorching ray
+            - scrying
+            - stinking cloud
+            - suggestion
+            - wall of fire
+            Cantrips:
+            - eldritch blast
+            - fire bolt
+            - friends
+            - mage hand
+            - minor illusion
+            - prestidigitation
+            - shocking grasp
+        type: innate
+type: humanoid
+wisdom: '12'

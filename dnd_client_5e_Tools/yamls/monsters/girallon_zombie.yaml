@@ -1,0 +1,44 @@
+AC: 11
+CR: 3 (700 XP)
+HP: 59 (7d10 + 21)
+actions:
+    Bite: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7
+        (1d6 + 4) piercing damage.'
+    Claw: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 6
+        (1d4 + 4) slashing damage.'
+    Multiattack: 'The zombie makes five attacks: one with its bite and four with its
+        claws.'
+alignment: CE
+book: Tomb of Annihilation
+charisma: '5'
+condition_immunities:
+- poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '12'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Girallon Zombie
+page: 240
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Large
+skills: {}
+speed:
+- 30 ft
+- climb 30 ft
+strength: '18'
+tags: []
+traits:
+    Aggressive: As a bonus action, the zombie can move up to its speed toward a hostile
+        creature that it can see.
+    Undead Fortitude: If damage reduces the zombie to 0 hit points, it must make a
+        Constitution saving throw with a DC of 5+the damage taken, unless the damage
+        is radiant or from a critical hit. On a success, the zombie drops to 1 hit
+        point instead.
+type: undead
+wisdom: '7'

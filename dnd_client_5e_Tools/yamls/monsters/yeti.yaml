@@ -1,0 +1,51 @@
+AC: 12
+CR: 3 (700 XP)
+HP: 51 (6d10 + 18)
+actions:
+    Chilling Gaze: The yeti targets one creature it can see within 30 feet of it.
+        If the target can see the yeti, the target must succeed on a DC 13+1d4 + 11
+        Constitution saving throw against this magic or take 10 (3d6) cold damage
+        and then be paralyzed for 1 minute, unless it is immune to cold damage. The
+        target can repeat the saving throw at the end of each of its turns, ending
+        the effect on itself on a success. If the target's saving throw is successful,
+        or if the effect ends on it, the target is immune to the Chilling Gaze of
+        all yetis (but not abominable yetis) for 1 hour.
+    Claw: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7
+        (1d6 + 4) slashing damage plus 3 (1d6) cold damage.'
+    Multiattack: The yeti can use its Chilling Gaze and makes two claw attacks.
+alignment: CE
+book: Monster Manual
+charisma: '7'
+constitution: '16'
+damage_immunities:
+- cold
+dexterity: '13'
+intelligence: '8'
+languages:
+- Yeti
+name: Yeti
+page: 305
+perception: '+3'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Large
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 40 ft
+- climb 40 ft
+stealth: '+3'
+strength: '18'
+tags: []
+traits:
+    Fear of Fire: If the yeti takes fire damage, it has disadvantage on attack rolls
+        and ability checks until the end of its next turn.
+    Keen Smell: The yeti has advantage on Wisdom (Perception) checks that rely on
+        smell.
+    Snow Camouflage: The yeti has advantage on Dexterity (Stealth) checks made to
+        hide in snowy terrain.
+type: monstrosity
+wisdom: '12'

@@ -1,0 +1,60 @@
+AC: 18
+CR: 5 (1,800 XP)
+HP: 59 (7d8 + 28)
+actions:
+    Javelin: 'Melee or Ranged Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.'
+    Longsword: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with
+        two hands.'
+    Multiattack: The rakshasa makes three melee weapon attacks. Alternatively, it
+        can make two ranged attacks with its javelins.
+alignment: LE
+athletics: '+7'
+book: 'Eberron: Rising from the Last War'
+charisma: '11'
+constitution: '18'
+dexterity: '14'
+intelligence: '12'
+languages:
+- Common
+- Infernal
+name: Zakya Rakshasa
+page: 309
+perception: '+4'
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '18'
+tags: []
+traits:
+    Limited Magic Immunity: The rakshasa can't be affected or detected by spells of
+        1st level or lower unless it wishes to be. It has advantage on saving throws
+        against all other spells and magical effects.
+    Magic Weapons: The rakshasa's weapon attacks are magical.
+    Martial Prowess (1/Turn): When the rakshasa hits a creature with a melee weapon
+        attack, the attack deals an extra 11 (2d10) damage of the weapon's type, and
+        the creature must make a DC 15+1d6 + 12 Strength saving throw. On a failure,
+        the rakshasa can push the creature up to 10 feet away from it, knock the creature
+        prone, or make the creature drop one item it is holding of the rakshasa's
+        choice.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - shield
+            at will:
+            - detect thoughts
+            - disguise self
+        type: innate
+type: fiend
+wisdom: '13'

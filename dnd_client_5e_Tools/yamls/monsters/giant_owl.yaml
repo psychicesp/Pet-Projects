@@ -1,0 +1,41 @@
+AC: 12
+CR: 1/4 (50 XP)
+HP: 19 (3d10 + 3)
+actions:
+    Talons: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit:
+        8 (2d6 + 1) slashing damage.'
+alignment: N
+book: Monster Manual
+charisma: '10'
+constitution: '12'
+dexterity: '15'
+intelligence: '8'
+languages:
+- Giant Owl
+- understands Common
+- Elvish
+- and Sylvan but can\'t speak them
+name: Giant Owl
+page: 327
+perception: '+5'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 15
+size: Large
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 5 ft
+- fly 60 ft
+stealth: '+4'
+strength: '13'
+tags: []
+traits:
+    Flyby: The owl doesn't provoke opportunity attacks when it flies out of an enemy's
+        reach.
+    Keen Hearing and Sight: The owl has advantage on Wisdom (Perception) checks that
+        rely on hearing or sight.
+type: beast
+wisdom: '13'

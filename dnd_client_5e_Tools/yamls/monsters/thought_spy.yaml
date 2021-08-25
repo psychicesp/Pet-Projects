@@ -1,0 +1,60 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 27 (6d8)
+actions:
+    Dagger: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.'
+    Multiattack: The thought spy makes two melee attacks, or it makes three ranged
+        attacks with its daggers.
+    Rapier: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        6 (1d8 + 2) piercing damage.'
+alignment: NE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '14'
+constitution: '10'
+deception: '+6'
+dexterity: '14'
+hit: 6d8
+insight: '+3'
+intelligence: '16'
+investigation: '+5'
+languages:
+- Common plus any one language
+name: Thought Spy
+page: 233
+perception: '+3'
+saving_throws: {}
+senses:
+- darkvision 30 ft.
+- passive Perception 13
+size: Medium
+skills:
+    deception: expert
+    insight: proficient
+    investigation: proficient
+    perception: proficient
+    sleight of hand: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+4'
+strength: '11'
+tags:
+- any
+traits:
+    Cunning Action: On each of its turns, the thought spy can use a bonus action to
+        take the Dash, Disengage, or Hide action.
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - blur
+            - detect thoughts
+            - gaseous form
+            at will:
+            - charm person
+            - disguise self
+            - encode thoughts
+        type: innate
+type: humanoid
+wisdom: '13'

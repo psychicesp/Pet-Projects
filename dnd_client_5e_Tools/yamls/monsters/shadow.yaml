@@ -1,0 +1,46 @@
+AC: 12
+CR: 1/2 (100 XP)
+HP: 16 (3d8 + 3)
+actions:
+    Strength Drain: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature.
+        Hit: 9 (2d6 + 2) necrotic damage, and the target''s Strength score is reduced
+        by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the
+        reduction lasts until the target finishes a short or long rest.'
+alignment: CE
+book: Monster Manual
+charisma: '8'
+condition_immunities:
+- exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+constitution: '13'
+damage_immunities:
+- necrotic, poison
+dexterity: '14'
+intelligence: '6'
+languages:
+- \xe2\x80\x94
+name: Shadow
+page: 269
+resistances:
+- acid, cold, fire, lightning, thunder
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills:
+    stealth: proficient
+speed:
+- 40 ft
+stealth: '+4'
+strength: '6'
+tags: []
+traits:
+    Amorphous: The shadow can move through a space as narrow as 1 inch wide without
+        squeezing.
+    Shadow Stealth: While in dim light or darkness, the shadow can take the Hide action
+        as a bonus action. Its stealth bonus is also improved to +6.
+    Sunlight Weakness: While in sunlight, the shadow has disadvantage on attack rolls,
+        ability checks, and saving throws.
+type: undead
+wisdom: '10'

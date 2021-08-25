@@ -1,0 +1,52 @@
+AC: 18
+CR: 8 (3,900 XP)
+HP: 142 (15d10 + 60)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit:
+        16 (2d10 + 5) piercing damage.'
+    Breath Weapons (Recharge 5xe2x80x936): The dragon uses one of the following breath
+        weapons.
+    Claw: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 12
+        (2d6 + 5) slashing damage.'
+    Multiattack: 'The dragon makes three attacks: one with its bite and two with its
+        claws.'
+alignment: LG
+book: Monster Manual
+charisma: '17'
+constitution: '19'
+damage_immunities:
+- lightning
+dexterity: '10'
+insight: '+4'
+intelligence: '14'
+languages:
+- Common
+- Draconic
+name: Young Bronze Dragon
+page: 108
+perception: '+7'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 30 ft.
+- darkvision 120 ft.
+- passive Perception 17
+size: Large
+skills:
+    insight: proficient
+    perception: expert
+    stealth: proficient
+speed:
+- 40 ft
+- fly 80 ft
+- swim 40 ft
+stealth: '+3'
+strength: '21'
+tags: []
+traits:
+    Amphibious: The dragon can breathe air and water.
+type: dragon
+wisdom: '13'

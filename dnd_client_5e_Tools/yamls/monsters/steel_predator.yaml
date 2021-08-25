@@ -1,0 +1,66 @@
+AC: 20
+CR: 16 (15,000 XP)
+HP: 207 (18d10 + 108)
+actions:
+    Bite: 'Melee Weapon Attack: +12+1d10 + 7 to hit, reach 5 ft., one target. Hit:
+        14 (2d6 + 7) piercing damage.'
+    Claw: 'Melee Weapon Attack: +12+1d10 + 7 to hit, reach 5 ft., one target. Hit:
+        16 (2d8 + 7) slashing damage.'
+    Multiattack: 'The steel predator makes three attacks: one with its bite and two
+        with its claw.'
+    Stunning Roar (Recharge 5xe2x80x936): The steel predator emits a roar in a 60-foot
+        cone. Each creature in that area must make a DC 19+1d10 + 14 Constitution
+        saving throw. On a failed save, a creature takes 27 (5d10) thunder damage,
+        drops everything it's holding, and is stunned for 1 minute. On a successful
+        save, a creature takes half as much damage. The stunned creature can repeat
+        the saving throw at the end of each of its turns, ending the effect on itself
+        on a success.
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '6'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
+constitution: '22'
+damage_immunities:
+- poison, psychic
+- bludgeoning, piercing, and slashing from nonmagical attacks
+dexterity: '17'
+intelligence: '4'
+languages:
+- understands Modron and the language of its owner but can't speak
+name: Steel Predator
+page: 239
+perception: '+7'
+resistances:
+- cold, lightning, necrotic, thunder
+saving_throws: {}
+senses:
+- blindsight 30 ft.
+- darkvision 60 ft.
+- passive Perception 17
+size: Large
+skills:
+    perception: proficient
+    stealth: proficient
+    survival: proficient
+speed:
+- 40 ft
+stealth: '+8'
+strength: '24'
+survival: '+7'
+tags: []
+traits:
+    Magic Resistance: The steel predator has advantage on saving throws against spells
+        and other magical effects.
+    Magic Weapons: The steel predator's weapon attacks are magical.
+    spellcasting:
+        ability: 'wisdom. the steel predator can innately cast the following spells,
+            requiring no components:3/day each: dimension door (self only), plane
+            shift (self only)'
+        spells:
+            3/day:
+            - dimension door
+            - plane shift
+        type: innate
+type: construct
+wisdom: '14'

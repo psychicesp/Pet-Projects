@@ -1,0 +1,61 @@
+AC: 12
+CR: 3 (700 XP)
+HP: 66 (12d8 + 12)
+actions:
+    Bite (Snake Form Only): 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft.,
+        one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.'
+    Longbow (Yuan-ti Form Only): 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 150/600
+        ft., one target. Hit: 6 (1d8 + 2) piercing damage.'
+    Multiattack (Yuan-ti Form Only): The yuan-ti makes two ranged attacks or two melee
+        attacks.
+    Scimitar (Yuan-ti Form Only): 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5
+        ft., one target. Hit: 6 (1d6 + 3) slashing damage.'
+alignment: Y
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '16'
+condition_immunities:
+- poisoned
+constitution: '13'
+damage_immunities:
+- poison
+deception: '+5'
+dexterity: '14'
+intelligence: '14'
+languages:
+- Abyssal
+- Common
+- Draconic
+name: Yuan-ti Malison (Type 4)
+page: 96
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Medium
+skills:
+    deception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+4'
+strength: '16'
+tags:
+- shapechanger
+traits:
+    Magic Resistance: The yuan-ti has advantage on saving throws against spells and
+        other magical effects.
+    Malison Type: 'The yuan-ti has one of the following types:'
+    Shapechanger: The yuan-ti can use its action to polymorph into a Medium snake,
+        or back into its true form. Its statistics are the same in each form. Any
+        equipment it is wearing or carrying isn't transformed. It doesn't change form
+        if it dies.
+    spellcasting:
+        ability: charisma
+        spells:
+            3/day:
+            - suggestion
+            at will:
+            - animal friendship
+        type: innate
+type: monstrosity
+wisdom: '12'

@@ -1,0 +1,41 @@
+AC: 16
+CR: 3 (700 XP)
+HP: 60 (11d8 + 11)
+acrobatics: '+5'
+actions:
+    Dart: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 20/60 ft., one target. Hit:
+        5 (1d4 + 3) piercing damage.'
+    Multiattack: The adept makes three unarmed strikes or three dart attacks.
+    Unarmed Strike: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 7 (1d8 + 3) bludgeoning damage. If the target is a creature, the adept
+        can choose one of the following additional effects:'
+alignment: AA
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '10'
+constitution: '13'
+dexterity: '17'
+insight: '+5'
+intelligence: '11'
+languages:
+- any one language (usually Common)
+name: Martial Arts Adept
+page: 216
+saving_throws: {}
+senses:
+- passive Perception 13
+size: Medium
+skills:
+    acrobatics: proficient
+    insight: proficient
+    stealth: proficient
+speed:
+- 40 ft
+stealth: '+5'
+strength: '11'
+tags:
+- any
+traits:
+    Unarmored Defense: While the adept is wearing no armor and wielding no shield,
+        its AC includes its Wisdom modifier.
+type: humanoid
+wisdom: '16'

@@ -1,0 +1,31 @@
+AC: 15
+CR: 5 (1,800 XP)
+HP: 121 (9d20 + 27)
+actions:
+    Stomp: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 20 ft., one target. Hit:
+        27 (5d8 + 5) bludgeoning damage, and the target must succeed on a DC 14+1d6
+        + 11 Strength saving throw or be knocked prone.'
+    Tail: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 20 ft., one target. Hit:
+        32 (6d8 + 5) bludgeoning damage.'
+alignment: U
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '7'
+constitution: '17'
+dexterity: '9'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Brontosaurus
+page: 139
+saving_throws:
+    constitution: proficient
+senses:
+- passive Perception 10
+size: Gargantuan
+skills: {}
+speed:
+- 30 ft
+strength: '21'
+tags: []
+type: beast
+wisdom: '10'

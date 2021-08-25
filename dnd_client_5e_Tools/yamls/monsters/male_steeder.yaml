@@ -1,0 +1,42 @@
+AC: 12
+CR: 1/4 (50 XP)
+HP: 13 (2d8 + 4)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6
+        (1d8 + 2) piercing damage plus 4 (1d8) poison damage.'
+    Sticky Leg: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one Small or
+        Tiny creature. Hit: The target is stuck to the steeder''s leg and is grappled
+        until it escapes (escape DC 12+1d4 + 10). The steeder can have only one creature
+        grappled at a time.'
+alignment: U
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '3'
+constitution: '14'
+dexterity: '12'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Male Steeder
+page: 238
+perception: '+4'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: expert
+    stealth: expert
+speed:
+- 30 ft
+- climb 30 ft
+stealth: '+5'
+strength: '15'
+tags: []
+traits:
+    Extraordinary Leap: The distance of the steeder's long jumps is tripled; every
+        foot of its walking speed that it spends on the jump allows it to jump 3 feet.
+    Spider Climb: The steeder can climb difficult surfaces, including upside down
+        on ceilings, without needing to make an ability check.
+type: monstrosity
+wisdom: '10'

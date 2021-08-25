@@ -1,0 +1,48 @@
+AC: 15
+CR: 4 (1,100 XP)
+HP: 65 (10d8 + 20)
+acrobatics: '+5'
+actions:
+    Multiattack: The Returned makes two shortsword attacks.
+    Shortsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage plus 10 (3d6) poison damage.'
+alignment: CE
+athletics: '+2'
+book: Mythic Odysseys of Theros
+charisma: '15'
+condition_immunities:
+- poisoned
+constitution: '14'
+damage_immunities:
+- poison
+dexterity: '17'
+intelligence: '13'
+languages:
+- the languages it knew in life
+name: Returned Palamnite
+page: 241
+resistances:
+- necrotic
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Medium
+skills:
+    acrobatics: proficient
+    athletics: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+5'
+strength: '10'
+tags: []
+traits:
+    Fleeting Anger: If another creature deals damage to the Returned, the Returned
+        makes attack rolls with advantage until the end of its next turn.
+    Turn Resistance: The Returned has advantage on saving throws against any effect
+        that turns undead.
+    Unreadable Face: The Returned is immune to any effect that would sense its emotions
+        or read its thoughts. Wisdom (Insight) checks to ascertain the Returned's
+        intentions or sincerity are made with disadvantage.
+type: undead
+wisdom: '12'

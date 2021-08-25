@@ -1,0 +1,55 @@
+AC: 14
+CR: 2 (450 XP)
+HP: 39 (6d8 + 12)
+actions:
+    Acid Squirt: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 20/40 ft., one target.
+        Hit: 7 (1d8 + 3) acid damage.'
+    Beer Shower: The keg robot spews an unnaturally potent beer in a 15-foot cone
+        or in a 30-foot line that is 5 feet wide. Each creature in the area must succeed
+        on a DC 13+1d4 + 11 Constitution saving throw or be poisoned. While poisoned
+        in this way, a creature has its speed halved by exposure to the potent brew.
+        An affected creature can repeat the saving throw at the end of each of its
+        turns, ending the effect on itself on a success.
+    Fist: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7
+        (1d8 + 3) bludgeoning damage.'
+    Hot Oil Spray (Recharge 5xe2x80x936): The keg robot sprays hot oil in a 15-foot
+        cone or in a 30-foot line that is 5 feet wide. Each creature in the area must
+        make a DC 13+1d4 + 11 Dexterity saving throw. On a failed save, a creature
+        takes 7 (1d8 + 3) fire damage and falls prone. On a successful save, a creature
+        takes half as much damage and doesn't fall prone.
+alignment: U
+book: Acquisitions Incorporated
+charisma: '5'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: '15'
+damage_immunities:
+- poison, psychic
+dexterity: '16'
+intelligence: '6'
+languages:
+- understands Common but can\'t speak
+name: Keg Robot
+page: 212
+perception: '+1'
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 30 ft
+strength: '16'
+tags: []
+traits:
+    Customizable Storage: A keg robot can hold up to three types of liquid payload
+        totaling 12 gallons within its hollow, barrel-shaped body. A full keg robot
+        can make one liquid attack per gallon before the liquid must be refilled.
+        Filling a keg robot takes 2 rounds per gallon. Differing payloads can alter
+        the keg robot's attacks from those presented here.
+type: construct
+wisdom: '8'

@@ -1,0 +1,50 @@
+AC: 18
+CR: 9 (5,000 XP)
+HP: 152 (16d10 + 64)
+actions:
+    Bite: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 10 ft., one target. Hit:
+        16 (2d10 + 5) piercing damage plus 5 (1d10) lightning damage.'
+    Claw: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 12
+        (2d6 + 5) slashing damage.'
+    Lightning Breath (Recharge 5xe2x80x936): The dragon exhales lightning in a 60-foot
+        line that is 5 feet wide. Each creature in that line must make a DC 16+1d8
+        + 12 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed
+        save, or half as much damage on a successful one.
+    Multiattack: 'The dragon makes three attacks: one with its bite and two with its
+        claws.'
+alignment: LE
+book: Monster Manual
+charisma: '17'
+constitution: '19'
+damage_immunities:
+- lightning
+dexterity: '10'
+intelligence: '14'
+languages:
+- Common
+- Draconic
+name: Young Blue Dragon
+page: 91
+perception: '+9'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 30 ft.
+- darkvision 120 ft.
+- passive Perception 19
+size: Large
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 40 ft
+- burrow 20 ft
+- fly 80 ft
+stealth: '+4'
+strength: '21'
+tags: []
+type: dragon
+wisdom: '13'

@@ -1,0 +1,63 @@
+AC: 11
+CR: 1 (200 XP)
+HP: 22 (5d8)
+actions:
+    Club: 'Melee Weapon Attack: +2+1d4 + 0 to hit (+6+1d4 + 4 to hit with shillelagh),
+        reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning
+        damage with shillelagh.'
+    Fey Charm: The dryad targets one humanoid or beast that she can see within 30
+        feet of her. If the target can see the dryad, it must succeed on a DC 14+1d4
+        + 12 Wisdom saving throw or be magically charmed. The charmed creature regards
+        the dryad as a trusted friend to be heeded and protected. Although the target
+        isn't under the dryad's control, it takes the dryad's requests or actions
+        in the most favorable way it can.
+alignment: N
+book: Monster Manual
+charisma: '18'
+constitution: '11'
+dexterity: '12'
+hit: 5d8
+intelligence: '14'
+languages:
+- Elvish
+- Sylvan
+name: Dryad
+page: 121
+perception: '+4'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: proficient
+    stealth: expert
+speed:
+- 30 ft
+stealth: '+5'
+strength: '10'
+tags: []
+traits:
+    Magic Resistance: The dryad has advantage on saving throws against spells and
+        other magical effects.
+    Speak with Beasts and Plants: The dryad can communicate with beasts and plants
+        as if they shared a language.
+    Tree Stride: Once on her turn, the dryad can use 10 feet of her movement to step
+        magically into one living tree within her reach and emerge from a second living
+        tree within 60 feet of the first tree, appearing in an unoccupied space within
+        5 feet of the second tree. Both trees must be large or bigger.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - barkskin
+            - pass without trace
+            - shillelagh
+            3/day:
+            - entangle
+            - goodberry
+            at will:
+            - druidcraft
+        type: innate
+type: fey
+wisdom: '15'

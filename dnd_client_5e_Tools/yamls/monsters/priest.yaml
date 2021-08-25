@@ -1,0 +1,55 @@
+AC: 13
+CR: 2 (450 XP)
+HP: 27 (5d8 + 5)
+actions:
+    Mace: 'Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 3
+        (1d6) bludgeoning damage.'
+alignment: AA
+book: Monster Manual
+charisma: '13'
+constitution: '12'
+dexterity: '10'
+intelligence: '13'
+languages:
+- any two languages
+medicine: '+7'
+name: Priest
+page: 348
+persuasion: '+3'
+religion: '+5'
+saving_throws: {}
+senses:
+- passive Perception 13
+size: Medium
+skills:
+    medicine: expert
+    persuasion: proficient
+    religion: expert
+speed:
+- 30 ft
+strength: '10'
+tags:
+- any
+traits:
+    Divine Eminence: As a bonus action, the priest can expend a spell slot to cause
+        its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage
+        to a target on a hit. This benefit lasts until the end of the turn. If the
+        priest expends a spell slot of 2nd level or higher, the extra damage increases
+        by 1d6 for each level above 1st.
+    spellcasting:
+        ability: wisdom
+        level: 5
+        spells:
+        - light
+        - sacred flame
+        - thaumaturgy
+        - cure wounds
+        - guiding bolt
+        - sanctuary
+        - lesser restoration
+        - spiritual weapon
+        - dispel magic
+        - spirit guardians
+        type: cleric
+type: humanoid
+wisdom: '16'

@@ -1,0 +1,42 @@
+AC: 12
+CR: 1 (200 XP)
+HP: 39 (6d8 + 12)
+actions:
+    Multiattack: 'The hybrid makes two attacks: one with its shocking touch and one
+        with its tentacles.'
+    Shocking Touch: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 9 (2d8) lightning damage.'
+    Tentacles: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 15 ft., one creature.
+        Hit: The target is grappled (escape DC 11+1d4 + 9), and the hybrid pulls the
+        target up to 15 feet straight toward it. Until this grapple ends, the target
+        takes 5 (1d10) lightning damage at the start of each of its turns, and the
+        hybrid shocker can''t use its tentacles on another creature.'
+alignment: NG
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '9'
+constitution: '14'
+damage_immunities:
+- lightning
+dexterity: '14'
+intelligence: '10'
+languages:
+- Common plus any one language
+name: Hybrid Shocker
+page: 218
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '13'
+tags:
+- Simic
+traits:
+    Electrified Body: Any creature that touches the hybrid or hits it with a melee
+        attack while within 5 feet of it takes 5 (1d10) lightning damage.
+    Illumination: The hybrid sheds bright light in a 10-foot radius and dim light
+        for an additional 10 feet.
+type: humanoid
+wisdom: '12'

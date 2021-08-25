@@ -1,0 +1,39 @@
+AC: 13
+CR: 1/4 (50 XP)
+HP: 7 (3d6 - 3)
+actions:
+    Dagger: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        5 (1d4 + 3) piercing damage.'
+    Dropped Rock: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, one target directly below
+        the kobold. Hit: 6 (1d6 + 3) bludgeoning damage.'
+alignment: LE
+book: Monster Manual
+charisma: '8'
+constitution: '9'
+dexterity: '16'
+intelligence: '8'
+languages:
+- Common
+- Draconic
+name: Winged Kobold
+page: 195
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Small
+skills: {}
+speed:
+- 30 ft
+- fly 30 ft
+strength: '7'
+tags:
+- kobold
+traits:
+    Pack Tactics: The kobold has advantage on an attack roll against a creature if
+        at least one of the kobold's allies is within 5 feet of the creature and the
+        ally isn't incapacitated.
+    Sunlight Sensitivity: While in sunlight, the kobold has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: humanoid
+wisdom: '7'

@@ -1,0 +1,50 @@
+AC: 11
+CR: 3 (700 XP)
+HP: 58 (9d8 + 18)
+actions:
+    Bite (Wolf or Hybrid Form Only): 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach
+        5 ft., one target. Hit: 6 (1d8 + 2) piercing damage. If the target is a humanoid,
+        it must succeed on a DC 12+1d4 + 10 Constitution saving throw or be cursed
+        with werewolf lycanthropy.'
+    Claws (Hybrid Form Only): 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft.,
+        one creature. Hit: 7 (2d4 + 2) slashing damage.'
+    Multiattack (Humanoid or Hybrid Form Only): 'The werewolf makes two attacks: two
+        with its spear (humanoid form) or one with its bite and one with its claws
+        (hybrid form).'
+    Spear (Humanoid Form Only): 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit,
+        reach 5 ft. or range 20/60 ft., one creature. Hit: 5 (1d6 + 2) piercing damage,
+        or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.'
+alignment: S
+book: Monster Manual
+charisma: '10'
+constitution: '14'
+damage_immunities:
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t silvered
+dexterity: '13'
+intelligence: '10'
+languages:
+- Common (can\'t speak in wolf form)
+name: Werewolf
+page: 211
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Medium
+skills:
+    perception: expert
+speed:
+- 30 ft. (40 ft. in wolf form)
+strength: '15'
+tags:
+- human
+traits:
+    Keen Hearing and Smell: The werewolf has advantage on Wisdom (Perception) checks
+        that rely on hearing or smell.
+    Shapechanger: The werewolf can use its action to polymorph into a wolf-humanoid
+        hybrid or into a wolf, or back into its true form, which is humanoid. Its
+        statistics, other than its AC, are the same in each form. Any equipment it
+        is wearing or carrying isn't transformed. It reverts to its true form if it
+        dies.
+type: humanoid
+wisdom: '11'

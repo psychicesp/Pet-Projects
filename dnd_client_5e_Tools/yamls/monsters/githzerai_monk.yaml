@@ -1,0 +1,54 @@
+AC: 14
+CR: 2 (450 XP)
+HP: 38 (7d8 + 7)
+actions:
+    Multiattack: The githzerai makes two unarmed strikes.
+    Unarmed Strike: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 6 (1d8 + 2) bludgeoning damage plus 9 (2d8) psychic damage. This is a
+        magic weapon attack.'
+alignment: LN
+book: Monster Manual
+charisma: '10'
+constitution: '12'
+dexterity: '15'
+insight: '+4'
+intelligence: '13'
+languages:
+- Gith
+name: Githzerai Monk
+page: 161
+perception: '+4'
+saving_throws:
+    dexterity: proficient
+    intelligence: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- passive Perception 14
+size: Medium
+skills:
+    insight: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '12'
+tags:
+- gith
+traits:
+    Psychic Defense: While the githzerai is wearing no armor and wielding no shield,
+        its AC includes its Wisdom modifier.
+    spellcasting:
+        ability: 'wisdom. it can innately cast the following spells, requiring no
+            components:at will: mage hand (the hand is invisible)3/day each: feather
+            fall, jump, see invisibility, shield'
+        spells:
+            3/day:
+            - feather fall
+            - jump
+            - see invisibility
+            - shield
+            at will:
+            - mage hand
+        type: innate
+type: humanoid
+wisdom: '14'

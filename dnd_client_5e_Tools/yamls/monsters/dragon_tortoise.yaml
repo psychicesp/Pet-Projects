@@ -1,0 +1,46 @@
+AC: ''
+CR: 17 (18,000 XP)
+HP: 341 (22d20 + 110)
+actions:
+    Bite: 'Melee Weapon Attack: +13+1d12 + 7 to hit, reach 15 ft., one target. Hit:
+        26 (3d12 + 7) piercing damage.'
+    Claw: 'Melee Weapon Attack: +13+1d12 + 7 to hit, reach 10 ft., one target. Hit:
+        16 (2d8 + 7) slashing damage.'
+    Multiattack: 'The dragon tortoise makes three attacks: one with its bite and two
+        with its claws. It can make one tail attack in place of its two claw attacks.'
+    Steam Breath (Recharge 5xe2x80x936): The dragon tortoise exhales abrasive sand
+        in a 60-foot cone. Each creature in that area must make a DC 18+1d12 + 12
+        Constitution saving throw, taking 52 (15d6) slashing damage on a failed save,
+        or half as much damage on a successful one.
+    Tail: 'Melee Weapon Attack: +13+1d12 + 7 to hit, reach 15 ft., one target. Hit:
+        26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed
+        on a DC 20+1d12 + 14 Strength saving throw or be pushed up to 10 feet away
+        from the dragon tortoise and knocked prone.'
+alignment: N
+book: Candlekeep Mysteries
+charisma: '12'
+constitution: '20'
+dexterity: '10'
+intelligence: '10'
+languages:
+- Draconic
+- Terran
+name: Dragon Tortoise
+page: 205
+resistances:
+- fire
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 11
+size: Gargantuan
+skills: {}
+speed:
+- 20 ft
+strength: '25'
+tags: []
+type: dragon
+wisdom: '12'

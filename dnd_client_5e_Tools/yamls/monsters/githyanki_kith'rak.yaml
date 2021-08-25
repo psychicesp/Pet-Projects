@@ -1,0 +1,54 @@
+AC: 18
+CR: 12 (8,400 XP)
+HP: 180 (24d8 + 72)
+actions:
+    Greatsword: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target.
+        Hit: 11 (2d6 + 4) slashing damage plus 17 (5d6) psychic damage.'
+    Multiattack: The githyanki makes three greatsword attacks.
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '17'
+constitution: '17'
+dexterity: '16'
+intelligence: '16'
+intimidation: '+7'
+languages:
+- Gith
+name: Githyanki Kith\'rak
+page: 205
+perception: '+6'
+saving_throws:
+    constitution: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- passive Perception 16
+size: Medium
+skills:
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '18'
+tags:
+- gith
+traits:
+    Rally the Troops: As a bonus action, the githyanki can magically end the charmed
+        and frightened conditions on itself and each creature of its choice that it
+        can see within 30 feet of it.
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - plane shift
+            - telekinesis
+            3/day:
+            - blur
+            - jump
+            - misty step
+            - nondetection
+            at will:
+            - mage hand
+        type: innate
+type: humanoid
+wisdom: '15'

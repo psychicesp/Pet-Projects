@@ -1,0 +1,40 @@
+AC: 17
+CR: 11 (7,200 XP)
+HP: 225 (30d8 + 90)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 8
+        (1d8 + 4) piercing damage plus 13 (3d8) necrotic damage.'
+    Claws: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 10 ft., one target. Hit:
+        18 (4d6 + 4) slashing damage. If the target is Medium or smaller, it is grappled
+        (escape DC 16+1d8 + 12) and is restrained until the grapple ends. While grappling
+        a creature, the Hungry can''t attack with its claws.'
+    Multiattack: 'The Hungry makes two attacks: one with its bite and one with its
+        claws.'
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '6'
+constitution: '17'
+dexterity: '10'
+intelligence: '6'
+languages:
+- Common
+name: The Hungry
+page: 232
+resistances:
+- bludgeoning, piercing, and slashing while in dim light or darkness
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '19'
+tags: []
+traits:
+    Life Hunger: 'If a creature the Hungry can see regains hit points, the Hungry
+        gains two benefits until the end of its next turn: it has advantage on attack
+        rolls, and its bite deals an extra 22 (4d10) necrotic damage on a hit.'
+type: monstrosity
+wisdom: '11'

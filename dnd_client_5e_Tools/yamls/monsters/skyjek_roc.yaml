@@ -1,0 +1,37 @@
+AC: 15
+CR: 2 (450 XP)
+HP: 37 (5d10 + 10)
+actions:
+    Beak: 'Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit: 9
+        (1d8 + 5) piercing damage.'
+    Multiattack: 'The roc makes two attacks: one with its beak and one with its talons.'
+    Talons: 'Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit:
+        10 (2d4 + 5) slashing damage.'
+alignment: U
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '8'
+constitution: '14'
+dexterity: '13'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Skyjek Roc
+page: 219
+perception: '+2'
+saving_throws:
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- passive Perception 12
+size: Large
+skills:
+    perception: proficient
+speed:
+- 20 ft
+- fly 90 ft
+strength: '20'
+tags: []
+traits:
+    Keen Sight: The roc has advantage on Wisdom (Perception) checks that rely on sight.
+type: monstrosity
+wisdom: '10'

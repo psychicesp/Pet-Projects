@@ -1,0 +1,97 @@
+AC: 19
+CR: 21 (33,000 XP)
+HP: 200 (16d10 + 112)
+actions:
+    Bite: 'Melee Weapon Attack: +15+1d14 + 8 to hit, reach 5 ft., one target. Hit:
+        15 (2d6 + 8) piercing damage. The target must succeed on a DC 22+1d14 + 15
+        Constitution saving throw or become poisoned. While poisoned in this way,
+        the target can''t regain hit points, and it takes 10 (3d6) poison damage at
+        the start of each of its turns. The poisoned target can repeat the saving
+        throw at the end of each of its turns, ending the effect on itself on a success.'
+    Claw: 'Melee Weapon Attack: +15+1d14 + 8 to hit, reach 10 ft., one target. Hit:
+        17 (2d8 + 8) slashing damage.'
+    Mace: 'Melee Weapon Attack: +15+1d14 + 8 to hit, reach 5 ft., one target. Hit:
+        15 (2d6 + 8) bludgeoning damage.'
+    Multiattack: 'Hutijin makes four attacks: one with his bite, one with his claw,
+        one with his mace, and one with his tail.'
+    Tail: 'Melee Weapon Attack: +15+1d14 + 8 to hit, reach 10 ft., one target. Hit:
+        19 (2d10 + 8) bludgeoning damage.'
+    Teleport: Hutijin magically teleports, along with any equipment he is wearing
+        and carrying, up to 120 feet to an unoccupied space he can see.
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '25'
+condition_immunities:
+- charmed, exhaustion, frightened, poisoned
+constitution: '25'
+damage_immunities:
+- fire, poison
+dexterity: '15'
+intelligence: '23'
+intimidation: '+14'
+languages:
+- all
+- telepathy 120 ft.
+legendary_actions:
+    number: 3
+    options:
+        Attack: ' Hutijin attacks once with his mace.'
+        Lightning Storm (Costs 2 Actions): ' Hutijin releases lightning in a 20-foot
+            radius. All other creatures in that area must each make a DC 22+1d14 +
+            15 Dexterity saving throw, taking 18 (4d8) lightning damage on a failed
+            save, or half as much damage on a successful one.'
+        Teleport: ' Hutijin uses his Teleport action.'
+name: Hutijin
+page: 175
+perception: '+11'
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 21
+size: Large
+skills:
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+- fly 60 ft
+strength: '27'
+tags:
+- devil
+traits:
+    Infernal Despair: Each creature within 15 feet of Hutijin that isn't a devil makes
+        saving throws with disadvantage.
+    Legendary Resistance (3/Day): If Hutijin fails a saving throw, he can choose to
+        succeed instead.
+    Magic Resistance: Hutijin has advantage on saving throws against spells and other
+        magical effects.
+    Magic Weapons: Hutijin's weapon attacks are magical.
+    Regeneration: Hutijin regains 20 hit points at the start of his turn. If he takes
+        radiant damage, this trait doesn't function at the start of his next turn.
+        Hutijin dies only if he starts his turn with 0 hit points and doesn't regenerate.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - heal
+            - symbol
+            3/day:
+            - dispel magic
+            at will:
+            - alter self
+            - animate dead
+            - detect magic
+            - hold monster
+            - invisibility
+            - lightning bolt
+            - suggestion
+            - wall of fire
+        type: innate
+type: fiend
+wisdom: '19'

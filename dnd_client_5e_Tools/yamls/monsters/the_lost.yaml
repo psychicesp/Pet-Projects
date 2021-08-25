@@ -1,0 +1,38 @@
+AC: 15
+CR: 7 (2,900 XP)
+HP: 78 (12d8 + 24)
+actions:
+    Arm Spike: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit:
+        14 (2d10 + 3) piercing damage.'
+    Embrace: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit:
+        25 (4d10 + 3) piercing damage, and the target is grappled (escape DC 14+1d6
+        + 11) if it is a Medium or smaller creature. Until the grapple ends, the target
+        is frightened, and it takes 27 (6d8) psychic damage at the end of each of
+        its turns. The Lost can embrace only one creature at a time.'
+    Multiattack: The Lost makes two arm spike attacks.
+alignment: LE
+athletics: '+6'
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '5'
+constitution: '15'
+dexterity: '12'
+intelligence: '6'
+languages:
+- Common
+name: The Lost
+page: 233
+resistances:
+- bludgeoning, piercing, and slashing while in dim light or darkness
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Medium
+skills:
+    athletics: proficient
+speed:
+- 30 ft
+strength: '17'
+tags: []
+type: monstrosity
+wisdom: '7'

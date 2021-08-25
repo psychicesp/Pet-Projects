@@ -1,0 +1,64 @@
+AC: 14
+CR: 1 (200 XP)
+HP: 18 (4d8)
+actions:
+    Enlarge (Recharges after a Short or Long Rest): For 1 minute, the duergar magically
+        increases in size, along with anything it is wearing or carrying. While enlarged,
+        the duergar is Large, doubles its damage dice on Strength-based weapon attacks
+        (included in the attacks), and makes Strength checks and Strength saving throws
+        with advantage. If the duergar lacks the room to become Large, it attains
+        the maximum size possible in the space available.
+    Invisibility (Recharges after a Short or Long Rest): The duergar magically turns
+        invisible for up to 1 hour or until it attacks, it casts a spell, it uses
+        its Enlarge, or its concentration is broken (as if concentrating on a spell).
+        Any equipment the duergar wears or carries is invisible with it.
+    Soulblade: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        6 (1d6 + 3) force damage, or 10 (2d6 + 3) force damage while enlarged. If
+        the soulblade has advantage on the attack roll, the attack deals an extra
+        3 (1d6) force damage.'
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '12'
+constitution: '10'
+dexterity: '16'
+hit: 4d8
+intelligence: '11'
+languages:
+- Dwarvish
+- Undercommon
+name: Duergar Soulblade
+page: 190
+resistances:
+- poison
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 25 ft
+strength: '11'
+tags:
+- dwarf
+traits:
+    Create Soulblade: As a bonus action, the duergar can create a shortsword-sized,
+        visible blade of psionic energy. The weapon appears in the duergar's hand
+        and vanishes if it leaves the duergar's grip, or if the duergar dies or is
+        incapacitated.
+    Duergar Resilience: The duergar has advantage on saving throws against poison,
+        spells, and illusions, as well as to resist being charmed or paralyzed.
+    Sunlight Sensitivity: While in sunlight, the duergar has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+    spellcasting:
+        ability: wisdom
+        spells:
+            3/day:
+            - jump
+            - hunter\'s mark
+            at will:
+            - blade ward
+            - true strike
+        type: innate
+type: humanoid
+wisdom: '10'

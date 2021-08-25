@@ -1,0 +1,40 @@
+AC: 11
+CR: 1/2 (100 XP)
+HP: 32 (5d8 + 10)
+actions:
+    Claws: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. one target. Hit: 4
+        (1d6 + 1) slashing damage.'
+    Lob Acid: 'Ranged Weapon Attack: +3+1d4 + 1 to hit, range 30/120 ft., one target.
+        Hit: 5 (1d8 + 1) acid damage.'
+    Multiattack: The skeletal alchemist makes two Lob Acid attacks.
+alignment: LE
+arcana: '+4'
+book: Ghosts of Saltmarsh
+charisma: '9'
+condition_immunities:
+- exhaustion, poisoned
+constitution: '15'
+damage_immunities:
+- poison
+dexterity: '13'
+intelligence: '14'
+languages:
+- understands all languages it knew in life but can't speak
+name: Skeletal Alchemist
+page: 253
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills:
+    arcana: proficient
+speed:
+- 30 ft
+strength: '9'
+tags: []
+traits:
+    Magic Resistance: The skeletal alchemist has advantage on saving throws against
+        spells and other magical effects.
+type: undead
+wisdom: '10'

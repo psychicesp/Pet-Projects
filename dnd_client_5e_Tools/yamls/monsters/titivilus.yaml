@@ -1,0 +1,110 @@
+AC: 20
+CR: 16 (15,000 XP)
+HP: 127 (17d8 + 51)
+actions:
+    Frightful Word: Titivilus targets one creature he can see within 10 feet of him.
+        The target must succeed on a DC 21+1d10 + 16 Wisdom saving throw or become
+        frightened for 1 minute. While frightened in this way, the target must take
+        the Dash action and move away from Titivilus by the safest available route
+        on each of its turns, unless there is nowhere to move, in which case it needn't
+        take the Dash action. The target can repeat the saving throw at the end of
+        each of its turns, ending the effect on itself on a success.
+    Multiattack: Titivilus makes one sword attack and uses his Frightful Word once.
+    Silver Sword: 'Melee Weapon Attack: +9+1d10 + 4 to hit, reach 5 ft., one target.
+        Hit: 8 (1d8 + 4) slashing damage plus 16 (3d10) necrotic damage, or 9 (1d10
+        + 4) slashing damage plus 16 (3d10) necrotic damage if used with two hands.
+        If the target is a creature, its hit point maximum is reduced by an amount
+        equal to half the necrotic damage it takes.'
+    Teleport: Titivilus magically teleports, along with any equipment he is wearing
+        and carrying, up to 120 feet to an unoccupied space he can see.
+    Twisting Words: Titivilus targets one creature he can see within 60 feet of him.
+        The target must make a DC 21+1d10 + 16 Charisma saving throw. On a failure
+        the target is charmed for 1 minute. The charmed target can repeat the saving
+        throw if Titivilus deals any damage to it. A creature that succeeds on the
+        saving throw is immune to Titivilus's Twisting Words for 24 hours.
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '26'
+condition_immunities:
+- charmed, exhaustion, frightened, poisoned
+constitution: '17'
+damage_immunities:
+- fire, poison
+deception: '+13'
+dexterity: '22'
+insight: '+11'
+intelligence: '24'
+intimidation: '+13'
+languages:
+- all
+- telepathy 120 ft.
+legendary_actions:
+    number: 3
+    options:
+        Assault (Costs 2 Actions): ' Titivilus attacks with his silver sword or uses
+            his Frightful Word.'
+        Corrupting Guidance: ' Titivilus uses Twisting Words. Alternatively, he targets
+            one creature charmed by him that is within 60 feet of him; that charmed
+            target must make a DC 21+1d10 + 16 Charisma saving throw. On a failure,
+            Titivilus decides how the target acts during its next turn.'
+        Teleport: ' Titivilus uses his Teleport action.'
+name: Titivilus
+page: 179
+persuasion: '+13'
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 16
+size: Medium
+skills:
+    deception: proficient
+    insight: proficient
+    intimidation: proficient
+    persuasion: proficient
+speed:
+- 40 ft
+- fly 60 ft
+strength: '19'
+tags:
+- devil
+traits:
+    Legendary Resistance (3/Day): If Titivilus fails a saving throw, he can choose
+        to succeed instead.
+    Magic Resistance: Titivilus has advantage on saving throws against spells and
+        other magical effects.
+    Magic Weapons: Titivilus's weapon attacks are magical.
+    Regeneration: Titivilus regains 10 hit points at the start of his turn. If he
+        takes cold or radiant damage, this trait doesn't function at the start of
+        his next turn. Titivilus dies only if he starts his turn with 0 hit points
+        and doesn't regenerate.
+    Ventriloquism: Whenever Titivilus speaks, he can choose a point within 60 feet;
+        his voice emanates from that point.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - feeblemind
+            - symbol
+            3/day:
+            - greater invisibility
+            - mislead
+            at will:
+            - alter self
+            - animate dead
+            - bestow curse
+            - confusion
+            - major image
+            - modify memory
+            - nondetection
+            - sending
+            - suggestion
+        type: innate
+type: fiend
+wisdom: '22'

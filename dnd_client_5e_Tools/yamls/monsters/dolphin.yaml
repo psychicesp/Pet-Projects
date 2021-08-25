@@ -1,0 +1,36 @@
+AC: 12
+CR: 1/8 (25 XP)
+HP: 11 (2d8 + 2)
+actions:
+    Slam: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) bludgeoning damage.'
+alignment: U
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '7'
+constitution: '13'
+dexterity: '13'
+intelligence: '6'
+languages:
+- \xe2\x80\x94
+name: Dolphin
+page: 208
+perception: '+3'
+saving_throws: {}
+senses:
+- blindsight 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 0 ft
+- swim 60 ft
+strength: '14'
+tags: []
+traits:
+    Charge: If the dolphin moves at least 30 feet straight toward a target and then
+        hits it with a slam attack on the same turn, the target takes an extra 3 (1d6)
+        bludgeoning damage.
+    Hold Breath: The dolphin can hold its breath for 20 minutes.
+type: beast
+wisdom: '12'

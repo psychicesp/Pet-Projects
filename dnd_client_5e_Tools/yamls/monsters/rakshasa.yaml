@@ -1,0 +1,64 @@
+AC: 16
+CR: 13 (10,000 XP)
+HP: 110 (13d8 + 52)
+actions:
+    Claw: 'Melee Weapon Attack: +7+1d10 + 2 to hit, reach 5 ft., one target. Hit:
+        9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature.
+        The magical curse takes effect whenever the target takes a short or long rest,
+        filling the target''s thoughts with horrible images and dreams. The cursed
+        target gains no benefit from finishing a short or long rest. The curse lasts
+        until it is lifted by a remove curse spell or similar magic.'
+    Multiattack: The rakshasa makes two claw attacks.
+alignment: LE
+book: Monster Manual
+charisma: '20'
+constitution: '18'
+damage_immunities:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+deception: '+10'
+dexterity: '17'
+insight: '+8'
+intelligence: '13'
+languages:
+- Common
+- Infernal
+name: Rakshasa
+page: 257
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    deception: proficient
+    insight: proficient
+speed:
+- 40 ft
+strength: '14'
+tags: []
+traits:
+    Limited Magic Immunity: The rakshasa can't be affected or detected by spells of
+        6th level or lower unless it wishes to be. It has advantage on saving throws
+        against all other spells and magical effects.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - dominate person
+            - fly
+            - plane shift
+            - true seeing
+            3/day:
+            - charm person
+            - detect magic
+            - invisibility
+            - major image
+            - suggestion
+            at will:
+            - detect thoughts
+            - disguise self
+            - mage hand
+            - minor illusion
+        type: innate
+type: fiend
+wisdom: '16'

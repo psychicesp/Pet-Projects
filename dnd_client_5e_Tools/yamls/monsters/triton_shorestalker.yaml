@@ -1,0 +1,56 @@
+AC: 13
+CR: 2 (450 XP)
+HP: 32 (5d8 + 10)
+actions:
+    Multiattack: The triton makes two urchin-spine shortsword attacks.
+    Poisoned Spine: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 30/60 ft., one
+        target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage.'
+    Urchin-Spine Shortsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft.,
+        one target. Hit: 6 (1d6 + 3) piercing damage plus 10 (3d6) poison damage.
+        If the damage reduces a creature to 0 hit points, that creature is stable
+        but poisoned for 1 hour, even after regaining hit points, and is paralyzed
+        while poisoned in this way.'
+alignment: NE
+book: Mythic Odysseys of Theros
+charisma: '11'
+constitution: '14'
+dexterity: '16'
+intelligence: '10'
+languages:
+- Common
+- Primordial
+name: Triton Shorestalker
+nature: '+4'
+page: 244
+perception: '+4'
+resistances:
+- cold
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    nature: expert
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+- swim 30 ft
+stealth: '+5'
+strength: '11'
+tags:
+- triton
+traits:
+    Amphibious: The triton can breathe air and water.
+    Nimble Escape: The triton can take the Disengage or Hide actions as a bonus action
+        on each of its turns.
+    spellcasting:
+        ability: wisdom
+        spells:
+            1/day:
+            - fog cloud
+            - gust of wind
+        type: innate
+type: humanoid
+wisdom: '15'

@@ -1,0 +1,35 @@
+AC: 13
+CR: 4 (1,100 XP)
+HP: 90 (12d10 + 24)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8
+        (2d4 + 3) piercing damage, and the target must succeed on a DC 12+1d4 + 10
+        Constitution saving throw or be stunned until the end of its next turn. On
+        a failed save, the target begins to hallucinate and is afflicted with a short-term
+        madness effect (determined randomly or by the DM; see "Madness" in chapter
+        8 of the Dungeon Master''s Guide). The effect lasts 10 minutes.'
+alignment: U
+book: Ghosts of Saltmarsh
+charisma: '3'
+constitution: '14'
+dexterity: '16'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Giant Coral Snake
+page: 236
+perception: '+2'
+saving_throws: {}
+senses:
+- blindsight 10 ft.
+- passive Perception 12
+size: Large
+skills:
+    perception: proficient
+speed:
+- 30 ft
+- swim 30 ft
+strength: '12'
+tags: []
+type: beast
+wisdom: '10'

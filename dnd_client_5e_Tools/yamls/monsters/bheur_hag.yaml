@@ -1,0 +1,94 @@
+AC: 17
+CR: 7 (2,900 XP) or 9 (5,000 XP) whe part of a cove
+HP: 91 (14d8 + 28)
+actions:
+    Maddening Feast: The hag feasts on the corpse of one enemy within 5 feet of her
+        that died within the past minute. Each creature of the hag's choice that is
+        within 60 feet of her and able to see her must succeed on a DC 15+1d6 + 12
+        Wisdom saving throw or be frightened of her for 1 minute. While frightened
+        in this way, a creature is incapacitated, can't understand what others say,
+        can't read, and speaks only in gibberish; the DM controls the creature's movement,
+        which is erratic. A creature can repeat the saving throw at the end of each
+        of its turns, ending the effect on itself on a success. If a creature's saving
+        throw is successful or the effect ends for it, the creature is immune to the
+        hag's Maddening Feast for the next 24 hours.
+    Slam: 'Melee Weapon Attack: +4+1d6 + 1 to hit, reach 5 ft., one target. Hit: 10
+        (2d8 + 1) bludgeoning damage plus 3 (1d6) cold damage.'
+alignment: CE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '16'
+constitution: '14'
+damage_immunities:
+- cold
+dexterity: '16'
+in_lair:
+    CR_increase: 1
+    actions:
+    - Until initiative count 20 on the next round, the hag can pass through solid
+        walls, doors, ceilings, and floors as if the surfaces weren't there.
+    - The hag targets any number of doors and windows that she can see, causing each
+        one to either open or close as she wishes. Closed doors can be magically locked
+        (requiring a successful DC 20+1d6 + 17 Strength check to force open) until
+        she chooses to make them unlocked, or until she uses this lair action again
+        to open them.
+    - The hag creates an illusory duplicate of herself, which appears in its own space.
+        As long as she can see her duplicate, the hag can move it a distance equal
+        to her walking speed as well as make the illusion speak on her turn (no action
+        required). The illusion has the same statistics as the hag but can't take
+        actions or reactions. It can interact with its environment and even pick up
+        and hold real objects. The illusion seems real in every way but disappears
+        if it takes any amount of damage. Otherwise, it lasts until the hag dismisses
+        it (no action required) or can no longer see it. If the hag uses this lair
+        action to create a new duplicate, the previous one vanishes, dropping any
+        real objects in its possession.
+intelligence: '12'
+languages:
+- Auran
+- Common
+- Giant
+name: Bheur Hag
+nature: '+4'
+page: 160
+perception: '+4'
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    nature: proficient
+    perception: proficient
+    stealth: proficient
+    survival: proficient
+speed:
+- 30 ft
+stealth: '+6'
+strength: '13'
+survival: '+4'
+tags: []
+traits:
+    Graystaff Magic: The hag carries a graystaff, a length of gray wood that is a
+        focus for her inner power. She can ride the staff as if it were a broom of
+        flying. While holding the staff, she can cast additional spells with her Innate
+        Spellcasting trait (these spells are marked with an asterisk). If the staff
+        is lost or destroyed, the hag must craft another, which takes a year and a
+        day. Only a bheur hag can use a graystaff.
+    Ice Walk: The hag can move across and climb icy surfaces without needing to make
+        an ability check. Additionally, difficult terrain composed of ice or snow
+        doesn't cost her extra moment.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - control weather
+            3/day:
+            - cone of cold
+            - ice storm
+            - wall of ice
+            at will:
+            - hold person
+            - ray of frost
+        type: innate
+type: fey
+wisdom: '13'

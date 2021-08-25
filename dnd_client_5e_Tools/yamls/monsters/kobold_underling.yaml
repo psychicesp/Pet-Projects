@@ -1,0 +1,43 @@
+AC: 13
+CR: 1/8 (25 XP)
+HP: 7 (3d6 - 3)
+actions:
+    Hand Crossbow: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 30/120 ft., one
+        target. Hit: 6 (1d6 + 3) piercing damage.'
+    Shortsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage.'
+alignment: LE
+book: Explorer\xe2\x80\x99s Guide to Wildemount
+charisma: '8'
+constitution: '9'
+dexterity: '16'
+intelligence: '8'
+languages:
+- Common
+- Draconic
+name: Kobold Underling
+page: 221
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 9
+size: Small
+skills: {}
+speed:
+- 30 ft
+strength: '7'
+tags:
+- kobold
+traits:
+    Messy End: The kobold explodes 3 rounds after it dies, or immediately if it was
+        killed by a critical hit. The explosion destroys the kobold's body, leaving
+        its equipment behind. Each creature within 5 feet of the exploding kobold
+        must make a DC 10+1d4 + 8 Dexterity saving throw, taking 4 (1d8) bludgeoning
+        damage on a failed save, or half as much damage on a successful one.
+    Pack Tactics: The kobold has advantage on an attack roll against a creature if
+        at least one of the kobold's allies is within 5 feet of the creature and the
+        ally isn't incapacitated.
+    Sunlight Sensitivity: While in sunlight, the kobold has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: humanoid
+wisdom: '9'

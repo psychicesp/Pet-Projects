@@ -1,0 +1,60 @@
+AC: 17
+CR: 8 (3,900 XP)
+HP: 85 (9d8 + 45)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one creature. Hit:
+        9 (1d8 + 5) piercing damage plus 7 (2d6) necrotic damage. If the target is
+        missing any of its hit points, it instead takes 11 (2d10) necrotic damage.'
+    Blood Disgorge (Recharge 5xe2x80x936): The nosferatu vomits blood in a 15-foot
+        cone. Each creature in that area must make a DC 16+1d6 + 13 Constitution saving
+        throw. On a failed save, a creature takes 18 (4d8) necrotic damage, and it
+        can't regain hit points for 1 minute. On a successful save, the creature takes
+        half as much damage with no additional effects.
+    Claw: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 9
+        (1d8 + 5) slashing damage.'
+    Multiattack: The nosferatu makes two Claw attacks followed by one Bite attack.
+        If both Claw attacks hit the same creature, the Bite attack is made with advantage.
+alignment: U
+book: Van Richten\xe2\x80\x99s Guide to Ravenloft
+charisma: '14'
+condition_immunities:
+- charmed, frightened
+constitution: '21'
+dexterity: '18'
+intelligence: '6'
+languages:
+- the languages it knew in life
+name: Nosferatu
+page: 239
+perception: '+6'
+resistances:
+- necrotic
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 16
+size: Medium
+skills:
+    perception: proficient
+    stealth: expert
+speed:
+- 40 ft
+stealth: '+10'
+strength: '20'
+tags: []
+traits:
+    Regeneration: The nosferatu regains 10 hit points at the start of each of its
+        turns if it has at least 1 hit point and isn't in sunlight. If the nosferatu
+        takes radiant damage, this trait doesn't function until the start of the nosferatu's
+        next turn.
+    Spider Climb: The nosferatu can climb difficult surfaces, including upside down
+        on ceilings, without needing to make an ability check.
+    Sunlight Hypersensitivity: The nosferatu takes 20 radiant damage when it starts
+        its turn in sunlight. While in sunlight, it has disadvantage on attack rolls
+        and ability checks.
+    Unusual Nature: The nosferatu doesn't require air.
+type: undead
+wisdom: '17'

@@ -1,0 +1,44 @@
+AC: 10
+CR: 1 (200 XP)
+HP: 37 (5d8 + 15)
+actions:
+    Claw: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) slashing damage.'
+    Multiattack: The zombie makes two claw attacks. For each of these attacks that
+        reduces a creature to 0 hit points, the zombie can make an additional claw
+        attack.
+alignment: NE
+book: Explorer\xe2\x80\x99s Guide to Wildemount
+charisma: '5'
+condition_immunities:
+- poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '10'
+intelligence: '3'
+languages:
+- understands the languages it knew in life but can't speak
+name: Husk Zombie
+page: 293
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Medium
+skills: {}
+speed:
+- 35 ft
+strength: '16'
+tags: []
+traits:
+    Curse of the Husk: A humanoid slain by a melee attack from the zombie revives
+        as a husk zombie on its next turn.
+    Undead Fortitude: If damage reduces the zombie to 0 hit points, it must make a
+        Constitution saving throw with a DC of 5 + the damage taken, unless the damage
+        is radiant or from a critical hit. On a success, the zombie drops to 1 hit
+        point instead.
+type: undead
+wisdom: '6'

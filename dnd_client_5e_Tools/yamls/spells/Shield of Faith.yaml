@@ -1,0 +1,18 @@
+casting time: 1 bonus action
+classes:
+- Cleric
+- Paladin
+components: V, S, M
+concentration: true
+cost: 0
+description: A shimmering field appears and surrounds a creature of your choice within
+    range, granting it a +2 bonus to AC for the duration.
+duration: Concentration, up to 10 minutes
+extras: a small parchment with a bit of holy text written on it
+level: 1
+name: Shield of Faith
+page: 275
+range: 60 feet
+ritual: false
+school: abjuration
+source: PHB

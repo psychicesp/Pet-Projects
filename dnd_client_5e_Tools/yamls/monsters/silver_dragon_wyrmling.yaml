@@ -1,0 +1,42 @@
+AC: 17
+CR: 2 (450 XP)
+HP: 45 (6d8 + 18)
+actions:
+    Bite: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9
+        (1d10 + 4) piercing damage.'
+    Breath Weapons (Recharge 5xe2x80x936): The dragon uses one of the following breath
+        weapons.
+alignment: LG
+book: Monster Manual
+charisma: '15'
+constitution: '17'
+damage_immunities:
+- cold
+dexterity: '10'
+intelligence: '12'
+languages:
+- Draconic
+name: Silver Dragon Wyrmling
+page: 118
+perception: '+4'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 10 ft.
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 30 ft
+- fly 60 ft
+stealth: '+2'
+strength: '19'
+tags: []
+type: dragon
+wisdom: '11'

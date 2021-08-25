@@ -1,0 +1,35 @@
+AC: 5
+CR: 1/4 (50 XP)
+HP: 18 (4d8)
+actions:
+    Multiattack: The fungus makes 1d4 Rotting Touch attacks.
+    Rotting Touch: 'Melee Weapon Attack: +2+1d4 + 0 to hit, reach 10 ft., one creature.
+        Hit: 4 (1d8) necrotic damage.'
+alignment: U
+book: Monster Manual
+charisma: '1'
+condition_immunities:
+- blinded, deafened, frightened
+constitution: '10'
+dexterity: '1'
+hit: 4d8
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Violet Fungus
+page: 138
+saving_throws: {}
+senses:
+- blindsight 30 ft. (blind beyond this radius)
+- passive Perception 6
+size: Medium
+skills: {}
+speed:
+- 5 ft
+strength: '3'
+tags: []
+traits:
+    False Appearance: While the violet fungus remains motionless, it is indistinguishable
+        from an ordinary fungus.
+type: plant
+wisdom: '3'

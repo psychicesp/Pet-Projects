@@ -1,0 +1,45 @@
+AC: 15
+CR: 1/2 (100 XP)
+HP: 22 (4d8 + 4)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) piercing damage.'
+    Heavy Club: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) bludgeoning damage.'
+    Javelin: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.'
+    Multiattack: The lizardfolk makes two melee attacks, each one with a different
+        weapon.
+    Spiked Shield: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) piercing damage.'
+alignment: N
+book: Monster Manual
+charisma: '7'
+constitution: '13'
+dexterity: '10'
+intelligence: '7'
+languages:
+- Draconic
+name: Lizardfolk
+page: 204
+perception: '+3'
+saving_throws: {}
+senses:
+- passive Perception 13
+size: Medium
+skills:
+    perception: proficient
+    stealth: expert
+    survival: expert
+speed:
+- 30 ft
+- swim 30 ft
+stealth: '+4'
+strength: '15'
+survival: '+5'
+tags:
+- lizardfolk
+traits:
+    Hold Breath: The lizardfolk can hold its breath for 15 minutes.
+type: humanoid
+wisdom: '12'

@@ -1,0 +1,40 @@
+AC: 14
+CR: 3 (700 XP)
+HP: 39 (6d8 + 12)
+actions:
+    Bite: 'Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit: 2
+        (1d6 - 1) piercing damage.'
+    Create Food and Water: The spectator magically creates enough food and water to
+        sustain itself for 24 hours.
+    Eye Rays: The spectator shoots up to two of the following magical eye rays at
+        one or two creatures it can see within 90 feet of it. It can use each ray
+        only once on a turn.
+alignment: LN
+book: Monster Manual
+charisma: '11'
+condition_immunities:
+- prone
+constitution: '14'
+dexterity: '14'
+intelligence: '13'
+languages:
+- Deep Speech
+- Undercommon
+- telepathy 120 ft.
+name: Spectator
+page: 30
+perception: '+6'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 16
+size: Medium
+skills:
+    perception: expert
+speed:
+- 0 ft
+- fly 30 ft. (hover)
+strength: '8'
+tags: []
+type: aberration
+wisdom: '14'

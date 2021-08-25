@@ -1,0 +1,45 @@
+AC: 18
+CR: 9 (5,000 XP)
+HP: 143 (22d8 + 44)
+actions:
+    Greatsword: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target.
+        Hit: 12 (2d6 + 5) slashing damage, plus 7 (2d6) slashing damage if the champion
+        has more than half of its total hit points remaining.'
+    Multiattack: The champion makes three attacks with its greatsword or its shortbow.
+    Shortbow: 'Ranged Weapon Attack: +6+1d8 + 2 to hit, range 80/320 ft., one target.
+        Hit: 5 (1d6 + 2) piercing damage, plus 7 (2d6) piercing damage if the champion
+        has more than half of its total hit points remaining.'
+alignment: AA
+athletics: '+9'
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '12'
+constitution: '14'
+dexterity: '15'
+intelligence: '10'
+intimidation: '+5'
+languages:
+- any one language (usually Common)
+name: Champion
+page: 212
+perception: '+6'
+saving_throws:
+    constitution: proficient
+    strength: proficient
+senses:
+- passive Perception 16
+size: Medium
+skills:
+    athletics: proficient
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '20'
+tags:
+- any
+traits:
+    Indomitable (2/Day): The champion rerolls a failed saving throw.
+    Second Wind (Recharges after a Short or Long Rest): As a bonus action, the champion
+        can regain 20 hit points.
+type: humanoid
+wisdom: '14'

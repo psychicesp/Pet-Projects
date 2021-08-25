@@ -1,0 +1,65 @@
+AC: 15
+CR: 8 (3,900 XP)
+HP: 105 (14d8 + 42)
+actions:
+    Multiattack: The triton makes two attacks using Wave Touch and casts ray of frost.
+    Ray of Frost (Cantrip): 'Ranged Spell Attack: +7+1d6 + 4 to hit, range 60 ft.,
+        one creature. Hit: 13 (3d8) cold damage, and the target''s speed is reduced
+        by 10 feet until the start of the triton''s next turn.'
+    Wave Touch: 'Melee Spell Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        22 (4d10) cold damage.'
+alignment: N
+athletics: '+6'
+book: Mythic Odysseys of Theros
+charisma: '19'
+constitution: '16'
+dexterity: '11'
+intelligence: '10'
+languages:
+- Common
+- Primordial
+name: Triton Master of Waves
+nature: '+6'
+page: 245
+resistances:
+- cold, fire
+saving_throws:
+    charisma: proficient
+    dexterity: proficient
+    intelligence: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Medium
+skills:
+    athletics: proficient
+    nature: expert
+    survival: proficient
+speed:
+- 30 ft
+- swim 30 ft
+strength: '16'
+survival: '+4'
+tags:
+- triton
+traits:
+    Amphibious: The triton can breathe air and water.
+    Summon Water Weird (Recharges after a Short or Long Rest): As a bonus action,
+        the triton magically summons 1d4 water weirds. The summoned weirds appear
+        in unoccupied spaces in water within 60 feet of the triton. The water weirds
+        act immediately after the triton on the same initiative count and fight until
+        they're destroyed. They disappear if the triton dies.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - fog cloud
+            - gust of wind
+            - wind wall
+            2/day:
+            - cone of cold
+            at will:
+            - ray of frost
+        type: innate
+type: humanoid
+wisdom: '12'

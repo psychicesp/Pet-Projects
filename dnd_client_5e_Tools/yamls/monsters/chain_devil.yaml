@@ -1,0 +1,51 @@
+AC: 16
+CR: 8 (3,900 XP)
+HP: 85 (10d8 + 40)
+actions:
+    Animate Chains (Recharges after a Short or Long Rest): Up to four chains the devil
+        can see within 60 feet of it magically sprout razor-edged barbs and animate
+        under the devil's control, provided that the chains aren't being worn or carried.
+    Chain: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target. Hit:
+        11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14+1d6 + 11)
+        if the devil isn''t already grappling a creature. Until this grapple ends,
+        the target is restrained and takes 7 (2d6) piercing damage at the start of
+        each of its turns.'
+    Multiattack: The devil makes two attacks with its chains.
+alignment: LE
+book: Monster Manual
+charisma: '14'
+condition_immunities:
+- poisoned
+constitution: '18'
+damage_immunities:
+- fire, poison
+dexterity: '15'
+intelligence: '11'
+languages:
+- Infernal
+- telepathy 120 ft.
+name: Chain Devil
+page: 72
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t silvered
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 8
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '18'
+tags:
+- devil
+traits:
+    Devil's Sight: Magical darkness doesn't impede the devil's darkvision.
+    Magic Resistance: The devil has advantage on saving throws against spells and
+        other magical effects.
+type: fiend
+wisdom: '12'

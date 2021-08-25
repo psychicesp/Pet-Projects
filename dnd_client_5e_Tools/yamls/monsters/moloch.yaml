@@ -1,0 +1,100 @@
+AC: 19
+CR: 21 (33,000 XP)
+HP: 253 (22d10 + 132)
+actions:
+    Bite: 'Melee Weapon Attack: +15+1d14 + 8 to hit, reach 5 ft., one target. Hit:
+        26 (4d8 + 8) piercing damage.'
+    Breath of Despair (Recharge 5xe2x80x936): Moloch exhales in a 30-foot cube. Each
+        creature in that area must succeed on a DC 21+1d14 + 14 Wisdom saving throw
+        or take 27 (5d10) psychic damage, drop whatever it is holding, and become
+        frightened for 1 minute. While frightened in this way, a creature must take
+        the Dash action and move away from Moloch by the safest available route on
+        each of its turns, unless there is nowhere to move, in which case it needn't
+        take the Dash action. If the creature ends its turn in a location where it
+        doesn't have line of sight to Moloch, the creature can repeat the saving throw.
+        On a success, the effect ends.
+    Claw: 'Melee Weapon Attack: +15+1d14 + 8 to hit, reach 10 ft., one target. Hit:
+        17 (2d8 + 8) slashing damage.'
+    Many-Tailed Whip: 'Melee Weapon Attack: +15+1d14 + 8 to hit, reach 30 ft., one
+        target. Hit: 13 (2d4 + 8) slashing damage plus 11 (2d10) lightning damage.
+        If the target is a creature, it must succeed on a DC 24+1d14 + 17 Strength
+        saving throw or be pulled up to 30 feet in a straight line toward Moloch.'
+    Multiattack: 'Moloch makes three attacks: one with his bite, one with his claw,
+        and one with his whip.'
+    Teleport: Moloch magically teleports, along with any equipment he is wearing and
+        carrying, up to 120 feet to an unoccupied space he can see.
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '23'
+condition_immunities:
+- charmed, exhaustion, frightened, poisoned
+constitution: '22'
+damage_immunities:
+- fire, poison
+deception: '+13'
+dexterity: '19'
+intelligence: '21'
+intimidation: '+13'
+languages:
+- all
+- telepathy 120 ft.
+legendary_actions:
+    number: 3
+    options:
+        Stinking Cloud: ' Moloch casts stinking cloud.'
+        Teleport: ' Moloch uses his Teleport action.'
+        Whip: ' Moloch makes one attack with his whip.'
+name: Moloch
+page: 177
+perception: '+11'
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t silvered
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 21
+size: Large
+skills:
+    deception: proficient
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '26'
+tags:
+- devil
+traits:
+    Legendary Resistance (3/Day): If Moloch fails a saving throw, he can choose to
+        succeed instead.
+    Magic Resistance: Moloch has advantage on saving throws against spells and other
+        magical effects.
+    Magic Weapons: Moloch's weapon attacks are magical.
+    Regeneration: Moloch regains 20 hit points at the start of his turn. If he takes
+        radiant damage, this trait doesn't function at the start of his next turn.
+        Moloch dies only if he starts his turn with 0 hit points and doesn't regenerate.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - flame strike
+            - symbol
+            at will:
+            - alter self
+            - animate dead
+            - burning hands
+            - confusion
+            - detect magic
+            - fly
+            - geas
+            - major image
+            - stinking cloud
+            - suggestion
+            - wall of fire
+        type: innate
+type: fiend
+wisdom: '18'

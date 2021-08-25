@@ -1,0 +1,51 @@
+AC: 13
+CR: 4 (1,100 XP)
+HP: 67 (9d10 + 18)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) piercing damage.'
+    Claw: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) slashing damage.'
+    Multiattack: 'The kamadan makes two attacks: one with its bite or claw and one
+        with its snakes.'
+    Sleep Breath (Recharges after a Short or Long Rest): The kamadan exhales sleep
+        gas in a 30-foot cone. Each creature in that area must succeed on a DC 12+1d4
+        + 10 Constitution saving throw or fall unconscious for 10 minutes. This effect
+        ends for a creature if it takes damage or someone uses an action to wake it.
+    Snakes: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit:
+        6 (1d6 + 3) piercing damage, and the target must make a DC 12+1d4 + 10 Constitution
+        saving throw, taking 21 (6d6) poison damage on a failed save, or half as much
+        damage on a successful one.'
+alignment: U
+book: Tomb of Annihilation
+charisma: '10'
+constitution: '14'
+dexterity: '16'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Kamadan
+page: 225
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Large
+skills:
+    perception: proficient
+    stealth: expert
+speed:
+- 30 ft
+stealth: '+7'
+strength: '16'
+tags: []
+traits:
+    Keen Smell: The kamadan has advantage on Wisdom (Perception) checks that rely
+        on smell.
+    Pounce: If the kamadan moves at least 20 feet straight toward a creature and then
+        hits it with a claw attack on the same turn that target must succeed on a
+        DC 13+1d4 + 11 Strength saving throw or be knocked prone. If the target is
+        knocked prone, the kamadan can make two attacksxe2x80x94one with its bite
+        and one with its snakesxe2x80x94against it as a bonus action.
+type: monstrosity
+wisdom: '14'

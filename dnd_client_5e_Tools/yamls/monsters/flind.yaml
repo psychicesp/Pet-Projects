@@ -1,0 +1,53 @@
+AC: 16
+CR: 9 (5,000 XP)
+HP: 127 (15d8 + 60)
+actions:
+    Flail of Madness: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target.
+        Hit: 10 (1d10 + 5) bludgeoning damage, and the target must make a DC 16+1d8
+        + 12 Wisdom saving throw. On a failed save, the target must make a melee attack
+        against a random target within its reach on its next turn. If it has no targets
+        within its reach even after moving, it loses its action on that turn.'
+    Flail of Pain: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target.
+        Hit: 10 (1d10 + 5) bludgeoning damage plus 22 (4d10) psychic damage.'
+    Flail of Paralysis: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one
+        target. Hit: 10 (1d10 + 5) bludgeoning damage, and the target must succeed
+        on a DC 16+1d8 + 12 Constitution saving throw or be paralyzed until the end
+        of its next turn.'
+    Longbow: 'Ranged Weapon Attack: +4+1d8 + 0 to hit, range 150/600 ft., one target.
+        Hit: 4 (1d8) piercing damage.'
+    Multiattack: 'The flind makes three attacks: one with each of its different flail
+        attacks or three with its longbow.'
+alignment: CE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '12'
+constitution: '19'
+dexterity: '10'
+intelligence: '11'
+intimidation: '+5'
+languages:
+- Abyssal
+- Gnoll
+name: Flind
+page: 153
+perception: '+5'
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 15
+size: Medium
+skills:
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '20'
+tags:
+- gnoll
+traits:
+    Aura of Blood Thirst: If the flind isn't incapacitated, any creature with the
+        Rampage trait can make a bite attack as a bonus action while within 10 feet
+        of the flind.
+type: humanoid
+wisdom: '13'

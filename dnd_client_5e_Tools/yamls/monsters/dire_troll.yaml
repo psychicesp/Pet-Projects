@@ -1,0 +1,50 @@
+AC: 15
+CR: 13 (10,000 XP)
+HP: 172 (15d12 + 75)
+actions:
+    Bite: 'Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target. Hit:
+        10 (1d8 + 6) piercing damage plus 5 (1d10) poison damage.'
+    Claws: 'Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target. Hit:
+        16 (3d6 + 6) slashing damage.'
+    Multiattack: 'The troll makes five attacks: one with its bite and four with its
+        claws.'
+    Whirlwind of Claws (Recharge 5xe2x80x936): Each creature within 10 feet of the
+        troll must make a DC 19+1d10 + 14 Dexterity saving throw, taking 44 (8d10)
+        slashing damage on a failed save, or half as much damage on a successful one.
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '5'
+condition_immunities:
+- frightened, poisoned
+constitution: '21'
+dexterity: '15'
+intelligence: '9'
+languages:
+- Giant
+name: Dire Troll
+page: 243
+perception: '+5'
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 15
+size: Huge
+skills:
+    perception: proficient
+speed:
+- 40 ft
+strength: '22'
+tags: []
+traits:
+    Keen Senses: The troll has advantage on Wisdom (Perception) checks that rely on
+        smell or sight.
+    Regeneration: The troll regains 10 hit points at the start of its turn. If the
+        troll takes acid or fire damage, it regains only 5 hit points at the start
+        of its next turn. The troll dies only if it is hit by an attack that deals
+        10 or more acid or fire damage while the troll has 0 hit points.
+type: giant
+wisdom: '11'

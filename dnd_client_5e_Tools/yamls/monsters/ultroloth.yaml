@@ -1,0 +1,79 @@
+AC: 19
+CR: 13 (10,000 XP)
+HP: 153 (18d8 + 72)
+actions:
+    Hypnotic Gaze: The ultroloth's eyes sparkle with opalescent light as it targets
+        one creature it can see within 30 feet of it. If the target can see the ultroloth,
+        the target must succeed on a DC 17+1d10 + 12 Wisdom saving throw against this
+        magic or be charmed until the end of the ultroloth's next turn. The charmed
+        target is stunned. If the target's saving throw is successful, the target
+        is immune to the ultroloth's gaze for the next 24 hours.
+    Longsword: 'Melee Weapon Attack: +8+1d10 + 3 to hit, reach 5 ft., one target.
+        Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used
+        with two hands.'
+    Multiattack: The ultroloth can use its Hypnotic Gaze and makes three melee attacks.
+    Teleport: The ultroloth magically teleports, along with any equipment it is wearing
+        or carrying, up to 60 feet to an unoccupied space it can see.
+alignment: NE
+book: Monster Manual
+charisma: '19'
+condition_immunities:
+- charmed, frightened, poisoned
+constitution: '18'
+damage_immunities:
+- acid, poison
+dexterity: '16'
+intelligence: '18'
+intimidation: '+9'
+languages:
+- Abyssal
+- Infernal
+- telepathy 120 ft.
+name: Ultroloth
+page: 314
+perception: '+7'
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- truesight 120 ft.
+- passive Perception 17
+size: Medium
+skills:
+    intimidation: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+- fly 60 ft
+stealth: '+8'
+strength: '16'
+tags:
+- yugoloth
+traits:
+    Magic Resistance: The ultroloth has advantage on saving throws against spells
+        and other magical effects.
+    Magic Weapons: The ultroloth's weapon attacks are magical.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - fire storm
+            - mass suggestion
+            3/day:
+            - dimension door
+            - fear
+            - wall of fire
+            at will:
+            - alter self
+            - clairvoyance
+            - darkness
+            - detect magic
+            - detect thoughts
+            - dispel magic
+            - invisibility
+            - suggestion
+        type: innate
+type: fiend
+wisdom: '15'

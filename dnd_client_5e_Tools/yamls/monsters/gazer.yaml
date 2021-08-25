@@ -1,0 +1,44 @@
+AC: 13
+CR: 1/2 (100 XP)
+HP: 13 (3d4 + 6)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 1
+        piercing damage.'
+    Eye Rays: 'The gazer shoots two of the following magical eye rays at random (reroll
+        duplicates), choosing one or two targets it can see within 60 feet of it:'
+alignment: NE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '7'
+condition_immunities:
+- prone
+constitution: '14'
+dexterity: '17'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Gazer
+page: 126
+perception: '+4'
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Tiny
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 0 ft
+- fly 30 ft. (hover)
+stealth: '+5'
+strength: '3'
+tags: []
+traits:
+    Aggressive: As a bonus action, the gazer can move up to its speed toward a hostile
+        creature that it can see.
+    Mimicry: The gazer can mimic simple sounds of speech it has heard, in any language.
+        A creature that hears the sounds can tell they are imitations with a successful
+        DC 10+1d4 + 8 Wisdom (Insight) check.
+type: aberration
+wisdom: '10'

@@ -1,0 +1,67 @@
+AC: 18
+CR: 9 (5,000 XP)
+HP: 117 (18d8 + 36)
+actions:
+    Maul: 'Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one target. Hit: 10
+        (2d6 + 3) bludgeoning damage.'
+    Multiattack: The priest makes two melee attacks.
+alignment: AA
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '13'
+constitution: '14'
+dexterity: '10'
+intelligence: '11'
+intimidation: '+5'
+languages:
+- any two languages
+name: War Priest
+page: 218
+religion: '+4'
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- passive Perception 13
+size: Medium
+skills:
+    intimidation: proficient
+    religion: proficient
+speed:
+- 30 ft
+strength: '16'
+tags:
+- any
+traits:
+    spellcasting:
+        ability: wisdom
+        level: 9
+        spells:
+        - light
+        - mending
+        - sacred flame
+        - spare the dying
+        - divine favor
+        - guiding bolt
+        - healing word
+        - shield of faith
+        - lesser restoration
+        - magic weapon
+        - prayer of healing
+        - silence
+        - spiritual weapon
+        - beacon of hope
+        - crusader's mantle
+        - dispel magic
+        - revivify
+        - spirit guardians
+        - water walk
+        - banishment
+        - freedom of movement
+        - guardian of faith
+        - stoneskin
+        - flame strike
+        - mass cure wounds
+        - hold monster
+        type: cleric
+type: humanoid
+wisdom: '17'

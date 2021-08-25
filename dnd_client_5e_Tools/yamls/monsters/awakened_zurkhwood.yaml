@@ -1,0 +1,35 @@
+AC: 13
+CR: 2 (450 XP)
+HP: 59 (7d12 + 14)
+actions:
+    Slam: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 10 ft., one target. Hit:
+        14 (3d6 + 4) bludgeoning damage.'
+alignment: U
+book: Out of the Abyss
+charisma: 7 (-2)
+constitution: 15 (+2)
+dexterity: 6 (-2)
+hit points: 7d12 + 14
+intelligence: 10 (+0)
+languages:
+- one language known by its creator
+name: Awakened Zurkhwood
+page: 230
+resistances:
+- bludgeoning, piercing
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Huge
+skills: {}
+speed:
+- 20 ft
+strength: 19 (+4)
+tags: []
+traits:
+    False Appearance: While the tree remains motionless, it is indistinguishable from
+        a normal zurkhwood mushroom.
+    Mute: If the awakened zurkhwood was created by a myconid sovereign, it can't speak.
+type: plant
+wisdom: 10 (+0)

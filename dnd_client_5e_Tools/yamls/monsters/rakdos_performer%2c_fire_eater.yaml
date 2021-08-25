@@ -1,0 +1,43 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 22 (4d8 + 4)
+acrobatics: '+7'
+actions:
+    Bladed Chain: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 10 ft., one target.
+        Hit: 6 (1d6 + 3) slashing damage.'
+    Multiattack: The fire eater makes two attacks with its bladed chain.
+    Spew Flame (Recharge 4xe2x80x936): The fire eater exhales flames. Each creature
+        in a 15-foot cone must make a DC 13+1d4 + 11 Dexterity saving throw, taking
+        9 (2d8) fire damage on a failed save, or half as much damage on a successful
+        one.
+alignment: CE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '15'
+constitution: '12'
+dexterity: '17'
+intelligence: '10'
+languages:
+- any one language (usually Common)
+name: Rakdos Performer, Fire Eater
+page: 249
+performance: '+4'
+saving_throws:
+    charisma: proficient
+    dexterity: proficient
+senses:
+- passive Perception 9
+size: Medium
+skills:
+    acrobatics: expert
+    performance: proficient
+speed:
+- 40 ft
+- climb 30 ft
+strength: '13'
+tags:
+- any
+traits:
+    Nimble: The performer can take the Disengage action as a bonus action on each
+        of its turns.
+type: humanoid
+wisdom: '8'

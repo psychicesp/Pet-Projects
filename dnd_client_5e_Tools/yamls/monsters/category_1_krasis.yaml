@@ -1,0 +1,33 @@
+AC: 15
+CR: 1 (200 XP)
+HP: 19 (3d8 + 6)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit:
+        8 (1d10 + 3) piercing damage.'
+    Claws: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        7 (1d8 + 3) slashing damage.'
+    Multiattack: 'The krasis makes two attacks: one with its bite and one with its
+        claws.'
+alignment: U
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '8'
+constitution: '14'
+dexterity: '15'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Category 1 Krasis
+page: 210
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '16'
+tags: []
+traits:
+    Amphibious: The krasis can breathe air and water.
+type: monstrosity
+wisdom: '13'

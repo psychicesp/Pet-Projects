@@ -1,0 +1,65 @@
+AC: 13
+CR: 6 (2,300 XP)
+HP: 97 (13d8 + 39)
+actions:
+    Multiattack: The kuo-toa makes two melee attacks.
+    Scepter: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit:
+        6 (1d6 + 3) bludgeoning damage plus 14 (4d6) lightning damage.'
+    Unarmed Strike: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target.
+        Hit: 5 (1d4 + 3) bludgeoning damage.'
+alignment: NE
+book: Monster Manual
+charisma: '14'
+constitution: '16'
+dexterity: '14'
+intelligence: '13'
+languages:
+- Undercommon
+name: Kuo-toa Archpriest
+page: 200
+perception: '+9'
+religion: '+7'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 19
+size: Medium
+skills:
+    perception: expert
+    religion: expert
+speed:
+- 30 ft
+- swim 30 ft
+strength: '16'
+tags:
+- kuo-toa
+traits:
+    Amphibious: The kuo-toa can breathe air and water.
+    Otherworldly Perception: The kuo-toa can sense the presence of any creature within
+        30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint
+        such a creature that is moving.
+    Slippery: The kuo-toa has advantage on ability checks and saving throws made to
+        escape a grapple.
+    Sunlight Sensitivity: While in sunlight, the kuo-toa has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+    spellcasting:
+        ability: wisdom
+        level: 10
+        spells:
+        - guidance
+        - sacred flame
+        - thaumaturgy
+        - detect magic
+        - sanctuary
+        - shield of faith
+        - hold person
+        - spiritual weapon
+        - spirit guardians
+        - tongues
+        - control water
+        - divination
+        - mass cure wounds
+        - scrying
+        type: cleric
+type: humanoid
+wisdom: '16'

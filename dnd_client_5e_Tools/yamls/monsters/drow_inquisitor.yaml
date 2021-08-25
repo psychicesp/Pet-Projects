@@ -1,0 +1,89 @@
+AC: 16
+CR: 14 (11,500 XP)
+HP: 143 (22d8 + 44)
+actions:
+    Death Lance: 'Melee Weapon Attack: +10+1d10 + 5 to hit, reach 5 ft., one target.
+        Hit: 8 (1d6 + 5) piercing damage plus 18 (4d8) necrotic damage. The target''s
+        hit point maximum is reduced by an amount equal to the necrotic damage it
+        takes. This reduction lasts until the target finishes a long rest. The target
+        dies if its hit point maximum is reduced to 0.'
+    Multiattack: The drow makes three death lance attacks.
+alignment: NE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '20'
+condition_immunities:
+- frightened
+constitution: '14'
+dexterity: '15'
+insight: '+10'
+intelligence: '16'
+languages:
+- Elvish
+- Undercommon
+name: Drow Inquisitor
+page: 184
+perception: '+10'
+religion: '+8'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 20
+size: Medium
+skills:
+    insight: proficient
+    perception: proficient
+    religion: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+7'
+strength: '11'
+tags:
+- elf
+traits:
+    Discern Lie: The drow knows when she hears a creature speak a lie in a language
+        she knows.
+    Fey Ancestry: The drow has advantage on saving throws against being charmed, and
+        magic can't put the drow to sleep.
+    Magic Resistance: The drow has advantage on saving throws against spells and other
+        magical effects.
+    Sunlight Sensitivity: While in sunlight, the drow has disadvantage on attack rolls,
+        as well as on Wisdom (Perception) checks that rely on sight.
+    spellcasting:
+        ability: wisdom
+        spells:
+            1st:
+            - bane
+            - cure wounds
+            - inflict wounds
+            2nd:
+            - blindness/deafness
+            - silence
+            - spiritual weapon
+            3rd:
+            - bestow curse
+            - dispel magic
+            - magic circle
+            4th:
+            - banishment
+            - divination
+            - freedom of movement
+            5th:
+            - contagion
+            - dispel evil and good
+            - insect plague
+            6th:
+            - harm
+            - true seeing
+            Cantrips:
+            - guidance
+            - message
+            - poison spray
+            - resistance
+            - thaumaturgy
+        type: innate
+type: humanoid
+wisdom: '21'

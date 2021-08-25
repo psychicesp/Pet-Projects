@@ -1,0 +1,53 @@
+AC: 16
+CR: 2 (450 XP)
+HP: 44 (8d8 + 8)
+actions:
+    Vampiric Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 6 (1d8 + 2) piercing damage. The target must succeed on a DC 11+1d4 +
+        9 Constitution saving throw or its hit point maximum is reduced by an amount
+        equal to the damage taken, and the ixitxachitl regains hit points equal to
+        that amount. The reduction lasts until the target finishes a long rest. The
+        target dies if its hit point maximum is reduced to 0.'
+alignment: CE
+book: Out of the Abyss
+charisma: '7'
+constitution: '13'
+dexterity: '18'
+intelligence: '12'
+languages:
+- Abyssal
+- Ixitxachitl
+name: Vampiric Ixitxachitl Cleric
+page: 226
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Medium
+skills: {}
+speed:
+- 0 ft
+- swim 30 ft
+strength: '14'
+tags: []
+traits:
+    spellcasting:
+        ability: ' spellcasting. the ixitxachitl is a 5th-level spellcaster that uses
+            wisdom as its spellcasting ability (spell save dc 11+1d4 + 9, +3+1d4 +
+            1 to hit with spell attacks). the ixitxachitl has the following cleric
+            spells prepared:cantrips (at will): guidance, thaumaturgy1st level (4
+            slots): charm person, create or destroy water2nd level (3 slots): hold
+            person, silence3rd level (2 slots): dispel magic, tongues'
+        level: 5
+        spells:
+        - guidance
+        - thaumaturgy
+        - charm person
+        - create or destroy water
+        - hold person
+        - silence
+        - dispel magic
+        - tongues
+        type: cleric
+type: aberration
+wisdom: '13'

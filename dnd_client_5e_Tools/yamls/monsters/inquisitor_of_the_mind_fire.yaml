@@ -1,0 +1,54 @@
+AC: 16
+CR: 8 (3,900 XP)
+HP: 77 (14d8 + 14)
+actions:
+    Innate Spellcasting (Psionics): 'The inquisitor casts one of the following spells,
+        requiring no components and using Charisma as the spellcasting ability (spell
+        save DC 15+1d6 + 12):'
+    Inquisitor's Command (Recharge 5xe2x80x936): Each creature of the inquisitor's
+        choice that it can see within 60 feet of it must succeed on a DC 15+1d6 +
+        12 Wisdom saving throw or be charmed until the start of the inquisitor's next
+        turn. On the charmed target's turn, the inquisitor can telepathically control
+        the target's move, action, or both. When controlled in this way, the target
+        can take only the Attack (inquisitor chooses the target) or Dash action.
+    Mind Fire: The inquisitor targets one creature it can see within 120 feet of it.
+        The target must succeed on a DC 15+1d6 + 12 Intelligence saving throw or take
+        17 (3d8 + 4) psychic damage and be stunned until the start of the inquisitor's
+        next turn.
+    Multiattack: The inquisitor attacks twice with its Silver Longsword or uses Mind
+        Fire twice.
+    Silver Longsword: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target.
+        Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) if used with two hands,
+        plus 18 (4d8) force damage.'
+alignment: U
+book: Van Richten\xe2\x80\x99s Guide to Ravenloft
+charisma: '19'
+condition_immunities:
+- charmed, frightened
+constitution: '12'
+dexterity: '14'
+insight: '+6'
+intelligence: '17'
+languages:
+- any three languages
+- telepathy 120 ft.
+name: Inquisitor of the Mind Fire
+page: 248
+perception: '+6'
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- truesight 30 ft.
+- passive Perception 16
+size: Medium
+skills:
+    insight: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '10'
+tags: []
+type: humanoid
+wisdom: '16'

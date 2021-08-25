@@ -1,0 +1,34 @@
+AC: 12
+CR: 0 (0 or 10 XP)
+HP: 2 (1d4)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 1
+        piercing damage.'
+alignment: LE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '8'
+constitution: '10'
+dexterity: '14'
+hit: 1d4
+intelligence: '4'
+languages:
+- telepathy 30 ft.
+name: Cranium Rat
+page: 133
+saving_throws: {}
+senses:
+- darkvision 30 ft.
+- passive Perception 10
+size: Tiny
+skills: {}
+speed:
+- 30 ft
+strength: '2'
+tags: []
+traits:
+    Illumination: As a bonus action, the cranium rat can shed dim light from its brain
+        in a 5-foot radius or extinguish the light.
+    Telepathic Shroud: The cranium rat is immune to any effect that would sense its
+        emotions or read its thoughts, as well as to all divination spells.
+type: beast
+wisdom: '11'

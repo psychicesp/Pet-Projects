@@ -1,0 +1,37 @@
+AC: 10
+CR: 1/8 (25 XP)
+HP: 11 (2d8 + 2)
+actions:
+    Hooves: 'Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit:
+        4 (1d4 + 2) bludgeoning damage.'
+alignment: U
+book: 'Waterdeep: Dungeon of the Mad Mage'
+charisma: '5'
+condition_immunities:
+- blinded, charmed, frightened, paralyzed, petrified, poisoned
+constitution: '13'
+damage_immunities:
+- poison
+dexterity: '10'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Wooden Donkey
+page: 84
+saving_throws: {}
+senses:
+- blindsight 30 ft. (blind beyond this radius)
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 40 ft
+strength: '14'
+tags: []
+traits:
+    Beast of Burden: The donkey is considered to be a Large animal for the purpose
+        of determining its carrying capacity.
+    Sure-Footed: The donkey has advantage on Strength and Dexterity saving throws
+        made against effects that would knock it prone.
+type: construct
+wisdom: '10'

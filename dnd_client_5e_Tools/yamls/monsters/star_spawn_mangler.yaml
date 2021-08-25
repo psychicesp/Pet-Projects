@@ -1,0 +1,49 @@
+AC: 14
+CR: 5 (1,800 XP)
+HP: 71 (13d8 + 13)
+actions:
+    Claw: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 8
+        (1d8 + 4) slashing damage. If the attack roll has advantage, the target also
+        takes 7 (2d6) psychic damage.'
+    Flurry of Claws (Recharge 4xe2x80x936): The mangler makes six claw attacks against
+        one target. Either before or after these attacks, it can move up to its speed
+        as a bonus action without provoking opportunity attacks.
+    Multiattack: The mangler makes two claw attacks.
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '7'
+condition_immunities:
+- charmed, frightened, prone
+constitution: '12'
+damage_immunities:
+- psychic
+dexterity: '18'
+intelligence: '11'
+languages:
+- Deep Speech
+name: Star Spawn Mangler
+page: 236
+resistances:
+- cold
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Medium
+skills:
+    stealth: proficient
+speed:
+- 40 ft
+- climb 40 ft
+stealth: '+7'
+strength: '8'
+tags: []
+traits:
+    Ambush: On the first round of each combat, the mangler has advantage on attack
+        rolls against a creature that hasn't taken a turn yet.
+    Shadow Stealth: While in dim light or darkness, the mangler can take the Hide
+        action as a bonus action.
+type: aberration
+wisdom: '12'

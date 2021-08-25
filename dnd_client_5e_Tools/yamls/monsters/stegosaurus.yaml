@@ -1,0 +1,27 @@
+AC: 13
+CR: 4 (1,100 XP)
+HP: 76 (8d12 + 24)
+actions:
+    Tail: 'Melee Weapon Attack: +7+1d4 + 5 to hit, reach 10 ft., one target. Hit:
+        26 (6d6 + 5) piercing damage.'
+alignment: U
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '5'
+constitution: '17'
+dexterity: '9'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Stegosaurus
+page: 140
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Huge
+skills: {}
+speed:
+- 40 ft
+strength: '20'
+tags: []
+type: beast
+wisdom: '11'

@@ -1,0 +1,119 @@
+AC: 22
+CR: 26 (90,000 XP)
+HP: 370 (19d20 + 171)
+actions:
+    Bite: 'Melee Weapon Attack: +17+1d16 + 9 to hit, reach 15 ft., one target. Hit:
+        18 (2d8 + 9) piercing damage plus 14 (4d6) fire damage.'
+    Claw: 'Melee Weapon Attack: +17+1d16 + 9 to hit, reach 10 ft., one target. Hit:
+        14 (2d4 + 9) slashing damage.'
+    Fire Breath (Recharge 5xe2x80x936): Niv-Mizzet exhales fire in a 90-foot cone.
+        Each creature in that area must make a DC 25+1d16 + 17 Dexterity saving throw,
+        taking 91 (26d6) fire damage on a failed save, or half as much damage on a
+        successful one.
+    Multiattack: 'Niv-Mizzet makes three attacks: one with his bite and two with his
+        claws.'
+    Tail: 'Melee Weapon Attack: +17+1d16 + 9 to hit, reach 20 ft., one target. Hit:
+        16 (2d6 + 9) bludgeoning damage.'
+alignment: CN
+arcana: '+18'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '25'
+condition_immunities:
+- charmed
+constitution: '29'
+damage_immunities:
+- fire, lightning
+dexterity: '14'
+insight: '+11'
+intelligence: '30'
+languages:
+- Common
+- Draconic
+legendary_actions:
+    number: 3
+    options:
+        Cantrip: ' Niv-Mizzet casts one of his cantrips.'
+        Dracogenius (Costs 3 Actions): ' Niv-Mizzet regains a spell slot of 3rd level
+            or lower.'
+        Tail Attack: ' Niv-Mizzet makes a tail attack.'
+        Wing Attack (Costs 2 Actions): ' Niv-Mizzet beats his wings. Each creature
+            within 15 feet of him must succeed on a DC 25+1d16 + 17 Dexterity saving
+            throw or take 14 (2d4 + 9) bludgeoning damage and be knocked prone. Niv-Mizzet
+            can then fly up to half his flying speed.'
+name: Niv-Mizzet
+page: 241
+perception: '+11'
+resistances:
+- cold, psychic, thunder
+saving_throws:
+    constitution: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- blindsight 60 ft.
+- darkvision 120 ft.
+- passive Perception 21
+size: Gargantuan
+skills:
+    arcana: proficient
+    insight: proficient
+    perception: proficient
+speed:
+- 40 ft
+- climb 30 ft
+- fly 80 ft
+strength: '29'
+tags: []
+traits:
+    Legendary Resistance (3/Day): If Niv-Mizzet fails a saving throw, he can choose
+        to succeed instead.
+    Locus of the Firemind: Niv-Mizzet can maintain concentration on two different
+        spells at the same time. In addition, he has advantage on saving throws to
+        maintain concentration on spells.
+    Magic Resistance: Niv-Mizzet has advantage on saving throws against spells and
+        other magical effects.
+    Master Chemister: When Niv-Mizzet casts a spell that deals damage, he can change
+        the spell's damage to cold, fire, force, lightning, or thunder.
+    spellcasting:
+        ability: intelligence
+        level: 20
+        spells:
+        - fire bolt
+        - light
+        - prestidigitation
+        - ray of frost
+        - shocking grasp
+        - detect magic
+        - magic missile
+        - shield
+        - thunderwave
+        - unseen servant
+        - blur
+        - enlarge/reduce
+        - flaming sphere
+        - hold person
+        - scorching ray
+        - counterspell
+        - fireball
+        - lightning bolt
+        - slow
+        - confusion
+        - dimension door
+        - fabricate
+        - conjure elemental
+        - polymorph
+        - wall of fire
+        - wall of force
+        - chain lightning
+        - disintegrate
+        - true seeing
+        - project image
+        - reverse gravity
+        - teleport
+        - control weather
+        - maze
+        - power word stun
+        - prismatic wall
+        type: wizard
+type: dragon
+wisdom: '17'

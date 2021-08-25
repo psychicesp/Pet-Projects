@@ -1,0 +1,70 @@
+AC: 15
+CR: 11 (7,200 XP)
+HP: 262 (21d12 + 128)
+actions:
+    Change Shape: The giant magically polymorphs into a beast or humanoid it has seen,
+        or back into its true form. Any equipment the giant is wearing or carrying
+        is absorbed by the new form. Its statistics, other than its size, are the
+        same in each form. It reverts to its true form if it dies.
+    Morningstar: 'Melee Weapon Attack: +12+1d8 + 8 to hit, reach 10 ft., one target.
+        Hit: 21 (3d8 + 8) bludgeoning damage. The attack deals an extra 14 (4d6) damage
+        if the giant has advantage on the attack roll.'
+    Multiattack: The giant makes two attacks with its morningstar.
+    Rock: 'Ranged Weapon Attack: +12+1d8 + 8 to hit, range 60/240 ft., one target.
+        Hit: 30 (4d10 + 8) bludgeoning damage. The attack deals an extra 14 (4d6)
+        damage if the giant has advantage on the attack roll.'
+alignment: CN
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '17'
+constitution: '22'
+deception: '+11'
+dexterity: '12'
+insight: '+7'
+intelligence: '15'
+languages:
+- Common
+- Giant
+name: Cloud Giant Smiling One
+page: 146
+perception: '+7'
+saving_throws:
+    constitution: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- passive Perception 17
+size: Huge
+skills:
+    deception: expert
+    insight: proficient
+    perception: proficient
+    sleight of hand: expert
+speed:
+- 40 ft
+strength: '26'
+tags:
+- cloud
+traits:
+    Keen Smell: The giant has advantage on Wisdom (Perception) checks that rely on
+        smell.
+    spellcasting:
+        ability: charisma
+        spells:
+            1st:
+            - cure wounds
+            - disguise self
+            - silent image
+            - Tasha\'s hideous laughter
+            2nd:
+            - invisibility
+            - suggestion
+            3rd:
+            - major image
+            - tongues
+            Cantrips:
+            - minor illusion
+            - prestidigitation
+            - vicious mockery
+        type: innate
+type: giant
+wisdom: '16'

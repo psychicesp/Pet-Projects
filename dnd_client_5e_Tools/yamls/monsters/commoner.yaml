@@ -1,0 +1,29 @@
+AC: 10
+CR: 0 (0 or 10 XP)
+HP: 4 (1d8)
+actions:
+    Club: 'Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 2
+        (1d4) bludgeoning damage.'
+alignment: AA
+book: Monster Manual
+charisma: '10'
+constitution: '10'
+dexterity: '10'
+hit: 1d8
+intelligence: '10'
+languages:
+- any one language (usually Common)
+name: Commoner
+page: 345
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '10'
+tags:
+- any
+type: humanoid
+wisdom: '10'

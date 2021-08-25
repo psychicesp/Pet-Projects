@@ -1,0 +1,55 @@
+AC: 12
+CR: 2 (450 XP)
+HP: 30 (4d8 + 12)
+actions:
+    Touch of the White Hand: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft.,
+        one target. Hit: 9 (2d8) necrotic damage.'
+alignment: CE
+arcana: '+2'
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '9'
+constitution: '16'
+dexterity: '11'
+intelligence: '11'
+intimidation: '+1'
+languages:
+- understands Common and Orc but can\'t speak
+medicine: '+4'
+name: Orc Hand of Yurtrus
+page: 184
+religion: '+2'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Medium
+skills:
+    arcana: proficient
+    intimidation: proficient
+    medicine: proficient
+    religion: proficient
+speed:
+- 30 ft
+strength: '12'
+tags:
+- orc
+traits:
+    Aggressive: As a bonus action, the orc can move up to its speed toward a hostile
+        creature that it can see.
+    spellcasting:
+        ability: wisdom
+        level: 4
+        spells:
+        - guidance
+        - mending
+        - resistance
+        - thaumaturgy
+        - bane
+        - detect magic
+        - inflict wounds
+        - protection from evil and good
+        - blindness/deafness
+        - silence
+        type: cleric
+type: humanoid
+wisdom: '14'

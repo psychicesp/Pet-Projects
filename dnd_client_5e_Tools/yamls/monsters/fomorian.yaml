@@ -1,0 +1,43 @@
+AC: 14
+CR: 8 (3,900 XP)
+HP: 149 (13d12 + 65)
+actions:
+    Curse of the Evil Eye (Recharges after a Short or Long Rest): With a stare, the
+        fomorian uses Evil Eye, but on a failed save, the creature is also cursed
+        with magical deformities. While deformed, the creature has its speed halved
+        and has disadvantage on ability checks, saving throws, and attacks based on
+        Strength or Dexterity.
+    Evil Eye: The fomorian magically forces a creature it can see within 60 feet of
+        it to make a DC 14+1d6 + 11 Charisma saving throw. The creature takes 27 (6d8)
+        psychic damage on a failed save, or half as much damage on a successful one.
+    Greatclub: 'Melee Weapon Attack: +9+1d6 + 6 to hit, reach 15 ft., one target.
+        Hit: 19 (3d8 + 6) bludgeoning damage.'
+    Multiattack: The fomorian attacks twice with its greatclub or makes one greatclub
+        attack and uses Evil Eye once.
+alignment: CE
+book: Monster Manual
+charisma: '6'
+constitution: '20'
+dexterity: '10'
+intelligence: '9'
+languages:
+- Giant
+- Undercommon
+name: Fomorian
+page: 136
+perception: '+8'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 18
+size: Huge
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+3'
+strength: '23'
+tags: []
+type: giant
+wisdom: '14'

@@ -1,0 +1,48 @@
+AC: 12
+CR: 1 (200 XP)
+HP: 45 (7d10 + 7)
+actions:
+    Engulf: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one Medium or smaller
+        creature. Hit: The target is trapped inside the mantrap''s leafy jaws. While
+        trapped in this way, the target is blinded and restrained, has total cover
+        from an attacks and other effects outside the mantrap, and takes 14 (4d6)
+        acid damage at the start of each of the target''s turns. If the mantrap dies,
+        the creature inside it is no longer restrained by it. A mantrap can engulf
+        only one creature at a time.'
+alignment: U
+book: Tomb of Annihilation
+charisma: '2'
+condition_immunities:
+- blinded, deafened, exhaustion, prone
+constitution: '12'
+dexterity: '14'
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Mantrap
+page: 227
+perception: '+4'
+saving_throws: {}
+senses:
+- tremorsense 30 ft.
+- passive Perception 10
+size: Large
+skills:
+    perception: expert
+    stealth: expert
+speed:
+- 5 ft
+stealth: '+6'
+strength: '15'
+tags: []
+traits:
+    Attractive Pollen (1/Day): When the mantrap detects any creatures nearby, it can
+        use its reaction to release pollen out to a radius of 30 feet. Any beast or
+        humanoid within the area must succeed on a DC 11+1d4 + 9 Wisdom saving throw
+        or be forced to use all its movement on its turns to get as close to the the
+        mantrap as possible. An affected target can repeat the saving throw at the
+        end of each of its turns, ending the effect on itself on a success.
+    False Appearance: While the mantrap remains motionless, it is indistinguishable
+        from an ordinary tropical plant.
+type: plant
+wisdom: '10'

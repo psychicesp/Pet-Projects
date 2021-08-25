@@ -1,0 +1,42 @@
+AC: 7
+CR: 0 (0 or 10 XP)
+HP: 13 (3d8)
+actions:
+    Fist: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 2
+        (1d4) bludgeoning damage'
+alignment: LE
+book: Monster Manual
+charisma: '3'
+condition_immunities:
+- charmed, frightened, poisoned
+constitution: '11'
+damage_immunities:
+- fire, poison
+dexterity: '5'
+hit: 3d8
+intelligence: '1'
+languages:
+- understands Infernal but can\'t speak
+name: Lemure
+page: 76
+resistances:
+- cold
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 15 ft
+strength: '10'
+tags:
+- devil
+traits:
+    Devil's Sight: Magical darkness doesn't impede the lemure's darkvision.
+    Hellish Rejuvenation: A lemure that dies in the Nine Hells comes back to life
+        with all its hit points in 1d10 days unless it is killed by a good-aligned
+        creature with a bless spell cast on that creature or its remains are sprinkled
+        with holy water.
+type: fiend
+wisdom: '11'

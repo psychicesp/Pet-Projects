@@ -1,0 +1,49 @@
+AC: 12
+CR: 2 (450 XP)
+HP: 27 (5d8 + 5)
+actions:
+    Club: 'Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit: 2
+        (1d4) bludgeoning damage.'
+alignment: CE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '18'
+constitution: '13'
+deception: '+6'
+dexterity: '12'
+intelligence: '12'
+languages:
+- Common plus any one language
+name: Rakdos Lampooner
+page: 248
+performance: '+6'
+saving_throws: {}
+senses:
+- passive Perception 9
+size: Medium
+skills:
+    deception: proficient
+    performance: proficient
+speed:
+- 30 ft
+strength: '11'
+tags:
+- any
+traits:
+    spellcasting:
+        ability: charisma
+        level: 4
+        spells:
+        - dancing lights
+        - minor illusion
+        - vicious mockery
+        - bane
+        - dissonant whispers
+        - silent image
+        - Tasha's hideous laughter
+        - thunderwave
+        - crown of madness
+        - enthrall
+        - suggestion
+        type: bard
+type: humanoid
+wisdom: '9'

@@ -1,0 +1,66 @@
+AC: 14
+CR: 3 (700 XP)
+HP: 22 (5d8)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit:
+        4 (1d4 + 2) piercing damage.'
+    Eldritch Blast (Cantrip): 'Ranged Spell Attack: +5+1d4 + 3 to hit, range 120 ft.,
+        one creature. Hit: 5 (1d10) force damage.'
+    Multiattack: 'The warlock makes two attacks: one with its bite and one with its
+        Sword of Fathoms.'
+    Sword of Fathoms: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 7 (1d10 + 2) slashing damage, and if the target is a creature, it must
+        succeed on a DC 13+1d4 + 11 Constitution saving throw or begin choking. The
+        choking creature is incapacitated until the end of its next turn, when the
+        effect ends on it.'
+alignment: NE
+arcana: '+1'
+book: Explorer\xe2\x80\x99s Guide to Wildemount
+charisma: '16'
+constitution: '11'
+dexterity: '10'
+hit: 5d8
+intelligence: '8'
+languages:
+- Common
+- Sahuagin
+name: Sahuagin Warlock of Uk\'otoa
+page: 297
+persuasion: '+5'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 9
+size: Medium
+skills:
+    arcana: proficient
+    persuasion: proficient
+speed:
+- 30 ft
+- swim 40 ft
+strength: '14'
+tags:
+- sahuagin
+traits:
+    Blood Frenzy: The warlock has advantage on melee attack rolls against any creature
+        that doesn't have all its hit points.
+    Limited Amphibiousness: The warlock can breathe air and water, but it needs to
+        be submerged at least once every 4 hours to avoid suffocating.
+    Shark Telepathy: The warlock can magically command any shark within 120 feet of
+        it, using a limited telepathy.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - armor of Agathys
+            - arms of Hadar
+            - counterspell
+            - crown of madness
+            - invisibility
+            - hunger of Hadar
+            at will:
+            - eldritch blast
+            - minor illusion
+        type: innate
+type: humanoid
+wisdom: '8'

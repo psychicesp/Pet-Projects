@@ -1,0 +1,20 @@
+casting time: 1 action
+classes:
+- Artificer
+- Cleric
+- Paladin
+components: V, S, M
+concentration: false
+cost: 300
+description: You touch a creature that has died within the last minute. That creature
+    returns to life with 1 hit point. This spell can't return to life a creature that
+    has died of old age, nor can it restore any missing body parts.
+duration: Instantaneous
+extras: diamonds worth 300 gp, which the spell consumes
+level: 3
+name: Revivify
+page: 272
+range: Touch
+ritual: false
+school: necromancy
+source: PHB

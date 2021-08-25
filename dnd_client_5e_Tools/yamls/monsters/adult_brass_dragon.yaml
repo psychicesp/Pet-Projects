@@ -1,0 +1,90 @@
+AC: 18
+CR: 13 (10,000 XP)
+HP: 172 (15d12 + 75)
+actions:
+    Bite: 'Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target. Hit:
+        17 (2d10 + 6) piercing damage.'
+    "Breath Weapons (Recharge 5\u20136)": The dragon uses one of the following breath
+        weapons.
+    Claw: 'Melee Weapon Attack: +11+1d10 + 6 to hit, reach 5 ft., one target. Hit:
+        13 (2d6 + 6) slashing damage.'
+    Frightful Presence: Each creature of the dragon's choice that is within 120 feet
+        of the dragon and aware of it must succeed on a DC 16+1d10 + 11 Wisdom saving
+        throw or become frightened for 1 minute. A creature can repeat the saving
+        throw at the end of each of its turns, ending the effect on itself on a success.
+        If a creature's saving throw is successful or the effect ends for it, the
+        creature is immune to the dragon's Frightful Presence for the next 24 hours.
+    Multiattack: 'The dragon can use its Frightful Presence. It then makes three attacks:
+        one with its bite and two with its claws.'
+    Tail: 'Melee Weapon Attack: +11+1d10 + 6 to hit, reach 15 ft., one target. Hit:
+        15 (2d8 + 6) bludgeoning damage.'
+alignment: CG
+book: Monster Manual
+charisma: 17 (+3)
+charisma save: '+8'
+constitution: 21 (+5)
+constitution save: '+10'
+damage_immunities:
+- fire
+dexterity: 10 (+0)
+dexterity save: '+5'
+history: '+7'
+hit points: 15d12 + 75
+in_lair:
+    CR_increase: 1
+    actions:
+    - A strong wind blows around the dragon. Each creature within 60 feet of the dragon
+        must succeed on a DC 15+1d10 + 10 Strength saving throw or be pushed 15 feet
+        away from the dragon and knocked prone. Gases and vapors are dispersed by
+        the wind, and unprotected flames are extinguished. Protected flames; such
+        as lanterns, have a 50 percent chance of being extinguished.
+    - A cloud of sand swirls about in a 20-foot-radius sphere centered on a point
+        the dragon can see within 120 feet of it. The cloud spreads around corners.
+        Each creature in it must succeed on a DC 15+1d10 + 10 Constitution saving
+        throw or be blinded for 1 minute. A creature can repeat the saving throw at
+        the end of each of its turns, ending the effect on itself on a success.
+intelligence: 14 (+2)
+languages:
+- Common
+- Draconic
+legendary_actions:
+    number: 3
+    options:
+        Detect: ' The dragon makes a Wisdom (Perception) check.'
+        Tail Attack: ' The dragon makes a tail attack.'
+        Wing Attack (Costs 2 Actions): ' The dragon beats its wings. Each creature
+            within 10 feet of the dragon must succeed on a DC 19+1d10 + 14 Dexterity
+            saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone.
+            The dragon can then fly up to half its flying speed.'
+name: Adult Brass Dragon
+page: 105
+perception: '+11'
+persuasion: '+8'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 60 ft.
+- darkvision 120 ft.
+- passive Perception 21
+size: Huge
+skills:
+    history: proficient
+    perception: expert
+    persuasion: proficient
+    stealth: proficient
+speed:
+- 40 ft
+- burrow 40 ft
+- fly 80 ft
+stealth: '+5'
+strength: 23 (+6)
+tags: []
+traits:
+    Legendary Resistance (3/Day): If the dragon fails a saving throw, it can choose
+        to succeed instead.
+type: dragon
+wisdom: 13 (+1)
+wisdom save: '+6'

@@ -1,0 +1,59 @@
+AC: 18
+CR: 11 (7,200 XP)
+HP: 178 (17d10 + 85)
+actions:
+    Fork: 'Melee Weapon Attack: +10+1d8 + 6 to hit, reach 10 ft., one target. Hit:
+        15 (2d8 + 6) piercing damage.'
+    Hurl Flame: 'Ranged Spell Attack: +7+1d8 + 3 to hit, range 150 ft., one target.
+        Hit: 14 (4d6) fire damage. If the target is a flammable object that isn''t
+        being worn or carried, it also catches fire.'
+    Multiattack: 'The devil makes three melee attacks: two with its fork and one with
+        its tail. It can use Hurl Flame in place of any melee attack.'
+    Tail: 'Melee Weapon Attack: +10+1d8 + 6 to hit, reach 10 ft., one target. Hit:
+        10 (1d8 + 6) piercing damage. If the target is a creature other than an undead
+        or a construct, it must succeed on a DC 17+1d8 + 13 Constitution saving throw
+        or lose 10 (3d6) hit points at the start of each of its turns due to an infernal
+        wound. Each time the devil hits the wounded target with this attack, the damage
+        dealt by the wound increases by 10 (3d6). Any creature can take an action
+        to stanch the wound with a successful DC 12+1d8 + 8 Wisdom (Medicine) check.
+        The wound also closes if the target receives magical healing.'
+alignment: LE
+book: Monster Manual
+charisma: '17'
+condition_immunities:
+- poisoned
+constitution: '21'
+damage_immunities:
+- fire, poison
+dexterity: '17'
+intelligence: '12'
+languages:
+- Infernal
+- telepathy 120 ft.
+name: Horned Devil
+page: 74
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+saving_throws:
+    charisma: proficient
+    dexterity: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 13
+size: Large
+skills: {}
+speed:
+- 20 ft
+- fly 60 ft
+strength: '22'
+tags:
+- devil
+traits:
+    Devil's Sight: Magical darkness doesn't impede the devil's darkvision.
+    Magic Resistance: The devil has advantage on saving throws against spells and
+        other magical effects.
+type: fiend
+wisdom: '16'

@@ -1,0 +1,52 @@
+AC: 14
+CR: 8 (3,900 XP)
+HP: 110 (13d10 + 39)
+actions:
+    Bite: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 26
+        (4d10 + 4) piercing damage.'
+    Multiattack: 'The shoosuva makes two attacks: one with its bite and one with its
+        tail stinger.'
+    Tail Stinger: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 15 ft., one creature.
+        Hit: 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 14+1d6
+        + 11 Constitution saving throw or become poisoned. While poisoned, the target
+        is also paralyzed. The target can repeat the saving throw at the end of each
+        of its turns, ending the effect on itself on a success.'
+alignment: CE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '9'
+condition_immunities:
+- charmed, frightened, poisoned
+constitution: '17'
+damage_immunities:
+- poison
+dexterity: '13'
+intelligence: '7'
+languages:
+- Abyssal
+- Gnoll
+- telepathy 120 ft.
+name: Shoosuva
+page: 137
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Large
+skills: {}
+speed:
+- 40 ft
+strength: '18'
+tags:
+- demon
+traits:
+    Rampage: When it reduces a creature to 0 hit points with a melee attack on its
+        turn, the shoosuva can take a bonus action to move up to half its speed and
+        make a bite attack.
+type: fiend
+wisdom: '14'

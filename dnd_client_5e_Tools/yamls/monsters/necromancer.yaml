@@ -1,0 +1,67 @@
+AC: 12
+CR: 9 (5,000 XP)
+HP: 66 (12d8 + 12)
+actions:
+    Withering Touch: 'Melee Spell Attack: +7+1d8 + 3 to hit, reach 5 ft., one creature.
+        Hit: 5 (2d4) necrotic damage.'
+alignment: AA
+arcana: '+7'
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '11'
+constitution: '12'
+dexterity: '14'
+history: '+7'
+intelligence: '17'
+languages:
+- any four languages
+name: Necromancer
+page: 217
+resistances:
+- necrotic
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- passive Perception 11
+size: Medium
+skills:
+    arcana: proficient
+    history: proficient
+speed:
+- 30 ft
+strength: '9'
+tags:
+- any
+traits:
+    '*Necromancy spell of 1st level or higher': '*Necromancy spell of 1st level or
+        higher'
+    Grim Harvest (1/Turn): When necromancer kills a creature that is neither a construct
+        nor undead with a spell of 1st level or higher, the necromancer regains hit
+        points equal to twice the spell's level, or three times if it is a necromancy
+        spell.
+    spellcasting:
+        ability: intelligence
+        level: 12
+        spells:
+        - chill touch
+        - dancing lights
+        - mage hand
+        - mending
+        - false life
+        - mage armor
+        - ray of sickness
+        - blindness/deafness
+        - ray of enfeeblement
+        - web
+        - animate dead
+        - bestow curse
+        - vampiric touch
+        - blight
+        - dimension door
+        - stoneskin
+        - Bigby's hand
+        - cloudkill
+        - circle of death
+        type: wizard
+type: humanoid
+wisdom: '12'

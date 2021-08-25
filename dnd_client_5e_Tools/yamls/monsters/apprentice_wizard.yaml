@@ -1,0 +1,49 @@
+AC: 10
+CR: 1/4 (50 XP)
+HP: 9 (2d8)
+actions:
+    Dagger: 'Melee or Ranged Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 2 (1d4) piercing damage.'
+alignment: AA
+arcana: '+4'
+book: "Volo\xEF\xBF\xBDs Guide to Monsters"
+charisma: 11 (+0)
+constitution: 10 (+0)
+dexterity: 10 (+0)
+history: '+4'
+hit points: 2d8
+intelligence: 14 (+2)
+languages:
+- any one language (usually Common)
+name: Apprentice Wizard
+page: 209
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    arcana: proficient
+    history: proficient
+speed:
+- 30 ft
+strength: 10 (+0)
+tags:
+- any
+traits:
+    spellcasting:
+        ability: "intelligence (spell save\n                        dc 12+1d4 + 10,\
+            \ +4+1d4 + 2 to hit with spell attacks). it\n                        has\
+            \ the following wizard spells prepared:\n\n\n\ncantrips (at will): fire\
+            \ bolt, mending, prestidigitation\n\n\n1st level (2 slots): burning hands,\
+            \ disguise self, shield\n\n\n"
+        level: 1
+        spells:
+        - fire bolt
+        - mending
+        - prestidigitation
+        - burning hands
+        - disguise self
+        - shield
+        type: wizard
+type: humanoid
+wisdom: 10 (+0)

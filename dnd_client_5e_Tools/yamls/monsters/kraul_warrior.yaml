@@ -1,0 +1,40 @@
+AC: 18
+CR: 1/2 (100 XP)
+HP: 27 (5d8 + 5)
+actions:
+    Spear: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing
+        damage if used with two hands to make a melee attack.'
+alignment: NE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '8'
+constitution: '13'
+dexterity: '12'
+intelligence: '10'
+languages:
+- Kraul
+- understands Common but can\'t speak it
+name: Kraul Warrior
+page: 213
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+- climb 30 ft
+strength: '15'
+tags:
+- kraul
+traits:
+    Hive Mind: The kraul is immune to the charmed and frightened conditions while
+        within 30 feet of at least one other kraul.
+    Pack Tactics: The kraul has advantage on an attack roll against a creature if
+        at least one of the kraul's allies is within 5 feet of the creature and the
+        ally isn't incapacitated.
+    Spider Climb: The kraul can climb difficult surfaces, including upside down on
+        ceilings, without needing to make an ability check.
+type: humanoid
+wisdom: '11'

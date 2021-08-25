@@ -1,0 +1,31 @@
+AC: 14
+CR: 1/2 (100 XP)
+HP: 16 (3d8 + 3)
+actions:
+    Multiattack: The ruffian makes two melee attacks.
+    Shortsword: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) piercing damage.'
+alignment: NE
+book: Lost Mine of Phandelver
+charisma: '11'
+constitution: '12'
+dexterity: '14'
+intelligence: '9'
+intimidation: '+2'
+languages:
+- Common
+name: Redbrand Ruffian
+page: 61
+saving_throws: {}
+senses:
+- passive Perception 9
+size: Medium
+skills:
+    intimidation: proficient
+speed:
+- 30 ft
+strength: '11'
+tags:
+- human
+type: humanoid
+wisdom: '9'

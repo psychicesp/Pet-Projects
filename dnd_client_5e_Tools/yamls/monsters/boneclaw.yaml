@@ -1,0 +1,53 @@
+AC: 16
+CR: 12 (8,400 XP)
+HP: 127 (17d10 + 34)
+actions:
+    Multiattack: The boneclaw makes two claw attacks.
+    Piercing Claw: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 15 ft., one target.
+        Hit: 20 (3d10 + 4) piercing damage. If the target is a creature, the boneclaw
+        can pull the target up to 10 feet toward itself, and the target is grappled
+        (escape DC 14+1d8 + 10). The boneclaw has two claws. While a claw grapples
+        a target, the claw can attack only that target.'
+    Shadow Jump: If the boneclaw is in dim light or darkness, each creature of the
+        boneclaw's choice within 5 feet of it must succeed on a DC 14+1d8 + 10 Constitution
+        saving throw or take 34 (5d12 + 2) necrotic damage.
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '9'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, poisoned
+constitution: '15'
+dexterity: '16'
+intelligence: '13'
+languages:
+- Common plus the main language of its master
+name: Boneclaw
+page: 121
+perception: '+6'
+resistances:
+- cold, necrotic
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 16
+size: Large
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 40 ft
+stealth: '+7'
+strength: '19'
+tags: []
+traits:
+    Rejuvenation: While its master lives, a destroyed boneclaw gains a new body in
+        1d10 hours, with all its hit points. The new body appears within 1 mile of
+        the boneclaw's master.
+    Shadow Stealth: While in dim light or darkness, the boneclaw can take the Hide
+        action as a bonus action.
+type: undead
+wisdom: '15'

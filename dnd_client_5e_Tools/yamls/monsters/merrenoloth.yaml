@@ -1,0 +1,87 @@
+AC: 13
+CR: 3 (700 XP)
+HP: 40 (9d8)
+actions:
+    Fear Gaze: The merrenoloth targets one creature it can see within 60 feet of it.
+        The target must succeed on a DC 13+1d4 + 11 Wisdom saving throw or become
+        frightened for 1 minute. The frightened target can repeat the saving throw
+        at the end of each of its turns, ending the effect on itself on a success.
+    Multiattack: The merrenoloth uses Fear Gaze once and makes one oar attack.
+    Oar: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8
+        (2d4 + 3) slashing damage.'
+alignment: NE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '11'
+condition_immunities:
+- poisoned
+constitution: '10'
+damage_immunities:
+- acid, poison
+dexterity: '17'
+history: '+5'
+hit: 9d8
+in_lair:
+    CR_increase: 1
+    actions:
+    - The ship regains 22 (4d10) hit points.
+    - A strong wind propels the ship, increasing its speed by 30 feet until initiative
+        count 20 on the next round.
+    - The air within 60 feet of the ship is filled with howling wind. Until initiative
+        count 20 on the next round, that area is difficult terrain, and when a Medium
+        or smaller creature flies into that area or starts its turn flying there,
+        it must succeed on a DC 13+1d4 + 11 Strength saving throw or be knocked prone.
+intelligence: '17'
+languages:
+- Abyssal
+- Infernal
+- telepathy 60 ft.
+name: Merrenoloth
+nature: '+5'
+page: 250
+perception: '+4'
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    dexterity: proficient
+    intelligence: proficient
+senses:
+- blindsight 60 ft.
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    history: proficient
+    nature: proficient
+    perception: proficient
+    survival: proficient
+speed:
+- 30 ft
+- swim 40 ft
+strength: '8'
+survival: '+4'
+tags:
+- yugoloth
+traits:
+    Magic Resistance: The merrenoloth has advantage on saving throws against spells
+        and other magical effects.
+    Magic Weapons: The merrenoloth's weapon attacks are magical.
+    Teleport: As a bonus action, the merrenoloth magically teleports, along with any
+        equipment it is wearing or carrying, up to 60 feet to an unoccupied space
+        it can see.
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - control weather
+            3/day:
+            - control water
+            at will:
+            - charm person
+            - darkness
+            - detect magic
+            - dispel magic
+            - gust of wind
+        type: innate
+type: fiend
+wisdom: '14'

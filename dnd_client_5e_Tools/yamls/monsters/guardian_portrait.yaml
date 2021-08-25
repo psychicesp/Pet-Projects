@@ -1,0 +1,50 @@
+AC: 5
+CR: 1 (200 XP)
+HP: 22 (5d8)
+actions: {}
+alignment: U
+book: Curse of Strahd
+charisma: '10'
+condition_immunities:
+- charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone,
+    restrained
+constitution: '10'
+damage_immunities:
+- poison
+dexterity: '1'
+hit: 5d8
+intelligence: '14'
+languages:
+- Common
+- plus up to two other languages
+name: Guardian Portrait
+page: 227
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 0 ft
+strength: '1'
+tags: []
+traits:
+    Antimagic Susceptibility: The portrait is incapacitated while in the area of an
+        antimagic field. If targeted by dispel magic, the portrait must succeed on
+        a Constitution saving throw against the caster's spell save DC or become unconscious
+        for 1 minute.
+    Constructed Nature: An animated object doesn't require air, food, drink, or sleep.
+    False Appearance: While the figure in the portrait remains motionless, the portrait
+        is indistinguishable from a normal painting.
+    spellcasting:
+        ability: intelligence
+        spells:
+            3/day:
+            - counterspell
+            - crown of madness
+            - hypnotic pattern
+            - telekinesis
+        type: innate
+type: construct
+wisdom: '10'

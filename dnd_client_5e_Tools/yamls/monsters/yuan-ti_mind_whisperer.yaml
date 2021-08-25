@@ -1,0 +1,75 @@
+AC: 14
+CR: 4 (1,100 XP)
+HP: 71 (13d8 + 13)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5
+        (1d4 + 3) piercing damage plus 7 (2d6) poison damage.'
+    Multiattack (Yuan-ti Form Only): The yuan-ti makes one bite attack and one scimitar
+        attack.
+    Scimitar (Yuan-ti Form Only): 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5
+        ft., one target. Hit: 6 (1d6 + 3) slashing damage.'
+alignment: Y
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '16'
+condition_immunities:
+- poisoned
+constitution: '13'
+damage_immunities:
+- poison
+deception: '+5'
+dexterity: '14'
+intelligence: '14'
+languages:
+- Abyssal
+- Common
+- Draconic
+name: Yuan-ti Mind Whisperer
+page: 204
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft. (penetrates magical darkness)
+- passive Perception 12
+size: Medium
+skills:
+    deception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+4'
+strength: '16'
+tags:
+- shapechanger
+traits:
+    Magic Resistance: The yuan-ti has advantage on saving throws against spells and
+        other magical effects.
+    Mind Fangs (2/Day): The first time the yuan-ti hits with a melee attack on its
+        turn, it can deal an extra 16 (3d10) psychic damage to the target.
+    Shapechanger: The yuan-ti can use its action to polymorph into a Medium snake
+        or back into its true form. Its statistics are the same in each form. Any
+        equipment it is wearing or carrying isn't transformed. If it dies, it stays
+        in its current form.
+    Sseth's Blessing: When the yuan-ti reduces an enemy to 0 hit points, the yuan-ti
+        gains 9 temporary hit points.
+    spellcasting:
+        ability: charisma
+        spells:
+            1st-3rd:
+            - charm person
+            - crown of madness
+            - detect thoughts
+            - expeditious retreat
+            - fly
+            - hypnotic pattern
+            - illusory script
+            Cantrips:
+            - eldritch blast
+            - friends
+            - message
+            - minor illusion
+            - poison spray
+            - prestidigitation
+        type: innate
+type: monstrosity
+wisdom: '14'

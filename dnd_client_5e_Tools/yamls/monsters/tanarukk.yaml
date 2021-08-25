@@ -1,0 +1,46 @@
+AC: 14
+CR: 5 (1,800 XP)
+HP: 95 (10d8 + 50)
+actions:
+    Bite: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 8
+        (1d8 + 4) piercing damage.'
+    Greatsword: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target.
+        Hit: 11 (2d6 + 4) slashing damage.'
+    Multiattack: 'The tanarukk makes two attacks: one with its bite and one with its
+        greatsword.'
+alignment: O
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '9'
+constitution: '20'
+dexterity: '13'
+intelligence: '9'
+intimidation: '+2'
+languages:
+- Abyssal
+- Common
+- Orc
+name: Tanarukk
+page: 186
+perception: '+2'
+resistances:
+- fire, poison
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Medium
+skills:
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '18'
+tags:
+- demon
+traits:
+    Aggressive: As a bonus action, the tanarukk can move up to its speed toward a
+        hostile creature that it can see.
+    Magic Resistance: The tanarukk has advantage on saving throws against spells and
+        other magical effects.
+type: fiend
+wisdom: '9'

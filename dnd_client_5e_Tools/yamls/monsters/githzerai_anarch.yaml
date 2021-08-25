@@ -1,0 +1,87 @@
+AC: 20
+CR: 16 (15,000 XP)
+HP: 144 (17d8 + 68)
+actions:
+    Multiattack: The anarch makes three unarmed strikes.
+    Unarmed Strike: 'Melee Weapon Attack: +10+1d10 + 5 to hit, reach 5 ft., one target.
+        Hit: 14 (2d8 + 5) bludgeoning damage plus 18 (4d8) psychic damage.'
+alignment: LN
+arcana: '+9'
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '14'
+constitution: '18'
+dexterity: '21'
+in_lair:
+    CR_increase: 1
+    actions:
+    - The anarch casts the lightning bolt spell (at 5th level), but the anarch can
+        change the damage type from lightning to cold, fire, psychic, radiant, or
+        thunder. If the spell deals damage other than fire or lightning, it doesn't
+        ignite flammable objects.
+    - The anarch casts the creation spell (as a 9th-level spell) using the unformed
+        substance of Limbo instead of shadow material. If used in Limbo, the object
+        remains until the anarch's concentration is broken, regardless of its composition.
+        If the anarch moves more than 120 feet from the object, its concentration
+        breaks.
+    - 'The anarch can magically move an object it can see within 150 feet of it by
+        making a Wisdom check with advantage. The DC depends on the object''s size:
+        DC 5+1d10 + 0 for Tiny, DC 10+1d10 + 5 for Small, DC 15+1d10 + 10 for Medium,
+        DC 20+1d10 + 15 for Large, and DC 25+1d10 + 20 for Huge or larger.'
+insight: '+10'
+intelligence: '18'
+languages:
+- Gith
+legendary_actions:
+    number: 3
+    options:
+        Change Gravity (Costs 3 Actions): ' The anarch casts the reverse gravity spell.
+            The spell has the normal effect, except that the anarch can orient the
+            area in any direction and creatures and objects fall toward the end of
+            the area.'
+        Strike: ' The anarch makes one unarmed strike.'
+        Teleport: ' The anarch magically teleports, along with any equipment it is
+            wearing and carrying, to an unoccupied space it can see within 30 feet
+            of it.'
+name: Githzerai Anarch
+page: 207
+perception: '+10'
+saving_throws:
+    dexterity: proficient
+    intelligence: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- passive Perception 20
+size: Medium
+skills:
+    arcana: proficient
+    insight: proficient
+    perception: proficient
+speed:
+- 30 ft
+- fly 40 ft. (hover)
+strength: '16'
+tags:
+- gith
+traits:
+    Psychic Defense: While the anarch is wearing no armor and wielding no shield,
+        its AC includes its Wisdom modifier.
+    spellcasting:
+        ability: wisdom
+        spells:
+            1/day:
+            - globe of invulnerability
+            - plane shift
+            - teleportation circle
+            - wall of force
+            3/day:
+            - feather fall
+            - jump
+            - see invisibility
+            - shield
+            - telekinesis
+            at will:
+            - mage hand
+        type: innate
+type: humanoid
+wisdom: '20'

@@ -1,0 +1,49 @@
+AC: 12
+CR: 5 (1,800 XP)
+HP: 55 (10d8 + 10)
+acrobatics: '+5'
+actions:
+    Ghostblade: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target.
+        Hit: 8 (1d8 + 3) slashing damage plus 11 (2d10) force damage.'
+    Multiattack: The eidolon makes two ghostblade attacks.
+alignment: AA
+athletics: '+6'
+book: Mythic Odysseys of Theros
+charisma: '14'
+condition_immunities:
+- charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, restrained
+constitution: '12'
+damage_immunities:
+- poison
+dexterity: '15'
+intelligence: '13'
+languages:
+- the languages it knew in life
+name: Ghostblade Eidolon
+page: 222
+perception: '+4'
+resistances:
+- necrotic
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Medium
+skills:
+    acrobatics: proficient
+    athletics: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '16'
+tags: []
+traits:
+    Blurred Form: Attack rolls against the eidolon are made with disadvantage unless
+        the eidolon is incapacitated.
+    Incorporeal Movement: The eidolon can move through other creatures and objects
+        as if they were difficult terrain. It takes 5 (1d10) force damage if it ends
+        its turn inside an object.
+    Turn Resistance: The eidolon has advantage on saving throws against any effect
+        that turns undead.
+type: undead
+wisdom: '12'

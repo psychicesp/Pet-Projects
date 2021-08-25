@@ -1,0 +1,36 @@
+AC: 5
+CR: 0 (0 or 10 XP)
+HP: 13 (3d8)
+actions:
+    Shriek: When bright light or a creature is within 30 feet of the shrieker, it
+        emits a shriek audible within 300 feet of it. The shrieker continues to shriek
+        until the disturbance moves out of range and for 1d4 of the shrieker's turns
+        afterward.
+alignment: U
+book: Monster Manual
+charisma: '1'
+condition_immunities:
+- blinded, deafened, frightened
+constitution: '10'
+dexterity: '1'
+hit: 3d8
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Shrieker
+page: 138
+saving_throws: {}
+senses:
+- blindsight 30 ft. (blind beyond this radius)
+- passive Perception 6
+size: Medium
+skills: {}
+speed:
+- 0 ft
+strength: '1'
+tags: []
+traits:
+    False Appearance: While the shrieker remains motionless, it is indistinguishable
+        from an ordinary fungus.
+type: plant
+wisdom: '3'

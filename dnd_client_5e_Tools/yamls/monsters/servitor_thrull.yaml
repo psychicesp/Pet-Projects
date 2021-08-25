@@ -1,0 +1,32 @@
+AC: 11
+CR: 1/4 (50 XP)
+HP: 22 (4d6 + 8)
+actions:
+    Claws: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit:
+        5 (1d8 + 1) slashing damage.'
+alignment: U
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '3'
+condition_immunities:
+- exhaustion, poisoned
+constitution: '14'
+damage_immunities:
+- poison
+dexterity: '13'
+intelligence: '6'
+languages:
+- understands Common but can\'t speak
+name: Servitor Thrull
+page: 221
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Small
+skills: {}
+speed:
+- 30 ft
+strength: '11'
+tags: []
+type: construct
+wisdom: '6'

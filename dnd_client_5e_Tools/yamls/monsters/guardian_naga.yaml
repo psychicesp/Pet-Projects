@@ -1,0 +1,67 @@
+AC: 18
+CR: 10 (5,900 XP)
+HP: 127 (15d10 + 45)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 10 ft., one creature. Hit:
+        8 (1d8 + 4) piercing damage, and the target must make a DC 15+1d8 + 11 Constitution
+        saving throw, taking 45 (10d8) poison damage on a failed save, or half as
+        much damage on a successful one.'
+    Spit Poison: 'Ranged Weapon Attack: +8+1d8 + 4 to hit, range 15/30 ft., one creature.
+        Hit: The target must make a DC 15+1d8 + 11 Constitution saving throw, taking
+        45 (10d8) poison damage on a failed save, or half as much damage on a successful
+        one.'
+alignment: LG
+book: Monster Manual
+charisma: '18'
+condition_immunities:
+- charmed, poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '18'
+intelligence: '16'
+languages:
+- Celestial
+- Common
+name: Guardian Naga
+page: 234
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Large
+skills: {}
+speed:
+- 40 ft
+strength: '19'
+tags: []
+traits:
+    Rejuvenation: If it dies, the naga returns to life in 1d6 days and regains all
+        its hit points. Only a wish spell can prevent this trait from functioning.
+    spellcasting:
+        ability: wisdom
+        level: 11
+        spells:
+        - mending
+        - sacred flame
+        - thaumaturgy
+        - command
+        - cure wounds
+        - shield of faith
+        - calm emotions
+        - hold person
+        - bestow curse
+        - clairvoyance
+        - banishment
+        - freedom of movement
+        - flame strike
+        - geas
+        - true seeing
+        type: cleric
+type: monstrosity
+wisdom: '19'

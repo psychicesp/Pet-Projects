@@ -1,0 +1,67 @@
+AC: 17
+CR: 11 (7,200 XP)
+HP: 147 (14d12 + 56)
+actions:
+    Claw: 'Melee Weapon Attack: +11+1d8 + 7 to hit, reach 5 ft., one target. Hit:
+        14 (2d6 + 7) slashing damage.'
+    Malevolent Presence: Any creature with an Intelligence of 4 or more that is within
+        30 feet of the dragon must succeed on a DC 16+1d8 + 12 Wisdom saving throw
+        or be charmed by it for 1 minute. A creature can repeat the saving throw at
+        the end of each of its turns, ending the effect on itself on a success. If
+        a creature's saving throw is successful or the effect ends for it, the creature
+        is immune to the dragon's Malevolent Presence for the next 24 hours. A creature
+        charmed in this way fixates on another creature or object that the dragon
+        mentally chooses and must, on each of its turns, move as close as it can to
+        that target and use its action to make a melee attack against it. If the dragon
+        doesn't choose a target, the charmed creature can act normally on its turn.
+    Multiattack: 'The dragon uses its Malevolent Presence. It then makes three attacks:
+        two with its claws and one with its tail. If the dragon isn''t flying, it
+        can also make one attack with its wings.'
+    Radiant Breath (Recharge 5xe2x80x936): The dragon exhales a ray of radiant energy
+        in a 120-foot line that is 5 feet wide. Each creature in that line must make
+        a DC 16+1d8 + 12 Dexterity saving throw, taking 31 (7d8) radiant damage on
+        a failed save, or half as much damage on a successful one.
+    Tail: 'Melee Weapon Attack: +11+1d8 + 7 to hit, reach 10 ft., one target. Hit:
+        18 (2d10 + 7) bludgeoning damage.'
+    Wings: 'Melee Weapon Attack: +11+1d8 + 7 to hit, reach 10 ft., one target. Hit:
+        12 (2d4 + 7) bludgeoning damage.'
+alignment: CE
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '3'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: '19'
+damage_immunities:
+- cold, poison
+dexterity: '11'
+intelligence: '10'
+languages:
+- the languages known by its creator
+name: Chardalyn Dragon
+page: 281
+resistances:
+- radiant
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    constitution: proficient
+    strength: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Huge
+skills: {}
+speed:
+- 30 ft
+- fly 90 ft
+strength: '24'
+tags: []
+traits:
+    Immutable Form: The dragon is immune to any spell or effect that would alter its
+        form.
+    Magic Resistance: The dragon has advantage on saving throws against spells and
+        other magical effects.
+    Siege Monster: The dragon deals double damage to objects and structures.
+    Unusual Nature: The dragon doesn't require air, food, drink, or sleep, and it
+        gains no benefit from finishing a short or long rest.
+type: construct
+wisdom: '10'

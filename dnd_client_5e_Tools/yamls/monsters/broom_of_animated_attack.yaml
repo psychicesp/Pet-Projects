@@ -1,0 +1,44 @@
+AC: 15
+CR: 1/4 (50 XP)
+HP: 17 (5d6)
+actions:
+    Broomstick: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 5 (1d4 + 3) bludgeoning damage.'
+    Multiattack: The broom makes two melee attacks.
+alignment: U
+book: Curse of Strahd
+charisma: '1'
+condition_immunities:
+- blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned,
+    prone
+constitution: '10'
+damage_immunities:
+- poison, psychic
+dexterity: '17'
+hit: 5d6
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Broom of Animated Attack
+page: 226
+saving_throws: {}
+senses:
+- blindsight 30 ft. (blind beyond this radius)
+- passive Perception 7
+size: Small
+skills: {}
+speed:
+- 0 ft
+- fly 50 ft. (hover)
+strength: '10'
+tags: []
+traits:
+    Antimagic Susceptibility: The broom is incapacitated while in the area of an antimagic
+        field. If targeted by dispel magic, the broom must succeed on a Constitution
+        saving throw against the caster's spell save DC or fall unconscious for 1
+        minute.
+    Constructed Nature: An animated object doesn't require air, food, drink, or sleep.
+    False Appearance: While the broom remains motionless and isn't flying, it is indistinguishable
+        from a normal broom.
+type: construct
+wisdom: '5'

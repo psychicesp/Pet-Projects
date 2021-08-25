@@ -1,0 +1,16 @@
+casting time: 1 action
+classes:
+- Artificer
+- Cleric
+components: V, S
+concentration: false
+description: You touch a living creature that has 0 hit points. The creature becomes
+    stable. This spell has no effect on undead or constructs.
+duration: Instantaneous
+level: 0
+name: Spare the Dying
+page: 277
+range: Touch
+ritual: false
+school: necromancy
+source: PHB

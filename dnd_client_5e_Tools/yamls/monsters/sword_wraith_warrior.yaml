@@ -1,0 +1,42 @@
+AC: 16
+CR: 3 (700 XP)
+HP: 45 (6d8 + 18)
+actions:
+    Longbow: 'Ranged Weapon Attack: +3+1d4 + 1 to hit, range 150/600 ft., one target.
+        Hit: 5 (1d8 + 1) piercing damage.'
+    Longsword: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit:
+        8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with
+        two hands.'
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '10'
+condition_immunities:
+- exhaustion, frightened, poisoned, unconscious
+constitution: '17'
+damage_immunities:
+- poison
+dexterity: '12'
+intelligence: '6'
+languages:
+- the languages it knew in life
+name: Sword Wraith Warrior
+page: 241
+resistances:
+- necrotic
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 9
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '18'
+tags: []
+traits:
+    Martial Fury: As a bonus action, the sword wraith can make one weapon attack.
+        If it does so, attack rolls against it have advantage until the start of its
+        next turn.
+type: undead
+wisdom: '9'

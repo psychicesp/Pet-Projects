@@ -1,0 +1,61 @@
+AC: 15
+CR: 2 (450 XP)
+HP: 45 (7d8 + 14)
+actions:
+    Chromatic Orb (1/Day): 'Ranged Spell Attack: +4+1d4 + 2 to hit, range 90 ft.,
+        one creature. Hit: 18 (4d8) damage of a type chosen by the assassin: acid,
+        cold, fire, lightning, poison, or thunder.'
+    Fire Bolt (Cantrip): 'Ranged Spell Attack: +4+1d4 + 2 to hit, range 120 ft., one
+        target. Hit: 11 (2d10) fire damage. A flammable object hit by this spell ignites
+        if it isn''t being worn or carried.'
+    Multiattack: The assassin makes two shortsword attacks.
+    Shortsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage plus 7 (2d6) poison damage.'
+alignment: ANA
+athletics: '+3'
+book: 'Eberron: Rising from the Last War'
+charisma: '11'
+constitution: '14'
+deception: '+2'
+dexterity: '16'
+intelligence: '10'
+languages:
+- Common
+- Thieves\' cant
+name: Tarkanan Assassin
+page: 320
+perception: '+4'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    athletics: proficient
+    deception: proficient
+    perception: proficient
+    sleight of hand: proficient
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+5'
+strength: '12'
+tags:
+- any
+traits:
+    Unstable Mark: When the assassin casts an innate spell, each creature within 10
+        feet of the assassin must make a DC 12+1d4 + 10 Constitution saving throw,
+        taking 4 (1d8) force damage on a failed save, or half as much damage on a
+        successful one.
+    spellcasting:
+        ability: 'constitution (+4+1d4 + 2 to hit with spell attacks). it can innately
+            cast the following spells, requiring no material components:at will: fire
+            bolt1/day: chromatic orb'
+        spells:
+            1/day:
+            - chromatic orb
+            at will:
+            - fire bolt
+        type: innate
+type: humanoid
+wisdom: '14'

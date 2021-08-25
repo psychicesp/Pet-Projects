@@ -1,0 +1,72 @@
+AC: 12
+CR: 8 (3,900 XP)
+HP: 67 (15d8)
+actions:
+    Quarterstaff: 'Melee Weapon Attack: +2+1d6 - 1 to hit, reach 5 ft., one target.
+        Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if
+        used with two hands.'
+alignment: AA
+arcana: '+7'
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '11'
+constitution: '11'
+dexterity: '14'
+history: '+7'
+hit: 15d8
+intelligence: '18'
+languages:
+- any four languages
+name: Diviner
+page: 213
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- passive Perception 11
+size: Medium
+skills:
+    arcana: proficient
+    history: proficient
+speed:
+- 30 ft
+strength: '9'
+tags:
+- any
+traits:
+    '* Divination spell of 1st level or higher': '* Divination spell of 1st level
+        or higher'
+    Portent (Recharges after the Diviner Casts a Divination Spell of 1st Level or Higher): When
+        the diviner or a creature it can see makes an attack roll, a saving throw,
+        or an ability check, the diviner can roll a d20 and choose to use this roll
+        in place of the attack roll, saving throw, or ability check.
+    spellcasting:
+        ability: intelligence
+        level: 15
+        spells:
+        - fire bolt
+        - light
+        - mage hand
+        - message
+        - true strike
+        - detect magic
+        - feather fall
+        - mage armor
+        - detect thoughts
+        - locate object
+        - scorching ray
+        - clairvoyance
+        - fly
+        - fireball
+        - arcane eye
+        - ice storm
+        - stoneskin
+        - Rary's telepathic bond
+        - seeming
+        - mass suggestion
+        - true seeing
+        - delayed blast fireball
+        - teleport
+        - maze
+        type: wizard
+type: humanoid
+wisdom: '12'

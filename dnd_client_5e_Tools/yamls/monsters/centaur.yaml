@@ -1,0 +1,44 @@
+AC: 12
+CR: 2 (450 XP)
+HP: 45 (6d10 + 12)
+actions:
+    Hooves: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit:
+        11 (2d6 + 4) bludgeoning damage.'
+    Longbow: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 150/600 ft., one target.
+        Hit: 6 (1d8 + 2) piercing damage.'
+    Multiattack: 'The centaur makes two attacks: one with its pike and one with its
+        hooves or two with its longbow.'
+    Pike: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 10 ft., one target. Hit:
+        9 (1d10 + 4) piercing damage.'
+alignment: NG
+athletics: '+6'
+book: Monster Manual
+charisma: '11'
+constitution: '14'
+dexterity: '14'
+intelligence: '9'
+languages:
+- Elvish
+- Sylvan
+name: Centaur
+page: 38
+perception: '+3'
+saving_throws: {}
+senses:
+- passive Perception 13
+size: Large
+skills:
+    athletics: proficient
+    perception: proficient
+    survival: proficient
+speed:
+- 50 ft
+strength: '18'
+survival: '+3'
+tags: []
+traits:
+    Charge: If the centaur moves at least 30 feet straight toward a target and then
+        hits it with a pike attack on the same turn, the target takes an extra 10
+        (3d6) piercing damage.
+type: monstrosity
+wisdom: '13'

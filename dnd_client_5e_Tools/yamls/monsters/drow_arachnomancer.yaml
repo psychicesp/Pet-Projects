@@ -1,0 +1,104 @@
+AC: 15
+CR: 13 (10,000 XP)
+HP: 162 (25d8 + 50)
+actions:
+    Bite (Giant Spider Form Only): 'Melee Weapon Attack: +7+1d10 + 2 to hit, reach
+        5 ft., one target. Hit: 12 (2d8 + 3) piercing damage, and the target must
+        make a DC 15+1d10 + 10 Constitution saving throw, taking 26 (4d12) poison
+        damage on a failed save, or half as much damage on a successful one. If the
+        poison damage reduces the target to 0 hit points, the target is stable but
+        poisoned for 1 hour, even after regaining hit points, and is paralyzed while
+        poisoned in this way.'
+    Multiattack: The drow makes two poisonous touch attacks or two bite attacks. The
+        first of these attacks that hits each round deals an extra 26 (4d12) poison
+        damage to the target.
+    Poisonous Touch (Humanoid Form Only): 'Melee Weapon Attack: +8+1d10 + 3 to hit,
+        reach 5 ft., one target. Hit: 28 (8d6) poison damage.'
+    Web (Giant Spider Form Only Recharge 5xe2x80x936): 'Ranged Weapon Attack: +8+1d10
+        + 3 to hit, range 30/60 ft., one target. Hit: The target is restrained by
+        webbing. As an action, the restrained target can make a DC 15+1d10 + 10 Strength
+        check, bursting the webbing on a success. The webbing can also be attacked
+        and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning,
+        poison, and psychic damage).'
+alignment: CE
+arcana: '+9'
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '16'
+constitution: '14'
+dexterity: '17'
+intelligence: '19'
+languages:
+- Elvish
+- Undercommon
+- can speak with spiders
+name: Drow Arachnomancer
+nature: '+9'
+page: 182
+perception: '+7'
+resistances:
+- poison
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    intelligence: proficient
+senses:
+- blindsight 10 ft.
+- darkvision 120 ft.
+- passive Perception 17
+size: Medium
+skills:
+    arcana: proficient
+    nature: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+- climb 30 ft
+stealth: '+8'
+strength: '11'
+tags:
+- elf
+traits:
+    Change Shape (Recharges after a Short or Long Rest): The drow can use a bonus
+        action to magically polymorph into a giant spider, remaining in that form
+        for up to 1 hour. It can revert to its true form as a bonus action. Its statistics,
+        other than its size, are the same in each form. It can speak and cast spells
+        while in giant spider form. Any equipment it is wearing or carrying in humanoid
+        form melds into the giant spider form. It can't activate, use, wield, or otherwise
+        benefit from any of its equipment. It reverts to its humanoid form if it dies.
+    Fey Ancestry: The drow has advantage on saving throws against being charmed, and
+        magic can't put the drow to sleep.
+    Spider Climb: The drow can climb difficult surfaces, including upside down on
+        ceilings, without needing to make an ability check.
+    Sunlight Sensitivity: While in sunlight, the drow has disadvantage on attack rolls,
+        as well as on Wisdom (Perception) checks that rely on sight.
+    Web Walker: The drow ignores movement restrictions caused by webbing.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - eyebite
+            - etherealness
+            - dominate monster
+            1st-5th:
+            - conjure animals
+            - crown of madness
+            - dimension door
+            - dispel magic
+            - fear
+            - fly
+            - giant insect
+            - hold monster
+            - insect plague
+            - invisibility
+            - vampiric touch
+            - web
+            - witch bolt
+            Cantrips:
+            - chill touch
+            - eldritch blast
+            - mage hand
+            - poison spray
+        type: innate
+type: humanoid
+wisdom: '14'

@@ -1,0 +1,44 @@
+AC: 16
+CR: 2 (450 XP)
+HP: 45 (6d8 + 18)
+actions:
+    Multiattack: The iron consul makes one attack with its spear and can use its Voice
+        of Command ability.
+    Spear: 'Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing
+        damage when used with two hands to make a melee attack.'
+    Voice of Command: The iron consul selects up to two allies within 90 feet of it
+        that can hear its commands. Each ally can immediately use its reaction to
+        make one melee attack.
+alignment: LE
+book: 'Baldur\xe2\x80\x99s Gate: Descent Into Avernus'
+charisma: '16'
+condition_immunities:
+- frightened
+constitution: '16'
+dexterity: '11'
+intelligence: '12'
+intimidation: '+5'
+languages:
+- Common
+name: Iron Consul
+page: 232
+perception: '+4'
+saving_throws:
+    wisdom: proficient
+senses:
+- passive Perception 14
+size: Medium
+skills:
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '17'
+tags:
+- human
+traits:
+    Tactical Discipline: The iron consul has advantage on all ability checks and saving
+        throws made during combat.
+type: humanoid
+wisdom: '15'

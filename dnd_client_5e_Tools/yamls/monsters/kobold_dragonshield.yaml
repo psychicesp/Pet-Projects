@@ -1,0 +1,49 @@
+AC: 15
+CR: 1 (200 XP)
+HP: 44 (8d6 + 16)
+actions:
+    Multiattack: The kobold makes two melee attacks.
+    Spear: 'Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing
+        damage if used with two hands to make a melee attack.'
+alignment: LE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '10'
+constitution: '14'
+dexterity: '15'
+intelligence: '8'
+languages:
+- Common
+- Draconic
+name: Kobold Dragonshield
+page: 165
+perception: '+1'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Small
+skills:
+    perception: proficient
+speed:
+- 20 ft
+strength: '12'
+tags:
+- kobold
+traits:
+    Dragon's Resistance: 'The kobold has resistance to a type of damage based on the
+        color of dragon that invested it with power (choose or roll a d10): 1xe2x80x932,
+        acid (black); 3xe2x80x934, cold (white); 5xe2x80x936, fire (red); 7xe2x80x938,
+        lightning (blue); 9xe2x80x9310, poison (green).'
+    Heart of the Dragon: If the kobold is frightened or paralyzed by an effect that
+        allows a saving throw, it can repeat the save at the start of its turn to
+        end the effect on itself and all kobolds within 30 feet of it. Any kobold
+        that benefits from this trait (including the dragonshield) has advantage on
+        its next attack roll.
+    Pack Tactics: The kobold has advantage on an attack roll against a creature if
+        at least one of the kobold's allies is within 5 feet of the creature and the
+        ally isn't incapacitated.
+    Sunlight Sensitivity: While in sunlight, the kobold has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: humanoid
+wisdom: '9'

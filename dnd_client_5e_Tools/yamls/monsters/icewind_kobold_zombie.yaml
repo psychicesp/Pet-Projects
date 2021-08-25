@@ -1,0 +1,39 @@
+AC: 9
+CR: 1/8 (25 XP)
+HP: 19 (3d6 + 9)
+actions:
+    Javelin: 'Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target. Hit:
+        2 (1d6 - 1) piercing damage.'
+alignment: NE
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '3'
+condition_immunities:
+- poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '6'
+intelligence: '3'
+languages:
+- understands Common and Draconic but can't speak
+name: Icewind Kobold Zombie
+page: 297
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Small
+skills: {}
+speed:
+- 20 ft
+strength: '8'
+tags: []
+traits:
+    Undead Fortitude: If damage reduces the zombie to 0 hit points, it must make a
+        Constitution saving throw with a DC of 5 + the damage taken, unless the damage
+        is radiant or from a critical hit. On a success, the zombie drops to 1 hit
+        point instead.
+    Unusual Nature: The zombie doesn't require air, food, drink, or sleep.
+type: undead
+wisdom: '6'

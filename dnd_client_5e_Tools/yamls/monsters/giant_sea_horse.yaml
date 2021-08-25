@@ -1,0 +1,35 @@
+AC: 13
+CR: 1/2 (100 XP)
+HP: 16 (3d10)
+actions:
+    Ram: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 4
+        (1d6 + 1) bludgeoning damage.'
+alignment: U
+book: Monster Manual
+charisma: '5'
+constitution: '11'
+dexterity: '15'
+hit: 3d10
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Giant Sea Horse
+page: 328
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Large
+skills: {}
+speed:
+- 0 ft
+- swim 40 ft
+strength: '12'
+tags: []
+traits:
+    Charge: If the sea horse moves at least 20 feet straight toward a target and then
+        hits it with a ram attack on the same turn, the target takes an extra 7 (2d6)
+        bludgeoning damage. If the target is a creature, it must succeed on a DC 11+1d4
+        + 9 Strength saving throw or be knocked prone.
+    Water Breathing: The sea horse can breathe only underwater.
+type: beast
+wisdom: '12'

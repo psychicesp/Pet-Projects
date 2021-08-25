@@ -1,0 +1,40 @@
+AC: 13
+CR: 1/2 (100 XP)
+HP: 22 (4d8 + 4)
+actions:
+    Multiattack: The hybrid makes two shortsword attacks.
+    Shortsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage.'
+alignment: NG
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '9'
+constitution: '12'
+dexterity: '17'
+intelligence: '13'
+languages:
+- Common plus any one language
+name: Hybrid Spy
+page: 218
+perception: '+4'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+- climb 30 ft
+stealth: '+5'
+strength: '11'
+tags:
+- Simic
+traits:
+    Chameleon Skin: The hybrid has advantage on Dexterity (Stealth) checks made to
+        hide.
+    Spider Climb: The hybrid can climb difficult surfaces, including upside down on
+        ceilings, without needing to make an ability check.
+type: humanoid
+wisdom: '14'

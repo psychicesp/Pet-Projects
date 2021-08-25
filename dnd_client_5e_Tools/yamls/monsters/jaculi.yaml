@@ -1,0 +1,44 @@
+AC: 14
+CR: 1/2 (100 XP)
+HP: 16 (3d10)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 9
+        (2d6 + 2) piercing damage.'
+    Spring: The jaculi springs up to 30 feet in a straight line and makes a bite attack
+        against a target within its reach. This attack has advantage if the jaculi
+        springs at least 10 feet. If the attack hits, the bite deals an extra 7 (2d6)
+        piercing damage.
+alignment: U
+athletics: '+4'
+book: Tomb of Annihilation
+charisma: '3'
+constitution: '11'
+dexterity: '14'
+hit: 3d10
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Jaculi
+page: 225
+perception: '+1'
+saving_throws: {}
+senses:
+- blindsight 30 ft.
+- passive Perception 11
+size: Large
+skills:
+    athletics: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+- climb 20 ft
+stealth: '+4'
+strength: '15'
+tags: []
+traits:
+    Camouflage: The jaculi has advantage on Dexterity (Stealth) checks made to hide.
+    Keen Smell: The jaculi has advantage on Wisdom (Perception) checks that rely on
+        smell.
+type: beast
+wisdom: '8'

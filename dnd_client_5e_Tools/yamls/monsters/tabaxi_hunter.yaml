@@ -1,0 +1,49 @@
+AC: 14
+CR: 1 (200 XP)
+HP: 40 (9d8)
+actions:
+    Claws: 'Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit:
+        2 (1d4) slashing damage.'
+    Multiattack: The tabaxi makes two attacks with its claws, its shortsword, or its
+        shortbow.
+    Shortbow: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 80/320 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage.'
+    Shortsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) slashing damage.'
+alignment: CG
+athletics: '+2'
+book: Tomb of Annihilation
+charisma: '15'
+constitution: '11'
+dexterity: '17'
+hit: 9d8
+intelligence: '13'
+languages:
+- Common plus any one language
+name: Tabaxi Hunter
+page: 232
+perception: '+4'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+    stealth: proficient
+    survival: expert
+speed:
+- 30 ft
+- climb 20 ft
+stealth: '+5'
+strength: '10'
+survival: '+6'
+tags:
+- tabaxi
+traits:
+    Feline Agility: When the tabaxi moves on its turn in combat, it can double its
+        speed until the end of the turn. Once it uses this ability, the tabaxi can't
+        use it again until it moves 0 feet on one of its turns.
+type: humanoid
+wisdom: '14'

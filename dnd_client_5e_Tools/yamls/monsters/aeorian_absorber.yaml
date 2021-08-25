@@ -1,0 +1,54 @@
+AC: 15
+CR: 10 (5,900 XP)
+HP: 171 (18d10 + 72)
+actions:
+    Bite: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one creature. Hit:
+        10 (1d10 + 5) piercing damage plus 5 (1d10) force damage.'
+    Claws: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit:
+        8 (1d6 + 5) slashing damage plus 3 (1d6) force damage.'
+    Mind Bolt: 'Ranged Spell Attack: +8+1d8 + 4 to hit, range 120 ft., one creature.
+        Hit: 22 (4d10) psychic damage.'
+    Multiattack: 'The absorber makes three attacks: one with its bite or Mind Bolt
+        and two with its claws.'
+alignment: NE
+book: "Explorer\u2019s Guide to Wildemount"
+charisma: 8 (-1)
+charisma save: '+3'
+constitution: 18 (+4)
+damage_immunities:
+- necrotic, radiant
+dexterity: 18 (+4)
+hit points: 18d10 + 72
+intelligence: 6 (-2)
+languages:
+- understands Draconic but can't speak
+name: Aeorian Absorber
+page: 283
+perception: '+6'
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 16
+size: Large
+skills:
+    perception: proficient
+    stealth: proficient
+    survival: proficient
+speed:
+- 40 ft
+stealth: '+8'
+strength: 21 (+5)
+survival: '+6'
+tags: []
+traits:
+    Magic Resistance: The absorber has advantage on saving throws against spells and
+        other magical effects.
+    Pounce: If the absorber moves at least 20 feet straight toward a creature and
+        then hits its claws attack on the same turn, that target must succeed on a
+        DC 17+1d8 + 13 Strength saving throw or be knocked prone. If the target is
+        prone, the absorber can make one bite attack against it as a bonus action.
+type: monstrosity
+wisdom: 14 (+2)
+wisdom save: '+6'

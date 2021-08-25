@@ -1,0 +1,51 @@
+AC: 10
+CR: 1 (200 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Morningstar: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target.
+        Hit: 5 (1d8 + 1) piercing damage.'
+alignment: NE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '14'
+constitution: '12'
+damage_immunities:
+- fire
+dexterity: '11'
+intelligence: '9'
+languages:
+- Draconic
+- Ignan
+name: Firenewt Warlock of Imix
+page: 143
+saving_throws: {}
+senses:
+- darkvision 120 ft. (penetrates magical darkness)
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '13'
+tags:
+- firenewt
+traits:
+    Amphibious: The firenewt can breathe air and water.
+    Imix's Blessing: When the firenewt reduces an enemy to 0 hit points, the firenewt
+        gains 5 temporary hit points.
+    spellcasting:
+        ability: charisma
+        spells:
+            1st-2nd:
+            - burning hands
+            - flaming sphere
+            - hellish rebuke
+            - scorching ray
+            Cantrips:
+            - fire bolt
+            - guidance
+            - light
+            - mage hand
+            - prestidigitation
+        type: innate
+type: humanoid
+wisdom: '11'

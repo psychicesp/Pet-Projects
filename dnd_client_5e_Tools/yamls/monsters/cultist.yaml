@@ -1,0 +1,36 @@
+AC: 12
+CR: 1/8 (25 XP)
+HP: 9 (2d8)
+actions:
+    Scimitar: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one creature.
+        Hit: 4 (1d6 + 1) slashing damage.'
+alignment: ANA
+book: Monster Manual
+charisma: '10'
+constitution: '10'
+deception: '+2'
+dexterity: '12'
+hit: 2d8
+intelligence: '10'
+languages:
+- any one language (usually Common)
+name: Cultist
+page: 345
+religion: '+2'
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    deception: proficient
+    religion: proficient
+speed:
+- 30 ft
+strength: '11'
+tags:
+- any
+traits:
+    Dark Devotion: The cultist has advantage on saving throws against being charmed
+        or frightened.
+type: humanoid
+wisdom: '11'

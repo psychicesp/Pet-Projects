@@ -1,0 +1,54 @@
+AC: 16
+CR: 4 (1,100 XP)
+HP: 52 (7d8 + 21)
+actions:
+    Claw: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7
+        (1d8 + 3) slashing damage plus 6 (1d12) acid damage.'
+    Multiattack: The strigoi makes one Claw attack and makes one Proboscis attack.
+    Proboscis: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature.
+        Hit: 8 (1d10 + 3) piercing damage plus 10 (3d6) necrotic damage, and the strigoi
+        regains hit points equal to the amount of necrotic damage dealt. A creature
+        reduced to 0 hit points from this attack dies and leaves nothing behind except
+        its skin and its equipment.'
+    Ravenous Children (1/Day): The strigoi magically summons 1d4 + 2 stirges (see
+        their entry in the Monster Manual) in unoccupied spaces it can see within
+        30 feet of it. The stirges are under the strigoi's control and act immediately
+        after the strigoi in the initiative order. The stirges disappear after 1 hour,
+        when the strigoi dies, or when the strigoi dismisses them (no action required).
+alignment: U
+book: Van Richten\xe2\x80\x99s Guide to Ravenloft
+charisma: '10'
+condition_immunities:
+- charmed, frightened
+constitution: '16'
+dexterity: '14'
+intelligence: '11'
+languages:
+- Common
+name: Strigoi
+page: 246
+perception: '+5'
+resistances:
+- necrotic
+saving_throws:
+    dexterity: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 15
+size: Medium
+skills:
+    perception: proficient
+    stealth: expert
+speed:
+- 30 ft
+- fly 40 ft
+stealth: '+6'
+strength: '17'
+tags: []
+traits:
+    Stirge Telepathy: The strigoi can magically command any stirge within 120 feet
+        of it, using a limited form of telepathy.
+type: monstrosity
+wisdom: '17'

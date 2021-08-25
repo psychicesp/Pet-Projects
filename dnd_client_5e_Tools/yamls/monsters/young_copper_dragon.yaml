@@ -1,0 +1,50 @@
+AC: 17
+CR: 7 (2,900 XP)
+HP: 119 (14d10 + 42)
+actions:
+    Bite: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 10 ft., one target. Hit:
+        15 (2d10 + 4) piercing damage.'
+    Breath Weapons (Recharge 5xe2x80x936): The dragon uses one of the following breath
+        weapons.
+    Claw: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11
+        (2d6 + 4) slashing damage.'
+    Multiattack: 'The dragon makes three attacks: one with its bite and two with its
+        claws.'
+alignment: CG
+book: Monster Manual
+charisma: '15'
+constitution: '17'
+damage_immunities:
+- acid
+deception: '+5'
+dexterity: '12'
+intelligence: '16'
+languages:
+- Common
+- Draconic
+name: Young Copper Dragon
+page: 112
+perception: '+7'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 30 ft.
+- darkvision 120 ft.
+- passive Perception 17
+size: Large
+skills:
+    deception: proficient
+    perception: expert
+    stealth: proficient
+speed:
+- 40 ft
+- climb 40 ft
+- fly 80 ft
+stealth: '+4'
+strength: '19'
+tags: []
+type: dragon
+wisdom: '13'

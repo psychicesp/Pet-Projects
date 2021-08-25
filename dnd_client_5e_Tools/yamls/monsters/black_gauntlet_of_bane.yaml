@@ -1,0 +1,65 @@
+AC: 16
+CR: 6 (2,300 XP)
+HP: 51 (6d8 + 24)
+actions:
+    Guiding Bolt (1st-Level Spell; Requires a Spell Slot): 'Ranged Spell Attack: +7+1d6
+        + 4 to hit, range 120 ft., one creature. Hit: 14 (4d6) radiant damage, and
+        the next attack roll made against the target before the end of the black gauntlet''s
+        next turn has advantage. If the black gauntlet casts this spell using a spell
+        slot of 2nd level or higher, the damage increases by 1d6 for each slot level
+        above 1st.'
+    Mace: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 7
+        (1d6 + 4) bludgeoning damage plus 13 (3d8) necrotic damage.'
+    Multiattack: The black gauntlet makes two attacks with its mace.
+alignment: LE
+book: 'Baldur\xe2\x80\x99s Gate: Descent Into Avernus'
+charisma: '18'
+condition_immunities:
+- frightened
+constitution: '18'
+dexterity: '11'
+intelligence: '12'
+intimidation: '+7'
+languages:
+- Common
+name: Black Gauntlet of Bane
+page: 235
+perception: '+5'
+saving_throws:
+    wisdom: proficient
+senses:
+- passive Perception 15
+size: Medium
+skills:
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '18'
+tags:
+- human
+traits:
+    Aura of Terror: When a hostile creature within 5 feet of the black gauntlet makes
+        an attack roll or a saving throw, it has disadvantage on the roll. Creatures
+        that are immune to the frightened condition are immune to this trait.
+    Tactical Discipline: The black gauntlet has advantage on all ability checks and
+        saving throws made during combat.
+    spellcasting:
+        ability: charisma
+        level: 5
+        spells:
+        - guidance
+        - sacred flame
+        - thaumaturgy
+        - bane
+        - bless
+        - cure wounds
+        - guiding bolt
+        - blindness/deafness
+        - hold person
+        - silence
+        - sending
+        - spirit guardians
+        type: cleric
+type: humanoid
+wisdom: '15'

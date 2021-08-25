@@ -1,0 +1,48 @@
+AC: 11
+CR: 3 (700 XP)
+HP: 60 (8d10 + 16)
+actions:
+    Greatsword: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target.
+        Hit: 18 (4d6 + 4) slashing damage.'
+    Longbow: 'Ranged Weapon Attack: +2+1d4 + 0 to hit, range 150/600 ft., one target.
+        Hit: 9 (2d8) piercing damage.'
+    Multiattack: The yakfolk makes two attacks, either with its greatsword or its
+        longbow.
+alignment: NE
+book: Storm King\xe2\x80\x99s Thunder
+charisma: '14'
+constitution: '15'
+deception: '+4'
+dexterity: '11'
+intelligence: '14'
+languages:
+- Common
+- Yikaria
+name: Yakfolk Warrior
+page: 244
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Large
+skills:
+    deception: proficient
+    survival: proficient
+speed:
+- 30 ft
+strength: '18'
+survival: '+4'
+tags: []
+traits:
+    Possession (Recharges after a Short or Long Rest): The yakfolk attempts to magically
+        possess a humanoid or giant. The yakfolk must touch the target throughout
+        a short rest, or the attempt fails. At the end of the rest, the target must
+        succeed on a DC 12+1d4 + 10 Constitution saving throw or be possessed by the
+        yakfolk, which disappears with everything it is carrying and wearing. Until
+        the possession ends, the target is incapacitated, loses control of its body,
+        and is unaware of its surroundings. The yakfolk now controls the body and
+        can't be targeted by any attack, spell, or other effect, and it retains its
+        alignment; its Intelligence, Wisdom, and Charisma scores; and its proficiencies.
+        It otherwise uses the target's statistics, except the target's knowledge,
+        class features, feats, and proficiencies.
+type: monstrosity
+wisdom: '15'

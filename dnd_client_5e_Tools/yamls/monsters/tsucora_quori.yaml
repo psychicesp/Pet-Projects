@@ -1,0 +1,68 @@
+AC: 16
+CR: 7 (2,900 XP)
+HP: 68 (8d8 + 32)
+actions:
+    Claws: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit:
+        13 (4d4 + 3) slashing damage.'
+    Multiattack: 'The quori makes three attacks: one pincer attack, one attack with
+        its claws, and one stinger attack.'
+    Pincer: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit:
+        8 (1d10 + 3) bludgeoning damage. The target is grappled (escape DC 14+1d6
+        + 11) if it is a Large or smaller creature. The quori has two pincers, each
+        of which can grapple one target.'
+    Possession (Recharge 6): One humanoid that the quori can see within 5 feet of
+        it must succeed on a DC 14+1d6 + 11 Charisma saving throw or be possessed
+        by the quori; the quori then disappears, and the target is incapacitated and
+        loses control of its body. The quori now controls the body but doesn't deprive
+        the target of awareness. The quori can't be targeted by any attack, spell,
+        or other effect, and it retains its alignment, Intelligence, Wisdom, Charisma,
+        and immunity to being charmed and frightened. It otherwise uses the possessed
+        target's statistics, but doesn't gain access to the target's knowledge, class
+        features, or proficiencies.
+    Stinger: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 10 ft., one creature.
+        Hit: 8 (1d10 + 3) piercing damage plus 10 (3d6) psychic damage, and the target
+        must succeed on a DC 14+1d6 + 11 Wisdom saving throw or be frightened of the
+        quori for 1 minute. The target can repeat the saving throw at the end of each
+        of its turns, ending the effect on itself on a success.'
+alignment: LE
+book: 'Eberron: Rising from the Last War'
+charisma: '16'
+condition_immunities:
+- charmed, frightened
+constitution: '18'
+dexterity: '14'
+insight: '+5'
+intelligence: '14'
+languages:
+- Common
+- Quori
+name: Tsucora Quori
+page: 307
+perception: '+5'
+resistances:
+- psychic
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 15
+size: Medium
+skills:
+    insight: proficient
+    perception: proficient
+speed:
+- 40 ft
+strength: '17'
+tags: []
+traits:
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - fear
+            at will:
+            - charm person
+        type: innate
+type: aberration
+wisdom: '14'

@@ -1,0 +1,43 @@
+AC: 14
+CR: 1/2 (100 XP)
+HP: 18 (4d4 + 8)
+actions:
+    Beak: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 5
+        (1d4 + 3) piercing damage.'
+    Multiattack: The raptor makes two attacks with its beak.
+alignment: U
+book: Mythic Odysseys of Theros
+charisma: 1 (-5)
+condition_immunities:
+- charmed, exhaustion, paralyzed, petrified, poisoned
+constitution: 14 (+2)
+damage_immunities:
+- fire, poison
+dexterity: 16 (+3)
+hit points: 4d4 + 8
+intelligence: 3 (-4)
+languages:
+- understands one language of its creator but can't speak
+name: Anvilwrought Raptor
+page: 209
+perception: '+4'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 14
+size: Tiny
+skills:
+    perception: proficient
+speed:
+- 10 ft
+- fly 60 ft
+strength: 12 (+1)
+tags: []
+traits:
+    Keen Sight: The raptor has advantage on Wisdom (Perception) checks that rely on
+        sight.
+    Recorded Mimicry: The raptor can mimic any sound, including voices, it has heard
+        in the last 24 hours. A creature that hears the sounds can tell they are imitations
+        with a successful DC 12+1d4 + 10 Wisdom (Insight) check.
+type: construct
+wisdom: 14 (+2)

@@ -1,0 +1,46 @@
+AC: 15
+CR: 1 (200 XP)
+HP: 22 (4d8 + 4)
+actions:
+    Sling: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one target.
+        Hit: 4 (1d4 + 2) bludgeoning damage.'
+    Spear: 'Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing
+        damage if used with two hands to make a melee attack, plus 7 (2d6) poison
+        damage.'
+alignment: LE
+book: Mythic Odysseys of Theros
+charisma: '11'
+condition_immunities:
+- poisoned
+constitution: '12'
+damage_immunities:
+- poison
+dexterity: '15'
+intelligence: '10'
+languages:
+- the languages it knew in life
+name: Returned Sentry
+page: 241
+resistances:
+- necrotic
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '16'
+tags: []
+traits:
+    Pack Tactics: The Returned has advantage on an attack roll against a creature
+        if at least one of the Returned's allies is within 5 feet of the creature
+        and the ally isn't incapacitated.
+    Turn Resistance: The Returned has advantage on saving throws against any effect
+        that turns undead.
+    Unreadable Face: The Returned is immune to any effect that would sense its emotions
+        or read its thoughts. Wisdom (Insight) checks to ascertain the Returned's
+        intentions or sincerity are made with disadvantage.
+type: undead
+wisdom: '12'

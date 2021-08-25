@@ -1,0 +1,46 @@
+AC: 12
+CR: 2 (450 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 10
+        (2d6 + 3) piercing damage. If the target is a creature, it must succeed on
+        a DC 13+1d4 + 11 Strength saving throw or be knocked prone.'
+alignment: NE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '5'
+constitution: '13'
+dexterity: '14'
+intelligence: '5'
+languages:
+- \xe2\x80\x94
+name: Shadow Mastiff
+page: 190
+perception: '+3'
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks while in dim light or
+    darkness
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    perception: proficient
+    stealth: expert
+speed:
+- 40 ft
+stealth: '+6'
+strength: '16'
+tags: []
+traits:
+    Ethereal Awareness: The shadow mastiff can see ethereal creatures and objects.
+    Keen Hearing and Smell: The shadow mastiff has advantage on Wisdom (Perception)
+        checks that rely on hearing or smell.
+    Shadow Blend: While in dim light or darkness, the shadow mastiff can use a bonus
+        action to become invisible, along with anything it is wearing or carrying.
+        The invisibility lasts until the shadow mastiff uses a bonus action to end
+        it or until the shadow mastiff attacks, is in bright light, or is incapacitated.
+    Sunlight Weakness: While in bright light created by sunlight, the shadow mastiff
+        has disadvantage on attack rolls, ability checks, and saving throws.
+type: monstrosity
+wisdom: '12'

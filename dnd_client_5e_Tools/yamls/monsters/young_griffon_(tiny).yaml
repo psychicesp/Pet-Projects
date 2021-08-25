@@ -1,0 +1,38 @@
+AC: 12
+CR: 0 (0 or 10 XP)
+HP: 5 (1d4 + 3)
+actions:
+    Beak: 'Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one target. Hit: 1
+        piercing damage.'
+    Claws: 'Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one target. Hit:
+        1 slashing damage.'
+    Multiattack: 'The griffon makes two attacks: one with its beak and one with its
+        claws.'
+alignment: U
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '8'
+constitution: '16'
+dexterity: '15'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Young Griffon (Tiny)
+page: 163
+perception: '+5'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 15
+size: Tiny
+skills:
+    perception: expert
+speed:
+- 30 ft
+- fly 40 ft
+strength: '2'
+tags: []
+traits:
+    Keen Sight: The griffon has advantage on Wisdom (Perception) checks that rely
+        on sight.
+type: monstrosity
+wisdom: '13'

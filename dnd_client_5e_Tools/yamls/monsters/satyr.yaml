@@ -1,0 +1,43 @@
+AC: 14
+CR: 1/2 (100 XP)
+HP: 31 (7d8)
+actions:
+    Ram: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6
+        (2d4 + 1) bludgeoning damage.'
+    Shortbow: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 80/320 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage.'
+    Shortsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage.'
+alignment: CN
+book: Monster Manual
+charisma: '14'
+constitution: '11'
+dexterity: '16'
+hit: 7d8
+intelligence: '12'
+languages:
+- Common
+- Elvish
+- Sylvan
+name: Satyr
+page: 267
+perception: '+2'
+performance: '+6'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    perception: proficient
+    performance: expert
+    stealth: proficient
+speed:
+- 40 ft
+stealth: '+5'
+strength: '12'
+tags: []
+traits:
+    Magic Resistance: The satyr has advantage on saving throws against spells and
+        other magical effects.
+type: fey
+wisdom: '10'

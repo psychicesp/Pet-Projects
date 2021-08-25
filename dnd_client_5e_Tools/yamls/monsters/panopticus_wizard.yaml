@@ -1,0 +1,53 @@
+AC: 10
+CR: 1/4 (50 XP)
+HP: 9 (2d8)
+actions:
+    Dagger: 'Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit:
+        2 (1d4) piercing damage. Or Ranged Weapon Attack: +2+1d4 + 0 to hit, range
+        20/60 ft., one target. Hit: 2 (1d4) piercing damage.'
+alignment: N
+arcana: '+4'
+book: 'Waterdeep: Dragon Heist'
+charisma: '11'
+constitution: '10'
+dexterity: '10'
+history: '+4'
+hit: 2d8
+intelligence: '14'
+languages:
+- Common
+- Dwarvish
+name: Panopticus Wizard
+page: 106
+resistances:
+- poison
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    arcana: proficient
+    history: proficient
+speed:
+- 25 ft
+strength: '10'
+tags:
+- dwarf
+traits:
+    Dwarven Resilience: The dwarf has advantage on saving throws against poison and
+        resistance to poison damage.
+    spellcasting:
+        ability: 'intelligence. it has the following wizard spells prepared:cantrips
+            (at will): fire bolt, mending, prestidigitation1st level (2 slots): burning
+            hands, disguise self, shield'
+        level: 1
+        spells:
+        - fire bolt
+        - mending
+        - prestidigitation
+        - burning hands
+        - disguise self
+        - shield
+        type: wizard
+type: humanoid
+wisdom: '10'

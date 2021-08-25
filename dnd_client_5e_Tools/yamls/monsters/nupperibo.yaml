@@ -1,0 +1,46 @@
+AC: 13
+CR: 1/2 (100 XP)
+HP: 11 (2d8 + 2)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) piercing damage.'
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '1'
+condition_immunities:
+- blinded, charmed, frightened, poisoned
+constitution: '13'
+damage_immunities:
+- fire, poison
+dexterity: '11'
+intelligence: '3'
+languages:
+- understands Infernal but can't speak
+name: Nupperibo
+page: 168
+perception: '+1'
+resistances:
+- acid, cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+saving_throws: {}
+senses:
+- blindsight 10 ft. (blind beyond this radius)
+- passive Perception 11
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 20 ft
+strength: '16'
+tags:
+- devil
+traits:
+    Cloud of Vermin: Any creature, other than a devil, that starts its turn within
+        20 feet of the nupperibo must make a DC 11+1d4 + 9 Constitution saving throw.
+        A creature within the areas of two or more nupperibos makes the saving throw
+        with disadvantage. On a failure, the creature takes 2 (1d4) piercing damage.
+    Hunger-Driven: In the Nine Hells, the nupperibos can flawlessly track any creature
+        that has taken damage from any nupperibo's Cloud of Vermin within the previous
+        24 hours.
+type: fiend
+wisdom: '8'

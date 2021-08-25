@@ -1,0 +1,42 @@
+AC: 16
+CR: 1 (200 XP)
+HP: 30 (4d8 + 12)
+actions:
+    Armblade: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        6 (1d6 + 3) slashing damage.'
+    Javelin: 'Melee or Ranged Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.'
+    Multiattack: The warforged makes two armblade attacks.
+alignment: AA
+athletics: '+5'
+book: 'Eberron: Rising from the Last War'
+charisma: '11'
+constitution: '16'
+dexterity: '12'
+intelligence: '10'
+languages:
+- Common
+name: Warforged Soldier
+page: 320
+perception: '+4'
+resistances:
+- poison
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+    survival: proficient
+speed:
+- 30 ft
+strength: '16'
+survival: '+4'
+tags:
+- warforged
+traits:
+    Warforged Resilience: The warforged has advantage on saving throws against being
+        poisoned and is immune to disease. Magic can't put it to sleep.
+type: humanoid
+wisdom: '14'

@@ -1,0 +1,53 @@
+AC: 18
+CR: 2 (450 XP)
+HP: 39 (6d8 + 12)
+actions:
+    Enlarge (Recharges after a Short or Long Rest): For 1 minute, the duergar magically
+        increases in size, along with anything it is wearing or carrying. While enlarged,
+        the duergar is Large, doubles its damage dice on Strength-based weapon attacks
+        (included in the attacks), and makes Strength checks and Strength saving throws
+        with advantage. If the duergar lacks the room to become Large, it attains
+        the maximum size possible in the space available.
+    Invisibility (Recharges after a Short or Long Rest): The duergar magically turns
+        invisible for up to 1 hour or until it attacks, it casts a spell, it uses
+        its Enlarge, or its concentration is broken (as if concentrating on a spell).
+        Any equipment the duergar wears or carries is invisible with it.
+    Javelin: 'Melee or Ranged Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4)
+        piercing damage while enlarged.'
+    King's Knife (Shortsword): 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft.,
+        one target. Hit: 7 (1d6 + 4) piercing damage, or 11 (2d6 + 4) piercing damage
+        while enlarged.'
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '9'
+constitution: '14'
+dexterity: '11'
+intelligence: '11'
+languages:
+- Dwarvish
+- Undercommon
+name: Duergar Stone Guard
+page: 191
+resistances:
+- poison
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 25 ft
+strength: '18'
+tags:
+- dwarf
+traits:
+    Duergar Resilience: The duergar has advantage on saving throws against poison,
+        spells, and illusions, as well as to resist being charmed or paralyzed.
+    Phalanx Formation: The duergar has advantage on attack rolls and Dexterity saving
+        throws while standing within 5 feet of a duergar ally wielding a shield.
+    Sunlight Sensitivity: While in sunlight, the duergar has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: humanoid
+wisdom: '10'

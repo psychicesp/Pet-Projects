@@ -1,0 +1,61 @@
+AC: 14
+CR: 3 (700 XP)
+HP: 52 (8d8 + 16)
+actions:
+    Jaws of Semuanya (Recharge 5xe2x80x936): The subchief invokes the primal magic
+        of Semuanya, summoning a spectral maw around a target it can see within 60
+        feet of it. The target must make a DC 13+1d4 + 11 Dexterity saving throw,
+        taking 22 (5d8) piercing damage on a failed save, or half as much damage on
+        a successful one. A creature that fails this saving throw is also frightened
+        until the end of its next turn.
+    Tooth Dagger: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 4 (1d4 + 2) piercing damage.'
+alignment: N
+athletics: '+4'
+book: Ghosts of Saltmarsh
+charisma: '12'
+constitution: '14'
+dexterity: '12'
+intelligence: '10'
+languages:
+- Draconic
+name: Lizardfolk Subchief
+page: 242
+perception: '+5'
+saving_throws:
+    wisdom: proficient
+senses:
+- passive Perception 15
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+    survival: proficient
+speed:
+- 30 ft
+- swim 30 ft
+strength: '14'
+survival: '+5'
+tags:
+- lizardfolk
+traits:
+    Hold Breath: The subchief can hold its breath for 15 minutes.
+    spellcasting:
+        ability: wisdom
+        level: 5
+        spells:
+        - light
+        - sacred flame
+        - spare the dying
+        - thaumaturgy
+        - command
+        - guiding bolt
+        - purify food and drink
+        - hold person
+        - lesser restoration
+        - silence
+        - bestow curse
+        - dispel magic
+        type: cleric
+type: humanoid
+wisdom: '16'

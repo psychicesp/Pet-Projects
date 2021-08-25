@@ -1,0 +1,106 @@
+AC: 19
+CR: 22 (41,000 XP)
+HP: 300 (24d12 + 144)
+actions:
+    Claws: 'Melee Weapon Attack: +16+1d14 + 9 to hit, reach 15 ft., one target. Hit:
+        23 (4d6 + 9) slashing damage. If the target is Large or smaller, it is grappled
+        (DC 24+1d14 + 17) and is restrained until the grapple ends. Geryon can grapple
+        one creature at a time. If the target is already grappled by Geryon, the target
+        takes an extra 27 (6d8) slashing damage.'
+    Multiattack: 'Geryon makes two attacks: one with his claws and one with his stinger.'
+    Stinger: 'Melee Weapon Attack: +16+1d14 + 9 to hit, reach 20 ft., one creature.
+        Hit: 14 (2d4 + 9) piercing damage, and the target must succeed on a DC 21+1d14
+        + 14 Constitution saving throw or take 13 (2d12) poison damage and become
+        poisoned until it finishes a short or long rest. The target''s hit point maximum
+        is reduced by an amount equal to half the poison damage it takes. If its hit
+        point maximum drops to 0, it dies. This reduction lasts until the poisoned
+        condition is removed.'
+    Teleport: Geryon magically teleports, along with any equipment he is wearing and
+        carrying, up to 120 feet to an unoccupied space he can see.
+alignment: LE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '23'
+condition_immunities:
+- charmed, exhaustion, frightened, poisoned
+constitution: '22'
+damage_immunities:
+- cold, fire, poison
+deception: '+13'
+dexterity: '17'
+in_lair:
+    CR_increase: 1
+    actions:
+    - Geryon causes a blast of cold to burst from the ground at a point he can see
+        within 120 feet of him. The cold fills a cube, 10 feet on each side, centered
+        on that point. Each creature in that area must succeed on a DC 21+1d14 + 14
+        Constitution saving throw or take 28 (8d6) cold damage.
+    - Geryon targets one creature he can see within 60 feet of him. The target must
+        succeed on a DC 21+1d14 + 14 Wisdom saving throw or become restrained for
+        1 minute. The target can end the effect on itself if it deals any damage to
+        one or more of its allies.
+    - Geryon casts the banishment spell.
+intelligence: '19'
+intimidation: '+13'
+languages:
+- all
+- telepathy 120 ft.
+legendary_actions:
+    number: 3
+    options:
+        Infernal Glare: ' Geryon targets one creature he can see within 60 feet of
+            him. If the target can see Geryon, the target must succeed on a DC 23+1d14
+            + 16 Wisdom saving throw or become frightened of Geryon until the end
+            of its next turn.'
+        Swift Sting (Costs 2 Actions): ' Geryon attacks with his stinger.'
+        Teleport: ' Geryon uses his Teleport action.'
+name: Geryon
+page: 173
+perception: '+10'
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 20
+size: Huge
+skills:
+    deception: proficient
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+- fly 50 ft
+strength: '29'
+tags:
+- devil
+traits:
+    Legendary Resistance (3/Day): If Geryon fails a saving throw, he can choose to
+        succeed instead.
+    Magic Resistance: Geryon has advantage on saving throws against spells and other
+        magical effects.
+    Magic Weapons: Geryon's weapon attacks are magical.
+    Regeneration: Geryon regains 20 hit points at the start of his turn. If he takes
+        radiant damage, this trait doesn't function at the start of his next turn.
+        Geryon dies only if he starts his turn with 0 hit points and doesn't regenerate.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - divine word
+            - symbol
+            at will:
+            - alter self
+            - detect magic
+            - geas
+            - ice storm
+            - invisibility
+            - locate object
+            - suggestion
+            - wall of ice
+        type: innate
+type: fiend
+wisdom: '16'

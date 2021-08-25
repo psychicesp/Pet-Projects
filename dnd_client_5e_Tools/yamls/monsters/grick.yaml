@@ -1,0 +1,39 @@
+AC: 14
+CR: 2 (450 XP)
+HP: 27 (6d8)
+actions:
+    Beak: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) piercing damage.'
+    Multiattack: The grick makes one attack with its tentacles. If that attack hits,
+        the grick can make one beak attack against the same target.
+    Tentacles: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        9 (2d6 + 2) slashing damage.'
+alignment: N
+book: Monster Manual
+charisma: '5'
+constitution: '11'
+dexterity: '14'
+hit: 6d8
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Grick
+page: 173
+resistances:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Medium
+skills: {}
+speed:
+- 30 ft
+- climb 30 ft
+strength: '14'
+tags: []
+traits:
+    Stone Camouflage: The grick has advantage on Dexterity (Stealth) checks made to
+        hide in rocky terrain.
+type: monstrosity
+wisdom: '14'

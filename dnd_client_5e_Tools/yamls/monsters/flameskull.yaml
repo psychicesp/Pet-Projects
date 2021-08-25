@@ -1,0 +1,60 @@
+AC: 13
+CR: 4 (1,100 XP)
+HP: 40 (9d4 + 18)
+actions:
+    Fire Ray: 'Ranged Spell Attack: +5+1d4 + 3 to hit, range 30 ft., one target. Hit:
+        10 (3d6) fire damage.'
+    Multiattack: The flameskull uses Fire Ray twice.
+alignment: NE
+arcana: '+5'
+book: Monster Manual
+charisma: '11'
+condition_immunities:
+- charmed, frightened, paralyzed, poisoned, prone
+constitution: '14'
+damage_immunities:
+- cold, fire, poison
+dexterity: '17'
+intelligence: '16'
+languages:
+- Common
+name: Flameskull
+page: 134
+perception: '+2'
+resistances:
+- lightning, necrotic, piercing
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Tiny
+skills:
+    arcana: proficient
+    perception: proficient
+speed:
+- 0 ft
+- fly 40 ft. (hover)
+strength: '1'
+tags: []
+traits:
+    Illumination: The flameskull sheds either dim light in a 15-foot radius, or bright
+        light in a 15-foot radius and dim light for an additional 15 feet. It can
+        switch between the options as an action.
+    Magic Resistance: The flameskull has advantage on saving throws against spells
+        and other magical effects.
+    Rejuvenation: If the flameskull is destroyed, it regains all its hit points in
+        1 hour unless holy water is sprinkled on its remains or a dispel magic or
+        remove curse spell is cast on them.
+    spellcasting:
+        ability: intelligence
+        level: 5
+        spells:
+        - mage hand
+        - magic missile
+        - shield
+        - blur
+        - flaming sphere
+        - fireball
+        type: wizard
+type: undead
+wisdom: '10'

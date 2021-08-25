@@ -1,0 +1,74 @@
+AC: 18
+CR: 9 (5,000 XP)
+HP: 123 (13d10 + 52)
+actions:
+    Claw: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit: 12
+        (2d6 + 5) slashing damage. If the target is a creature, it must succeed on
+        a DC 16+1d8 + 12 Constitution saving throw or take 5 (2d4) slashing damage
+        at the start of each of its turns due to a fiendish wound. Each time the nycaloth
+        hits the wounded target with this attack, the damage dealt by the wound increases
+        by 5 (2d4). Any creature can take an action to stanch the wound with a successful
+        DC 13+1d8 + 9 Wisdom (Medicine) check. The wound also closes if the target
+        receives magical healing.'
+    Greataxe: 'Melee Weapon Attack: +9+1d8 + 5 to hit, reach 5 ft., one target. Hit:
+        18 (2d12 + 5) slashing damage.'
+    Multiattack: The nycaloth makes two melee attacks, or it makes one melee attack
+        and teleports before or after the attack.
+    Teleport: The nycaloth magically teleports, along with any equipment it is wearing
+        or carrying, up to 60 feet to an unoccupied space it can see.
+alignment: NE
+book: Monster Manual
+charisma: '15'
+condition_immunities:
+- poisoned
+constitution: '19'
+damage_immunities:
+- acid, poison
+dexterity: '11'
+intelligence: '12'
+intimidation: '+6'
+languages:
+- Abyssal
+- Infernal
+- telepathy 60 ft.
+name: Nycaloth
+page: 314
+perception: '+4'
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- blindsight 60 ft.
+- darkvision 60 ft.
+- passive Perception 14
+size: Large
+skills:
+    intimidation: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 40 ft
+- fly 60 ft
+stealth: '+4'
+strength: '20'
+tags:
+- yugoloth
+traits:
+    Magic Resistance: The nycaloth has advantage on saving throws against spells and
+        other magical effects.
+    Magic Weapons: The nycaloth's weapon attacks are magical.
+    spellcasting:
+        ability: 'charisma. the nycaloth can innately cast the following spells, requiring
+            no material components:at will: darkness, detect magic, dispel magic,
+            invisibility (self only), mirror image'
+        spells:
+            at will:
+            - darkness
+            - detect magic
+            - dispel magic
+            - invisibility
+            - mirror image
+        type: innate
+type: fiend
+wisdom: '10'

@@ -1,0 +1,68 @@
+AC: 16
+CR: 8 (3,900 XP)
+HP: 127 (15d10 + 45)
+actions:
+    Bite (Slaad Form Only): 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft.,
+        one target. Hit: 11 (2d6 + 4) piercing damage.'
+    Claw (Slaad Form Only): 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft.,
+        one target. Hit: 7 (1d6 + 4) slashing damage.'
+    Hurl Flame: 'Ranged Spell Attack: +4+1d6 + 1 to hit, range 60 ft., one target.
+        Hit: 10 (3d6) fire damage. The fire ignites flammable objects that aren''t
+        being worn or carried.'
+    Multiattack: 'The slaad makes three attacks: one with its bite and two with its
+        claws or staff. Alternatively, it uses its Hurl Flame twice.'
+    Staff: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        11 (2d6 + 4) bludgeoning damage.'
+alignment: CN
+arcana: '+3'
+book: Monster Manual
+charisma: '12'
+constitution: '16'
+dexterity: '15'
+intelligence: '11'
+languages:
+- Slaad
+- telepathy 60 ft.
+name: Green Slaad
+page: 277
+perception: '+2'
+resistances:
+- acid, cold, fire, lightning, thunder
+saving_throws: {}
+senses:
+- blindsight 30 ft.
+- darkvision 60 ft.
+- passive Perception 12
+size: Large
+skills:
+    arcana: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '18'
+tags:
+- shapechanger
+traits:
+    Magic Resistance: The slaad has advantage on saving throws against spells and
+        other magical effects.
+    Regeneration: The slaad regains 10 hit points at the start of its turn if it has
+        at least 1 hit point.
+    Shapechanger: The slaad can use its action to polymorph into a Small or Medium
+        humanoid, or back into its true form. Its statistics, other than its size,
+        are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+        It reverts to its true form if it dies.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - fireball
+            2/day:
+            - fear
+            - invisibility
+            at will:
+            - detect magic
+            - detect thoughts
+            - mage hand
+        type: innate
+type: aberration
+wisdom: '8'

@@ -1,0 +1,42 @@
+AC: 14
+CR: 4 (1,100 XP)
+HP: 65 (10d8 + 20)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one creature. Hit:
+        6 (1d6 + 3) piercing damage, and the target must succeed on a DC 12+1d4 +
+        10 Constitution saving throw or take 7 (2d6) poison damage.'
+    Claw: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 7
+        (1d8 + 3) slashing damage.'
+    Multiattack: 'The gnoll makes three attacks: one with its bite and two with its
+        claws.'
+alignment: CE
+book: Monster Manual
+charisma: '13'
+constitution: '15'
+dexterity: '15'
+intelligence: '10'
+languages:
+- Abyssal
+- Gnoll
+name: Gnoll Fang of Yeenoghu
+page: 163
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '17'
+tags:
+- gnoll
+traits:
+    Rampage: When the gnoll reduces a creature to 0 hit points with a melee attack
+        on its turn, the gnoll can take a bonus action to move up to half its speed
+        and make a bite attack.
+type: fiend
+wisdom: '11'

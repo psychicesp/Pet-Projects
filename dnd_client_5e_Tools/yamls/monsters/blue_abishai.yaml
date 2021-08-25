@@ -1,0 +1,82 @@
+AC: 19
+CR: 17 (18,000 XP)
+HP: 195 (26d8 + 78)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d12 + 2 to hit, reach 5 ft., one target. Hit:
+        13 (2d10 + 2) piercing damage plus 14 (4d6) lightning damage.'
+    Multiattack: 'The abishai makes two attacks: one with its quarterstaff and one
+        with its bite.'
+    Quarterstaff: 'Melee Weapon Attack: +8+1d12 + 2 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if
+        used with two hands.'
+alignment: LE
+arcana: '+12'
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '18'
+condition_immunities:
+- poisoned
+constitution: '17'
+damage_immunities:
+- fire, lightning, poison
+dexterity: '14'
+intelligence: '22'
+languages:
+- Draconic
+- Infernal
+- telepathy 120 ft.
+name: Blue Abishai
+page: 161
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t silvered
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 16
+size: Medium
+skills:
+    arcana: proficient
+speed:
+- 30 ft
+- fly 50 ft
+strength: '15'
+tags:
+- devil
+traits:
+    Devil's Sight: Magical darkness doesn't impede the abishai's darkvision.
+    Magic Resistance: The abishai has advantage on saving throws against spells and
+        other magical effects.
+    Magic Weapons: The abishai's weapon attacks are magical.
+    spellcasting:
+        ability: intelligence
+        level: 13
+        spells:
+        - friends
+        - mage hand
+        - message
+        - minor illusion
+        - shocking grasp
+        - chromatic orb
+        - disguise self
+        - expeditious retreat
+        - magic missile
+        - charm person
+        - thunderwave
+        - darkness
+        - mirror image
+        - misty step
+        - dispel magic
+        - fear
+        - lightning bolt
+        - dimension door
+        - greater invisibility
+        - ice storm
+        - cone of cold
+        - wall of force
+        - chain lightning
+        - teleport
+        type: wizard
+type: fiend
+wisdom: '23'

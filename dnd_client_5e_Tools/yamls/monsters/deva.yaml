@@ -1,0 +1,64 @@
+AC: 17
+CR: 10 (5,900 XP)
+HP: 136 (16d8 + 64)
+actions:
+    Change Shape: The deva magically polymorphs into a humanoid or beast that has
+        a challenge rating equal to or less than its own, or back into its true form.
+        It reverts to its true form if it dies. Any equipment it is wearing or carrying
+        is absorbed or borne by the new form (the deva's choice).
+    Healing Touch (3/Day): The deva touches another creature. The target magically
+        regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison,
+        blindness, or deafness.
+    Mace: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit: 7
+        (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.'
+    Multiattack: The deva makes two melee attacks.
+alignment: LG
+book: Monster Manual
+charisma: '20'
+condition_immunities:
+- charmed, exhaustion, frightened
+constitution: '18'
+dexterity: '18'
+insight: '+9'
+intelligence: '17'
+languages:
+- all
+- telepathy 120 ft.
+name: Deva
+page: 16
+perception: '+9'
+resistances:
+- radiant
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    charisma: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 19
+size: Medium
+skills:
+    insight: proficient
+    perception: proficient
+speed:
+- 30 ft
+- fly 90 ft
+strength: '18'
+tags: []
+traits:
+    Angelic Weapons: The deva's weapon attacks are magical. When the deva hits with
+        any weapon, the weapon deals an extra 4d8 radiant damage (included in the
+        attack).
+    Magic Resistance: The deva has advantage on saving throws against spells and other
+        magical effects.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - commune
+            - raise dead
+            at will:
+            - detect evil and good
+        type: innate
+type: celestial
+wisdom: '20'

@@ -1,0 +1,48 @@
+AC: 12
+CR: 1 (200 XP)
+HP: 21 (6d6)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one creature. Hit:
+        4 (1d4 + 2) piercing damage and the target must succeed on a DC 11+1d4 + 9
+        Wisdom saving throw or become frightened until the start of the crawler''s
+        next turn.'
+    Claws: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 15 ft., one target. Hit:
+        4 (1d4 + 2) slashing damage.'
+    Multiattack: 'The crawler makes four attacks: one with its bite, two with its
+        claws, and one with its tail.'
+    Tail: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 15 ft., one target. Hit:
+        5 (1d6 + 2) piercing damage.'
+alignment: CE
+book: Explorer\xe2\x80\x99s Guide to Wildemount
+charisma: '6'
+condition_immunities:
+- blinded
+constitution: '10'
+damage_immunities:
+- psychic
+dexterity: '14'
+hit: 6d6
+intelligence: '9'
+languages:
+- understands Deep Speech but can\'t speak
+name: Core Spawn Crawler
+page: 286
+perception: '+5'
+saving_throws: {}
+senses:
+- blindsight 30 ft. (blind beyond this radius)
+- tremorsense 60 ft.
+- passive Perception 15
+size: Small
+skills:
+    perception: expert
+speed:
+- 30 ft
+strength: '7'
+tags: []
+traits:
+    Pack Tactics: The crawler has advantage on an attack roll against a creature if
+        at least one of the crawler's allies is within 5 feet of the creature and
+        the ally isn't incapacitated.
+type: aberration
+wisdom: '12'

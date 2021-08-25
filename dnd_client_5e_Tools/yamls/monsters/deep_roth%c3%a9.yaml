@@ -1,0 +1,37 @@
+AC: 10
+CR: 1/4 (50 XP)
+HP: 13 (2d8 + 4)
+actions:
+    Gore: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 7
+        (1d6 + 4) piercing damage.'
+alignment: U
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '4'
+constitution: '14'
+dexterity: '10'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Deep Roth\xc3\xa9
+page: 208
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '18'
+tags: []
+traits:
+    Charge: If the rothxc3xa9 moves at least 20 feet straight toward a target and
+        then hits it with a gore attack on the same turn, the target takes an extra
+        7 (2d6) piercing damage.
+    spellcasting:
+        ability: charisma. it can innately cast dancing lights at will, requiring
+            no components.
+        spells: {}
+        type: innate
+type: beast
+wisdom: '10'

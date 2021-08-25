@@ -1,0 +1,54 @@
+AC: 18
+CR: 12 (8,400 XP)
+HP: 153 (18d8 + 72)
+actions:
+    Longbow: 'Ranged Weapon Attack: +7+1d8 + 3 to hit, range 150/600 ft., one target.
+        Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target
+        must succeed on a DC 14+1d8 + 10 Constitution saving throw or be poisoned.
+        The poison lasts until it is removed by the lesser restoration spell or similar
+        magic.'
+    Longsword: 'Melee Weapon Attack: +8+1d8 + 4 to hit, reach 5 ft., one target. Hit:
+        8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with
+        two hands, plus 13 (3d8) poison damage.'
+    Multiattack: The erinyes makes three attacks.
+alignment: LE
+book: Monster Manual
+charisma: '18'
+condition_immunities:
+- poisoned
+constitution: '18'
+damage_immunities:
+- fire, poison
+dexterity: '16'
+intelligence: '14'
+languages:
+- Infernal
+- telepathy 120 ft.
+name: Erinyes
+page: 73
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t silvered
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 12
+size: Medium
+skills: {}
+speed:
+- 30 ft
+- fly 60 ft
+strength: '18'
+tags:
+- devil
+traits:
+    Hellish Weapons: The erinyes's weapon attacks are magical and deal an extra 13
+        (3d8) poison damage on a hit (included in the attacks).
+    Magic Resistance: The erinyes has advantage on saving throws against spells and
+        other magical effects.
+type: fiend
+wisdom: '14'

@@ -1,0 +1,43 @@
+AC: 18
+CR: 2 (450 XP)
+HP: 39 (6d8 + 12)
+actions:
+    Multiattack: The kruthik makes two stab attacks or two spike attacks.
+    Spike: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 20/60 ft., one target.
+        Hit: 5 (1d4 + 3) piercing damage.'
+    Stab: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) piercing damage.'
+alignment: U
+book: "Mordenkainen\u2019s Tome of Foes"
+charisma: 8 (-1)
+constitution: 15 (+2)
+dexterity: 16 (+3)
+hit points: 6d8 + 12
+intelligence: 7 (-2)
+languages:
+- Kruthik
+name: Adult Kruthik
+page: 212
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- tremorsense 60 ft.
+- passive Perception 11
+size: Medium
+skills: {}
+speed:
+- 40 ft
+- burrow 20 ft
+- climb 40 ft
+strength: 15 (+2)
+tags: []
+traits:
+    Keen Smell: The kruthik has advantage on Wisdom (Perception) checks that rely
+        on smell.
+    Pack Tactics: The kruthik has advantage on an attack roll against a creature if
+        at least one of the kruthik's allies is within 5 feet of the creature and
+        the ally isn't incapacitated.
+    Tunneler: The kruthik can burrow through solid rock at half its burrowing speed
+        and leaves a 5-foot-diameter tunnel in its wake.
+type: monstrosity
+wisdom: 12 (+1)

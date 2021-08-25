@@ -1,0 +1,60 @@
+AC: 15
+CR: 5 (1,800 XP)
+HP: 110 (13d8 + 52)
+actions:
+    Claw: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) piercing damage.'
+    Hurl Flame: 'Ranged Spell Attack: +5+1d6 + 2 to hit, range 150 ft., one target.
+        Hit: 10 (3d6) fire damage. If the target is a flammable object that isn''t
+        being worn or carried, it also catches fire.'
+    Multiattack: 'The devil makes three melee attacks: one with its tail and two with
+        its claws. Alternatively, it can use Hurl Flame twice.'
+    Tail: 'Melee Weapon Attack: +6+1d6 + 3 to hit, reach 5 ft., one target. Hit: 10
+        (2d6 + 3) piercing damage.'
+alignment: LE
+book: Monster Manual
+charisma: '14'
+condition_immunities:
+- poisoned
+constitution: '18'
+damage_immunities:
+- fire, poison
+deception: '+5'
+dexterity: '17'
+insight: '+5'
+intelligence: '12'
+languages:
+- Infernal
+- telepathy 120 ft.
+name: Barbed Devil
+page: 70
+perception: '+8'
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 18
+size: Medium
+skills:
+    deception: proficient
+    insight: proficient
+    perception: expert
+speed:
+- 30 ft
+strength: '16'
+tags:
+- devil
+traits:
+    Barbed Hide: At the start of each of its turns, the barbed devil deals 5 (1d10)
+        piercing damage to any creature grappling it.
+    Devil's Sight: Magical darkness doesn't impede the devil's darkvision.
+    Magic Resistance: The devil has advantage on saving throws against spells and
+        other magical effects.
+type: fiend
+wisdom: '14'

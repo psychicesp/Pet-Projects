@@ -1,0 +1,70 @@
+AC: 22
+CR: 25 (75,000 XP)
+HP: 432 (32d10 + 256)
+actions:
+    Blazing Edict (Recharge 5xe2x80x936): Arcane energy emanates from the marut's
+        chest in a 60-foot cube. Every creature in that area takes 45 radiant damage.
+        Each creature that takes any of this damage must succeed on a DC 20+1d16 +
+        12 Wisdom saving throw or be stunned until the end of the marut's next turn.
+    Justify: The marut targets up to two creatures it can see within 60 feet of it.
+        Each target must succeed on a DC 20+1d16 + 12 Charisma saving throw or be
+        teleported to a teleportation circle in the Hall of Concordance in Sigil.
+        A target fails automatically if it is incapacitated. If either target is teleported
+        in this way, the marut teleports with it to the circle.
+    Multiattack: The marut makes two slam attacks.
+    Unerring Slam: 'Melee Weapon Attack: automatic hit, reach 5 ft., one target. Hit:
+        60 force damage, and the target is pushed up to 5 feet away from the marut
+        if it is Huge or smaller.'
+alignment: LN
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '18'
+condition_immunities:
+- charmed, frightened, paralyzed, poisoned, unconscious
+constitution: '26'
+damage_immunities:
+- poison
+dexterity: '12'
+insight: '+10'
+intelligence: '19'
+intimidation: '+12'
+languages:
+- all but rarely speaks
+name: Marut
+page: 213
+perception: '+10'
+resistances:
+- thunder
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 20
+size: Large
+skills:
+    insight: proficient
+    intimidation: proficient
+    perception: proficient
+speed:
+- 40 ft
+- fly 30 ft. (hover)
+strength: '28'
+tags:
+- inevitable
+traits:
+    Immutable Form: The marut is immune to any spell or effect that would alter its
+        form.
+    Legendary Resistance (3/Day): If the marut fails a saving throw, it can choose
+        to succeed instead.
+    Magic Resistance: The marut has advantage on saving throws against spells and
+        other magical effects.
+    spellcasting:
+        ability: intelligence
+        spells:
+            at will:
+            - plane shift
+        type: innate
+type: construct
+wisdom: '15'

@@ -1,0 +1,59 @@
+AC: 15
+CR: 2 (450 XP)
+HP: 32 (5d8 + 10)
+acrobatics: '+5'
+actions:
+    Dart: 'Ranged Weapon Attack: +5+1d4 + 3 to hit, range 20/60 ft., one target. Hit:
+        5 (1d4 + 3) piercing damage.'
+    Multiattack: The hobgoblin makes four attacks, each of which can be an unarmed
+        strike or a dart attack. It can also use Shadow Jaunt once, either before
+        or after one of the attacks.
+    Shadow Jaunt: The hobgoblin magically teleports, along with any equipment it is
+        wearing or carrying, up to 30 feet to an unoccupied space it can see. Both
+        the space it is leaving and its destination must be in dim light or darkness.
+    Unarmed Strike: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 5 (1d4 + 3) bludgeoning damage.'
+alignment: LE
+athletics: '+4'
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '11'
+constitution: '15'
+dexterity: '16'
+intelligence: '14'
+languages:
+- Common
+- Goblin
+name: Hobgoblin Iron Shadow
+page: 162
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Medium
+skills:
+    acrobatics: proficient
+    athletics: proficient
+    stealth: proficient
+speed:
+- 40 ft
+stealth: '+5'
+strength: '14'
+tags:
+- goblinoid
+traits:
+    Unarmored Defense: While the hobgoblin is wearing no armor and wielding no shield,
+        its AC includes its Wisdom modifier.
+    spellcasting:
+        ability: intelligence
+        level: 2
+        spells:
+        - minor illusion
+        - prestidigitation
+        - true strike
+        - charm person
+        - disguise self
+        - expeditious retreat
+        - silent image
+        type: wizard
+type: humanoid
+wisdom: '15'

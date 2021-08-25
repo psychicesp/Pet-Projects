@@ -1,0 +1,57 @@
+AC: 14
+CR: 2 (450 XP)
+HP: 45 (6d8 + 18)
+actions:
+    Claw: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6
+        (1d8 + 2) slashing damage.'
+    Multiattack: The orc makes two claw attacks, or four claw attacks if it has fewer
+        than half of its hit points remaining.
+alignment: CE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '11'
+constitution: '16'
+dexterity: '15'
+intelligence: '10'
+intimidation: '+2'
+languages:
+- Common
+- Orc
+medicine: '+4'
+name: Orc Claw of Luthic
+page: 183
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Medium
+skills:
+    intimidation: proficient
+    medicine: proficient
+    survival: proficient
+speed:
+- 30 ft
+strength: '14'
+survival: '+4'
+tags:
+- orc
+traits:
+    Aggressive: As a bonus action, the orc can move up to its speed toward a hostile
+        creature that it can see.
+    spellcasting:
+        ability: wisdom
+        level: 5
+        spells:
+        - guidance
+        - mending
+        - resistance
+        - thaumaturgy
+        - bane
+        - cure wounds
+        - guiding bolt
+        - augury
+        - warding bond
+        - bestow curse
+        - create food and water
+        type: cleric
+type: humanoid
+wisdom: '15'

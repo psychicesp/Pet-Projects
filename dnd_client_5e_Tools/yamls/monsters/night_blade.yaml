@@ -1,0 +1,37 @@
+AC: 12
+CR: 1/4 (50 XP)
+HP: 11 (2d8 + 2)
+actions:
+    Dagger: 'Melee or Ranged Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.'
+alignment: CE
+book: 'Baldur\xe2\x80\x99s Gate: Descent Into Avernus'
+charisma: '14'
+constitution: '12'
+dexterity: '15'
+intelligence: '10'
+intimidation: '+4'
+languages:
+- Common
+name: Night Blade
+page: 233
+saving_throws: {}
+senses:
+- darkvision 60
+- passive Perception 10
+size: Medium
+skills:
+    intimidation: proficient
+    stealth: expert
+speed:
+- 40 ft
+stealth: '+6'
+strength: '11'
+tags:
+- human
+traits:
+    Aura of Murder: As long as the night blade is not incapacitated, hostile creatures
+        within 5 feet of it gain vulnerability to piercing damage unless they have
+        resistance or immunity to such damage.
+type: humanoid
+wisdom: '11'

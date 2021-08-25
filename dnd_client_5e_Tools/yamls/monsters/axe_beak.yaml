@@ -1,0 +1,28 @@
+AC: 11
+CR: 1/4 (50 XP)
+HP: 19 (3d10 + 3)
+actions:
+    Beak: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6
+        (1d8 + 2) slashing damage.'
+alignment: U
+book: Monster Manual
+charisma: 5 (-3)
+constitution: 12 (+1)
+dexterity: 12 (+1)
+hit points: 3d10 + 3
+intelligence: 2 (-4)
+languages:
+- "\u2014"
+name: Axe Beak
+page: 317
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Large
+skills: {}
+speed:
+- 50 ft
+strength: 14 (+2)
+tags: []
+type: beast
+wisdom: 10 (+0)

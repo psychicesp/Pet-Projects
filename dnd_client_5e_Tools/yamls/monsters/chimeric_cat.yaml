@@ -1,0 +1,37 @@
+AC: ''
+CR: 0 (0 or 10 XP)
+HP: 2 (1d4)
+actions:
+    Claws: 'Melee Weapon Attack: +0+1d4 - 2 to hit, reach 5 ft., one target. Hit:
+        1 slashing damage.'
+alignment: U
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '7'
+constitution: '10'
+dexterity: '15'
+hit: 1d4
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Chimeric Cat
+page: 246
+perception: '+3'
+saving_throws: {}
+senses:
+- blindsight 60 ft.
+- tremorsense 60 ft.
+- passive Perception 13
+size: Tiny
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 40 ft
+- climb 30 ft
+stealth: '+4'
+strength: '3'
+tags: []
+traits:
+    Keen Smell: The cat has advantage on Wisdom (Perception) checks that rely on smell.
+type: beast
+wisdom: '12'

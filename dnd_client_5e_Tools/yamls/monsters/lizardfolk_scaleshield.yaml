@@ -1,0 +1,43 @@
+AC: 16
+CR: 1 (200 XP)
+HP: 32 (5d8 + 10)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) piercing damage.'
+    Morningstar: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 6 (1d8 + 2) piercing damage.'
+    Multiattack: The scaleshield makes two melee attacks, each one with a different
+        weapon.
+    Spiked Shield: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) piercing damage.'
+alignment: N
+athletics: '+4'
+book: Ghosts of Saltmarsh
+charisma: '7'
+constitution: '14'
+dexterity: '10'
+intelligence: '7'
+languages:
+- Draconic
+name: Lizardfolk Scaleshield
+page: 242
+perception: '+3'
+saving_throws: {}
+senses:
+- passive Perception 13
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+    survival: expert
+speed:
+- 30 ft
+- swim 30 ft
+strength: '15'
+survival: '+5'
+tags:
+- lizardfolk
+traits:
+    Hold Breath: The scaleshield can hold its breath for 15 minutes.
+type: humanoid
+wisdom: '12'

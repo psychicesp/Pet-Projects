@@ -1,0 +1,59 @@
+AC: 19
+CR: 17 (18,000 XP)
+HP: 310 (23d12 + 161)
+actions:
+    Fist: 'Melee Weapon Attack: +13+1d12 + 7 to hit, reach 10 ft., one target. Hit:
+        20 (3d8 + 7) bludgeoning damage.'
+    Gore: 'Melee Weapon Attack: +13+1d12 + 7 to hit, reach 10 ft., one target. Hit:
+        45 (7d10 + 7) piercing damage.'
+    Hoof: 'Melee Weapon Attack: +13+1d12 + 7 to hit, reach 5 ft., one target. Hit:
+        23 (3d10 + 7) bludgeoning damage. If the target is a creature, it must succeed
+        on a DC 21+1d12 + 15 Strength saving throw or be knocked prone.'
+    Multiattack: 'The goristro makes three attacks: two with its fists and one with
+        its hoof.'
+alignment: CE
+book: Monster Manual
+charisma: '14'
+condition_immunities:
+- poisoned
+constitution: '25'
+damage_immunities:
+- poison
+dexterity: '11'
+intelligence: '6'
+languages:
+- Abyssal
+name: Goristro
+page: 59
+perception: '+7'
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    strength: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 17
+size: Huge
+skills:
+    perception: proficient
+speed:
+- 40 ft
+strength: '25'
+tags:
+- demon
+traits:
+    Charge: If the goristro moves at least 15 feet straight toward a target and then
+        hits it with a gore attack on the same turn, the target takes an extra 38
+        (7d10) piercing damage. If the target is a creature, it must succeed on a
+        DC 21+1d12 + 15 Strength saving throw or be pushed up to 20 feet away and
+        knocked prone.
+    Labyrinthine Recall: The goristro can perfectly recall any path it has traveled.
+    Magic Resistance: The goristro has advantage on saving throws against spells and
+        other magical effects.
+    Siege Monster: The goristro deals double damage to objects and structures.
+type: fiend
+wisdom: '13'

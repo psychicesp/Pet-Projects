@@ -1,0 +1,49 @@
+AC: 18
+CR: 16 (15,000 XP)
+HP: 247 (15d20 + 90)
+actions:
+    Grinding Jaws: 'Melee Weapon Attack: +9+1d10 + 4 to hit, reach 10 ft., one target.
+        Hit: 22 (3d8 + 9) slashing damage.'
+    Multiattack: 'The worm makes two attacks: one with its grinding jaws and one with
+        its stinger.'
+    Tail Stinger: 'Melee Weapon Attack: +9+1d10 + 4 to hit, reach 10 ft., one creature.
+        Hit: 19 (3d6 + 9) piercing damage, and the target must make a DC 19+1d10 +
+        14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save,
+        or half as much damage on a successful one.'
+alignment: U
+book: 'Waterdeep: Dungeon of the Mad Mage'
+charisma: '4'
+condition_immunities:
+- blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned,
+    prone
+constitution: '22'
+damage_immunities:
+- fire, poison, psychic
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+dexterity: '7'
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Bore Worm
+page: 171
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- blindsight 30 ft.
+- tremorsense 60 ft.
+- passive Perception 9
+size: Gargantuan
+skills: {}
+speed:
+- 50 ft
+- burrow 30 ft
+strength: '28'
+tags: []
+traits:
+    Regeneration: The worm regains 10 hit points at the start of each of its turns
+        if it has at least 1 hit point.
+    Tunneler: The worm can burrow through solid rock at half its burrow speed and
+        leaves a 10-foot-diameter tunnel in its wake.
+type: construct
+wisdom: '8'

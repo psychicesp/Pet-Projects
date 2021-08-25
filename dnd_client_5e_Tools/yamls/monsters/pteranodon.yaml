@@ -1,0 +1,34 @@
+AC: 13
+CR: 1/4 (50 XP)
+HP: 13 (3d8)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 6
+        (2d4 + 1) piercing damage'
+alignment: U
+book: Monster Manual
+charisma: '5'
+constitution: '10'
+dexterity: '15'
+hit: 3d8
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Pteranodon
+page: 80
+perception: '+1'
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 10 ft
+- fly 60 ft
+strength: '12'
+tags: []
+traits:
+    Flyby: The pteranodon doesn't provoke opportunity attacks when it flies out of
+        an enemy's reach.
+type: beast
+wisdom: '9'

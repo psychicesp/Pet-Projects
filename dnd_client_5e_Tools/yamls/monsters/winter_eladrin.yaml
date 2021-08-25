@@ -1,0 +1,59 @@
+AC: 19
+CR: 10 (5,900 XP)
+HP: 127 (17d8 + 51)
+actions:
+    Longbow: 'Ranged Weapon Attack: +4+1d8 + 0 to hit, range 150/600 ft., one target.
+        Hit: 4 (1d8) piercing damage.'
+    Longsword: 'Melee Weapon Attack: +4+1d8 + 0 to hit, reach 5 ft., one target. Hit:
+        4 (1d8) slashing damage, or 5 (1d10) slashing damage if used with two hands.'
+alignment: CN
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '13'
+constitution: '16'
+dexterity: '10'
+intelligence: '18'
+languages:
+- Common
+- Elvish
+- Sylvan
+name: Winter Eladrin
+page: 197
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '11'
+tags:
+- elf
+traits:
+    Fey Step (Recharge 4xe2x80x936): As a bonus action, the eladrin can teleport up
+        to 30 feet to an unoccupied space it can see.
+    Magic Resistance: The eladrin has advantage on saving throws against spells and
+        other magical effects.
+    Sorrowful Presence: Any non-eladrin creature that starts its turn within 60 feet
+        of the eladrin must make a DC 13+1d8 + 9 Wisdom saving throw. On a failed
+        save, the creature is charmed for 1 minute. While charmed in this way, the
+        creature has disadvantage on ability checks and saving throws. The charmed
+        creature can repeat the saving throw at the end of each of its turns, ending
+        the effect on itself on a success. If a creature's saving throw is successful
+        or the effect ends for it, the creature is immune to any eladrin's Sorrowful
+        Presence for the next 24 hours.
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - cone of cold
+            - ice storm
+            at will:
+            - fog cloud
+            - gust of wind
+        type: innate
+type: fey
+wisdom: '17'

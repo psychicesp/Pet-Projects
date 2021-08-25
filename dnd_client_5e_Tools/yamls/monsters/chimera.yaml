@@ -1,0 +1,42 @@
+AC: 14
+CR: 6 (2,300 XP)
+HP: 114 (12d10 + 48)
+actions:
+    Bite: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit: 11
+        (2d6 + 4) piercing damage.'
+    Claws: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        11 (2d6 + 4) slashing damage.'
+    Fire Breath (Recharge 5xe2x80x936): The dragon head exhales fire in a 15-foot
+        cone. Each creature in that area must make a DC 15+1d6 + 12 Dexterity saving
+        throw, taking 31 (7d8) fire damage on a failed save, or half as much damage
+        on a successful one.
+    Horns: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        10 (1d12 + 4) bludgeoning damage.'
+    Multiattack: 'The chimera makes three attacks: one with its bite, one with its
+        horns, and one with its claws. When its fire breath is available, it can use
+        the breath in place of its bite or horns.'
+alignment: CE
+book: Monster Manual
+charisma: '10'
+constitution: '19'
+dexterity: '11'
+intelligence: '3'
+languages:
+- understands Draconic but can\'t speak
+name: Chimera
+page: 39
+perception: '+8'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 18
+size: Large
+skills:
+    perception: expert
+speed:
+- 30 ft
+- fly 60 ft
+strength: '19'
+tags: []
+type: monstrosity
+wisdom: '14'

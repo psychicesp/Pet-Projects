@@ -1,0 +1,40 @@
+AC: 17
+CR: 1 (200 XP)
+HP: 21 (6d6)
+actions:
+    Javelin: 'Melee or Ranged Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft. or range
+        30/120 ft., one target. Hit: 3 (1d6) piercing damage.'
+    Multiattack: The goblin makes two attacks with its scimitar. The second attack
+        has disadvantage.
+    Scimitar: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        5 (1d6 + 2) slashing damage.'
+alignment: NE
+book: Monster Manual
+charisma: '10'
+constitution: '10'
+dexterity: '14'
+hit: 6d6
+intelligence: '10'
+languages:
+- Common
+- Goblin
+name: Goblin Boss
+page: 166
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 9
+size: Small
+skills:
+    stealth: expert
+speed:
+- 30 ft
+stealth: '+6'
+strength: '10'
+tags:
+- goblinoid
+traits:
+    Nimble Escape: The goblin can take the Disengage or Hide action as a bonus action
+        on each of its turns.
+type: humanoid
+wisdom: '8'

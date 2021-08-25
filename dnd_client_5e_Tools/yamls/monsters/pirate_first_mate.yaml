@@ -1,0 +1,40 @@
+AC: 16
+CR: 1 (200 XP)
+HP: 26 (4d8 + 8)
+actions:
+    Longsword: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with
+        two hands. If the target is a creature, the first mate can choose to deal
+        no damage with the attack to disarm the target. The target must succeed on
+        a DC 14+1d4 + 12 Strength saving throw or drop one item it is holding on the
+        ground.'
+    Multiattack: The first mate makes two attacks with its longsword.
+alignment: AA
+athletics: '+4'
+book: Ghosts of Saltmarsh
+charisma: '13'
+constitution: '14'
+dexterity: '11'
+intelligence: '11'
+intimidation: '+3'
+languages:
+- any one language (usually Common)
+name: Pirate First Mate
+page: 248
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    athletics: proficient
+    intimidation: proficient
+speed:
+- 30 ft
+strength: '14'
+tags:
+- any
+traits:
+    Sea Legs: The first mate has advantage on ability checks and saving throws to
+        resist being knocked prone.
+type: humanoid
+wisdom: '10'

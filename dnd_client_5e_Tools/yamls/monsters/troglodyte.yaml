@@ -1,0 +1,45 @@
+AC: 11
+CR: 1/4 (50 XP)
+HP: 13 (2d8 + 4)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4
+        (1d4 + 2) piercing damage.'
+    Claw: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4
+        (1d4 + 2) slashing damage.'
+    Multiattack: 'The troglodyte makes three attacks: one with its bite and two with
+        its claws.'
+alignment: CE
+book: Monster Manual
+charisma: '6'
+constitution: '14'
+dexterity: '10'
+intelligence: '6'
+languages:
+- Troglodyte
+name: Troglodyte
+page: 290
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills:
+    stealth: proficient
+speed:
+- 30 ft
+stealth: '+2'
+strength: '14'
+tags:
+- troglodyte
+traits:
+    Chameleon Skin: The troglodyte has advantage on Dexterity (Stealth) checks made
+        to hide.
+    Stench: Any creature other than a troglodyte that starts its turn within 5 feet
+        of the troglodyte must succeed on a DC 12+1d4 + 10 Constitution saving throw
+        or be poisoned until the start of the creature's next turn. On a successful
+        saving throw, the creature is immune to the stench of all troglodytes for
+        1 hour.
+    Sunlight Sensitivity: While in sunlight, the troglodyte has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: humanoid
+wisdom: '10'

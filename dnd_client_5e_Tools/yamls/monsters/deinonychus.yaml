@@ -1,0 +1,38 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 26 (4d8 + 8)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6
+        (1d8 + 2) piercing damage.'
+    Claw: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6
+        (1d8 + 2) slashing damage.'
+    Multiattack: 'The deinonychus makes three attacks: one with its bite and two with
+        its claws.'
+alignment: U
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '6'
+constitution: '14'
+dexterity: '15'
+intelligence: '4'
+languages:
+- \xe2\x80\x94
+name: Deinonychus
+page: 139
+perception: '+3'
+saving_throws: {}
+senses:
+- passive Perception 13
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 40 ft
+strength: '15'
+tags: []
+traits:
+    Pounce: If the deinonychus moves at least 20 feet straight toward a creature and
+        then hits it with a claw attack on the same turn, that target must succeed
+        on a DC 12+1d4 + 10 Strength saving throw or be knocked prone. If the target
+        is prone, the deinonychus can make one bite attack against it as a bonus action.
+type: beast
+wisdom: '12'

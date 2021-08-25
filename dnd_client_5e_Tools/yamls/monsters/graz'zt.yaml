@@ -1,0 +1,97 @@
+AC: 20
+CR: 24 (62,000 XP)
+HP: 346 (33d10 + 165)
+actions:
+    Multiattack: Graz'zt attacks twice with Wave of Sorrow.
+    Teleport: Graz'zt magically teleports, along with any equipment he is wearing
+        or carrying, up to 120 feet to an unoccupied space he can see.
+    Wave of Sorrow (Greatsword): 'Melee Weapon Attack: +13+1d14 + 6 to hit, reach
+        10 ft., one target. Hit: 20 (4d6 + 6) slashing damage plus 10 (3d6) acid damage.'
+alignment: S
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '26'
+condition_immunities:
+- charmed, exhaustion, frightened, poisoned
+constitution: '21'
+damage_immunities:
+- poison
+- bludgeoning, piercing, and slashing from nonmagical attacks
+deception: '+15'
+dexterity: '15'
+in_lair:
+    CR_increase: 1
+    actions:
+    - Graz'zt casts the command spell on every creature of his choice in the lair.
+        He needn't see each one, but he must be aware that an individual is in the
+        lair to target that creature. He issues the same command to all the targets.
+    - Smooth surfaces within the lair become as reflective as a polished mirror. Until
+        a different lair action is used, creatures within the lair have disadvantage
+        on Dexterity (Stealth) checks made to hide.
+insight: '+12'
+intelligence: '23'
+languages:
+- all
+- telepathy 120 ft.
+legendary_actions:
+    number: 3
+    options:
+        Attack: ' Graz''zt attacks once with Wave of Sorrow.'
+        Dance, My Puppet: ' One creature charmed by Graz''zt that Graz''zt can see
+            must use its reaction to move up to its speed as Graz''zt directs.'
+        Sow Discord: ' Graz''zt casts crown of madness or dissonant whispers.'
+        Teleport: ' Graz''zt uses his Teleport action.'
+name: Graz\'zt
+page: 149
+perception: '+12'
+persuasion: '+15'
+resistances:
+- cold, fire, lightning
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 22
+size: Large
+skills:
+    deception: proficient
+    insight: proficient
+    perception: proficient
+    persuasion: proficient
+speed:
+- 40 ft
+strength: '22'
+tags:
+- demon
+traits:
+    Legendary Resistance (3/Day): If Graz'zt fails a saving throw, he can choose to
+        succeed instead.
+    Magic Resistance: Graz'zt has advantage on saving throws against spells and other
+        magical effects.
+    Magic Weapons: Graz'zt's weapon attacks are magical.
+    Shapechanger: Graz'zt can use his action to polymorph into a form that resembles
+        a Medium humanoid, or back into his true form. Aside from his size, his statistics
+        are the same in each form. Any equipment he is wearing or carrying isn't transformed.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - dominate monster
+            - greater invisibility
+            3/day:
+            - counterspell
+            - darkness
+            - dominate person
+            - sanctuary
+            - telekinesis
+            - teleport
+            at will:
+            - charm person
+            - crown of madness
+            - detect magic
+            - dispel magic
+            - dissonant whispers
+        type: innate
+type: fiend
+wisdom: '21'

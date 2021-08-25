@@ -1,0 +1,14 @@
+{
+    "name": "Gift of Alacrity",
+    "level": 1,
+    "ritual": false,
+    "school": "divination",
+    "casting time": "1 minute",
+    "range": "Touch",
+    "components": "V, S",
+    "duration": "8 hours",
+    "concentration": false,
+    "description": "You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.",
+    "source": "EGW",
+    "page": 186
+}

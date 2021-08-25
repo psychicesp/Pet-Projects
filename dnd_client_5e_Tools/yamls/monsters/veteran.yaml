@@ -1,0 +1,39 @@
+AC: 17
+CR: 3 (700 XP)
+HP: 58 (9d8 + 18)
+actions:
+    Heavy Crossbow: 'Ranged Weapon Attack: +3+1d4 + 1 to hit, range 100/400 ft., one
+        target. Hit: 6 (1d10 + 1) piercing damage.'
+    Longsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with
+        two hands.'
+    Multiattack: The veteran makes two longsword attacks. If it has a shortsword drawn,
+        it can also make a shortsword attack.
+    Shortsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) piercing damage.'
+alignment: AA
+athletics: '+5'
+book: Monster Manual
+charisma: '10'
+constitution: '14'
+dexterity: '13'
+intelligence: '10'
+languages:
+- any one language (usually Common)
+name: Veteran
+page: 350
+perception: '+2'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '16'
+tags:
+- any
+type: humanoid
+wisdom: '11'

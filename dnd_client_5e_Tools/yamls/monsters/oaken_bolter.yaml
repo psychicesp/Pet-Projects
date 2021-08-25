@@ -1,0 +1,50 @@
+AC: 16
+CR: 5 (1,800 XP)
+HP: 58 (9d8 + 18)
+actions:
+    Explosive Bolt (Recharge 5xe2x80x936): The oaken bolter launches an explosive
+        charge at a point within 120 feet. Each creature within 20 feet of that point
+        must make a DC 15+1d6 + 12 Dexterity saving throw, taking 17 (5d6) fire damage
+        on a failed save, or half as much damage on a successful one.
+    Harpoon: 'Ranged Weapon Attack: +7+1d6 + 4 to hit, range 50/200 ft., one target.
+        Hit: 9 (1d10 + 4) piercing damage, and the target is grappled (escape DC 12+1d6
+        + 9). While grappled in this way, a creature''s speed isn''t reduced, but
+        it can move only in directions that bring it closer to the oaken bolter. A
+        creature takes 5 (1d10) slashing damage if it escapes from the grapple or
+        if it tries and fails. As a bonus action, the oaken bolter can pull a creature
+        grappled by it 20 feet closer. The oaken bolter can grapple only one creature
+        at a time.'
+    Lancing Bolt: 'Melee or Ranged Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft. or
+        range 100/400 ft., one target. Hit: 15 (2d10 + 4) piercing damage.'
+    Multiattack: The oaken bolter makes two lancing bolt attacks or one lancing bolt
+        attack and one harpoon attack.
+alignment: U
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '1'
+condition_immunities:
+- charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: '15'
+damage_immunities:
+- poison
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+dexterity: '18'
+intelligence: '3'
+languages:
+- understands one language of its creator but can\'t speak
+name: Oaken Bolter
+page: 126
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '12'
+tags: []
+traits:
+    Magic Resistance: The oaken bolter has advantage on saving throws against spells
+        and other magical effects.
+type: construct
+wisdom: '10'

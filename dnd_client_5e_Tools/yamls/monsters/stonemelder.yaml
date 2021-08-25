@@ -1,0 +1,60 @@
+AC: 17
+CR: 4 (1,100 XP)
+HP: 75 (10d8 + 30)
+actions:
+    Black Earth Rod: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) bludgeoning damage. The Stonemelder can also expend a spell
+        slot to deal extra damage, dealing 2d8 bludgeoning damage for a 1st level
+        slot, plus an additional 1d8 for each level of the slot above 1st.'
+alignment: NE
+book: Princes of the Apocalypse
+charisma: '17'
+constitution: '16'
+dexterity: '10'
+intelligence: '12'
+intimidation: '+5'
+languages:
+- Common
+- Terran
+name: Stonemelder
+page: 197
+perception: '+2'
+saving_throws: {}
+senses:
+- tremorsense 30 ft.
+- passive Perception 12
+size: Medium
+skills:
+    intimidation: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '15'
+tags:
+- human
+traits:
+    Death Burst: When the Stonemelder dies, it turns to stone and explodes in a burst
+        of rock shards, becoming a smoking pile of rubble. Each creature within 10
+        feet of the exploding Stonemelder must make a DC 14+1d4 + 12 Dexterity saving
+        throw, taking 11 (2d10) bludgeoning damage on a failed save, or half as much
+        damage on a successful one.
+    spellcasting:
+        ability: charisma
+        level: 7
+        spells:
+        - acid splash
+        - blade ward
+        - light
+        - mending
+        - mold earth
+        - expeditious retreat
+        - false life
+        - shield
+        - Maximilian's earthen grasp
+        - shatter
+        - erupting earth
+        - meld into stone
+        - stoneskin
+        type: sorcerer
+type: humanoid
+wisdom: '11'

@@ -1,0 +1,38 @@
+AC: 16
+CR: 1/2 (100 XP)
+HP: 22 (4d8 + 4)
+actions:
+    Multiattack: The firenewt makes two attacks with its scimitar.
+    Scimitar: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit:
+        4 (1d6 + 1) slashing damage.'
+    Spit Fire (Recharges after a Short or Long Rest): The firenewt spits fire at a
+        creature within 10 feet of it. The creature must make a DC 11+1d4 + 9 Dexterity
+        saving throw, taking 9 (2d8) fire damage on a failed save, or half as much
+        damage on a successful one
+alignment: NE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '8'
+constitution: '12'
+damage_immunities:
+- fire
+dexterity: '13'
+intelligence: '7'
+languages:
+- Draconic
+- Ignan
+name: Firenewt Warrior
+page: 142
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '10'
+tags:
+- firenewt
+traits:
+    Amphibious: The firenewt can breathe air and water.
+type: humanoid
+wisdom: '11'

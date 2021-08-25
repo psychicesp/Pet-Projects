@@ -1,0 +1,62 @@
+AC: 18
+CR: 13 (10,000 XP) or 14 (11,500 XP) whe ecoutered i lair
+HP: 180 (19d10 + 76)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d10 + 0 to hit, reach 5 ft., one target. Hit:
+        14 (4d6) piercing damage.'
+    Eye Rays: 'The beholder shoots three of the following magical eye rays at random
+        (reroll duplicates), choosing one to three targets it can see within 120 feet
+        of it:'
+alignment: LE
+book: Monster Manual
+charisma: '17'
+condition_immunities:
+- prone
+constitution: '18'
+dexterity: '14'
+in_lair:
+    CR_increase: 1
+    actions:
+    - A 50-foot-square area of ground within 120 feet of the beholder becomes slimy;
+        that area is difficult terrain until initiative count 20 on the next round.
+    - Walls within 120 feet of the beholder sprout grasping appendages until initiative
+        count 20 on the round after next. Each creature of the beholder's choice that
+        starts its turn within 10 feet of such a wall must succeed on a DC 15+1d10
+        + 10 Dexterity saving throw or be grappled. Escaping requires a successful
+        DC 15+1d10 + 10 Strength (Athletics) or Dexterity (Acrobatics) check.
+    - An eye opens on a solid surface within 60 feet of the beholder. One random eye
+        ray of the beholder shoots from that eye at a target of the beholder's choice
+        that it can see. The eye then closes and disappears.
+intelligence: '17'
+languages:
+- Deep Speech
+- Undercommon
+legendary_actions:
+    number: 3
+    options:
+        Eye Ray: ' The beholder uses one random eye ray.'
+name: Beholder
+page: 28
+perception: '+12'
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 22
+size: Large
+skills:
+    perception: expert
+speed:
+- 0 ft
+- fly 20 ft. (hover)
+strength: '10'
+tags: []
+traits:
+    Antimagic Cone: The beholder's central eye creates an area of antimagic, as in
+        the antimagic field spell, in a 150-foot cone. At the start of each of its
+        turns, the beholder decides which way the cone faces and whether the cone
+        is active. The area works against the beholder's own eye rays.
+type: aberration
+wisdom: '15'

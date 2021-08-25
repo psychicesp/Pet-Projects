@@ -1,0 +1,37 @@
+AC: 12
+CR: 1/8 (25 XP)
+HP: 7 (2d6)
+actions:
+    Beak: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 4
+        (1d4 + 2) piercing damage.'
+alignment: U
+book: Monster Manual
+charisma: '5'
+constitution: '10'
+dexterity: '14'
+hit: 2d6
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Blood Hawk
+page: 319
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Small
+skills:
+    perception: proficient
+speed:
+- 10 ft
+- fly 60 ft
+strength: '6'
+tags: []
+traits:
+    Keen Sight: The hawk has advantage on Wisdom (Perception) checks that rely on
+        sight.
+    Pack Tactics: The hawk has advantage on an attack roll against a creature if at
+        least one of the hawk's allies is within 5 feet of the creature and the ally
+        isn't incapacitated.
+type: beast
+wisdom: '14'

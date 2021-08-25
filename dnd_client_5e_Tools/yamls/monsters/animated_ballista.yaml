@@ -1,0 +1,32 @@
+AC: 15
+CR: 2 (450 XP)
+HP: '50'
+actions:
+    Magic Bolt: 'Ranged Weapon Attack: +6+1d4 + 4 to hit, range 120 ft., one target.
+        Hit: 16 (3d10) fire damage'
+alignment: U
+book: 'Waterdeep: Dungeon of the Mad Mage'
+charisma: 1 (-5)
+condition_immunities:
+- blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
+constitution: 10 (+0)
+damage_immunities:
+- poison
+dexterity: 10 (+0)
+intelligence: 3 (-4)
+languages:
+- "\u2014"
+name: Animated Ballista
+page: 39
+saving_throws: {}
+senses:
+- blindsight 120 ft. (blind beyond this radius)
+- passive Perception 6
+size: Large
+skills: {}
+speed:
+- 30 ft
+strength: 14 (+2)
+tags: []
+type: construct
+wisdom: 3 (-4)

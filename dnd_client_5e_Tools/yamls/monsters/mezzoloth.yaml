@@ -1,0 +1,61 @@
+AC: 18
+CR: 5 (1,800 XP)
+HP: 75 (10d8 + 30)
+actions:
+    Claws: 'Melee Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft., one target. Hit:
+        9 (2d4 + 4) slashing damage.'
+    Multiattack: 'The mezzoloth makes two attacks: one with its claws and one with
+        its trident.'
+    Teleport: The mezzoloth magically teleports, along with any equipment it is wearing
+        or carrying, up to 60 feet to an unoccupied space it can see.
+    Trident: 'Melee or Ranged Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing
+        damage when held with two claws and used to make a melee attack.'
+alignment: NE
+book: Monster Manual
+charisma: '11'
+condition_immunities:
+- poisoned
+constitution: '16'
+damage_immunities:
+- acid, poison
+dexterity: '11'
+intelligence: '7'
+languages:
+- Abyssal
+- Infernal
+- telepathy 60 ft.
+name: Mezzoloth
+page: 313
+perception: '+3'
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws: {}
+senses:
+- blindsight 60 ft.
+- darkvision 60 ft.
+- passive Perception 13
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 40 ft
+strength: '18'
+tags:
+- yugoloth
+traits:
+    Magic Resistance: The mezzoloth has advantage on saving throws against spells
+        and other magical effects.
+    Magic Weapons: The mezzoloth's weapon attacks are magical.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - cloudkill
+            2/day:
+            - darkness
+            - dispel magic
+        type: innate
+type: fiend
+wisdom: '10'

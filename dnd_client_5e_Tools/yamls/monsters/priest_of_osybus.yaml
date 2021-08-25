@@ -1,0 +1,47 @@
+AC: 14
+CR: 6 (2,300 XP)
+HP: 60 (8d8 + 24)
+actions:
+    Multiattack: The priest attacks twice.
+    Necrotic Bolt: 'Ranged Spell Attack: +7+1d6 + 4 to hit, range 120 ft., one target.
+        Hit: 17 (3d8 + 4) necrotic damage, and the target can''t regain hit points
+        until the start of the priest''s next turn.'
+    Soul Blade: 'Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target.
+        Hit: 7 (2d4 + 2) piercing damage, and if the target is a creature, it is paralyzed
+        until the start of the priest''s next turn. If this damage reduces a Medium
+        or smaller creature to 0 hit points, the creature dies, and its soul is trapped
+        in the priest''s body, manifesting as a shadowy Soul Tattoo on the priest.
+        The soul is freed if the priest dies.'
+alignment: U
+book: Van Richten\xe2\x80\x99s Guide to Ravenloft
+charisma: '11'
+condition_immunities:
+- frightened
+constitution: '16'
+dexterity: '14'
+intelligence: '18'
+languages:
+- any three languages
+name: Priest of Osybus
+page: 241
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 13
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '10'
+tags: []
+traits:
+    Tattoo of Osybus: If the priest drops to 0 hit points, roll on the Boons of Undeath
+        table for the boon the priest receives. The priest dies if it receives a boon
+        it already has. If it receives a new boon, it revives at the start of its
+        next turn with half its hit points restored, and its creature type is now
+        Undead.
+type: humanoid
+wisdom: '17'

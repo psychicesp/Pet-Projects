@@ -1,0 +1,58 @@
+AC: 17
+CR: 2 (450 XP)
+HP: 33 (6d8 + 6)
+actions:
+    Claws: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        4 (1d4 + 2) slashing damage.'
+    Quarterstaff: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target.
+        Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if
+        used with two hands.'
+    Shell Defense: The tortle withdraws into its shell. Until it emerges, it gains
+        a +4 bonus to AC and has advantage on Strength and Constitution saving throws.
+        While in its shell, the tortle is prone, its speed is 0 and can't increase,
+        it has disadvantage on Dexterity saving throws, it can't take reactions, and
+        the only action it can take is a bonus action to emerge.
+alignment: LN
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '12'
+constitution: '12'
+dexterity: '10'
+intelligence: '11'
+languages:
+- Aquan
+- Common
+name: Tortle Druid
+nature: '+2'
+page: 242
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    animal handling: proficient
+    nature: proficient
+    survival: proficient
+speed:
+- 30 ft
+strength: '14'
+survival: '+4'
+tags:
+- tortle
+traits:
+    Hold Breath: The tortle can hold its breath for 1 hour.
+    spellcasting:
+        ability: wisdom
+        level: 4
+        spells:
+        - druidcraft
+        - guidance
+        - produce flame
+        - animal friendship
+        - cure wounds
+        - speak with animals
+        - thunderwave
+        - darkvision
+        - hold person
+        type: druid
+type: humanoid
+wisdom: '15'

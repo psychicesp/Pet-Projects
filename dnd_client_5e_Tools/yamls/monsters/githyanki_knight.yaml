@@ -1,0 +1,50 @@
+AC: 18
+CR: 8 (3,900 XP)
+HP: 91 (14d8 + 28)
+actions:
+    Multiattack: The githyanki makes two silver greatsword attacks.
+    Silver Greatsword: 'Melee Weapon Attack: +9+1d6 + 6 to hit, reach 5 ft., one target.
+        Hit: 13 (2d6 + 6) slashing damage plus 10 (3d6) psychic damage. This is a
+        magic weapon attack. On a critical hit against a target in an astral body
+        (as with the astral projection spell), the githyanki can cut the silvery cord
+        that tethers the target to its material body, instead of dealing damage.'
+alignment: LE
+book: Monster Manual
+charisma: '15'
+constitution: '15'
+dexterity: '14'
+intelligence: '14'
+languages:
+- Gith
+name: Githyanki Knight
+page: 160
+saving_throws:
+    constitution: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- passive Perception 12
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '16'
+tags:
+- gith
+traits:
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - plane shift
+            - telekinesis
+            3/day:
+            - jump
+            - misty step
+            - nondetection
+            - tongues
+            at will:
+            - mage hand
+        type: innate
+type: humanoid
+wisdom: '14'

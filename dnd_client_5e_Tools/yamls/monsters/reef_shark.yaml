@@ -1,0 +1,36 @@
+AC: 12
+CR: 1/2 (100 XP)
+HP: 22 (4d8 + 4)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 6
+        (1d8 + 2) piercing damage.'
+alignment: U
+book: Monster Manual
+charisma: '4'
+constitution: '13'
+dexterity: '13'
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Reef Shark
+page: 336
+perception: '+2'
+saving_throws: {}
+senses:
+- blindsight 30 ft.
+- passive Perception 12
+size: Medium
+skills:
+    perception: proficient
+speed:
+- 0 ft
+- swim 40 ft
+strength: '14'
+tags: []
+traits:
+    Pack Tactics: The shark has advantage on an attack roll against a creature if
+        at least one of the shark's allies is within 5 feet of the creature and the
+        ally isn't incapacitated.
+    Water Breathing: The shark can breathe only underwater.
+type: beast
+wisdom: '10'

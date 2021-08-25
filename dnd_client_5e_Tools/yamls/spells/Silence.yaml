@@ -1,0 +1,20 @@
+casting time: 1 action
+classes:
+- Bard
+- Cleric
+- Ranger
+components: V, S
+concentration: true
+description: For the duration, no sound can be created within or pass through a 20-foot-radius
+    sphere centered on a point you choose within range. Any creature or object entirely
+    inside the sphere is immune to thunder damage, and creatures are deafened while
+    entirely inside it. Casting a spell that includes a verbal component is impossible
+    there.
+duration: Concentration, up to 10 minutes
+level: 2
+name: Silence
+page: 275
+range: 120 feet
+ritual: true
+school: illusion
+source: PHB

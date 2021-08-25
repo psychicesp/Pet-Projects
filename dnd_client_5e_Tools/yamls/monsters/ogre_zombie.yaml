@@ -1,0 +1,38 @@
+AC: 8
+CR: 2 (450 XP)
+HP: 85 (9d10 + 36)
+actions:
+    Morningstar: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target.
+        Hit: 13 (2d8 + 4) bludgeoning damage.'
+alignment: NE
+book: Monster Manual
+charisma: '5'
+condition_immunities:
+- poisoned
+constitution: '18'
+damage_immunities:
+- poison
+dexterity: '6'
+intelligence: '3'
+languages:
+- understands Common and Giant but can\'t speak
+name: Ogre Zombie
+page: 316
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Large
+skills: {}
+speed:
+- 30 ft
+strength: '19'
+tags: []
+traits:
+    Undead Fortitude: If damage reduces the zombie to 0 hit points, it must make a
+        Constitution saving throw with a DC of 5 + the damage taken, unless the damage
+        is radiant or from a critical hit. On a success, the zombie drops to 1 hit
+        point instead.
+type: undead
+wisdom: '6'

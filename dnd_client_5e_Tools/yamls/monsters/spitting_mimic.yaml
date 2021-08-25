@@ -1,0 +1,58 @@
+AC: 14
+CR: 5 (1,800 XP)
+HP: 85 (10d10 + 30)
+actions:
+    Bite: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one creature. Hit:
+        10 (1d10 + 5) piercing damage plus 7 (2d6) acid damage.'
+    Multiattack: 'The mimic attacks three times: twice with its pseudopods and once
+        with its bite.'
+    Pseudopods: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 10 ft., one target.
+        Hit: 10 (1d10 + 5) bludgeoning damage. If the mimic is in object form, the
+        target is subjected to its Adhesive trait.'
+    Spit Acid (Recharge 5xe2x80x936): The mimic spits acid at one creature it can
+        see within 30 feet of it. The target must make a DC 14+1d6 + 11 Dexterity
+        saving throw, taking 32 (9d6 + 1) acid damage on failed save, or half as much
+        damage on a successful one.
+alignment: N
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '10'
+condition_immunities:
+- prone
+constitution: '17'
+damage_immunities:
+- acid
+dexterity: '12'
+intelligence: '9'
+languages:
+- \xe2\x80\x94
+name: Spitting Mimic
+page: 302
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 12
+size: Large
+skills:
+    stealth: expert
+speed:
+- 20 ft
+stealth: '+7'
+strength: '21'
+tags:
+- shapechanger
+traits:
+    Adhesive (Object Form Only): The mimic adheres to anything that touches it. A
+        Huge or smaller creature adhered to the mimic is also grappled by it (escape
+        DC 16+1d6 + 13). Ability checks made to escape this grapple have disadvantage.
+    False Appearance (Object Form Only): While the mimic remains motionless, it is
+        indistinguishable from an ordinary object.
+    Grappler: The mimic has advantage on attack rolls against any creature grappled
+        by it.
+    Magic Resistance: The mimic has advantage on saving throws against spells and
+        other magical effects.
+    Shapechanger: The mimic can use its action to polymorph into an object or back
+        into its true, amorphous form. Its statistics are the same in each form. Any
+        equipment it is wearing or carrying isn't transformed. It reverts to its true
+        form if it dies.
+type: monstrosity
+wisdom: '15'

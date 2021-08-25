@@ -1,0 +1,33 @@
+AC: 11
+CR: 2 (450 XP)
+HP: 38 (4d10 + 16)
+actions:
+    Gore: 'Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit: 14
+        (2d8 + 5) piercing damage.'
+alignment: U
+book: "Volo\u2019s Guide to Monsters"
+charisma: 5 (-3)
+constitution: 19 (+4)
+dexterity: 10 (+0)
+hit points: 4d10 + 16
+intelligence: 2 (-4)
+languages:
+- "\u2014"
+name: Aurochs
+page: 207
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Large
+skills: {}
+speed:
+- 50 ft
+strength: 20 (+5)
+tags: []
+traits:
+    Charge: If the aurochs moves at least 20 feet straight toward a target and then
+        hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)
+        piercing damage. If the target is a creature, it must succeed on a DC 15+1d4
+        + 13 Strength saving throw or be knocked prone.
+type: beast
+wisdom: 12 (+1)

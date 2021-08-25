@@ -1,0 +1,43 @@
+AC: 17
+CR: 13 (10,000 XP)
+HP: 252 (24d10 + 120)
+actions:
+    Crystal Dart: 'Ranged Weapon Attack: +10+1d10 + 5 to hit, range 120 ft., one target.
+        Hit: 14 (2d8 + 5) force damage.'
+    Multiattack: The golem makes two attacks.
+    Slam: 'Melee Weapon Attack: +10+1d10 + 5 to hit, reach 5 ft., one target. Hit:
+        27 (4d10 + 5) force damage.'
+alignment: U
+book: Candlekeep Mysteries
+charisma: '1'
+condition_immunities:
+- blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: '20'
+damage_immunities:
+- poison
+dexterity: '10'
+intelligence: '7'
+languages:
+- \xe2\x80\x94
+name: Canopic Golem
+page: 179
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Large
+skills: {}
+speed:
+- 30 ft
+strength: '20'
+tags: []
+traits:
+    Limited Spell Immunity: The golem automatically succeeds on saving throws against
+        spells of 7th level or lower, and the attack rolls of such spells always miss
+        it.
+    Unusual Nature: The golem doesn't require air, food, drink, or sleep.
+type: construct
+wisdom: '11'

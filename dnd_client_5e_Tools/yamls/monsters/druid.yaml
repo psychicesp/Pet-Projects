@@ -1,0 +1,51 @@
+AC: 11
+CR: 2 (450 XP)
+HP: 27 (5d8 + 5)
+actions:
+    Quarterstaff: 'Melee Weapon Attack: +2+1d4 + 0 to hit (+4+1d4 + 2 to hit with
+        shillelagh), reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage, 4 (1d8)
+        bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage
+        with shillelagh.'
+alignment: AA
+book: Monster Manual
+charisma: '11'
+constitution: '13'
+dexterity: '12'
+intelligence: '12'
+languages:
+- Druidic plus any two languages
+medicine: '+4'
+name: Druid
+nature: '+3'
+page: 346
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Medium
+skills:
+    medicine: proficient
+    nature: proficient
+    perception: proficient
+speed:
+- 30 ft
+strength: '10'
+tags:
+- any
+traits:
+    spellcasting:
+        ability: wisdom
+        level: 4
+        spells:
+        - druidcraft
+        - produce flame
+        - shillelagh
+        - entangle
+        - longstrider
+        - speak with animals
+        - thunderwave
+        - animal messenger
+        - barkskin
+        type: druid
+type: humanoid
+wisdom: '15'

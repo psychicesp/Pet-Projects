@@ -1,0 +1,40 @@
+AC: 12
+CR: 4 (1,100 XP)
+HP: 85 (10d10 + 30)
+actions:
+    Battleaxe: 'Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target. Hit:
+        14 (2d8 + 5) slashing damage.'
+    Morningstar: 'Melee Weapon Attack: +7+1d4 + 5 to hit, reach 5 ft., one target.
+        Hit: 14 (2d8 + 5) piercing damage.'
+    Multiattack: 'The ettin makes two attacks: one with its battleaxe and one with
+        its morningstar.'
+alignment: CE
+book: Monster Manual
+charisma: '8'
+constitution: '17'
+dexterity: '8'
+intelligence: '6'
+languages:
+- Giant
+- Orc
+name: Ettin
+page: 132
+perception: '+4'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 14
+size: Large
+skills:
+    perception: expert
+speed:
+- 40 ft
+strength: '21'
+tags: []
+traits:
+    Two Heads: The ettin has advantage on Wisdom (Perception) checks and on saving
+        throws against being blinded, charmed, deafened, frightened, stunned, and
+        knocked unconscious.
+    Wakeful: When one of the ettin's heads is asleep, its other head is awake.
+type: giant
+wisdom: '10'

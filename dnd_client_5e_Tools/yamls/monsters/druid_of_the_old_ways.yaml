@@ -1,0 +1,69 @@
+AC: 14
+CR: 7 (2,900 XP)
+HP: 90 (12d8 + 36)
+actions:
+    Quarterstaff: 'Melee Weapon Attack: +3+1d6 + 0 to hit, reach 5 ft., one target.
+        Hit: 3 (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with
+        two hands.'
+alignment: CN
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '14'
+constitution: '16'
+dexterity: '15'
+intelligence: '10'
+languages:
+- Common
+- Druidic
+name: Druid of the Old Ways
+nature: '+3'
+page: 239
+perception: '+8'
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- passive Perception 18
+size: Medium
+skills:
+    nature: proficient
+    perception: proficient
+    survival: proficient
+speed:
+- 30 ft
+strength: '11'
+survival: '+8'
+tags:
+- any
+traits:
+    Siege Monster: The druid deals double damage to objects and structures.
+    Speak with Beasts and Plants: The druid can communicate with beasts and plants
+        as if they shared a language.
+    spellcasting:
+        ability: wisdom
+        level: 12
+        spells:
+        - druidcraft
+        - produce flame
+        - resistance
+        - thorn whip
+        - cure wounds
+        - faerie fire
+        - thunderwave
+        - beast sense
+        - flame blade
+        - pass without trace
+        - conjure animals
+        - dispel magic
+        - plant growth
+        - dominate beast
+        - freedom of movement
+        - wall of fire
+        - commune with nature
+        - conjure elemental
+        - scrying
+        - transport via plants
+        - wall of thorns
+        type: druid
+type: humanoid
+wisdom: '20'

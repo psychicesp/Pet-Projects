@@ -1,0 +1,33 @@
+AC: 14
+CR: 6 (2,300 XP)
+HP: 138 (12d12 + 60)
+actions:
+    Greatclub: 'Melee Weapon Attack: +9+1d6 + 6 to hit, reach 10 ft., one target.
+        Hit: 19 (3d8 + 6) bludgeoning damage.'
+    Multiattack: The cyclops makes two greatclub attacks.
+    Rock: 'Ranged Weapon Attack: +9+1d6 + 6 to hit, range 30/120 ft., one target.
+        Hit: 28 (4d10 + 6) bludgeoning damage.'
+alignment: CN
+book: Monster Manual
+charisma: '10'
+constitution: '20'
+dexterity: '11'
+intelligence: '8'
+languages:
+- Giant
+name: Cyclops
+page: 45
+saving_throws: {}
+senses:
+- passive Perception 8
+size: Huge
+skills: {}
+speed:
+- 30 ft
+strength: '22'
+tags: []
+traits:
+    Poor Depth Perception: The cyclops has disadvantage on any attack roll against
+        a target more than 30 feet away.
+type: giant
+wisdom: '6'

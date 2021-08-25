@@ -1,0 +1,41 @@
+AC: 18
+CR: 5 (1,800 XP)
+HP: 93 (11d10 + 33)
+actions:
+    Claw: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit: 9
+        (1d8 + 5) slashing damage.'
+    Mandibles: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit:
+        14 (2d8 + 5) slashing damage.'
+    Multiattack: 'The umber hulk makes three attacks: two with its claws and one with
+        its mandibles.'
+alignment: CE
+book: Monster Manual
+charisma: '10'
+constitution: '16'
+dexterity: '13'
+intelligence: '9'
+languages:
+- Umber Hulk
+name: Umber Hulk
+page: 292
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- tremorsense 60 ft.
+- passive Perception 10
+size: Large
+skills: {}
+speed:
+- 30 ft
+- burrow 20 ft
+strength: '20'
+tags: []
+traits:
+    Confusing Gaze: When a creature starts its turn within 30 feet of the umber hulk
+        and is able to see the umber hulk's eyes, the umber hulk can magically force
+        it to make a DC 15+1d6 + 12 Charisma saving throw, unless the umber hulk is
+        incapacitated.
+    Tunneler: The umber hulk can burrow through solid rock at half its burrowing speed
+        and leaves a 5 foot-wide, 8-foot-high tunnel in its wake.
+type: monstrosity
+wisdom: '10'

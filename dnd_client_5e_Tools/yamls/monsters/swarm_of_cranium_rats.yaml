@@ -1,0 +1,56 @@
+AC: 12
+CR: 5 (1,800 XP)
+HP: 36 (8d8)
+actions:
+    Bites: 'Melee Weapon Attack: +5+1d6 + 2 to hit, reach 0 ft., one target in the
+        swarm''s space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage
+        if the swarm has half of its hit points or fewer.'
+alignment: LE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '14'
+condition_immunities:
+- charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+constitution: '10'
+dexterity: '14'
+hit: 8d8
+intelligence: '15'
+languages:
+- telepathy 30 ft.
+name: Swarm of Cranium Rats
+page: 133
+resistances:
+- bludgeoning, piercing, slashing
+saving_throws: {}
+senses:
+- darkvision 30 ft.
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '9'
+tags:
+- of
+traits:
+    Illumination: As a bonus action, the swarm can shed dim light from its brains
+        in a 5-foot radius, increase the illumination to bright light in a 5 to 20-foot
+        radius (and dim light for an additional number of feet equal to the chosen
+        radius), or extinguish the light.
+    Swarm: The swarm can occupy another creature's space and vice versa, and the swarm
+        can move through any opening large enough for a Tiny rat. The swarm can't
+        regain hit points or gain temporary hit points.
+    Telepathic Shroud: The swarm is immune to any effect that would sense its emotions
+        or read its thoughts. as well as to all divination spells.
+    spellcasting:
+        ability: intelligence
+        spells:
+            1/day:
+            - confusion
+            - dominate monster
+            at will:
+            - command
+            - comprehend languages
+            - detect thoughts
+        type: innate
+type: swarm
+wisdom: '11'

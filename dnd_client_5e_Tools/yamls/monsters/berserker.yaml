@@ -1,0 +1,32 @@
+AC: 13
+CR: 2 (450 XP)
+HP: 67 (9d8 + 27)
+actions:
+    Greataxe: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        9 (1d12 + 3) slashing damage.'
+alignment: ACA
+book: Monster Manual
+charisma: '9'
+constitution: '17'
+dexterity: '12'
+intelligence: '9'
+languages:
+- any one language (usually Common)
+name: Berserker
+page: 344
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills: {}
+speed:
+- 30 ft
+strength: '16'
+tags:
+- any
+traits:
+    Reckless: At the start of its turn, the berserker can gain advantage on all melee
+        weapon attack rolls during that turn, but attack rolls against it have advantage
+        until the start of its next turn.
+type: humanoid
+wisdom: '11'

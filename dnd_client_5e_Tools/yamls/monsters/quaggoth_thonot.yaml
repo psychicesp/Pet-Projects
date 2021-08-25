@@ -1,0 +1,53 @@
+AC: 13
+CR: 3 (700 XP)
+HP: 45 (6d8 + 18)
+actions:
+    Claw: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) slashing damage.'
+    Multiattack: The quaggoth makes two claw attacks.
+alignment: CN
+athletics: '+5'
+book: Monster Manual
+charisma: '7'
+condition_immunities:
+- poisoned
+constitution: '16'
+damage_immunities:
+- poison
+dexterity: '12'
+intelligence: '6'
+languages:
+- Undercommon
+name: Quaggoth Thonot
+page: 256
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Medium
+skills:
+    athletics: proficient
+speed:
+- 30 ft
+- climb 30 ft
+strength: '17'
+tags:
+- quaggoth
+traits:
+    Wounded Fury: While it has 10 hit points or fewer, the quaggoth has advantage
+        on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target
+        it hits with a melee attack.
+    spellcasting:
+        ability: wisdom
+        spells:
+            1/day:
+            - cure wounds
+            - enlarge/reduce
+            - heat metal
+            - mirror image
+            at will:
+            - feather fall
+            - mage hand
+        type: innate
+type: humanoid
+wisdom: '12'

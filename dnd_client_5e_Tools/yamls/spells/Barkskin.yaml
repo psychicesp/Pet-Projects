@@ -1,0 +1,19 @@
+casting time: 1 action
+classes:
+- Druid
+- Ranger
+components: V, S, M
+concentration: true
+cost: 0
+description: You touch a willing creature. Until the spell ends, the target's skin
+    has a rough, bark-like appearance, and the target's AC can't be less than 16,
+    regardless of what kind of armor it is wearing.
+duration: Concentration, up to 1 hour
+extras: a handful of oak bark
+level: 2
+name: Barkskin
+page: 217
+range: Touch
+ritual: false
+school: transmutation
+source: PHB

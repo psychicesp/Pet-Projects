@@ -1,0 +1,39 @@
+AC: 18
+CR: 2 (450 XP)
+HP: 32 (5d8 + 10)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 13
+        (2d10 + 2) piercing damage.'
+    Multiattack: The shark makes two bite attacks.
+alignment: U
+athletics: '+6'
+book: Ghosts of Saltmarsh
+charisma: '7'
+constitution: '14'
+dexterity: '12'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Shell Shark
+page: 252
+saving_throws:
+    strength: expert
+senses:
+- darkvision 120 ft.
+- passive Perception 10
+size: Medium
+skills:
+    athletics: expert
+speed:
+- 0 ft
+- swim 40 ft
+strength: '15'
+tags: []
+traits:
+    Blood Frenzy: The shark has advantage on melee attack rolls against any creature
+        that doesn't have all its hit points.
+    Magic Resistance: The shark has advantage on saving throws against spells and
+        other magical effects.
+    Water Breathing: The shark can breathe only underwater.
+type: monstrosity
+wisdom: '10'

@@ -1,0 +1,98 @@
+AC: 18
+CR: 19 (22,000 XP)
+HP: 189 (18d10 + 90)
+actions:
+    Hellish Morningstar: 'Melee Weapon Attack: +13+1d12 + 7 to hit, reach 20 ft.,
+        one target. Hit: 16 (2d8 + 7) piercing damage plus 13 (3d8) necrotic damage.'
+    Infernal Command: Each ally of Bael's within 60 feet of him can't be charmed or
+        frightened until the end of his next turn.
+    Multiattack: Bael makes two melee attacks.
+    Teleport: Bael magically teleports, along with any equipment he is wearing and
+        carrying, up to 120 feet to an unoccupied space he can see.
+alignment: LE
+book: "Mordenkainen\u2019s Tome of Foes"
+charisma: 24 (+7)
+charisma save: '+13'
+condition_immunities:
+- charmed, exhaustion, frightened, poisoned
+constitution: 20 (+5)
+constitution save: '+11'
+damage_immunities:
+- fire, poison
+dexterity: 17 (+3)
+dexterity save: '+9'
+hit points: 18d10 + 90
+intelligence: 21 (+5)
+intelligence save: '+11'
+intimidation: '+13'
+languages:
+- all
+- telepathy 120 ft.
+legendary_actions:
+    number: 3
+    options:
+        Attack (Cost 2 Actions): ' Bael attacks once with his hellish morningstar.'
+        Awaken Greed: ' Bael casts charm person or major image.'
+        Infernal Command: ' Bael uses his Infernal Command action.'
+        Teleport: ' Bael uses his Teleport action.'
+name: Bael
+page: 170
+perception: '+13'
+persuasion: '+13'
+resistances:
+- cold
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    intelligence: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 23
+size: Large
+skills:
+    intimidation: proficient
+    perception: proficient
+    persuasion: proficient
+speed:
+- 30 ft
+strength: 24 (+7)
+tags:
+- devil
+traits:
+    Dreadful: Bael can use a bonus action to appear dreadful until the start of his
+        next turn. Each creature, other than a devil, that starts its turn within
+        10 feet of Bael must succeed on a DC 22+1d12 + 16 Wisdom saving throw or be
+        frightened until the start of the creature's next turn.
+    Legendary Resistance (3/Day): If Bael fails a saving throw, he can choose to succeed
+        instead.
+    Magic Resistance: Bael has advantage on saving throws against spells and other
+        magical effects.
+    Magic Weapons: Bael's weapon attacks are magical.
+    Regeneration: Bael regains 20 hit points at the start of his turn. If he takes
+        cold or radiant damage, this trait doesn't function at the start of his next
+        turn. Bael dies only if he starts his turn with 0 hit points and doesn't regenerate.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - dominate monster
+            - symbol
+            3/day:
+            - counterspell
+            - dispel magic
+            - fly
+            - suggestion
+            - wall of fire
+            at will:
+            - alter self
+            - animate dead
+            - charm person
+            - detect magic
+            - inflict wounds
+            - invisibility
+            - major image
+        type: innate
+type: fiend
+wisdom: 24 (+7)

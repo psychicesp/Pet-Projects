@@ -1,0 +1,67 @@
+AC: 14
+CR: 5 (1,800 XP)
+HP: 71 (11d8 + 22)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit: 4
+        (1d4 + 2) piercing damage.'
+    Claws: 'Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target. Hit:
+        4 (1d4 + 2) slashing damage.'
+    Multiattack: The high priestess makes two attacks with her toothsome staff, or
+        one attack with her bite and one with her claws.
+    Toothsome Staff: 'Melee Weapon Attack: +5+1d6 + 2 to hit, reach 5 ft., one target.
+        Hit: 11 (2d8 + 2) piercing damage.'
+alignment: LE
+book: Ghosts of Saltmarsh
+charisma: '10'
+constitution: '14'
+dexterity: '12'
+insight: '+6'
+intelligence: '12'
+languages:
+- Sahuagin
+name: Sahuagin High Priestess
+page: 251
+perception: '+6'
+saving_throws:
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 16
+size: Medium
+skills:
+    insight: proficient
+    perception: proficient
+speed:
+- 30 ft
+- swim 40 ft
+strength: '14'
+tags:
+- sahuagin
+traits:
+    Blood Frenzy: The high priestess has advantage on melee attack rolls against any
+        creature that doesn't have all its hit points.
+    Limited Amphibiousness: The high priestess can breathe air and water, but she
+        needs to be submerged at least once every 4 hours to avoid suffocating.
+    Shark Telepathy: The high priestess can magically command any shark within 120
+        feet of her, using a limited telepathy.
+    spellcasting:
+        ability: wisdom
+        level: 7
+        spells:
+        - guidance
+        - mending
+        - resistance
+        - thaumaturgy
+        - bless
+        - detect magic
+        - guiding bolt
+        - hold person
+        - spiritual weapon
+        - bestow curse
+        - fear
+        - mass healing word
+        - tongues
+        - banishment
+        type: cleric
+type: humanoid
+wisdom: '16'

@@ -1,0 +1,43 @@
+AC: 13
+CR: 2 (450 XP)
+HP: 51 (6d10 + 18)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7
+        (2d4 + 2) piercing damage.'
+    Multiattack: 'The carrion crawler makes two attacks: one with its tentacles and
+        one with its bite.'
+    Tentacles: 'Melee Weapon Attack: +8+1d4 + 6 to hit, reach 10 ft., one creature.
+        Hit: 4 (1d4 + 2) poison damage, and the target must succeed on a DC 13+1d4
+        + 11 Constitution saving throw or be poisoned for 1 minute. Until this poison
+        ends, the target is paralyzed. The target can repeat the saving throw at the
+        end of each of its turns, ending the poison on itself on a success.'
+alignment: U
+book: Monster Manual
+charisma: '5'
+constitution: '16'
+dexterity: '13'
+intelligence: '1'
+languages:
+- \xe2\x80\x94
+name: Carrion Crawler
+page: 37
+perception: '+3'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Large
+skills:
+    perception: proficient
+speed:
+- 30 ft
+- climb 30 ft
+strength: '14'
+tags: []
+traits:
+    Keen Smell: The carrion crawler has advantage on Wisdom (Perception) checks that
+        rely on smell.
+    Spider Climb: The carrion crawler can climb difficult surfaces, including upside
+        down on ceilings, without needing to make an ability check.
+type: monstrosity
+wisdom: '12'

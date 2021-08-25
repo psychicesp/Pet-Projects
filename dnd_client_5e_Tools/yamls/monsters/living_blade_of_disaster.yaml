@@ -1,0 +1,43 @@
+AC: 14
+CR: 8 (3,900 XP)
+HP: 67 (9d6 + 36)
+actions:
+    Force Blade: 'Melee Spell Attack: +6+1d6 + 3 to hit, reach 5 ft., one target.
+        Hit: 26 (4d12) force damage, unless the living spell rolled an 18 or higher
+        on the d20 for the attack, in which case the attack is a critical hit that
+        deals 78 (12d12) force damage instead.'
+alignment: CE
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '3'
+condition_immunities:
+- blinded, deafened, exhaustion, grappled, paralyzed, petrified, poisoned, restrained,
+    unconscious
+constitution: '19'
+damage_immunities:
+- poison
+- bludgeoning, piercing, and slashing from nonmagical attacks
+dexterity: '16'
+intelligence: '6'
+languages:
+- \xe2\x80\x94
+name: Living Blade of Disaster
+page: 299
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Small
+skills: {}
+speed:
+- 0 ft
+- fly 30 ft. (hover)
+strength: '10'
+tags: []
+traits:
+    Magic Resistance: The living spell has advantage on saving throws against spells
+        and other magical effects.
+    Unfettered: The living spell can move through any barrier, even a wall of magical
+        force.
+    Unusual Nature: The living spell doesn't require air, food, drink, or sleep.
+type: construct
+wisdom: '10'

@@ -1,0 +1,37 @@
+AC: 13
+CR: 1/4 (50 XP)
+HP: 16 (3d8 + 3)
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) piercing damage.'
+alignment: N
+book: Ghosts of Saltmarsh
+charisma: '7'
+constitution: '12'
+dexterity: '10'
+intelligence: '7'
+languages:
+- Draconic
+name: Lizardfolk Commoner
+page: 241
+perception: '+3'
+saving_throws: {}
+senses:
+- passive Perception 13
+size: Medium
+skills:
+    perception: proficient
+    stealth: proficient
+    survival: proficient
+speed:
+- 30 ft
+- swim 30 ft
+stealth: '+2'
+strength: '15'
+survival: '+3'
+tags:
+- lizardfolk
+traits:
+    Hold Breath: The lizardfolk can hold its breath for 15 minutes.
+type: humanoid
+wisdom: '12'

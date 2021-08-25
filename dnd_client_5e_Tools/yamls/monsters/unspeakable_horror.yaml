@@ -1,0 +1,49 @@
+AC: 15
+CR: 8 (3,900 XP)
+HP: 95 (10d10 + 40)
+actions:
+    Hex Blast (Recharge 5xe2x80x936): The horror expels necrotic energy in a 30-foot
+        cone. Each creature in that area must make a DC 15+1d6 + 12 Constitution saving
+        throw, taking 45 (7d12) necrotic damage on a failed save, or half as much
+        damage on a successful one.
+    Limbs: 'Melee Weapon Attack: +8+1d6 + 5 to hit, reach 5 ft., one target. Hit:
+        21 (3d10 + 5) bludgeoning damage.'
+    Multiattack: The horror makes two Limbs attacks.
+alignment: U
+book: Van Richten\xe2\x80\x99s Guide to Ravenloft
+charisma: '17'
+constitution: '19'
+dexterity: '13'
+intelligence: '3'
+languages:
+- \xe2\x80\x94
+name: Unspeakable Horror
+page: 250
+perception: '+5'
+saving_throws:
+    constitution: proficient
+    wisdom: proficient
+senses:
+- darkvision 60 ft.
+- passive Perception 15
+size: Huge
+skills:
+    perception: proficient
+speed:
+- 40 ft
+strength: '21'
+tags: []
+traits:
+    Amorphous (Malleable Mass Only): The horror can move through any opening at least
+        1 inch wide without squeezing.
+    Bile Body (Oozing Organs Only): Any creature that touches the horror or hits it
+        with a melee attack takes 5 (1d10) acid damage.
+    Formed by the Mists: 'When created, the horror''s body composition takes one of
+        four forms: Aberrant Armor, Loathsome Limbs, Malleable Mass, or Oozing Organs.
+        This form determines certain traits in this stat block.'
+    Relentless Stride (Loathsome Limbs Only): The horror can move through the space
+        of another creature. The first time on a turn that the horror enters a creature's
+        space during this move, the creature must succeed on a DC 16+1d6 + 13 Strength
+        saving throw or be knocked prone.
+type: monstrosity
+wisdom: '14'

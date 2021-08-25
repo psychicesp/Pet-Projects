@@ -1,0 +1,50 @@
+AC: 14
+CR: 2 (450 XP)
+HP: 33 (6d8 + 6)
+acrobatics: '+5'
+actions:
+    Multiattack: The hurricane makes two melee attacks.
+    Unarmed Strike: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target.
+        Hit: 6 (1d6 + 3) bludgeoning damage.'
+alignment: LE
+book: Princes of the Apocalypse
+charisma: '10'
+constitution: '13'
+dexterity: '16'
+intelligence: '10'
+languages:
+- Auran
+- Common
+name: Hurricane
+page: 191
+saving_throws: {}
+senses:
+- passive Perception 11
+size: Medium
+skills:
+    acrobatics: proficient
+speed:
+- 45 ft
+strength: '12'
+tags:
+- human
+traits:
+    Unarmored Defense: While the hurricane is wearing no armor and wielding no shield,
+        its AC includes its Wisdom modifier.
+    Unarmored Movement: While the hurricane is wearing no armor and wielding no shield,
+        its walking speed increases by 15 feet (included in its speed).
+    spellcasting:
+        ability: wisdom
+        level: 3
+        spells:
+        - blade ward
+        - gust
+        - light
+        - prestidigitation
+        - feather fall
+        - jump
+        - thunderwave
+        - gust of wind
+        type: sorcerer
+type: humanoid
+wisdom: '12'

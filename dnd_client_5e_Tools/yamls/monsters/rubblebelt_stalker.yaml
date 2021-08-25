@@ -1,0 +1,45 @@
+AC: 14
+CR: 1/2 (100 XP)
+HP: 11 (2d8 + 2)
+actions:
+    Multiattack: The stalker makes three attacks with its shortsword.
+    Shortsword: 'Melee Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 5
+        (1d6 + 2) piercing damage.'
+alignment: CN
+athletics: '+2'
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '8'
+constitution: '12'
+dexterity: '15'
+intelligence: '10'
+languages:
+- any one language (usually Common)
+name: Rubblebelt Stalker
+page: 239
+perception: '+4'
+saving_throws: {}
+senses:
+- passive Perception 14
+size: Medium
+skills:
+    athletics: proficient
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft
+- climb 30 ft
+stealth: '+4'
+strength: '10'
+tags:
+- any
+traits:
+    Ambusher: In the first round of a combat, the stalker has advantage on attack
+        rolls against any creature that hasn't taken a turn yet.
+    Nimble Escape: The stalker can take the Disengage or Hide action as a bonus action
+        on each of its turns.
+    Ruin Dweller: The stalker has advantage on Dexterity (Stealth) checks made to
+        hide in ruins, and its speed is not reduced in difficult terrain composed
+        of rubble.
+    Siege Monster: The stalker deals double damage to objects and structures.
+type: humanoid
+wisdom: '14'

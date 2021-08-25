@@ -1,0 +1,38 @@
+AC: 11
+CR: 1/8 (25 XP)
+HP: 7 (3d4)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3
+        (1d4 + 1) piercing damage plus 7 (2d6) poison damage, and the target must
+        succeed on a DC 10+1d4 + 8 Constitution saving throw or become poisoned for
+        1 minute. A target can repeat the saving throw at the end of each of its turns,
+        ending the effect on itself on a success.'
+alignment: LE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '9'
+constitution: '10'
+dexterity: '13'
+hit: 3d4
+intelligence: '6'
+languages:
+- \xe2\x80\x94
+name: Neogi Hatchling
+page: 179
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Tiny
+skills: {}
+speed:
+- 20 ft
+- climb 20 ft
+strength: '3'
+tags: []
+traits:
+    Mental Fortitude: The hatchling has advantage on saving throws against being charmed
+        or frightened, and magic can't put the hatchling to sleep.
+    Spider Climb: The hatchling can climb difficult surfaces, including upside down
+        on ceilings, without needing to make an ability check.
+type: aberration
+wisdom: '10'

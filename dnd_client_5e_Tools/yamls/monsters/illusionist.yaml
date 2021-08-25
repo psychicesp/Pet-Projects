@@ -1,0 +1,62 @@
+AC: 12
+CR: 3 (700 XP)
+HP: 38 (7d8 + 7)
+actions:
+    Quarterstaff: 'Melee Weapon Attack: +1+1d4 - 1 to hit, reach 5 ft., one target.
+        Hit: 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if
+        used with two hands.'
+alignment: AA
+arcana: '+5'
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '12'
+constitution: '13'
+dexterity: '14'
+history: '+5'
+intelligence: '16'
+languages:
+- any four languages
+name: Illusionist
+page: 214
+saving_throws:
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    arcana: proficient
+    history: proficient
+speed:
+- 30 ft
+strength: '9'
+tags:
+- any
+traits:
+    '*Illusion spell of 1st level or higher': '*Illusion spell of 1st level or higher'
+    Displacement (Recharges after the Illusionist Casts an Illusion Spell of 1st Level or Higher): As
+        a bonus action, the illusionist projects an illusion that makes the illusionist
+        appear to be standing in a place a few inches from its actual location, causing
+        any creature to have disadvantage on attack rolls against the illusionist.
+        The effect ends if the illusionist takes damage, it is incapacitated, or its
+        speed becomes 0.
+    spellcasting:
+        ability: intelligence
+        level: 7
+        spells:
+        - dancing lights
+        - mage hand
+        - minor illusion
+        - poison spray
+        - color spray
+        - disguise self
+        - mage armor
+        - magic missile
+        - invisibility
+        - mirror image
+        - phantasmal force
+        - major image
+        - phantom steed
+        - phantasmal killer
+        type: wizard
+type: humanoid
+wisdom: '11'

@@ -1,0 +1,49 @@
+AC: 15
+CR: 2 (450 XP)
+HP: 31 (7d6 + 7)
+actions:
+    Claws: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit:
+        7 (2d4 + 2) slashing damage, and the target must succeed on a DC 11+1d4 +
+        9 Constitution saving throw or be paralyzed for 1 minute. The target can repeat
+        the saving throw at the end of each of its turns, ending the effect on itself
+        on a success.'
+alignment: NE
+book: Volo\xe2\x80\x99s Guide to Monsters
+charisma: '8'
+condition_immunities:
+- frightened
+constitution: '12'
+dexterity: '15'
+intelligence: '11'
+languages:
+- telepathy 120 ft.
+name: Meenlock
+page: 170
+perception: '+4'
+saving_throws: {}
+senses:
+- darkvision 120 ft.
+- passive Perception 14
+size: Small
+skills:
+    perception: expert
+    stealth: expert
+    survival: proficient
+speed:
+- 30 ft
+stealth: '+6'
+strength: '7'
+survival: '+2'
+tags: []
+traits:
+    Fear Aura: Any beast or humanoid that starts its turn within 10 feet of the meenlock
+        must succeed on a DC 11+1d4 + 9 Wisdom saving throw or be frightened until
+        the start of the creature's next turn.
+    Light Sensitivity: While in bright light, the meenlock has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+    Shadow Teleport (Recharge 5xe2x80x936): As a bonus action, the meenlock can teleport
+        to an unoccupied space within 30 feet of it, provided that both the space
+        it's teleporting from and its destination are in dim light or darkness. The
+        destination need not be within line of sight.
+type: fey
+wisdom: '10'

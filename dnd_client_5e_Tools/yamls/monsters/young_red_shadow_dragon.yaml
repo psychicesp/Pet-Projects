@@ -1,0 +1,61 @@
+AC: 18
+CR: 13 (10,000 XP)
+HP: 178 (17d10 + 85)
+actions:
+    Bite: 'Melee Weapon Attack: +11+1d10 + 6 to hit, reach 10 ft., one target. Hit:
+        17 (2d10 + 6) piercing damage plus 3 (1d6) necrotic damage.'
+    Claw: 'Melee Weapon Attack: +11+1d10 + 6 to hit, reach 5 ft., one target. Hit:
+        13 (2d6 + 6) slashing damage.'
+    Multiattack: 'The dragon makes three attacks: one with its bite and two with its
+        claws.'
+    Shadow Breath (Recharge 5xe2x80x936): The dragon exhales shadowy fire in a 30-foot
+        cone. Each creature in that area must make a DC 18+1d10 + 13 Dexterity saving
+        throw, taking 56 (16d6) necrotic damage on a failed save, or half as much
+        damage on a successful one. A humanoid reduced to 0 hit points by this damage
+        dies, and an undead shadow rises from its corpse and acts immediately after
+        the dragon in the initiative count. The shadow is under the dragon's control.
+alignment: CE
+book: Monster Manual
+charisma: '19'
+constitution: '21'
+damage_immunities:
+- fire
+dexterity: '10'
+intelligence: '14'
+languages:
+- Common
+- Draconic
+name: Young Red Shadow Dragon
+page: 85
+perception: '+10'
+resistances:
+- necrotic
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 30 ft.
+- darkvision 120 ft.
+- passive Perception 18
+size: Large
+skills:
+    perception: expert
+    stealth: expert
+speed:
+- 40 ft
+- climb 40 ft
+- fly 80 ft
+stealth: '+10'
+strength: '23'
+tags: []
+traits:
+    Living Shadow: While in dim light or darkness, the dragon has resistance to damage
+        that isn't force, psychic, or radiant.
+    Shadow Stealth: While in dim light or darkness, the dragon can take the Hide action
+        as a bonus action.
+    Sunlight Sensitivity: While in sunlight, the dragon has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: dragon
+wisdom: '11'

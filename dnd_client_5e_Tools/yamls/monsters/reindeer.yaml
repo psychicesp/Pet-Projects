@@ -1,0 +1,34 @@
+AC: ''
+CR: 1/4 (50 XP)
+HP: 13 (2d10 + 2)
+actions:
+    Hooves: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one prone creature.
+        Hit: 8 (2d4 + 3) bludgeoning damage.'
+    Ram: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 6
+        (1d6 + 3) bludgeoning damage.'
+alignment: U
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '6'
+constitution: '12'
+dexterity: '10'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Reindeer
+page: 107
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Large
+skills: {}
+speed:
+- 50 ft
+strength: '16'
+tags: []
+traits:
+    Charge: If the reindeer moves at least 20 feet straight toward a target and then
+        hits it with a ram attack on the same turn, the target takes an extra 7 (2d6)
+        damage. If the target is a creature, it must succeed on a DC 13+1d4 + 11 Strength
+        saving throw or be knocked prone.
+type: beast
+wisdom: '10'

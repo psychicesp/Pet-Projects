@@ -1,0 +1,52 @@
+AC: 10
+CR: 1/4 (50 XP)
+HP: 7 (2d6)
+actions:
+    Dagger: 'Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one target. Hit:
+        2 (1d4) piercing damage. Or Ranged Weapon Attack: +2+1d4 + 0 to hit, range
+        20/60 ft., one target. Hit: 2 (1d4) piercing damage.'
+alignment: NG
+arcana: '+4'
+book: 'Waterdeep: Dragon Heist'
+charisma: '11'
+constitution: '10'
+dexterity: '10'
+history: '+4'
+hit: 2d6
+intelligence: '14'
+languages:
+- Common
+- Gnomish
+name: Engineer
+page: 141
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 10
+size: Small
+skills:
+    arcana: proficient
+    history: proficient
+speed:
+- 25 ft
+strength: '10'
+tags:
+- Rock
+traits:
+    Gnome Cunning: The gnome has advantage on all Intelligence, Wisdom and Charisma
+        saving throws against magic.
+    spellcasting:
+        ability: 'intelligence. it has the following wizard spells prepared:cantrips
+            (at will): fire bolt, mending, prestidigitation1st level (2 slots): burning
+            hands, disguise self, shield'
+        level: 1
+        spells:
+        - fire bolt
+        - mending
+        - prestidigitation
+        - burning hands
+        - disguise self
+        - shield
+        type: wizard
+type: humanoid
+wisdom: '10'

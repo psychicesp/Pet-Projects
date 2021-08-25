@@ -1,0 +1,31 @@
+AC: 13
+CR: 1 (200 XP)
+HP: 30 (4d10 + 8)
+actions:
+    Claws: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit:
+        14 (4d4 + 4) slashing damage.'
+alignment: U
+book: Explorer\xe2\x80\x99s Guide to Wildemount
+charisma: '5'
+constitution: '14'
+dexterity: '14'
+intelligence: '2'
+languages:
+- \xe2\x80\x94
+name: Moorbounder
+page: 295
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 11
+size: Large
+skills: {}
+speed:
+- 70 ft
+strength: '18'
+tags: []
+traits:
+    Standing Leap: The moorbounder's long jump is up to 40 feet and its high jump
+        is up to 20 feet, with or without a running start.
+type: beast
+wisdom: '13'

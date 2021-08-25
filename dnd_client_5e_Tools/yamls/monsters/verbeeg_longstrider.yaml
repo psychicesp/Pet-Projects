@@ -1,0 +1,59 @@
+AC: 14
+CR: 5 (1,800 XP)
+HP: 119 (14d10 + 42)
+actions:
+    Multiattack: The verbeeg makes two melee attacks.
+    Sling: 'Ranged Weapon Attack: +5+1d6 + 2 to hit, range 30/120 ft., one target.
+        Hit: 9 (3d4 + 2) bludgeoning damage. If the target is a creature, it must
+        succeed on a DC 15+1d6 + 12 Constitution saving throw or be stunned until
+        the end of its next turn.'
+    Spear: 'Melee or Ranged Weapon Attack: +7+1d6 + 4 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 14 (3d6 + 4) piercing damage, or 17 (3d8 + 4)
+        piercing damage if used to make a ranged attack or used with two hands to
+        make a melee attack.'
+alignment: N
+athletics: '+7'
+book: 'Icewind Dale: Rime of the Frostmaiden'
+charisma: '10'
+constitution: '16'
+dexterity: '15'
+intelligence: '13'
+languages:
+- Common
+- Giant
+name: Verbeeg Longstrider
+page: 311
+saving_throws:
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- passive Perception 12
+size: Large
+skills:
+    animal handling: proficient
+    athletics: proficient
+    stealth: proficient
+speed:
+- 50 ft
+stealth: '+5'
+strength: '19'
+tags: []
+traits:
+    Simple Weapon Wielder: A simple weapon deals one extra die of its damage when
+        the verbeeg hits with it (included in the attack).
+    spellcasting:
+        ability: 'wisdom. it can innately cast the following spells, requiring no
+            components:1/day each: animal messenger, fog cloud, freedom of movement,
+            pass without trace, silence, water walk'
+        spells:
+            1/day:
+            - animal messenger
+            - fog cloud
+            - freedom of movement
+            - pass without trace
+            - silence
+            - water walk
+        type: innate
+type: giant
+wisdom: '14'

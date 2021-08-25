@@ -1,0 +1,70 @@
+AC: 17
+CR: 12 (8,400 XP)
+HP: 157 (15d12 + 60)
+actions:
+    Bite: 'Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one creature. Hit:
+        25 (3d12 + 6) piercing damage plus 16 (3d10) psychic damage.'
+    Claws: 'Melee Weapon Attack: +10+1d8 + 6 to hit, reach 10 ft., one target. Hit:
+        10 (1d8 + 6) slashing damage plus 9 (2d8) psychic damage.'
+    Multiattack: 'The sire makes two attacks: one with its bite and one with its claws.'
+alignment: CE
+book: Guildmasters\xe2\x80\x99 Guide to Ravnica
+charisma: '22'
+condition_immunities:
+- poisoned
+constitution: '19'
+damage_immunities:
+- poison
+deception: '+10'
+dexterity: '6'
+intelligence: '14'
+intimidation: '+10'
+languages:
+- Abyssal
+- Common
+- telepathy 120 ft.
+name: Sire of Insanity
+page: 197
+resistances:
+- cold, fire, lightning
+- bludgeoning, piercing, and slashing from nonmagical attacks
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- truesight 120 ft.
+- passive Perception 14
+size: Huge
+skills:
+    deception: proficient
+    intimidation: proficient
+speed:
+- 40 ft
+strength: '23'
+tags:
+- demon
+traits:
+    Aura of Mind Erosion: Any creature that starts its turn within 30 feet of the
+        sire must make a DC 18+1d8 + 14 Wisdom saving throw. On a successful save,
+        the creature is immune to this aura for the next 24 hours. On a failed save,
+        the creature has disadvantage for 1 minute on Wisdom and Charisma checks and
+        on Wisdom and Charisma saves. At the start of each of its turns, the sire
+        can suppress this aura until the start of its next turn.
+    Magic Resistance: The sire has advantage on saving throws against spells and other
+        magical effects.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - confusion
+            - mass suggestion
+            at will:
+            - clairvoyance
+            - crown of madness
+            - major image
+            - suggestion
+        type: innate
+type: fiend
+wisdom: '19'

@@ -1,0 +1,31 @@
+AC: 13
+CR: 2 (450 XP)
+HP: 59 (7d10 + 21)
+actions:
+    Bolt Launcher: 'Ranged Weapon Attack: +3+1d4 + 1 to hit, range 120/480 ft., one
+        target. Hit: 17 (3d10 + 1) piercing damage.'
+    Fist: 'Melee Weapon Attack: +6+1d4 + 4 to hit, reach 5 ft., one target. Hit: 9
+        (2d4 + 4) bludgeoning damage.'
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '7'
+constitution: '16'
+dexterity: '12'
+intelligence: '5'
+languages:
+- Common
+- Giant
+name: Ogre Bolt Launcher
+page: 220
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 8
+size: Large
+skills: {}
+speed:
+- 40 ft
+strength: '19'
+tags: []
+type: giant
+wisdom: '7'

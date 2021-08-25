@@ -1,0 +1,45 @@
+AC: 17
+CR: 3 (700 XP)
+HP: 52 (8d8 + 16)
+actions:
+    Bite: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit: 8
+        (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.'
+    Lightning Breath (Recharge 5xe2x80x936): The dragon exhales lightning in a 30-foot
+        line that is 5 feet wide. Each creature in that line must make a DC 12+1d4
+        + 10 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed
+        save, or half as much damage on a successful one.
+alignment: LE
+book: Monster Manual
+charisma: '15'
+constitution: '15'
+damage_immunities:
+- lightning
+dexterity: '10'
+intelligence: '12'
+languages:
+- Draconic
+name: Blue Dragon Wyrmling
+page: 91
+perception: '+4'
+saving_throws:
+    charisma: proficient
+    constitution: proficient
+    dexterity: proficient
+    wisdom: proficient
+senses:
+- blindsight 10 ft.
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    perception: expert
+    stealth: proficient
+speed:
+- 30 ft
+- burrow 15 ft
+- fly 60 ft
+stealth: '+2'
+strength: '17'
+tags: []
+type: dragon
+wisdom: '11'

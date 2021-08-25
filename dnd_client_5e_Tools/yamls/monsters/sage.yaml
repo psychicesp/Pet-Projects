@@ -1,0 +1,48 @@
+AC: 10
+CR: 1/2 (100 XP)
+HP: 22 (5d8)
+actions:
+    Shocking Grasp (Cantrip): 'Melee Spell Attack: +6+1d4 + 4 to hit (with advantage
+        if the target is wearing armor made of metal), reach 5 ft., one creature.
+        Hit: 9 (2d8) lightning damage, and the target can''t take reactions until
+        the start of its next turn.'
+    Spellcasting: 'The sage casts one of the following spells, using Intelligence
+        as the spellcasting ability (save DC 14+1d4 + 12, +6+1d4 + 4 to hit with spell
+        attacks):'
+alignment: U
+arcana: '+8'
+book: Candlekeep Mysteries
+charisma: '11'
+constitution: '10'
+dexterity: '10'
+history: '+8'
+hit: 5d8
+insight: '+4'
+intelligence: '18'
+investigation: '+8'
+languages:
+- Common plus any four languages
+medicine: '+6'
+name: Sage
+nature: '+8'
+page: 9
+religion: '+8'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    arcana: expert
+    history: expert
+    insight: proficient
+    investigation: expert
+    medicine: expert
+    nature: expert
+    religion: expert
+speed:
+- 30 ft
+strength: '8'
+tags:
+- any
+type: humanoid
+wisdom: '15'

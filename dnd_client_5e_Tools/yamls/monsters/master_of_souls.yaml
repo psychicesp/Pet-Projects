@@ -1,0 +1,74 @@
+AC: 12
+CR: 4 (1,100 XP)
+HP: 45 (6d8 + 18)
+actions:
+    Chill Touch (Cantrip): 'Ranged Spell Attack: +6+1d4 + 4 to hit, range 120 ft.,
+        one creature. Hit: 13 (2d8) necrotic damage, and the target can''t regain
+        hit points until the start of the master of souls'' next turn. If the target
+        is undead, it has disadvantage on attack rolls against the master of souls
+        for the same duration.'
+    Multiattack: The master of souls attacks twice with its flail.
+    Ray of Sickness (1st-Level Spell; Requires a Spell Slot): 'Ranged Spell Attack:
+        +6+1d4 + 4 to hit, range 60 ft., one creature. Hit: 9 (2d8) poison damage,
+        and the target must succeed on a DC 14+1d4 + 12 Constitution saving throw
+        or be poisoned until the end of the master of souls'' next turn. If the master
+        of souls casts this spell using a spell slot of 2nd level or higher, the damage
+        increases by 1d8 for each slot level above 1st.'
+    Scorching Ray (2nd-Level Spell; Requires a Spell Slot): 'Ranged Spell Attack:
+        +6+1d4 + 4 to hit, range 120 ft., one target per ray (3 rays if a 2nd-level
+        spell slot is used, 4 rays if a 3rd-level spell slot is used). Hit: 7 (2d6)
+        fire damage per ray.'
+    Silvered Skull Flail: 'Melee Weapon Attack: +2+1d4 + 0 to hit, reach 5 ft., one
+        target. Hit: 4 (1d8) bludgeoning damage plus 14 (4d6) necrotic damage, and
+        the target has disadvantage on all saving throws until the end of the master
+        of souls'' next turn.'
+alignment: NE
+arcana: '+6'
+book: 'Baldur\xe2\x80\x99s Gate: Descent Into Avernus'
+charisma: '13'
+constitution: '17'
+dexterity: '14'
+intelligence: '19'
+languages:
+- Abyssal
+- Common
+- Infernal
+name: Master of Souls
+page: 234
+religion: '+6'
+saving_throws:
+    wisdom: proficient
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    arcana: proficient
+    religion: proficient
+speed:
+- 30 ft
+strength: '10'
+tags:
+- human
+traits:
+    Grave Magic: When the master of souls cast a spell that deals damage, it can change
+        the spell's damage type to necrotic.
+    spellcasting:
+        ability: intelligence
+        level: 5
+        spells:
+        - chill touch
+        - mage hand
+        - message
+        - prestidigitation
+        - burning hands
+        - detect magic
+        - ray of sickness
+        - shield
+        - darkness
+        - misty step
+        - scorching ray
+        - animate dead
+        - fireball
+        type: wizard
+type: humanoid
+wisdom: '14'

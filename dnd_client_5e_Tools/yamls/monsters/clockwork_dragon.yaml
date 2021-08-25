@@ -1,0 +1,46 @@
+AC: 16
+CR: 1 (200 XP)
+HP: 22 (4d8 + 4)
+acrobatics: '+2'
+actions:
+    Bite: 'Melee Weapon Attack: +4+1d4 + 2 to hit, reach 5 ft., one target. Hit: 7
+        (1d10 + 2) piercing damage.'
+    Fire Breath (Recharge 5xe2x80x936): The clockwork dragon exhales fire in a 15-foot
+        cone. Each creature in that area must make a DC 11+1d4 + 9 Dexterity saving
+        throw, taking 14 (4d6) fire damage on a failed save, or half as much damage
+        on a successful one.
+alignment: N
+book: Acquisitions Incorporated
+charisma: '13'
+condition_immunities:
+- blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+constitution: '12'
+damage_immunities:
+- poison, psychic
+dexterity: '10'
+intelligence: '10'
+languages:
+- Common
+- Draconic
+name: Clockwork Dragon
+page: 209
+perception: '+4'
+saving_throws: {}
+senses:
+- blindsight 60 ft.
+- darkvision 60 ft.
+- passive Perception 14
+size: Medium
+skills:
+    acrobatics: proficient
+    perception: expert
+speed:
+- 30 ft
+- fly 60 ft
+strength: '14'
+tags: []
+traits:
+    False Appearance: While the clockwork dragon remains motionless, it is indistinguishable
+        from a metal statue.
+type: construct
+wisdom: '11'

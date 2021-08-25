@@ -1,0 +1,65 @@
+AC: 18
+CR: 11 (7,200 XP)
+HP: 187 (15d10 + 105)
+actions:
+    Fist: 'Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one target. Hit:
+        15 (2d8 + 6) bludgeoning damage.'
+    Maul: 'Melee Weapon Attack: +10+1d8 + 6 to hit, reach 5 ft., one target. Hit:
+        20 (4d6 + 6) bludgeoning damage. If the target is a Huge or smaller creature,
+        it must succeed on a DC 18+1d8 + 14 Strength check or be knocked prone.'
+    Multiattack: The Dao makes two fist attacks or two maul attacks.
+alignment: NE
+book: Monster Manual
+charisma: '14'
+condition_immunities:
+- petrified
+constitution: '24'
+dexterity: '12'
+intelligence: '12'
+languages:
+- Terran
+name: Dao
+page: 143
+saving_throws:
+    charisma: proficient
+    intelligence: proficient
+    wisdom: proficient
+senses:
+- darkvision 120 ft.
+- passive Perception 11
+size: Large
+skills: {}
+speed:
+- 30 ft
+- burrow 30 ft
+- fly 30 ft
+strength: '23'
+tags: []
+traits:
+    Earth Glide: The dao can burrow through nonmagical, unworked earth and stone.
+        While doing so, the dao doesn't disturb the material it moves through.
+    Elemental Demise: If the dao dies, its body disintegrates into crystalline powder,
+        leaving behind only equipment the dao was wearing or carrying.
+    Sure-Footed: The dao has advantage on Strength and Dexterity saving throws made
+        against effects that would knock it prone.
+    spellcasting:
+        ability: charisma
+        spells:
+            1/day:
+            - conjure elemental
+            - gaseous form
+            - invisibility
+            - phantasmal killer
+            - plane shift
+            - wall of stone
+            3/day:
+            - passwall
+            - move earth
+            - tongues
+            at will:
+            - detect evil and good
+            - detect magic
+            - stone shape
+        type: innate
+type: elemental
+wisdom: '13'

@@ -1,0 +1,51 @@
+AC: 17
+CR: 11 (7,200 XP)
+HP: 97 (15d10 + 15)
+actions:
+    Bite: 'Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one creature. Hit:
+        19 (3d10 + 3) psychic damage, and the target must succeed on a DC 15+1d8 +
+        11 Wisdom saving throw or be stunned for 1 minute. The stunned target can
+        repeat the saving throw at the end of each of its turns, ending the effect
+        on itself on a success.'
+    Claws: 'Melee Weapon Attack: +7+1d8 + 3 to hit, reach 5 ft., one creature. Hit:
+        14 (2d10 + 3) psychic damage.'
+    Multiattack: 'The troll makes three attacks: one with its bite and two with its
+        claws.'
+alignment: CE
+book: Mordenkainen\xe2\x80\x99s Tome of Foes
+charisma: '16'
+condition_immunities:
+- exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious
+constitution: '13'
+damage_immunities:
+- bludgeoning, piercing, and slashing from nonmagical attacks
+dexterity: '17'
+intelligence: '8'
+languages:
+- Giant
+name: Spirit Troll
+page: 244
+perception: '+3'
+resistances:
+- acid, cold, fire, lightning, thunder
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Large
+skills:
+    perception: proficient
+speed:
+- 30 ft
+strength: '1'
+tags: []
+traits:
+    Incorporeal Movement: The troll can move through other creatures and objects as
+        if they were difficult terrain. It takes 5 (1d10) force damage if it ends
+        its turn inside an object.
+    Regeneration: The troll regains 10 hit points at the start of each of its turns.
+        If the troll takes psychic or force damage, this trait doesn't function at
+        the start of the troll's next turn. The troll dies only if it starts its turn
+        with 0 hit points and doesn't regenerate.
+type: giant
+wisdom: '9'

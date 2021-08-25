@@ -1,0 +1,46 @@
+AC: 11
+CR: 1/4 (50 XP)
+HP: 26 (4d8 + 8)
+actions:
+    Bite: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3
+        (1d4 + 1) piercing damage.'
+    Claw: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit: 3
+        (1d4 + 1) slashing damage.'
+    Dagger: 'Melee or Ranged Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft. or range
+        20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage.'
+    Multiattack: 'The mongrelfolk makes two attacks: one with its bite and one with
+        its claw or dagger.'
+alignment: AA
+book: Curse of Strahd
+charisma: '6'
+constitution: '15'
+deception: '+2'
+dexterity: '9'
+intelligence: '9'
+languages:
+- Common
+name: Mongrelfolk
+page: 234
+perception: '+2'
+saving_throws: {}
+senses:
+- passive Perception 12
+size: Medium
+skills:
+    deception: expert
+    perception: proficient
+    stealth: expert
+speed:
+- 20 ft
+stealth: '+3'
+strength: '12'
+tags:
+- mongrelfolk
+traits:
+    Extraordinary Feature: 'The mongrelfolk has one of the following extraordinary
+        features, determined randomly by rolling a d20 or chosen by the DM:'
+    Mimicry: The mongrelfolk can mimic any sounds it has heard, including voices.
+        A creature that hears the sounds can tell they are imitations with a successful
+        DC 12+1d4 + 10 Wisdom (Insight) check.
+type: humanoid
+wisdom: '10'

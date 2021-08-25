@@ -1,0 +1,35 @@
+AC: 13
+CR: 1/8 (25 XP)
+HP: 4 (1d6 + 1)
+actions:
+    Claws: 'Melee Weapon Attack: +3+1d4 + 1 to hit, reach 5 ft., one target. Hit:
+        3 (1d4 + 1) piercing damage.'
+alignment: NE
+book: Monster Manual
+charisma: '3'
+condition_immunities:
+- blinded, deafened
+constitution: '12'
+dexterity: '13'
+intelligence: '4'
+languages:
+- understands Common but can\'t speak
+name: Twig Blight
+page: 32
+saving_throws: {}
+senses:
+- blindsight 60 ft. (blind beyond this radius)
+- passive Perception 9
+size: Small
+skills:
+    stealth: proficient
+speed:
+- 20 ft
+stealth: '+3'
+strength: '6'
+tags: []
+traits:
+    False Appearance: While the blight remains motionless, it is indistinguishable
+        from a dead shrub.
+type: plant
+wisdom: '8'

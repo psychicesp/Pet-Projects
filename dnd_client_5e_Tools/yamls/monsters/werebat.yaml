@@ -1,0 +1,60 @@
+AC: 13
+CR: 2 (450 XP)
+HP: 24 (7d6)
+actions:
+    Bite (Bat or Hybrid Form Only): 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach
+        5 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, and the werebat gains
+        temporary hit points equal to the damage dealt. If the target is a humanoid,
+        it must succeed on a DC 10+1d4 + 8 Constitution saving throw or be cursed
+        with werebat lycanthropy.'
+    Multiattack (Humanoid or Hybrid Form Only): In humanoid form, the werebat makes
+        two scimitar attacks or two shortbow attacks. In hybrid form, it can make
+        one bite attack and one scimitar attack.
+    Scimitar (Humanoid or Hybrid Form Only): 'Melee Weapon Attack: +5+1d4 + 3 to hit,
+        reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.'
+    Shortbow (Humanoid or Hybrid Form Only): 'Ranged Weapon Attack: +5+1d4 + 3 to
+        hit, range 80/320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.'
+alignment: S
+book: 'Waterdeep: Dungeon of the Mad Mage'
+charisma: '8'
+constitution: '10'
+damage_immunities:
+- bludgeoning, piercing, and slashing from nonmagical attacks that aren\'t silvered
+dexterity: '17'
+hit: 7d6
+intelligence: '10'
+languages:
+- Goblin (can't speak in bat form)
+name: Werebat
+page: 317
+perception: '+3'
+saving_throws: {}
+senses:
+- darkvision 60 ft.
+- passive Perception 13
+size: Small
+skills:
+    perception: proficient
+    stealth: proficient
+speed:
+- 30 ft. (climb 30 ft. fly 60 ft. in bat or hybrid form)
+stealth: '+5'
+strength: '8'
+tags:
+- goblinoid
+traits:
+    Echolocation (Bat or Hybrid Form Only): The werebat has blindsight out to a range
+        of 60 feet as long as it's not deafened.
+    Keen Hearing: The werebat has advantage on Wisdom (Perception) checks that rely
+        on hearing.
+    Nimble Escape (Humanoid Form Only): The werebat can take the Disengage or Hide
+        action as a bonus action on each of its turns.
+    Shapechanger: The werebat can use its action to polymorph into a Medium bat-humanoid
+        hybrid, or into a Large giant bat, or back into its true form, which is humanoid.
+        Its statistics, other than its size, are the same in each form. Any equipment
+        it is wearing or carrying isn't transformed. It reverts to its true form if
+        it dies.
+    Sunlight Sensitivity: While in sunlight, the werebat has disadvantage on attack
+        rolls, as well as on Wisdom (Perception) checks that rely on sight.
+type: humanoid
+wisdom: '12'

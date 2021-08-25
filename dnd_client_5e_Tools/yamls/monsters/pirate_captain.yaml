@@ -1,0 +1,42 @@
+AC: 14
+CR: 2 (450 XP)
+HP: 45 (7d8 + 14)
+actions:
+    Hand Crossbow: 'Ranged Weapon Attack: +4+1d4 + 2 to hit, range 30/120 ft., one
+        target. Hit: 5 (1d6 + 2) piercing damage.'
+    Longsword: 'Melee Weapon Attack: +5+1d4 + 3 to hit, reach 5 ft., one target. Hit:
+        9 (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with
+        two hands.'
+    Multiattack: 'The captain makes two attacks: one with its hand crossbow and one
+        with its longsword.'
+alignment: AA
+athletics: '+5'
+book: Ghosts of Saltmarsh
+charisma: '14'
+constitution: '14'
+dexterity: '14'
+intelligence: '11'
+intimidation: '+4'
+languages:
+- any one language (usually Common)
+name: Pirate Captain
+page: 247
+saving_throws: {}
+senses:
+- passive Perception 10
+size: Medium
+skills:
+    athletics: proficient
+    intimidation: proficient
+speed:
+- 30 ft
+strength: '16'
+tags:
+- any
+traits:
+    Flourish: The captain adds its Charisma modifier to the damage roll for its longsword
+        attacks (included in the attack).
+    Sea Legs: The captain has advantage on ability checks and saving throws to resist
+        being knocked prone.
+type: humanoid
+wisdom: '10'
