@@ -45,8 +45,8 @@ import json
 
 #%%
 def sterilizer(string_text):
-    clean_text = string_text.replace('\n', '').replace('\\', '').replace("""'
-    """,'').replace('''"
+    clean_text = string_text.replace('\n', '').replace('\\', '').replace("""\'
+    """,'').replace('''\"
     ''','').strip()
     while '  ' in clean_text:
         clean_text = clean_text.replace('  ', ' ')
@@ -348,10 +348,13 @@ def html_to_json_spells(file):
     for h in higher_levels:
         description.remove(h)
     description = " ".join(description)
-    spell_dict["description"] = sterilizer(description)
+    description = sterilizer(description).replace('.','. ').replace('.  ', '. ')
+    print(description)
+    spell_dict["description"] = description
     if len(higher_levels) > 0:
-        spell_dict["higher_levels"] = sterilizer(higher_levels[0])
-    pprint(spell_dict)
+        spell_dict["higher_levels"] = sterilizer(higher_levels[0]).replace('At Higher Levels.','')
+    with open ('test.js', 'w') as pout:
+        pprint(spell_dict, stream = pout)
 
 spell_files = os.listdir('html_pages/spells')
 
