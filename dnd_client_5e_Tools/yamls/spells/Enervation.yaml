@@ -15,8 +15,8 @@ description: A tendril of inky darkness reaches out from you, touching a creatur
     target has total cover from you. Whenever the spell deals damage to a target,
     you regain hit points equal to half the amount of necrotic damage the target takes.
 duration: Concentration, up to 1 minute
-higher_levels: ' When you cast this spell using a spell slot of 6th level or higher,
-    the damage increases by 1d8 for each slot level above 5th.'
+higher_levels: When you cast this spell using a spell slot of 6th level or higher,
+    the damage increases by 1d8 for each slot level above 5th.
 level: 5
 name: Enervation
 page: 155

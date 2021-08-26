@@ -11,8 +11,8 @@ description: You whisper a discordant melody that only one creature of your choi
     pit. On a successful save, the target takes half as much damage and doesn't have
     to move away. A deafened creature automatically succeeds on the save.
 duration: Instantaneous
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    the damage increases by 1d6 for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    the damage increases by 1d6 for each slot level above 1st.
 level: 1
 name: Dissonant Whispers
 page: 234

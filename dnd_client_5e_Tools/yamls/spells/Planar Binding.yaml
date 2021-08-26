@@ -25,10 +25,10 @@ description: With this spell, you attempt to bind a celestial, an elemental, a f
     until the spell ends.
 duration: 24 hours
 extras: a jewel worth at least 1,000 gp, which the spell consumes
-higher_levels: ' When you cast this spell using a spell slot of a higher level, the
+higher_levels: When you cast this spell using a spell slot of a higher level, the
     duration increases to 10 days with a 6th-level slot, to 30 days with a 7th-level
     slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level
-    spell slot.'
+    spell slot.
 level: 5
 name: Planar Binding
 page: 265

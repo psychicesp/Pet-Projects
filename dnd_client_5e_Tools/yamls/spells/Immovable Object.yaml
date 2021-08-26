@@ -12,11 +12,11 @@ description: You touch an object that weighs no more than 10 pounds and cause it
     the object up to 10 feet.
 duration: 1 hour
 extras: gold dust worth at least 25 gp, which the spell consumes
-higher_levels: ' If you cast this spell using a spell slot of 4th or 5th level, the
+higher_levels: If you cast this spell using a spell slot of 4th or 5th level, the
     DC to move the object increases by 5, it can carry up to 8,000 pounds of weight,
     and the duration increases to 24 hours. If you cast this spell using a spell slot
     of 6th level or higher, the DC to move the object increases by 10, it can carry
-    up to 20,000 pounds of weight, and the effect is permanent until dispelled.'
+    up to 20,000 pounds of weight, and the effect is permanent until dispelled.
 level: 2
 name: Immovable Object
 page: 187

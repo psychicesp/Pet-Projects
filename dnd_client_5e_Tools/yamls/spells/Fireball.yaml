@@ -13,8 +13,8 @@ description: A bright streak flashes from your pointing finger to a point you ch
     objects in the area that aren't being worn or carried.
 duration: Instantaneous
 extras: a tiny ball of bat guano and sulfur
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
-    the damage increases by 1d6 for each slot level above 3rd.'
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
+    the damage increases by 1d6 for each slot level above 3rd.
 level: 3
 name: Fireball
 page: 241

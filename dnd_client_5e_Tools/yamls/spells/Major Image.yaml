@@ -27,8 +27,8 @@ description: You create the image of an object, a creature, or some other visibl
     sensory qualities become faint to the creature.
 duration: Concentration, up to 10 minutes
 extras: a bit of fleece
-higher_levels: ' When you cast this spell using a spell slot of 6th level or higher,
-    the spell lasts until dispelled, without requiring your concentration.'
+higher_levels: When you cast this spell using a spell slot of 6th level or higher,
+    the spell lasts until dispelled, without requiring your concentration.
 level: 3
 name: Major Image
 page: 258

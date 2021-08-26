@@ -18,8 +18,8 @@ description: You create a wall of fire on a solid surface within range. You can 
     there. The other side of the wall deals no damage.
 duration: Concentration, up to 1 minute
 extras: a small piece of phosphorus
-higher_levels: ' When you cast this spell using a spell slot of 5th level or higher,
-    the damage increases by 1d8 for each slot level above 4th.'
+higher_levels: When you cast this spell using a spell slot of 5th level or higher,
+    the damage increases by 1d8 for each slot level above 4th.
 level: 4
 name: Wall of Fire
 page: 285

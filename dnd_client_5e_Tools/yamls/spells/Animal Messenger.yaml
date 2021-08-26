@@ -20,8 +20,8 @@ description: By means of this spell, you use an animal to deliver a message. Cho
     is lost, and the beast makes its way back to where you cast this spell.
 duration: 24 hours
 extras: a morsel of food
-higher_levels: ' If you cast this spell using a spell slot of 3rd level or higher,
-    the duration of the spell increases by 48 hours for each slot level above 2nd.'
+higher_levels: If you cast this spell using a spell slot of 3rd level or higher, the
+    duration of the spell increases by 48 hours for each slot level above 2nd.
 level: 2
 name: Animal Messenger
 page: 212

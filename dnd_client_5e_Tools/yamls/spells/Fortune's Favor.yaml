@@ -13,8 +13,8 @@ description: You impart latent luck to yourself or one willing creature you can 
     applied to the original roll.
 duration: 1 hour
 extras: a white pearl worth at least 100 gp, which the spell consumes
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    you can target one additional creature for each slot level above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    you can target one additional creature for each slot level above 2nd.
 level: 2
 name: Fortune's Favor
 page: 186

@@ -11,8 +11,8 @@ description: You hurl a 4-inch-diameter sphere of energy at a creature that you 
     If the attack hits, the creature takes 3d8 damage of the type you chose.
 duration: Instantaneous
 extras: a diamond worth at least 50 gp
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    the damage increases by 1d8 for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    the damage increases by 1d8 for each slot level above 1st.
 level: 1
 name: Chromatic Orb
 page: 221

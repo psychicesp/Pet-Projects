@@ -26,9 +26,9 @@ description: You step into the border regions of the Ethereal Plane, in the area
     are on the Ethereal Plane or a plane that doesn't border it, such as one of the
     Outer Planes.
 duration: Up to 8 hours
-higher_levels: ' When you cast this spell using a spell slot of 8th level or higher,
+higher_levels: When you cast this spell using a spell slot of 8th level or higher,
     you can target up to three willing creatures (including you) for each slot level
-    above 7th. The creatures must be within 10 feet of you when you cast the spell.'
+    above 7th. The creatures must be within 10 feet of you when you cast the spell.
 level: 7
 name: Etherealness
 page: 238

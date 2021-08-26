@@ -13,9 +13,9 @@ description: Choose one object weighing 1 to 5 pounds within range that isn't be
     stops moving. When the object strikes something, the object and what it strikes
     each take 3d8 bludgeoning damage.
 duration: Instantaneous
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
     the maximum weight of objects that you can target with this spell increases by
-    5 pounds, and the damage increases by 1d8, for each slot level above 1st.'
+    5 pounds, and the damage increases by 1d8, for each slot level above 1st.
 level: 1
 name: Catapult
 page: 150

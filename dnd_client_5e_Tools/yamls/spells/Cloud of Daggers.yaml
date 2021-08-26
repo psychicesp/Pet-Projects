@@ -13,8 +13,8 @@ description: You fill the air with spinning daggers in a cube 5 feet on each sid
     there.
 duration: Concentration, up to 1 minute
 extras: a sliver of glass
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    the damage increases by 2d4 for each slot level above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    the damage increases by 2d4 for each slot level above 2nd.
 level: 2
 name: Cloud of Daggers
 page: 222

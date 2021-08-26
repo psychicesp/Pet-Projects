@@ -10,8 +10,8 @@ description: The gravity in a 10-foot-radius sphere centered on a point you can 
     isn't being worn or carried in the sphere requires a successful Strength check
     against your spell save DC to pick up or move.
 duration: 1 round
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    the damage increases by 1d8 for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    the damage increases by 1d8 for each slot level above 1st.
 level: 1
 name: Magnify Gravity
 page: 188

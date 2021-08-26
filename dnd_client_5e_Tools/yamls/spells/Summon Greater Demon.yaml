@@ -27,8 +27,8 @@ description: You utter foul words, summoning one demon from the chaos of the Aby
     component in this manner consumes it when the spell ends.
 duration: Concentration, up to 1 hour
 extras: a vial of blood from a humanoid killed within the past 24 hours
-higher_levels: ' When you cast this spell using a spell slot of 5th level or higher,
-    the challenge rating increases by 1 for each slot level above 4th.'
+higher_levels: When you cast this spell using a spell slot of 5th level or higher,
+    the challenge rating increases by 1 for each slot level above 4th.
 level: 4
 name: Summon Greater Demon
 page: 166

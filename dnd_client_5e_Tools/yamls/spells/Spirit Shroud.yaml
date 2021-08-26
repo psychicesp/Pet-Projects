@@ -15,8 +15,8 @@ description: You call forth spirits of the dead, which flit around you for the s
     see that starts its turn within 10 feet of you has its speed reduced by 10 feet
     until the start of your next turn.
 duration: Concentration, up to 1 minute
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
-    the damage increases by 1d8 for every two slot levels above 3rd.'
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
+    the damage increases by 1d8 for every two slot levels above 3rd.
 level: 3
 name: Spirit Shroud
 page: 108

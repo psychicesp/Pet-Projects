@@ -21,8 +21,8 @@ description: You attempt to send one creature that you can see within range to a
     the target doesn't return.
 duration: Concentration, up to 1 minute
 extras: an item distasteful to the target
-higher_levels: ' When you cast this spell using a spell slot of 5th level or higher,
-    you can target one additional creature for each slot level above 4th.'
+higher_levels: When you cast this spell using a spell slot of 5th level or higher,
+    you can target one additional creature for each slot level above 4th.
 level: 4
 name: Banishment
 page: 217

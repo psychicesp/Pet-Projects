@@ -13,8 +13,8 @@ description: This spell lets you convince a beast that you mean it no harm. Choo
     or one of your companions harms the target, the spell ends.
 duration: 24 hours
 extras: a morsel of food
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    you can affect one additional beast for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    you can affect one additional beast for each slot level above 1st.
 level: 1
 name: Animal Friendship
 page: 212

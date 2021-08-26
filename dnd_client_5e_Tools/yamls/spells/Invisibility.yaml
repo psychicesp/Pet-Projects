@@ -13,8 +13,8 @@ description: A creature you touch becomes invisible until the spell ends. Anythi
     person. The spell ends for a target that attacks or casts a spell.
 duration: Concentration, up to 1 hour
 extras: an eyelash encased in gum arabic
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    you can target one additional creature for each slot level above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    you can target one additional creature for each slot level above 2nd.
 level: 2
 name: Invisibility
 page: 254

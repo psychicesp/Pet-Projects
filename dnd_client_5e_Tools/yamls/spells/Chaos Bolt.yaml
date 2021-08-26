@@ -13,9 +13,9 @@ description: You hurl an undulating, warbling mass of chaotic energy at one crea
     chaotic energy to leap again. A creature can be targeted only once by each casting
     of this spell.
 duration: Instantaneous
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
     each target takes 1d6 extra damage of the type rolled for each slot level above
-    1st.'
+    1st.
 level: 1
 name: Chaos Bolt
 page: 151

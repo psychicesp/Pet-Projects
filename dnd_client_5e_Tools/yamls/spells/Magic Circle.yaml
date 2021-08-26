@@ -23,8 +23,8 @@ description: 'You create a 10-foot-radius, 20-foot-tall cylinder of magical ener
 duration: 1 hour
 extras: holy water or powdered silver and iron worth at least 100 gp, which the spell
     consumes
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
-    the duration increases by 1 hour for each slot level above 3rd.'
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
+    the duration increases by 1 hour for each slot level above 3rd.
 level: 3
 name: Magic Circle
 page: 256

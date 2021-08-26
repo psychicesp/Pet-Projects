@@ -14,9 +14,9 @@ description: You attempt to charm a humanoid you can see within range. It must m
     regards you as a friendly acquaintance. When the spell ends, the creature knows
     it was charmed by you.
 duration: 1 hour
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
     you can target one additional creature for each slot level above 1st. The creatures
-    must be within 30 feet of each other when you target them.'
+    must be within 30 feet of each other when you target them.
 level: 1
 name: Charm Person
 page: 221

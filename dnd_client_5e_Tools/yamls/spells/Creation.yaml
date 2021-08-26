@@ -18,8 +18,8 @@ description: 'You pull wisps of shadow material from the Shadowfell to create a 
     that spell to fail.'
 duration: Special
 extras: a tiny piece of matter of the same type of the item you plan to create
-higher_levels: ' When you cast this spell using a spell slot of 6th level or higher,
-    the cube increases by 5 feet for each slot level above 5th.'
+higher_levels: When you cast this spell using a spell slot of 6th level or higher,
+    the cube increases by 5 feet for each slot level above 5th.
 level: 5
 name: Creation
 page: 229

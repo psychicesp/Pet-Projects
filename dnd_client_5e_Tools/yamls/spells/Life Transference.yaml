@@ -9,8 +9,8 @@ description: You sacrifice some of your health to mend another creature's injuri
     of your choice that you can see within range regains a number of hit points equal
     to twice the necrotic damage you take.
 duration: Instantaneous
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
-    the damage increases by 1d8 for each slot level above 3rd.'
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
+    the damage increases by 1d8 for each slot level above 3rd.
 level: 3
 name: Life Transference
 page: 160

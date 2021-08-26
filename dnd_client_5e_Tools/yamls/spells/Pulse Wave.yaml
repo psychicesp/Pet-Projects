@@ -9,9 +9,9 @@ description: You create intense pressure, unleash it in a 30-foot cone, and deci
     from you, depending on the choice you made for the spell. In addition, unsecured
     objects that are completely within the cone are likewise pulled or pushed 15 feet.
 duration: Instantaneous
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
     the damage increases by 1d6 and the distance pulled or pushed increases by 5 feet
-    for each slot level above 3rd.'
+    for each slot level above 3rd.
 level: 3
 name: Pulse Wave
 page: 188

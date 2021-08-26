@@ -14,9 +14,9 @@ description: You plant four pieces of nonmagical ammunitionxe2x80x94arrows or cr
     any creatures you choose, and the spell ignores them.
 duration: 8 hours
 extras: four or more arrows or bolts
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
     the amount of ammunition that can be affected increases by two for each slot level
-    above 2nd.'
+    above 2nd.
 level: 2
 name: Cordon of Arrows
 page: 228

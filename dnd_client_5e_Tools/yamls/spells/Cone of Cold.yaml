@@ -11,8 +11,8 @@ description: A blast of cold air erupts from your hands. Each creature in a 60-f
     this spell becomes a frozen statue until it thaws.
 duration: Instantaneous
 extras: a small crystal or glass cone
-higher_levels: ' When you cast this spell using a spell slot of 6th level or higher,
-    the damage increases by 1d8 for each slot level above 5th.'
+higher_levels: When you cast this spell using a spell slot of 6th level or higher,
+    the damage increases by 1d8 for each slot level above 5th.
 level: 5
 name: Cone of Cold
 page: 224

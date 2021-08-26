@@ -11,8 +11,8 @@ description: A 20-foot-radius sphere of crushing force forms at a point you can 
     isn't pulled.
 duration: Instantaneous
 extras: a black marble
-higher_levels: ' When you cast this spell using a spell slot of 5th level or higher,
-    the damage increases by 1d10 for each slot level above 4th.'
+higher_levels: When you cast this spell using a spell slot of 5th level or higher,
+    the damage increases by 1d10 for each slot level above 4th.
 level: 4
 name: Gravity Sinkhole
 page: 187

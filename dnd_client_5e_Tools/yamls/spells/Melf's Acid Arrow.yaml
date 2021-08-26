@@ -11,9 +11,9 @@ description: A shimmering green arrow streaks toward a target within range and b
     of the initial damage and no damage at the end of its next turn.
 duration: Instantaneous
 extras: powdered rhubarb leaf and an adder's stomach
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
     the damage (both initial and later) increases by 1d4 for each slot level above
-    2nd.'
+    2nd.
 level: 2
 name: Melf's Acid Arrow
 page: 259

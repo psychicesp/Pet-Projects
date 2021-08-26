@@ -13,8 +13,8 @@ description: You reach into the mind of one creature you can see within range. T
     can't become hidden from you, and if it's invisible, it gains no benefit from
     that condition against you.
 duration: Concentration, up to 1 hour
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    the damage increases by 1d8 for each slot level above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    the damage increases by 1d8 for each slot level above 2nd.
 level: 2
 name: Mind Spike
 page: 162

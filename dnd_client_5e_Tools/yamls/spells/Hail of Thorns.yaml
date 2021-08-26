@@ -10,8 +10,8 @@ description: The next time you hit a creature with a ranged weapon attack before
     throw. A creature takes 1d10 piercing damage on a failed save, or half as much
     damage on a successful one.
 duration: Concentration, up to 1 minute
-higher_levels: ' If you cast this spell using a spell slot of 2nd level or higher,
-    the damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).'
+higher_levels: If you cast this spell using a spell slot of 2nd level or higher, the
+    damage increases by 1d10 for each slot level above 1st (to a maximum of 6d10).
 level: 1
 name: Hail of Thorns
 page: 249

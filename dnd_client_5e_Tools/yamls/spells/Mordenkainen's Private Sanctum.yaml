@@ -19,10 +19,10 @@ description: You make an area within range magically secure. The area is a cube 
 duration: 24 hours
 extras: a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and
     powdered chrysolite
-higher_levels: ' When you cast this spell using a spell slot of 5th level or higher,
+higher_levels: When you cast this spell using a spell slot of 5th level or higher,
     you can increase the size of the cube by 100 feet for each slot level beyond 4th.
     Thus you could protect a cube that can be up to 200 feet on one side by using
-    a spell slot of 5th level.'
+    a spell slot of 5th level.
 level: 4
 name: Mordenkainen's Private Sanctum
 page: 262

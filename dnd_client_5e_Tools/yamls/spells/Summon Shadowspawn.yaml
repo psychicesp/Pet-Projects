@@ -16,8 +16,8 @@ description: 'You call forth a shadowy spirit. It manifests in an unoccupied spa
     don''t issue any, it takes the Dodge action and uses its move to avoid danger.'
 duration: Concentration, up to 1 hour
 extras: tears inside a gem worth at least 300 gp
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
-    use the higher level wherever the spell''s level appears in the stat block.'
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
+    use the higher level wherever the spell's level appears in the stat block.
 level: 3
 name: Summon Shadowspawn
 page: 113

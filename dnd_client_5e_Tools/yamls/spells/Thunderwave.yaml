@@ -14,8 +14,8 @@ description: A wave of thunderous force sweeps out from you. Each creature in a 
     pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous
     boom audible out to 300 feet.
 duration: Instantaneous
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    the damage increases by 1d8 for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    the damage increases by 1d8 for each slot level above 1st.
 level: 1
 name: Thunderwave
 page: 282

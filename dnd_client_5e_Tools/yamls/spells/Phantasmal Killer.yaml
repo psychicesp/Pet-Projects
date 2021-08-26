@@ -10,8 +10,8 @@ description: You tap into the nightmares of a creature you can see within range 
     spell ends, the target must succeed on a Wisdom saving throw or take 4d10 psychic
     damage. On a successful save, the spell ends.
 duration: Concentration, up to 1 minute
-higher_levels: ' When you cast this spell using a spell slot of 5th level or higher,
-    the damage increases by 1d10 for each slot level above 4th.'
+higher_levels: When you cast this spell using a spell slot of 5th level or higher,
+    the damage increases by 1d10 for each slot level above 4th.
 level: 4
 name: Phantasmal Killer
 page: 265

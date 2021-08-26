@@ -13,8 +13,8 @@ description: You create a floating, spectral weapon within range that lasts for 
     (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell's
     effect resemble that weapon.
 duration: 1 minute
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    the damage increases by 1d8 for every two slot levels above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    the damage increases by 1d8 for every two slot levels above 2nd.
 level: 2
 name: Spiritual Weapon
 page: 278

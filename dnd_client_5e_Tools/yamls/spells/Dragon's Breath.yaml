@@ -13,8 +13,8 @@ description: You touch one willing creature and imbue it with the power to spew 
     much damage on a successful one.
 duration: Concentration, up to 1 minute
 extras: a hot pepper
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    the damage increases by 1d6 for each slot level above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    the damage increases by 1d6 for each slot level above 2nd.
 level: 2
 name: Dragon's Breath
 page: 154

@@ -11,8 +11,8 @@ description: A line of roaring flame 30 feet long and 5 feet wide emanates from 
     on a successful one.
 duration: Instantaneous
 extras: a red dragon's scale
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    the damage increases by 1d8 for each slot level above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    the damage increases by 1d8 for each slot level above 2nd.
 level: 2
 name: Aganazzar's Scorcher
 page: 150

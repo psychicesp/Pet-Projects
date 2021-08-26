@@ -10,9 +10,9 @@ description: You awaken the sense of mortality in one creature you can see withi
     frightened target can repeat the saving throw at the end of each of its turns,
     ending the effect on itself on a success.
 duration: Concentration, up to 1 minute
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
     you can target one additional creature for each slot level above 1st. The creatures
-    must be within 30 feet of each other when you target them.'
+    must be within 30 feet of each other when you target them.
 level: 1
 name: Cause Fear
 page: 151

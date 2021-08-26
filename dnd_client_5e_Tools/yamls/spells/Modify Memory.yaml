@@ -27,10 +27,10 @@ description: You attempt to reshape another creature's memories. One creature th
     nonsensical to affect a creature in a significant manner. A remove curse or greater
     restoration spell cast on the target restores the creature's true memory.
 duration: Concentration, up to 1 minute
-higher_levels: ' If you cast this spell using a spell slot of 6th level or higher,
-    you can alter the target''s memories of an event that took place up to 7 days
-    ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time
-    in the creature''s past (9th level).'
+higher_levels: If you cast this spell using a spell slot of 6th level or higher, you
+    can alter the target's memories of an event that took place up to 7 days ago (6th
+    level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's
+    past (9th level).
 level: 5
 name: Modify Memory
 page: 261

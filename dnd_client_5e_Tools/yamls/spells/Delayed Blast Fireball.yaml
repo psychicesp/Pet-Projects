@@ -22,8 +22,8 @@ description: A beam of yellow light flashes from your pointing finger, then cond
     aren't being worn or carried.
 duration: Concentration, up to 1 minute
 extras: a tiny ball of bat guano and sulfur
-higher_levels: ' When you cast this spell using a spell slot of 8th level or higher,
-    the base damage increases by 1d6 for each slot level above 7th.'
+higher_levels: When you cast this spell using a spell slot of 8th level or higher,
+    the base damage increases by 1d6 for each slot level above 7th.
 level: 7
 name: Delayed Blast Fireball
 page: 230

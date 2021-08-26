@@ -15,8 +15,8 @@ description: Swarming, biting locusts fill a 20-foot-radius sphere centered on a
     enters the spell's area for the first time on a turn or ends its turn there.
 duration: Concentration, up to 10 minutes
 extras: a few grains of sugar, some kernels of grain, and a smear of fat
-higher_levels: ' When you cast this spell using a spell slot of 6th level or higher,
-    the damage increases by 1d10 for each slot level above 5th.'
+higher_levels: When you cast this spell using a spell slot of 6th level or higher,
+    the damage increases by 1d10 for each slot level above 5th.
 level: 5
 name: Insect Plague
 page: 254

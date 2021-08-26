@@ -16,8 +16,8 @@ description: You call forth a celestial spirit. It manifests in an angelic form 
     uses its move to avoid danger.
 duration: Concentration, up to 1 hour
 extras: a golden reliquary worth at least 500 gp
-higher_levels: ' When you cast this spell using a spell slot of 6th level or higher,
-    use the higher level wherever the spell''s level appears in the stat block.'
+higher_levels: When you cast this spell using a spell slot of 6th level or higher,
+    use the higher level wherever the spell's level appears in the stat block.
 level: 5
 name: Summon Celestial
 page: 110

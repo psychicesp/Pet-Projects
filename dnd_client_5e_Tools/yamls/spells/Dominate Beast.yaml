@@ -21,10 +21,10 @@ description: You attempt to beguile a beast that you can see within range. It mu
     time the target takes damage, it makes a new Wisdom saving throw against the spell.
     If the saving throw succeeds, the spell ends.
 duration: Concentration, up to 1 minute
-higher_levels: ' When you cast this spell with a 5th-level spell slot, the duration
+higher_levels: When you cast this spell with a 5th-level spell slot, the duration
     is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration
     is concentration, up to 1 hour. When you use a spell slot of 7th level or higher,
-    the duration is concentration, up to 8 hours.'
+    the duration is concentration, up to 8 hours.
 level: 4
 name: Dominate Beast
 page: 234

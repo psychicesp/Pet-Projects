@@ -21,9 +21,9 @@ description: You utter foul words, summoning demons from the chaos of the Abyss.
     the spell ends.
 duration: Concentration, up to 1 hour
 extras: a vial of blood from a humanoid killed within the past 24 hours
-higher_levels: ' When you cast this spell using a spell slot of 6th or 7th level,
-    you summon twice as many demons. If you cast it using a spell slot of 8th or 9th
-    level, you summon three times as many demons.'
+higher_levels: When you cast this spell using a spell slot of 6th or 7th level, you
+    summon twice as many demons. If you cast it using a spell slot of 8th or 9th level,
+    you summon three times as many demons.
 level: 3
 name: Summon Lesser Demons
 page: 167

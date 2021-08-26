@@ -9,8 +9,8 @@ description: A flash of light streaks toward a creature of your choice within ra
     of your next turn has advantage, thanks to the mystical dim light glittering on
     the target until then.
 duration: 1 round
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    the damage increases by 1d6 for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    the damage increases by 1d6 for each slot level above 1st.
 level: 1
 name: Guiding Bolt
 page: 248

@@ -11,8 +11,8 @@ description: A stream of acid emanates from you in a line 30 feet long and 5 fee
     covered in the acid takes 2d4 acid damage at start of each of its turns.
 duration: Concentration, up to 1 minute
 extras: a bit of rotten food
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    the damage increases by 2d4 for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    the damage increases by 2d4 for each slot level above 1st.
 level: 1
 name: Tasha's Caustic Brew
 page: 115

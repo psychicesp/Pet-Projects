@@ -17,8 +17,8 @@ description: You call forth an aberrant spirit. It manifests in an unoccupied sp
 duration: Concentration, up to 1 hour
 extras: a pickled tentacle and an eyeball in a platinum-inlaid vial worth at least
     400 gp
-higher_levels: ' When you cast this spell using a spell slot of 5th level or higher,
-    use the higher level wherever the spell''s level appears in the stat block.'
+higher_levels: When you cast this spell using a spell slot of 5th level or higher,
+    use the higher level wherever the spell's level appears in the stat block.
 level: 4
 name: Summon Aberration
 page: 109

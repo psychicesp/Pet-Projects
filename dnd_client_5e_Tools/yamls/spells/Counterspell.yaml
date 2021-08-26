@@ -12,9 +12,9 @@ description: You attempt to interrupt a creature in the process of casting a spe
     check using your spellcasting ability. The DC equals 10 + the spell's level. On
     a success, the creature's spell fails and has no effect.
 duration: Instantaneous
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
     the interrupted spell has no effect if its level is less than or equal to the
-    level of the spell slot you used.'
+    level of the spell slot you used.
 level: 3
 name: Counterspell
 page: 228

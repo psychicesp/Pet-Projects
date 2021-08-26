@@ -24,8 +24,8 @@ description: 'A shimmering wall of bright light appears at a point you choose wi
     the wall''s length drops to 0 feet, the spell ends.'
 duration: Concentration, up to 10 minutes
 extras: a hand mirror
-higher_levels: ' When you cast this spell using a spell slot of 6th level or higher,
-    the damage increases by 1d8 for each slot level above 5th.'
+higher_levels: When you cast this spell using a spell slot of 6th level or higher,
+    the damage increases by 1d8 for each slot level above 5th.
 level: 5
 name: Wall of Light
 page: 170

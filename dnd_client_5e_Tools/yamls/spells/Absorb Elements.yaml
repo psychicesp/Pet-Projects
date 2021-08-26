@@ -14,8 +14,8 @@ description: The spell captures some of the incoming energy, lessening its effec
     a melee attack on your next turn, the target takes an extra 1d6 damage of the
     triggering type, and the spell ends.
 duration: 1 round
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    the extra damage increases by 1d6 for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    the extra damage increases by 1d6 for each slot level above 1st.
 level: 1
 name: Absorb Elements
 page: 150

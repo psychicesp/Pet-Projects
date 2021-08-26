@@ -14,8 +14,8 @@ description: A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 4
     turn.
 duration: Instantaneous
 extras: a pinch of dust and a few drops of water
-higher_levels: ' When you cast this spell using a spell slot of 5th level or higher,
-    the bludgeoning damage increases by 1d8 for each slot level above 4th.'
+higher_levels: When you cast this spell using a spell slot of 5th level or higher,
+    the bludgeoning damage increases by 1d8 for each slot level above 4th.
 level: 4
 name: Ice Storm
 page: 252

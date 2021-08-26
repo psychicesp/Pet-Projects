@@ -18,8 +18,8 @@ description: Choose an unoccupied 5-foot cube of air that you can see within ran
     of your next turn. The cloud heavily obscures its area.
 duration: Concentration, up to 1 minute
 extras: a pinch of dust
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    the damage increases by 1d8 for each slot level above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    the damage increases by 1d8 for each slot level above 2nd.
 level: 2
 name: Dust Devil
 page: 154

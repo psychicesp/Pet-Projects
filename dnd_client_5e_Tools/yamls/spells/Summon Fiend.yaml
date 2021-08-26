@@ -16,8 +16,8 @@ description: You call forth a fiendish spirit. It manifests in an unoccupied spa
     it takes the Dodge action and uses its move to avoid danger.
 duration: Concentration, up to 1 hour
 extras: humanoid blood inside a ruby vial worth at least 600 gp
-higher_levels: ' When you cast this spell using a spell slot of 7th level or higher,
-    use the higher level wherever the spell''s level appears in the stat block.'
+higher_levels: When you cast this spell using a spell slot of 7th level or higher,
+    use the higher level wherever the spell's level appears in the stat block.
 level: 6
 name: Summon Fiend
 page: 112

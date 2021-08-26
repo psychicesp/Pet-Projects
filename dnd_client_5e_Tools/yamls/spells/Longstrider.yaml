@@ -12,8 +12,8 @@ description: You touch a creature. The target's speed increases by 10 feet until
     spell ends.
 duration: 1 hour
 extras: a pinch of dirt
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    you can target one additional creature for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    you can target one additional creature for each slot level above 1st.
 level: 1
 name: Longstrider
 page: 256

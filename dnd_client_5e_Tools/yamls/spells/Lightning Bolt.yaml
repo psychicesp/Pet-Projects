@@ -12,8 +12,8 @@ description: A stroke of lightning forming a line 100 feet long and 5 feet wide 
     in the area that aren't being worn or carried.
 duration: Instantaneous
 extras: a bit of fur and a rod of amber, crystal, or glass
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
-    the damage increases by 1d6 for each slot level above 3rd.'
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
+    the damage increases by 1d6 for each slot level above 3rd.
 level: 3
 name: Lightning Bolt
 page: 255

@@ -15,8 +15,8 @@ description: You call forth spirits to protect you. They flit around you to a di
     save, the creature takes half as much damage.
 duration: Concentration, up to 10 minutes
 extras: a holy symbol
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
-    the damage increases by 1d8 for each slot level above 3rd.'
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
+    the damage increases by 1d8 for each slot level above 3rd.
 level: 3
 name: Spirit Guardians
 page: 278

@@ -54,9 +54,9 @@ description: You create a Large hand of shimmering, translucent force in an unoc
     space, but that space is difficult terrain for the target.
 duration: Concentration, up to 1 minute
 extras: an eggshell and a snakeskin glove
-higher_levels: ' When you cast this spell using a spell slot of 6th level or higher,
+higher_levels: When you cast this spell using a spell slot of 6th level or higher,
     the damage from the clenched fist option increases by 2d8 and the damage from
-    the grasping hand increases by 2d6 for each slot level above 5th.'
+    the grasping hand increases by 2d6 for each slot level above 5th.
 level: 5
 name: Bigby's Hand
 page: 218

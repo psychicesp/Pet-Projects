@@ -12,8 +12,8 @@ description: You summon a celestial of challenge rating 4 or lower, which appear
     issue any commands to the celestial, it defends itself from hostile creatures
     but otherwise takes no actions. The DM has the celestial's statistics.
 duration: Concentration, up to 1 hour
-higher_levels: ' When you cast this spell using a 9th-level spell slot, you summon
-    a celestial of challenge rating 5 or lower.'
+higher_levels: When you cast this spell using a 9th-level spell slot, you summon a
+    celestial of challenge rating 5 or lower.
 level: 7
 name: Conjure Celestial
 page: 225

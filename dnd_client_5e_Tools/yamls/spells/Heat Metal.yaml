@@ -17,8 +17,8 @@ description: Choose a manufactured metal object, such as a metal weapon or a sui
     the start of your next turn.
 duration: Concentration, up to 1 minute
 extras: a piece of iron and a flame
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    the damage increases by 1d8 for each slot level above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    the damage increases by 1d8 for each slot level above 2nd.
 level: 2
 name: Heat Metal
 page: 250

@@ -19,8 +19,8 @@ description: You touch one Tiny, nonmagical object that isn't attached to anothe
     creature drops to 0 hit points, it reverts to its original form, and any remaining
     damage carries over to that form.
 duration: 8 hours
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
-    you can animate two additional objects for each slot level above 3rd.'
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
+    you can animate two additional objects for each slot level above 3rd.
 level: 3
 name: Tiny Servant
 page: 168

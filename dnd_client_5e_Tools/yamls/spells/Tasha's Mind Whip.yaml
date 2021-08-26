@@ -11,9 +11,9 @@ description: You psychically lash out at one creature you can see within range. 
     or a bonus action; it gets only one of the three. On a successful save, the target
     takes half as much damage and suffers none of the spell's other effects.
 duration: 1 round
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
     you can target one additional creature for each slot level above 2nd. The creatures
-    must be within 30 feet of each other when you target them.'
+    must be within 30 feet of each other when you target them.
 level: 2
 name: Tasha's Mind Whip
 page: 115

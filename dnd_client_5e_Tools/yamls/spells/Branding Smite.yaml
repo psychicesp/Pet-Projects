@@ -9,8 +9,8 @@ description: The next time you hit a creature with a weapon attack before this s
     and the target sheds dim light in a 5-foot radius and can't become invisible until
     the spell ends.
 duration: Concentration, up to 1 minute
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    the extra damage increases by 1d6 for each slot level above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    the extra damage increases by 1d6 for each slot level above 2nd.
 level: 2
 name: Branding Smite
 page: 219

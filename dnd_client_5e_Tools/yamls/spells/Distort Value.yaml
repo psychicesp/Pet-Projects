@@ -16,8 +16,8 @@ description: Do you need to squeeze a few more gold pieces out of a merchant as 
     ascertain its true value with a successful Intelligence (Investigation) check
     against your spell save DC.
 duration: 8 hours
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    the maximum size of the object increases by 1 foot for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    the maximum size of the object increases by 1 foot for each slot level above 1st.
 level: 1
 name: Distort Value
 page: 75

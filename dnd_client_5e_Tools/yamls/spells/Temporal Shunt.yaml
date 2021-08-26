@@ -8,9 +8,9 @@ description: You target the triggering creature, which must succeed on a Wisdom 
     where it was or in the closest unoccupied space. The target doesn't remember you
     casting the spell or being affected by it.
 duration: 1 round
-higher_levels: ' When you cast this spell using a spell slot of 6th level or higher,
+higher_levels: When you cast this spell using a spell slot of 6th level or higher,
     you can target one additional creature for each slot level above 5th. All targets
-    must be within 30 feet of each other.'
+    must be within 30 feet of each other.
 level: 5
 name: Temporal Shunt
 page: 189

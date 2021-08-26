@@ -14,9 +14,9 @@ description: You create a bolt of lightning that arcs toward a target of your ch
 duration: Instantaneous
 extras: a bit of fur; a piece of amber, glass, or a crystal rod; and three silver
     pins
-higher_levels: ' When you cast this spell using a spell slot of 7th level or higher,
+higher_levels: When you cast this spell using a spell slot of 7th level or higher,
     one additional bolt leaps from the first target to another target for each slot
-    level above 6th.'
+    level above 6th.
 level: 6
 name: Chain Lightning
 page: 221

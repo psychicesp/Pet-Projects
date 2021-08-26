@@ -17,8 +17,8 @@ description: A 5-foot-diameter sphere of fire appears in an unoccupied space of 
     bright light in a 20-foot radius and dim light for an additional 20 feet.
 duration: Concentration, up to 1 minute
 extras: a bit of tallow, a pinch of brimstone, and a dusting of powdered iron
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    the damage increases by 1d6 for each slot level above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    the damage increases by 1d6 for each slot level above 2nd.
 level: 2
 name: Flaming Sphere
 page: 242

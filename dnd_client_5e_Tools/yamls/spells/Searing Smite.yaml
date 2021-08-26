@@ -12,9 +12,9 @@ description: The next time you hit a creature with a melee weapon attack during 
     of it uses an action to put out the flames, or if some other effect douses the
     flames (such as the target being submerged in water), the spell ends.
 duration: Concentration, up to 1 minute
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
     the initial extra damage dealt by the attack increases by 1d6 for each slot level
-    above 1st.'
+    above 1st.
 level: 1
 name: Searing Smite
 page: 274

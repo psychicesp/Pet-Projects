@@ -20,10 +20,10 @@ description: You create a wall of ice on a solid surface within range. You can f
     damage on a failed save, or half as much damage on a successful one.
 duration: Concentration, up to 10 minutes
 extras: a small piece of quartz
-higher_levels: ' When you cast this spell using a spell slot of 7th level or higher,
+higher_levels: When you cast this spell using a spell slot of 7th level or higher,
     the damage the wall deals when it appears increases by 2d6, and the damage from
     passing through the sheet of frigid air increases by 1d6, for each slot level
-    above 6th.'
+    above 6th.
 level: 6
 name: Wall of Ice
 page: 285

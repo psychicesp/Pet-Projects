@@ -15,8 +15,8 @@ description: You create a 20-foot-radius sphere of poisonous, yellow-green fog c
     each of your turns, rolling along the surface of the ground. The vapors, being
     heavier than air, sink to the lowest level of the land, even pouring down openings.
 duration: Concentration, up to 10 minutes
-higher_levels: ' When you cast this spell using a spell slot of 6th level or higher,
-    the damage increases by 1d8 for each slot level above 5th.'
+higher_levels: When you cast this spell using a spell slot of 6th level or higher,
+    the damage increases by 1d8 for each slot level above 5th.
 level: 5
 name: Cloudkill
 page: 222

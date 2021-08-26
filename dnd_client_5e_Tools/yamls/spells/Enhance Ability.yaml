@@ -26,8 +26,8 @@ description: You touch a creature and bestow upon it a magical enhancement. Choo
     on Intelligence checks. Owl's Wisdom. The target has advantage on Wisdom checks.
 duration: Concentration, up to 1 hour
 extras: fur or a feather from a beast
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    you can target one additional creature for each slot level above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    you can target one additional creature for each slot level above 2nd.
 level: 2
 name: Enhance Ability
 page: 237

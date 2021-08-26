@@ -16,8 +16,8 @@ description: A sudden loud ringing noise, painfully intense, erupts from a point
     the damage if it's in the spell's area.
 duration: Instantaneous
 extras: a chip of mica
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    the damage increases by 1d8 for each slot level above 2nd.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    the damage increases by 1d8 for each slot level above 2nd.
 level: 2
 name: Shatter
 page: 275

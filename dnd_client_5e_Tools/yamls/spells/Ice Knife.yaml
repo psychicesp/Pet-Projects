@@ -13,8 +13,8 @@ description: You create a shard of ice and fling it at one creature within range
     damage.
 duration: Instantaneous
 extras: a drop of water or piece of ice
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    the cold damage increases by 1d6 for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    the cold damage increases by 1d6 for each slot level above 1st.
 level: 1
 name: Ice Knife
 page: 157

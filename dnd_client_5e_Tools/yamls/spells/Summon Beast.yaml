@@ -18,8 +18,8 @@ description: 'You call forth a bestial spirit. It manifests in an unoccupied spa
 duration: Concentration, up to 1 hour
 extras: a feather, tuft of fur, and fish tail inside a gilded acorn worth at least
     200 gp
-higher_levels: ' When you cast this spell using a spell slot of 3rd level or higher,
-    use the higher level wherever the spell''s level appears in the stat block.'
+higher_levels: When you cast this spell using a spell slot of 3rd level or higher,
+    use the higher level wherever the spell's level appears in the stat block.
 level: 2
 name: Summon Beast
 page: 109

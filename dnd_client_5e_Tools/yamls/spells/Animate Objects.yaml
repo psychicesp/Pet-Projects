@@ -35,8 +35,8 @@ description: Objects come to life at your command. Choose up to ten nonmagical o
     damage determined by its size. The DM might rule that a specific object inflicts
     slashing or piercing damage based on its form.
 duration: Concentration, up to 1 minute
-higher_levels: ' If you cast this spell using a spell slot of 6th level or higher,
-    you can animate two additional objects for each slot level above 5th.'
+higher_levels: If you cast this spell using a spell slot of 6th level or higher, you
+    can animate two additional objects for each slot level above 5th.
 level: 5
 name: Animate Objects
 page: 213

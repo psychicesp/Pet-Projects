@@ -19,8 +19,8 @@ description: Threads of dark power leap from your fingers to pierce up to five S
     The creatures are under your control until the spell ends, after which they become
     inanimate once more.
 duration: Concentration, up to 1 hour
-higher_levels: ' When you cast this spell using a spell slot of 6th level or higher,
-    you animate up to two additional corpses for each slot level above 5th.'
+higher_levels: When you cast this spell using a spell slot of 6th level or higher,
+    you animate up to two additional corpses for each slot level above 5th.
 level: 5
 name: Danse Macabre
 page: 153

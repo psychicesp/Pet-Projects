@@ -15,9 +15,9 @@ description: A 20-foot-radius sphere of whirling air springs into existence, cen
     On a hit, the target takes 4d6 lightning damage. Creatures within 30 feet of the
     sphere have disadvantage on Wisdom (Perception) checks made to listen.
 duration: Concentration, up to 1 minute
-higher_levels: ' When you cast this spell using a spell slot of 5th level or higher,
+higher_levels: When you cast this spell using a spell slot of 5th level or higher,
     the damage for each of its effects increases by 1d6 for each slot level above
-    4th.'
+    4th.
 level: 4
 name: Storm Sphere
 page: 166

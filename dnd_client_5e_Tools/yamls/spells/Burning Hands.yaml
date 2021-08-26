@@ -10,8 +10,8 @@ description: As you hold your hands with thumbs touching and fingers spread, a t
     damage on a failed save, or half as much damage on a successful one. The fire
     ignites any flammable objects in the area that aren't being worn or carried.
 duration: Instantaneous
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    the damage increases by 1d6 for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    the damage increases by 1d6 for each slot level above 1st.
 level: 1
 name: Burning Hands
 page: 220

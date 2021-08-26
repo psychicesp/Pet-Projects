@@ -22,8 +22,8 @@ description: You call forth an elemental servant. Choose an area of air, earth, 
 duration: Concentration, up to 1 hour
 extras: burning incense for air, soft clay for earth, sulfur and phosphorus for fire,
     or water and sand for water
-higher_levels: ' When you cast this spell using a spell slot of 6th level or higher,
-    the challenge rating increases by 1 for each slot level above 5th.'
+higher_levels: When you cast this spell using a spell slot of 6th level or higher,
+    the challenge rating increases by 1 for each slot level above 5th.
 level: 5
 name: Conjure Elemental
 page: 225

@@ -12,9 +12,9 @@ description: The next time you make a ranged weapon attack during the spell's du
     damage on a failed save, or half as much damage on a successful one. The piece
     of ammunition or weapon then returns to its normal form.
 duration: Concentration, up to 1 minute
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
     the damage for both effects of the spell increases by 1d8 for each slot level
-    above 3rd.'
+    above 3rd.
 level: 3
 name: Lightning Arrow
 page: 255

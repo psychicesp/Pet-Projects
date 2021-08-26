@@ -6,8 +6,8 @@ concentration: false
 description: Make a melee spell attack against a creature you can reach. On a hit,
     the target takes 3d10 necrotic damage.
 duration: Instantaneous
-higher_levels: ' When you cast this spell using a spell slot of 2nd level or higher,
-    the damage increases by 1d10 for each slot level above 1st.'
+higher_levels: When you cast this spell using a spell slot of 2nd level or higher,
+    the damage increases by 1d10 for each slot level above 1st.
 level: 1
 name: Inflict Wounds
 page: 253

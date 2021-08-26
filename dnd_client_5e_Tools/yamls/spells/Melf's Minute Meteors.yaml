@@ -15,8 +15,8 @@ description: You create six tiny meteors in your space. They float in the air an
     damage on a failed save, or half as much damage on a successful one.
 duration: Concentration, up to 10 minutes
 extras: niter, sulfur, and pine tar formed into a bead
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
-    the number of meteors created increases by two for each slot level above 3rd.'
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
+    the number of meteors created increases by two for each slot level above 3rd.
 level: 3
 name: Melf's Minute Meteors
 page: 161

@@ -10,8 +10,8 @@ description: The touch of your shadow-wreathed hand can siphon life force from o
     equal to half the amount of necrotic damage dealt. Until the spell ends, you can
     make the attack again on each of your turns as an action.
 duration: Concentration, up to 1 minute
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
-    the damage increases by 1d6 for each slot level above 3rd.'
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
+    the damage increases by 1d6 for each slot level above 3rd.
 level: 3
 name: Vampiric Touch
 page: 285

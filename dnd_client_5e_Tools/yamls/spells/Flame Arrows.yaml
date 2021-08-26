@@ -13,9 +13,9 @@ description: You touch a quiver containing arrows or bolts. When a target is hit
     when it hits or misses, and the spell ends when twelve pieces of ammunition have
     been drawn from the quiver.
 duration: Concentration, up to 1 hour
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
     the number of pieces of ammunition you can affect with this spell increases by
-    two for each slot level above 3rd.'
+    two for each slot level above 3rd.
 level: 3
 name: Flame Arrows
 page: 156

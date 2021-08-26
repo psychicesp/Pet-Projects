@@ -9,8 +9,8 @@ description: Choose a creature that you can see within range. A surge of positiv
     also ends blindness, deafness, and any diseases affecting the target. This spell
     has no effect on constructs or undead.
 duration: Instantaneous
-higher_levels: ' When you cast this spell using a spell slot of 7th level or higher,
-    the amount of healing increases by 10 for each slot level above 6th.'
+higher_levels: When you cast this spell using a spell slot of 7th level or higher,
+    the amount of healing increases by 10 for each slot level above 6th.
 level: 6
 name: Heal
 page: 250

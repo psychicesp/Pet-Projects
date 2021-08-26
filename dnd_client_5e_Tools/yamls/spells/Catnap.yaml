@@ -15,8 +15,8 @@ description: You make a calming gesture, and up to three willing creatures of yo
     spell again until it finishes a long rest.
 duration: 10 minutes
 extras: a pinch of sand
-higher_levels: ' When you cast this spell using a spell slot of 4th level or higher,
-    you can target one additional willing creature for each slot level above 3rd.'
+higher_levels: When you cast this spell using a spell slot of 4th level or higher,
+    you can target one additional willing creature for each slot level above 3rd.
 level: 3
 name: Catnap
 page: 151

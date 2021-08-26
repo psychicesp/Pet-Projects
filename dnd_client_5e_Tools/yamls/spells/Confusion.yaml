@@ -23,8 +23,8 @@ description: This spell assaults and twists creatures' minds, spawning delusions
     for that target.
 duration: Concentration, up to 1 minute
 extras: three nut shells
-higher_levels: ' When you cast this spell using a spell slot of 5th level or higher,
-    the radius of the sphere increases by 5 feet for each slot level above 4th.'
+higher_levels: When you cast this spell using a spell slot of 5th level or higher,
+    the radius of the sphere increases by 5 feet for each slot level above 4th.
 level: 4
 name: Confusion
 page: 224
