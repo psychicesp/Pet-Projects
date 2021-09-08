@@ -29,7 +29,7 @@ def d20(size):
 
 @njit
 def d20(size):
-    return rand(1,20, size = size)
+    return rand(1,21, size = size)
 
 @njit
 def advantage(size):
@@ -47,17 +47,33 @@ bins = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
 #%%
 for x in range(10):
     arr = d20(10**x)
-    plt.hist(arr, bins = bins)
+    plt.hist(arr, bins = 20)
     plt.xticks(bins, bins)
     plt.title(inflect(10**x))
     plt.show()
 # %%
-
 df = pd.DataFrame()
 
 df['target_roll'] = list(range(1,21))
 df['van_success_%'] = (21 - df['target_roll']) * 5
-df['adv_success'] = (((df['van_success_%']/100)*2)-((df['van_success_%']/100)**2))*100
-df['dis_success'] = ((df['van_success_%']/100)**2)*100
+df['adv_success_%'] = (((df['van_success_%']/100)*2)-((df['van_success_%']/100)**2))*100
+df['dis_success_%'] = ((df['van_success_%']/100)**2)*100
+
+num_times = round(10**9)
+
+arr = d20(num_times)
+
+def arr_trimmer(x):
+    return round(((arr[arr>=x]).size/arr.size)*100, 2)
+
+df['emperical_van_%'] = df['target_roll'].apply(arr_trimmer)
+
+arr = advantage(num_times)
+df['emperical_adv_%'] = df['target_roll'].apply(arr_trimmer)
+
+arr = disadvantage(num_times)
+df['emperical_dis_%'] = df['target_roll'].apply(arr_trimmer)
+
+arr = 0
 df
 # %%
