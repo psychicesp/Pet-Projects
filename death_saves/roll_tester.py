@@ -1,5 +1,6 @@
 #%%
 import numpy as np
+from random import randint
 from numpy.random import randint as rand
 from matplotlib import pyplot as plt
 import pandas as pd
@@ -26,6 +27,35 @@ def njit_d20(size):
 def d20(size):
     return rand(1,20, size = size)
 """
+@njit
+def jit_great_weapon_fighter(d=6, num=1):
+    arr = np.array([])
+    roll = False
+    for i in range(num):
+        roll = rand(1,d)
+        if roll < 2:
+            roll = rand(1,d)
+        np.append(arr,np.array([roll]), axis = 0)
+    if roll == 1:
+        return roll
+    else:
+        return arr
+
+def great_weapon_fighter(d=6, num=1):
+    arr = np.array([])
+    roll = False
+    for i in range(num):
+        roll = rand(1,d)
+        if roll < 2:
+            roll = rand(1,d)
+        np.append(arr,np.array([roll]), axis = 0)
+    if roll == 1:
+        return roll
+    else:
+        return arr
+        
+
+
 
 @njit
 def d20(size):
