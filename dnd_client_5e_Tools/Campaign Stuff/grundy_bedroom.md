@@ -24,6 +24,18 @@ Like everything else in the room, the design of the nightstand is wrought mainly
 *Within the drawer appears to be Grundus’ favorite blacksmithing hammer. It looks like a Mithril/Adamantine alloy but is heavier than lead, which is inconsistent with either metal. The hammer has only one striking head and on the other side there is a socket for a large gem.  For any other smith, you would assume that the socket had never been filled, it being toothed in with a supposedly indestructible alloy, but based on everything else in the room its pretty apparent that Grundus would be able to unsocket a gem from indestructible material leaving both perfectly intact.*
 
 -----
+## Closet
+
+Other than the usual exceptionally architecture of the walls, the closet shelves are completely empty.  There is a Bag of Holding made from the same woven ultrafine mithril wool as the bedclothes. It appears to have double the interior space of a typical Bag of Holding. Everything inside is made of the same exceptional craftsmenship, style, and materials as the rest of Grundus' bedroom.
+
+*Inside the Bag of Holding is:*
+ - *a small pile of clothes and underclothes.*
+ - *a portable blacksmith station*
+ - *a portable brewers station*
+ - *a portable jewlers station*
+ - *camping set*
+
+-----
 ## Portrait
 
 
@@ -35,3 +47,7 @@ On the wall hangs an entirely metal, yet intricately detailed and fully color po
 
 *As you move your head the smoke in the background moves impossibly, caressing the arms of the man in the portrait in a way that suggests life and consciousness. Something face-like appears to materialize and dematerialize in the smoke .   While it is hard to explain, there is a strikingly feminine character about the smoke. Was his mother some sort of elemental?*
 
+-----
+## Mirror
+
+Part of the wall has been polished to a mirror shine.  Mithril mirrors were sought after in an earlier time (no longer now that such exceptional materials are so impossible to come by) and now that you see one, you see why.  It doesn't just reflect light, it *gathers* it, illuminating your face with an even soft light and making your reflection somewhat backlit.
