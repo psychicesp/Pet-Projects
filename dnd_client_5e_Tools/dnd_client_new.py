@@ -308,87 +308,110 @@ proficiency_dict = {
 #             new.write(clean)
 
 # %%
-def html_to_object_spells(file):
-    with open(f'html_pages/spells/{file}', 'r') as mon:
-        spell_soup = BS(mon, 'html.parser')
-    spell_dict = {}
-    name = sterilizer(spell_soup.find('h1').text)
-    spell_dict['name'] = sterilizer(name)
-    lvl_school = spell_soup.find('td', {'class':"rd-spell__level-school-ritual"})
-    if 'cantrip' in lvl_school.text.lower():
-        spell_dict['level'] = 0
-        school = sterilizer(lvl_school.text.split(' ')[0].lower())
-    else:
-        spell_dict['level'] = int(lvl_school.text.split('-level ')[0][:-2])
-        school = sterilizer(lvl_school.text.split('-level ')[1].lower())
-    if ' (ritual)' in school:
-        spell_dict['ritual'] = True
-        school = school.replace(' (ritual)','')
-    else:
-        spell_dict['ritual'] = False
-    spell_dict['school'] = school
-    basic_soup = spell_soup.find_all('td', {'colspan':'6'})[1:5]
-    for bite in basic_soup:
-        key = bite.find('span',{'class':'bold'}).text
-        value = bite.text.replace(key, '')
-        key = key.split(':')[0]
-        spell_dict[key.lower()]=value
-    if 'Concentration' in spell_dict['duration']:
-        spell_dict['duration'] = spell_dict['duration'].replace('Concentration u', 'U')
-        spell_dict['concentration'] = True
-    else:
-        spell_dict['concentration'] = False
-    if '(' in spell_dict['components']:
-        extras = spell_dict['components'].split('(')[1].replace(')', '')
-        spell_dict['components'] = spell_dict['components'].split(' (')[0]
-        spell_dict['extras'] = sterilizer(extras)
-        costly_components = [int(x) for x in extras.split(' ') if x.isnumeric()]
-        spell_dict['cost'] = sum(costly_components)
-    description = spell_soup.find("td", {"class":"text", "colspan":"6"})
-    description = description.find_all('div')
-    description = [x.text for x in description]
-    higher_levels = [x for x in description if 'at higher levels' in x.lower()]
-    for h in higher_levels:
-        description.remove(h)
-    description = " ".join(description)
-    description = sterilizer(description).replace('.','. ').replace('.  ', '. ')
-    spell_dict["description"] = description
-    if len(higher_levels) > 0:
-        spell_dict["higher_levels"] = sterilizer(higher_levels[0]).replace('At Higher Levels.','')
-    spell_divs = spell_soup.find_all('div')
-    for div in spell_divs:
-        try:
-            check_text = div.find('span').text
-            if 'Classes:' in check_text:
-                classes = div
-                break
-        except:
-            pass
-    classes = classes.find_all('a')
-    classes = [x.text for x in classes]
-    spell_dict['classes'] = classes
-    source_tds = spell_soup.find_all('td',{'colspan':'6'})
-    for td in source_tds:
-        try:
-            check_text = div.find('b').text
-            if 'Source:' in check_text:
-                source = td
-                break
-        except:
-            pass
-    source = td.find('i').text
-    page_text = td.text.replace(source, '')
-    page = int(page_text.split('.')[0].split('page ')[-1])
-    spell_dict['source'] = source
-    spell_dict['page'] = page
-    with open (f'yamls/spells/{name}.yaml', 'w') as pout:
-        yaml.dump(spell_dict, pout, indent = 4)
-    with open (f'jsonss/spells/{name}.json', 'w') as pout:
-        json.dump(spell_dict, pout, indent = 4)
+# def html_to_object_spells(file):
+#     with open(f'html_pages/spells/{file}', 'r') as mon:
+#         spell_soup = BS(mon, 'html.parser')
+#     spell_dict = {}
+#     print(spell_soup.find('h1').text)
+#     name = sterilizer(spell_soup.find('h1').text).replace('/', '-')
+#     spell_dict['name'] = name
+#     lvl_school = spell_soup.find('td', {'class':"rd-spell__level-school-ritual"})
+#     if 'cantrip' in lvl_school.text.lower():
+#         spell_dict['level'] = 0
+#         school = sterilizer(lvl_school.text.split(' ')[0].lower())
+#     else:
+#         spell_dict['level'] = int(lvl_school.text.split('-level ')[0][:-2])
+#         school = sterilizer(lvl_school.text.split('-level ')[1].lower())
+#     if ' (ritual)' in school:
+#         spell_dict['ritual'] = True
+#         school = school.replace(' (ritual)','')
+#     else:
+#         spell_dict['ritual'] = False
+#     spell_dict['school'] = school
+#     basic_soup = spell_soup.find_all('td', {'colspan':'6'})[1:5]
+#     for bite in basic_soup:
+#         key = bite.find('span',{'class':'bold'}).text
+#         value = bite.text.replace(key, '')
+#         key = key.split(':')[0]
+#         spell_dict[key.lower()]=value
+#     if 'Concentration' in spell_dict['duration']:
+#         spell_dict['duration'] = spell_dict['duration'].replace('Concentration u', 'U')
+#         spell_dict['concentration'] = True
+#     else:
+#         spell_dict['concentration'] = False
+#     if '(' in spell_dict['components']:
+#         extras = spell_dict['components'].split('(')[1].replace(')', '')
+#         spell_dict['components'] = spell_dict['components'].split(' (')[0]
+#         spell_dict['extras'] = sterilizer(extras)
+#         costly_components = [int(x) for x in extras.split(' ') if x.isnumeric()]
+#         spell_dict['cost'] = sum(costly_components)
+#     description = spell_soup.find("td", {"class":"text", "colspan":"6"})
+#     description = description.find_all('div')
+#     description = [x.text for x in description]
+#     higher_levels = [x for x in description if 'at higher levels' in x.lower()]
+#     for h in higher_levels:
+#         description.remove(h)
+#     description = " ".join(description)
+#     description = sterilizer(description).replace('.','. ').replace('.  ', '. ').strip()
+#     spell_dict["description"] = description
+#     if len(higher_levels) > 0:
+#         spell_dict["higher_levels"] = sterilizer(higher_levels[0]).replace('At Higher Levels.','').strip()
+#     spell_divs = spell_soup.find_all('div')
+#     for div in spell_divs:
+#         try:
+#             check_text = div.find('span').text
+#             if 'Classes:' in check_text:
+#                 classes = div
+#                 break
+#         except:
+#             pass
+#     try:
+#         classes = classes.find_all('a')
+#         classes = [x.text.strip() for x in classes]
+#         spell_dict['classes'] = classes
+#     except:
+#         pass
+#     source_tds = spell_soup.find_all('td',{'colspan':'6'})
+#     for td in source_tds:
+#         try:
+#             check_text = div.find('b').text
+#             if 'Source:' in check_text:
+#                 source = td
+#                 break
+#         except:
+#             pass
+#     source = td.find('i').text
+#     page_text = td.text.replace(source, '')
+#     page = int(page_text.split('.')[0].split('page ')[-1])
+#     spell_dict['source'] = source.strip()
+#     spell_dict['page'] = page
+#     with open (f'yamls/spells/{name}.yaml', 'w') as pout:
+#         yaml.dump(spell_dict, pout, indent = 4)
+#     with open (f'jsons/spells/{name}.json', 'w') as pout:
+#         json.dump(spell_dict, pout, indent = 4)
 
 
-spell_files = os.listdir('html_pages/spells')
+# spell_files = os.listdir('html_pages/spells')
 
-for spell in spell_files[:11]:
-    html_to_object_spells(spell)
+# for spell in spell_files:
+#     html_to_object_spells(spell)
+
 # %%
+
+def html_to_object_items(file):
+    with open(f'html_pages/items/{file}', 'r') as mon:
+        item_soup = BS(mon, 'html.parser')
+    item_dict = {}
+    print(item_soup.find('h1').text)
+    name = sterilizer(item_soup.find('h1').text).replace('/', '-')
+    item_dict['name'] = name
+    with open (f'yamls/items/{name}.yaml', 'w') as pout:
+        yaml.dump(item_dict, pout, indent = 4)
+    with open (f'jsons/items/{name}.json', 'w') as pout:
+        json.dump(item_dict, pout, indent = 4)
+
+
+item_files = os.listdir('html_pages/items')
+
+for item in item_files:
+    html_to_object_items(item)
