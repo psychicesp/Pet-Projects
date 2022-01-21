@@ -134,7 +134,7 @@ def deathSaveComparisson (n):
     print("The 6th+ level Brute survives " + str(round(100*((df['Brute_Survived'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time and bounced right back " + str(round(100*((df['Brute_Bounced'].sum())/(df['Number_of_Runs'].sum())),2)) + "% of the time.")
 num_times = 10000000
 
-for i in range(10):
+for i in range(3):
     deathSaveComparisson(num_times)
 
 #%%
