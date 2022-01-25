@@ -1,5 +1,5 @@
 #%%
-from matplotlib import pyplot as plt
+# from matplotlib import pyplot as plt
 import numpy as np
 from statistics import mode
 import os
@@ -17,11 +17,11 @@ def analyze_novel(novel):
     line_lengths = line_lengths[line_lengths < upper_limit]
     # line_lengths = [x for x in line_lengths if x < upper_outlier and x > lower_outlier]
     upper_quantile = np.quantile(line_lengths, 0.78)
-    print(upper_quantile)
-    plt.hist(line_lengths, bins = 50)
-    plt.show()
+    # print(upper_quantile)
+    # plt.hist(line_lengths, bins = 50)
+    # plt.show()
     return upper_quantile
-    
+
 # Determine if a line is over
 def is_end(last_line, this_line, line_limit):
     trimmed_line = last_line.strip('"').strip("'")
@@ -46,13 +46,15 @@ def chapter_get(novel):
 def paragraph_get(novel):
     line_limit = analyze_novel(novel)
     p_list = []
-    p = [novel[0]]
+    p = novel[0]
     for n, line in enumerate(novel):
         if is_end(novel[n-1], line, line_limit):
-
-
-
-
+            p_list.append(p)
+            p= '\n'
+        else:
+            p = p+line
+        p_list.append(p)
+    return p_list
 # Re-pack list of paragraphs into a list of lines, using the given max line length
 def line_get(paragraph, line_length = 150):
     pass
@@ -66,5 +68,9 @@ def reindent_novel(txt_file, line_length = 150):
     novel = novel_get(txt_file)
 
 
-analyze_novel(novel_get('txts/[4]Harry Potter and the Goblet of Fire.txt'))
+paragraphs = paragraph_get(novel_get('txts/[4]Harry Potter and the Goblet of Fire.txt'))
+print(len(paragraphs))
+
+with open('parsed_books/gob.txt', 'w') as manu:
+    manu.writelines(paragraphs)
 # %%
