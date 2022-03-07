@@ -250,7 +250,7 @@ hard. There was a pause, and then the man called Wormtail spoke again.
 "My Lord, may I ask how long we are going to stay here?"
 
                                        6
-"A week," said the cold voice. "Perhaps longer. The place is moderately
+"A week," said the cold voice. "Perhapse longer. The place is moderately comfortable
 comfortable, and the plan cannot proceed yet. It would be foolish to act before the
 Quidditch World Cup is over."
 Frank inserted a gnarled finger into his ear and rotated it. Owing, no doubt, to a
@@ -14053,19 +14053,22 @@ the same moment that a tawny owl landed in front of Hermione, clutching a copy
 of the Daily Prophet in its beak. She took the newspaper, scanned the first few
 pages, said, "Ha! She hasn't got wind of Crouch!" then joined Ron and Harry in
 reading what Sirius had to say on the mysterious events of the night before last.
-Harry - what do you think you are playing at, walking off into the forest with
-Viktor Krum? I want you to swear, by return owl, that you are not going to go
-walking with anyone else at night. There is somebody highly dangerous at
-Hogwarts. It is clear to me that they wanted to stop Crouch from seeing
-Dumbledore and you were probably feet away from them in the dark. You could
-have been killed.
-Your name didn't get into the Goblet of Fire by accident. If someone's trying to
-attack you, they're on their last chance. Stay close to Ron and Hermione, do not
-leave Gryffindor Tower after hours, and arm yourself for the third task. Practice
-Stunning and Disarming. A few hexes wouldn't go amiss either. There's nothing
-you can do about Crouch. Keep your head down and look after yourself. I'm
-waiting for your letter giving me your word you won't stray out-of-bounds again.
-Sirius
+
+    > Harry - what do you think you are playing at, walking off into the forest with
+    Viktor Krum? I want you to swear, by return owl, that you are not going to go
+    walking with anyone else at night. There is somebody highly dangerous at
+    Hogwarts. It is clear to me that they wanted to stop Crouch from seeing
+    Dumbledore and you were probably feet away from them in the dark. You could
+    have been killed.
+    > Your name didn't get into the Goblet of Fire by accident. If someone's trying to
+    attack you, they're on their last chance. Stay close to Ron and Hermione, do not
+    leave Gryffindor Tower after hours, and arm yourself for the third task. Practice
+    Stunning and Disarming. A few hexes wouldn't go amiss either. There's nothing
+    you can do about Crouch. Keep your head down and look after yourself. I'm
+    waiting for your letter giving me your word you won't stray out-of-bounds again.
+
+     - Sirius
+
 "Who's he, to lecture me about being out-of-bounds?" said Harry in mild
 indignation as he folded up Sirius's letter and put it inside his robes. "After all the
 stuff he did at school!"
@@ -14075,10 +14078,9 @@ So listen to them!"
 
                                       370
 "No one's tried to attack me all year," said Harry. "No one's done anything to me
-at
-all-"
+at all-"
 "Except put your name in the Goblet of Fire," said Hermione. "And they must've
-done that for a reason. Harry. Snuffles is right. Maybe they've been biding their
+done that for a reason. Harry; Snuffles is right. Maybe they've been biding their
 time. Maybe this is the task they're going to get you."
 "Look," said Harry impatiently, "let's say Sirius is right, and someone Stunned
 Krum to kidnap Crouch. Well, they would've been in the trees near us, wouldn't
@@ -14124,7 +14126,7 @@ The bell rang. They hastily shoved the cushions back into Flitwicks cupboard and
 slipped out of the classroom.
 "See you at dinner!" said Hermione, and she set off for Arithmancy, while Harry
 and Ron headed toward North Tower, and Divination. Broad strips of dazzling
-gold sunlight tell across the corridor from the high windows. The sky outside was
+gold sunlight fell across the corridor from the high windows. The sky outside was
 so brightly blue it looked as though it had been enameled.
 "It's going to be boiling in Trelawney's room, she never puts out that fire," said
 Ron as they started up the staircase toward the silver ladder and the trapdoor.
@@ -14816,7 +14818,7 @@ in his chair.
 come back to me more clearly than others ... particularly now. ..."
 "You know - you know the trial you found me in? The one with Crouch's son?
 Well....were they talking about Neville's parents?"
-Dumbledore gave Harry a very sharp look. " Has Neville never told you why he
+Dumbledore gave Harry a very sharp look. "Has Neville never told you why he
 has been brought up by his grandmother?" he said.
 
                                        389
@@ -15020,47 +15022,49 @@ table were sniggering, twisting in their seats to see Harry's reaction.
 Very reluctantly, Ron handed over the newspaper. Harry turned it over and found
 himself staring at his own picture, beneath the banner headline:
 "HARRY POTTER "DISTURBED AND DANGEROUS"
-The boy who defeated He-Who-Must-Not-Be-Named is unstable and possibly
-dangerous, writes Rita Skeeter, Special Correspondent. Alarming evidence has
-recently come to light about Harry Potter's strange behavior, which casts doubts
-upon his suitability to compete in a demanding competition like the Triwizard
-Tournament, or even to attend Hogwarts School.
-Potter, the Daily Prophet can exclusively reveal, regularly collapses at school, and
-is often heard to complain of pain in the scar on his forehead (relic of the curse
-with which You-Know-Who attempted to kill him). On Monday last, midway
-through a Divination lesson, your Daily Prophet reporter witnessed Potter
-storming from the class, claiming that his scar was hurting too badly to continue
-studying.
-It is possible, say top experts at St. Mungo's Hospital for Magical Maladies and
-Injuries, that Potters brain was affected by the attack inflicted upon him by You-
-Know-Who, and that his insistence that the scar is still hurting is an expression of
+
+    The boy who defeated He-Who-Must-Not-Be-Named is unstable and possibly
+    dangerous, writes Rita Skeeter, Special Correspondent. Alarming evidence has
+    recently come to light about Harry Potter's strange behavior, which casts doubts
+    upon his suitability to compete in a demanding competition like the Triwizard
+    Tournament, or even to attend Hogwarts School.
+    Potter, the Daily Prophet can exclusively reveal, regularly collapses at school, and
+    is often heard to complain of pain in the scar on his forehead (relic of the curse
+    with which You-Know-Who attempted to kill him). On Monday last, midway
+    through a Divination lesson, your Daily Prophet reporter witnessed Potter
+    storming from the class, claiming that his scar was hurting too badly to continue
+    studying.
+    It is possible, say top experts at St. Mungo's Hospital for Magical Maladies and
+    Injuries, that Potters brain was affected by the attack inflicted upon him by You-
+    Know-Who, and that his insistence that the scar is still hurting is an expression of
 
                                          395
-his deep-seated confusion.
-"He might even be pretending," said one specialist. "This could be a plea for
-attention."
-The Daily Prophet, however, has unearthed worrying facts about Harry Potter that
-Albus Dumbledore, Headmaster of Hogwarts, has carefully concealed from the
-wizarding public.
-"Potter can speak Parseltongue," reveals Draco Malfoy, a Hogwarts fourth year.
-"There were a lot of attacks on students a couple of years ago, and most people
-thought Potter was behind them after they saw him lose his temper at a dueling
-club and set a snake on another boy. It was all hushed up, though. But he's made
-friends with werewolves and giants too. We think he'd do anything for a bit of
-power."
-Parseltongue, the ability to converse with snakes, has long been considered a Dark
-Art. Indeed, the most famous Parselmouth of our times is none other than You-
-Know-Who himself. A member of the Dark Force Defense League, who wished to
-remain unnamed, stated that he would regard any wizard who could speak
-Parseltongue "as worthy of investigation. Personally, I would be highly suspicious
-of anybody who could converse with snakes, as serpents are often used in the
-worst kinds of Dark Magic, and are historically associated with evildoers."
-Similarly, "anyone who seeks out the company of such vicious creatures as
-werewolves and giants would appear to have a fondness for violence."
-Albus Dumbledore should surely consider whether a boy such as this should be
-allowed to compete in the Triwizard Tournament. Some fear that Potter might
-resort to the Dark Arts in his desperation to win the tournament, the third task of
-which takes place this evening.
+    his deep-seated confusion.
+    "He might even be pretending," said one specialist. "This could be a plea for
+    attention."
+    The Daily Prophet, however, has unearthed worrying facts about Harry Potter that
+    Albus Dumbledore, Headmaster of Hogwarts, has carefully concealed from the
+    wizarding public.
+    "Potter can speak Parseltongue," reveals Draco Malfoy, a Hogwarts fourth year.
+    "There were a lot of attacks on students a couple of years ago, and most people
+    thought Potter was behind them after they saw him lose his temper at a dueling
+    club and set a snake on another boy. It was all hushed up, though. But he's made
+    friends with werewolves and giants too. We think he'd do anything for a bit of
+    power."
+    Parseltongue, the ability to converse with snakes, has long been considered a Dark
+    Art. Indeed, the most famous Parselmouth of our times is none other than You-
+    Know-Who himself. A member of the Dark Force Defense League, who wished to
+    remain unnamed, stated that he would regard any wizard who could speak
+    Parseltongue "as worthy of investigation. Personally, I would be highly suspicious
+    of anybody who could converse with snakes, as serpents are often used in the
+    worst kinds of Dark Magic, and are historically associated with evildoers."
+    Similarly, "anyone who seeks out the company of such vicious creatures as
+    werewolves and giants would appear to have a fondness for violence."
+    Albus Dumbledore should surely consider whether a boy such as this should be
+    allowed to compete in the Triwizard Tournament. Some fear that Potter might
+    resort to the Dark Arts in his desperation to win the tournament, the third task of
+    which takes place this evening.
+
 "Gone off me a bit, hasn't she?" said Harry lightly, folding up the paper.
 Over at the Slytherin table, Malfoy, Crabbe, and Goyle were laughing at him,
 tapping their heads with their fingers, pulling grotesquely mad faces, and waggling
@@ -15268,10 +15272,11 @@ Fleur politely, halfway up the stands. He waved up at them, and they waved back,
 beaming at him.
 "So ... on my whistle, Harry and Cedric!" said Bagman. "Three - two - one -"
 He gave a short blast on his whistle, and Harry and Cedric hurried forward into the
+maze.
 
 
                                      401
-maze.
+
 The towering hedges cast black shadows across the path, and, whether because
 they were so tall and thick or because they had been enchanted, the sound of the
 surrounding crowd was silenced the moment they entered the maze. Harry felt
@@ -15328,7 +15333,7 @@ took a right turn, and saw an odd golden mist floating ahead of him.
 Harry approached it cautiously, pointing the wand's beam at it. This looked like
 some kind of enchantment. He wondered whether he might be able to blast it out
 of the way.
-"Reducio!" he said.
+"Reducto!" he said.
 The spell shot straight through the mist, leaving it intact. He supposed he should
 have known better; the Reductor Curse was for solid objects. What would happen
 if he walked through the mist? Was it worth chancing it, or should he double
@@ -15823,7 +15828,7 @@ weeping.
 "It is back," he said softly, "they will all have noticed it... and now, we shall see ...
 now we shall know ..."
 He pressed his long white forefinger to the brand on Wormtail's arm.
-The scar on Harry s forehead seared with a sharp pain again, and Wormtail let out
+The scar on Harry's forehead seared with a sharp pain again, and Wormtail let out
 a fresh howl; Voldemort removed his fingers from Wormtail's mark, and Harry
 saw that it had turned jet black.
 A look of cruel satisfaction on his face, Voldemort straightened up, threw back his
@@ -15856,14 +15861,13 @@ quite sentimental. . . . But look, Harry! My true family returns. . . ."
 The air was suddenly full of the swishing of cloaks. Between graves, behind the
 yew tree, in every shadowy space, wizards were Apparating. All of them were
 hooded and masked. And one by one they moved forward . . . slowly, cautiously,
-as though they could
-hardly believe their eyes Voldemort stood in silence, waiting for them. Then one
-of the Death Eaters fell to his knees, crawled toward Voldemort and kissed the
-hem of his black robes.
+as though they could hardly believe their eyes. Voldemort stood in silence, waiting 
+for them. Then one of the Death Eaters fell to his knees, crawled toward Voldemort
+and kissed the hem of his black robes.
 Master . . . Master " he murmured.
 The Death Eaters behind him did the same; each of them approaching Voldemort
 on his knees and kissing his robes, before backing away and standing up, forming
-a silent circle, which enclosed Tom Riddle s grave, Harry, Voldemort, and the
+a silent circle, which enclosed Tom Riddle's grave, Harry, Voldemort, and the
 sobbing and twitching heap that was Wormtail. Yet they left gaps in the circle, as
 though waiting for more people. Voldemort, however, did not seem to expect
 more. He looked around at the hooded faces, and though there was no wind
@@ -16007,7 +16011,7 @@ unwittingly provided him with a protection I admit I had not foreseen. ... I cou
 not touch the boy."
 Voldemort raised one of his long white fingers and put it very close to Harry's
 cheek.
-"His mother left upon him the traces other sacrifice. . . . This is old magic, I should
+"His mother left upon him the traces of her sacrifice. . . . This is old magic, I should
 have remembered it, I was foolish to overlook it... but no matter. I can touch him
 now."
 Harry felt the cold tip of the long white finger touch him, and thought his head
@@ -16104,7 +16108,7 @@ embrace mortal life again, before chasing immortality. I set my sights lower ...
 would settle for my old body back again, and my old strength.
 "I knew that to achieve this - it is an old piece of Dark Magic, the potion that
 revived me tonight - I would need three powerful ingredients. Well, one of them
-was already at hand, was it not, Wormtail? Flesh given by a servant. . . .
+was already at hand, was it not, Wormtail? Flesh given by a servant. . . ."
 
 
 
@@ -16148,7 +16152,7 @@ to prove my power by killing him, here and now, in front of you all, when there 
 no Dumbledore to help him, and no mother to die for him. I will give him his
 chance. He will be allowed to fight, and you will be left in no doubt which of us is
 the stronger. Just a little longer, Nagini," he whispered, and the snake glided away
-through the grass to where the Death Eaters stood watching.
+through the grass to where the Death Eaters stood watching."
 
 
 
@@ -16597,7 +16601,7 @@ don't you remember? Magical Water Plants of the Mediterranean. It would have
 told you all you needed to know about gillyweed. I expected you to ask everyone
 and anyone you could for help. Longbottom would have told you in an instant. But
 you did not. . . you did not. . . . You have a streak of pride and independence that
-might have ruined all.
+might have ruined all."
 "So what could I do? Feed you information from another innocent source. You
 told me at the Yule Ball a house-elf called Dobby had given you a Christmas
 present. I called the elf to the staffroom to collect some robes for cleaning. I staged
@@ -16610,7 +16614,7 @@ Moodys wand was still pointing directly at Harry's heart. Over his shoulder, fog
 shapes were moving in the Foe-Glass on the wall.
 "You were so long in that lake, Potter, I thought you had drowned. But luckily,
 Dumbledore took your idiocy for nobility, and marked you high for it. I breathed
-again.
+again."
 "You had an easier time of it than you should have in that maze tonight, of
 course," said Moody. "I was patrolling around it, able to see through the outer
 hedges, able to curse many obstacles out of your way. I Stunned Fleur Delacour as
@@ -16626,9 +16630,9 @@ and closer. But Moody wasn't watching them. His magical eye was upon Harry.
 Moody. "Imagine how he will reward me when he finds I have done it for him. I
 gave you to him - the thing he needed above all to regenerate - and then I killed
 you for him. I will be honored beyond all other Death Eaters. I will be his dearest,
-his closest supporter . . . closer than a son. ..."
+his closest supporter . . . closer than a son..."
 Moody's normal eye was bulging, the magical eye fixed upon Harry. The door was
-barred, and Harry knew he would never reach his own wand in time. . . .
+barred, and Harry knew he would never reach his own wand in time...
 "The Dark Lord and I," said Moody, and he looked completely insane now,
 towering over Harry, leering down at him, "have much in common. Both of us, for
 instance, had very disappointing fathers . . . very disappointing indeed. Both of us
@@ -16801,7 +16805,7 @@ to tell them, we is getting in trouble. ..."
 "Did anybody ever discover that you were still alive?" said Dumbledore softly.
 "Did anyone know except your father and the house-elf?"
 "Yes," said Crouch, his eyelids flickering again. "A witch in my father's office.
-Bertha Jorkins. She came to the house with papers for my father s signature. He
+Bertha Jorkins. She came to the house with papers for my father's signature. He
 was not at home. Winky showed her inside and returned to the kitchen, to me. But
 Bertha Jorkins heard Winky talking to me. She came to investigate. She heard
 enough to guess who was hiding under the Invisibility Cloak. My father arrived
@@ -16951,7 +16955,6 @@ Barty Crouch. "Turned it into a Portkey. My master's plan worked. He is returned
 to power and I will be honored by him beyond the dreams of wizards."
 The insane smile lit his features once more, and his head drooped onto his
 shoulder as Winky wailed and sobbed at his side.
-
 
 
 

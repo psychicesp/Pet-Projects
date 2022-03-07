@@ -69,8 +69,5 @@ def reindent_novel(txt_file, line_length = 150):
 
 
 paragraphs = paragraph_get(novel_get('txts/[4]Harry Potter and the Goblet of Fire.txt'))
-print(len(paragraphs))
 
-with open('parsed_books/gob.txt', 'w') as manu:
-    manu.writelines(paragraphs)
 # %%
