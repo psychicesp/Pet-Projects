@@ -72,5 +72,10 @@ feeding_df['Nursing Day Total'] = feeding_df['Day'].apply(lambda x: feeding_aver
 feeding_df = feeding_df[feeding_df['Bottle Day Total'] > 10]
 feeding_df = feeding_df[feeding_df['Nursing Day Total'] == 0]
 feeding_df['controlled feed'] = feeding_df['Bottle']/feeding_df['Bottle Day Total']
-feeding_df[['controlled feed', 'Timeslot']].groupby('Timeslot').mean().plot(ylim = (0, 0.18))
+feeding_means = feeding_df[['controlled feed', 'Timeslot']].groupby('Timeslot').mean()
+relevant_day_total = bottle_df[bottle_df['Day'] == bottle_df['Day'].max()-1]['Bottle'].sum()
+feeding_means['corrected volume'] = feeding_means['controlled feed'] * relevant_day_total
+y_min = feeding_means['corrected volume'].min()*0.95
+y_max = feeding_means['corrected volume'].max()*1.05
+feeding_means[['corrected volume', 'Timeslot']].plot(ylim = (y_min, y_max))
 # %%
