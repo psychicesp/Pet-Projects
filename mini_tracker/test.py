@@ -10,7 +10,7 @@ numberizer = lambda x: float(x.split(' ')[0])
 
 def get_timeslot(fed_time, sensitivity = 90):
     today = dt.today()
-    time_list = ['02:30', '07:00', '10:00', '13:00', '16:00', '19:00', '22:30']
+    time_list = ['02:30', '07:00', '10:00', '13:00', '16:00', '19:00', '22:00']
     # time_list_dt = [dt.strptime(x+':00', '%X').time() for x in time_list_str]
     for time_str in time_list:
         time_slot = dt.strptime(time_str+':00', '%X').time()
@@ -72,10 +72,13 @@ feeding_df['Nursing Day Total'] = feeding_df['Day'].apply(lambda x: feeding_aver
 feeding_df = feeding_df[feeding_df['Bottle Day Total'] > 10]
 feeding_df = feeding_df[feeding_df['Nursing Day Total'] == 0]
 feeding_df['controlled feed'] = feeding_df['Bottle']/feeding_df['Bottle Day Total']
-feeding_means = feeding_df[['controlled feed', 'Timeslot']].groupby('Timeslot').mean()
+feeding_means = feeding_df[['controlled feed', 'Timeslot']].groupby('Timeslot').mean().reset_index()
 relevant_day_total = bottle_df[bottle_df['Day'] == bottle_df['Day'].max()-1]['Bottle'].sum()
 feeding_means['corrected volume'] = feeding_means['controlled feed'] * relevant_day_total
+
+
+
 y_min = feeding_means['corrected volume'].min()*0.95
 y_max = feeding_means['corrected volume'].max()*1.05
-feeding_means[['corrected volume', 'Timeslot']].plot(ylim = (y_min, y_max))
+feeding_means[['corrected volume', 'Timeslot']].set_index('Timeslot').plot.bar(ylim = (y_min, y_max))
 # %%
