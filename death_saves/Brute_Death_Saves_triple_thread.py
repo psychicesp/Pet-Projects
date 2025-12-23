@@ -168,7 +168,7 @@ def throw_saves(num):
         df_output['Feller_Bounced']= [feller['bounce']]
         df_output['Brute_Survived']= [brute['survive']]
         df_output['Brute_Bounced']= [brute['bounce']]
-        df_output['simulator_type']= ["Multi Thread"]
+        df_output['simulator_type']= ["Triple Thread"]
         df_output['run_time_seconds'] = [run_time]
         df_output['computer_name'] = [platform.node()]
         df_output['processor'] = [platform.processor()]
